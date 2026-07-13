@@ -14,26 +14,17 @@
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,900;1,9..144,500&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#F5EFE3;
-    --paper-dim:rgba(245,239,227,.62);
-    --paper-faint:rgba(245,239,227,.20);
-    --books-bg:#22245C;      --books-acc:#F2B705;
-    --science-bg:#0C5449;    --science-acc:#6FE3C4;
-    --history-bg:#5E1F2E;    --history-acc:#E8A15C;
-    --geography-bg:#2F4A2E;  --geography-acc:#CFE06A;
+    --paper:#F5EFE3;--paper-dim:rgba(245,239,227,.62);--paper-faint:rgba(245,239,227,.20);
+    --books-bg:#22245C;--books-acc:#F2B705;--science-bg:#0C5449;--science-acc:#6FE3C4;
+    --history-bg:#5E1F2E;--history-acc:#E8A15C;--geography-bg:#2F4A2E;--geography-acc:#CFE06A;
   }
   *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
   html,body{height:100%}
-  body{
-    background:radial-gradient(120% 90% at 50% 0%,#1c1c22 0%,#0c0c0f 70%);
-    font-family:'Inter',system-ui,sans-serif;
-    display:flex;align-items:center;justify-content:center;min-height:100dvh;color:var(--paper);
-  }
-  .device{
-    position:relative;width:100%;max-width:452px;height:100dvh;max-height:940px;overflow:hidden;background:#000;
-    border-radius:34px;box-shadow:0 30px 80px -20px rgba(0,0,0,.8),0 0 0 1px rgba(255,255,255,.04);
-  }
-  @media (max-width:480px){ .device{max-height:none;border-radius:0;box-shadow:none} body{background:#000} }
+  body{background:radial-gradient(120% 90% at 50% 0%,#1c1c22 0%,#0c0c0f 70%);
+    font-family:'Inter',system-ui,sans-serif;display:flex;align-items:center;justify-content:center;min-height:100dvh;color:var(--paper)}
+  .device{position:relative;width:100%;max-width:452px;height:100dvh;max-height:940px;overflow:hidden;background:#000;
+    border-radius:34px;box-shadow:0 30px 80px -20px rgba(0,0,0,.8),0 0 0 1px rgba(255,255,255,.04)}
+  @media (max-width:480px){.device{max-height:none;border-radius:0;box-shadow:none}body{background:#000}}
 
   .top{position:absolute;top:0;left:0;right:0;z-index:20;padding:14px 16px 22px;
     background:linear-gradient(180deg,rgba(0,0,0,.6),rgba(0,0,0,0));pointer-events:none}
@@ -73,42 +64,40 @@
   .source{flex:1;font-family:'Space Mono',monospace;font-size:11px;line-height:1.45;color:var(--paper-dim)}
   .source b{color:var(--paper);font-weight:700;letter-spacing:.5px}
   .source a{color:var(--acc);text-decoration:none;border-bottom:1px dotted currentColor}
-  .source .verified{color:var(--acc)}
 
   .actions{display:flex;flex-direction:column;gap:14px;align-items:center}
   .act{background:none;border:none;color:var(--paper);cursor:pointer;display:flex;flex-direction:column;
     align-items:center;gap:3px;font-family:'Space Mono',monospace;font-size:10px;opacity:.85;transition:.15s}
   .act:hover{opacity:1}
   .act svg{width:26px;height:26px;stroke:currentColor;stroke-width:1.8;fill:none;transition:.15s}
-  .act.on{color:var(--acc)}
-  .act.on svg{fill:var(--acc);stroke:var(--acc)}
+  .act.on{color:var(--acc)}.act.on svg{fill:var(--acc);stroke:var(--acc)}
 
+  /* native video card */
   .card.video{padding:96px 20px 26px}
-  .card.video .ytwrap{position:absolute;inset:0;z-index:0;background:#000}
-  .card.video .thumb{position:absolute;inset:0;background-size:cover;background-position:center;transform:scale(1.02)}
-  .card.video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+  .card.video .vid{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;background:#000}
   .card.video::after{content:'';position:absolute;inset:0;z-index:1;
-    background:linear-gradient(180deg,rgba(0,0,0,.55) 0%,rgba(0,0,0,.05) 26%,rgba(0,0,0,.1) 52%,rgba(0,0,0,.88) 100%)}
-  .card.video.playing::after{display:none}
-  .card.video.playing .vmeta,.card.video.playing .foot,.card.video.playing .playbtn{opacity:0;pointer-events:none}
-  .playbtn{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:3;width:74px;height:74px;
-    border-radius:50%;border:1.5px solid rgba(245,239,227,.85);background:rgba(0,0,0,.3);backdrop-filter:blur(3px);
-    cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.2s}
-  .playbtn:hover{background:var(--acc);border-color:var(--acc);transform:translate(-50%,-50%) scale(1.06)}
-  .playbtn svg{width:26px;height:26px;fill:var(--paper);margin-left:4px}
-  .playbtn:hover svg{fill:#111}
+    background:linear-gradient(180deg,rgba(0,0,0,.55) 0%,rgba(0,0,0,.05) 24%,rgba(0,0,0,.12) 50%,rgba(0,0,0,.9) 100%)}
+  .playglyph{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:3;width:70px;height:70px;
+    border-radius:50%;border:1.5px solid rgba(245,239,227,.85);background:rgba(0,0,0,.28);display:flex;align-items:center;
+    justify-content:center;opacity:0;transition:opacity .2s;pointer-events:none}
+  .card.video.paused .playglyph{opacity:1}
+  .playglyph svg{width:24px;height:24px;fill:var(--paper);margin-left:3px}
+  .mutebtn{position:absolute;top:98px;right:18px;z-index:15;width:42px;height:42px;border-radius:50%;
+    border:1px solid rgba(245,239,227,.3);background:rgba(0,0,0,.35);backdrop-filter:blur(6px);color:var(--paper);
+    cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.15s}
+  .mutebtn:hover{background:rgba(0,0,0,.55)}
+  .mutebtn svg{width:20px;height:20px;fill:currentColor}
   .vmeta{position:relative;z-index:3;margin-top:auto}
   .vmeta .ttl{font-family:'Fraunces',serif;font-weight:600;font-size:clamp(24px,6vw,30px);line-height:1.08;letter-spacing:-.4px}
   .vmeta .chan{margin-top:8px;font-family:'Space Mono',monospace;font-size:12px;color:var(--paper);display:inline-flex;align-items:center;gap:7px}
-  .vmeta .chan .short{background:var(--acc);color:#111;font-weight:700;padding:1px 6px;border-radius:4px;font-size:10px;letter-spacing:1px}
+  .vmeta .chan .lc{background:var(--acc);color:#111;font-weight:700;padding:1px 6px;border-radius:4px;font-size:10px;letter-spacing:.5px}
 
   .install{position:absolute;bottom:16px;left:16px;right:16px;z-index:30;display:flex;align-items:center;gap:11px;
     padding:11px 14px;border-radius:16px;background:rgba(255,255,255,.09);backdrop-filter:blur(14px);
     border:1px solid rgba(255,255,255,.12);font-size:12.5px;line-height:1.35;transition:.3s}
   .install.gone{opacity:0;transform:translateY(16px);pointer-events:none}
   .install svg{width:20px;height:20px;flex:0 0 auto;stroke:var(--paper);stroke-width:1.7;fill:none}
-  .install b{font-weight:600}
-  .install .x{margin-left:auto;cursor:pointer;color:var(--paper-dim);font-size:18px;padding:2px 4px}
+  .install b{font-weight:600}.install .x{margin-left:auto;cursor:pointer;color:var(--paper-dim);font-size:18px;padding:2px 4px}
 
   .swipe{position:absolute;bottom:78px;left:50%;transform:translateX(-50%);z-index:25;font-family:'Space Mono',monospace;
     font-size:10px;letter-spacing:1.5px;color:var(--paper-dim);text-transform:uppercase;display:flex;flex-direction:column;
@@ -139,26 +128,30 @@
 </div>
 
 <script>
-const LABEL = {books:'Books', science:'Science', history:'History', geography:'Geography'};
-const GHOST = {books:'&para;', science:'&#8767;', history:'H', geography:'&#8853;'};
+const LABEL={books:'Books',science:'Science',history:'History',geography:'Geography'};
+const GHOST={books:'&para;',science:'&#8767;',history:'H',geography:'&#8853;'};
 
-// Fallback content — shown if content.json isn't there yet (e.g. opened directly).
+// Fallback content (real, ad-free NASA clips on Wikimedia + fact cards).
 // Once deployed, the fetch job replaces this with fresh, auto-updated content.
-const SAMPLE = [
+const SAMPLE=[
   { type:'card', cat:'history',
     opener:'Let this one mess with your sense of time —',
     hook:'Cleopatra lived closer to the Moon landing than to the pyramids.',
     body:'The Great Pyramid went up around 2560 BC. Cleopatra ruled around 30 BC — about 2,500 years later. From her to 1969 is only ~2,000. She was practically modern.',
     src:'History chronologies' },
-  { type:'video', cat:'science', id:'Q10_srZ-pbs',
-    ttl:'The strange physics principle that shapes reality', chan:'Veritasium', src:'Veritasium (YouTube)' },
+  { type:'video', cat:'science',
+    src_url:'https://commons.wikimedia.org/wiki/Special:FilePath/Active_Sun_in_3-D.webm',
+    ttl:'The Sun, churning in three dimensions', chan:'NASA · public domain',
+    src:'PD NASA · Wikimedia', url:'https://commons.wikimedia.org/wiki/File:Active_Sun_in_3-D.webm' },
   { type:'card', cat:'science',
     opener:'Nature really said &ldquo;let&rsquo;s overengineer this&rdquo; —',
     hook:'An octopus has three hearts and blue blood.',
     body:'Two hearts push blood to the gills, one to the body. The blood runs blue because it moves oxygen with copper instead of the iron in ours. Basically an alien that happens to live here.',
     src:'Cephalopod biology' },
-  { type:'video', cat:'geography', id:'PrJSdYCkoWk',
-    ttl:'The world&rsquo;s strangest borders: enclaves &amp; exclaves', chan:'RealLifeLore', src:'RealLifeLore (YouTube)' },
+  { type:'video', cat:'geography',
+    src_url:'https://commons.wikimedia.org/wiki/Special:FilePath/Animation_of_Rotating_Earth_at_Night.webm',
+    ttl:'Earth at night, every city glowing', chan:'NASA · public domain',
+    src:'PD NASA · Wikimedia', url:'https://commons.wikimedia.org/wiki/File:Animation_of_Rotating_Earth_at_Night.webm' },
   { type:'card', cat:'geography',
     opener:'Okay, stand Everest somewhere in your head —',
     hook:'The Mariana Trench is deeper than Everest is tall.',
@@ -169,20 +162,15 @@ const SAMPLE = [
     hook:'Calvino wrote a novel where you are the main character.',
     body:'&ldquo;If on a winter&rsquo;s night a traveller&rdquo; (1979) starts ten times. Every chapter opens a story that gets cut off, and the real plot is you chasing the ending. It shouldn&rsquo;t work. It absolutely does.',
     src:'I. Calvino, 1979' },
-  { type:'video', cat:'science', id:'mScpHTIi-kM',
-    ttl:'The game theory problem that changes how you see the world', chan:'Veritasium', src:'Veritasium (YouTube)' },
+  { type:'video', cat:'science',
+    src_url:'https://commons.wikimedia.org/wiki/Special:FilePath/A_Year_of_Global_Carbon_Dioxide_Measurements.webm',
+    ttl:'A year of the planet breathing CO₂', chan:'NASA · public domain',
+    src:'PD NASA · Wikimedia', url:'https://commons.wikimedia.org/wiki/File:A_Year_of_Global_Carbon_Dioxide_Measurements.webm' },
   { type:'card', cat:'history',
     opener:'Older-than-you-think, part one —',
     hook:'Oxford was already teaching before the Aztec Empire existed.',
     body:'Lectures were happening at Oxford by ~1096. Tenochtitlan was founded in 1325, the empire in 1428. By then Oxford had three centuries on the clock.',
     src:'Medieval history' },
-  { type:'video', cat:'geography', id:'63xqKDe3JTU',
-    ttl:'The world&rsquo;s strangest borders: divided islands', chan:'RealLifeLore', src:'RealLifeLore (YouTube)' },
-  { type:'card', cat:'science',
-    opener:'Try to actually picture the weight here —',
-    hook:'A teaspoon of a neutron star weighs about as much as a mountain.',
-    body:'When a giant star collapses, its matter gets crushed until protons and electrons fuse into neutrons packed unbelievably tight. Scoop out a spoonful and you&rsquo;d be holding billions of tonnes.',
-    src:'Astrophysics' },
   { type:'card', cat:'geography',
     opener:'&ldquo;Big&rdquo; is one word. This is another —',
     hook:'You can cross 11 time zones without leaving Russia.',
@@ -195,35 +183,32 @@ const SAMPLE = [
     src:'M. de Cervantes, 1605' },
 ];
 
-const feed = document.getElementById('feed');
+const feed=document.getElementById('feed');
+const ICON_ON='<svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3a4.5 4.5 0 00-2.5-4v8a4.5 4.5 0 002.5-4zM14 3.2v2.1a7 7 0 010 13.4v2.1a9 9 0 000-17.6z"/></svg>';
+const ICON_OFF='<svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3z"/><path d="M16 8l5 5m0-5l-5 5" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>';
+let soundOn=false;
 
-const actionsHTML = `
+const actionsHTML=`
   <div class="actions">
-    <button class="act like" aria-label="like">
-      <svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-9.2-8.5C1.3 8.6 3 5.5 6 5.5c1.9 0 3.1 1.1 4 2.3.9-1.2 2.1-2.3 4-2.3 3 0 4.7 3.1 3.2 6C19 15.6 12 20 12 20z"/></svg>
-      <span>like</span></button>
-    <button class="act save" aria-label="save">
-      <svg viewBox="0 0 24 24"><path d="M6 4h12v16l-6-4-6 4z"/></svg>
-      <span>save</span></button>
+    <button class="act like" aria-label="like"><svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-9.2-8.5C1.3 8.6 3 5.5 6 5.5c1.9 0 3.1 1.1 4 2.3.9-1.2 2.1-2.3 4-2.3 3 0 4.7 3.1 3.2 6C19 15.6 12 20 12 20z"/></svg><span>like</span></button>
+    <button class="act save" aria-label="save"><svg viewBox="0 0 24 24"><path d="M6 4h12v16l-6-4-6 4z"/></svg><span>save</span></button>
   </div>`;
 
-function shuffle(a){ for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
 
 function render(list){
-  const total = list.length;
-  feed.innerHTML = '';
+  const total=list.length; feed.innerHTML='';
   list.forEach((it,i)=>{
-    const el = document.createElement('article');
-    el.dataset.cat = it.cat;
-    el.style.setProperty('--bg', `var(--${it.cat}-bg)`);
-    el.style.setProperty('--acc', `var(--${it.cat}-acc)`);
-    const count = `${String(i+1).padStart(2,'0')} / ${String(total).padStart(2,'0')}`;
-    const eyebrow = `<div class="eyebrow"><span class="dot"></span>${LABEL[it.cat]||it.cat}<span class="count">${count}</span></div>`;
-
+    const el=document.createElement('article');
+    el.dataset.cat=it.cat;
+    el.style.setProperty('--bg',`var(--${it.cat}-bg)`);
+    el.style.setProperty('--acc',`var(--${it.cat}-acc)`);
+    const count=`${String(i+1).padStart(2,'0')} / ${String(total).padStart(2,'0')}`;
+    const eyebrow=`<div class="eyebrow"><span class="dot"></span>${LABEL[it.cat]||it.cat}<span class="count">${count}</span></div>`;
     if(it.type==='card'){
       el.className='card';
-      const srcInner = it.url ? `<a href="${it.url}" target="_blank" rel="noopener">${it.src}</a>` : it.src;
-      el.innerHTML = `
+      const src=it.url?`<a href="${it.url}" target="_blank" rel="noopener">${it.src}</a>`:it.src;
+      el.innerHTML=`
         <div class="ghost">${GHOST[it.cat]||''}</div>
         ${eyebrow}
         <div class="stack">
@@ -231,68 +216,76 @@ function render(list){
           <h2 class="hook">${it.hook}</h2>
           ${it.body?`<p class="body">${it.body}</p>`:''}
         </div>
-        <div class="foot">
-          <div class="source"><b>Source</b> · ${srcInner}</div>
-          ${actionsHTML}
-        </div>`;
+        <div class="foot"><div class="source"><b>Source</b> · ${src}</div>${actionsHTML}</div>`;
     } else {
-      el.className='card video';
-      el.innerHTML = `
-        <div class="ytwrap"><div class="thumb" style="background-image:url(https://img.youtube.com/vi/${it.id}/hqdefault.jpg)"></div></div>
+      el.className='card video paused';
+      const src=it.url?`<a href="${it.url}" target="_blank" rel="noopener">${it.src}</a>`:it.src;
+      el.innerHTML=`
+        <video class="vid" src="${it.src_url}" ${it.poster?`poster="${it.poster}"`:''} loop muted playsinline preload="none"></video>
         ${eyebrow}
-        <button class="playbtn" data-yt="${it.id}" aria-label="play"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button>
-        <div class="vmeta">
-          <div class="ttl">${it.ttl}</div>
-          <div class="chan"><span class="short">▶ SHORT</span>${it.chan}</div>
-        </div>
-        <div class="foot">
-          <div class="source"><b>Source</b> · ${it.src}</div>
-          ${actionsHTML}
-        </div>`;
+        <button class="mutebtn" aria-label="sound">${soundOn?ICON_ON:ICON_OFF}</button>
+        <div class="playglyph"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+        <div class="vmeta"><div class="ttl">${it.ttl}</div><div class="chan"><span class="lc">CLIP</span>${it.chan||'Wikimedia'}</div></div>
+        <div class="foot"><div class="source"><b>Source</b> · ${src}</div>${actionsHTML}</div>`;
+      const v=el.querySelector('video');
+      v.addEventListener('play',()=>el.classList.remove('paused'));
+      v.addEventListener('pause',()=>el.classList.add('paused'));
     }
     feed.appendChild(el);
   });
+  setupObserver();
 }
 
-feed.addEventListener('click', e=>{
-  const play = e.target.closest('.playbtn');
-  if(play){
-    const card = play.closest('.card.video');
-    card.querySelector('.ytwrap').innerHTML =
-      `<iframe src="https://www.youtube.com/embed/${play.dataset.yt}?autoplay=1&rel=0&playsinline=1" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>`;
-    card.classList.add('playing');
-    return;
-  }
-  const b = e.target.closest('.act');
-  if(b) b.classList.toggle('on');
+function applySound(){
+  document.querySelectorAll('.card video').forEach(v=>v.muted=!soundOn);
+  document.querySelectorAll('.mutebtn').forEach(b=>b.innerHTML=soundOn?ICON_ON:ICON_OFF);
+}
+
+feed.addEventListener('click',e=>{
+  const mb=e.target.closest('.mutebtn');
+  if(mb){ soundOn=!soundOn; applySound();
+    const v=mb.closest('.card.video').querySelector('video');
+    if(v){v.muted=!soundOn; v.play().catch(()=>{});}
+    return; }
+  const vid=e.target.closest('.vid');
+  if(vid){ vid.paused?vid.play().catch(()=>{}):vid.pause(); return; }
+  const act=e.target.closest('.act'); if(act) act.classList.toggle('on');
 });
 
-document.getElementById('filters').addEventListener('click', e=>{
-  const p = e.target.closest('.pill'); if(!p) return;
+// Pause any video that scrolls out of view — this is what stops the audio.
+let io;
+function setupObserver(){
+  if(io) io.disconnect();
+  io=new IntersectionObserver(entries=>{
+    entries.forEach(en=>{
+      const v=en.target.querySelector('video'); if(!v) return;
+      if(en.isIntersecting && en.intersectionRatio>=0.6){ v.muted=!soundOn; v.play().catch(()=>{}); }
+      else { v.pause(); }
+    });
+  },{root:feed,threshold:[0,0.6,1]});
+  document.querySelectorAll('.card.video').forEach(c=>io.observe(c));
+}
+
+document.getElementById('filters').addEventListener('click',e=>{
+  const p=e.target.closest('.pill'); if(!p) return;
   document.querySelectorAll('.pill').forEach(x=>x.classList.remove('on'));
   p.classList.add('on');
-  const cat = p.dataset.cat;
-  document.querySelectorAll('.card').forEach(c=>{
-    c.classList.toggle('hide', cat!=='all' && c.dataset.cat!==cat);
-  });
+  const cat=p.dataset.cat;
+  document.querySelectorAll('.card').forEach(c=>c.classList.toggle('hide',cat!=='all'&&c.dataset.cat!==cat));
   feed.scrollTo({top:0});
 });
 
-const swipe = document.getElementById('swipe');
-feed.addEventListener('scroll', ()=>{ if(feed.scrollTop>40) swipe.classList.add('gone'); }, {passive:true});
-document.getElementById('closeInstall').addEventListener('click', ()=>document.getElementById('install').classList.add('gone'));
-setTimeout(()=>document.getElementById('install').classList.add('gone'), 9000);
+const swipe=document.getElementById('swipe');
+feed.addEventListener('scroll',()=>{if(feed.scrollTop>40)swipe.classList.add('gone');},{passive:true});
+document.getElementById('closeInstall').addEventListener('click',()=>document.getElementById('install').classList.add('gone'));
+setTimeout(()=>document.getElementById('install').classList.add('gone'),9000);
 
-// Load fresh content if available, otherwise use the built-in sample.
-(async ()=>{
-  let items = SAMPLE;
+(async()=>{
+  let items=SAMPLE;
   try{
-    const res = await fetch('content.json', {cache:'no-store'});
-    if(res.ok){
-      const data = await res.json();
-      if(data.items && data.items.length) items = data.items;
-    }
-  }catch(e){ /* offline or file:// — sample is fine */ }
+    const res=await fetch('content.json',{cache:'no-store'});
+    if(res.ok){const data=await res.json(); if(data.items&&data.items.length) items=data.items;}
+  }catch(e){}
   render(shuffle(items.slice()));
 })();
 </script>
