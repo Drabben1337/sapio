@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Sàpio — a feed to get smarter</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#22245C">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,900;1,9..144,500&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#F5EFE3;
+    --paper-dim:rgba(245,239,227,.62);
+    --paper-faint:rgba(245,239,227,.20);
+    --books-bg:#22245C;      --books-acc:#F2B705;
+    --science-bg:#0C5449;    --science-acc:#6FE3C4;
+    --history-bg:#5E1F2E;    --history-acc:#E8A15C;
+    --geography-bg:#2F4A2E;  --geography-acc:#CFE06A;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+  html,body{height:100%}
+  body{
+    background:radial-gradient(120% 90% at 50% 0%,#1c1c22 0%,#0c0c0f 70%);
+    font-family:'Inter',system-ui,sans-serif;
+    display:flex;align-items:center;justify-content:center;min-height:100dvh;color:var(--paper);
+  }
+  .device{
+    position:relative;width:100%;max-width:452px;height:100dvh;max-height:940px;overflow:hidden;background:#000;
+    border-radius:34px;box-shadow:0 30px 80px -20px rgba(0,0,0,.8),0 0 0 1px rgba(255,255,255,.04);
+  }
+  @media (max-width:480px){ .device{max-height:none;border-radius:0;box-shadow:none} body{background:#000} }
+
+  .top{position:absolute;top:0;left:0;right:0;z-index:20;padding:14px 16px 22px;
+    background:linear-gradient(180deg,rgba(0,0,0,.6),rgba(0,0,0,0));pointer-events:none}
+  .brand{display:flex;align-items:baseline;gap:9px;pointer-events:auto}
+  .brand h1{font-family:'Fraunces',serif;font-weight:900;font-size:23px;letter-spacing:-.5px;line-height:1}
+  .brand .tag{font-family:'Space Mono',monospace;font-size:9.5px;letter-spacing:1.5px;text-transform:uppercase;color:var(--paper-dim)}
+  .filters{display:flex;gap:7px;margin-top:13px;overflow-x:auto;scrollbar-width:none;pointer-events:auto}
+  .filters::-webkit-scrollbar{display:none}
+  .pill{flex:0 0 auto;font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.5px;padding:6px 13px;
+    border-radius:100px;border:1px solid var(--paper-faint);background:rgba(0,0,0,.3);color:var(--paper-dim);
+    cursor:pointer;backdrop-filter:blur(6px);transition:.18s}
+  .pill:hover{color:var(--paper)}
+  .pill.on{background:var(--paper);color:#111;border-color:var(--paper);font-weight:700}
+
+  .feed{height:100%;overflow-y:scroll;scroll-snap-type:y mandatory;scroll-behavior:smooth;scrollbar-width:none}
+  .feed::-webkit-scrollbar{display:none}
+
+  .card{position:relative;height:100%;scroll-snap-align:start;scroll-snap-stop:always;
+    padding:96px 26px 30px;display:flex;flex-direction:column;background:var(--bg);overflow:hidden}
+  .card.hide{display:none}
+  .card .ghost{position:absolute;right:-14px;bottom:34px;font-family:'Fraunces',serif;font-weight:900;
+    font-size:150px;line-height:.8;color:#fff;opacity:.045;pointer-events:none;user-select:none;letter-spacing:-4px}
+
+  .eyebrow{position:relative;z-index:3;display:flex;align-items:center;gap:10px;font-family:'Space Mono',monospace;
+    font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--acc)}
+  .eyebrow .dot{width:7px;height:7px;border-radius:50%;background:var(--acc)}
+  .eyebrow .count{margin-left:auto;color:var(--paper-dim);letter-spacing:1px}
+
+  .stack{position:relative;z-index:3;margin-top:auto}
+  .opener{font-family:'Fraunces',serif;font-style:italic;font-weight:500;font-size:16px;line-height:1.3;
+    color:var(--acc);margin-bottom:12px;max-width:32ch}
+  .hook{font-family:'Fraunces',serif;font-weight:600;font-size:clamp(29px,7vw,38px);line-height:1.05;
+    letter-spacing:-.6px;text-wrap:balance}
+  .body{font-size:15.5px;line-height:1.5;color:var(--paper-dim);margin-top:16px;max-width:34ch}
+
+  .foot{position:relative;z-index:3;margin-top:22px;display:flex;align-items:flex-end;gap:14px}
+  .source{flex:1;font-family:'Space Mono',monospace;font-size:11px;line-height:1.45;color:var(--paper-dim)}
+  .source b{color:var(--paper);font-weight:700;letter-spacing:.5px}
+  .source a{color:var(--acc);text-decoration:none;border-bottom:1px dotted currentColor}
+  .source .verified{color:var(--acc)}
+
+  .actions{display:flex;flex-direction:column;gap:14px;align-items:center}
+  .act{background:none;border:none;color:var(--paper);cursor:pointer;display:flex;flex-direction:column;
+    align-items:center;gap:3px;font-family:'Space Mono',monospace;font-size:10px;opacity:.85;transition:.15s}
+  .act:hover{opacity:1}
+  .act svg{width:26px;height:26px;stroke:currentColor;stroke-width:1.8;fill:none;transition:.15s}
+  .act.on{color:var(--acc)}
+  .act.on svg{fill:var(--acc);stroke:var(--acc)}
+
+  .card.video{padding:96px 20px 26px}
+  .card.video .ytwrap{position:absolute;inset:0;z-index:0;background:#000}
+  .card.video .thumb{position:absolute;inset:0;background-size:cover;background-position:center;transform:scale(1.02)}
+  .card.video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+  .card.video::after{content:'';position:absolute;inset:0;z-index:1;
+    background:linear-gradient(180deg,rgba(0,0,0,.55) 0%,rgba(0,0,0,.05) 26%,rgba(0,0,0,.1) 52%,rgba(0,0,0,.88) 100%)}
+  .card.video.playing::after{display:none}
+  .card.video.playing .vmeta,.card.video.playing .foot,.card.video.playing .playbtn{opacity:0;pointer-events:none}
+  .playbtn{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:3;width:74px;height:74px;
+    border-radius:50%;border:1.5px solid rgba(245,239,227,.85);background:rgba(0,0,0,.3);backdrop-filter:blur(3px);
+    cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.2s}
+  .playbtn:hover{background:var(--acc);border-color:var(--acc);transform:translate(-50%,-50%) scale(1.06)}
+  .playbtn svg{width:26px;height:26px;fill:var(--paper);margin-left:4px}
+  .playbtn:hover svg{fill:#111}
+  .vmeta{position:relative;z-index:3;margin-top:auto}
+  .vmeta .ttl{font-family:'Fraunces',serif;font-weight:600;font-size:clamp(24px,6vw,30px);line-height:1.08;letter-spacing:-.4px}
+  .vmeta .chan{margin-top:8px;font-family:'Space Mono',monospace;font-size:12px;color:var(--paper);display:inline-flex;align-items:center;gap:7px}
+  .vmeta .chan .short{background:var(--acc);color:#111;font-weight:700;padding:1px 6px;border-radius:4px;font-size:10px;letter-spacing:1px}
+
+  .install{position:absolute;bottom:16px;left:16px;right:16px;z-index:30;display:flex;align-items:center;gap:11px;
+    padding:11px 14px;border-radius:16px;background:rgba(255,255,255,.09);backdrop-filter:blur(14px);
+    border:1px solid rgba(255,255,255,.12);font-size:12.5px;line-height:1.35;transition:.3s}
+  .install.gone{opacity:0;transform:translateY(16px);pointer-events:none}
+  .install svg{width:20px;height:20px;flex:0 0 auto;stroke:var(--paper);stroke-width:1.7;fill:none}
+  .install b{font-weight:600}
+  .install .x{margin-left:auto;cursor:pointer;color:var(--paper-dim);font-size:18px;padding:2px 4px}
+
+  .swipe{position:absolute;bottom:78px;left:50%;transform:translateX(-50%);z-index:25;font-family:'Space Mono',monospace;
+    font-size:10px;letter-spacing:1.5px;color:var(--paper-dim);text-transform:uppercase;display:flex;flex-direction:column;
+    align-items:center;gap:4px;animation:bob 1.6s ease-in-out infinite;transition:opacity .4s}
+  .swipe.gone{opacity:0}
+  @keyframes bob{0%,100%{transform:translateX(-50%) translateY(0)}50%{transform:translateX(-50%) translateY(6px)}}
+</style>
+</head>
+<body>
+<div class="device">
+  <div class="top">
+    <div class="brand"><h1>Sàpio</h1><span class="tag">no brainrot</span></div>
+    <div class="filters" id="filters">
+      <button class="pill on" data-cat="all">all</button>
+      <button class="pill" data-cat="books">books</button>
+      <button class="pill" data-cat="science">science</button>
+      <button class="pill" data-cat="history">history</button>
+      <button class="pill" data-cat="geography">geography</button>
+    </div>
+  </div>
+  <div class="feed" id="feed"></div>
+  <div class="swipe" id="swipe"><span>scroll</span><span>&#8964;</span></div>
+  <div class="install" id="install">
+    <svg viewBox="0 0 24 24"><path d="M12 3v12m0 0l-4-4m4 4l4-4M5 21h14"/></svg>
+    <span><b>Put it on your phone:</b> Share &rarr; &ldquo;Add to Home Screen.&rdquo;</span>
+    <span class="x" id="closeInstall">&times;</span>
+  </div>
+</div>
+
+<script>
+const LABEL = {books:'Books', science:'Science', history:'History', geography:'Geography'};
+const GHOST = {books:'&para;', science:'&#8767;', history:'H', geography:'&#8853;'};
+
+// Fallback content — shown if content.json isn't there yet (e.g. opened directly).
+// Once deployed, the fetch job replaces this with fresh, auto-updated content.
+const SAMPLE = [
+  { type:'card', cat:'history',
+    opener:'Let this one mess with your sense of time —',
+    hook:'Cleopatra lived closer to the Moon landing than to the pyramids.',
+    body:'The Great Pyramid went up around 2560 BC. Cleopatra ruled around 30 BC — about 2,500 years later. From her to 1969 is only ~2,000. She was practically modern.',
+    src:'History chronologies' },
+  { type:'video', cat:'science', id:'Q10_srZ-pbs',
+    ttl:'The strange physics principle that shapes reality', chan:'Veritasium', src:'Veritasium (YouTube)' },
+  { type:'card', cat:'science',
+    opener:'Nature really said &ldquo;let&rsquo;s overengineer this&rdquo; —',
+    hook:'An octopus has three hearts and blue blood.',
+    body:'Two hearts push blood to the gills, one to the body. The blood runs blue because it moves oxygen with copper instead of the iron in ours. Basically an alien that happens to live here.',
+    src:'Cephalopod biology' },
+  { type:'video', cat:'geography', id:'PrJSdYCkoWk',
+    ttl:'The world&rsquo;s strangest borders: enclaves &amp; exclaves', chan:'RealLifeLore', src:'RealLifeLore (YouTube)' },
+  { type:'card', cat:'geography',
+    opener:'Okay, stand Everest somewhere in your head —',
+    hook:'The Mariana Trench is deeper than Everest is tall.',
+    body:'The deepest point of the ocean drops about 11,000 m. Everest reaches 8,849 m. Sink the whole mountain into the trench and the summit still sits under 2 km of water.',
+    src:'Ocean bathymetry' },
+  { type:'card', cat:'books',
+    opener:'Imagine opening a book and it&rsquo;s about you opening the book —',
+    hook:'Calvino wrote a novel where you are the main character.',
+    body:'&ldquo;If on a winter&rsquo;s night a traveller&rdquo; (1979) starts ten times. Every chapter opens a story that gets cut off, and the real plot is you chasing the ending. It shouldn&rsquo;t work. It absolutely does.',
+    src:'I. Calvino, 1979' },
+  { type:'video', cat:'science', id:'mScpHTIi-kM',
+    ttl:'The game theory problem that changes how you see the world', chan:'Veritasium', src:'Veritasium (YouTube)' },
+  { type:'card', cat:'history',
+    opener:'Older-than-you-think, part one —',
+    hook:'Oxford was already teaching before the Aztec Empire existed.',
+    body:'Lectures were happening at Oxford by ~1096. Tenochtitlan was founded in 1325, the empire in 1428. By then Oxford had three centuries on the clock.',
+    src:'Medieval history' },
+  { type:'video', cat:'geography', id:'63xqKDe3JTU',
+    ttl:'The world&rsquo;s strangest borders: divided islands', chan:'RealLifeLore', src:'RealLifeLore (YouTube)' },
+  { type:'card', cat:'science',
+    opener:'Try to actually picture the weight here —',
+    hook:'A teaspoon of a neutron star weighs about as much as a mountain.',
+    body:'When a giant star collapses, its matter gets crushed until protons and electrons fuse into neutrons packed unbelievably tight. Scoop out a spoonful and you&rsquo;d be holding billions of tonnes.',
+    src:'Astrophysics' },
+  { type:'card', cat:'geography',
+    opener:'&ldquo;Big&rdquo; is one word. This is another —',
+    hook:'You can cross 11 time zones without leaving Russia.',
+    body:'When it&rsquo;s morning in Kaliningrad, it&rsquo;s nearly evening in Kamchatka. Breakfast on one side, and the other side is already thinking about dinner.',
+    src:'Time zones' },
+  { type:'card', cat:'books',
+    opener:'The first modern novel is basically about a guy ruined by his reading list —',
+    hook:'Don Quixote read so many adventure books he decided to become the hero.',
+    body:'Cervantes (1605–1615) wrote about a man so deep into tales of knights that he sets off as one — and literature quietly started laughing at itself for the first time.',
+    src:'M. de Cervantes, 1605' },
+];
+
+const feed = document.getElementById('feed');
+
+const actionsHTML = `
+  <div class="actions">
+    <button class="act like" aria-label="like">
+      <svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-9.2-8.5C1.3 8.6 3 5.5 6 5.5c1.9 0 3.1 1.1 4 2.3.9-1.2 2.1-2.3 4-2.3 3 0 4.7 3.1 3.2 6C19 15.6 12 20 12 20z"/></svg>
+      <span>like</span></button>
+    <button class="act save" aria-label="save">
+      <svg viewBox="0 0 24 24"><path d="M6 4h12v16l-6-4-6 4z"/></svg>
+      <span>save</span></button>
+  </div>`;
+
+function shuffle(a){ for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
+
+function render(list){
+  const total = list.length;
+  feed.innerHTML = '';
+  list.forEach((it,i)=>{
+    const el = document.createElement('article');
+    el.dataset.cat = it.cat;
+    el.style.setProperty('--bg', `var(--${it.cat}-bg)`);
+    el.style.setProperty('--acc', `var(--${it.cat}-acc)`);
+    const count = `${String(i+1).padStart(2,'0')} / ${String(total).padStart(2,'0')}`;
+    const eyebrow = `<div class="eyebrow"><span class="dot"></span>${LABEL[it.cat]||it.cat}<span class="count">${count}</span></div>`;
+
+    if(it.type==='card'){
+      el.className='card';
+      const srcInner = it.url ? `<a href="${it.url}" target="_blank" rel="noopener">${it.src}</a>` : it.src;
+      el.innerHTML = `
+        <div class="ghost">${GHOST[it.cat]||''}</div>
+        ${eyebrow}
+        <div class="stack">
+          ${it.opener?`<p class="opener">${it.opener}</p>`:''}
+          <h2 class="hook">${it.hook}</h2>
+          ${it.body?`<p class="body">${it.body}</p>`:''}
+        </div>
+        <div class="foot">
+          <div class="source"><b>Source</b> · ${srcInner}</div>
+          ${actionsHTML}
+        </div>`;
+    } else {
+      el.className='card video';
+      el.innerHTML = `
+        <div class="ytwrap"><div class="thumb" style="background-image:url(https://img.youtube.com/vi/${it.id}/hqdefault.jpg)"></div></div>
+        ${eyebrow}
+        <button class="playbtn" data-yt="${it.id}" aria-label="play"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button>
+        <div class="vmeta">
+          <div class="ttl">${it.ttl}</div>
+          <div class="chan"><span class="short">▶ SHORT</span>${it.chan}</div>
+        </div>
+        <div class="foot">
+          <div class="source"><b>Source</b> · ${it.src}</div>
+          ${actionsHTML}
+        </div>`;
+    }
+    feed.appendChild(el);
+  });
+}
+
+feed.addEventListener('click', e=>{
+  const play = e.target.closest('.playbtn');
+  if(play){
+    const card = play.closest('.card.video');
+    card.querySelector('.ytwrap').innerHTML =
+      `<iframe src="https://www.youtube.com/embed/${play.dataset.yt}?autoplay=1&rel=0&playsinline=1" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>`;
+    card.classList.add('playing');
+    return;
+  }
+  const b = e.target.closest('.act');
+  if(b) b.classList.toggle('on');
+});
+
+document.getElementById('filters').addEventListener('click', e=>{
+  const p = e.target.closest('.pill'); if(!p) return;
+  document.querySelectorAll('.pill').forEach(x=>x.classList.remove('on'));
+  p.classList.add('on');
+  const cat = p.dataset.cat;
+  document.querySelectorAll('.card').forEach(c=>{
+    c.classList.toggle('hide', cat!=='all' && c.dataset.cat!==cat);
+  });
+  feed.scrollTo({top:0});
+});
+
+const swipe = document.getElementById('swipe');
+feed.addEventListener('scroll', ()=>{ if(feed.scrollTop>40) swipe.classList.add('gone'); }, {passive:true});
+document.getElementById('closeInstall').addEventListener('click', ()=>document.getElementById('install').classList.add('gone'));
+setTimeout(()=>document.getElementById('install').classList.add('gone'), 9000);
+
+// Load fresh content if available, otherwise use the built-in sample.
+(async ()=>{
+  let items = SAMPLE;
+  try{
+    const res = await fetch('content.json', {cache:'no-store'});
+    if(res.ok){
+      const data = await res.json();
+      if(data.items && data.items.length) items = data.items;
+    }
+  }catch(e){ /* offline or file:// — sample is fine */ }
+  render(shuffle(items.slice()));
+})();
+</script>
+</body>
+</html>

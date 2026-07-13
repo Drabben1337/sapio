@@ -1,0 +1,15 @@
+{
+  "name": "Sàpio",
+  "short_name": "Sàpio",
+  "description": "A feed to get smarter — no brainrot.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0c0f",
+  "theme_color": "#22245C",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
