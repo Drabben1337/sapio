@@ -19,6 +19,7 @@
     --history-bg:#5E1F2E;--history-acc:#E8A15C;--geography-bg:#2F4A2E;--geography-acc:#CFE06A;
     --cinema-bg:#2E2350;--cinema-acc:#C9A6FF;--people-bg:#4A2036;--people-acc:#F2A6C2;
     --food-bg:#6B3416;--food-acc:#F2C066;--howitsmade-bg:#24384A;--howitsmade-acc:#8FC2E0;
+    --news-bg:#2A2E33;--news-acc:#E8D6A0;
   }
   *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
   html,body{height:100%}
@@ -147,6 +148,7 @@
       <button class="pill" data-cat="science">science</button>
       <button class="pill" data-cat="food">food</button>
       <button class="pill" data-cat="howitsmade">how it's made</button>
+      <button class="pill" data-cat="news">news</button>
     </div>
   </div>
   <div class="feed" id="feed"></div>
@@ -159,8 +161,8 @@
 </div>
 
 <script>
-const LABEL={cinema:'Cinema',people:'People',books:'Books',history:'History',geography:'Geography',science:'Science',food:'Food',howitsmade:"How it's made"};
-const GHOST={cinema:'C',people:'P',books:'B',history:'H',geography:'G',science:'S',food:'F',howitsmade:'M'};
+const LABEL={cinema:'Cinema',people:'People',books:'Books',history:'History',geography:'Geography',science:'Science',food:'Food',howitsmade:"How it's made",news:'News'};
+const GHOST={cinema:'C',people:'P',books:'B',history:'H',geography:'G',science:'S',food:'F',howitsmade:'M',news:'N'};
 const WIKI_BASE='https://en.wikipedia.org/wiki/';
 
 // Sample fallback. Each card names a Wikipedia article: the app pulls that
@@ -181,6 +183,7 @@ const SAMPLE=[
   {type:'card',cat:'food',wiki:'Carrot',url:WIKI_BASE+'Carrot',opener:'Orange is the plot twist —',hook:'Carrots were mostly purple and white before they were orange.',body:'The familiar orange carrot was cultivated later, likely in the Netherlands. Older varieties came in purple, yellow and white.',src:'Wikipedia'},
   {type:'card',cat:'howitsmade',wiki:'Bubble wrap',url:WIKI_BASE+'Bubble_wrap',opener:'Invented for the wrong job —',hook:'Bubble wrap was first sold as textured wallpaper.',body:'When that flopped, its makers pitched it as greenhouse insulation, then finally as packaging. The satisfying pop was never the plan.',src:'Manufacturing'},
   {type:'card',cat:'books',wiki:'Fahrenheit 451',url:WIKI_BASE+'Fahrenheit_451',opener:'A book about books, written among them —',hook:'Ray Bradbury wrote Fahrenheit 451 on a coin-operated typewriter in a library basement.',body:'He rented the machine for ten cents per half hour and finished the draft for a few dollars — a book about burning books, born in a library.',src:'Wikipedia'},
+  {type:'card',cat:'news',opener:'News —',hook:'Fresh film &amp; book news lands here once it&rsquo;s live.',body:'When deployed, this pulls the latest from The Guardian (Film &amp; Books), Cineuropa and BBC Culture — mostly films and books, with a spoiler filter, plus a little science. Title, a few lines, and a link to read on.',src:'Guardian · Cineuropa · BBC'},
 ];
 
 const feed=document.getElementById('feed'), device=document.getElementById('device');

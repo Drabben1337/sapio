@@ -34,18 +34,34 @@ entirely, and audio stops the instant a clip scrolls out of view.
 iPhones (iOS 16+) play WebM fine; very old devices may not. There's no legal way
 to strip ads from YouTube embeds, which is why we changed the source instead.
 
-## Content
-- **Fun-fact cards:** for each of 8 categories (cinema, people, books, history,
-  geography, science, food, how-it's-made) the script pulls **random** Wikipedia
-  articles inside that theme, then lifts out the most surprising sentence. The
-  pool is thousands of articles per category, so it's new every day.
-- **`seen.json`:** a memory of titles already shown, committed each run, so
-  facts don't repeat. It's created automatically on the first run.
+## Content, by source
+- **Fun facts (Wikipedia):** books, history, geography, science, food and
+  how-it's-made pull **random** articles inside each theme (thousands per
+  category) and lift out the most surprising sentence. New every day.
+- **Cinema + People (TMDb):** real films and actors with posters and photos.
+  Needs a free key — see below. Without a key, these two fall back to Wikipedia.
+- **News (RSS):** mostly **film & book** news from well-known European,
+  English-language outlets (The Guardian Film & Books, Cineuropa, BBC Culture),
+  plus a little science. Only the **title + a few lines + a link** to the
+  original — never the full article. A spoiler filter skips recap / "ending
+  explained" pieces, and the film cards themselves use TMDb's official
+  spoiler-free synopsis. Edit `NEWS_FEEDS` to add or swap outlets.
 - **History:** also seeded by Wikipedia "On this day" (changes daily).
 - **Videos:** a few short WebM clips from Wikimedia.
-- Each card links back to its Wikipedia article via "Read more".
+- **`seen.json`:** remembers what already appeared (committed each run) so
+  nothing repeats. Created automatically on the first run.
 
-To change what a category pulls from, edit `CATEGORY_SOURCES` in `fetch-content.mjs`.
+### Turn on Cinema + People (free TMDb key)
+1. Make a free account at themoviedb.org, then Settings -> API -> request a
+   **Developer** key (it's free; for the app URL you can use your GitHub repo).
+2. In your repo: Settings -> Secrets and variables -> Actions -> New secret,
+   name `TMDB_API_KEY`, paste the key. That's it — the workflow already reads it.
+3. Attribution is required by TMDb. If you ever make this public, add this line
+   in an About/Credits area: *"This product uses the TMDB API but is not
+   endorsed or certified by TMDB."* Cards already show TMDB as the source.
+
+To change what a category pulls from, edit `CATEGORY_SOURCES` (Wikipedia) or
+`NEWS_FEEDS` (news) in `fetch-content.mjs`.
 
 ## Making it sound human (not robotic)
 Two modes in `fetch-content.mjs`:
