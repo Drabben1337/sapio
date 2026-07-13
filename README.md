@@ -35,9 +35,17 @@ iPhones (iOS 16+) play WebM fine; very old devices may not. There's no legal way
 to strip ads from YouTube embeds, which is why we changed the source instead.
 
 ## Content
-- **Videos:** newest short WebM clips from Wikimedia, tagged by category.
-- **History cards:** Wikipedia "On this day" — changes every day on its own.
-- **Books/other cards:** the built-in samples; add your own in `fetch-content.mjs`.
+- **Fun-fact cards:** for each of 8 categories (cinema, people, books, history,
+  geography, science, food, how-it's-made) the script pulls **random** Wikipedia
+  articles inside that theme, then lifts out the most surprising sentence. The
+  pool is thousands of articles per category, so it's new every day.
+- **`seen.json`:** a memory of titles already shown, committed each run, so
+  facts don't repeat. It's created automatically on the first run.
+- **History:** also seeded by Wikipedia "On this day" (changes daily).
+- **Videos:** a few short WebM clips from Wikimedia.
+- Each card links back to its Wikipedia article via "Read more".
+
+To change what a category pulls from, edit `CATEGORY_SOURCES` in `fetch-content.mjs`.
 
 ## Making it sound human (not robotic)
 Two modes in `fetch-content.mjs`:

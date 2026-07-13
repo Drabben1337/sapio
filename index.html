@@ -17,6 +17,8 @@
     --paper:#F5EFE3;--paper-dim:rgba(245,239,227,.62);--paper-faint:rgba(245,239,227,.20);
     --books-bg:#22245C;--books-acc:#F2B705;--science-bg:#0C5449;--science-acc:#6FE3C4;
     --history-bg:#5E1F2E;--history-acc:#E8A15C;--geography-bg:#2F4A2E;--geography-acc:#CFE06A;
+    --cinema-bg:#2E2350;--cinema-acc:#C9A6FF;--people-bg:#4A2036;--people-acc:#F2A6C2;
+    --food-bg:#6B3416;--food-acc:#F2C066;--howitsmade-bg:#24384A;--howitsmade-acc:#8FC2E0;
   }
   *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
   html,body{height:100%}
@@ -56,6 +58,11 @@
   .card.hide{display:none}
   .card .ghost{position:absolute;right:-14px;bottom:34px;font-family:'Fraunces',serif;font-weight:900;
     font-size:150px;line-height:.8;color:#fff;opacity:.045;pointer-events:none;user-select:none;letter-spacing:-4px}
+  /* topic background image (subtle, hints what the card is about) */
+  .card .bgimg{position:absolute;inset:0;z-index:0;background-size:cover;background-position:center;opacity:.30;filter:saturate(.9)}
+  .card.has-img::after{content:'';position:absolute;inset:0;z-index:1;
+    background:linear-gradient(180deg,var(--bg) 0%,rgba(0,0,0,0) 30%,rgba(0,0,0,.06) 52%,var(--bg) 90%)}
+  .card.has-img .ghost{display:none}
 
   .eyebrow{position:relative;z-index:3;display:flex;align-items:center;gap:10px;font-family:'Space Mono',monospace;
     font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--acc)}
@@ -68,6 +75,9 @@
   .hook{font-family:'Fraunces',serif;font-weight:600;font-size:clamp(29px,7vw,38px);line-height:1.05;
     letter-spacing:-.6px;text-wrap:balance}
   .body{font-size:15.5px;line-height:1.5;color:var(--paper-dim);margin-top:16px;max-width:34ch}
+  .more{display:inline-block;margin-top:16px;font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.3px;
+    color:var(--acc);text-decoration:none;border-bottom:1px solid currentColor;padding-bottom:2px;position:relative;z-index:3}
+  .more:hover{opacity:.8}
 
   .card.empty{align-items:center;justify-content:center;text-align:center;background:#17171d}
   .card.empty .stack{margin:0;max-width:28ch}
@@ -77,7 +87,6 @@
   .foot{position:relative;z-index:3;margin-top:22px;display:flex;align-items:flex-end;gap:14px}
   .source{flex:1;font-family:'Space Mono',monospace;font-size:11px;line-height:1.45;color:var(--paper-dim)}
   .source b{color:var(--paper);font-weight:700;letter-spacing:.5px}
-  .source a{color:var(--acc);text-decoration:none;border-bottom:1px dotted currentColor}
 
   .actions{display:flex;flex-direction:column;gap:14px;align-items:center}
   .act{background:none;border:none;color:var(--paper);cursor:pointer;display:flex;flex-direction:column;
@@ -130,10 +139,14 @@
     </div>
     <div class="filters" id="filters">
       <button class="pill on" data-cat="all">all</button>
+      <button class="pill" data-cat="cinema">cinema</button>
+      <button class="pill" data-cat="people">people</button>
       <button class="pill" data-cat="books">books</button>
-      <button class="pill" data-cat="science">science</button>
       <button class="pill" data-cat="history">history</button>
       <button class="pill" data-cat="geography">geography</button>
+      <button class="pill" data-cat="science">science</button>
+      <button class="pill" data-cat="food">food</button>
+      <button class="pill" data-cat="howitsmade">how it's made</button>
     </div>
   </div>
   <div class="feed" id="feed"></div>
@@ -146,23 +159,28 @@
 </div>
 
 <script>
-const LABEL={books:'Books',science:'Science',history:'History',geography:'Geography'};
-const GHOST={books:'&para;',science:'&#8767;',history:'H',geography:'&#8853;'};
+const LABEL={cinema:'Cinema',people:'People',books:'Books',history:'History',geography:'Geography',science:'Science',food:'Food',howitsmade:"How it's made"};
+const GHOST={cinema:'C',people:'P',books:'B',history:'H',geography:'G',science:'S',food:'F',howitsmade:'M'};
+const WIKI_BASE='https://en.wikipedia.org/wiki/';
 
+// Sample fallback. Each card names a Wikipedia article: the app pulls that
+// article's thumbnail for the background. Once deployed, content.json ships
+// with images baked in, so no live lookups are needed.
 const SAMPLE=[
-  {type:'card',cat:'history',opener:'Let this one mess with your sense of time —',hook:'Cleopatra lived closer to the Moon landing than to the pyramids.',body:'The Great Pyramid went up around 2560 BC. Cleopatra ruled around 30 BC — about 2,500 years later. From her to 1969 is only ~2,000. She was practically modern.',src:'History chronologies'},
+  {type:'card',cat:'cinema',wiki:'Wilhelm scream',url:WIKI_BASE+'Wilhelm_scream',opener:'Once you hear it, you hear it everywhere —',hook:'The same recorded scream has been reused in hundreds of films.',body:'Recorded in 1951, the &ldquo;Wilhelm scream&rdquo; became a sound-editor in-joke and turns up in Star Wars, Indiana Jones, Pixar movies and more. Sound crews slip it in on purpose.',src:'Film sound'},
+  {type:'card',cat:'people',wiki:'Hedy Lamarr',url:WIKI_BASE+'Hedy_Lamarr',opener:'The 1940s movie star who helped invent your Wi-Fi —',hook:'A Hollywood actress co-invented the technology behind Wi-Fi and Bluetooth.',body:'Between films, Hedy Lamarr co-designed a &ldquo;frequency-hopping&rdquo; system to stop torpedoes being jammed. The same idea underpins modern wireless.',src:'History of technology'},
   {type:'video',cat:'science',src_url:'https://commons.wikimedia.org/wiki/Special:FilePath/Active_Sun_in_3-D.webm',ttl:'The Sun, churning in three dimensions',chan:'NASA · public domain',src:'PD NASA · Wikimedia',url:'https://commons.wikimedia.org/wiki/File:Active_Sun_in_3-D.webm'},
-  {type:'card',cat:'science',opener:'Nature really said &ldquo;let&rsquo;s overengineer this&rdquo; —',hook:'An octopus has three hearts and blue blood.',body:'Two hearts push blood to the gills, one to the body. The blood runs blue because it moves oxygen with copper instead of the iron in ours. Basically an alien that happens to live here.',src:'Cephalopod biology'},
+  {type:'card',cat:'food',wiki:'Honey',url:WIKI_BASE+'Honey',opener:'Basically immortal breakfast —',hook:'Honey never really spoils — jars found in ancient Egyptian tombs were still edible.',body:'Its low water content and natural acidity make it a terrible home for bacteria. Sealed properly, it can last thousands of years.',src:'Food science'},
+  {type:'card',cat:'howitsmade',wiki:'Pencil',url:WIKI_BASE+'Pencil',opener:'A tiny lie you were told in school —',hook:'Pencil &ldquo;lead&rdquo; has never contained any lead at all.',body:'It&rsquo;s graphite mixed with clay. The name stuck from a 16th-century mix-up, when people thought the newly found graphite was a form of lead.',src:'Manufacturing'},
+  {type:'card',cat:'geography',wiki:'Point Nemo',url:WIKI_BASE+'Point_Nemo',opener:'The loneliest spot on Earth —',hook:'At Point Nemo, the nearest humans are often astronauts passing overhead.',body:'This point in the Pacific is so far from any land (~2,700 km) that when the ISS flies over, its crew is closer than anyone on the surface.',src:'Geography'},
+  {type:'card',cat:'history',wiki:'Great Molasses Flood',url:WIKI_BASE+'Great_Molasses_Flood',opener:'History&rsquo;s stickiest disaster —',hook:'In 1919 a wave of molasses flooded a Boston neighbourhood and killed 21 people.',body:'A giant storage tank burst, sending a sticky wall moving fast enough to wreck buildings. Locals said the area smelled of molasses for decades.',src:'Wikipedia'},
   {type:'video',cat:'geography',src_url:'https://commons.wikimedia.org/wiki/Special:FilePath/Animation_of_Rotating_Earth_at_Night.webm',ttl:'Earth at night, every city glowing',chan:'NASA · public domain',src:'PD NASA · Wikimedia',url:'https://commons.wikimedia.org/wiki/File:Animation_of_Rotating_Earth_at_Night.webm'},
-  {type:'card',cat:'geography',opener:'Okay, stand Everest somewhere in your head —',hook:'The Mariana Trench is deeper than Everest is tall.',body:'The deepest point of the ocean drops about 11,000 m. Everest reaches 8,849 m. Sink the whole mountain into the trench and the summit still sits under 2 km of water.',src:'Ocean bathymetry'},
-  {type:'card',cat:'books',opener:'Imagine opening a book and it&rsquo;s about you opening the book —',hook:'Calvino wrote a novel where you are the main character.',body:'&ldquo;If on a winter&rsquo;s night a traveller&rdquo; (1979) starts ten times. Every chapter opens a story that gets cut off, and the real plot is you chasing the ending. It shouldn&rsquo;t work. It absolutely does.',src:'I. Calvino, 1979'},
-  {type:'video',cat:'science',src_url:'https://commons.wikimedia.org/wiki/Special:FilePath/A_Year_of_Global_Carbon_Dioxide_Measurements.webm',ttl:'A year of the planet breathing CO₂',chan:'NASA · public domain',src:'PD NASA · Wikimedia',url:'https://commons.wikimedia.org/wiki/File:A_Year_of_Global_Carbon_Dioxide_Measurements.webm'},
-  {type:'card',cat:'history',opener:'Older-than-you-think, part one —',hook:'Oxford was already teaching before the Aztec Empire existed.',body:'Lectures were happening at Oxford by ~1096. Tenochtitlan was founded in 1325, the empire in 1428. By then Oxford had three centuries on the clock.',src:'Medieval history'},
-  {type:'card',cat:'science',opener:'File under &ldquo;basically indestructible&rdquo; —',hook:'Tardigrades can survive the vacuum of open space.',body:'These half-millimetre &ldquo;water bears&rdquo; shrug off boiling, freezing, radiation and years without water by curling into a dried-out state called a tun. Some rode outside a spacecraft and lived.',src:'Extremophile biology'},
-  {type:'card',cat:'geography',opener:'The desert has a memory —',hook:'The Sahara was green just a few thousand years ago.',body:'Around 6,000 years ago, wobbles in Earth&rsquo;s orbit shifted the monsoon north and the region was dotted with lakes, grass and hippos. Cave paintings there still show people swimming.',src:'Paleoclimatology'},
-  {type:'card',cat:'geography',opener:'&ldquo;Big&rdquo; is one word. This is another —',hook:'You can cross 11 time zones without leaving Russia.',body:'When it&rsquo;s morning in Kaliningrad, it&rsquo;s nearly evening in Kamchatka. Breakfast on one side, and the other side is already thinking about dinner.',src:'Time zones'},
-  {type:'card',cat:'books',opener:'The first modern novel is basically about a guy ruined by his reading list —',hook:'Don Quixote read so many adventure books he decided to become the hero.',body:'Cervantes (1605–1615) wrote about a man so deep into tales of knights that he sets off as one — and literature quietly started laughing at itself for the first time.',src:'M. de Cervantes, 1605'},
-  {type:'card',cat:'books',opener:'A story told to stay alive —',hook:'The 1,001 Nights is a story about someone telling stories to survive.',body:'Scheherazade marries a king who executes each wife at dawn, so she ends every night mid-tale. He keeps her alive to hear the ending — for years. The frame is the point.',src:'One Thousand and One Nights'},
+  {type:'card',cat:'people',wiki:'Christopher Lee',url:WIKI_BASE+'Christopher_Lee',opener:'The most metal actor who ever lived —',hook:'Dracula actor Christopher Lee released heavy-metal albums in his late 80s and 90s.',body:'He served in WWII special operations, spoke several languages, and recorded symphonic-metal records about Charlemagne. Few careers are this strange.',src:'Wikipedia'},
+  {type:'card',cat:'science',wiki:'Tardigrade',url:WIKI_BASE+'Tardigrade',opener:'File under &ldquo;basically indestructible&rdquo; —',hook:'Tardigrades can survive the vacuum of open space.',body:'These half-millimetre &ldquo;water bears&rdquo; shrug off boiling, freezing and radiation by drying into a tun. Some rode outside a spacecraft and lived.',src:'Extremophile biology'},
+  {type:'card',cat:'cinema',wiki:'A113',url:WIKI_BASE+'A113',opener:'A hidden signature in your favourite cartoons —',hook:'The code &ldquo;A113&rdquo; is tucked into almost every Pixar film.',body:'It&rsquo;s the number of a classroom at the animation school many Pixar artists attended. They hide it in license plates, door numbers and signs as a wink.',src:'Animation'},
+  {type:'card',cat:'food',wiki:'Carrot',url:WIKI_BASE+'Carrot',opener:'Orange is the plot twist —',hook:'Carrots were mostly purple and white before they were orange.',body:'The familiar orange carrot was cultivated later, likely in the Netherlands. Older varieties came in purple, yellow and white.',src:'Wikipedia'},
+  {type:'card',cat:'howitsmade',wiki:'Bubble wrap',url:WIKI_BASE+'Bubble_wrap',opener:'Invented for the wrong job —',hook:'Bubble wrap was first sold as textured wallpaper.',body:'When that flopped, its makers pitched it as greenhouse insulation, then finally as packaging. The satisfying pop was never the plan.',src:'Manufacturing'},
+  {type:'card',cat:'books',wiki:'Fahrenheit 451',url:WIKI_BASE+'Fahrenheit_451',opener:'A book about books, written among them —',hook:'Ray Bradbury wrote Fahrenheit 451 on a coin-operated typewriter in a library basement.',body:'He rented the machine for ten cents per half hour and finished the draft for a few dollars — a book about burning books, born in a library.',src:'Wikipedia'},
 ];
 
 const feed=document.getElementById('feed'), device=document.getElementById('device');
@@ -172,7 +190,6 @@ const HEART='<path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.
 const BOOKMARK='<path d="M6 4h12v16l-6-4-6 4z"/>';
 let soundOn=false;
 
-// ---- saved store: localStorage on your deployed site; in-memory in this preview ----
 let mem=[];
 const store={
   all(){ try{ return JSON.parse(localStorage.getItem('sapio_saved')||'[]'); }catch(e){ return mem; } },
@@ -186,13 +203,11 @@ function toggleSave(it){const id=itemId(it),a=store.all(),i=a.findIndex(x=>x._id
 function updateBadge(){document.getElementById('savedCount').textContent=store.all().length;}
 
 let renderMap={};
-
 function actionsHTML(saved){return `
   <div class="actions">
     <button class="act like" aria-label="like"><svg viewBox="0 0 24 24">${HEART}</svg><span>like</span></button>
     <button class="act save ${saved?'on':''}" aria-label="save"><svg viewBox="0 0 24 24">${BOOKMARK}</svg><span>save</span></button>
   </div>`;}
-
 function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
 
 function render(list){
@@ -207,27 +222,41 @@ function render(list){
     const count=`${String(i+1).padStart(2,'0')} / ${String(total).padStart(2,'0')}`;
     const eyebrow=`<div class="eyebrow"><span class="dot"></span>${LABEL[it.cat]||it.cat}<span class="count">${count}</span></div>`;
     const saved=isSaved(id);
+    const more=it.url?`<a class="more" href="${it.url}" target="_blank" rel="noopener">Read more →</a>`:'';
     if(it.type==='card'){
-      el.className='card';
-      const src=it.url?`<a href="${it.url}" target="_blank" rel="noopener">${it.src}</a>`:it.src;
-      el.innerHTML=`<div class="ghost">${GHOST[it.cat]||''}</div>${eyebrow}
-        <div class="stack">${it.opener?`<p class="opener">${it.opener}</p>`:''}<h2 class="hook">${it.hook}</h2>${it.body?`<p class="body">${it.body}</p>`:''}</div>
-        <div class="foot"><div class="source"><b>Source</b> · ${src}</div>${actionsHTML(saved)}</div>`;
+      const bg=it.img?`<div class="bgimg" style="background-image:url(${it.img})"></div>`:'';
+      el.className='card'+(it.img?' has-img':'');
+      if(it.wiki&&!it.img) el.dataset.wiki=it.wiki;
+      el.innerHTML=`${bg}<div class="ghost">${GHOST[it.cat]||''}</div>${eyebrow}
+        <div class="stack">${it.opener?`<p class="opener">${it.opener}</p>`:''}<h2 class="hook">${it.hook}</h2>${it.body?`<p class="body">${it.body}</p>`:''}${more}</div>
+        <div class="foot"><div class="source"><b>Source</b> · ${it.src}</div>${actionsHTML(saved)}</div>`;
     } else {
       el.className='card video paused';
-      const src=it.url?`<a href="${it.url}" target="_blank" rel="noopener">${it.src}</a>`:it.src;
       el.innerHTML=`<video class="vid" src="${it.src_url}" ${it.poster?`poster="${it.poster}"`:''} loop muted playsinline preload="none"></video>${eyebrow}
         <button class="mutebtn" aria-label="sound">${soundOn?ICON_ON:ICON_OFF}</button>
         <div class="playglyph"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
-        <div class="vmeta"><div class="ttl">${it.ttl}</div><div class="chan"><span class="lc">CLIP</span>${it.chan||'Wikimedia'}</div></div>
-        <div class="foot"><div class="source"><b>Source</b> · ${src}</div>${actionsHTML(saved)}</div>`;
+        <div class="vmeta"><div class="ttl">${it.ttl}</div><div class="chan"><span class="lc">CLIP</span>${it.chan||'Wikimedia'}</div>${more}</div>
+        <div class="foot"><div class="source"><b>Source</b> · ${it.src}</div>${actionsHTML(saved)}</div>`;
       const v=el.querySelector('video');
       v.addEventListener('play',()=>el.classList.remove('paused'));
       v.addEventListener('pause',()=>el.classList.add('paused'));
     }
     feed.appendChild(el);
   });
-  setupObserver();
+  setupObserver(); enrichImages();
+}
+
+// For sample cards that only name a Wikipedia article: fetch its thumbnail live.
+function enrichImages(){
+  document.querySelectorAll('.card[data-wiki]:not(.has-img)').forEach(el=>{
+    fetch('https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(el.dataset.wiki))
+      .then(r=>r.ok?r.json():null).then(d=>{
+        const src=d&&((d.thumbnail&&d.thumbnail.source)||(d.originalimage&&d.originalimage.source));
+        if(!src)return;
+        const bg=document.createElement('div'); bg.className='bgimg'; bg.style.backgroundImage=`url(${src})`;
+        el.insertBefore(bg,el.firstChild); el.classList.add('has-img');
+      }).catch(()=>{});
+  });
 }
 
 function applySound(){document.querySelectorAll('.card video').forEach(v=>v.muted=!soundOn);
@@ -241,6 +270,7 @@ feed.addEventListener('click',e=>{
     const now=toggleSave(it);
     document.querySelectorAll('.card[data-id="'+id+'"] .act.save').forEach(b=>b.classList.toggle('on',now));
     updateBadge(); if(savedMode) renderSaved(); return;}
+  if(e.target.closest('.more')) return; // let the link open
   const vid=e.target.closest('.vid');
   if(vid){vid.paused?vid.play().catch(()=>{}):vid.pause();return;}
   const act=e.target.closest('.act.like'); if(act) act.classList.toggle('on');
@@ -256,7 +286,6 @@ function setupObserver(){
   document.querySelectorAll('.card.video').forEach(c=>io.observe(c));
 }
 
-// ---- feed vs saved views ----
 let mainItems=[], activeCat='all', savedMode=false;
 function applyFilter(cat){activeCat=cat;
   document.querySelectorAll('.card').forEach(c=>c.classList.toggle('hide',cat!=='all'&&c.dataset.cat!==cat));}
@@ -268,7 +297,6 @@ document.getElementById('savedBtn').addEventListener('click',()=>{
   document.getElementById('savedBtn').classList.toggle('on',savedMode);
   feed.scrollTo({top:0}); savedMode?renderSaved():renderFeed();
 });
-
 document.getElementById('filters').addEventListener('click',e=>{
   const p=e.target.closest('.pill'); if(!p)return;
   document.querySelectorAll('.pill').forEach(x=>x.classList.remove('on'));
