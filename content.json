@@ -1,91 +1,141 @@
 {
-  "generated": "2026-07-14T20:04:24.189Z",
-  "count": 12,
+  "generated": "2026-07-14T21:43:39.443Z",
+  "count": 18,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "The US-China AI arms race has taken an unexpected turn",
-      "body": "Powerful artificial intelligence models built by Chinese companies have gone from inducing widespread panic to being met with a shrug of the shoulders – what changed?",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Jonathan Crary is an American art critic and essayist.",
-      "body": "He is the Meyer Schapiro Professor of Modern Art and Theory at Columbia University. One of those things you can't un-know.",
-      "img": null,
+      "hook": "The Automation is an indie, mythpunk novel by an anonymous author using the dual pen names B.L.A.",
+      "body": "Gabbler, about the god Vulcan's Automata which function off their human Master's souls. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/60/The_Automation.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jonathan_Crary"
+      "url": "https://en.wikipedia.org/wiki/The_Automation"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Bhagya Reddy Varma, born Madari Bagaiah, was a political leader, social reformer and activist known for advocating against untouchability in Hyderabad State and for the abolition of the Jogini and Devdasi systems.",
-      "body": "He launched the Adi-Hindu movement in the Hyderabad region of British India, beginning in 1912, and later established the Adi-Hindu Social Service League in 1924, which promoted social reform for the Depressed Classes in Nizam's Hyderabad. One of those things ",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bhagya_Reddy_Varma_poster_from_134th_Jayanthi_Celebrations_at_Ravindra_Bharathi_%28cropped%29.jpg/330px-Bhagya_Reddy_Varma_poster_from_134th_Jayanthi_Celebrations_at_Ravindra_Bharathi_%28cropped%29.jpg",
+      "hook": "Aïcha Aminata Laïla Fofana was a Malian translator and author.",
+      "body": "With Marriage: on copie (1994), she became the first woman in Mali to publish a novel. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bhagya_Reddy_Varma"
+      "url": "https://en.wikipedia.org/wiki/A%C3%AFcha_Fofana"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Why praying for rain appears to work – but only in some places",
+      "body": "In some parts of the world, the probability of rain rises with every day it doesn’t rain, and communities in these places are more likely to carry out rain-making rituals",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2578962-why-praying-for-rain-appears-to-work-but-only-in-some-places/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 982 —",
+      "hook": "King Otto II and his Frankish army are defeated by the Muslim army of al-Qasim at Cape Colonna, Southern Italy.",
+      "body": "Otto II, called the Red, was Holy Roman Emperor from 973 until his death in 983. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Otto_II_%28HRE%29.jpg/330px-Otto_II_%28HRE%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Otto_II%2C_Holy_Roman_Emperor"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Mudunkotuwa Munasinghe Arachchige Sujatha Perera , colloquially known as Sujatha Aththanayaka, is a Sri Lankan singer.",
-      "body": "She is a playback singer in Sinhala cinema and also in Sri Lankan and Indian Tamil cinema. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Nadeshwarisujathaattanayake.jpg/330px-Nadeshwarisujathaattanayake.jpg",
+      "opener": "Okay, this one's fun —",
+      "hook": "Stolthet och fördom is a three-act opéra comique by Daniel Nelson, to a libretto by Swedish playwright Sofia Fredén based on the popular 1813 English novel by Jane Austen.",
+      "body": "The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sujatha_Aththanayaka"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Amnesty 'regret' over criticism of JK Rowling's sexual violence support centre",
-      "body": "The human rights charity had characterised the women-only service in Edinburgh as \"anti-rights\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r8l84p8yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "BBC pay 2025-2026: The full list of star salaries",
-      "body": "Scott Mills and Greg James top the list of the best-paid BBC presenters in the last financial year.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cn750p4gyjgo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Stolthet_och_f%C3%B6rdom"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "‘It wasn’t a dream, it was a threat’: the film festival celebrating pan-Africanism’s rich and complex history",
-      "body": "<p>Project a Black Planet: Film, a new season of screenings at the Barbican in London exemplifies how the movement was an act of solidarity, resistance and fierce creativity</p><p>Algiers, 1969. What had, for seven years, been the metropoli",
+      "hook": "Synthetic Sincerity review – Marc Isaacs’ AI interrogation grapples with identity and existence",
+      "body": "<p>A combination of fact and fiction leaves the celebrated documentarian’s puzzling project about software training wanting for depth</p><p>Marc Isaacs’ new film is a curious, intriguing, semi-sincere affair that I couldn’t make friends wit",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/14/project-a-black-plane-film-barbican-pan-africanism"
+      "url": "https://www.theguardian.com/film/2026/jul/14/synthetic-sincerity-review-marc-isaacs-ai"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Scott Mills was highest-paid BBC star before sacking",
-      "body": "The former Radio 2 breakfast host earned about £745,000 from the BBC in the last financial year.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Film —",
+      "hook": "Jane Campion remembers Sam Neill: ‘He was radiating peace, beaming love’",
+      "body": "<p>The Piano director shares her memories of the actor on set – and the last time she saw him in hospital</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/jul/13/sam-neill-final-interview-readers-question-jurassic-park\">Sam Neil",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/14/jane-campion-remembers-sam-neill-the-piano"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1960 —",
+      "hook": "Northwest Orient Airlines Flight 1-11 ditches off Polillo Island in the Philippines, killing one person and injuring 44.",
+      "body": "Northwest Orient Airlines Flight 1–11 was a Northwest Orient Airlines flight from New York City to Manila, with stopovers in Seattle, Anchorage, Tokyo, and Okinawa. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/SR_DC7.jpg/330px-SR_DC7.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Northwest_Orient_Airlines_Flight_1-11"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Lily is a feminine given name usually derived from lily, the flower.",
-      "body": "The name became particularly popular along with other flower names for girls during the 1800s and early 1900s. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Madonna_of_the_Lilies_%281905%29_-_Alfons_Mucha.jpg/330px-Madonna_of_the_Lilies_%281905%29_-_Alfons_Mucha.jpg",
+      "opener": "You probably never noticed this —",
+      "hook": "Time is a 2007 Indian Malayalam-language psychological thriller film directed by Shaji Kailas and written by Rajesh Jayaraman.",
+      "body": "The film features Suresh Gopi in a dual role as a father and son, along with Siddique, Vimala Raman and Padmapriya in important roles. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/Time_Malayalam_film.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lily_(name)"
+      "url": "https://en.wikipedia.org/wiki/Time_(2007_film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World is a Japanese light novel series written by Miraijin A.",
+      "body": "The series originated on the Shōsetsuka ni Narō website, before being published in print with illustrations by Jimmy by Kodansha beginning in July 2020. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Reincarnated_Aristocrat_volume_1_cover.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/As_a_Reincarnated_Aristocrat%2C_I'll_Use_My_Appraisal_Skill_to_Rise_in_the_World"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2016 —",
+      "hook": "A man ploughs a truck into a Bastille Day celebration in Nice, France, killing 86 people and injuring another 434 before being shot by police.",
+      "body": "On the evening of 14 July 2016, a 19-tonne cargo truck was deliberately driven into crowds of people celebrating Bastille Day on the Promenade des Anglais in Nice, France, resulting in the deaths of 86 people and injuring 458 others. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nice_Promenade_des_Anglais_FRANCE-cropped.jpg/330px-Nice_Promenade_des_Anglais_FRANCE-cropped.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2016_Nice_truck_attack"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Bectu head Philippa Childs to leave UK union",
+      "body": "She will stand down in January 2027.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/bectu-head-philippa-childs-to-leave-uk-union/5218580.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1853 —",
+      "hook": "Opening of the first major US world's fair, the Exhibition of the Industry of All Nations in New York City.",
+      "body": "A world's fair, also known as a universal exhibition, is a large global exhibition designed to showcase the achievements of nations. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/International_Exhibition_Brussels_par_Privat-Livemont.jpg/330px-International_Exhibition_Brussels_par_Privat-Livemont.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World's_fair"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Disney’s ‘Moana’ tops UK-Ireland box office with £2.8m as ‘Toy Story 5’ passes £40m",
+      "body": "Meanwhile, Studiocanal’s ’Evil Dead Burn’ opened in fourth place.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/disneys-moana-tops-uk-ireland-box-office-with-28m-as-toy-story-5-passes-40m/5218566.article"
     },
     {
       "type": "card",
@@ -99,21 +149,31 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Synthetic Sincerity review – Marc Isaacs’ AI interrogation grapples with identity and existence",
-      "body": "<p>A combination of fact and fiction leaves the celebrated documentarian’s puzzling project about software training wanting for depth</p><p>Marc Isaacs’ new film is a curious, intriguing, semi-sincere affair that I couldn’t make friends wit",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/14/synthetic-sincerity-review-marc-isaacs-ai"
+      "opener": "BBC Entertainment —",
+      "hook": "Blue singer Lee Ryan loses plane assault appeal",
+      "body": "The Blue singer was challenging a conviction for assaulting a cabin crew member on a flight.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c3dydpgenj0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Kościeleczki is a village in the administrative district of Gmina Malbork, within Malbork County, Pomeranian Voivodeship, in northern Poland.",
-      "body": "It is located in the region of Powiśle. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ko%C5%9Bcieleczki_9834.jpg/330px-Ko%C5%9Bcieleczki_9834.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ko%C5%9Bcieleczki"
+      "cat": "history",
+      "opener": "On this day in 1789 —",
+      "hook": "Storming of the Bastille in Paris. This event escalates the widespread discontent into the French Revolution. Bastille Day is still celebrated annually in France.",
+      "body": "The Storming of the Bastille, also known as Fall of the Bastille, which occurred in Paris, France, on 14 July 1789, was an act of political violence by revolutionary insurgents who attempted to storm and seize control of the medieval armoury, fortress, and political prison known as the Bastille. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/330px-Anonymous_-_Prise_de_la_Bastille.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1808 —",
+      "hook": "The Finnish War: the Battle of Lapua is fought.",
+      "body": "The Finnish War was fought between the Kingdom of Sweden and the Russian Empire from 21 February 1808 to 17 September 1809 as part of the Napoleonic Wars. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Finnish_War_Collage_5.png/330px-Finnish_War_Collage_5.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Finnish_War"
     }
   ]
 }
