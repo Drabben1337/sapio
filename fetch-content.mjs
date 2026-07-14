@@ -1,6 +1,7 @@
 import { writeFile, readFile } from "node:fs/promises";
 
-const CARDS_PER_CAT = 4, HISTORY_CARDS = 6, SEEN_CAP = 6000;
+const CARDS_PER_CAT = 5, HISTORY_CARDS = 6, SEEN_CAP = 6000;
+const FEED_TARGET = 48;   // mix: ~50% facts, ~35% cinema+books, ~15% news
 const UA = "Sapio/1.0";
 const TMDB_KEY = process.env.TMDB_API_KEY || "";
 
@@ -27,6 +28,7 @@ const NEWS_FEEDS = [
 ];
 const NEWS_KEEP = 60;
 const SPOILER = /\b(spoilers?|ending explained|ending,? explained|recap|full plot|plot summary|who dies|dies in|death of|twist explained|finale explained|season finale|episode \d+|breakdown|explained:)\b/i;
+const BOOK_SPOILER = /\b(ending|dies|is killed|killed by|murder|reveals that|turns out|final chapter|last chapter|the killer|culprit|twist|suicide|death of)\b/i;
 
 const VIDEO_QUERIES = { science:["nasa animation"], geography:["earth timelapse"], howitsmade:["manufacturing process"] };
 const VIDEOS_PER_CAT = 2, MAX_BYTES = 40_000_000;
@@ -78,8 +80,16 @@ async function fetchCategory(cat, queries){
       if(/^(List of|Index of|Timeline of|Outline of)\b|\(disambiguation\)/i.test(t)) continue;
       const s=await fetchSummary(t);
       if(!s||s.type!=="standard"||!s.extract||s.extract.length<150) continue;
-      const hook=funFact(s.extract); if(!hook||hook.length<30) continue;
-      const ctx=sentences(s.extract).find(x=>x!==hook&&x.length>25)||"";
+      let hook, ctx;
+      if(cat==="books"){
+        const ss=sentences(s.extract);
+        hook=ss[0];
+        ctx=ss.slice(1).find(x=>x.length>25 && !BOOK_SPOILER.test(x)) || "";
+      } else {
+        hook=funFact(s.extract);
+        ctx=sentences(s.extract).find(x=>x!==hook && x.length>25) || "";
+      }
+      if(!hook||hook.length<30) continue;
       cards.push({ type:"card", cat, opener:pick(OPENERS,t.length), hook,
         body:`${ctx} ${pick(KICKERS,t.length)}`.trim().slice(0,260), img:s.img, src:"Wikipedia", url:s.url });
       ADDED.push(t);
@@ -184,7 +194,7 @@ async function humanizeWithLLM(cards){
   if(process.env.USE_LLM!=="1"||!process.env.ANTHROPIC_API_KEY) return cards;
   const out=[];
   for(const c of cards){
-    if(c.cat==="news"){ out.push(c); continue; }
+    if(c.type!=="card"||c.cat==="news"){ out.push(c); continue; }
     try{ const r=await fetch("https://api.anthropic.com/v1/messages",{ method:"POST",
       headers:{"content-type":"application/json","x-api-key":process.env.ANTHROPIC_API_KEY,"anthropic-version":"2023-06-01"},
       body:JSON.stringify({ model:"claude-haiku-4-5-20251001", max_tokens:220,
@@ -206,7 +216,7 @@ async function humanizeWithLLM(cards){
     process.stdout.write(`  ${cat}… `); const c=await fetchCategory(cat,queries); topic.push(...c); console.log(`${c.length}`);
   }
   let cinemaPeople=[];
-  if(TMDB_KEY){ console.log("TMDb cinema+people…"); cinemaPeople=[...await fetchCinema(CARDS_PER_CAT), ...await fetchPeople(CARDS_PER_CAT)]; }
+  if(TMDB_KEY){ console.log("TMDb cinema+people…"); cinemaPeople=[...await fetchCinema(8), ...await fetchPeople(6)]; }
   console.log("News (RSS)…");   const freshNews=await fetchNews();
   console.log("On this day…");  const history=await fetchHistory();
   console.log("Videos…");       const videos=await fetchVideos();
@@ -217,9 +227,17 @@ async function humanizeWithLLM(cards){
   await saveArchive(merged);
   const news=merged.map(({_t,...c})=>c);
 
-  let cards = await humanizeWithLLM([...topic, ...cinemaPeople, ...history, ...news]);
-  const items = shuffle([...videos, ...cards]);
+  const knowledge=new Set(["science","geography","food","howitsmade","history"]);
+  const cinemaPeopleCards = TMDB_KEY ? cinemaPeople : topic.filter(c=>c.cat==="cinema"||c.cat==="people");
+  let facts   = shuffle([...topic.filter(c=>knowledge.has(c.cat)), ...history, ...videos]);
+  let culture = shuffle([...cinemaPeopleCards, ...topic.filter(c=>c.cat==="books")]);
+  facts   = await humanizeWithLLM(facts);
+  culture = await humanizeWithLLM(culture);
+
+  const T=FEED_TARGET;
+  const nF=Math.round(T*0.50), nC=Math.round(T*0.35), nN=Math.round(T*0.15);
+  const items = shuffle([ ...facts.slice(0,nF), ...culture.slice(0,nC), ...news.slice(0,nN) ]);
   await writeFile("content.json", JSON.stringify({ generated:new Date().toISOString(), count:items.length, items }, null, 2));
   await saveSeen();
-  console.log(`Wrote content.json — ${items.length} items (${news.length} news, ${videos.length} videos). +${ADDED.length} remembered.`);
+  console.log(`Wrote content.json — ${items.length} items (${Math.min(facts.length,nF)} facts, ${Math.min(culture.length,nC)} cinema/books, ${Math.min(news.length,nN)} news).`);
 })();
