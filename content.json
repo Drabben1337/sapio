@@ -1,269 +1,129 @@
 {
-  "generated": "2026-07-14T08:57:15.569Z",
-  "count": 27,
+  "generated": "2026-07-14T10:30:16.439Z",
+  "count": 13,
   "items": [
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Bet you didn't know —",
-      "hook": "It lies just south of the Grassengrat, where the border with the canton of Obwalden runs.",
-      "body": "The Wichelplanggstock is a mountain of the Urner Alps, located near the Susten Pass in the canton of Uri. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wichelplanggstock"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Bird Box is a 2018 American post-apocalyptic horror thriller film directed by Susanne Bier and written by Eric Heisserer.",
-      "body": "Based on the 2014 novel by Josh Malerman, the film features an ensemble cast which includes Sandra Bullock, Trevante Rhodes, Jacki Weaver, Rosa Salazar, Danielle Macdonald, Lil Rel Howery, Tom Hollander, Colson Baker, BD Wong, Pruitt Taylor Vince, Sarah Paulso",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/bd/Bird_Box_%28film%29.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bird_Box_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1950 —",
-      "hook": "Korean War: beginning of the Battle of Taejon.",
-      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Korean_War"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The island is 54 km (34 mi) northeast from Port Blair.",
-      "body": "John Lawrence Island is an island of the Andaman Islands and belongs to the South Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ritchie%27s_Archipelago_John_Lawrence_Island.png/330px-Ritchie%27s_Archipelago_John_Lawrence_Island.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/John_Lawrence_Island"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Art of Opposition by Courttia Newland review – piercing essays on culture and creativity",
-      "body": "<p>The novelist issues a inspiring call for artists to exercise their autonomy in a world of gatekeepers</p><p>In 1988, the late Ghanaian writer and filmmaker Kwesi Owusu edited Storms of the Heart: An Anthology of Black Arts &amp; Culture,",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/14/the-art-of-opposition-by-courttia-newland-review-piercing-essays-on-culture-and-creativity"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1960 —",
-      "hook": "Northwest Orient Airlines Flight 1-11 ditches off Polillo Island in the Philippines, killing one person and injuring 44.",
-      "body": "Northwest Orient Airlines Flight 1–11 was a Northwest Orient Airlines flight from New York City to Manila, with stopovers in Seattle, Anchorage, Tokyo, and Okinawa. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/SR_DC7.jpg/330px-SR_DC7.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Northwest_Orient_Airlines_Flight_1-11"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1951 —",
-      "hook": "Ferrari take their first Formula One grand prix victory at the British Grand Prix at Silverstone.",
-      "body": "Ferrari S.p.A, currently competing as Scuderia Ferrari HP, is the racing division of luxury Italian auto manufacturer Ferrari and the racing team that competes in Formula One racing. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Scuderia_Ferrari_HP_logo_24.svg/330px-Scuderia_Ferrari_HP_logo_24.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "In 2024, the UAE had an estimated population of over 11 million.",
-      "body": "The United Arab Emirates (UAE), also known simply as the Emirates, is a country in West Asia, situated at the eastern end of the Arabian Peninsula. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/330px-Flag_of_the_United_Arab_Emirates.svg.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "It has a population of 544 and was one of the oldest Armenian-populated villages of the Shamakhi district.",
-      "body": "Saqiyan is a village and municipality in the Shamakhi District of Azerbaijan. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Saqiyan"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Last First Time review – queer coming-of-age drama gives itself up to pleasure",
-      "body": "<p>A Mexican student’s post-exams night out becomes a heady voyage of self-discovery in this slight but joyful coming-of-age drama</p><p>This queer coming-of-age drama from Mexico feels a little familiar, with its story of 18-year-old Eduar",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/14/the-last-first-time-review-mexican-queer-coming-of-age-drama"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Cineuropa —",
-      "hook": "GoCritic! Review: Quantum Jump - GoCritic! - Fest Anča 2026",
-      "body": "This Czech short animation by FAMU student Šimon Mészáros explores complex philosophical ideas in a challenging way",
-      "src": "Cineuropa",
-      "url": "https://cineuropa.org/en/newsdetail/493297/"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Goodbye Chinatown by Kit Fan review – a chef’s elegy to London",
-      "body": "<p>Skipping between London, Shanghai and Hong Kong, this tale of family migration, politics and food has plenty of flavour and fire</p><p>Amber Fan, the 22-year-old protagonist of Kit Fan’s heartfelt and elegiac second novel, is ready to sa",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/14/goodbye-chinatown-by-kit-fan-review-a-chefs-elegy-to-london"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1902 —",
-      "hook": "Peruvian explorer and farmer Agustín Lizárraga discovers Machu Picchu, the \"Lost City of the Incas\".",
-      "body": "Agustín Lizárraga Ruiz was a Peruvian explorer and farmer who visited the Inca site of Machu Picchu on 14 July 1902, nine years before American explorer Hiram Bingham brought it to international attention. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Retrato_de_Agustin_Lizarraga.jpg/330px-Retrato_de_Agustin_Lizarraga.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Liz%C3%A1rraga"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Quicksand is a novel by Malin Persson Giolito.",
-      "body": "It was originally published on 7 July, 2016 by Wahlström & Widstrand in Swedish. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/Quicksand_%28Persson_Giolito_novel%29_cover.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Quicksand_(Persson_Giolito_novel)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "\"The Yellow Wallpaper\" is a short story by American writer Charlotte Perkins Gilman, first published in January 1892 in The New England Magazine.",
-      "body": "It is regarded as an important early work of American feminist literature for its illustration of the attitudes towards the mental and physical health of women in the 19th century. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Yellow_Wall_Paper_pg_1.jpg/330px-The_Yellow_Wall_Paper_pg_1.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Yellow_Wallpaper"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1865 —",
-      "hook": "The first ascent of the Matterhorn is completed by Edward Whymper and his party, four of whom die on the descent.",
-      "body": "The first ascent of the Matterhorn was a mountaineering expedition of the Matterhorn made by Edward Whymper, Lord Francis Douglas, Charles Hudson, Douglas Hadow, Michel Croz, and two Zermatt guides, Peter Taugwalder and his son of the same name, on 14 July 1865. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Picswiss_VS-01-16.jpg/330px-Picswiss_VS-01-16.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/First_ascent_of_the_Matterhorn"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Deep Water review – plane-crash survivors play existential roulette with bitey fish",
-      "body": "<p>Renny Harlin’s disaster movie brings aquatic mayhem along with suspense and schadenfreude as aircraft passengers battle to survive hungry sharks </p><p>If done right, a disaster movie can scratch a cinematic itch like nothing else, servi",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/14/deep-water-review-aaron-eckhart"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "Sinopec Group is the world's largest oil refining conglomerate, state owned enterprise, and 6th highest revenue company in the world.",
-      "body": "China Petroleum and Chemical Corporation, or Sinopec Group, is a Chinese oil and gas enterprise based in Chaoyang District, Beijing. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Sinopec_logo.svg/330px-Sinopec_logo.svg.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sinopec"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "He is generally regarded as the second bishop of Rome, after Saint Peter.",
-      "body": "Pope Linus was the bishop of Rome from c. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Menologion_of_Basil_II_-_Patrobulus%2C_Hermas%2C_Linus%2C_Caius%2C_Philologus_of_70_disciples_%28Portrait_of_Linus%29.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pope_Linus"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Thuận is a French writer and translator of Vietnamese origin.",
-      "body": "Most of her works were written in Vietnamese and translated into French. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Thuan.jpg/330px-Thuan.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Thu%E1%BA%ADn"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Edgar de Picciotto founded the bank in 1969.",
-      "body": "Union Bancaire Privée is a private bank and wealth management firm headquartered in Geneva. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Union_Bancaire_Priv%C3%A9e_logo.svg/330px-Union_Bancaire_Priv%C3%A9e_logo.svg.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Union_Bancaire_Priv%C3%A9e"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1790 —",
-      "hook": "Inaugural Fête de la Fédération is held to celebrate the unity of the French people and the national reconciliation.",
-      "body": "The Fête de la Fédération was a massive holiday festival held throughout France in 1790 in honour of the French Revolution, celebrating the Revolution itself, as well as national unity. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/F%C3%AAte_de_la_F%C3%A9d%C3%A9ration_1790%2C_Mus%C3%A9e_de_la_R%C3%A9volution_fran%C3%A7aise_-_Vizille.jpg/330px-F%C3%AAte_de_la_F%C3%A9d%C3%A9ration_1790%2C_Mus%C3%A9e_de_la_R%C3%A9volution_fran%C3%A7aise_-_Vizille.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/F%C3%AAte_de_la_F%C3%A9d%C3%A9ration"
-    },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "Christopher Nolan fans are embarking on epic journeys to see The Odyssey the way he wants them to",
-      "body": "<p>Cinephiles are crossing oceans to see the film at its highest possible resolution – and only 41 cinemas in the world are equipped to do it</p><p>In Homer’s Odyssey, the hero Odysseus embarks on an epic journey spanning oceans, monsters a",
+      "hook": "Sam Neill’s final films tell us a lot about who he was as an actor – and why we’ll miss him | Luke Buckmaster",
+      "body": "<p>A character actor in a leading man’s body, he gave balls-to-the-wall performances in a subversively varied career</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/jul/13/sam-neill-final-interview-readers-question-jurassic-par",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/jul/14/christopher-nolan-fans-are-embarking-on-epic-journeys-to-see-the-odyssey-the-way-he-wants-them-to"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Here's one for the group chat —",
-      "hook": "Mer de Glace welcomes approximately 350,000 visitors per year.",
-      "body": "The Mer de Glace ice cave is an artificial ice cave in the French department of Haute-Savoie, on the Mont Blanc massif of the French Alps. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mer_de_Glace_cave_entry_2.jpg/330px-Mer_de_Glace_cave_entry_2.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mer_de_Glace_ice_cave"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Season of Anomy is the second novel by Nobel winning Nigerian playwright and critic Wole Soyinka.",
-      "body": "Published in 1973, it is one of only three novels published during Soyinka's highly productive literary career. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/Soyinka_Seasonof_Anomy.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Season_of_Anomy"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "After three years at Western Carolina, he entered the 2004 NBA draft and was selected with the 26th overall pick by the Sacramento Kings.",
-      "body": "is an American former professional basketball player who played 12 seasons in the National Basketball Association (NBA). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/20140101_Kevin_Martin_%287%29.JPG/330px-20140101_Kevin_Martin_%287%29.JPG",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kevin_Martin_(basketball%2C_born_1983)"
+      "url": "https://www.theguardian.com/film/2026/jul/14/sam-neill-final-films-movies-who-was-actor"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "Cineuropa —",
-      "hook": "GoCritic! Review: Bardo - GoCritic! - Fest Anča 2026",
-      "body": "Viera Čákanyová takes her viewers on a meditative journey through death and rebirth",
+      "hook": "Review: Gaua - NIFFF 2026",
+      "body": "Paul Urkijo Alijo draws on Basque folklore and oral tradition to deliver a forbidden love story transcending reality",
       "src": "Cineuropa",
-      "url": "https://cineuropa.org/en/newsdetail/493296/"
+      "url": "https://cineuropa.org/en/newsdetail/493320/"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "A Conversation with Oscar Wilde is an outdoor sculpture by Maggi Hambling on Adelaide Street in central London dedicated to Oscar Wilde.",
+      "body": "Unveiled in 1998, it takes the form of a bench-like green granite sarcophagus, with a bust of Wilde emerging from the upper end, with a hand clasping a cigarette. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/A_Conversation_with_Oscar_Wilde_%2848928819126%29.jpg/330px-A_Conversation_with_Oscar_Wilde_%2848928819126%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Conversation_with_Oscar_Wilde"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Carmelopodus is an ichnogenus of theropod dinosaur footprint.",
+      "body": "They are suggested to belong to basal ceratosaurs, due to their similarities with abelisaurid footprints. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Loulle_dinosaur_tracks_site_-_Little_theropod_tracks_01.JPG/330px-Loulle_dinosaur_tracks_site_-_Little_theropod_tracks_01.JPG",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carmelopodus"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Cineuropa —",
+      "hook": "Review: Homo Sive Natura - Karlovy Vary 2026 - Proxima",
+      "body": "Giovanni C Lorusso turns a Cambodian land grab into a compelling, visually rigorous study of colonialism surviving long after the colonisers themselves have disappeared",
+      "src": "Cineuropa",
+      "url": "https://cineuropa.org/en/newsdetail/493321/"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "California leads lawsuit to block Paramount Warner Bros mega merger",
+      "body": "The state, where both studios have headquarters, has joined 11 others to halt the deal.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Lyndhurst is a village and civil parish situated in the New Forest in Hampshire, England, about nine miles (14 km) south-west of Southampton.",
+      "body": "Known as the \"capital of the New Forest\", Lyndhurst houses the New Forest District Council and Court of Verderers. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/High_Street%2C_Lyndhurst%2C_Hampshire%2C_England%2C_in_Feb_2020_arp.jpg/330px-High_Street%2C_Lyndhurst%2C_Hampshire%2C_England%2C_in_Feb_2020_arp.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lyndhurst%2C_Hampshire"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Synthetic Sincerity review – Marc Isaacs’ AI interrogation grapples with identity and existence",
+      "body": "<p>A combination of fact and fiction leaves the celebrated documentarian’s puzzling project about software training wanting for depth</p><p>Marc Isaacs’ new film is a curious, intriguing, semi-sincere affair that I couldn’t make friends wit",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/14/synthetic-sincerity-review-marc-isaacs-ai"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "It is situated about 3 miles (4.8 km) south of Maidenhead and 5 miles (8 km) west of Windsor and lies on the border of Bray and Waltham parishes.",
+      "body": "Touchen End, formerly written Touchen-end, is a village in the civil parish of Bray in the English county of Berkshire. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Former_Holy_Trinity%2C_Touchen_End_-_geograph.org.uk_-_1536872.jpg/330px-Former_Holy_Trinity%2C_Touchen_End_-_geograph.org.uk_-_1536872.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Touchen_End"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Reverend George Herbert Carpenter (1865–1939) was a British naturalist and entomologist, born in the Peckham district of southeast London in 1865, and died in Belfast on 22 January 1939.",
+      "body": "His main interests were in the study of insects and arachnids, zoogeography, and economic zoology. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/George_Herbert_Carpenter.png/330px-George_Herbert_Carpenter.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Herbert_Carpenter"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Veteran Hong Kong producer Nansun Shi, with credits including 'Infernal Affairs', dies at 75",
+      "body": "Nansun Shi, the Hong Kong producer and co-founder of Film Workshop, has died, age 75.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/veteran-hong-kong-producer-nansun-shi-with-credits-including-infernal-affairs-dies-at-75/5218586.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Victoria Eugenia Villarruel is an Argentine politician, lawyer, writer, and activist who has served as the 38th vice president of Argentina since 2023.",
+      "body": "Described as a conservative politician, she is the founder of the civil association Centro de Estudios Legales sobre el Terrorismo y sus Víctimas, which she has chaired since its inception. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Victoria_Villarruel_Abril_2025_%28cropped%29.jpg/330px-Victoria_Villarruel_Abril_2025_%28cropped%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Victoria_Villarruel"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Amber Davies calls out audience member for filming Legally Blonde performance",
+      "body": "The ex-Love Islander says she asked for the theatregoer, who was sitting in the front row, to be kicked out.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c14y35erdg2o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
