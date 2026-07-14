@@ -1,25 +1,9 @@
-// fetch-content.mjs
-// Builds content.json (Node 18+, no npm install). Free, ad-free, self-updating.
-//
-// Sources:
-//   - Wikipedia random-by-theme  -> fun-fact cards (books, history, geography,
-//                                   science, food, how-it's-made)
-//   - TMDb (free key)            -> Cinema + People cards (posters, photos)
-//   - RSS (European, English)    -> News cards (title + a few lines + link only)
-//   - Wikipedia "On this day"    -> extra history cards
-//   - Wikimedia Commons video    -> a few native video clips
-//
-// seen.json remembers what already appeared so nothing repeats.
-// Optional LLM rewrite: USE_LLM=1 + ANTHROPIC_API_KEY. TMDb needs TMDB_API_KEY.
-
 import { writeFile, readFile } from "node:fs/promises";
 
-// --------------------------------------------------------------------------- CONFIG
 const CARDS_PER_CAT = 4, HISTORY_CARDS = 6, SEEN_CAP = 6000;
-const UA = "SapioFeed/1.0 (friends learning project)";
+const UA = "Sapio/1.0";
 const TMDB_KEY = process.env.TMDB_API_KEY || "";
 
-// Wikipedia themes (cinema/people are used ONLY as fallback when no TMDb key).
 const CATEGORY_SOURCES = {
   books:      ['deepcategory:"Novels"', 'novel OR author OR book'],
   history:    ['deepcategory:"Historical events"', 'history OR empire OR dynasty OR revolution'],
@@ -31,24 +15,22 @@ const CATEGORY_SOURCES = {
   people:     ['deepcategory:"Actors"', 'actor OR actress OR performer'],
 };
 
-// European, English-language outlets, weighted toward FILM & BOOKS.
-// Only title + a few lines + link. `n` = how many items to take from each.
 const NEWS_FEEDS = [
-  { name: "The Guardian · Film",   url: "https://www.theguardian.com/film/rss",  n: 3 },
-  { name: "The Guardian · Books",  url: "https://www.theguardian.com/books/rss", n: 3 },
-  { name: "Cineuropa",             url: "https://cineuropa.org/en/rss",           n: 2 },
-  { name: "BBC Culture",           url: "https://www.bbc.com/culture/feed.rss",   n: 2 },
-  { name: "BBC Entertainment",     url: "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml", n: 2 },
-  { name: "New Scientist",         url: "https://www.newscientist.com/feed/home/", n: 1 },
-  { name: "ESA",                   url: "https://www.esa.int/rssfeed/Our_Activities/Space_Science", n: 1 },
+  { name:"The Guardian · Film",    url:"https://www.theguardian.com/film/rss",    n:10 },
+  { name:"The Guardian · Books",   url:"https://www.theguardian.com/books/rss",   n:10 },
+  { name:"The Guardian · Culture", url:"https://www.theguardian.com/culture/rss", n:8 },
+  { name:"Cineuropa",              url:"https://cineuropa.org/en/rss",             n:10 },
+  { name:"Screen Daily",           url:"https://www.screendaily.com/45202.rss",    n:6 },
+  { name:"BBC Entertainment",      url:"https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml", n:8 },
+  { name:"New Scientist",          url:"https://www.newscientist.com/feed/home/",  n:4 },
+  { name:"ESA",                    url:"https://www.esa.int/rssfeed/Our_Activities/Space_Science", n:2 },
 ];
-// Skip anything that self-labels as a spoiler / recap / ending-explained piece.
+const NEWS_KEEP = 60;
 const SPOILER = /\b(spoilers?|ending explained|ending,? explained|recap|full plot|plot summary|who dies|dies in|death of|twist explained|finale explained|season finale|episode \d+|breakdown|explained:)\b/i;
 
 const VIDEO_QUERIES = { science:["nasa animation"], geography:["earth timelapse"], howitsmade:["manufacturing process"] };
 const VIDEOS_PER_CAT = 2, MAX_BYTES = 40_000_000;
 
-// --------------------------------------------------------------------------- helpers
 const OPENERS = ["File under 'wait, really?' —","Okay, this one's fun —","Small thing, surprisingly big deal —",
   "Here's one for the group chat —","You probably never noticed this —","Bet you didn't know —"];
 const KICKERS = ["Worth a quiet trip down the rabbit hole.","Bring it up somewhere. Watch the reaction.",
@@ -71,12 +53,12 @@ function funFact(extract){
   return best || s[0] || "";
 }
 
-// --------------------------------------------------------------------------- anti-repeat memory
 let seen = new Set(); let seenOrder = []; const ADDED = [];
 async function loadSeen(){ try{ seenOrder=JSON.parse(await readFile("seen.json","utf8")); seen=new Set(seenOrder); }catch{} }
+async function loadArchive(){ try{ return JSON.parse(await readFile("news-archive.json","utf8")); }catch{ return []; } }
+async function saveArchive(a){ await writeFile("news-archive.json", JSON.stringify(a,null,2)); }
 async function saveSeen(){ const a=[...ADDED,...seenOrder].slice(0,SEEN_CAP); await writeFile("seen.json",JSON.stringify(a)); }
 
-// --------------------------------------------------------------------------- Wikipedia
 async function searchTitles(query, limit){
   const api=`https://en.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch=${encodeURIComponent(query)}&srsort=random&srlimit=${limit}&srnamespace=0`;
   try{ const r=await fetch(api,{headers:{"User-Agent":UA}}); if(!r.ok)throw 0; const d=await r.json(); return (d?.query?.search||[]).map(x=>x.title); }catch{ return []; }
@@ -106,7 +88,6 @@ async function fetchCategory(cat, queries){
   return cards;
 }
 
-// --------------------------------------------------------------------------- TMDb (Cinema + People)
 async function tmdb(path, params={}){
   if(!TMDB_KEY) return null;
   const u=new URL("https://api.themoviedb.org/3"+path);
@@ -141,34 +122,34 @@ async function fetchPeople(n){
   return out;
 }
 
-// --------------------------------------------------------------------------- News (RSS, title + few lines + link)
 async function fetchNews(){
-  const out=[];
+  const out=[], localLinks=new Set();
   for(const f of NEWS_FEEDS){
     const limit=f.n||2;
     try{
       const r=await fetch(f.url,{headers:{"User-Agent":UA}}); if(!r.ok) continue;
       const xml=await r.text();
-      const items=xml.split(/<item[ >]/).slice(1);
+      const items=xml.split(/<(?:item|entry)[ >]/).slice(1);
       let added=0;
       for(const it of items){
         if(added>=limit) break;
-        const title=decode(pick1(it,/<title>([\s\S]*?)<\/title>/));
-        let link=decode(pick1(it,/<link>([\s\S]*?)<\/link>/)) || decode(pick1(it,/<guid[^>]*>([\s\S]*?)<\/guid>/));
-        const desc=decode(pick1(it,/<description>([\s\S]*?)<\/description>/));
-        if(!title||!/^https?:/.test(link)) continue;
-        if(SPOILER.test(`${title} ${desc}`)) continue;          // no spoilers
-        const id="news:"+link; if(seen.has(id)) continue;
+        const title=decode(pick1(it,/<title[^>]*>([\s\S]*?)<\/title>/));
+        let link=decode(pick1(it,/<link>([\s\S]*?)<\/link>/));
+        if(!/^https?:/.test(link)) link=pick1(it,/<link[^>]*rel="alternate"[^>]*href="([^"]+)"/)||pick1(it,/<link[^>]*href="([^"]+)"/);
+        if(!/^https?:/.test(link)) link=decode(pick1(it,/<guid[^>]*>([\s\S]*?)<\/guid>/));
+        const desc=decode(pick1(it,/<(?:description|summary|content)[^>]*>([\s\S]*?)<\/(?:description|summary|content)>/));
+        if(!title||!/^https?:/.test(link)||localLinks.has(link)) continue;
+        if(SPOILER.test(`${title} ${desc}`)) continue;
+        localLinks.add(link);
         const body=sentences(desc).slice(0,3).join(" ").slice(0,240);
         out.push({ type:"card", cat:"news", opener:`${f.name} —`, hook:title, body, src:f.name, url:link });
-        ADDED.push(id); added++;
+        added++;
       }
     }catch{}
   }
   return out;
 }
 
-// --------------------------------------------------------------------------- Wikipedia "On this day"
 async function fetchHistory(){
   const now=new Date(), mm=String(now.getUTCMonth()+1).padStart(2,"0"), dd=String(now.getUTCDate()).padStart(2,"0");
   try{ const r=await fetch(`https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/${mm}/${dd}`,{headers:{"User-Agent":UA}}); if(!r.ok)throw 0; const d=await r.json();
@@ -179,7 +160,6 @@ async function fetchHistory(){
   }catch{ return []; }
 }
 
-// --------------------------------------------------------------------------- Wikimedia video
 async function fetchCommons(term){
   const q=encodeURIComponent(`filemime:video/webm ${term}`);
   const api=`https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=${q}&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|mime|size|extmetadata&iiurlwidth=640`;
@@ -200,12 +180,11 @@ async function fetchVideos(){
   return out;
 }
 
-// --------------------------------------------------------------------------- optional LLM
 async function humanizeWithLLM(cards){
   if(process.env.USE_LLM!=="1"||!process.env.ANTHROPIC_API_KEY) return cards;
   const out=[];
   for(const c of cards){
-    if(c.cat==="news"){ out.push(c); continue; } // don't rewrite live news
+    if(c.cat==="news"){ out.push(c); continue; }
     try{ const r=await fetch("https://api.anthropic.com/v1/messages",{ method:"POST",
       headers:{"content-type":"application/json","x-api-key":process.env.ANTHROPIC_API_KEY,"anthropic-version":"2023-06-01"},
       body:JSON.stringify({ model:"claude-haiku-4-5-20251001", max_tokens:220,
@@ -219,19 +198,24 @@ async function humanizeWithLLM(cards){
   return out;
 }
 
-// --------------------------------------------------------------------------- main
 (async()=>{
   await loadSeen();
   const topic=[];
   for(const [cat,queries] of Object.entries(CATEGORY_SOURCES)){
-    if(TMDB_KEY && (cat==="cinema"||cat==="people")) continue; // TMDb handles these
+    if(TMDB_KEY && (cat==="cinema"||cat==="people")) continue;
     process.stdout.write(`  ${cat}… `); const c=await fetchCategory(cat,queries); topic.push(...c); console.log(`${c.length}`);
   }
   let cinemaPeople=[];
   if(TMDB_KEY){ console.log("TMDb cinema+people…"); cinemaPeople=[...await fetchCinema(CARDS_PER_CAT), ...await fetchPeople(CARDS_PER_CAT)]; }
-  console.log("News (RSS)…");   const news=await fetchNews();
+  console.log("News (RSS)…");   const freshNews=await fetchNews();
   console.log("On this day…");  const history=await fetchHistory();
   console.log("Videos…");       const videos=await fetchVideos();
+
+  const archive=await loadArchive();
+  const known=new Set(archive.map(x=>x.url));
+  const merged=[...freshNews.filter(x=>!known.has(x.url)).map(x=>({...x,_t:Date.now()})), ...archive].slice(0, NEWS_KEEP);
+  await saveArchive(merged);
+  const news=merged.map(({_t,...c})=>c);
 
   let cards = await humanizeWithLLM([...topic, ...cinemaPeople, ...history, ...news]);
   const items = shuffle([...videos, ...cards]);

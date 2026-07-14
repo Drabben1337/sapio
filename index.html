@@ -59,7 +59,6 @@
   .card.hide{display:none}
   .card .ghost{position:absolute;right:-14px;bottom:34px;font-family:'Fraunces',serif;font-weight:900;
     font-size:150px;line-height:.8;color:#fff;opacity:.045;pointer-events:none;user-select:none;letter-spacing:-4px}
-  /* topic background image (subtle, hints what the card is about) */
   .card .bgimg{position:absolute;inset:0;z-index:0;background-size:cover;background-position:center;opacity:.30;filter:saturate(.9)}
   .card.has-img::after{content:'';position:absolute;inset:0;z-index:1;
     background:linear-gradient(180deg,var(--bg) 0%,rgba(0,0,0,0) 30%,rgba(0,0,0,.06) 52%,var(--bg) 90%)}
@@ -165,9 +164,6 @@ const LABEL={cinema:'Cinema',people:'People',books:'Books',history:'History',geo
 const GHOST={cinema:'C',people:'P',books:'B',history:'H',geography:'G',science:'S',food:'F',howitsmade:'M',news:'N'};
 const WIKI_BASE='https://en.wikipedia.org/wiki/';
 
-// Sample fallback. Each card names a Wikipedia article: the app pulls that
-// article's thumbnail for the background. Once deployed, content.json ships
-// with images baked in, so no live lookups are needed.
 const SAMPLE=[
   {type:'card',cat:'cinema',wiki:'Wilhelm scream',url:WIKI_BASE+'Wilhelm_scream',opener:'Once you hear it, you hear it everywhere —',hook:'The same recorded scream has been reused in hundreds of films.',body:'Recorded in 1951, the &ldquo;Wilhelm scream&rdquo; became a sound-editor in-joke and turns up in Star Wars, Indiana Jones, Pixar movies and more. Sound crews slip it in on purpose.',src:'Film sound'},
   {type:'card',cat:'people',wiki:'Hedy Lamarr',url:WIKI_BASE+'Hedy_Lamarr',opener:'The 1940s movie star who helped invent your Wi-Fi —',hook:'A Hollywood actress co-invented the technology behind Wi-Fi and Bluetooth.',body:'Between films, Hedy Lamarr co-designed a &ldquo;frequency-hopping&rdquo; system to stop torpedoes being jammed. The same idea underpins modern wireless.',src:'History of technology'},
@@ -249,7 +245,6 @@ function render(list){
   setupObserver(); enrichImages();
 }
 
-// For sample cards that only name a Wikipedia article: fetch its thumbnail live.
 function enrichImages(){
   document.querySelectorAll('.card[data-wiki]:not(.has-img)').forEach(el=>{
     fetch('https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(el.dataset.wiki))
@@ -273,7 +268,7 @@ feed.addEventListener('click',e=>{
     const now=toggleSave(it);
     document.querySelectorAll('.card[data-id="'+id+'"] .act.save').forEach(b=>b.classList.toggle('on',now));
     updateBadge(); if(savedMode) renderSaved(); return;}
-  if(e.target.closest('.more')) return; // let the link open
+  if(e.target.closest('.more')) return;
   const vid=e.target.closest('.vid');
   if(vid){vid.paused?vid.play().catch(()=>{}):vid.pause();return;}
   const act=e.target.closest('.act.like'); if(act) act.classList.toggle('on');
@@ -311,12 +306,32 @@ feed.addEventListener('scroll',()=>{if(feed.scrollTop>40)swipe.classList.add('go
 document.getElementById('closeInstall').addEventListener('click',()=>document.getElementById('install').classList.add('gone'));
 setTimeout(()=>document.getElementById('install').classList.add('gone'),9000);
 
-(async()=>{
-  let items=SAMPLE;
-  try{const res=await fetch('content.json',{cache:'no-store'});
-    if(res.ok){const d=await res.json(); if(d.items&&d.items.length) items=d.items;}}catch(e){}
-  mainItems=shuffle(items.slice()); updateBadge(); renderFeed();
-})();
+let lastGenerated=null;
+async function loadContent(initial){
+  try{
+    const res=await fetch('content.json',{cache:'no-store'});
+    if(res.ok){
+      const d=await res.json();
+      if(d.items&&d.items.length){
+        if(d.generated&&d.generated===lastGenerated) return false;
+        lastGenerated=d.generated||String(Date.now());
+        mainItems=shuffle(d.items.slice());
+        return true;
+      }
+    }
+  }catch(e){}
+  if(initial){ mainItems=shuffle(SAMPLE.slice()); return true; }
+  return false;
+}
+async function refresh(){
+  if(savedMode) return;
+  const changed=await loadContent(false);
+  if(changed && feed.scrollTop<60) renderFeed();
+}
+document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible') refresh(); });
+setInterval(refresh, 15*60*1000);
+
+(async()=>{ await loadContent(true); updateBadge(); renderFeed(); })();
 </script>
 </body>
 </html>
