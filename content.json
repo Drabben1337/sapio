@@ -1,16 +1,7 @@
 {
-  "generated": "2026-07-14T23:39:24.361Z",
-  "count": 11,
+  "generated": "2026-07-15T01:06:10.368Z",
+  "count": 21,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Jane Campion remembers Sam Neill: ‘He was radiating peace, beaming love’",
-      "body": "<p>The Piano director shares her memories of the actor on set – and the last time she saw him in hospital</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/jul/13/sam-neill-final-interview-readers-question-jurassic-park\">Sam Neil",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/14/jane-campion-remembers-sam-neill-the-piano"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -22,51 +13,33 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Cineuropa —",
-      "hook": "Nicolas Boukhrief shooting 14 juillet - Production / Funding - France/Belgium",
-      "body": "Alexandra Lamy, Camille Rutherford and Jonathan Zaccaï are starring in the filmmaker’s new movie, produced by Bizibi and Dimanche Soir, and set to be sold by The Bureau Sales",
-      "src": "Cineuropa",
-      "url": "https://cineuropa.org/en/newsdetail/493328/"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The OOPic is an Object Oriented Programmable Integrated Circuit.",
-      "body": "Created by Savage Innovations, this PIC microcontroller comes with an IDE that supports programming in syntaxes based on the BASIC, Java and C programming languages. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "cat": "geography",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The term is also used for elongated fold mountains with several parallel chains.",
+      "body": "A mountain chain is a row of high mountain summits, a linear sequence of interconnected or related mountains, or a contiguous ridge of mountains within a larger mountain range. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zell-Pfarre_Peiner_Kobla_01.jpg/330px-Zell-Pfarre_Peiner_Kobla_01.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/OOPic"
+      "url": "https://en.wikipedia.org/wiki/Mountain_chain"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Disney’s ‘Moana’ tops UK-Ireland box office with £2.8m as ‘Toy Story 5’ passes £40m",
-      "body": "Meanwhile, Studiocanal’s ’Evil Dead Burn’ opened in fourth place.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/disneys-moana-tops-uk-ireland-box-office-with-28m-as-toy-story-5-passes-40m/5218566.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Edwin Mullhouse: The Life and Death of an American Writer 1943–1954, by Jeffrey Cartwright is the critically acclaimed debut novel by American author Steven Millhauser, published in 1972 and written in the form of a biography of a fictitious person by a fictitious author.",
-      "body": "It was Millhauser's best known novel until the publication of his Pulitzer Prize-winning Martin Dressler in 1997, and according to Patrick McGrath writing in The New York Times it is his best work. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/EdwinMullhouse.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Edwin_Mullhouse"
-    },
-    {
-      "type": "card",
-      "cat": "books",
+      "cat": "history",
       "opener": "File under 'wait, really?' —",
-      "hook": "Razlog is a town and ski resort in Razlog Municipality, Blagoevgrad Province in southwestern Bulgaria.",
-      "body": "It is situated in the Razlog Valley and was first mentioned during the reign of Byzantine emperor Basil II. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Razlog_Sights.jpg/330px-Razlog_Sights.jpg",
+      "hook": "Although a minor figure in Mosley's prewar British Union of Fascists, Hamm became a leading figure after the Second World War and eventually succeeded as leader of the Union Movement after Mosley's retirement.",
+      "body": "Edward Jeffrey Hamm was a leading British fascist and supporter of Oswald Mosley. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cb/Jeffrey_Hamm_-_British_Union_of_Fascists.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Razlog"
+      "url": "https://en.wikipedia.org/wiki/Jeffrey_Hamm"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Checkmate to Murder is a 1944 detective novel by E.C.R.",
+      "body": "Lorac, the pen name of the British writer Edith Caroline Rivett. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/Checkmate_to_Murder.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Checkmate_to_Murder"
     },
     {
       "type": "card",
@@ -80,12 +53,51 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "PC LOAD LETTER is a printer error message that has entered popular culture as a technology meme referring to a confusing or inappropriate error message.",
-      "body": "It is a real message that can be displayed by an HP LaserJet, and indicates the printer does not have the US letter sized paper needed to complete a particular print job. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PC_Load_Letter.jpg/330px-PC_Load_Letter.jpg",
+      "opener": "Okay, this one's fun —",
+      "hook": "Drums, Girls, and Dangerous Pie is a book aimed at children and young teenagers, and was the 2004 debut novel from author Jordan Sonnenblick, originally published by DayBlue Insights and later by Scholastic.",
+      "body": "Publishers Weekly described it as \"insightful\". The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Drums%2C_Girls%2C_and_Dangerous_Pie.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/PC_LOAD_LETTER"
+      "url": "https://en.wikipedia.org/wiki/Drums%2C_Girls%2C_and_Dangerous_Pie"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "He was the founding principal of the Royal Northern College of Music from 1973 to 1996 and the director of the Cheltenham Music Festival.",
+      "body": "Sir John Manduell CBE was a British radio executive, and administrator and composer in the field of classical music. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Manduell"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Cineuropa —",
+      "hook": "Daniele Luchetti shooting Dove non mi hai portata, starring Tecla Insolia and Margherita Buy - Production / Funding - Italy",
+      "body": "Adapted from Maria Grazia Calandrone’s Strega Prize-shortlisted novel, the film is an Italian-Spanish co-production between Fandango, Vision Distribution and BTeam Prods",
+      "src": "Cineuropa",
+      "url": "https://cineuropa.org/en/newsdetail/493335/"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "A pressure ridge is a linear pile-up of sea ice fragments formed in pack ice by accumulation in the convergence between floes in an oceanic or coastal environment.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pressure_ridge_%28ice%29_Formation_Drawing3.svg/330px-Pressure_ridge_%28ice%29_Formation_Drawing3.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pressure_ridge_(ice)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "As of 1 April 2021, the city had an estimated population of 113,542, and a population density of 6500 persons per km2.",
+      "body": "Akishima is a city located in the western portion of the Tokyo Metropolis, Japan. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Akishima_city_hall.JPG/330px-Akishima_city_hall.JPG",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Akishima%2C_Tokyo"
     },
     {
       "type": "card",
@@ -98,12 +110,100 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Black Butterfly is the third and final novel in Mark Gatiss's Lucifer Box trilogy, which deals with the exploits of a bisexual British detective and secret agent.",
+      "body": "The previous volumes were The Vesuvius Club and The Devil in Amber. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6e/Cover_of_%22Black_Butterfly%22.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_Butterfly_(novel)"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "Cineuropa —",
-      "hook": "Daniele Luchetti shooting Dove non mi hai portata, starring Tecla Insolia and Margherita Buy - Production / Funding - Italy",
-      "body": "Adapted from Maria Grazia Calandrone’s Strega Prize-shortlisted novel, the film is an Italian-Spanish co-production between Fandango, Vision Distribution and BTeam Prods",
+      "hook": "Nicolas Boukhrief shooting 14 juillet - Production / Funding - France/Belgium",
+      "body": "Alexandra Lamy, Camille Rutherford and Jonathan Zaccaï are starring in the filmmaker’s new movie, produced by Bizibi and Dimanche Soir, and set to be sold by The Bureau Sales",
       "src": "Cineuropa",
-      "url": "https://cineuropa.org/en/newsdetail/493335/"
+      "url": "https://cineuropa.org/en/newsdetail/493328/"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It was used mostly for political prisoners from Nazi-occupied territories.",
+      "body": "Falstad concentration camp was situated in the village of Ekne in what was Skogn Municipality in Norway. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Falstad_Fangeleir_%281945%29_%2814845344889%29.jpg/330px-Falstad_Fangeleir_%281945%29_%2814845344889%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Falstad_concentration_camp"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Mallines are distinguished from other wetlands in that the groundwater level reaches the surface at them, yet the mallín is still an area of net infiltration.",
+      "body": "Mallín is a type of meadow and wetland found in southern Chile and Argentina. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/IngenieroJacobacci118.JPG/330px-IngenieroJacobacci118.JPG",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mall%C3%ADn"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Here's one for the group chat —",
+      "hook": "Ridge-and-swale landscapes are most commonly formed by the gradual movement of a beach, for example as a result of gradually fluctuating water levels, or the shifting meanders of a river.",
+      "body": "Ridge and swale, or in dunal areas dune and swale, is a landform consisting of regular, parallel ridges alternating with marshy depressions. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/RedRiverMeandersArkansas1.jpg/330px-RedRiverMeandersArkansas1.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ridge_and_swale"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "David Friedman, known professionally as David Benioff, is an American novelist, screenwriter, and producer.",
+      "body": "Along with his collaborator D. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/David_Benioff_by_Gage_Skidmore_2.jpg/330px-David_Benioff_by_Gage_Skidmore_2.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/David_Benioff"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Jane Campion remembers Sam Neill: ‘He was radiating peace, beaming love’",
+      "body": "<p>The Piano director shares her memories of the actor on set – and the last time she saw him in hospital</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/jul/13/sam-neill-final-interview-readers-question-jurassic-park\">Sam Neil",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/14/jane-campion-remembers-sam-neill-the-piano"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Crazed Fruit , also known as Juvenile Jungle, is a 1956 Japanese Sun Tribe film directed by Kō Nakahira.",
+      "body": "It is an adaptation of the novel of the same title by Shintaro Ishihara, the older brother of cast member Yujiro Ishihara, and is about two brothers who fall in love with the same woman and the resulting conflict. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/80/Kurutta-kajitsu-japanese-movie-poster-md.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crazed_Fruit"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The station carries a variety of mostly news-oriented programming from broadcasters outside the United States, in several languages.",
+      "body": "WZRA-CD is a low-power, Class A television station licensed to Oldsmar, Florida, United States, serving ethnic groups in the Tampa Bay area. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/WZRA-CD"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Can you spot the poacher’s handprint? Earth Photo award winners – in pictures",
+      "body": "<p>From scientific tricks to stop turtle traffickers to stranded seals and displaced workers, these images all scooped prizes at this year’s Earth Photo awards</p> <a href=\"https://www.theguardian.com/artanddesign/gallery/2026/jul/14/earth-",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/14/earth-photo-award-winners"
     }
   ]
 }
