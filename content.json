@@ -1,44 +1,36 @@
 {
-  "generated": "2026-07-15T22:44:41.453Z",
-  "count": 13,
+  "generated": "2026-07-15T23:45:43.472Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Lucky review – Anya Taylor-Joy’s daft thriller is classic summer viewing",
-      "body": "<p>This series about a conwoman fleeing for her life is packed with explosions and preposterous coincidences. It’s bunkum with bells on – but who can resist it in this heat?</p><p>Luciana “Lucky” Armstrong (Anya Taylor‑Joy) is on the run, s",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/15/lucky-review-anya-taylor-joy-apple-tv"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Jackass: Best and Last review – kings of gross-out comedy’s final, funny farewell",
-      "body": "<p>So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgia</p><p>The boy-men of <a href=\"https://www.theguardian.com/film/202",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The January Uprising was an insurrection against Russian imperial rule in the Congress Kingdom of Poland and adjacent lands of the former Polish–Lithuanian Commonwealth.",
-      "body": "Sparked by nationalist aspirations, political repressions, religious differences and opposition to conscription, it was organized by the clandestine Central National Committee and subsequently by the revolutionary Polish National Government. Worth a quiet trip",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Jan_Matejko_-_Polonia_1863_%28Poland_Enchained%29_-_MNK_XII-453_-_National_Museum_Krak%C3%B3w.jpg/330px-Jan_Matejko_-_Polonia_1863_%28Poland_Enchained%29_-_MNK_XII-453_-_National_Museum_Krak%C3%B3w.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/January_Uprising"
+      "cat": "history",
+      "opener": "On this day in 1998 —",
+      "hook": "Sri Lankan Civil War: Sri Lankan Tamil MP S. Shanmuganathan is killed by a claymore mine.",
+      "body": "The Sri Lankan civil war was fought in Sri Lanka from 1983 to 2009. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sri_Lanka_North_Eastern_Province_locator_map.svg/330px-Sri_Lanka_North_Eastern_Province_locator_map.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Sri_Lankan_civil_war"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Martin William Ashley MVO Dipl Arch RIBA is a British architect known for restoration of ecclesiastical buildings and royal properties and a specialist in period and listed buildings.",
-      "body": "He studied a Diploma in Architecture at Kingston Polytechnic and completed a scholarship with Society for the Protection of Ancient Buildings in 1976. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "The Lewis Walpole Library in Farmington, Connecticut, is part of the Yale University Library system.",
+      "body": "It holds important collections of 18th-century British literary remains, including an unrivalled quantity of Horace Walpole's papers and effects from his estate at Strawberry Hill in Twickenham in west London. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Horace_Walpole_1768.jpg/330px-Horace_Walpole_1768.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Martin_William_Ashley"
+      "url": "https://en.wikipedia.org/wiki/Lewis_Walpole_Library"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1410 —",
+      "hook": "Polish–Lithuanian–Teutonic War: Battle of Grunwald: The allied forces of the Kingdom of Poland and the Grand Duchy of Lithuania defeat the army of the Teutonic Order.",
+      "body": "The Polish–Lithuanian–Teutonic War, also known as the Great Teutonic War, occurred between 1409 and 1411 between the Teutonic Knights and the allied Kingdom of Poland and Grand Duchy of Lithuania. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jan_Matejko%2C_Bitwa_pod_Grunwaldem.jpg/330px-Jan_Matejko%2C_Bitwa_pod_Grunwaldem.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian%E2%80%93Teutonic_War"
     },
     {
       "type": "card",
@@ -51,23 +43,140 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Lucky review – Anya Taylor-Joy’s daft thriller is classic summer viewing",
+      "body": "<p>This series about a conwoman fleeing for her life is packed with explosions and preposterous coincidences. It’s bunkum with bells on – but who can resist it in this heat?</p><p>Luciana “Lucky” Armstrong (Anya Taylor‑Joy) is on the run, s",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/15/lucky-review-anya-taylor-joy-apple-tv"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "General Hershy Bar was a satirical character of the Vietnam War-era Anti-War protest movement, portrayed by William \"Bill\" Matons, in a parody of U.S.",
+      "body": "Hershey, then Director of the Selective Service. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/General_Hershey_Bar_on_Hollywood_Boulevard_in_front_of_Grauman%27s_Chinese_Theater_1979-81.jpg/330px-General_Hershey_Bar_on_Hollywood_Boulevard_in_front_of_Grauman%27s_Chinese_Theater_1979-81.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Hershy_Bar"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1099 —",
+      "hook": "First Crusade: Christian soldiers take the Church of the Holy Sepulchre in Jerusalem after the final assault of a difficult siege.",
+      "body": "The First Crusade (1096–1099) was the first of a series of religious wars, or Crusades, which were initiated, supported and at times directed by the Latin Church in the Middle Ages. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Peter_the_Hermit.jpg/330px-Peter_the_Hermit.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/First_Crusade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1971 —",
+      "hook": "The United Red Army is founded in Japan.",
+      "body": "The United Red Army (URA) was a far-left militant organization that operated in Japan between July 1971 and March 1972. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/United_Red_Army"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "“Locarno is the place to see how a film can work,” says festival director Giona A Nazzaro",
+      "body": "Nazzaro talks about his love for genre filmmaking and US cinema and embracing political debate.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/features/locarno-is-the-place-to-see-how-a-film-can-work-says-festival-director-giona-a-nazzaro/5218645.article"
+    },
+    {
+      "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Management of Savagery: The Most Critical Stage Through Which the Islamic Nation Will Pass, also translated as Administration of Savagery, is a book by the Islamist strategist Abu Bakr Naji, published on the Internet in 2004.",
-      "body": "It aimed to provide a strategy for al-Qaeda and other extremists whereby they could create a new Islamic caliphate. One of those things you can't un-know.",
+      "hook": "Jean Brown was born in Brooklyn, New York, and is best known for her work as a librarian and art collector.",
+      "body": "Her papers were acquired by the Getty Research Institute in Los Angeles, California, in 1985. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Management_of_Savagery"
+      "url": "https://en.wikipedia.org/wiki/Jean_Brown"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Mary Wings was an American cartoonist, writer, and artist.",
+      "body": "She was known for highlighting lesbian themes in her work. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mary_Wings"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1910 —",
+      "hook": "In his book Clinical Psychiatry, Emil Kraepelin gives a name to Alzheimer's disease, naming it after his colleague Alois Alzheimer.",
+      "body": "Emil Wilhelm Georg Magnus Kraepelin was a German psychiatrist. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Emil_Kraepelin_1926.jpg/330px-Emil_Kraepelin_1926.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Emil_Kraepelin"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1946 —",
+      "hook": "The State of North Borneo, now Sabah, Malaysia, is annexed by the United Kingdom.",
+      "body": "North Borneo was a British protectorate in the northern part of the island of Borneo. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_North_Borneo_%281902%E2%80%931946%29.svg/330px-Flag_of_North_Borneo_%281902%E2%80%931946%29.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/North_Borneo"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Cineuropa —",
+      "hook": "Jean-Baptiste Durand’s L’homme qui avait peur des femmes receives the CNC’s advance on receipts - Production / Funding - France",
+      "body": "The French organisation will also back the next films by Yolande Zauberman, Baya Kasmi, Cécile Ducrocq, Marya Zarif and Ilan Klipper",
+      "src": "Cineuropa",
+      "url": "https://cineuropa.org/en/newsdetail/493387/"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "His family provenance was Italian, but his social and professional network revolved around the ethnically German community centred on Prague.",
+      "body": "Ignaz Cornova was a Jesuit priest who had spent his life and career in Bohemia. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ignaz_Cornova"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "He seems to have chosen the wrong side in the dispute between King Charles I and the Scottish Covenanters.",
+      "body": "Patrick Hamilton was a minister of The Church of Scotland during a turbulent period in Scotland’s history. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Patrick_Hamilton_(poet)"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Planet Funk is an Italian electronic band.",
-      "body": "The group is composed of Marco Baroni, Alex Neri, Dan Black, Sally Doherty and formerly Sergio Della Monica and Domenico \"Gigi\" Canu. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Planet_Funk_Live_%40_Cassino_%2811-08-2012%29_21.JPG/330px-Planet_Funk_Live_%40_Cassino_%2811-08-2012%29_21.JPG",
+      "hook": "Sir Edward Waterhouse (1535–1591) was an English-born administrator in Ireland during the reign of Queen Elizabeth I.",
+      "body": "He was the first to hold the office of Chief Secretary for Ireland, and served as Chancellor of the Exchequer of Ireland from 1586 to 1589. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Planet_Funk"
+      "url": "https://en.wikipedia.org/wiki/Edward_Waterhouse"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "With 19.4 million passengers and 205,086 aircraft movements in 2025, Calgary International is the busiest airport in Alberta and the fourth-busiest in Canada by both passenger traffic and aircraft movements.",
+      "body": "Calgary International Airport, branded as YYC Calgary Airport, is an international airport that serves the city of Calgary, Alberta, Canada. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Calgary_Airport_by_Sentinel-2.jpg/330px-Calgary_Airport_by_Sentinel-2.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Calgary_International_Airport"
     },
     {
       "type": "card",
@@ -80,13 +189,12 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Monologue of Love is a Soviet musical telefilm, written by Grigore Vieru and directed by Larisa Maslyuk, starring Sofia Rotaru in the main role.",
-      "body": "The movie filmed at Ukretelefilm in Crimea, Kazakh SSR and Lithuanian SSR, features the new conception in the Soviet musical telefilms: substantial poetry monologues recited by Sofia Rotaru on themes associated with love, followed by thematic songs and corresp",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Monologue_of_Love_(film)"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Jackass: Best and Last review – kings of gross-out comedy’s final, funny farewell",
+      "body": "<p>So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgia</p><p>The boy-men of <a href=\"https://www.theguardian.com/film/202",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review"
     },
     {
       "type": "card",
@@ -96,34 +204,6 @@
       "body": "<p>The surreal comedian struggles to sell a middling and mostly conventional film about an uptight realtor whose life is upturned by an unpredictable figure from his past</p><p>The specific, unforced strangeness of <a href=\"https://www.theg",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The index database has in excess of 9 million records compiled from more than 470 newspapers and other sources across Australia.",
-      "body": "The Ryerson Index is an online index of death notices from Australian newspapers, past and present, compiled by the Sydney-based charity Ryerson Index Incorporated. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ryerson_Index"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘The world wasn’t ready for me’: Del LaGrace Volcano on photographing S&M scenes, leather-clad lesbians and a drag king self-portrait",
-      "body": "<p>Their scandalous work was once banned. Now it’s in museums. The photographer talks about a lifetime defying conformity – and their ‘very active’ sex life</p><p>The peaceful Swedish city of Örebro is not where you might expect to find Del",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/2026/jul/15/del-lagrace-volcano-photography-s-and-m-leather-lesbians-drag-king"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Ride Or Die review – Hannah Waddingham’s comedy caper is the perimenopausal TV of your dreams",
-      "body": "<p>This tale of a 50-year-old assassin going rogue – and having to confess all to her best mate – is so much fun. The chemistry between its leads is a thing of beauty</p><p>The bone-deep magnificence of Hannah Waddingham is such that she co",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/15/ride-or-die-review-hannah-waddinghams-comedy-thriller-prime-video"
     }
   ]
 }
