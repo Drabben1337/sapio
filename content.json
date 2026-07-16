@@ -1,120 +1,181 @@
 {
-  "generated": "2026-07-16T19:53:14.610Z",
-  "count": 13,
+  "generated": "2026-07-16T20:41:28.413Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1969 —",
+      "hook": "The Apollo 11 lunar landing mission is launched from Cape Kennedy in Florida, USA.",
+      "body": "Apollo 11 was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission of NASA's Apollo program. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/330px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Apollo_11"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "A classicist’s verdict on Nolan’s Odyssey: a soulful hero flatters our times as women and nuance pushed overboard",
+      "body": "<p>Matt Damon’s sensitive and repentant Odysseus might come as a surprise to Homer, likewise some significant omissions concerning the poem’s female characters</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/jul/15/the-odyssey-",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/15/the-odyssey-christopher-nolan-classicists-verdict"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Art of Opposition by Courttia Newland review – piercing essays on culture and creativity",
+      "body": "<p>The novelist issues a inspiring call for artists to exercise their autonomy in a world of gatekeepers</p><p>In 1988, the late Ghanaian writer and filmmaker Kwesi Owusu edited Storms of the Heart: An Anthology of Black Arts &amp; Culture,",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/14/the-art-of-opposition-by-courttia-newland-review-piercing-essays-on-culture-and-creativity"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "College Ranga is a 1976 Kannada language film directed by Puttanna Kanagal, based on a novel by B.",
-      "body": "Swamy of the same name, and starring Kalyan Kumar, Jayasimha, Leelavathi. Bring it up somewhere. Watch the reaction.",
+      "opener": "Bet you didn't know —",
+      "hook": "Tiger in the Bush (1957) is a novel for children by Australian author Nan Chauncy, illustrated by Margaret Horder.",
+      "body": "It won the Children's Book of the Year Award: Older Readers in 1958 and was selected by Queen Elizabeth, the Queen Mother as a present for Prince Charles and Princess Anne. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/79/Tiger_in_the_Bush.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tiger_in_the_Bush"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘Cool, suave and weirdly shy’: Miranda Richardson remembers Sam Neill",
+      "body": "<p>Sam had such ease about him and I just loved the way he seemed to cruise through life. But he confronted his mortality with real courage</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/jul/13/sam-neill-final-interview-reader",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/16/cool-suave-and-weirdly-shy-miranda-richardson-remembers-sam-neill"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Henry Morton Robinson was an American novelist, best known for A Skeleton Key to Finnegans Wake written with Joseph Campbell and his 1950 novel The Cardinal, which Time magazine reported was \"The year's most popular book, fiction or nonfiction.\"",
+      "body": "Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/College_Ranga"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘I felt Holden was talking to me alone’: The Catcher in the Rye at 75",
-      "body": "<p>JD Salinger’s wry, subversive classic inspired novelist Joseph O’Connor to be a writer. He reflects on why this story of a disaffected teenager remains as fresh and transgressive as ever</p><p>In 1981, when I was 17, my first girlfriend ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/16/i-felt-holden-was-talking-to-me-alone-the-catcher-in-the-rye-at-75"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Joe Biden to publish memoir of presidency after November midterms",
-      "body": "<p>Promise Me, America to cover everything from economy to decision to drop bid for re-election</p><p>Former president <a href=\"https://www.theguardian.com/us-news/joebiden\">Joe Biden will</a> publish a memoir this fall, publisher Little, B",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/joe-biden-promise-me-america-memoir-book"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Both artists sought to depict similar episodes from very early Christian history, portraying families helping an injured individual.",
-      "body": "A Converted British Family Sheltering a Christian Missionary from the Persecution of the Druids is a painting by the English artist William Holman Hunt that was exhibited at the Royal Academy in 1850 and is now in the Ashmolean Museum in Oxford. The world is s",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/William_Holman_Hunt_-_A_Converted_British_Family.jpg/330px-William_Holman_Hunt_-_A_Converted_British_Family.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Converted_British_Family_Sheltering_a_Christian_Missionary_from_the_Persecution_of_the_Druids"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Cineuropa —",
-      "hook": "DokuFest Prizren announces competition programmes for its 25th edition - Festivals / Awards - Kosovo",
-      "body": "The jubilee edition will unspool under the motto “Show up or it doesn't count!” and feature 105 films across eight competition sections",
-      "src": "Cineuropa",
-      "url": "https://cineuropa.org/en/newsdetail/493454/"
+      "url": "https://en.wikipedia.org/wiki/Henry_Morton_Robinson"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "‘Disorderly’ intruder removed from NBC’s Today show after security breach",
-      "body": "<p>Unauthorized interloper was arrested after reportedly hurling racial slur at host Craig Melvin</p><p>A man was arrested after breaking on to the set of <a href=\"https://www.theguardian.com/media/nbc\">NBC</a>’s Today show on Thursday morn",
+      "hook": "Unheard David Bowie songs from 1965 to be released – including ones with Jimmy Page on guitar",
+      "body": "<p>Compilation entitled David Bowie: The Shel Talmy Recordings will be released in September, collating material from when he recorded as Davy Jones</p><p>Unheard 1965 recordings by David Bowie, from when he was starting out in swinging 60s",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/16/nbc-today-show-racial-slur-craig-melvin"
+      "url": "https://www.theguardian.com/music/2026/jul/15/david-bowie-unheard-songs-1965-jimmy-page-the-shel-talmy-recordings"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "He played college football for the South Dakota Coyotes.",
+      "body": "Jack Cochrane is an American professional football linebacker for the Kansas City Chiefs of the National Football League (NFL). Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jack_Cochrane"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1948 —",
+      "hook": "Following token resistance, the city of Nazareth, revered by Christians as the hometown of Jesus, capitulates to Israeli troops during Operation Dekel in the 1948 Arab–Israeli War.",
+      "body": "Nazareth is the largest city in the Northern District of Israel. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nazareth_Panorama_Dafna_Tal_IMOT_%2814532097313%29.jpg/330px-Nazareth_Panorama_Dafna_Tal_IMOT_%2814532097313%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Nazareth"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Catherine Called Birdy is a 2022 medieval comedy film written for the screen, co-produced, and directed by Lena Dunham.",
-      "body": "It is based on the 1994 novel of the same name by Karen Cushman. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/68/Catherine_Called_Birdy_%28film%29.png",
+      "hook": "Bernard the Brave is a novel written by British novelist Margery Sharp.",
+      "body": "It is the eighth novel in a series of nine known collectively as The Rescuers which tells the story of two little mice, Bernard and Miss Bianca, and their adventures as members of the Mouse Prisoner's Aid Society, a mouse organization dedicated to cheering up ",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/06/BernardTheBrave.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Catherine_Called_Birdy_(film)"
+      "url": "https://en.wikipedia.org/wiki/Bernard_the_Brave"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1965 —",
+      "hook": "South Vietnamese Colonel Phạm Ngọc Thảo, a formerly undetected communist spy and double agent, is hunted down and killed by unknown individuals after being sentenced to death in absentia for a February 1965 coup attempt against Nguyễn Khánh.",
+      "body": "The Army of the Republic of Vietnam composed the ground forces of the South Vietnamese military from its inception in 1955 to the fall of Saigon on 30 April 1975. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Army_of_the_Republic_of_Vietnam.svg/330px-Flag_of_the_Army_of_the_Republic_of_Vietnam.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Army_of_the_Republic_of_Vietnam"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "Indonesia Malaise is a 1931 film directed by the Wong brothers.",
+      "body": "It was the brothers' first sound film and one of the first such films in the Dutch East Indies. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Indonesia_Malaise_ad.jpg/330px-Indonesia_Malaise_ad.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indonesia_Malaise"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Blue Lagoon is a 1980 American drama film directed by Randal Kleiser from a screenplay written by Douglas Day Stewart based on the 1908 novel of the same name by Henry De Vere Stacpoole.",
+      "body": "The film stars Brooke Shields and Christopher Atkins. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/32/Blue_lagoon_1980_movie_poster.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Blue_Lagoon_(1980_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1935 —",
+      "hook": "The world's first parking meter is installed in Oklahoma City, Oklahoma.",
+      "body": "A parking meter is a device used to collect money in exchange for the right to park a vehicle in a particular place for a limited amount of time. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Parking_Meter_Front.JPG/330px-Parking_Meter_Front.JPG",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Parking_meter"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Alf's Button is a 1930 British comedy film directed by W.",
+      "body": "Kellino and starring Tubby Edlin, Alf Goddard and Nora Swinburne. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/78/Alf%27s_Button_1930_poster.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alf's_Button_(1930_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1232 —",
+      "hook": "The Spanish town of Arjona declares independence and names its native Muhammad ibn Yusuf as ruler. This marks the Muhammad's first rise to prominence; he later established the Nasrid Emirate of Granada, the last independent Muslim state in Spain.",
+      "body": "Arjona is a municipality in the province of Jaén, Andalusia, Spain. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Arjona%2C_Andalucia%2C_Espa%C3%B1a_-_52548512060.jpg/330px-Arjona%2C_Andalucia%2C_Espa%C3%B1a_-_52548512060.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Arjona%2C_Spain"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1910 —",
+      "hook": "John Robertson Duigan makes the first flight of the Duigan pusher biplane, the first aircraft built in Australia.",
+      "body": "John Robertson Duigan MC was an Australian pioneer aviator who built and flew the first Australian-made aircraft. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/John_R._Duigan.jpg/330px-John_R._Duigan.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/John_Robertson_Duigan"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Cineuropa —",
-      "hook": "Interview: Jessica Woodworth • Director - “Mongolians, in general, are deeply connected to nature, to their vast and powerful landscapes, and to their omnipresent nomadic culture” - /Europe/Mongolia",
-      "body": "The Belgian-American director discusses the acting workshop she led as part of the European Film Festival organised by the European Union Delegation to Mongolia",
-      "src": "Cineuropa",
-      "url": "https://cineuropa.org/en/interview/493455/"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Extra Credit is a 2009 children's novel written by Andrew Clements.",
-      "body": "The work was first published on June 23, 2009 through Simon & Schuster and follows a young schoolgirl who is given the option of receiving extra credit by writing to an overseas pen pal in a small Afghanistan village. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/Extra_Credit_cover.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Extra_Credit"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Suzanne Karpelès was a French Indologist, who was a multilingual specialist in the languages and cultures of colonized French Indochina.",
-      "body": "She was the first curator of the Royal Library of Phnom Penh and suggested the founding of the Buddhist Institute of Cambodia where she served as the first secretary-general. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/1920_Suzanne_Karpel%C3%A8s.jpg/330px-1920_Suzanne_Karpel%C3%A8s.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Suzanne_Karpel%C3%A8s"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Aleek Manush is a Bengali novel by Syed Mustafa Siraj, first published in 1988.",
-      "body": "Set in rural Murshidabad, it follows a Farazi preacher and his son, who rejects religious orthodoxy. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Aleek_Manush"
+      "opener": "ESA —",
+      "hook": "Expedition Sound podcast series",
+      "body": "Expedition Sound is a podcast series by the European Space Agency (ESA) in which you’re invited to explore the Universe through your ears. Guided by sonifications – the translation of data into sound – host Zsófi Szalavári travels from our ",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series"
     },
     {
       "type": "card",
@@ -124,6 +185,15 @@
       "body": "<p>May We Feed the King, about a museum curator and a medieval monarch, was praised by judges for its ‘crisp, cool prose’ and ‘poet’s eye for detail’</p><p>Author and poet Rebecca Perry has won the 2026 Waterstones debut fiction prize for M",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/2026/jul/16/rebecca-perry-waterstones-debut-fiction-prize-may-we-feed-the-king"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Odyssey review – Nolan goes god-tier with breathtaking epic of men, monsters and moral metamorphosis",
+      "body": "<p>Doing full justice to the Homeric legend, Christopher Nolan amasses an epic cast to convey the true cost of war with film-making of thrilling ambition</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/jul/15/the-odyssey-christ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt-damon"
     }
   ]
 }
