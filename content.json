@@ -1,189 +1,239 @@
 {
-  "generated": "2026-07-16T13:09:31.374Z",
-  "count": 19,
+  "generated": "2026-07-16T15:23:14.579Z",
+  "count": 24,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Cheshire competed in the 2013 FIS Freestyle Skiing World Cup in Voss Municipality, Norway, where she finished 17th.",
+      "body": "Rowan Cheshire is a British freestyle skier, specialising in the halfpipe. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rowan_Cheshire"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in June",
+      "body": "<p>Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I just finished reading <strong>Wimmy Road Boyz</strong> by Sufiyaan Salam. I ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jun/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-june-candice-carty-williams"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Brexit Effect, 2016-2026 edited by Anthony Seldon review – life without EU",
+      "body": "<p>Essays by the great and the good address the legacy of Brexit, but ignore the nationalist elephant in the room</p><p>This massive collection of essays by 43 different authors, including seven lords, four baronesses, one dame and three kn",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/13/the-brexit-effect-2016-2026-edited-by-anthony-seldon-review-life-without-eu"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Milwaukee Cup is a traveling trophy awarded to the winner of the annual men's soccer match between Marquette University and the University of Wisconsin–Milwaukee.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Marquette_mu_small.png/330px-Marquette_mu_small.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Milwaukee_Cup"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1212 —",
+      "hook": "Battle of Las Navas de Tolosa: After Pope Innocent III calls European knights to a crusade, the forces of kings Alfonso VIII of Castile, Sancho VII of Navarre, Peter II of Aragon and Afonso II of Portugal defeat those of the Berber Muslim leader Almohad, thus marking a significant turning point in the Reconquista and in the medieval history of Spain.",
+      "body": "The Battle of Las Navas de Tolosa, known in Islamic history as the Battle of Al-Uqab, took place on 16 July 1212 and was an important turning point in the Reconquista and the history of medieval Spain. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Batalla_de_las_Navas_de_Tolosa%2C_por_Francisco_van_Halen.jpg/330px-Batalla_de_las_Navas_de_Tolosa%2C_por_Francisco_van_Halen.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Las_Navas_de_Tolosa"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Collaborative pedagogy stems from the process theory of rhetoric and composition.",
+      "body": "Collaborative pedagogy believes that students will better engage with writing, critical thinking, and revision if they engage with others. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Collaborative_pedagogy"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "State Route 138 is an east–west state highway in the U.S.",
+      "body": "state of California that generally follows the northern foothills of the San Gabriel Mountains and the western Mojave Desert. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/California_138.svg/330px-California_138.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/California_State_Route_138"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘He annotated my letter from Spielberg’: readers pay tribute to Sam Neill",
+      "body": "<p>From teeing up a marriage to inspiring a career and giving 144 bottles of wine to his birthday band, the star’s admirers share their fondest memories</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/jul/13/sam-neill-final-int",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/jul/16/sam-neill-readers-pay-tribute"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "They were produced by the Piccard-Pictet Company until 1920, and by Gnome et Rhône from 1920 until the demise of the marque in 1924.",
+      "body": "Pic-Pic was a Swiss automobile manufactured in Geneva from 1906 to 1924. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pic-pic_logo.jpg/330px-Pic-pic_logo.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pic-Pic"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Hits don’t lie! Shakira’s 20 best songs, from World Cup anthems to megastar duets – ranked!",
+      "body": "<p>As the Colombian pop supremo prepares to perform at Sunday’s final, we rate her greatest work, including gossipy takedowns and lycanthropic lyrics</p><p>Of Shakira’s World Cup anthems, it’s the joyfully ludicrous Waka Waka from the 2010 ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/16/shakira-20-best-songs-ranked-world-cup-anthems-megastar-duets"
+    },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1990 —",
       "hook": "The Parliament of the Ukrainian SSR declares state sovereignty over the territory of the Ukrainian SSR.",
-      "body": "The Verkhovna Rada of Ukraine is the unicameral parliament of Ukraine. Worth a quiet trip down the rabbit hole.",
+      "body": "The Verkhovna Rada of Ukraine is the unicameral parliament of Ukraine. The world is stranger than it lets on.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Verkhovna_Rada_%28UK_logo%2C_2022%29.svg/330px-Verkhovna_Rada_%28UK_logo%2C_2022%29.svg.png",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Verkhovna_Rada"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "The Odyssey is a 'colossal piece of cinema', critics say in rave reviews",
-      "body": "The film, starring Matt Damon and Zendaya, is director Sir Christopher Nolan's first since Oppenheimer.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c20y0rn9052o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The First House by Avni Doshi review – an intense portrait of marriage and freedom",
-      "body": "<p>In the follow-up to the Booker-shortlisted Burnt Sugar, a woman seeks liberation from her controlling relationships</p><p>Avni Doshi’s second novel is narrated by an unnamed woman in the suburban US who is shocked to hear her husband ann",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/15/the-first-house-by-avni-doshi-review-an-intense-portrait-of-marriage-and-freedom"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1983 —",
-      "hook": "Sikorsky S-61 disaster: A helicopter crashes off the Isles of Scilly, causing 20 fatalities.",
-      "body": "On 16 July 1983, British Airways Helicopters Flight 5918, a British Airways Helicopters commercial Sikorsky S-61 helicopter, Oscar November (G-BEON), crashed in the southern Celtic Sea, in the Atlantic Ocean, while en route from Penzance to St Mary's, Isles of Scilly in poor visibility. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Sikorsky_S-61_helicopter_Oscar_November_%28G-BEON%29_is_recovered_from_the_sea.png/330px-Sikorsky_S-61_helicopter_Oscar_November_%28G-BEON%29_is_recovered_from_the_sea.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/British_Airways_Helicopters_Flight_5918"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "A voyage of discovery: an idiot’s guide to reading The Odyssey",
-      "body": "<p>Christopher Nolan’s film adaptation of the ancient Greek epic has sparked a new appetite for an old classic. Here are the translations, podcasts and audiobooks that make the Homeric world more approachable</p><p>The Odyssey was once all ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1790 —",
-      "hook": "The District of Columbia is established as the capital of the United States after signature of the Residence Act.",
-      "body": "Washington, D.C., officially the District of Columbia and commonly known as Washington or D.C., is the capital city and federal district of the United States. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/12-07-13-washington-by-RalfR-08.jpg/330px-12-07-13-washington-by-RalfR-08.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Washington%2C_D.C."
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Generals is the second volume in Simon Scarrow's Wellington and Napoleon Quartet, which narrates mostly in alternate chapters, tells the story of Sir Arthur Wellesley and the Corsican Brigadier Napoleon Bonaparte.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Generals_cover.JPG",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Generals_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Boorman and the Devil is a 2025 American documentary film about John Boorman's 1977 horror film Exorcist II: The Heretic, which almost ended his career.",
-      "body": "The documentary is produced, edited, and directed by David Kittredge. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/Boorman_and_the_Devil_poster.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Boorman_and_the_Devil"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "WGA adds its own suit to Paramount-Warner merger opposition",
-      "body": "The guild says the merger would create incentive and ability to suppress writers’ wages.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/wga-adds-its-own-suit-to-paramount-warner-merger-opposition/5218616.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "That Forsyte Woman is a 1949 American romantic drama film directed by Compton Bennett and starring Greer Garson, Errol Flynn, Walter Pidgeon, Robert Young and Janet Leigh.",
-      "body": "It is an adaptation of the 1906 novel The Man of Property, the first book in The Forsyte Saga by John Galsworthy. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d4/That_Forsyte_Woman_-_Poster.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/That_Forsyte_Woman"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1779 —",
-      "hook": "American Revolutionary War: Light infantry of the Continental Army seize a fortified British Army position in a midnight bayonet attack at the Battle of Stony Point.",
-      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Céleste Albaret was a country woman who moved to Paris in 1913 when she married the taxi driver Odilon Albaret; she is best known for being the writer and essayist Marcel Proust's housekeeper and secretary.",
-      "body": "Lonely and bored in the capital, and at her husband's suggestion, Albaret began to run errands for Proust, who was her husband's most regular client. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jean-Claude_Fourneau._C%C3%A9leste_Albaret._Huile_sur_toile._1957.jpg/330px-Jean-Claude_Fourneau._C%C3%A9leste_Albaret._Huile_sur_toile._1957.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/C%C3%A9leste_Albaret"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1994 —",
-      "hook": "The comet Shoemaker-Levy 9 is destroyed in a head-on collision with Jupiter.",
-      "body": "Comet Shoemaker–Levy 9 was a comet that broke apart in July 1992 and collided with Jupiter in July 1994, providing the first direct observation of an extraterrestrial collision of Solar System objects. The world is stranger than it lets on.",
+      "opener": "You probably never noticed this —",
+      "hook": "The M1 road is a road in northern Zambia.",
+      "body": "It connects Mpika in Muchinga Province with Mbala in the Northern Province on the border with Tanzania and the Lake Tanganyika port of Mpulungu via Kasama. Worth a quiet trip down the rabbit hole.",
       "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Comet_Shoemaker%E2%80%93Levy_9"
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/M1_road_(Zambia)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Henry Huttleston Rogers was an American industrialist and financier.",
+      "body": "He made his fortune in the oil refining business, becoming a leader at Standard Oil. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Henry_Huttleston_Rogers.jpg/330px-Henry_Huttleston_Rogers.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henry_Huttleston_Rogers"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Claudia Winkleman quits chat show after one series",
-      "body": "Winkleman said she was \"incredibly grateful\" for the opportunity, but had been \"too nervous\" to enjoy it.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cpq8j188n90o?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Culture —",
+      "hook": "Hal Williams, actor best known for Sanford and Son and 227, dies aged 91",
+      "body": "<p>The actor, who also appeared in The Waltons and Private Benjamin, died at his home in California</p><p>Hal Williams, the actor best known for TV roles in Sanford &amp; Son and 227, has died at the age of 91.</p><p>His representative conf",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/16/hal-williams-dies"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1951 —",
       "hook": "King Leopold III of Belgium abdicates in favor of his son, Baudouin of Belgium.",
-      "body": "Leopold III was King of the Belgians from 23 February 1934 until his abdication on 16 July 1951. The world is stranger than it lets on.",
+      "body": "Leopold III was King of the Belgians from 23 February 1934 until his abdication on 16 July 1951. One of those things you can't un-know.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Leopold_III_%281934%29.jpg/330px-Leopold_III_%281934%29.jpg",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Leopold_III_of_Belgium"
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘A sublime, breezy confection’: writers on their 2026 songs of the summer",
+      "body": "<p>The annual rundown of Guardian writers picking their most played tracks of the season goes from club-ready pop to sunny tech house</p><ul><li><p><a href=\"https://open.spotify.com/playlist/3kA7pnZ8Y4v7ocQj8dlrq0?si=C9z7VghBTaSqrcWdKEYT_A\"",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/16/songs-of-the-summer-2026"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Nkuwu a Ntinu was the fourth mwenekongo from the Lukeni kanda dynasty to rule the Kingdom of Kongo and reigned during the mid 15th century between c.",
-      "body": "One of those things you can't un-know.",
-      "img": null,
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Meißen area, where Radebeul is located, is one of the northeasternmost areas where wine is grown in the 21st century.",
+      "body": "Radebeul is a town in the Elbe valley in the district of Meißen in Saxony, Germany, a suburb of Dresden. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Spitzhaus_Radebeul_5.JPG/330px-Spitzhaus_Radebeul_5.JPG",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nkuwu_a_Ntinu_of_Kongo"
+      "url": "https://en.wikipedia.org/wiki/Radebeul"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Hammers Over the Anvil is a 1993 Australian biographical romantic drama film starring Russell Crowe and directed by Ann Turner, who also co-wrote with Peter Hepworth.",
-      "body": "The film is based on the novel of the same name by Alan Marshall. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/83/HammersOvertheAnvil.jpg",
+      "opener": "Okay, this one's fun —",
+      "hook": "Zhargalma Ochirovna Tsyrenova is a Russian freestyle wrestler of Buryat descent.",
+      "body": "She is 2013 European wrestling championships runner up and a bronze medalist at the Golden Grand Prix Ivan Yarygin 2015 in the 60 kg division. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hammers_Over_the_Anvil"
+      "url": "https://en.wikipedia.org/wiki/Zhargalma_Tsyrenova"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "As of the 2010 Census, its population was 5,145.",
+      "body": "Apastovo is an urban locality and the administrative center of Apastovsky District of the Republic of Tatarstan, Russia, located 109 kilometers (68 mi) from the republic's capital of Kazan. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apastovo"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Sharad Anantrao Joshi was an Indian politician, who founded the Swatantra Bharat Paksh party and Shetkari Sanghatana.",
+      "body": "He was also a Member of the Parliament of India representing Maharashtra in the Rajya Sabha, the upper house of the Indian Parliament from 5 July 2004 to 4 July 2010. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sharad_Anantrao_Joshi"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1683 —",
+      "hook": "Manchu Qing dynasty naval forces under commander Shi Lang defeat the Kingdom of Tungning in the Battle of Penghu near the Pescadores Islands.",
+      "body": "The Qing dynasty, officially the Great Qing, also known as the Qing Empire or Qing China, was a Manchu-led imperial dynasty of China and an early modern empire in East Asia which existed from 1636/1644 to 1912. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_China_%281889%E2%80%931912%29.svg/330px-Flag_of_China_%281889%E2%80%931912%29.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Qing_dynasty"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "24m tune in to watch England-Argentina",
-      "body": "England's defeat to Argentina in the World Cup semi-final attracts an audience of 24 million on the BBC.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyjwdvq6dno?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Gillian Armstrong remembers Sam Neill: ‘I can’t believe that the very next day he was gone’",
-      "body": "<p>The Australian director who gave the actor his big break in My Brilliant Career remembers ‘a smart, gentle, decent, passionate, loyal, surprisingly funny man’</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/jul/13/sam-neill-",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/15/gillian-armstrong-remembers-sam-neill-my-brilliant-career-movie"
+      "cat": "history",
+      "opener": "On this day in 1809 —",
+      "hook": "The city of La Paz, in what is today Bolivia, declares its independence from the Spanish Crown during the La Paz revolution and forms the Junta Tuitiva, the first independent government in Spanish America, led by Pedro Domingo Murillo.",
+      "body": "La Paz, officially Nuestra Señora de La Paz is the seat of government of Bolivia. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vista_del_centro_de_La_Paz.jpg/330px-Vista_del_centro_de_La_Paz.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/La_Paz"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1054 —",
+      "hook": "Three Roman legates place - acting illegally on their own authority - a bull of excommunication against Michael I Cerularius, the patriarch of Constantinople, and his followers on the altar of Hagia Sophia during Saturday afternoon divine liturgy. Historians frequently describe the event as the formal start of the East–West Schism.",
+      "body": "A papal legate or apostolic legate is a personal representative of the Pope to foreign nations, to some other part of the Catholic Church, or to representatives of a state or monarchy. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/K._Henry_2._Kissing_the_knee_of_the_Popes_Legate_comming_into_England.gif/330px-K._Henry_2._Kissing_the_knee_of_the_Popes_Legate_comming_into_England.gif",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Papal_legate"
     }
   ]
 }
