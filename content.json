@@ -1,15 +1,45 @@
 {
-  "generated": "2026-07-16T23:44:49.622Z",
-  "count": 18,
+  "generated": "2026-07-17T01:18:14.244Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Trinity Western University (TWU) is a Christian liberal arts college and research university with campuses in Langley and Richmond, British Columbia, Canada.",
+      "body": "TWU is a research institution offering undergraduate and graduate degrees in the humanities and sciences as well as in several professional schools. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Trinity_Western_University_coat_of_arms.png/330px-Trinity_Western_University_coat_of_arms.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trinity_Western_University"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1998 —",
+      "hook": "A diplomatic conference adopts the Rome Statute of the International Criminal Court, establishing the permanent international court in The Hague, to prosecute individuals for genocide, crimes against humanity, war crimes, and the crime of aggression.",
+      "body": "The Rome Statute of the International Criminal Court is the treaty that established the International Criminal Court (ICC). The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ICC_member_states.svg/330px-ICC_member_states.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Rome_Statute"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Danny Boyle’s ‘Ink’ to open Venice Film Festival 2026",
-      "body": "Jack O’Connell stars in the film about the early days of Rupert Murdoch’s media empire.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/danny-boyles-ink-to-open-venice-film-festival-2026/5218685.article"
+      "opener": "Cineuropa —",
+      "hook": "Movistar Plus will support 26 Spanish series a year - Production / Funding - Spain",
+      "body": "The Spanish platform is expanding its investment and commitment to drama by doubling the number of titles and introducing new collaboration models",
+      "src": "Cineuropa",
+      "url": "https://cineuropa.org/en/newsdetail/493466/"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Davenport College is one of the fourteen residential colleges of Yale University.",
+      "body": "Its buildings were completed in 1933 mainly in the Georgian style but with a gothic façade along York Street. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Davenport_College%2C_Yale%2C_York_Street_facade.jpg/330px-Davenport_College%2C_Yale%2C_York_Street_facade.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Davenport_College"
     },
     {
       "type": "card",
@@ -22,61 +52,32 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Edward Leon Rowny was a United States Army lieutenant general of Polish extraction.",
-      "body": "He was a commanding officer in World War II and Korea, a military advisor to five United States presidents and a negotiator on the Strategic Arms Reduction Treaty. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/d/da/Edward_Rowny.jpg",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "In the field of artificial intelligence the study of naïve physics is a part of the effort to formalize the common knowledge of human beings.",
+      "body": "Naïve physics or folk physics is the untrained human perception of basic physical phenomena. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Edward_Rowny"
+      "url": "https://en.wikipedia.org/wiki/Na%C3%AFve_physics"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Worry Doll by Laura McPhee-Browne review – a sensual, sinister novel about the horrors of desire",
-      "body": "<p>Two women meet on a train and tumble into an all-consuming affair told from both sides – who have very different stories </p><p>I’ve been craving a sandwich: soft white roll, roast chicken, sharp cheese. A bright little cut of tomato. Af",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/17/worry-doll-by-laura-mcphee-browne-review-a-sensual-sinister-novel-about-the-horrors-of-desire"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "A voyage of discovery: an idiot’s guide to reading The Odyssey",
-      "body": "<p>Christopher Nolan’s film adaptation of the ancient Greek epic has sparked a new appetite for an old classic. Here are the translations, podcasts and audiobooks that make the Homeric world more approachable</p><p>The Odyssey was once all ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
+      "opener": "Cineuropa —",
+      "hook": "Mathieu Amalric's Autobiography of an Octopus now in post-production - Production / Funding - France/Belgium",
+      "body": "Christèle Tual toplines the filmmaker’s new feature, produced by Les Films du Poisson and sold by Pyramide International, which is an adaptation of Vinciane Despret’s novel",
+      "src": "Cineuropa",
+      "url": "https://cineuropa.org/en/newsdetail/493464/"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1950 —",
-      "hook": "Chaplain–Medic massacre: American POWs are massacred by North Korean Army.",
-      "body": "The Chaplain–Medic massacre took place in the Korean War on July 16, 1950, on a mountain above the village of Tuman. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Felhoelter.JPG",
+      "opener": "On this day in 2015 —",
+      "hook": "At least 120 people are killed and 130 injured by a suicide bombing in Diyala Governorate, Iraq.",
+      "body": "A suicide car bombing occurred on 17 July 2015 in the Iraqi city of Khan Bani Saad, targeting a local marketplace. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Chaplain%E2%80%93Medic_massacre"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1377 —",
-      "hook": "King Richard II of England is crowned.",
-      "body": "Richard II, also known as Richard of Bordeaux, was King of England from 1377 until he was deposed in 1399. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Westminster_Portrait_of_Richard_II_of_England_%281390s%29.jpg/330px-The_Westminster_Portrait_of_Richard_II_of_England_%281390s%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Richard_II_of_England"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Cathedral of Saint Joseph is a Catholic cathedral serving as the mother church for the Diocese of Jefferson City in Missouri in the United States.",
-      "body": "It serves as the seat of the bishop, Ralph Bernard O'Donnell. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cathedral_of_St._Joseph_-_Jefferson_City%2C_Missouri_01.jpg/330px-Cathedral_of_St._Joseph_-_Jefferson_City%2C_Missouri_01.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Joseph_(Jefferson_City%2C_Missouri)"
+      "url": "https://en.wikipedia.org/wiki/2015_Khan_Bani_Saad_bombing"
     },
     {
       "type": "card",
@@ -89,13 +90,23 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Sune series is a series of books for children and young adults, published since 1984, by Swedish writers Anders Jacobsson and Sören Olsson.",
+      "body": "The stories were originally 90 episodes made for the Swedish Radio and broadcast in 1983–93. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anders_Jacobsson_och_S%C3%B6ren_Olsson_01.JPG/330px-Anders_Jacobsson_och_S%C3%B6ren_Olsson_01.JPG",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sune_(book_series)"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1994 —",
-      "hook": "The comet Shoemaker-Levy 9 is destroyed in a head-on collision with Jupiter.",
-      "body": "Comet Shoemaker–Levy 9 was a comet that broke apart in July 1992 and collided with Jupiter in July 1994, providing the first direct observation of an extraterrestrial collision of Solar System objects. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "On this day in 1791 —",
+      "hook": "Members of the French National Guard under the command of General Lafayette open fire on a crowd of radical Jacobins at the Champ de Mars, Paris, during the French Revolution, killing scores of people.",
+      "body": "The National Guard is a French military, gendarmerie, and police reserve force, active in its current form since 2016 but originally founded in 1789 during the French Revolution. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_de_la_Garde_Nationale_Fran%C3%A7aise_%282016%29.svg/330px-Logo_de_la_Garde_Nationale_Fran%C3%A7aise_%282016%29.svg.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Comet_Shoemaker%E2%80%93Levy_9"
+      "url": "https://en.wikipedia.org/wiki/National_Guard_(France)"
     },
     {
       "type": "card",
@@ -109,71 +120,70 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "Manhattan Project: The Atomic Age begins when the United States successfully detonates a plutonium-based test nuclear weapon near Alamogordo, New Mexico.",
-      "body": "The Manhattan Project was a research and development program undertaken during World War II to produce the first nuclear weapons. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Time%2C_3-22_p.m%2C_December_2%2C_1942._Place%2C_Racquets_Court_under_West_Stands_of_Stagg_Field%2C_University_of_Chicago...._-_NARA_-_542144.tif/lossy-page1-330px-Time%2C_3-22_p.m%2C_December_2%2C_1942._Place%2C_Racquets_Court_under_West_Stands_of_Stagg_Field%2C_University_of_Chicago...._-_NARA_-_542144.tif.jpg",
+      "opener": "On this day in 1899 —",
+      "hook": "NEC Corporation is organized as the first Japanese joint venture with foreign capital.",
+      "body": "NEC Corporation is a Japanese multinational information technology corporation headquartered at the NEC Supertower in Minato, Tokyo, Japan. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/NEC_Supertower_2023.jpg/330px-NEC_Supertower_2023.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Manhattan_Project"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The School Census is a statutory data collection for all maintained (state-funded) schools in England.",
-      "body": "This includes nursery, primary, secondary, middle-deemed primary, middle-deemed secondary, local authority maintained special and non-maintained special schools, academies including free schools, studio schools and university technical colleges and city techno",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/England_school_census"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1232 —",
-      "hook": "The Spanish town of Arjona declares independence and names its native Muhammad ibn Yusuf as ruler. This marks the Muhammad's first rise to prominence; he later established the Nasrid Emirate of Granada, the last independent Muslim state in Spain.",
-      "body": "Arjona is a municipality in the province of Jaén, Andalusia, Spain. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Arjona%2C_Andalucia%2C_Espa%C3%B1a_-_52548512060.jpg/330px-Arjona%2C_Andalucia%2C_Espa%C3%B1a_-_52548512060.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Arjona%2C_Spain"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1951 —",
-      "hook": "J. D. Salinger publishes his popular yet controversial novel, The Catcher in the Rye.",
-      "body": "Jerome David Salinger was an American author best known for his 1951 novel The Catcher in the Rye. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/J._D._Salinger_%28Catcher_in_the_Rye_portrait%29.jpg/330px-J._D._Salinger_%28Catcher_in_the_Rye_portrait%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/J._D._Salinger"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Sampson was a Shire horse gelding born in 1846 and bred by Thomas Cleaver at Toddington Mills, Bedfordshire, England.",
-      "body": "According to Guinness World Records (1986), he was the tallest horse ever recorded, by 1850 measuring 219.7 centimetres or 21.2½ hands in height. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sampson_(horse)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "NBC Nightly News is the flagship daily evening television news program for NBC News, the news division of the NBC television network in the United States.",
-      "body": "First aired on August 3, 1970, the program is currently the second most-watched network newscast in the United States, behind ABC's World News Tonight. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NBC_Nightly_News_2025.svg/330px-NBC_Nightly_News_2025.svg.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/NBC_Nightly_News"
+      "url": "https://en.wikipedia.org/wiki/NEC"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "What the Karlovy Vary, Galway and Munich film festivals do best - The Screen Podcast",
-      "body": "Plus, the Transilvania film festival.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/what-the-karlovy-vary-galway-and-munich-film-festivals-do-best-the-screen-podcast/5218650.article"
+      "opener": "Cineuropa —",
+      "hook": "Venice Immersive selects 68 Extended Reality projects - Venice 2026",
+      "body": "From 2 to 12 September, the jury comprising Paul Raphaël, Négar Motevalymeidanshah and Kate Voet will assess projects from 26 countries",
+      "src": "Cineuropa",
+      "url": "https://cineuropa.org/en/newsdetail/493465/"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Cineuropa —",
+      "hook": "Fantasia shines a spotlight on European genre cinema with a wealth of premieres - Fantasia 2026",
+      "body": "The new films by Agnieszka Smoczyńska and Kasper Kalle lead the European contingent at the Canadian festival",
+      "src": "Cineuropa",
+      "url": "https://cineuropa.org/en/newsdetail/493523/"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1997 —",
+      "hook": "After takeoff from Husein Sastranegara International Airport, Sempati Air Flight 304 crashes into a residential neighborhood in Bandung, killing 28 people.",
+      "body": "Husein Sastranegara Airport is a domestic airport serving Bandung, the capital of West Java, Indonesia. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Front_of_View_Husein_Sastranegara_Airport.jpg/330px-Front_of_View_Husein_Sastranegara_Airport.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Husein_Sastranegara_Airport"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1954 —",
+      "hook": "First Indochina War: Viet Minh troops successfully ambush the armoured French column 'G.M. 42' in the Battle of Chu Dreh Pass in the Central Highlands. It is the last battle of the war.",
+      "body": "The First Indochina War, known alternatively internationally as the French Indochina War, was fought in French Indochina between France and the Viet Minh and their respective allies, from 19 December 1946 until 11 August 1954. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/First_Indochina_War_COLLAGE.jpg/330px-First_Indochina_War_COLLAGE.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/First_Indochina_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The history of slavery in California began with the enslavement of Indigenous Californians under Spanish colonial rule.",
+      "body": "The arrival of the Spanish colonists introduced chattel slavery and involuntary servitude to the area. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Open_court_%281887%29_%2814782321805%29.jpg/330px-The_Open_court_%281887%29_%2814782321805%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_slavery_in_California"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Penicillium commune is an indoor fungus belonging to the genus Penicillium.",
+      "body": "It is known as one of the most common fungi spoilage moulds on cheese. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/P_commune_M35_9_d_tribu.jpg/330px-P_commune_M35_9_d_tribu.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Penicillium_commune"
     }
   ]
 }
