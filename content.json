@@ -1,16 +1,74 @@
 {
-  "generated": "2026-07-17T21:39:06.776Z",
+  "generated": "2026-07-17T22:36:06.908Z",
   "count": 24,
   "items": [
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Supplement that binds to microplastics may remove them from our body",
+      "body": "A supplement comprised of dead bacteria seems to remove microplastics, and prevent their absorption into cells, by attracting them to the bacteria's rough surfaces",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2580139-supplement-that-binds-to-microplastics-may-remove-them-from-our-body/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1962 —",
+      "hook": "Nuclear weapons testing: The \"Small Boy\" test shot Little Feller I becomes the last atmospheric test detonation at the Nevada National Security Site.",
+      "body": "Nuclear weapons tests are experiments carried out to determine the performance of nuclear weapons and the effects of their explosion. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Castle_Bravo_nuclear_test_%28cropped%29.jpg/330px-Castle_Bravo_nuclear_test_%28cropped%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Nuclear_weapons_testing"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "George Tan Soon-gin was a Hong Kong financial criminal and businessman and who was known for his role and involvement in the Carrian Group and the scandal that led to its collapse.",
+      "body": "One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Tan"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 180 —",
+      "hook": "Twelve inhabitants of Scillium (near Kasserine, modern-day Tunisia) in North Africa are executed for being Christians. This is the earliest record of Christianity in that part of the world.",
+      "body": "The Scillitan Martyrs were a group of early Christians of North Africa executed by the Roman Empire in Carthage, modern Tunisia, on 17 July 180 AD. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Scillitan_Martyrs"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1919 —",
+      "hook": "The form of government in the Republic of Finland is officially confirmed. For this reason, July 17 is known as the Day of Democracy (Kansanvallan päivä) in Finland.",
+      "body": "Finland, officially the Republic of Finland, is a Nordic country in Northern Europe. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/330px-Flag_of_Finland.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Finland"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1048 —",
+      "hook": "Four year-old Henry IV is crowned as king of Germany in Aachen.",
+      "body": "Henry IV was Holy Roman Emperor (1084–1105), King of Germany (1054–1105), and King of Italy and Burgundy (1056–1105). The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Heinrich_4_g.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Henry_IV%2C_Holy_Roman_Emperor"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘Disorderly’ intruder removed from NBC’s Today show after security breach",
+      "body": "<p>Unauthorized interloper was arrested after reportedly hurling racial slur at host Craig Melvin</p><p>A man was arrested after breaking on to the set of <a href=\"https://www.theguardian.com/media/nbc\">NBC</a>’s Today show on Thursday morn",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/16/nbc-today-show-racial-slur-craig-melvin"
     },
     {
       "type": "video",
@@ -25,21 +83,20 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+      "opener": "Screen Daily —",
+      "hook": "Hungary removes cap on production incentive to end uncertainty for international producers",
+      "body": "It has been a tough period for a sector that had previously been booming.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/hungary-removes-cap-on-production-incentive-to-end-uncertainty-for-international-producers/5218699.article"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "SilhouetteFX has been expanded to include capabilities facilitating paint, warping and morphing, 2D to 3D conversion and alternative matting methods.",
-      "body": "SilhouetteFX began as a rotoscoping tool for the visual effects industry. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/SilhouetteFX"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘No stuffy vibes … just good books’: Matt Haig to open bookshop in Brighton",
+      "body": "<p>‘My belief, as someone who grew up in a town without a bookshop, is that all communities should have one,’ says author of The Midnight Library</p><p>Matt Haig, the bestselling author of titles including <a href=\"https://www.theguardian.c",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/17/matt-haig-bookshop-brighton"
     },
     {
       "type": "video",
@@ -53,42 +110,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Cineuropa —",
-      "hook": "Tony Morales is shooting his debut feature, the horror film Hada - Production / Funding - Spain/USA",
-      "body": "The supernatural thriller starring Mexican actress Esmeralda Pimentel is produced by Eterno Island Pictures, Rock & Ruz and A Bigger Boat, with sales handled by Architect",
-      "src": "Cineuropa",
-      "url": "https://cineuropa.org/en/newsdetail/493548/"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "A Room Called Earth is the debut novel by Australian author Madeleine Ryan.",
-      "body": "It was released on August 18, 2020 by Penguin Press in the US and in 2021 by Scribe in the UK and Commonwealth. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/A_Room_Called_Earth_Book.jpeg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Room_Called_Earth"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Revolutionary Road is the debut novel by the American author Richard Yates.",
-      "body": "It was a finalist for the National Book Award in 1962, along with Catch-22 and The Moviegoer. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/RevolutionaryRoad.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Revolutionary_Road"
+      "cat": "history",
+      "opener": "On this day in 1402 —",
+      "hook": "Zhu Di, better known by his era name as the Yongle Emperor, assumes the throne over the Ming dynasty of China.",
+      "body": "A regnal name, regnant name, or reign name is the name used by monarchs and popes during their reigns and subsequently, historically. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Regnal_name"
     },
     {
       "type": "video",
@@ -102,138 +130,110 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1821 —",
-      "hook": "The Kingdom of Spain cedes the territory of Florida to the United States.",
-      "body": "Spain, officially the Kingdom of Spain, is a country in Southern and Western Europe with territories in North Africa. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_the_Kingdom_of_Spain.svg/330px-Flag_of_the_Kingdom_of_Spain.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Spain"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Supplement that binds to microplastics may remove them from our body",
-      "body": "A supplement comprised of dead bacteria seems to remove microplastics, and prevent their absorption into cells, by attracting them to the bacteria's rough surfaces",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580139-supplement-that-binds-to-microplastics-may-remove-them-from-our-body/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘No stuffy vibes … just good books’: Matt Haig to open bookshop in Brighton",
-      "body": "<p>‘My belief, as someone who grew up in a town without a bookshop, is that all communities should have one,’ says author of The Midnight Library</p><p>Matt Haig, the bestselling author of titles including <a href=\"https://www.theguardian.c",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/17/matt-haig-bookshop-brighton"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Gypsy Rose Lee was an American burlesque entertainer, stripper, actress, author, playwright and vedette, famous for her striptease act.",
-      "body": "Her 1957 memoir, Gypsy: A Memoir, was adapted into the 1959 stage musical Gypsy. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gypsy_Rose_Lee_NYWTS_1_%28cropped%29.jpg/330px-Gypsy_Rose_Lee_NYWTS_1_%28cropped%29.jpg",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Howard William Morenz was a Canadian professional ice hockey player.",
+      "body": "Beginning in 1923, he played centre for three National Hockey League (NHL) teams: the Montreal Canadiens, the Chicago Black Hawks, and the New York Rangers. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Morenz19361937a.jpg/330px-Morenz19361937a.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gypsy_Rose_Lee"
+      "url": "https://en.wikipedia.org/wiki/Howie_Morenz"
     },
     {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1976 —",
-      "hook": "The opening of the Summer Olympics in Montreal is marred by 25 African teams boycotting the games because of New Zealand's participation. Contrary to rulings by other international sports organizations, the IOC had declined to exclude New Zealand because of their participation in South African sporting events during apartheid.",
-      "body": "The 1976 Summer Olympics, officially known as the Games of the XXI Olympiad and officially branded as Montreal 1976, were an international multi-sport event held from July 17 to August 1, 1976, in Montreal, Quebec, Canada. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/1976_Summer_Olympics_logo.svg/330px-1976_Summer_Olympics_logo.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1976_Summer_Olympics"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Almost Lost: The True Story of an Anonymous Teenager's Life is a 1996 young adult novel attributed to Beatrice Sparks, cited as non-fiction by her, but with no viable sources to suggest that the story, the characters, or the narrator are in any way factual.",
-      "body": "Almost Lost tells the story of Sammy, a runaway teenager who dabbles in rap, the occult, and drugs, and is turned into a happy, wholesome teen by attending therapy with Sparks. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/da/AlmostLostCover.jpg",
+      "hook": "Masanori Tominaga is a Japanese film director.",
+      "body": "His 1999 short film, Dolmen, received the Honorary Mention of the International Jury at the International Short Film Festival Oberhausen in 2000. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Almost_Lost"
+      "url": "https://en.wikipedia.org/wiki/Masanori_Tominaga"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Disorderly’ intruder removed from NBC’s Today show after security breach",
-      "body": "<p>Unauthorized interloper was arrested after reportedly hurling racial slur at host Craig Melvin</p><p>A man was arrested after breaking on to the set of <a href=\"https://www.theguardian.com/media/nbc\">NBC</a>’s Today show on Thursday morn",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/16/nbc-today-show-racial-slur-craig-melvin"
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Face of the Clam is a 1947 novel by author Luther Whiteman.",
-      "body": "The story is a fictionalized account of the Dunites, a group of bohemians who lived in the Guadalupe-Nipomo Dunes on the Central Coast of California from the 1920s–1940s. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Face_of_the_Clam.jpg",
+      "opener": "Bet you didn't know —",
+      "hook": "Legal Positivism is a book by the Italian jurist Norberto Bobbio about one of the ontological elements of foundations of law — the jusphilosophical school called juspositivism or legal positivism.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/Legal_Positivism_%28book%29_%28Book_Cover%29.jpeg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Face_of_the_Clam"
+      "url": "https://en.wikipedia.org/wiki/Legal_Positivism_(book)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1932 —",
-      "hook": "Altona Bloody Sunday: A riot between the Nazi Party paramilitary forces, the SS and SA, and the German Communist Party ensues.",
-      "body": "Altona Bloody Sunday is the name given to the events of 17 July 1932 when a recruitment march by the Nazi SA led to violent clashes between the police, the SA and supporters of the Communist Party of Germany (KPD) in Altona, which at the time belonged to the Prussian province of Schleswig-Holstein but is now part of Hamburg. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Altona_Bloody_Sunday"
+      "opener": "You probably never noticed this —",
+      "hook": "In addition to its role in mythology, it may also have referred to real-world places at different times.",
+      "body": "Vourukasha, also known as Warkash or Fraxkard, is the world ocean in Zoroastrian cosmology and Iranian mythology. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Faravahar.svg/330px-Faravahar.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vourukasha"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1918 —",
-      "hook": "The RMS Carpathia is sunk off Ireland by the German SM U-55; five lives are lost.",
-      "body": "RMS Carpathia was a Cunard Line transatlantic passenger steamship built by C. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RMS-Carpathia.jpg/330px-RMS-Carpathia.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/RMS_Carpathia"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1429 —",
-      "hook": "Hundred Years' War: Charles VII of France is crowned the King of France in the Reims Cathedral after a successful campaign by Joan of Arc.",
-      "body": "The Hundred Years' War was a conflict between the kingdoms of England and France and a civil war in France during the late Middle Ages. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schlacht_von_Azincourt.jpg/330px-Schlacht_von_Azincourt.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hundred_Years'_War"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Nieuport Triplanes were a series of experimental stagger-wing triplanes modified from Nieuport 10, 17 and 17bis biplanes during World War I that were built by Nieuport.",
+      "body": "The exact number built is unknown, but only three or four are known to have been evaluated by the French Army Aviation and the British Royal Flying Corps (RFC) and Royal Naval Air Service (RNAS). Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Nieuport_10_triplane.jpg/330px-Nieuport_10_triplane.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nieuport_Triplane"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Ava DuVernay to make Netflix documentary 14th on birthright citizenship",
-      "body": "<p>The film-maker behind Selma and 13th will focus on the 14th amendment for a new film out later this year as Donald Trump targets those protected by it</p><p><a href=\"https://www.theguardian.com/film/ava-duvernay\">Ava DuVernay</a> announc",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/16/ava-duvernay-netflix-birthright-citizenship"
+      "opener": "Cineuropa —",
+      "hook": "Ladj Ly’s Dumas : Diable noir now in post-production - Production / Funding - France",
+      "body": "Théo Christine, François Civil, Vincent Cassel, Omar Sy and Galatéa Bellugi are headlining this SRAB Films and Chapter 2 production, sold worldwide by Goodfellas",
+      "src": "Cineuropa",
+      "url": "https://cineuropa.org/en/newsdetail/493544/"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1791 —",
+      "hook": "Members of the French National Guard under the command of General Lafayette open fire on a crowd of radical Jacobins at the Champ de Mars, Paris, during the French Revolution, killing scores of people.",
+      "body": "The National Guard is a French military, gendarmerie, and police reserve force, active in its current form since 2016 but originally founded in 1789 during the French Revolution. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_de_la_Garde_Nationale_Fran%C3%A7aise_%282016%29.svg/330px-Logo_de_la_Garde_Nationale_Fran%C3%A7aise_%282016%29.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/National_Guard_(France)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "San Sebastian 2026 unveils Spanish lineup",
-      "body": "San Sebastian unveiled the Spanish films in selection today.",
+      "hook": "Oscar-winning actress Brenda Fricker dies aged 81",
+      "body": "The Irish actress won the best supporting Oscar for ’My Left Foot’ in 1990.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/san-sebastian-2026-unveils-spanish-lineup/5218713.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2007 —",
-      "hook": "TAM Airlines Flight 3054, an Airbus A320, crashes into a warehouse after landing too fast and missing the end of the São Paulo–Congonhas Airport runway, killing 199 people.",
-      "body": "TAM Airlines Flight 3054 was a regularly scheduled domestic passenger flight operated by TAM Airlines from Porto Alegre to São Paulo, Brazil. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Acidentetam0.jpg/330px-Acidentetam0.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/TAM_Airlines_Flight_3054"
+      "url": "https://www.screendaily.com/news/oscar-winning-actress-brenda-fricker-dies-aged-81/5218715.article"
     }
   ]
 }
