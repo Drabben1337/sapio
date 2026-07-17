@@ -1,36 +1,54 @@
 {
-  "generated": "2026-07-17T19:55:09.206Z",
-  "count": 27,
+  "generated": "2026-07-17T20:39:59.692Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
-      "cat": "geography",
-      "opener": "Okay, this one's fun —",
-      "hook": "A forest reserve zone exists within the range and spans 998,581 hectares.",
-      "body": "The Serranía de Los Motilones is a mountain range in the Cordillera Oriental of Colombia and Venezuela. Bring it up somewhere. Watch the reaction.",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Hindumanes is a genus of jumping spiders found in India.",
+      "body": "It was first described by Dmitri Logunov in 2004. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Serran%C3%ADa_de_Los_Motilones"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "It was released on July 29, 2014, four years after their third compilation The Collection (2010).",
-      "body": "The Essential *NSYNC is the fourth compilation album by American boy band NSYNC. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c5/Theessentialnsync.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Essential_*NSYNC"
+      "url": "https://en.wikipedia.org/wiki/Hindumanes"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The petroleum industry in Syria forms a major part of the economy of Syria.",
-      "body": "According to the International Monetary Fund, before the Syrian civil war, oil sales for 2010 were projected to generate $3.2 billion for the Syrian government and accounted for 25.1% of the state's revenue. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/M2_Bradley%E2%80%99s_in_Northeastern_Syria%2C_December_2020.jpg/330px-M2_Bradley%E2%80%99s_in_Northeastern_Syria%2C_December_2020.jpg",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Grave of the Vampire is a 1972 American vampire film directed by John Hayes, and starring William Smith, Michael Pataki, and Lyn Peters.",
+      "body": "Its plot follows a vampire who rapes a living woman, resulting in the birth of a child who feeds only on blood. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/GraveOfTheVampire1972Poster.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Petroleum_industry_in_Syria"
+      "url": "https://en.wikipedia.org/wiki/Grave_of_the_Vampire"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Trump drops BBC's commercial arm from Panorama lawsuit, but main case remains",
+      "body": "The US president removes BBC Studios from his defamation lawsuit over a controversial documentary.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cly5wyynv9zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "\"The Yellow Rose of Texas\" is a traditional American song dating back to at least the 1850s.",
+      "body": "Members of the Western Writers of America chose it as one of the Top 100 Western songs of all time. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/YellowRoseOfTexas1858.jpg/330px-YellowRoseOfTexas1858.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Yellow_Rose_of_Texas_(song)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Ava DuVernay to make Netflix documentary 14th on birthright citizenship",
+      "body": "<p>The film-maker behind Selma and 13th will focus on the 14th amendment for a new film out later this year as Donald Trump targets those protected by it</p><p><a href=\"https://www.theguardian.com/film/ava-duvernay\">Ava DuVernay</a> announc",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/16/ava-duvernay-netflix-birthright-citizenship"
     },
     {
       "type": "card",
@@ -44,226 +62,58 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Little Brother review – Netflix comedy is neither weird or funny enough for star Eric André",
-      "body": "<p>The surreal comedian struggles to sell a middling and mostly conventional film about an uptight realtor whose life is upturned by an unpredictable figure from his past</p><p>The specific, unforced strangeness of <a href=\"https://www.theg",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "You probably never noticed this —",
-      "hook": "An escarpment is a steep slope or long cliff that forms as a result of faulting or erosion and separates two relatively level areas having different elevations.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cuesta_-_Lookout_Mountain%2C_Georgia.png/330px-Cuesta_-_Lookout_Mountain%2C_Georgia.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Escarpment"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Rhetorical stance refers to the deliberate choices made by a communicator in shaping and presenting their message.",
-      "body": "It encompasses the strategic decisions regarding language, style, and tone that are employed to achieve a specific communicative purpose. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rhetorical_stance"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "UK-Ireland box office preview: Christopher Nolan’s ‘The Odyssey’ journeys into 760 cinemas for Universal",
-      "body": "It is a wider opening than the director’s 2023 Oscar winner ‘Oppenheimer’.",
+      "hook": "San Sebastian 2026 unveils Spanish lineup",
+      "body": "San Sebastian unveiled the Spanish films in selection today.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-christopher-nolans-the-odyssey-journeys-into-760-cinemas-for-universal/5218702.article"
+      "url": "https://www.screendaily.com/news/san-sebastian-2026-unveils-spanish-lineup/5218713.article"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘From the father of the guy who made Obsession’: is the nepo dad the new nepo baby?",
-      "body": "<p>With Dane Cook set to star in his new film, Curry Barker’s dad joins Lana Del Rey’s dad and Tom Holland’s dad in a new wave of nepo daddies</p><p>A generational shift is happening in Hollywood. The two big breakout films of the spring – ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/jul/16/nepo-dad-curry-barker-father"
+      "opener": "ESA —",
+      "hook": "Expedition Sound podcast series",
+      "body": "Expedition Sound is a podcast series by the European Space Agency (ESA) in which you’re invited to explore the Universe through your ears. Guided by sonifications – the translation of data into sound – host Zsófi Szalavári travels from our ",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Colonel Robert Phaire (1619?–1682) was an officer in the Irish Protestant and then the New Model armies and one of the regicides of Charles I of England.",
-      "body": "He was one of the three officers to whom the warrant for the execution of Charles I was addressed, but he escaped severe punishment at the Restoration by having married the daughter of Sir Thomas Herbert (1606–1682). Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Robert_Phayre_(regicide)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1791 —",
-      "hook": "Members of the French National Guard under the command of General Lafayette open fire on a crowd of radical Jacobins at the Champ de Mars, Paris, during the French Revolution, killing scores of people.",
-      "body": "The National Guard is a French military, gendarmerie, and police reserve force, active in its current form since 2016 but originally founded in 1789 during the French Revolution. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_de_la_Garde_Nationale_Fran%C3%A7aise_%282016%29.svg/330px-Logo_de_la_Garde_Nationale_Fran%C3%A7aise_%282016%29.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/National_Guard_(France)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Oxon Hoath is a Grade II* listed Châteauesque-style former manor house with 73 acres of grounds at West Peckham, Kent.",
-      "body": "The spellings Oxenhoath, Oxen Hoath and Oxonhoath are common alternatives. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oxon_Hoath.jpg/330px-Oxon_Hoath.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Oxon_Hoath"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Jackass: Best and Last review – kings of gross-out comedy’s final, funny farewell",
-      "body": "<p>So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgia</p><p>The boy-men of <a href=\"https://www.theguardian.com/film/202",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1918 —",
-      "hook": "The RMS Carpathia is sunk off Ireland by the German SM U-55; five lives are lost.",
-      "body": "RMS Carpathia was a Cunard Line transatlantic passenger steamship built by C. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RMS-Carpathia.jpg/330px-RMS-Carpathia.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/RMS_Carpathia"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘A masterpiece in every way’: The Odyssey earns near universal acclaim as full reviews published",
-      "body": "<p>Christopher Nolan’s epic was given five stars by the Guardian, Independent and Telegraph, while the New York Times called it a ‘monumental adaptation’</p><p>Christopher Nolan’s $250m Imax blockbuster version of Homer’s epic poem the Odys",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/jul/16/the-odyssey-earns-near-universal-acclaim-as-full-reviews-published"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The comics were published continuously between 1956 and 1968, with Trueno eventually becoming the most popular Spanish hero comic of all time: at its height it sold more than 170,000 copies every week.",
-      "body": "El Capitán Trueno is the hero of a series of Spanish comic books, created in 1956 by the writer Víctor Mora and illustrated mainly by Miguel Ambrosio Zaragoza (Ambrós). One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Capit%C3%A1n_Trueno"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Adam Newland was an English cricketer of the mid-Georgian period who played for Slindon and Sussex under the patronage of Charles Lennox, 2nd Duke of Richmond.",
-      "body": "He also represented various England teams. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Adam_Newland"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
       "opener": "Bet you didn't know —",
-      "hook": "The length of the river is 304 kilometres (189 mi) and the area of is drainage basin 13,800 square kilometres (5,300 mi2).",
-      "body": "The Belaya is a river in Kamchatka Krai, Russia. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "The 19th century in science saw the birth of science as a profession; the term scientist was coined in 1833 by William Whewell, which soon replaced the older term of (natural) philosopher.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/MenOfScience1807ZobelAndWalker.jpg/330px-MenOfScience1807ZobelAndWalker.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Belaya_(Penzhina)"
+      "url": "https://en.wikipedia.org/wiki/19th_century_in_science"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best recent crime and thrillers – review roundup",
-      "body": "<p>The Runner by Scarlett Thomas; The Madman by Henning Mankell; Everything She Didn’t Say by Jane Casey; The Spy and the Snake by MJ Robotham; Murder at the End of the World by Akane Araki</p><p><strong><a href=\"https://guardianbookshop.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/17/the-best-recent-and-thrillers-review-roundup"
+      "opener": "Cineuropa —",
+      "hook": "Tony Morales is shooting his debut feature, the horror film Hada - Production / Funding - Spain/USA",
+      "body": "The supernatural thriller starring Mexican actress Esmeralda Pimentel is produced by Eterno Island Pictures, Rock & Ruz and A Bigger Boat, with sales handled by Architect",
+      "src": "Cineuropa",
+      "url": "https://cineuropa.org/en/newsdetail/493548/"
     },
     {
       "type": "card",
-      "cat": "history",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Oscar-winning actress Brenda Fricker dies at 81",
+      "body": "She won for her role in 1989 film My Left Foot and had well-loved parts in Home Alone 2 and TV's Casualty.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c0m70zremezo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "The park is located a mile from the center of campus along Stony Brook Road on an area spanning over 240 acres in size.",
-      "body": "The Stony Brook University Research and Development Park is a research and development park located in Stony Brook, New York owned by Stony Brook University, which acquired the land through eminent domain in 2005. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "The Miami Hurricanes football team represents the University of Miami in college football.",
+      "body": "The program began in 1926. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Miami_Orange_Bowl.jpg/330px-Miami_Orange_Bowl.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Stony_Brook_University_Research_and_Development_Park"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1998 —",
-      "hook": "A diplomatic conference adopts the Rome Statute of the International Criminal Court, establishing the permanent international court in The Hague, to prosecute individuals for genocide, crimes against humanity, war crimes, and the crime of aggression.",
-      "body": "The Rome Statute of the International Criminal Court is the treaty that established the International Criminal Court (ICC). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ICC_member_states.svg/330px-ICC_member_states.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Rome_Statute"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1976 —",
-      "hook": "The opening of the Summer Olympics in Montreal is marred by 25 African teams boycotting the games because of New Zealand's participation. Contrary to rulings by other international sports organizations, the IOC had declined to exclude New Zealand because of their participation in South African sporting events during apartheid.",
-      "body": "The 1976 Summer Olympics, officially known as the Games of the XXI Olympiad and officially branded as Montreal 1976, were an international multi-sport event held from July 17 to August 1, 1976, in Montreal, Quebec, Canada. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/1976_Summer_Olympics_logo.svg/330px-1976_Summer_Olympics_logo.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1976_Summer_Olympics"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Jean-Claude Lorquet is a professor of Theoretical Chemistry at the University of Liège.",
-      "body": "He is member of the International Academy of Quantum Molecular Science and author of over 100 scientific papers. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jean-Claude_Lorquet"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The team is organised by the Chinese Cricket Association, which became an affiliate member of the International Cricket Council (ICC) in 2004 and an associate member in 2017.",
-      "body": "The China national cricket team represents China in international cricket. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/330px-Flag_of_the_People%27s_Republic_of_China.svg.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/China_national_cricket_team"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Joanna Pousette-Dart is an American abstract artist, based in New York City.",
-      "body": "She is best known for her distinctive shaped-canvas paintings, which typically consist of two or three stacked, curved-edge planes whose arrangements—from slightly precarious to nested—convey a sense of momentary balance with the potential to rock, tilt or sli",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Joanna_Pousette-Dart_3_Part_Variation_-7_2012-3.tif/lossy-page1-330px-Joanna_Pousette-Dart_3_Part_Variation_-7_2012-3.tif.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Joanna_Pousette-Dart"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1936 —",
-      "hook": "Spanish Civil War: An Armed Forces rebellion against the recently elected leftist Popular Front government of Spain starts the civil war.",
-      "body": "The Spanish Civil War was fought from 1936 to 1939 between the Republicans and the Nationalist rebels. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_11_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0_%D0%B2_%D0%B1%D0%BE%D1%8E_%D0%BF%D0%BE%D0%B4_%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B8%D1%82%D0%B5._1937-edit.jpg/330px-%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_11_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0_%D0%B2_%D0%B1%D0%BE%D1%8E_%D0%BF%D0%BE%D0%B4_%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B8%D1%82%D0%B5._1937-edit.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Spanish_Civil_War"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1994 —",
-      "hook": "Brazil win their fourth World Cup title, defeating Italy 3–2 on penalties.",
-      "body": "The Brazil national football team, nicknamed Canarinho, represents Brazil in men's international football and is administered by the Brazilian Football Confederation, the governing body of football in Brazil. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Confedera%C3%A7%C3%A3o_Brasileira_de_Futebol_logo_%282020%29.svg/330px-Confedera%C3%A7%C3%A3o_Brasileira_de_Futebol_logo_%282020%29.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Brazil_national_football_team"
+      "url": "https://en.wikipedia.org/wiki/Miami_Hurricanes_football_(1926_to_1978)"
     }
   ]
 }
