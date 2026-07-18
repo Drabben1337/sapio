@@ -1,16 +1,7 @@
 {
-  "generated": "2026-07-18T16:40:36.309Z",
-  "count": 12,
+  "generated": "2026-07-18T17:44:12.531Z",
+  "count": 22,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Using AI for creative pursuits? Moderation is key",
-      "body": "An experiment showed AI users had the most creative ideas when they used it in moderation – not too much and not too little. Columnist David Robson puts the finding to the test, and explores what we lose when we over-rely on AI",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580262-using-ai-for-creative-pursuits-moderation-is-key/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -23,12 +14,168 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Ginevra is a feminine given name.",
-      "body": "It was occasionally used in medieval and Renaissance Italy in reference to Queen Guinevere, King Arthur’s queen in the popular Arthurian legends. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/John_Collier_Queen_Guinevre%27s_Maying_-_Ausschnitt.jpg/330px-John_Collier_Queen_Guinevre%27s_Maying_-_Ausschnitt.jpg",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Psychotropic alkylamines are alkylamines that share the critical property of not containing an aromatic nucleus, but are still biologically active.",
+      "body": "While many of these molecules are stimulants, others are antiviral, have competitive NMDA antagonist activity, or are nicotinic receptor antagonists. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ginevra_(given_name)"
+      "url": "https://en.wikipedia.org/wiki/Psychotropic_alkylamines"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Courier was a prototype concept by Microsoft for a dual-touchscreen tablet.",
+      "body": "The device was conceived as being a digital notebook, consisting of two 7-inch touchscreens hinged together like a book, and running a custom operating system built primarily around handwriting input and a notebook-like journal for storing notes, images, and c",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Courier"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "It was destroyed by the British in 1702 CE, and was rebuilt later by the French in 1792.",
+      "body": "The Pointe aux Canons Battery was a historic fort located on the island of Saint Pierre in the French territorial collectivity of Saint Pierre and Miquelon. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cannons_at_Pointe_aux_Canons%2C_with_the_lighthouse_and_harbour_jetty_visible_behind_them_in_Saint-Pierre.png/330px-Cannons_at_Pointe_aux_Canons%2C_with_the_lighthouse_and_harbour_jetty_visible_behind_them_in_Saint-Pierre.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pointe_aux_Cannon_Battery"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Huyan Zan (呼延贊) was a Chinese military general in the early years of the Northern Song dynasty.",
+      "body": "He participated in the Northern Song's conquest of the Later Shu in 964-965 and the Northern Han in 979. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ab/Huyanzan_1892.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Huyan_Zan"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1872 —",
+      "hook": "The Ballot Act 1872 in the United Kingdom introduced the requirement that parliamentary and local government elections be held by secret ballot.",
+      "body": "The Ballot Act 1872 was an act of the Parliament of the United Kingdom that introduced the requirement for parliamentary and local government elections in the United Kingdom to be held by secret ballot. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Coat_of_arms_of_the_United_Kingdom_%281837%29.svg/330px-Coat_of_arms_of_the_United_Kingdom_%281837%29.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ballot_Act_1872"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in June",
+      "body": "<p>Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I just finished reading <strong>Wimmy Road Boyz</strong> by Sufiyaan Salam. I ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jun/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-june-candice-carty-williams"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "In January 2021, it had a population of 1,919,745.",
+      "body": "Alsace is a cultural region and a territorial collectivity in the Grand Est administrative region of northeastern France, on the west bank of the upper Rhine, next to Germany and Switzerland. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Colmar_%2832350846618%29.jpg/330px-Colmar_%2832350846618%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alsace"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Using AI for creative pursuits? Moderation is key",
+      "body": "An experiment showed AI users had the most creative ideas when they used it in moderation – not too much and not too little. Columnist David Robson puts the finding to the test, and explores what we lose when we over-rely on AI",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2580262-using-ai-for-creative-pursuits-moderation-is-key/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1863 —",
+      "hook": "American Civil War: Second Battle of Fort Wagner: One of the first formal African American military units, the 54th Massachusetts Volunteer Infantry, supported by several white regiments, attempts an unsuccessful assault on Confederate-held Battery Wagner.",
+      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1841 —",
+      "hook": "Coronation of Emperor Pedro II of Brazil.",
+      "body": "Dom Pedro II, known as \"the Magnanimous\", was the second and final emperor of the Empire of Brazil. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pedro_II_of_Brazil_-_Brady-Handy.jpg/330px-Pedro_II_of_Brazil_-_Brady-Handy.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Red Mouth by Sheila Armstrong review – profound exploration of Ireland’s deep time",
+      "body": "<p>Sinister bogland discoveries haunt the intersecting lives of four characters in this meditative, exquisitely written tale</p><p>Almost 14% of Ireland is bog: vast swathes of moss-carpeted land, below which layers of ancient history have ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/17/the-red-mouth-by-sheila-armstrong-review-profound-exploration-of-irelands-deep-time"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1992 —",
+      "hook": "A picture of Les Horribles Cernettes was taken, which became the first ever photo posted to the World Wide Web.",
+      "body": "Les Horribles Cernettes was an all-female parody pop group, self-labelled \"the one and only High Energy Rock Band\", which was founded by employees of CERN and performed at CERN and other HEP-related events. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Les_Horribles_Cernettes_in_1992.jpg/330px-Les_Horribles_Cernettes_in_1992.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Les_Horribles_Cernettes"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1996 —",
+      "hook": "Storms provoke severe flooding on the Saguenay River, beginning one of Quebec's costliest natural disasters ever.",
+      "body": "The Saguenay flood was a series of flash floods on July 19 and 20, 1996 that hit the Saguenay–Lac-Saint-Jean region of Quebec, Canada. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Maison_Blanche_Saguenay.jpg/330px-Maison_Blanche_Saguenay.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Saguenay_flood"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "ESA’s Mars Express meets NASA’s Psyche",
+      "body": "Image: Mars Express image",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/ESA_s_Mars_Express_meets_NASA_s_Psyche"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "Kyrkliga Folkpartiet was a minor pro-fascist party in Sweden founded in 1930.",
+      "body": "The party was formed and led by Ivar Rhedin, a priest in the Church of Sweden. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clerical_People's_Party"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "All 135 seats in the Parliament were up for election.",
+      "body": "A regional election was held in Catalonia on 20 March 1980 to elect the 1st Parliament of the autonomous community. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Jordi_Pujol_1978_%28cropped%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1980_Catalan_regional_election"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Techno Source is a handheld electronic game and TV game company selling electronic toys, games and learning aids.",
+      "body": "Based in Hong Kong with an office in New York City, it is a privately owned company founded in 2000 by Wayne Nathan and Rich Migatz. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Techno_Source"
     },
     {
       "type": "card",
@@ -42,31 +189,12 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Argura also called Argyra (Ἀργυρᾶ) was a town of ancient Euboea near Chalkis, but its exact location is unknown.",
-      "body": "Modern scholars differ as to its location, with the current village of Lefkandi in the estuary of the Lilas River being identified by Denis Knoepfler Tritle places his remains on the hill of Vrachos in Vasiliko. The world is stranger than it lets on.",
+      "opener": "Okay, this one's fun —",
+      "hook": "Vladimir Tismăneanu is a Romanian American political scientist, political analyst, sociologist, and professor at the University of Maryland, College Park.",
+      "body": "A specialist in political systems and comparative politics, he is director of the University of Maryland's Center for the Study of Post-Communist Societies, having served as chairman of the editorial committee (2004–2008) and editor (1998–2004) of the East Eur",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Argura_(Euboea)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Trollied is a British television sitcom about employees in a fictional supermarket named \"Valco\", which debuted on Sky One on 4 August 2011 and ended on 23 December 2018.",
-      "body": "The series was filmed in a purpose-built replica supermarket in the Bottle Yard Studios in Bristol throughout April and May 2011 for the first series with the second series being filmed in June and July 2012. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/TrolliedTitle.png/330px-TrolliedTitle.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Trollied"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in June",
-      "body": "<p>Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I just finished reading <strong>Wimmy Road Boyz</strong> by Sufiyaan Salam. I ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jun/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-june-candice-carty-williams"
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Tism%C4%83neanu"
     },
     {
       "type": "card",
@@ -79,41 +207,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Red Mouth by Sheila Armstrong review – profound exploration of Ireland’s deep time",
-      "body": "<p>Sinister bogland discoveries haunt the intersecting lives of four characters in this meditative, exquisitely written tale</p><p>Almost 14% of Ireland is bog: vast swathes of moss-carpeted land, below which layers of ancient history have ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/17/the-red-mouth-by-sheila-armstrong-review-profound-exploration-of-irelands-deep-time"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Boy Downstairs is a 2017 American romantic comedy-drama film written and directed by Sophie Brooks, in her feature directorial debut.",
-      "body": "The film stars Zosia Mamet, Matthew Shear, Deirdre O'Connell, Sarah Ramos and Diana Irvine. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/61/The_Boy_Downstairs_film_poster.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Boy_Downstairs"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "\"Heartache All Over the World\" is a song by British musician Elton John and lyricist Bernie Taupin from John's twentieth studio album Leather Jackets (1986).",
-      "body": "It was released as the album's lead single in September 1986, charting at number 45 in the UK singles chart and at number 55 on the US Billboard Hot 100, and reaching the top 10 in Australia, where it peaked at number seven. Worth a quiet trip down the rabbit ",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Elton_John_HAOTW.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Heartache_All_Over_the_World"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "ESA’s Mars Express meets NASA’s Psyche",
-      "body": "Image: Mars Express image",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/ESA_s_Mars_Express_meets_NASA_s_Psyche"
+      "cat": "history",
+      "opener": "On this day in 1994 —",
+      "hook": "Rwandan genocide: The Rwandan Patriotic Front takes control of Gisenyi and north western Rwanda, forcing the interim government into Zaire and ending the genocide.",
+      "body": "The Rwandan genocide, also known as the Tutsi genocide, occurred from 7 April to 19 July 1994 during the Rwandan Civil War. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nyamata_Memorial_Site_13.jpg/330px-Nyamata_Memorial_Site_13.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Rwandan_genocide"
     }
   ]
 }
