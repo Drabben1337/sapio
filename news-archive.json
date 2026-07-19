@@ -2,6 +2,16 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Books —",
+    "hook": "Could AI be conscious?",
+    "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+    "_t": 1784465017665
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "BBC Entertainment —",
     "hook": "Bruno Mars has an unexpected opening before Wembley party starts",
     "body": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
@@ -587,16 +597,6 @@
     "body": "Among the 25 Spanish titles, standing out in the Golden Shell competition are Mikel Gurrea’s Saints, Roberto Bueso’s El mal padre and Javier Ruíz Caldera’s 5 More Minutes",
     "src": "Cineuropa",
     "url": "https://cineuropa.org/en/newsdetail/493564/",
-    "_t": 1784310846471
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "Cineuropa —",
-    "hook": "TIFF: The Market unveils its first Innovation Hub selection of immersive projects - Toronto 2026 - TIFF: The Market",
-    "body": "Eight XR, VR and mixed-reality works will headline the initiative, reinforcing the market's ambition to position immersive storytelling alongside film, television and cross-platform IP",
-    "src": "Cineuropa",
-    "url": "https://cineuropa.org/en/newsdetail/493566/",
     "_t": 1784310846471
   }
 ]
