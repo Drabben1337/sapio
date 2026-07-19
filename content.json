@@ -1,25 +1,75 @@
 {
-  "generated": "2026-07-19T16:40:32.716Z",
-  "count": 13,
+  "generated": "2026-07-19T17:45:19.139Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Using AI for creative pursuits? Moderation is key",
-      "body": "An experiment showed AI users had the most creative ideas when they used it in moderation – not too much and not too little. Columnist David Robson puts the finding to the test, and explores what we lose when we over-rely on AI",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580262-using-ai-for-creative-pursuits-moderation-is-key/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Lord is a Japanese manga series written by Buronson and illustrated by Ryoichi Ikegami.",
+      "body": "It was serialized in Shogakukan's seinen manga magazine Big Comic Superior from September 2004 to February 2011, with its chapters collected in 22 tankōbon volumes. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/52/Lord_%28manga%29_1.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lord_(manga)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "House of Representatives, representing Wisconsin's 2nd congressional district for the 56th and 57th congresses (1899–1903).",
+      "body": "Herman Bjorn Dahle was an American businessman and Republican politician from Dane County, Wisconsin. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Herman_Bjorn_Dahle.jpg/330px-Herman_Bjorn_Dahle.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Herman_Dahle"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Romans is the fourth serial of the second season of the British science fiction television series Doctor Who.",
-      "body": "Written by Dennis Spooner and directed by Christopher Barry, the serial was broadcast on BBC1 in four weekly parts from 16 January to 6 February 1965. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Romans_%28Doctor_Who%29.jpg/330px-Romans_%28Doctor_Who%29.jpg",
+      "opener": "You probably never noticed this —",
+      "hook": "In Face of the Verdict is a 1936 detective novel by John Rhode, the pen name of the British writer Cecil Street.",
+      "body": "It is the twenty fourth in his long-running series of novels featuring Lancelot Priestley, a Golden Age armchair detective. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/39/In_Face_of_the_Verdict.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Romans_(Doctor_Who)"
+      "url": "https://en.wikipedia.org/wiki/In_Face_of_the_Verdict"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Vertical is a 2010 novel by Rex Pickett and the second novel in the Sideways Series.",
+      "body": "It is a sequel to the novel Sideways, which was made into a successful 2004 film of the same name. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/96/Vertical_%28novel%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vertical_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "It is located along the Tampere–Haapamäki Line, where Kolho railway station is located.",
+      "body": "Kolho is a village in the city-municipality of Mänttä-Vilppula in Finland. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kolhon_rautatieasema.JPG/330px-Kolhon_rautatieasema.JPG",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kolho"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could AI be conscious?",
+      "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Cricket on the Hearth: A Fairy Tale of Home is a novella by Charles Dickens, published by Bradbury and Evans, and released 20 December 1845 with illustrations by Daniel Maclise, John Leech, Richard Doyle, Clarkson Stanfield and Edwin Henry Landseer.",
+      "body": "Dickens began writing the book around 17 October 1845 and finished it by 1 December. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cricketonthehearth_front.jpg/330px-Cricketonthehearth_front.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Cricket_on_the_Hearth"
     },
     {
       "type": "card",
@@ -33,25 +83,6 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Could AI be conscious?",
-      "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The film premiered at the 51st Semaine de la Critique at the 2012 Cannes Film Festival, where it won the inaugural France 4 Visionary Award.",
-      "body": "Sofia's Last Ambulance is a feature-length observational documentary film by Bulgarian director Ilian Metev. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/2e/SofiasLastAmbulancePoster.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sofia's_Last_Ambulance"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "BBC Entertainment —",
       "hook": "Bruno Mars has an unexpected opening before Wembley party starts",
       "body": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
@@ -61,30 +92,20 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Using AI for creative pursuits? Moderation is key",
+      "body": "An experiment showed AI users had the most creative ideas when they used it in moderation – not too much and not too little. Columnist David Robson puts the finding to the test, and explores what we lose when we over-rely on AI",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2580262-using-ai-for-creative-pursuits-moderation-is-key/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "BBC Entertainment —",
       "hook": "Bayeux Tapestry in 'wonderful state' after journey to London, French minister says",
       "body": "The French culture minister has told the BBC that the Bayeux Tapestry is in \"a wonderful state\".",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/c4gjd9qww1eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Orphans of Chaos is a 2005 science fantasy novel by John C.",
-      "body": "It is the first volume of the Orphans of Chaos trilogy that continues with the novels Fugitives of Chaos (2006) and Titans of Chaos (2007). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/9c/Orphans_of_Chaos.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Orphans_of_Chaos"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "ESA’s Mars Express meets NASA’s Psyche",
-      "body": "Image: Mars Express image",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/ESA_s_Mars_Express_meets_NASA_s_Psyche"
     },
     {
       "type": "card",
@@ -98,32 +119,21 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Shuggie Bain is the debut novel by Scottish-American writer Douglas Stuart, published in 2020.",
-      "body": "It tells the story of the youngest of three children, Shuggie, growing up with his alcoholic mother Agnes in 1980s post-industrial working-class Glasgow, Scotland. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/Shuggie_Bain_%28Douglas_Stuart%29.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Shuggie_Bain"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Geek Girl is the debut novel by Holly Smale, published in 2013.",
-      "body": "It won a 2014 Waterstones Children's Book Prize prize, along with a 2014 Leeds Book Award. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f5/Geek_Girl_%28novel%29.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Geek_Girl"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Justinian (ISBN 0-8125-4527-3), was published in 1998 by Tor Books.",
-      "body": "It is a novel by American writer Harry Turtledove writing under the pseudonym H. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/Justinian_%28novel%29.jpg",
+      "hook": "Traction City is a novella by Philip Reeve and is a prequel to the Mortal Engines Quartet.",
+      "body": "It was released as a flip book alongside Chris Priestly's teachers' tales of terror for World Book Day. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/da/Traction_City.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Justinian_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Traction_City_(novella)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Robert Peston found it 'too difficult' returning to Wales after his wife's death",
+      "body": "The couple spent a lot of time in Wales, enjoying walks along the coast.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxr1wwggno?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
