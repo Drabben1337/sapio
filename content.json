@@ -1,44 +1,55 @@
 {
-  "generated": "2026-07-19T04:56:29.417Z",
-  "count": 13,
+  "generated": "2026-07-19T07:22:26.002Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "ESA’s Mars Express meets NASA’s Psyche",
-      "body": "Image: Mars Express image",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/ESA_s_Mars_Express_meets_NASA_s_Psyche"
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in June",
+      "body": "<p>Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I just finished reading <strong>Wimmy Road Boyz</strong> by Sufiyaan Salam. I ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jun/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-june-candice-carty-williams"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Emperor Tianzuo of Liao, personal name Yelü Yanxi, courtesy name Yanning, was the ninth and last emperor of the Khitan-led Liao dynasty of China.",
-      "body": "He succeeded his grandfather, Emperor Daozong, in 1101 and reigned until the fall of the Liao dynasty in 1125. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "File under 'wait, really?' —",
+      "hook": "King Richard and the Crusaders is a 1954 American historical drama based on Sir Walter Scott's The Talisman made by Warner Bros.",
+      "body": "The film stars Rex Harrison, Virginia Mayo, George Sanders and Laurence Harvey, with Robert Douglas, Michael Pate and Paula Raymond. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b5/King_Richard_and_the_Crusaders_FilmPoster.jpeg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Emperor_Tianzuo_of_Liao"
+      "url": "https://en.wikipedia.org/wiki/King_Richard_and_the_Crusaders"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The club's football teams contests at the Angolan major league Girabola as well as at the African club competitions.",
-      "body": "Kabuscorp Sport Clube do Palanca, known simply as Kabuscorp, is an Angolan multi-sports club based in Luanda. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b3/Kabuscorp_Sport_Clube_do_Palanca_Logo.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kabuscorp_S.C.P."
+      "opener": "On this day in 1544 —",
+      "hook": "Italian War of 1542–46: The first Siege of Boulogne begins.",
+      "body": "The Italian War of 1542–1546 was a conflict late in the Italian Wars, pitting Francis I of France and Suleiman I of the Ottoman Empire against the Holy Roman Emperor Charles V and Henry VIII of England. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Si%C3%A9ge_de_la_flotte_turc.jpg/330px-Si%C3%A9ge_de_la_flotte_turc.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Italian_War_of_1542%E2%80%931546"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Using AI for creative pursuits? Moderation is key",
-      "body": "An experiment showed AI users had the most creative ideas when they used it in moderation – not too much and not too little. Columnist David Robson puts the finding to the test, and explores what we lose when we over-rely on AI",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580262-using-ai-for-creative-pursuits-moderation-is-key/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "routes 61 and 278, southwest of Clarksdale.",
+      "body": "Bobo is a census-designated place and unincorporated community in Coahoma County, Mississippi, United States. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bobo%2C_Coahoma_County%2C_Mississippi"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Woman and the Rose is a 1972 novel by Mohamed Zafzaf, which critics have described as a turning point in the development of the modern Moroccan Arabic novel.",
+      "body": "One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Woman_and_the_Rose"
     },
     {
       "type": "card",
@@ -51,41 +62,61 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Bayeux Tapestry in 'wonderful state' after journey to London, French minister says",
+      "body": "The French culture minister has told the BBC that the Bayeux Tapestry is in \"a wonderful state\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjd9qww1eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1940 —",
+      "hook": "World War II: Army order 112 forms the Intelligence Corps of the British Army.",
+      "body": "The Intelligence Corps is a corps of the British Army. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Intelligence_Corps_UK_Badge.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Intelligence_Corps_(United_Kingdom)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1940 —",
+      "hook": "Field Marshal Ceremony: First occasion in World War II that Adolf Hitler appoints field marshals due to military achievements.",
+      "body": "The 1940 field marshal ceremony was a promotion ceremony held at the Kroll Opera House in Berlin in which Adolf Hitler promoted twelve generals to the rank of Generalfeldmarschall on 19 July 1940. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Generaal-veldmaarschalkceremonie_van_1940.png/330px-Generaal-veldmaarschalkceremonie_van_1940.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1940_Field_Marshal_Ceremony"
+    },
+    {
+      "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Erodium lebelii, sticky stork's-bill, is an annual plant in the family Geraniaceae.",
-      "body": "It occurs on sand dunes and heaths on the Atlantic and Mediterranean coasts of western Europe. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erodium_lebelii_flowers.jpg/330px-Erodium_lebelii_flowers.jpg",
+      "hook": "Bob Honey Who Just Do Stuff is a 2018 American satirical novel written by Sean Penn.",
+      "body": "Narrated from the point of view of Pappy Pariah, the book tells the story of Bob Honey, a supposed international assassin who kills elderly people with a mallet. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ea/Bob_Honey_Who_Just_Do_Stuff.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Erodium_lebelii"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Banita Jacks is a Washington, D.C., resident convicted of murdering her four daughters, who ranged in age from 5 to 17 years old.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/Banita_Jacks.webp",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Banita_Jacks"
+      "url": "https://en.wikipedia.org/wiki/Bob_Honey_Who_Just_Do_Stuff"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in June",
-      "body": "<p>Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I just finished reading <strong>Wimmy Road Boyz</strong> by Sufiyaan Salam. I ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jun/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-june-candice-carty-williams"
+      "opener": "New Scientist —",
+      "hook": "Using AI for creative pursuits? Moderation is key",
+      "body": "An experiment showed AI users had the most creative ideas when they used it in moderation – not too much and not too little. Columnist David Robson puts the finding to the test, and explores what we lose when we over-rely on AI",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2580262-using-ai-for-creative-pursuits-moderation-is-key/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Brenda Fricker, Oscar winner for My Left Foot, dies aged 81",
-      "body": "<p>The acclaimed Irish actor started her career in Coronation Street and Casualty before a string of high-profile Hollywood roles</p><p>Brenda Fricker, who became the first female Irish Oscar winner for acting with My Left Foot, has died ag",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/17/brenda-fricker-oscar-winner-for-my-left-foot-dies"
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The S-III was to have been fueled with liquid oxygen and liquid hydrogen and powered by two J-2 engines.",
+      "body": "The S-III was a proposed third stage of the early Saturn C designs for a five-stage Saturn launch vehicle. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/S-III"
     },
     {
       "type": "card",
@@ -98,32 +129,71 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Bayeux Tapestry in 'wonderful state' after journey to London, French minister says",
-      "body": "The French culture minister has told the BBC that the Bayeux Tapestry is in \"a wonderful state\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjd9qww1eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The ViennaRNA Package is software, a set of standalone programs and libraries used for predicting and analysing RNA nucleic acid secondary structures.",
-      "body": "The source code for the package is released as free and open-source software and compiled binaries are available for the operating systems Linux, macOS, and Windows. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "Monster is a novel written in 2005 by Frank E.",
+      "body": "It tells a story of a horrifying predator who terrorizes the woods of northern Idaho. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/54/Peretti6.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/ViennaRNA_Package"
+      "url": "https://en.wikipedia.org/wiki/Monster_(Peretti_novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1967 —",
+      "hook": "Piedmont Airlines Flight 22, a Piedmont Airlines Boeing 727-22 and a twin-engine Cessna 310 collided over Hendersonville, North Carolina, USA. Both aircraft were destroyed and all passengers and crew were killed, including John T. McNaughton, an advisor to Robert McNamara.",
+      "body": "Piedmont Airlines Flight 22 was a Piedmont Airlines Boeing 727 that collided with a twin-engine Cessna 310 on July 19, 1967, over Hendersonville, North Carolina, United States. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Piedmont_Airlines_Flight_22_crash_site.jpg/330px-Piedmont_Airlines_Flight_22_crash_site.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Piedmont_Airlines_Flight_22"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Bronwyn Bancroft is an Aboriginal Australian artist, administrator, book illustrator, and among the first three Australian fashion designers to show their work in Paris.",
-      "body": "She was born in Tenterfield, New South Wales, and trained in Canberra and Sydney. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BronwynBancroftWikipediaProfile_%28cropped%29.jpg/330px-BronwynBancroftWikipediaProfile_%28cropped%29.jpg",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Angel with the Sword is a science fiction novel by American writer C.",
+      "body": "Cherryh, published in 1985 by DAW Books. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/62/CherryhAngelSwordCover.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bronwyn_Bancroft"
+      "url": "https://en.wikipedia.org/wiki/Angel_with_the_Sword"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Brenda Fricker, Oscar winner for My Left Foot, dies aged 81",
+      "body": "<p>The acclaimed Irish actor started her career in Coronation Street and Casualty before a string of high-profile Hollywood roles</p><p>Brenda Fricker, who became the first female Irish Oscar winner for acting with My Left Foot, has died ag",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/17/brenda-fricker-oscar-winner-for-my-left-foot-dies"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1969 —",
+      "hook": "Chappaquiddick incident: U.S. Senator Ted Kennedy crashes his car into a tidal pond at Chappaquiddick Island, Massachusetts, killing his passenger Mary Jo Kopechne.",
+      "body": "The Chappaquiddick incident occurred on Chappaquiddick Island, Massachusetts, United States, sometime around midnight between July 18 and 19, 1969, when Mary Jo Kopechne died inside the car driven by U.S. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chappaquiddick_incident_by_UPI.jpg/330px-Chappaquiddick_incident_by_UPI.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Chappaquiddick_incident"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 998 —",
+      "hook": "Arab–Byzantine wars: Battle of Apamea: Fatimids defeat a Byzantine army near Apamea.",
+      "body": "The Arab–Byzantine wars or Muslim–Byzantine wars were a series of wars from the 7th to 11th centuries between the successive Islamic caliphates and the Byzantine Empire. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/330px-Greekfire-madridskylitzes1.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "ESA’s Mars Express meets NASA’s Psyche",
+      "body": "Image: Mars Express image",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/ESA_s_Mars_Express_meets_NASA_s_Psyche"
     }
   ]
 }
