@@ -1,151 +1,66 @@
 {
-  "generated": "2026-07-19T18:43:38.057Z",
+  "generated": "2026-07-19T19:59:36.869Z",
   "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Bayeux Tapestry in 'wonderful state' after journey to London, French minister says",
-      "body": "The French culture minister has told the BBC that the Bayeux Tapestry is in \"a wonderful state\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjd9qww1eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Robert Peston found it 'too difficult' returning to Wales after his wife's death",
-      "body": "The couple spent a lot of time in Wales, enjoying walks along the coast.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxr1wwggno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Brenda Fricker obituary",
-      "body": "<p>Actor who was the first Irish woman to win an Oscar for her role in the 1989 film classic My Left Foot</p><p>Brenda Fricker, who has died aged 81, was only the second Irish actor – and the first female one – to win an Oscar, for her role",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/19/brenda-fricker-obituary"
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Sultan, The Sultan or Sultan of Turkey is a patience or solitaire card game that uses two packs of playing cards.",
+      "body": "It is so named since a successful game rewards the player with a view of the Sultan surrounded by his harem of eight queens. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%9F%D0%B0%D1%81%D1%8C%D1%8F%D0%BD%D1%81_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD.svg/330px-%D0%9F%D0%B0%D1%81%D1%8C%D1%8F%D0%BD%D1%81_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sultan_(card_game)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1992 —",
-      "hook": "A car bomb kills Judge Paolo Borsellino and five members of his escort.",
-      "body": "The via D'Amelio bombing was a terrorist attack by the Sicilian Mafia, which took place in Palermo, Sicily, Italy, on 19 July 1992. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Via_d%27amelio.jpg/330px-Via_d%27amelio.jpg",
+      "opener": "On this day in 1952 —",
+      "hook": "Opening of the Summer Olympics in Helsinki, Finland.",
+      "body": "The 1952 Summer Olympics, officially known as the Games of the XV Olympiad and commonly known as Helsinki 1952, were an international multi-sport event held from 19 July to 3 August 1952 in Helsinki, Finland. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/1952_Summer_Olympics_logo.svg/330px-1952_Summer_Olympics_logo.svg.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Via_D'Amelio_bombing"
+      "url": "https://en.wikipedia.org/wiki/1952_Summer_Olympics"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "\"Hold On Tight\" is a song written and performed by English rock band Electric Light Orchestra (ELO).",
+      "body": "The song is track 12 on the band's 1981 album Time and was released as its lead single. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/da/Hold_On_Tight.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hold_On_Tight_(Electric_Light_Orchestra_song)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Three Degrees is a 1973 studio album released by girl group the Three Degrees.",
+      "body": "Since their formation in 1965 until 1969, the Three Degrees had released several hit singles on various labels, including Swan Records, Warner Bros. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/43/The_Tree_Degrees_-_The_Three_Degrees.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Three_Degrees_(album)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1994 —",
+      "hook": "Alas Chiricanas Flight 00901 is destroyed by a bomb after takeoff from Enrique Adolfo Jiménez Airport in Colón, Panama, killing 21.",
+      "body": "Alas Chiricanas Flight 00901, registered HP-1202AC, was an Embraer EMB 110 Bandeirante aircraft flying en route from Colón city to Panama City which exploded shortly after departing Enrique Adolfo Jiménez Airport, on the night of July 19, 1994. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Comair_Embraer_EMB-110_N60CZ.jpg/330px-Comair_Embraer_EMB-110_N60CZ.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Alas_Chiricanas_Flight_00901"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1916 —",
       "hook": "World War I: Battle of Fromelles: British and Australian troops attack German trenches as part of the Battle of the Somme.",
-      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of those things you can't un-know.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. Bring it up somewhere. Watch the reaction.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/World_War_I"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Jill Scott review – joyous phones-free show is a taste of how all concerts should be",
-      "body": "<p><strong>Kings Theatre, Brooklyn</strong></p><p>The queen of Philly soul is in phenomenal form in a saucy and effortlessly virtuosic show celebrating 26 years in music</p><p>At one point during her triumphant phones-free show at Brooklyn’",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/jul/17/jill-scott-concert-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1980 —",
-      "hook": "Opening of the Summer Olympics in Moscow.",
-      "body": "The 1980 Summer Olympics, officially branded as Moscow 1980, were an international multi-sport event held from 19 July to 3 August 1980 in Moscow, Russian SFSR, Soviet Union. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Emblem_of_the_1980_Summer_Olympics.svg/330px-Emblem_of_the_1980_Summer_Olympics.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1980_Summer_Olympics"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1979 —",
-      "hook": "The Sandinista rebels overthrow the government of the Somoza family in Nicaragua.",
-      "body": "The Sandinista National Liberation Front is a socialist political party in Nicaragua. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/59/FSLN_%28Nicaragua%29_logo.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sandinista_National_Liberation_Front"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Sawtooth National Forest is a national forest that covers 2,110,408 acres in the U.S.",
-      "body": "Forest Service in the U.S. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sawtooth_Valley_ID1.jpg/330px-Sawtooth_Valley_ID1.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sawtooth_National_Forest"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Tales of Hulan River was the last work written by Xiao Hong, one of the most talented female literary figures of the Chinese Northeast Writers Group that were especially active in the 1930s and 1940s.",
-      "body": "The novel was first serialized in the newspaper Constellation Daily and then later published as a book, after which it received both criticism and praise. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NLC511-023031404010747-32140_%E5%91%BC%E8%98%AD%E6%B2%B3%E5%82%B3_%E9%95%B7%E7%AF%87%E5%89%B5%E4%BD%9C.pdf/page1-330px-NLC511-023031404010747-32140_%E5%91%BC%E8%98%AD%E6%B2%B3%E5%82%B3_%E9%95%B7%E7%AF%87%E5%89%B5%E4%BD%9C.pdf.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tales_of_Hulan_River"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "A séance or seance is an attempt to communicate with spirits.",
-      "body": "The word séance comes from the French word for \"session\", from the Old French seoir, \"to sit\". One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/John_Beattie_Eugene_Rochas_seance.jpg/330px-John_Beattie_Eugene_Rochas_seance.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/S%C3%A9ance"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Susannah Buxton is a British costume designer for film and television, best known for costuming Downton Abbey (2010), for which she won a Primetime Emmy Award and Costume Designers Guild Award.",
-      "body": "Buxton's period dramas for television have received critical praise for their historical accuracy and attention to detail. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Susannah_Buxton"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Colony’ director Yeon Sang-ho talks sequel plans through novel, video game",
-      "body": "EXCLUSIVE: The film has proved a box office hit in South Korea and is set for a US release on August 28.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/colony-director-yeon-sang-ho-talks-sequel-plans-through-novel-video-game/5218688.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1588 —",
-      "hook": "Anglo-Spanish War: Battle of Gravelines: The Spanish Armada is sighted in the English Channel.",
-      "body": "The Anglo-Spanish War (1585–1604) was an intermittent conflict between Habsburg Spain and the Kingdom of England that was never formally declared. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/English_Ships_and_the_Spanish_Armada%2C_August_1588_RMG_BHC0262.jpg/330px-English_Ships_and_the_Spanish_Armada%2C_August_1588_RMG_BHC0262.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1585%E2%80%931604)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "George Calvert, 1st Baron Baltimore was an English politician.",
-      "body": "He achieved domestic political success as a member of parliament and later Secretary of State under King James I. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Baron_George_Calvert_by_Daniel_Mytens_I.jpg/330px-Baron_George_Calvert_by_Daniel_Mytens_I.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/George_Calvert%2C_1st_Baron_Baltimore"
     },
     {
       "type": "card",
@@ -160,6 +75,24 @@
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
+      "hook": "Robert Peston found it 'too difficult' returning to Wales after his wife's death",
+      "body": "The couple spent a lot of time in Wales, enjoying walks along the coast.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxr1wwggno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Jill Scott review – joyous phones-free show is a taste of how all concerts should be",
+      "body": "<p><strong>Kings Theatre, Brooklyn</strong></p><p>The queen of Philly soul is in phenomenal form in a saucy and effortlessly virtuosic show celebrating 26 years in music</p><p>At one point during her triumphant phones-free show at Brooklyn’",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/17/jill-scott-concert-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
       "hook": "Bruno Mars has an unexpected opening before Wembley party starts",
       "body": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
       "src": "BBC Entertainment",
@@ -168,12 +101,79 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1903 —",
-      "hook": "Maurice Garin wins the first Tour de France.",
-      "body": "Maurice-François Garin was an Italian-French road bicycle racer best known for winning the inaugural Tour de France in 1903, and for being stripped of his title in the second Tour in 1904 along with eight others, for cheating. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Maurice_Garin_Meurisse_BNF_Gallica.jpg/330px-Maurice_Garin_Meurisse_BNF_Gallica.jpg",
+      "opener": "On this day in 1545 —",
+      "hook": "The Tudor warship Mary Rose sinks off Portsmouth; in 1982 the wreck is salvaged in one of the most complex and expensive projects in the history of maritime archaeology.",
+      "body": "In England and Wales, the Tudor period occurred between 1485 and 1603, including the Elizabethan era. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tudor_Rose.svg/330px-Tudor_Rose.svg.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Maurice_Garin"
+      "url": "https://en.wikipedia.org/wiki/Tudor_period"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1863 —",
+      "hook": "American Civil War: Morgan's Raid: At Buffington Island in Ohio, Confederate General John Hunt Morgan's raid into the north is mostly thwarted when a large group of his men are captured while trying to escape across the Ohio River.",
+      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Every year 6 student to be given Katherine Rundell book for Christmas",
+      "body": "<p>More than 800,000 copies of Impossible Creatures will be distributed to year 6 and P6 children through The Queen’s Christmas Present initiative</p><p>Every child in year 6 in England, Wales and Northern Ireland, and P6 in Scotland, will ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/17/every-year-6-student-to-be-given-katherine-rundell-book-for-christmas"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "\"Old Mother Hubbard\" is an English-language nursery rhyme, first given an extended printing in 1805, although the exact origin of the rhyme is disputed.",
+      "body": "It has a Roud Folk Song Index number of 19334. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Old_Mother_Hubbard_first_edition.jpg/330px-Old_Mother_Hubbard_first_edition.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Old_Mother_Hubbard"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Colony’ director Yeon Sang-ho talks sequel plans through novel, video game",
+      "body": "EXCLUSIVE: The film has proved a box office hit in South Korea and is set for a US release on August 28.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/colony-director-yeon-sang-ho-talks-sequel-plans-through-novel-video-game/5218688.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Brenda Fricker obituary",
+      "body": "<p>Actor who was the first Irish woman to win an Oscar for her role in the 1989 film classic My Left Foot</p><p>Brenda Fricker, who has died aged 81, was only the second Irish actor – and the first female one – to win an Oscar, for her role",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/19/brenda-fricker-obituary"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Proof of work is a form of cryptographic proof in which one party proves to others that a certain amount of a specific computational effort has been expended.",
+      "body": "Verifiers can subsequently confirm this expenditure with minimal effort on their part. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Proof_of_work"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2011 —",
+      "hook": "Guinean President Alpha Condé survives an attempted assassination and coup d'état at his residence in Conakry.",
+      "body": "Guinea, officially the Republic of Guinea, is a coastal country located in West Africa. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/330px-Flag_of_Guinea.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Guinea"
     }
   ]
 }
