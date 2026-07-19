@@ -1,7 +1,37 @@
 {
-  "generated": "2026-07-19T21:38:40.493Z",
-  "count": 19,
+  "generated": "2026-07-19T22:37:42.446Z",
+  "count": 13,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The 1904–05 Wisconsin Badgers men's basketball team represented University of Wisconsin–Madison.",
+      "body": "The head coach was Emmett Angell, coaching his first season with the Badgers. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wisconsin_Badgers_logo.svg/330px-Wisconsin_Badgers_logo.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1904%E2%80%9305_Wisconsin_Badgers_men's_basketball_team"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Culture, Media and Sport Select Committee, formerly the Digital, Culture, Media and Sport Select Committee, is one of the select committees of the House of Commons, established in 1997.",
+      "body": "It oversees the operations of the Department for Culture, Media and Sport which replaced the Department for National Heritage. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Culture%2C_Media_and_Sport_Committee"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Calabro is an Italian surname.",
+      "body": "Notable people with the surname include:Frank Calabro (1925–2011), politician Iliana Calabró, Argentine actress Juan Carlos Calabró (1934–2013), Argentine actor and comedian Karen Calabro, American politician Kevin Calabro, sports announcer Louis Calabro (1926",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Calabro_(surname)"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -14,11 +44,20 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Brenda Fricker obituary",
-      "body": "<p>Actor who was the first Irish woman to win an Oscar for her role in the 1989 film classic My Left Foot</p><p>Brenda Fricker, who has died aged 81, was only the second Irish actor – and the first female one – to win an Oscar, for her role",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/19/brenda-fricker-obituary"
+      "opener": "New Scientist —",
+      "hook": "Why a Ukrainian cruise missile is flying with hobby drone hardware",
+      "body": "An open-source flight-control system found in consumer drones has been installed in Ukraine’s latest cruise missile, showing how cheap technology is making military hardware accessible to all",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2580002-why-a-ukrainian-cruise-missile-is-flying-with-hobby-drone-hardware/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Robert Peston found it 'too difficult' returning to Wales after his wife's death",
+      "body": "The couple spent a lot of time in Wales, enjoying walks along the coast.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxr1wwggno?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -31,53 +70,32 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1544 —",
-      "hook": "Italian War of 1542–46: The first Siege of Boulogne begins.",
-      "body": "The Italian War of 1542–1546 was a conflict late in the Italian Wars, pitting Francis I of France and Suleiman I of the Ottoman Empire against the Holy Roman Emperor Charles V and Henry VIII of England. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Si%C3%A9ge_de_la_flotte_turc.jpg/330px-Si%C3%A9ge_de_la_flotte_turc.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Italian_War_of_1542%E2%80%931546"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Final Circle of Paradise is a science fiction novel by Arkady and Boris Strugatsky.",
-      "body": "It was first published in the Soviet Union in 1965, and the first English edition, translated by Leonid Renen, was published by DAW books in 1976. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/The_Final_Circle_of_Paradise_Cover.jpg",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Coney Street is a major shopping street in the city centre of York, in England.",
+      "body": "The street runs north-west from the junction of Spurriergate and Market Street, to St Helen's Square. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Coney_Street_York_-_geograph.org.uk_-_1581434.jpg/330px-Coney_Street_York_-_geograph.org.uk_-_1581434.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Final_Circle_of_Paradise"
+      "url": "https://en.wikipedia.org/wiki/Coney_Street"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Deep Ones is a 2020 American horror science fiction film written and directed by Chad Ferrin and based on H.P.",
-      "body": "Lovecraft's 1931 novel The Shadow over Innsmouth. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/The_Deep_Ones.jpeg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Deep_Ones"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Brenda Fricker obituary",
+      "body": "<p>Actor who was the first Irish woman to win an Oscar for her role in the 1989 film classic My Left Foot</p><p>Brenda Fricker, who has died aged 81, was only the second Irish actor – and the first female one – to win an Oscar, for her role",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/19/brenda-fricker-obituary"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1940 —",
-      "hook": "World War II: Battle of Cape Spada: The Royal Navy and the Regia Marina clash; the Italian light cruiser Bartolomeo Colleoni sinks, with 121 casualties.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 803 —",
-      "hook": "Bardanes Tourkos is proclaimed emperor by rebellious Byzantine troops.",
-      "body": "Bardanes, nicknamed Tourkos, \"the Turk\", was a Byzantine general who launched an unsuccessful rebellion against Emperor Nikephoros I in 803. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bardanes_Tourkos"
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The company is listed on the Colombo Stock Exchange on 11 March 1996 and Sri Lankan conglomerate, Hayleys owns a controlling stake of 61.66% of the company's stocks.",
+      "body": "Amaya Resorts & Spas, trading as Hayleys Leisure PLC, is a Sri Lankan hospitality company. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/31/Amaya_Resorts_%26_Spas_logo.jpeg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amaya_Resorts_%26_Spas"
     },
     {
       "type": "card",
@@ -91,99 +109,21 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Robert Peston found it 'too difficult' returning to Wales after his wife's death",
-      "body": "The couple spent a lot of time in Wales, enjoying walks along the coast.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxr1wwggno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Maisamma IPS is a 2007 Indian Telugu-language film starring Mumaith Khan and Sayaji Shinde in lead roles.",
-      "body": "This film is about a strict police-woman, who is a people's defender, since the law is unable to do justice to them. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/12/Maisamma_IPS_poster.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maisamma_IPS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Austenland is an American musical based on the 2007 novel of the same name, with book by Jodi Picoult and Timothy Allen McDonald and music and lyrics by Kate Anderson and Elyssa Samsel.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Austenland_(musical)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1870 —",
-      "hook": "Franco-Prussian War: France declares war on Prussia.",
-      "body": "The Franco-Prussian War, occasionally known as the Franco-German War, and sometimes referred to in France as the War of 1870, was a conflict between France and the North German Confederation led by Prussia. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_v_Werner_-_Kaiserproklamation_am_18_Januar_1871_%283._Fassung_1885%29.jpg/330px-A_v_Werner_-_Kaiserproklamation_am_18_Januar_1871_%283._Fassung_1885%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Franco-Prussian_War"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1983 —",
-      "hook": "The first three-dimensional reconstruction of a human head in a CT is published.",
-      "body": "Michael W. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Michael_W._Vannier"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Lidiya Nikolaevna Seifullina was a Soviet journalist, playwright, novelist, and short story writer.",
-      "body": "Her short story \"Virineia\" serves as the basis for an opera by Sergei Slonimsky. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%A1%D1%83%D0%BF%D1%80%D1%83%D0%B3%D0%B8_%D0%9B%D0%B8%D0%B4%D0%B8%D1%8F_%D0%A1%D0%B5%D0%B9%D1%84%D1%83%D0%BB%D0%BB%D0%B8%D0%BD%D0%B0_%D0%B8_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B0%D0%BD_%D0%9F%D1%80%D0%B0%D0%B2%D0%B4%D1%83%D1%85%D0%B8%D0%BD.jpg/330px-%D0%A1%D1%83%D0%BF%D1%80%D1%83%D0%B3%D0%B8_%D0%9B%D0%B8%D0%B4%D0%B8%D1%8F_%D0%A1%D0%B5%D0%B9%D1%84%D1%83%D0%BB%D0%BB%D0%B8%D0%BD%D0%B0_%D0%B8_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B0%D0%BD_%D0%9F%D1%80%D0%B0%D0%B2%D0%B4%D1%83%D1%85%D0%B8%D0%BD.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lidiya_Seifullina"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1588 —",
-      "hook": "Anglo-Spanish War: Battle of Gravelines: The Spanish Armada is sighted in the English Channel.",
-      "body": "The Anglo-Spanish War (1585–1604) was an intermittent conflict between Habsburg Spain and the Kingdom of England that was never formally declared. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/English_Ships_and_the_Spanish_Armada%2C_August_1588_RMG_BHC0262.jpg/330px-English_Ships_and_the_Spanish_Armada%2C_August_1588_RMG_BHC0262.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1585%E2%80%931604)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Why a Ukrainian cruise missile is flying with hobby drone hardware",
-      "body": "An open-source flight-control system found in consumer drones has been installed in Ukraine’s latest cruise missile, showing how cheap technology is making military hardware accessible to all",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580002-why-a-ukrainian-cruise-missile-is-flying-with-hobby-drone-hardware/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "East German jokes, jibes popular in the former German Democratic Republic, reflected the concerns of East German citizens and residents between 1949 and 1990.",
-      "body": "Jokes frequently targeted political figures, such as Socialist Party General Secretary Erich Honecker or State Security Minister Erich Mielke, who headed the Stasi secret police. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/East_German_jokes"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "The Guardian · Books —",
       "hook": "Could AI be conscious?",
       "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Mini Israel is a miniature park located near Latrun in Jerusalem within the Ayalon Valley.",
+      "body": "Opened in November 2002, the site contains miniature replicas of hundreds of buildings and landmarks in Israel. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/PikiWiki_Israel_5528_Landscapes_of_Israel_Mini.JPG/330px-PikiWiki_Israel_5528_Landscapes_of_Israel_Mini.JPG",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mini_Israel"
     }
   ]
 }
