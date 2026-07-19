@@ -1,53 +1,26 @@
 {
-  "generated": "2026-07-19T09:40:45.533Z",
-  "count": 12,
+  "generated": "2026-07-19T11:01:37.692Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Colony’ director Yeon Sang-ho talks sequel plans through novel, video game",
-      "body": "EXCLUSIVE: The film has proved a box office hit in South Korea and is set for a US release on August 28.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/colony-director-yeon-sang-ho-talks-sequel-plans-through-novel-video-game/5218688.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Red Mouth by Sheila Armstrong review – profound exploration of Ireland’s deep time",
-      "body": "<p>Sinister bogland discoveries haunt the intersecting lives of four characters in this meditative, exquisitely written tale</p><p>Almost 14% of Ireland is bog: vast swathes of moss-carpeted land, below which layers of ancient history have ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/17/the-red-mouth-by-sheila-armstrong-review-profound-exploration-of-irelands-deep-time"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Pylle is a village and civil parish 4 miles (6.4 km) south west of Shepton Mallet, and 7 miles (11.3 km) from Wells, in the county of Somerset, England.",
+      "body": "It has a population of 160. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pylle_church.jpg/330px-Pylle_church.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pylle"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Seryozha is a short novel by Soviet writer Vera Panova.",
-      "body": "Seryozha has also been translated as Time Walked and A Summer to Remember. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/68/Seryozha.jpg",
+      "opener": "Bet you didn't know —",
+      "hook": "François Louis Thomas Francia (1772–1839) was a French watercolour painter born in Calais and famous for his shore landscapes.",
+      "body": "He spent much of the earlier part of his life in England. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Lord_Nelson%2C_Woolwich_Dockyard%2C_L_Francia_1815_LMA.jpg/330px-The_Lord_Nelson%2C_Woolwich_Dockyard%2C_L_Francia_1815_LMA.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Seryozha_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Cousin Bette is a 1998 British–American comedy-drama film starring Jessica Lange in the title role and is loosely based on the novel of the same name by the French author Honoré de Balzac.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c6/Cosuin_Bette.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cousin_Bette_(1998_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Using AI for creative pursuits? Moderation is key",
-      "body": "An experiment showed AI users had the most creative ideas when they used it in moderation – not too much and not too little. Columnist David Robson puts the finding to the test, and explores what we lose when we over-rely on AI",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580262-using-ai-for-creative-pursuits-moderation-is-key/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Louis_Thomas_Francia"
     },
     {
       "type": "card",
@@ -57,6 +30,16 @@
       "body": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1943 —",
+      "hook": "World War II: Rome is heavily bombed by more than 500 Allied aircraft, inflicting thousands of casualties.",
+      "body": "Rome, along with Vatican City, was bombed several times during 1943 and 1944, primarily by Allied and to a smaller degree by Axis aircraft, before the city was liberated by the Allies on June 4, 1944. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bundesarchiv_Bild_101I-476-2094-17A%2C_Italien%2C_Rom%2C_zerst%C3%B6rtes_Geb%C3%A4ude.jpg/330px-Bundesarchiv_Bild_101I-476-2094-17A%2C_Italien%2C_Rom%2C_zerst%C3%B6rtes_Geb%C3%A4ude.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bombing_of_Rome_in_World_War_II"
     },
     {
       "type": "card",
@@ -70,31 +53,80 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Angel Heart is a 1987 neo-noir psychological horror film, an adaptation of William Hjortsberg's 1978 novel Falling Angel.",
-      "body": "The film is written and directed by Alan Parker, and stars Mickey Rourke, Robert De Niro, Lisa Bonet and Charlotte Rampling. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/Angel_Heart.jpg",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Alexandre Deulofeu i Torres was a Catalan politician and philosopher of history.",
+      "body": "He wrote about what he called the Mathematics of History, a cyclical theory on the evolution of civilizations. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/Alexandre_Deulofeu_-_Foto_1.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Angel_Heart"
+      "url": "https://en.wikipedia.org/wiki/Alexandre_Deulofeu"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Vararuci is a name associated with several literary and scientific texts in Sanskrit and also with various legends in several parts of India.",
-      "body": "This Vararuci is often identified with Kātyāyana. Bring it up somewhere. Watch the reaction.",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Carole Skinner is an Australian retired actress, particularly known for her performances in theatre and television, although she has had small parts in films.",
+      "body": "She is perhaps best known internationally for her soap opera roles as Nola McKenzie in the soap opera, Prisoner, and Sons and Daughters, as Doris Hudson, as well as miniseries, The Harp in the South, and its sequel, Poor Man's Orange, as Delie Stock. One of th",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Vararuchi"
+      "url": "https://en.wikipedia.org/wiki/Carole_Skinner"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "ESA’s Mars Express meets NASA’s Psyche",
-      "body": "Image: Mars Express image",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/ESA_s_Mars_Express_meets_NASA_s_Psyche"
+      "opener": "The Guardian · Books —",
+      "hook": "The Red Mouth by Sheila Armstrong review – profound exploration of Ireland’s deep time",
+      "body": "<p>Sinister bogland discoveries haunt the intersecting lives of four characters in this meditative, exquisitely written tale</p><p>Almost 14% of Ireland is bog: vast swathes of moss-carpeted land, below which layers of ancient history have ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/17/the-red-mouth-by-sheila-armstrong-review-profound-exploration-of-irelands-deep-time"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1848 —",
+      "hook": "Women's rights: A two-day Women's Rights Convention opens in Seneca Falls, New York.",
+      "body": "Women's rights are the rights and entitlements claimed for women and girls worldwide. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Annie_Kenney_and_Christabel_Pankhurst.jpg/330px-Annie_Kenney_and_Christabel_Pankhurst.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Women's_rights"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1843 —",
+      "hook": "Brunel's steamship the SS Great Britain is launched, becoming the first ocean-going craft with an iron hull and screw propeller, becoming the largest vessel afloat in the world.",
+      "body": "Isambard Kingdom Brunel was an English civil and marine engineer considered \"one of the greatest figures of the Industrial Revolution\", \"perhaps the most eminent Victorian engineer\", and one whose work \"altered the lives of almost every person in Britain, and millions abroad\". Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg/330px-Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1702 —",
+      "hook": "Great Northern War: A numerically superior Polish-Saxon army of Augustus II the Strong, operating from an advantageous defensive position, is defeated by a Swedish army half its size under the command of King Charles XII in the Battle of Klissow.",
+      "body": "In the Great Northern War (1700–1721) a coalition led by Russia successfully contested the supremacy of Sweden in Northern, Central and Eastern Europe. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Great_Northern_War_Collage.jpg/330px-Great_Northern_War_Collage.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Great_Northern_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 998 —",
+      "hook": "Arab–Byzantine wars: Battle of Apamea: Fatimids defeat a Byzantine army near Apamea.",
+      "body": "The Arab–Byzantine wars or Muslim–Byzantine wars were a series of wars from the 7th to 11th centuries between the successive Islamic caliphates and the Byzantine Empire. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/330px-Greekfire-madridskylitzes1.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Using AI for creative pursuits? Moderation is key",
+      "body": "An experiment showed AI users had the most creative ideas when they used it in moderation – not too much and not too little. Columnist David Robson puts the finding to the test, and explores what we lose when we over-rely on AI",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2580262-using-ai-for-creative-pursuits-moderation-is-key/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
@@ -108,12 +140,40 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Ardhanarishwar is a Hindi novel by Indian writer Vishnu Prabhakar, published in 1992.",
-      "body": "It won the 1993 Sahitya Akademi Award for Hindi, given by Sahitya Akademi, India's National Academy of Letters. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Ardhanarishwar.jpg",
+      "opener": "You probably never noticed this —",
+      "hook": "Louis Gustave Vapereau was a French writer and lexicographer famous primarily for his dictionaries, the Dictionnaire universel des contemporains and the Dictionnaire universel des littérateurs.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gustave_Vapereau.jpg/330px-Gustave_Vapereau.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ardhanarishwar"
+      "url": "https://en.wikipedia.org/wiki/Louis_Gustave_Vapereau"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "ESA’s Mars Express meets NASA’s Psyche",
+      "body": "Image: Mars Express image",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/ESA_s_Mars_Express_meets_NASA_s_Psyche"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2018 —",
+      "hook": "The Knesset passes the controversial Nationality Bill, which defines the State of Israel as the nation-state of the Jewish people.",
+      "body": "The Knesset is the unicameral legislature of Israel. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Israeli_Knesset_Current_Composition.svg/330px-Israeli_Knesset_Current_Composition.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Knesset"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Colony’ director Yeon Sang-ho talks sequel plans through novel, video game",
+      "body": "EXCLUSIVE: The film has proved a box office hit in South Korea and is set for a US release on August 28.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/colony-director-yeon-sang-ho-talks-sequel-plans-through-novel-video-game/5218688.article"
     }
   ]
 }
