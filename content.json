@@ -1,129 +1,209 @@
 {
-  "generated": "2026-07-20T11:31:49.290Z",
-  "count": 13,
+  "generated": "2026-07-20T13:40:40.807Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1866 —",
+      "hook": "Austro-Prussian War: Battle of Lissa: The Austrian Navy, led by Admiral Wilhelm von Tegetthoff, defeats the Italian Navy near the island of Vis in the Adriatic Sea.",
+      "body": "The Austro-Prussian War was fought in 1866 between the Austrian Empire and the Kingdom of Prussia, with each also being aided by various allies within the German Confederation. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schlacht-bei-koeniggraetz-von-georg-bleibtreu.jpg/330px-Schlacht-bei-koeniggraetz-von-georg-bleibtreu.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Austro-Prussian_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: Adolf Hitler survives an assassination attempt led by German Army Colonel Claus von Stauffenberg.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘The Odyssey’ fires up UK-Ireland summer box office with huge £12.6m weekend",
-      "body": "Second-biggest opening weekend of the year, second-biggest opening ever for Christopher Nolan.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/the-odyssey-fires-up-uk-ireland-summer-box-office-with-huge-126m-weekend/5218732.article"
+      "opener": "The Guardian · Film —",
+      "hook": "Jackass: Best and Last review – kings of gross-out comedy’s final, funny farewell",
+      "body": "<p>So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgia</p><p>The boy-men of <a href=\"https://www.theguardian.com/film/202",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Sex, beds and grisly executions: what Christopher Nolan’s The Odyssey changed, invented – and left out",
+      "body": "<p>From missing scenes and characters to a brand new ending, the director has taken some artistic liberties with Homer’s epic poem</p><p>Turning a 12,000-line poem that takes a day to read aloud into a three-hour film was always going to re",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/20/the-odyssey-what-christopher-nolan-changed-invented-left-out"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "He represented Qu'Appelle-Wolseley from 1952 to 1956 in the Legislative Assembly of Saskatchewan as a Co-operative Commonwealth Federation (CCF) member.",
+      "body": "William Henry \"Harry\" Wahl was a Canadian farm implement dealer and political figure in Saskatchewan. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harry_Wahl_(politician)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "If the Dead Rise Not is a crime novel by Philip Kerr, the sixth in the series starring Berlin police detective Bernie Gunther.",
+      "body": "It was published in 2009 by Quercus of London. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/66/If_the_Dead_Rise_Not.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/If_the_Dead_Rise_Not"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Worry Doll by Laura McPhee-Browne review – a sensual, sinister novel about the horrors of desire",
+      "body": "<p>Two women meet on a train and tumble into an all-consuming affair told from both sides – who have very different stories </p><p>I’ve been craving a sandwich: soft white roll, roast chicken, sharp cheese. A bright little cut of tomato. Af",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/17/worry-doll-by-laura-mcphee-browne-review-a-sensual-sinister-novel-about-the-horrors-of-desire"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1940 —",
+      "hook": "California opens its first freeway, the Arroyo Seco Parkway.",
+      "body": "California is a U.S. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/330px-Flag_of_California.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/California"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
+      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1976 —",
+      "hook": "The American Viking 1 lander successfully lands on Mars.",
+      "body": "Viking 1 is the first of two spacecraft, along with Viking 2, each consisting of an orbiter and a lander, sent to Mars as part of NASA's Viking program. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viking_spacecraft.jpg/330px-Viking_spacecraft.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Viking_1"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "It was opened in 1965, being Perth's first \"American-style\" shopping centre.",
+      "body": "Floreat Forum is a shopping centre in Floreat, a suburb west of Perth. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/OIC_floreat_forum_outdoor_2.jpg/330px-OIC_floreat_forum_outdoor_2.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Floreat_Forum"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Little Brother review – Netflix comedy is neither weird or funny enough for star Eric André",
+      "body": "<p>The surreal comedian struggles to sell a middling and mostly conventional film about an uptight realtor whose life is upturned by an unpredictable figure from his past</p><p>The specific, unforced strangeness of <a href=\"https://www.theg",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1705 —",
+      "hook": "A fire in Oulu, Finland almost completely destroyed the fourth district, which covered the southern part of the city and was by far the largest of the city districts.",
+      "body": "Oulu is a major port city in Finland and the regional capital of North Ostrobothnia. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Montage_Pokkinen_Oulu.jpg/330px-Montage_Pokkinen_Oulu.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Oulu"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "John Haughton D'Arms was the Gerald F.",
-      "body": "Else Professor of Humanities and professor of classical studies and history at the University of Michigan in Ann Arbor. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "Kings of the Wyld is a 2017 fantasy novel by Nicholas Eames.",
+      "body": "It is the first in the trilogy, The Band. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Kings_of_the_Wyld.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/John_D'Arms"
+      "url": "https://en.wikipedia.org/wiki/Kings_of_the_Wyld"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Mockbuster review – how to survive the nightmare of directing a terrible low-budget horror film",
+      "body": "<p>Struggling to make it in Australia, aspiring director Anthony Frith cold-calls the team behind Sharknado and bites off more than he can chew in this making-of documentary</p><p>‘A bad movie is better than no movie” is the motto of this b",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/20/mockbuster-review-how-to-survive-the-nightmare-of-directing-a-terrible-low-budget-horror-film"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Jeffrey Sweet is an American playwright, journalist, songwriter, teacher, theater historian and critic, who has also performed off-Broadway and occasionally directed.",
-      "body": "His recent works include A Change of Position and Kunstler about human rights lawyer William Kunstler. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "Mister Collins' Adventure is a 1943 Swedish comedy film directed by and starring Anders Henrikson and also featuring Birgit Sergelius, Thor Modéen and Elof Ahrle.",
+      "body": "It was based on a novel by Frank Heller, which had previously been made into 1925 silent film The Adventure of Mr. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c8/Mister_Collins%27_Adventure.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jeffrey_Sweet"
+      "url": "https://en.wikipedia.org/wiki/Mister_Collins'_Adventure"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tell us: what have you been reading this month?",
+      "body": "<p>We would like to hear about the books you’ve particularly enjoyed this month</p><p>As part of The Guardian’s “<a href=\"https://www.theguardian.com/books/series/what-we-re-reading\">what we’re reading</a>” series, we would like to hear abo",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Protestant Film Commission, also known as the Protestant Film Office, was an American independent film agency which promoted Protestant religious and moral values in Hollywood cinema.",
-      "body": "Representing 200,000 American Protestant churches with approximately 34 million members, the Commission was founded in 1945 as a consulting agency for Hollywood film scripts and also provided reviews and ratings for general-market Hollywood films. One of those",
+      "opener": "You probably never noticed this —",
+      "hook": "It is the oldest co-ed, continually operated camp in the United States.",
+      "body": "Incarnation Camp is a non-profit, traditional year-round camp, retreat and education center located in Essex, Connecticut. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Protestant_Film_Commission"
+      "url": "https://en.wikipedia.org/wiki/Incarnation_Camp"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Being American feels helpless and scary’: actor Ben Platt on nerves, queer songs and why he couldn’t do it without his husband",
-      "body": "<p>The star of Dear Evan Hansen plays a 1960s Greenwich Village crooner in hit queer musical Midnight at the Never Get. It’s the perfect outlet for his anxiety, he says</p><p>In performance, Ben Platt is a mellifluous singer and loose-limbe",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/stage/2026/jul/20/ben-platt-actor-interview-queer-musical-midnight-at-the-never-get"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘Justice, morality and triumph’: why Matilda is my feelgood movie",
-      "body": "<p>The latest in our series of writers picking their most meaningful comfort watches is a tribute to the inspiring power of the 1996 Roald Dahl adaptation</p><p>When I think about what makes me feel good, it isn’t fantasy or escapism; it’s ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/20/why-matilda-is-my-feelgood-movie"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Out of Sight review – mountain idyll on the Swiss border is a gilded cage for distressed asylum seekers",
-      "body": "<p>Young men share their heartbreaking experiences of an Alpine ‘deportation camp’ in Lisa Polster’s impactful, gentle documentary</p><p>Located on the Swiss-Austrian border, the Bürglkopf mountain is a picture-perfect Alpine landscape, wit",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/20/out-of-sight-review-asylum-seekers-alps"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "I Hadn't Meant to Tell You This is a book targeted towards young adults published in 1994 by Jacqueline Woodson.",
+      "body": "The story takes place in Chauncey, Ohio, and it focuses on the growing friendship between a black girl native to this town named Marie and a white girl her age by the name of Lena. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/I_Hadn%27t_Meant_to_Tell_You_This_Book_Cover.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/I_Hadn't_Meant_to_Tell_You_This"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Hassocks railway station is on the Brighton Main Line in England, serving the village of Hassocks, West Sussex.",
-      "body": "It is 43 miles 42 chains (70.0 km) down the line from London Bridge via Redhill and is situated between Burgess Hill and Preston Park. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hassocks_train_station_01.jpg/330px-Hassocks_train_station_01.jpg",
+      "hook": "The Friend is a novel by American writer Sigrid Nunez published by Riverhead Books in 2018.",
+      "body": "The book concerns an unnamed novelist who adopts a Great Dane that belonged to a deceased friend and mentor. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/24/The_Friend_%28Sigrid_Nunez%29.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hassocks_railway_station"
+      "url": "https://en.wikipedia.org/wiki/The_Friend_(novel)"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Acting the fool: why have Hollywood press tours become so gimmicky?",
-      "body": "<p>From playing would you rather to ranking snacks, A-listers navigating the promo trail are now forced on a set schedule of silliness</p><p>This summer, we’ve been blessed with new movies from the legendary director Steven Spielberg and on",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Andrew Motion: ‘Wilfred Owen became a kind of sacred text for me’",
-      "body": "<p>The former poet laureate on growing up with Lawrence Durrell, rereading Henry James and getting to grips with the genius of Alexander Pope</p><p><strong>My earliest reading memory</strong><br> My parents were country people who thought t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/17/andrew-motion-wilfred-owen-became-a-kind-of-sacred-text-for-me"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "People of the Karoo refers to notable individuals who come from, or whose lives have included substantial engagement with, the area known as the Karoo.",
-      "body": "The Karoo is a widespread physiographic province in the western interior of South Africa, straddling much of the Northern Cape, southern Free State, Eastern Cape interior and parts of the Western Cape Provinces. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/People_of_the_Karoo"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The American Broadcasting Company (ABC) television network has nationally broadcast National Football League (NFL) games in various stints throughout its history.",
-      "body": "ABC's first stint, which lasted from 1948 to 1950, involved a \"game of the week\" format and the NFL Championship Game; it also owned broadcast rights for up to three teams from 1952 to 1954. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/NFL_on_ABC"
+      "cat": "history",
+      "opener": "On this day in 1981 —",
+      "hook": "Somali Airlines Flight 40 crashes in Balad, Somalia, killing 50 people.",
+      "body": "On 20 July 1981, Somali Airlines Flight 40, a Fokker F27-600 Friendship operating a daily scheduled domestic passenger flight from Mogadishu International Airport to Hargeisa Airport, Somalia, crashed near the town of Balad a few minutes after takeoff killing all 44 passengers and 6 crew members on board. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Somali_Airlines_Fokker_F27-600_Friendship_Groves.jpg/330px-Somali_Airlines_Fokker_F27-600_Friendship_Groves.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Somali_Airlines_Flight_40"
     }
   ]
 }
