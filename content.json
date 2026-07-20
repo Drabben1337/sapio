@@ -1,102 +1,16 @@
 {
-  "generated": "2026-07-20T20:57:01.512Z",
+  "generated": "2026-07-20T21:55:41.237Z",
   "count": 18,
   "items": [
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Bad Bunny concert in Milan abandoned because of hailstorm",
-      "body": "<p>Fans evacuated from sold-out open-air show as organisers promise full refunds</p><p>An open-air show by the Puerto Rican music star Bad Bunny was abandoned in Italy on Saturday night because of a violent hailstorm, but the organiser said",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/jul/19/bad-bunny-milan-abandoned-hailstorm"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "“He had a big impact on the history of film in this country”: Industry pays tribute to Simon Field who has died aged 80",
-      "body": "“Simon never gave up, never compromised,” said Apichatpong Weerasethakul of his ‘Uncle Boomee’ producer.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/he-had-a-big-impact-on-the-history-of-film-in-this-country-industry-pays-tribute-to-simon-field-who-has-died-aged-80/5218753.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "“He had a big impact on the history of film in this country”: Industry pays tribute to Simon Field who had died aged 80",
-      "body": "“Simon never gave up, never compromised,” said Apichatpong Weerasethakul of his ‘Uncle Boomee’ producer.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/he-had-a-big-impact-on-the-history-of-film-in-this-country-industry-pays-tribute-to-simon-field-who-had-died-aged-80/5218753.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Could AI be conscious?",
-      "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Frank Woodley is an Australian comedian, author and musician who is best known for his work alongside Colin Lane as part of the comedic duo Lano and Woodley.",
-      "body": "The two performed together for almost 20 years in live shows, a television series and an album of comedic songs, before deciding to pursue individual careers in 2006. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Frank_Woodley"
-    },
-    {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1968 —",
-      "hook": "The first International Special Olympics Summer Games are held at Soldier Field in Chicago, with about 1,000 athletes with intellectual disabilities.",
-      "body": "Special Olympics is the world's largest sports organization for children and adults with intellectual disabilities, providing year-round training and activities to 5 million participants and Unified Sports partners in 172 countries. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Logo_Special_Olympics.svg/330px-Logo_Special_Olympics.svg.png",
+      "opener": "On this day in 2013 —",
+      "hook": "Syrian civil war: The Battle of Ras al-Ayn ends with the expulsion of Islamist forces from the city by the People's Protection Units (YPG).",
+      "body": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Special_Olympics"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1999 —",
-      "hook": "The Chinese Communist Party begins a persecution campaign against Falun Gong, arresting thousands nationwide.",
-      "body": "The persecution of Falun Gong is the campaign initiated in 1999 by the Chinese Communist Party (CCP) to eliminate the new religious movement Falun Gong in China, maintaining a doctrine of state atheism. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Speaker_at_Washington_DC._STOP_the_Persecution_of_Falun_Gong.jpg/330px-Speaker_at_Washington_DC._STOP_the_Persecution_of_Falun_Gong.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1940 —",
-      "hook": "California opens its first freeway, the Arroyo Seco Parkway.",
-      "body": "California is a U.S. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/330px-Flag_of_California.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/California"
+      "url": "https://en.wikipedia.org/wiki/Syrian_civil_war"
     },
     {
       "type": "card",
@@ -110,52 +24,31 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2012 —",
-      "hook": "Syrian civil war: The People's Protection Units (YPG) capture the cities of Amuda and Efrîn without resistance.",
-      "body": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg",
+      "opener": "On this day in 1977 —",
+      "hook": "The Johnstown flood of 1977 kills 84 people and causes millions of dollars in damages.",
+      "body": "The Johnstown flood of 1977 was a major flood which began on the night of July 19, 1977, when heavy rainfall caused widespread flash flooding in Cambria County, Pennsylvania, United States, including the city of Johnstown and the Conemaugh Valley. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/JOHNSTOWN_FLOOD_OF_19-20_JULY_1977_-_panoramio_%2812%29.jpg/330px-JOHNSTOWN_FLOOD_OF_19-20_JULY_1977_-_panoramio_%2812%29.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Syrian_civil_war"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
+      "url": "https://en.wikipedia.org/wiki/Johnstown_flood_of_1977"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1738 —",
-      "hook": "Canadian explorer Pierre Gaultier de Varennes et de La Vérendrye reaches the western shore of Lake Michigan.",
-      "body": "Pierre Gaultier de Varennes, sieur de La Vérendrye was a military officer, fur trader, and explorer. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pierre_de_La_Verendrye_by_Edgar_Samuel_Paxson%2C_1912.jpg/330px-Pierre_de_La_Verendrye_by_Edgar_Samuel_Paxson%2C_1912.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pierre_Gaultier_de_Varennes%2C_sieur_de_La_V%C3%A9rendrye"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "“He had a big impact on the history of film in this country”: Industry pays tribute to Simon Field who had died aged 80",
+      "body": "“Simon never gave up, never compromised,” said Apichatpong Weerasethakul of his ‘Uncle Boomee’ producer.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/he-had-a-big-impact-on-the-history-of-film-in-this-country-industry-pays-tribute-to-simon-field-who-had-died-aged-80/5218753.article"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Barna Tikar is a village in Gauriganj block of Amethi district, Uttar Pradesh, India.",
-      "body": "As of 2011, it has a population of 2,927 people, in 531 households. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gauriganj_block_map.png/330px-Gauriganj_block_map.png",
+      "hook": "The COVID-19 pandemic in Suriname was caused by Severe acute respiratory syndrome coronavirus 2.",
+      "body": "The virus was confirmed to have reached Suriname on 13 March 2020. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Barna_Tikar"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1705 —",
-      "hook": "A fire in Oulu, Finland almost completely destroyed the fourth district, which covered the southern part of the city and was by far the largest of the city districts.",
-      "body": "Oulu is a major port city in Finland and the regional capital of North Ostrobothnia. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Montage_Pokkinen_Oulu.jpg/330px-Montage_Pokkinen_Oulu.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Oulu"
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Suriname"
     },
     {
       "type": "card",
@@ -168,12 +61,119 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Antibody-vaccine engineered construct abbreviated AVEC is an anti cancer drug in clinical trials that enables the immune system to detect and naturally eliminate malignant cells.",
+      "body": "It is a biomolecularly engineered molecule consisting of the two main components: (1) antibody; (2) vaccine. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antibody-vaccine_engineered_construct"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could AI be conscious?",
+      "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1715 —",
+      "hook": "Seventh Ottoman–Venetian War: The Ottoman Empire captures Nauplia, the capital of the Republic of Venice's \"Kingdom of the Morea\", thereby opening the way to the swift Ottoman reconquest of the Morea.",
+      "body": "The Seventh Ottoman–Venetian War was fought between the Republic of Venice and the Ottoman Empire between 1714 and 1718. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Capturing_of_the_Ottoman_occupied_Vonitsa_and_Preveza_by_the_Venetians_during_the_Ottoman%E2%80%93Venetian_War_of_1714-1718.jpg/330px-Capturing_of_the_Ottoman_occupied_Vonitsa_and_Preveza_by_the_Venetians_during_the_Ottoman%E2%80%93Venetian_War_of_1714-1718.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1714%E2%80%931718)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2015 —",
+      "hook": "A huge explosion in the mostly Kurdish border town of Suruç, Turkey, targeting the Socialist Youth Associations Federation, kills at least 31 people and injures over 100.",
+      "body": "On 20 July 2015, the Dokumacılar, the Turkish sect of the Islamic State (ISIL), executed a suicide attack in the Suruç district of Şanlıurfa Province in Turkey. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Suru%C3%A7_bombing_in_Turkey.jpg/330px-2015_Suru%C3%A7_bombing_in_Turkey.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Suru%C3%A7_bombing"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2017 —",
+      "hook": "O. J. Simpson is granted parole to be released from prison after serving nine years of a 33-year sentence after being convicted of armed robbery in Las Vegas.",
+      "body": "Orenthal James Simpson, nicknamed \"the Juice\", was an American football player, actor, and media personality. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG/330px-O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/O._J._Simpson"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1592 —",
+      "hook": "During the first Japanese invasion of Korea, Japanese forces led by Toyotomi Hideyoshi captured Pyongyang, although they were ultimately unable to hold it.",
+      "body": "The Imjin War was a series of two Japanese invasions of Korea: an initial invasion in 1592 also individually called the \"Imjin War\", a brief truce in 1596 between the conflicts, followed by a second invasion in 1597 called the Chŏngyu War. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Siege-of-Busanjin-1592.jpg/330px-Siege-of-Busanjin-1592.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Imjin_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Mandjelia rejae is a species of mygalomorph spider in the Barychelidae family.",
+      "body": "It is endemic to Australia. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mandjelia_rejae"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Fujio \"Fudge\" Matsuda (松田 富士夫) was the first Japanese American president of the University of Hawaii.",
+      "body": "This position also made him the first Asian American to become president of a major university in the United States. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fujio_Matsuda"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Bad Bunny concert in Milan abandoned because of hailstorm",
+      "body": "<p>Fans evacuated from sold-out open-air show as organisers promise full refunds</p><p>An open-air show by the Puerto Rican music star Bad Bunny was abandoned in Italy on Saturday night because of a violent hailstorm, but the organiser said",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/19/bad-bunny-milan-abandoned-hailstorm"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "A quantum cryptographic protocol is device-independent if its security does not rely on trusting that the quantum devices used are truthful.",
+      "body": "Thus the security analysis of such a protocol needs to consider scenarios of imperfect or even malicious devices. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Device-independent_quantum_cryptography"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
       "hook": "Bruno Mars has an unexpected opening before Wembley party starts",
       "body": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "“He had a big impact on the history of film in this country”: Industry pays tribute to Simon Field who has died aged 80",
+      "body": "“Simon never gave up, never compromised,” said Apichatpong Weerasethakul of his ‘Uncle Boomee’ producer.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/he-had-a-big-impact-on-the-history-of-film-in-this-country-industry-pays-tribute-to-simon-field-who-has-died-aged-80/5218753.article"
     }
   ]
 }
