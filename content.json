@@ -1,35 +1,82 @@
 {
-  "generated": "2026-07-19T23:43:15.241Z",
-  "count": 13,
+  "generated": "2026-07-20T01:18:57.444Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The New York State Register is the official journal of the New York state government that contains information on proposed regulations and rulemaking activities.",
-      "body": "The New York State Register is published weekly by the New York State Department of State's Division of Administrative Rules. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/New_York_State_Register_July_23%2C_2014.pdf/page1-330px-New_York_State_Register_July_23%2C_2014.pdf.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/New_York_State_Register"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "St Mary the Virgin's Church is a former priory church in the village of Bromfield, Shropshire, England.",
-      "body": "It is an active Anglican parish church in the deanery of Ludlow, the archdeaconry of Ludlow, and the diocese of Hereford. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Church_of_St_Mary_the_Virgin%2C_Bromfield_-_geograph.org.uk_-_31473.jpg/330px-Church_of_St_Mary_the_Virgin%2C_Bromfield_-_geograph.org.uk_-_31473.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/St_Mary_the_Virgin's_Church%2C_Bromfield"
+      "cat": "history",
+      "opener": "On this day in 1954 —",
+      "hook": "Germany: Otto John, head of West Germany's secret service, defects to East Germany.",
+      "body": "Otto John was a German lawyer and intelligence official. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bundesarchiv_Bild_183-25876-0001%2C_Otto_John.jpg/330px-Bundesarchiv_Bild_183-25876-0001%2C_Otto_John.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Otto_John"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Robert Peston found it 'too difficult' returning to Wales after his wife's death",
-      "body": "The couple spent a lot of time in Wales, enjoying walks along the coast.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxr1wwggno?at_medium=RSS&at_campaign=rss"
+      "opener": "New Scientist —",
+      "hook": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+      "body": "Many centuries before the advent of agriculture in Norway, ancient people transported fish into mountain lakes to create a source of food, then built wooden traps to catch them",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Every year 6 student to be given Katherine Rundell book for Christmas",
+      "body": "<p>More than 800,000 copies of Impossible Creatures will be distributed to year 6 and P6 children through The Queen’s Christmas Present initiative</p><p>Every child in year 6 in England, Wales and Northern Ireland, and P6 in Scotland, will ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/17/every-year-6-student-to-be-given-katherine-rundell-book-for-christmas"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Jill Scott review – joyous phones-free show is a taste of how all concerts should be",
+      "body": "<p><strong>Kings Theatre, Brooklyn</strong></p><p>The queen of Philly soul is in phenomenal form in a saucy and effortlessly virtuosic show celebrating 26 years in music</p><p>At one point during her triumphant phones-free show at Brooklyn’",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/17/jill-scott-concert-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Ancylomenes is a genus of shrimp, erected in 2010 to accommodate the group of species around \"Periclimenes aesopius\".",
+      "body": "Members of the genus are widely distributed in the warm oceans of the world, and live in association with cnidarians; most are cleaner shrimp. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pederson%27s_Shrimp.jpg/330px-Pederson%27s_Shrimp.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ancylomenes"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Wanganui Park Secondary College was a Government secondary college, with an enrolment of about 1,300 students from years 7 to 12, in Shepparton, Victoria.",
+      "body": "It was amalgamated into Greater Shepparton Secondary College along with three other schools. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Wanganuipsc.png/330px-Wanganuipsc.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wanganui_Park_Secondary_College"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Why a Ukrainian cruise missile is flying with hobby drone hardware",
+      "body": "An open-source flight-control system found in consumer drones has been installed in Ukraine’s latest cruise missile, showing how cheap technology is making military hardware accessible to all",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2580002-why-a-ukrainian-cruise-missile-is-flying-with-hobby-drone-hardware/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Mansur High school or Taleqani High School (in South Azerbaijani: منصور مدرسه‌سی, in Persian: (دبیرستان منصور is a high school located in city center of Tabriz.",
+      "body": "A reconstruction of the main building started in 2012. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mansoor_School2.jpg/330px-Mansoor_School2.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mansur_High_School"
     },
     {
       "type": "card",
@@ -43,50 +90,51 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Fair Salinia was a British Thoroughbred racehorse and broodmare best known for winning the classic Oaks Stakes in 1978.",
-      "body": "In a racing career which lasted from September 1977 until September 1978 she won four of her eight races. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Owner_Mr_S_Hanson.svg/330px-Owner_Mr_S_Hanson.svg.png",
+      "opener": "Bet you didn't know —",
+      "hook": "Zamia is a genus of cycad of the family Zamiaceae, native to North America from the United States throughout the West Indies, Central America, and South America as far south as Bolivia.",
+      "body": "The genus is considered to be the most ecologically and morphologically diverse of the cycads, and is estimated to have originated about 68.3 million years ago. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Starr_060905-8736_Zamia_furfuracea.jpg/330px-Starr_060905-8736_Zamia_furfuracea.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fair_Salinia"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Every year 6 student to be given Katherine Rundell book for Christmas",
-      "body": "<p>More than 800,000 copies of Impossible Creatures will be distributed to year 6 and P6 children through The Queen’s Christmas Present initiative</p><p>Every child in year 6 in England, Wales and Northern Ireland, and P6 in Scotland, will ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/17/every-year-6-student-to-be-given-katherine-rundell-book-for-christmas"
+      "url": "https://en.wikipedia.org/wiki/Zamia"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "It is often associated with positive life experiences, such as achieving goals, spending time with loved ones, or engaging in enjoyable activities.",
-      "body": "Happiness is a complex and multifaceted mental state that encompasses a range of positive feelings, from contentment to intense joy. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Girl_of_Vietnam.jpg/330px-Girl_of_Vietnam.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Happiness"
+      "opener": "On this day in 1974 —",
+      "hook": "Turkish invasion of Cyprus: Forces from Turkey invade Cyprus after a coup d'état, organised by the dictator of Greece, against president Makarios.",
+      "body": "Turkey invaded Cyprus on 20 July 1974 in an operation that progressed in two phases over the following month. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cyprus_1973_ethnic_en.svg/330px-Cyprus_1973_ethnic_en.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Turkish_invasion_of_Cyprus"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1922 —",
+      "hook": "The League of Nations awards mandates of Togoland to France and Tanganyika to the United Kingdom.",
+      "body": "The League of Nations was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg/330px-Flag_of_the_League_of_Nations_%281939%29.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/League_of_Nations"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
-      "body": "Many centuries before the advent of agriculture in Norway, ancient people transported fish into mountain lakes to create a source of food, then built wooden traps to catch them",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "BBC Entertainment —",
+      "hook": "Robert Peston found it 'too difficult' returning to Wales after his wife's death",
+      "body": "The couple spent a lot of time in Wales, enjoying walks along the coast.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxr1wwggno?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Colditz is a two-part 2005 television drama miniseries, based on the book Colditz: The Definitive History by Henry Chancellor, and the Channel 4 television series Escape from Colditz.",
-      "body": "It is not claimed to be historically accurate. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/4f/Colditz_DVD_cover.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Colditz_(2005_TV_series)"
+      "cat": "history",
+      "opener": "On this day in 1903 —",
+      "hook": "The Ford Motor Company ships its first automobile.",
+      "body": "The Ford Motor Company is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/330px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ford_Motor_Company"
     },
     {
       "type": "card",
@@ -100,30 +148,32 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "\"Sentimental Education\" is the 58th episode of the HBO original series The Sopranos and the sixth of the show's fifth season.",
-      "body": "Written by Matthew Weiner and directed by Peter Bogdanovich, it originally aired on April 11, 2004. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "Here's one for the group chat —",
+      "hook": "The Munshibari was a feudal estate in Kurigram District in the Division of Rangpur, Bengal.",
+      "body": "It was founded in the mid-18th century by an official of the Rulers of Bengal. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Munshibari.jpg/330px-Munshibari.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sentimental_Education_(The_Sopranos)"
+      "url": "https://en.wikipedia.org/wiki/Munshibari_family_of_Ulipur"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Jill Scott review – joyous phones-free show is a taste of how all concerts should be",
-      "body": "<p><strong>Kings Theatre, Brooklyn</strong></p><p>The queen of Philly soul is in phenomenal form in a saucy and effortlessly virtuosic show celebrating 26 years in music</p><p>At one point during her triumphant phones-free show at Brooklyn’",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/jul/17/jill-scott-concert-review"
+      "cat": "history",
+      "opener": "On this day in 1230 —",
+      "hook": "Treaty of San Germano is signed at San Germano between Holy Roman Emperor Frederick II and Pope Gregory IX. A Dominican named Guala is responsible for the negotiations.",
+      "body": "The Treaty of San Germano was signed on 23 July 1230 at San Germano, present-day Cassino, ending the War of the Keys that had begun in 1228. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herzog_Leopold_VI._Babenberg.jpg/330px-Herzog_Leopold_VI._Babenberg.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_San_Germano"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Why a Ukrainian cruise missile is flying with hobby drone hardware",
-      "body": "An open-source flight-control system found in consumer drones has been installed in Ukraine’s latest cruise missile, showing how cheap technology is making military hardware accessible to all",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580002-why-a-ukrainian-cruise-missile-is-flying-with-hobby-drone-hardware/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "history",
+      "opener": "On this day in 1977 —",
+      "hook": "The Central Intelligence Agency releases documents under the Freedom of Information Act revealing it had engaged in mind-control experiments.",
+      "body": "The Central Intelligence Agency (CIA) is a civilian foreign intelligence service of the federal government of the United States tasked with advancing national security through collecting and analyzing intelligence from around the world and conducting covert operations. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/330px-Seal_of_the_Central_Intelligence_Agency.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
     }
   ]
 }
