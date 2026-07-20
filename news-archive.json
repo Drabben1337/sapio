@@ -3,6 +3,46 @@
     "type": "card",
     "cat": "news",
     "opener": "The Guardian · Books —",
+    "hook": "Could AI be conscious?",
+    "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+    "_t": 1784575172939
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "The Guardian · Culture —",
+    "hook": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
+    "body": "<p>$81bn merger halted for at least two weeks after US states sued to block deal, saying it would ‘extinguish competition’</p><p>A federal judge on Monday ordered <a href=\"https://www.theguardian.com/film/paramount-pictures\">Paramount</a> a",
+    "src": "The Guardian · Culture",
+    "url": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger",
+    "_t": 1784575172939
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "Screen Daily —",
+    "hook": "“He had a big impact on the history of film in this country”: Industry pays tribute to Simon Field who has died aged 80",
+    "body": "“Simon never gave up, never compromised,” said Apichatpong Weerasethakul of his ‘Uncle Boomee’ producer.",
+    "src": "Screen Daily",
+    "url": "https://www.screendaily.com/news/he-had-a-big-impact-on-the-history-of-film-in-this-country-industry-pays-tribute-to-simon-field-who-has-died-aged-80/5218753.article",
+    "_t": 1784575172939
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Bruno Mars has an unexpected opening before Wembley party starts",
+    "body": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss",
+    "_t": 1784575172939
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "The Guardian · Books —",
     "hook": "What we’re reading: writers and readers on the books they enjoyed in June",
     "body": "<p>Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I just finished reading <strong>Wimmy Road Boyz</strong> by Sufiyaan Salam. I ",
     "src": "The Guardian · Books",
@@ -558,45 +598,5 @@
     "src": "New Scientist",
     "url": "https://www.newscientist.com/article/2580002-why-a-ukrainian-cruise-missile-is-flying-with-hobby-drone-hardware/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
     "_t": 1784493882803
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Books —",
-    "hook": "Every year 6 student to be given Katherine Rundell book for Christmas",
-    "body": "<p>More than 800,000 copies of Impossible Creatures will be distributed to year 6 and P6 children through The Queen’s Christmas Present initiative</p><p>Every child in year 6 in England, Wales and Northern Ireland, and P6 in Scotland, will ",
-    "src": "The Guardian · Books",
-    "url": "https://www.theguardian.com/books/2026/jul/17/every-year-6-student-to-be-given-katherine-rundell-book-for-christmas",
-    "_t": 1784491176867
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Culture —",
-    "hook": "Jill Scott review – joyous phones-free show is a taste of how all concerts should be",
-    "body": "<p><strong>Kings Theatre, Brooklyn</strong></p><p>The queen of Philly soul is in phenomenal form in a saucy and effortlessly virtuosic show celebrating 26 years in music</p><p>At one point during her triumphant phones-free show at Brooklyn’",
-    "src": "The Guardian · Culture",
-    "url": "https://www.theguardian.com/music/2026/jul/17/jill-scott-concert-review",
-    "_t": 1784486618055
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "BBC Entertainment —",
-    "hook": "Robert Peston found it 'too difficult' returning to Wales after his wife's death",
-    "body": "The couple spent a lot of time in Wales, enjoying walks along the coast.",
-    "src": "BBC Entertainment",
-    "url": "https://www.bbc.co.uk/news/articles/cqjxr1wwggno?at_medium=RSS&at_campaign=rss",
-    "_t": 1784483119137
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "Brenda Fricker obituary",
-    "body": "<p>Actor who was the first Irish woman to win an Oscar for her role in the 1989 film classic My Left Foot</p><p>Brenda Fricker, who has died aged 81, was only the second Irish actor – and the first female one – to win an Oscar, for her role",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/jul/19/brenda-fricker-obituary",
-    "_t": 1784470627571
   }
 ]

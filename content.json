@@ -1,36 +1,72 @@
 {
-  "generated": "2026-07-20T17:13:05.721Z",
-  "count": 22,
+  "generated": "2026-07-20T19:19:32.942Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "It is a rural congregation and a large part of the farming community around Vryheid is involved here.",
-      "body": "The Dutch Reformed Church in Vryheid is the mother congregation of the Dutch Reformed Church in the KwaZulu-Natal town of Vryheid. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kerkgebou%2C_NG_Moedergemeente%2C_Vryheid.jpg/330px-Kerkgebou%2C_NG_Moedergemeente%2C_Vryheid.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dutch_Reformed_Church%2C_Vryheid"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Bad Bunny concert in Milan abandoned because of hailstorm",
+      "body": "<p>Fans evacuated from sold-out open-air show as organisers promise full refunds</p><p>An open-air show by the Puerto Rican music star Bad Bunny was abandoned in Italy on Saturday night because of a violent hailstorm, but the organiser said",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/19/bad-bunny-milan-abandoned-hailstorm"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1969 —",
-      "hook": "Apollo program: Apollo 11's crew successfully makes the first human landing on the Moon in the Sea of Tranquility. Americans Neil Armstrong and Buzz Aldrin become the first humans to walk on the Moon six and a half hours later.",
-      "body": "The Apollo program, also known as Project Apollo, was the United States human spaceflight program led by NASA, which landed the first humans on the Moon in 1969. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Apollo_program.svg/330px-Apollo_program.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Apollo_program"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Bruno Mars has an unexpected opening before Wembley party starts",
+      "body": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Russian Social-Democratic Union of Youth is a Russian non-governmental organization founded in December 2000 with the support of Mikhail Gorbachev as a youth branch of the Russian United Social Democratic Party.",
+      "body": "It became a member of the International Union of Socialist Youth in 2004. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/Logo_of_the_Russian_Social_Democratic_Union_of_Youth.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Russian_Social_Democratic_Union_of_Youth"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "6 Sierpnia Street is located in the western part of the Śródmieście district and the eastern part of the Polesie district in Łódź, with a length of approximately 2 km (1.2 mi).",
-      "body": "It starts at the intersection with Piotrkowska Street and runs almost parallel to the equator to the intersection with Lucjan Żeligowski Street, and then southwest to the intersection with Włókniarzy Avenue. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Guitar_player_at_6_Sierpnia_%26_Piotrkowska_Streets_corner%2C_%C5%81%C3%B3d%C5%BA_October_2015.jpg/330px-Guitar_player_at_6_Sierpnia_%26_Piotrkowska_Streets_corner%2C_%C5%81%C3%B3d%C5%BA_October_2015.jpg",
+      "hook": "Ludwig Schnorr von Carolsfeld was a German heldentenor.",
+      "body": "The son of painter Julius Schnorr von Carolsfeld, he was trained as a vocalist at the Kreuzschule in Dresden and the Leipzig Conservatory. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ludwig_Schnorr_von_Carolsfeld_as_Tannh%C3%A4user.png/330px-Ludwig_Schnorr_von_Carolsfeld_as_Tannh%C3%A4user.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/6_Sierpnia_Street%2C_%C5%81%C3%B3d%C5%BA"
+      "url": "https://en.wikipedia.org/wiki/Ludwig_Schnorr_von_Carolsfeld"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Nielsen is a lunar impact crater on the Oceanus Procellarum.",
+      "body": "It is located north-east of Montes Agricola on the western hemisphere of the Moon. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nielsen_crater_4158_h1.jpg/330px-Nielsen_crater_4158_h1.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nielsen_(crater)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could AI be conscious?",
+      "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "“He had a big impact on the history of film in this country”: Industry pays tribute to Simon Field who has died aged 80",
+      "body": "“Simon never gave up, never compromised,” said Apichatpong Weerasethakul of his ‘Uncle Boomee’ producer.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/he-had-a-big-impact-on-the-history-of-film-in-this-country-industry-pays-tribute-to-simon-field-who-has-died-aged-80/5218753.article"
     },
     {
       "type": "card",
@@ -43,81 +79,13 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1831 —",
-      "hook": "Seneca and Shawnee people agree to relinquish their land in western Ohio for 60,000 acres west of the Mississippi River.",
-      "body": "The Seneca are a group of Indigenous Iroquoian-speaking people who historically lived south of Lake Ontario, one of the five Great Lakes in North America. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cornplanter.jpg/330px-Cornplanter.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Seneca_people"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2013 —",
-      "hook": "Seventeen government soldiers are killed in an attack by FARC revolutionaries in the Colombian department of Arauca.",
-      "body": "On 20 July 2013, two clashes occurred in Colombia between government forces and Revolutionary Armed Forces of Colombia (FARC) guerrillas. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2013_Colombian_clashes"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1940 —",
-      "hook": "California opens its first freeway, the Arroyo Seco Parkway.",
-      "body": "California is a U.S. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/330px-Flag_of_California.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/California"
-    },
-    {
-      "type": "card",
-      "cat": "history",
+      "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "The Revolt of the Altishahr Khojas was an uprising against the Qing dynasty of China, which broke out in 1757 during the reign of the Qianlong Emperor.",
-      "body": "The rebels were led by Khwāja-i Jahān, leader of the White Mountain Sufis. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8_%D0%95%D1%88%D0%B8%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D0%B5%2C_1759%2C_%D1%83%D0%B9%D0%B3%D1%83%D1%80%D1%8B-%D0%BA%D0%B0%D1%88%D0%BA%D0%B0%D1%80%D1%86%D1%8Bvs%D0%BC%D0%B0%D0%BD%D1%8C%D1%87%D0%B6%D1%83%D1%80%D0%BE-%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8B-%D1%85%D0%B0%D0%BD%D1%8C%D1%86%D1%8B.jpg/330px-%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8_%D0%95%D1%88%D0%B8%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D0%B5%2C_1759%2C_%D1%83%D0%B9%D0%B3%D1%83%D1%80%D1%8B-%D0%BA%D0%B0%D1%88%D0%BA%D0%B0%D1%80%D1%86%D1%8Bvs%D0%BC%D0%B0%D0%BD%D1%8C%D1%87%D0%B6%D1%83%D1%80%D0%BE-%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8B-%D1%85%D0%B0%D0%BD%D1%8C%D1%86%D1%8B.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Revolt_of_the_Altishahr_Khojas"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Inhaling high-dose CO2 clears Alzheimer&#8217;s proteins from the brain",
-      "body": "Intermittingly inhaling a high dose of carbon dioxide seems to remove the proteins amyloid and tau, which are implicated in Alzheimer's disease, from the brain by boosting its glymphatic system",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580471-inhaling-high-dose-co2-clears-alzheimers-proteins-from-the-brain/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The law of the handicap of a head start, also known as the first-mover disadvantage or dialectics of lead, is a theory in economic history and technological development that proposes that an initial head start in a particular domain may paradoxically become a handicap over time.",
-      "body": "The world is stranger than it lets on.",
+      "hook": "Pukhraj Garg is Indian politician from Rajasthan.",
+      "body": "He is a member of Bharatiya Janata Party. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Law_of_the_handicap_of_a_head_start"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Osceola County Courthouse is a historic courthouse in Kissimmee, Florida, located at 3 Courthouse Square.",
-      "body": "On August 16, 1977, it was added to the U.S. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kissimmee_Old_County_Crths01.jpg/330px-Kissimmee_Old_County_Crths01.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Osceola_County_Courthouse_(Florida)"
+      "url": "https://en.wikipedia.org/wiki/Pukhraj_Garg"
     },
     {
       "type": "card",
@@ -130,90 +98,22 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Bad Bunny concert in Milan abandoned because of hailstorm",
-      "body": "<p>Fans evacuated from sold-out open-air show as organisers promise full refunds</p><p>An open-air show by the Puerto Rican music star Bad Bunny was abandoned in Italy on Saturday night because of a violent hailstorm, but the organiser said",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/jul/19/bad-bunny-milan-abandoned-hailstorm"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "1813 when Peter Garlick's store was a gathering place for surrounding farmers.",
-      "body": "Liberty Hill Historic District is a national historic district located at Liberty Hill, Kershaw County, South Carolina. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Liberty_Hill_Historic_District_1.jpg/330px-Liberty_Hill_Historic_District_1.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Liberty_Hill_Historic_District_(Liberty_Hill%2C_South_Carolina)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1950 —",
-      "hook": "After a month-long campaign, the majority of North Korea's Air Force was destroyed by anti-communist forces.",
-      "body": "The Korean People's Army Air Force is the unified military aviation force of North Korea. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/KPAAF_patch.svg/330px-KPAAF_patch.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Korean_People's_Army_Air_Force"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Hagitude author Sharon Blackie: ‘At 60 I wasn’t ready to give up, I was just starting’",
-      "body": "<p>The writer of cult hit If Women Rose Rooted is on a mission to bring folklore to modern readers. She talks about confronting her fears, communing with nature – and the power that comes with age</p><p>Like many of the wise women in her bo",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/18/hagitude-author-sharon-blackie-at-60-i-wasnt-ready-to-give-up-i-was-just-starting"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1848 —",
-      "hook": "The first Women's Rights Convention in Seneca Falls, New York, a two-day event, concludes.",
-      "body": "The Seneca Falls Convention was the first women's rights convention. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Woman%27s_Rights_Convention.jpg/330px-Woman%27s_Rights_Convention.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Seneca_Falls_Convention"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "As of the 2020 census, its population was 437, down from 507 at the 2010 census.",
-      "body": "Glidden is an unincorporated census-designated place in the town of Jacobs in Ashland County, Wisconsin, United States. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Glidden_Wisconsin_Downtown_Looking_East.jpg/330px-Glidden_Wisconsin_Downtown_Looking_East.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Glidden%2C_Wisconsin"
-    },
-    {
-      "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Gothic rock is a subgenre of rock music which grew out of British post-punk in the late 1970s.",
-      "body": "The genre draws from gothic literature, nihilism, dark romanticism, poetry and tragedy. The world is stranger than it lets on.",
+      "hook": "Yr Arloeswr was a Welsh-language literary magazine published between 1957 and 1960.",
+      "body": "Gerallt Jones and Bedwyr Lewis Jones, and contained short stories, poems, and book reviews, and sometimes works of art. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gothic_rock"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The fourth cholera pandemic of the 19th century began in the Ganges Delta of the Bengal region and traveled with Muslim pilgrims to Mecca.",
-      "body": "In its first year, the epidemic claimed 30,000 of 90,000 pilgrims. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cholera_oysters_Washington_D.C._1866.jpg/330px-Cholera_oysters_Washington_D.C._1866.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1863%E2%80%931875_cholera_pandemic"
+      "url": "https://en.wikipedia.org/wiki/Yr_Arloeswr"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "ESA’s Mars Express meets NASA’s Psyche",
-      "body": "Image: Mars Express image",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/ESA_s_Mars_Express_meets_NASA_s_Psyche"
+      "opener": "The Guardian · Culture —",
+      "hook": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
+      "body": "<p>$81bn merger halted for at least two weeks after US states sued to block deal, saying it would ‘extinguish competition’</p><p>A federal judge on Monday ordered <a href=\"https://www.theguardian.com/film/paramount-pictures\">Paramount</a> a",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger"
     }
   ]
 }
