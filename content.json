@@ -1,7 +1,17 @@
 {
-  "generated": "2026-07-20T19:19:32.942Z",
-  "count": 12,
+  "generated": "2026-07-20T20:57:01.512Z",
+  "count": 18,
   "items": [
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -12,52 +22,14 @@
       "url": "https://www.theguardian.com/music/2026/jul/19/bad-bunny-milan-abandoned-hailstorm"
     },
     {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Bruno Mars has an unexpected opening before Wembley party starts",
-      "body": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Russian Social-Democratic Union of Youth is a Russian non-governmental organization founded in December 2000 with the support of Mikhail Gorbachev as a youth branch of the Russian United Social Democratic Party.",
-      "body": "It became a member of the International Union of Socialist Youth in 2004. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/Logo_of_the_Russian_Social_Democratic_Union_of_Youth.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Russian_Social_Democratic_Union_of_Youth"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Ludwig Schnorr von Carolsfeld was a German heldentenor.",
-      "body": "The son of painter Julius Schnorr von Carolsfeld, he was trained as a vocalist at the Kreuzschule in Dresden and the Leipzig Conservatory. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ludwig_Schnorr_von_Carolsfeld_as_Tannh%C3%A4user.png/330px-Ludwig_Schnorr_von_Carolsfeld_as_Tannh%C3%A4user.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ludwig_Schnorr_von_Carolsfeld"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Nielsen is a lunar impact crater on the Oceanus Procellarum.",
-      "body": "It is located north-east of Montes Agricola on the western hemisphere of the Moon. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nielsen_crater_4158_h1.jpg/330px-Nielsen_crater_4158_h1.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nielsen_(crater)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Could AI be conscious?",
-      "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
     },
     {
       "type": "card",
@@ -79,13 +51,111 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could AI be conscious?",
+      "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Pukhraj Garg is Indian politician from Rajasthan.",
-      "body": "He is a member of Bharatiya Janata Party. Worth a quiet trip down the rabbit hole.",
+      "opener": "Okay, this one's fun —",
+      "hook": "Frank Woodley is an Australian comedian, author and musician who is best known for his work alongside Colin Lane as part of the comedic duo Lano and Woodley.",
+      "body": "The two performed together for almost 20 years in live shows, a television series and an album of comedic songs, before deciding to pursue individual careers in 2006. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pukhraj_Garg"
+      "url": "https://en.wikipedia.org/wiki/Frank_Woodley"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1968 —",
+      "hook": "The first International Special Olympics Summer Games are held at Soldier Field in Chicago, with about 1,000 athletes with intellectual disabilities.",
+      "body": "Special Olympics is the world's largest sports organization for children and adults with intellectual disabilities, providing year-round training and activities to 5 million participants and Unified Sports partners in 172 countries. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Logo_Special_Olympics.svg/330px-Logo_Special_Olympics.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Special_Olympics"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1999 —",
+      "hook": "The Chinese Communist Party begins a persecution campaign against Falun Gong, arresting thousands nationwide.",
+      "body": "The persecution of Falun Gong is the campaign initiated in 1999 by the Chinese Communist Party (CCP) to eliminate the new religious movement Falun Gong in China, maintaining a doctrine of state atheism. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Speaker_at_Washington_DC._STOP_the_Persecution_of_Falun_Gong.jpg/330px-Speaker_at_Washington_DC._STOP_the_Persecution_of_Falun_Gong.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1940 —",
+      "hook": "California opens its first freeway, the Arroyo Seco Parkway.",
+      "body": "California is a U.S. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/330px-Flag_of_California.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/California"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
+      "body": "<p>$81bn merger halted for at least two weeks after US states sued to block deal, saying it would ‘extinguish competition’</p><p>A federal judge on Monday ordered <a href=\"https://www.theguardian.com/film/paramount-pictures\">Paramount</a> a",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2012 —",
+      "hook": "Syrian civil war: The People's Protection Units (YPG) capture the cities of Amuda and Efrîn without resistance.",
+      "body": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Syrian_civil_war"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1738 —",
+      "hook": "Canadian explorer Pierre Gaultier de Varennes et de La Vérendrye reaches the western shore of Lake Michigan.",
+      "body": "Pierre Gaultier de Varennes, sieur de La Vérendrye was a military officer, fur trader, and explorer. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pierre_de_La_Verendrye_by_Edgar_Samuel_Paxson%2C_1912.jpg/330px-Pierre_de_La_Verendrye_by_Edgar_Samuel_Paxson%2C_1912.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Gaultier_de_Varennes%2C_sieur_de_La_V%C3%A9rendrye"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Barna Tikar is a village in Gauriganj block of Amethi district, Uttar Pradesh, India.",
+      "body": "As of 2011, it has a population of 2,927 people, in 531 households. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gauriganj_block_map.png/330px-Gauriganj_block_map.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Barna_Tikar"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1705 —",
+      "hook": "A fire in Oulu, Finland almost completely destroyed the fourth district, which covered the southern part of the city and was by far the largest of the city districts.",
+      "body": "Oulu is a major port city in Finland and the regional capital of North Ostrobothnia. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Montage_Pokkinen_Oulu.jpg/330px-Montage_Pokkinen_Oulu.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Oulu"
     },
     {
       "type": "card",
@@ -98,22 +168,12 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Yr Arloeswr was a Welsh-language literary magazine published between 1957 and 1960.",
-      "body": "Gerallt Jones and Bedwyr Lewis Jones, and contained short stories, poems, and book reviews, and sometimes works of art. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Yr_Arloeswr"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
-      "body": "<p>$81bn merger halted for at least two weeks after US states sued to block deal, saying it would ‘extinguish competition’</p><p>A federal judge on Monday ordered <a href=\"https://www.theguardian.com/film/paramount-pictures\">Paramount</a> a",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger"
+      "opener": "BBC Entertainment —",
+      "hook": "Bruno Mars has an unexpected opening before Wembley party starts",
+      "body": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
