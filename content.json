@@ -1,16 +1,35 @@
 {
-  "generated": "2026-07-20T01:18:57.444Z",
-  "count": 18,
+  "generated": "2026-07-20T05:24:34.822Z",
+  "count": 17,
   "items": [
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could AI be conscious?",
+      "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1954 —",
-      "hook": "Germany: Otto John, head of West Germany's secret service, defects to East Germany.",
-      "body": "Otto John was a German lawyer and intelligence official. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bundesarchiv_Bild_183-25876-0001%2C_Otto_John.jpg/330px-Bundesarchiv_Bild_183-25876-0001%2C_Otto_John.jpg",
+      "opener": "On this day in 2015 —",
+      "hook": "The United States and Cuba resume full diplomatic relations after five decades.",
+      "body": "The United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg/330px-Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Otto_John"
+      "url": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1398 —",
+      "hook": "The Battle of Kellistown was fought on this day between the forces of the English led by Roger Mortimer, 4th Earl of March against the O'Byrnes and O'Tooles under the command of Art Óg mac Murchadha Caomhánach, the most powerful Chieftain in Leinster.",
+      "body": "The English people are an ethnic group and nation native to England, who speak the English language, a West Germanic language, and share a common ancestry, history, and culture. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/English_people"
     },
     {
       "type": "card",
@@ -24,40 +43,31 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Every year 6 student to be given Katherine Rundell book for Christmas",
-      "body": "<p>More than 800,000 copies of Impossible Creatures will be distributed to year 6 and P6 children through The Queen’s Christmas Present initiative</p><p>Every child in year 6 in England, Wales and Northern Ireland, and P6 in Scotland, will ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/17/every-year-6-student-to-be-given-katherine-rundell-book-for-christmas"
+      "opener": "The Guardian · Film —",
+      "hook": "Brenda Fricker obituary",
+      "body": "<p>Actor who was the first Irish woman to win an Oscar for her role in the 1989 film classic My Left Foot</p><p>Brenda Fricker, who has died aged 81, was only the second Irish actor – and the first female one – to win an Oscar, for her role",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/19/brenda-fricker-obituary"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Jill Scott review – joyous phones-free show is a taste of how all concerts should be",
-      "body": "<p><strong>Kings Theatre, Brooklyn</strong></p><p>The queen of Philly soul is in phenomenal form in a saucy and effortlessly virtuosic show celebrating 26 years in music</p><p>At one point during her triumphant phones-free show at Brooklyn’",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/jul/17/jill-scott-concert-review"
+      "cat": "history",
+      "opener": "On this day in 911 —",
+      "hook": "Rollo lays siege to Chartres.",
+      "body": "911 (CMXI) was a common year starting on Tuesday of the Julian calendar. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Georges_Rouget_%281783-1869%29_-_Charles_III%2C_dit_le_simple%2C_roi_de_France_en_896_%28879-929%29.jpg/330px-Georges_Rouget_%281783-1869%29_-_Charles_III%2C_dit_le_simple%2C_roi_de_France_en_896_%28879-929%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/AD_911"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Ancylomenes is a genus of shrimp, erected in 2010 to accommodate the group of species around \"Periclimenes aesopius\".",
-      "body": "Members of the genus are widely distributed in the warm oceans of the world, and live in association with cnidarians; most are cleaner shrimp. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pederson%27s_Shrimp.jpg/330px-Pederson%27s_Shrimp.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ancylomenes"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Wanganui Park Secondary College was a Government secondary college, with an enrolment of about 1,300 students from years 7 to 12, in Shepparton, Victoria.",
-      "body": "It was amalgamated into Greater Shepparton Secondary College along with three other schools. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Wanganuipsc.png/330px-Wanganuipsc.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wanganui_Park_Secondary_College"
+      "cat": "history",
+      "opener": "On this day in 792 —",
+      "hook": "Kardam of Bulgaria defeats Byzantine Emperor Constantine VI at the Battle of Marcellae.",
+      "body": "Kardam was the ruler of the First Bulgarian Empire. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Kardam_of_Bulgaria"
     },
     {
       "type": "card",
@@ -71,37 +81,37 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Mansur High school or Taleqani High School (in South Azerbaijani: منصور مدرسه‌سی, in Persian: (دبیرستان منصور is a high school located in city center of Tabriz.",
-      "body": "A reconstruction of the main building started in 2012. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mansoor_School2.jpg/330px-Mansoor_School2.jpg",
+      "opener": "You probably never noticed this —",
+      "hook": "Café Rouge is a French-styled restaurant chain, with 6 sites across the United Kingdom, 5 of which are within Center Parcs resorts.",
+      "body": "Café Rouge is part of a bigger restaurant network owned by The Big Table. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Caf%C3%A9_Rouge_logo.svg/330px-Caf%C3%A9_Rouge_logo.svg.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mansur_High_School"
+      "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Rouge"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1189 —",
+      "hook": "Richard I of England officially invested as Duke of Normandy.",
+      "body": "Richard I, known as Richard the Lionheart or Richard Cœur de Lion because of his reputation as a great military leader and warrior, was King of England from 1189 until his death in 1199. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg/330px-Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Richard_I_of_England"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Brenda Fricker obituary",
-      "body": "<p>Actor who was the first Irish woman to win an Oscar for her role in the 1989 film classic My Left Foot</p><p>Brenda Fricker, who has died aged 81, was only the second Irish actor – and the first female one – to win an Oscar, for her role",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/19/brenda-fricker-obituary"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Zamia is a genus of cycad of the family Zamiaceae, native to North America from the United States throughout the West Indies, Central America, and South America as far south as Bolivia.",
-      "body": "The genus is considered to be the most ecologically and morphologically diverse of the cycads, and is estimated to have originated about 68.3 million years ago. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Starr_060905-8736_Zamia_furfuracea.jpg/330px-Starr_060905-8736_Zamia_furfuracea.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zamia"
+      "opener": "The Guardian · Culture —",
+      "hook": "Jill Scott review – joyous phones-free show is a taste of how all concerts should be",
+      "body": "<p><strong>Kings Theatre, Brooklyn</strong></p><p>The queen of Philly soul is in phenomenal form in a saucy and effortlessly virtuosic show celebrating 26 years in music</p><p>At one point during her triumphant phones-free show at Brooklyn’",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/17/jill-scott-concert-review"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1974 —",
-      "hook": "Turkish invasion of Cyprus: Forces from Turkey invade Cyprus after a coup d'état, organised by the dictator of Greece, against president Makarios.",
+      "hook": "Turkish invasion of Cyprus: Forces from Turkey invade Cyprus after a coup d'état, organized by the dictator of Greece, against president Makarios.",
       "body": "Turkey invaded Cyprus on 20 July 1974 in an operation that progressed in two phases over the following month. One of those things you can't un-know.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cyprus_1973_ethnic_en.svg/330px-Cyprus_1973_ethnic_en.svg.png",
       "src": "Wikipedia · On this day",
@@ -109,13 +119,22 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1922 —",
-      "hook": "The League of Nations awards mandates of Togoland to France and Tanganyika to the United Kingdom.",
-      "body": "The League of Nations was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg/330px-Flag_of_the_League_of_Nations_%281939%29.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/League_of_Nations"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Every year 6 student to be given Katherine Rundell book for Christmas",
+      "body": "<p>More than 800,000 copies of Impossible Creatures will be distributed to year 6 and P6 children through The Queen’s Christmas Present initiative</p><p>Every child in year 6 in England, Wales and Northern Ireland, and P6 in Scotland, will ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/17/every-year-6-student-to-be-given-katherine-rundell-book-for-christmas"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Nicholls Colonels women's soccer team represents Nicholls State University in Thibodaux, Louisiana, United States.",
+      "body": "The school's team currently competes in the Southland Conference, which is part of the National Collegiate Athletic Association's Division I. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nicholls_State_Colonels_wordmark.svg/330px-Nicholls_State_Colonels_wordmark.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nicholls_Colonels_women's_soccer"
     },
     {
       "type": "card",
@@ -128,52 +147,23 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1903 —",
-      "hook": "The Ford Motor Company ships its first automobile.",
-      "body": "The Ford Motor Company is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/330px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ford_Motor_Company"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Could AI be conscious?",
-      "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Dōtanuki (同田貫) is a name of a Japanese school of swordsmiths from Zudanuki(a.k.a.",
+      "body": "Doudanuki) Kikuchi district, Higo province who produced swords in the Bizen tradition during the feudal period of Japan. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/D%C5%8Dtanuki"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Munshibari was a feudal estate in Kurigram District in the Division of Rangpur, Bengal.",
-      "body": "It was founded in the mid-18th century by an official of the Rulers of Bengal. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Munshibari.jpg/330px-Munshibari.jpg",
+      "opener": "Okay, this one's fun —",
+      "hook": "Chicken Casey is a 1917 American silent comedy-drama film directed by Raymond B.",
+      "body": "West and starring Dorothy Dalton, Charles Gunn and Howard Hickman. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Chicken_Casey_1917_newspaper.jpg/330px-Chicken_Casey_1917_newspaper.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Munshibari_family_of_Ulipur"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1230 —",
-      "hook": "Treaty of San Germano is signed at San Germano between Holy Roman Emperor Frederick II and Pope Gregory IX. A Dominican named Guala is responsible for the negotiations.",
-      "body": "The Treaty of San Germano was signed on 23 July 1230 at San Germano, present-day Cassino, ending the War of the Keys that had begun in 1228. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herzog_Leopold_VI._Babenberg.jpg/330px-Herzog_Leopold_VI._Babenberg.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_San_Germano"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1977 —",
-      "hook": "The Central Intelligence Agency releases documents under the Freedom of Information Act revealing it had engaged in mind-control experiments.",
-      "body": "The Central Intelligence Agency (CIA) is a civilian foreign intelligence service of the federal government of the United States tasked with advancing national security through collecting and analyzing intelligence from around the world and conducting covert operations. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/330px-Seal_of_the_Central_Intelligence_Agency.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+      "url": "https://en.wikipedia.org/wiki/Chicken_Casey"
     }
   ]
 }
