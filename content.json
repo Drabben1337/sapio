@@ -1,45 +1,64 @@
 {
-  "generated": "2026-07-21T18:05:34.063Z",
-  "count": 13,
+  "generated": "2026-07-21T20:09:48.128Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Problem Child 3: Junior in Love is a 1995 American children's television film directed by Greg Beeman and written by Michael Hitchcock.",
-      "body": "It is the third and final installment of the Problem Child trilogy created by Scott Alexander and Larry Karaszewski. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/be/PC3JuniorLove.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Problem_Child_3%3A_Junior_in_Love"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Sana Iqbal was an Indian solo female cross-country biker.",
-      "body": "She did counseling on her Facebook page and helped students lead happy and meaningful lives by guiding them towards practicality and positivity. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sana_Iqbal"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Saxophonist Plas Johnson, known for solo on The Pink Panther Theme, dies aged 94",
+      "body": "<p>Jazz saxophonist – who recorded with artists Frank Sinatra, BB King and more – died in Los Angeles, reports say</p><p>The US jazz saxophonist Plas Johnson, best known for his solo riff on the timeless classic The <a href=\"https://www.the",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/plas-johnson-saxophonist-dead"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "This junction, one of the city's most important, is named for its octagonal shape.",
-      "body": "Oktogon is one of Pest's major intersections, located at the junction of the Grand Boulevard and Andrássy Avenue in Budapest, Hungary. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Oktogon_-_Budapest_001.jpg/330px-Oktogon_-_Budapest_001.jpg",
+      "opener": "On this day in 1969 —",
+      "hook": "Apollo program: At 02:56 UTC, astronaut Neil Armstrong becomes the first person to walk on the Moon, followed 19 minutes later by Edwin \"Buzz\" Aldrin.",
+      "body": "The Apollo program, also known as Project Apollo, was the United States human spaceflight program led by NASA, which landed the first humans on the Moon in 1969. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Apollo_program.svg/330px-Apollo_program.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Apollo_program"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Magic of Oz is the thirteenth book in the Oz series written by L.",
+      "body": "Published on June 7, 1919, one month after the author's death, The Magic of Oz relates the unsuccessful attempt of the Munchkin boy Kiki Aru and former Nome King Ruggedo to conquer Oz. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_Magic_of_Oz_%281919_Cover%29.jpg/330px-The_Magic_of_Oz_%281919_Cover%29.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Oktogon_(intersection)"
+      "url": "https://en.wikipedia.org/wiki/The_Magic_of_Oz"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Downtown Owl: A Novel is a novel written by Chuck Klosterman, first published by Scribner in 2008.",
+      "body": "It is the author's first all-fictional publication. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Downtown_Owl_%28Chuck_Klosterman_book%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Downtown_Owl"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Brunello: The Gracious Visionary review – fawning portrait of the king of cashmere",
-      "body": "<p>Giuseppe Tornatore traces Italian fashion designer Brunello Cucinelli’s life from poor farming family to billion-dollar empire in a sentimental vanity project</p><p>Brunello Cucinelli is the Italian fashion designer and entrepreneur who ",
+      "hook": "The Dink review – Jake Johnson’s pickleball comedy serves up engagingly silly laughs",
+      "body": "<p>Johnson is delusional ex-tennis player The Hammer, who has to switch to the sport he loathes after injury</p><p>There’s some funny stuff here in this engagingly silly sports comedy from producer-star Jake Johnson about the world of pickl",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/21/brunello-the-gracious-visionary-review-brunello-cucinelli-giuseppe-tornatore"
+      "url": "https://www.theguardian.com/film/2026/jul/21/the-dink-review-pickleball-comedy-serves-up-engagingly-silly-laughs"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1973 —",
+      "hook": "In Lillehammer, Norway, Mossad agents kill a waiter whom they mistakenly thought was involved in the 1972 Munich Olympics Massacre.",
+      "body": "The Lillehammer affair was the murder of Ahmed Bouchikhi, a Moroccan waiter, by Mossad agents in Lillehammer, Norway, on 21 July 1973. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/71/Ahmed_Bouchiki.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Lillehammer_affair"
     },
     {
       "type": "card",
@@ -52,12 +71,81 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1861 —",
+      "hook": "American Civil War: First Battle of Bull Run: At Manassas Junction, Virginia, the first major battle of the war begins and ends in a victory for the Confederate army.",
+      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1865 —",
+      "hook": "In the market square of Springfield, Missouri, Wild Bill Hickok shoots and kills Davis Tutt in what is regarded as the first western showdown.",
+      "body": "Springfield is the third most populous city in the U.S. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Downtown_Springfield%2C_MO_and_Hammons_Field.jpg/330px-Downtown_Springfield%2C_MO_and_Hammons_Field.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Springfield%2C_Missouri"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Wages of Sin is a 1918 British silent drama film directed by Arrigo Bocchi and starring Kenelm Foss, Mary Odette and Hayford Hobbs.",
+      "body": "It is based on the 1891 novel of the same name by Lucas Malet. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Wages_of_Sin_(1918_film)"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "The Dink review – Jake Johnson’s pickleball comedy serves up engagingly silly laughs",
-      "body": "<p>Johnson is delusional ex-tennis player The Hammer, who has to switch to the sport he loathes after injury</p><p>There’s some funny stuff here in this engagingly silly sports comedy from producer-star Jake Johnson about the world of pickl",
+      "hook": "Jackass: Best and Last review – kings of gross-out comedy’s final, funny farewell",
+      "body": "<p>So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgia</p><p>The boy-men of <a href=\"https://www.theguardian.com/film/202",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/21/the-dink-review-pickleball-comedy-serves-up-engagingly-silly-laughs"
+      "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Just an Old Sweet Song is a 1976 novel by Melvin Van Peebles.",
+      "body": "It was later adapted as a made-for-television film which starred Robert Hooks and Cicely Tyson. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Just_an_Old_Sweet_Song"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Haitham Hussein is a Syrian-Kurdish novelist, literary critic and journalist.",
+      "body": "A long-time cultural journalist for major Arabic newspapers, he has published five novels in Arabic. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Haitham-Hussein-photo.jpg/330px-Haitham-Hussein-photo.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Haitham_Hussein"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
+      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1718 —",
+      "hook": "The Treaty of Passarowitz between the Ottoman Empire, Austria and the Republic of Venice is signed.",
+      "body": "The Treaty of Passarowitz, or Treaty of Požarevac, was the peace treaty signed in Požarevac, a town that was in the Ottoman Empire but is now in Serbia, on 21 July 1718 between the Ottoman Empire and its adversaries, the Habsburg monarchy and the Republic of Venice. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tamis_banat1718_1739.png/330px-Tamis_banat1718_1739.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Passarowitz"
     },
     {
       "type": "card",
@@ -71,15 +159,6 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Jackass: Best and Last review – kings of gross-out comedy’s final, funny farewell",
-      "body": "<p>So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgia</p><p>The boy-men of <a href=\"https://www.theguardian.com/film/202",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "The Guardian · Culture —",
       "hook": "Godzilla v Kong actor Kaylee Hottle dies aged 18",
       "body": "<p>The deaf actor, who played a major role in Godzilla v Kong and its 2024 sequel, was killed in a car crash in Maryland</p><p>Kaylee Hottle, who played a major role in Godzilla v Kong and the sequel Godzilla X Kong: The New Empire, has die",
@@ -88,42 +167,33 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Battle of Dyrrachium took place from April to late July 48 BC near the city of Dyrrachium, modern day Durrës in what is now Albania.",
-      "body": "It was fought between Gaius Julius Caesar and an army led by Gnaeus Pompey during Caesar's civil war. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dyrrhachium_48_en.png/330px-Dyrrhachium_48_en.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_(48_BC)"
+      "cat": "history",
+      "opener": "On this day in 1403 —",
+      "hook": "Battle of Shrewsbury: King Henry IV of England defeats rebels to the north of the county town of Shropshire, England.",
+      "body": "The Battle of Shrewsbury was fought on 21 July 1403, waged between an army led by the Lancastrian King Henry IV and a rebel army led by Henry \"Harry Hotspur\" Percy from Northumberland. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Henry_Hotspur_Percy.jpg/330px-Henry_Hotspur_Percy.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Shrewsbury"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Tshiamo is a Tswana given name meaning \"bless with divine, righteousness or goodness\".",
-      "body": "Notable people with the name include:Tshiamo Modisane, South African author, activist and television personality Tshiamo Tshotetsi, South African politician The world is stranger than it lets on.",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Located in the South Wollo Zone of the Amhara Region, this town has a latitude and longitude of 10°45′N 38°45′E with an elevation of 2638 meters above sea level.",
+      "body": "Mekane Selam is a town in central Ethiopia. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tshiamo"
+      "url": "https://en.wikipedia.org/wiki/Mekane_Selam"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "The ancient Silk Road city that has a lesson for Silicon Valley",
-      "body": "On a trip along the Silk Road, columnist Annalee Newitz discovers that ancient technology can offer us a framework for our own advances. The most important drivers of technology aren’t inventions or devices, it turns out, but the people mak",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580674-the-ancient-silk-road-city-that-has-a-lesson-for-silicon-valley/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Kilby is a village and civil parish in the Blaby district of Leicestershire, England.",
-      "body": "Kilby is the easternmost village in the district, and is 6.1 miles (9.8 km) south east of Leicester. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kilby%2C_Leicestershire_-_geograph.org.uk_-_209247.jpg/330px-Kilby%2C_Leicestershire_-_geograph.org.uk_-_209247.jpg",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It operated on 1480 kHz from its inception on August 31, 1961, to its license cancellation on September 9, 1996.",
+      "body": "WARI was an AM radio station licensed to Abbeville, Alabama. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kilby"
+      "url": "https://en.wikipedia.org/wiki/WARI_(Alabama)"
     }
   ]
 }
