@@ -1,25 +1,73 @@
 {
-  "generated": "2026-07-21T01:15:56.108Z",
-  "count": 12,
+  "generated": "2026-07-21T04:54:19.164Z",
+  "count": 13,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Rosy Crucifixion, a trilogy consisting of Sexus, Plexus, and Nexus, is a fictionalized account documenting the six-year period of Henry Miller's life in Brooklyn as he falls for his second wife June and struggles to become a writer, leading up to his initial departure for Paris in 1928.",
+      "body": "The title comes from a sentence near the end of Miller's Tropic of Capricorn: \"All my Calvaries were rosy crucifixions, pseudo-tragedies to keep the fires of hell burning brightly for the real sinners who are in danger of being forgotten.\" Worth a quiet trip d",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Plexus%2C_Henry_Miller%2C_Grove_Press_1965.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Rosy_Crucifixion"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Bruno Mars has an unexpected opening before Wembley party starts",
-      "body": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Culture —",
+      "hook": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
+      "body": "<p>$81bn merger halted for at least two weeks after US states sued to block deal, saying it would ‘extinguish competition’</p><p>A federal judge on Monday ordered <a href=\"https://www.theguardian.com/film/paramount-pictures\">Paramount</a> a",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Led by Bassetlaw MP Jo White, the caucus was formed in November 2024 and has 43 members as of May 2025.",
+      "body": "The Red Wall Caucus is a British political caucus and pressure group of backbench Labour MPs who represent red wall seats in the House of Commons. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Red_Wall_Caucus"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Marry Me, Cherie is a 1964 German-Austrian comedy film directed by Axel von Ambesser and starring Paul Hubschmid, Letícia Román and Ann Smyrner.",
-      "body": "It is based on a novel by Gábor Vaszary. Worth a quiet trip down the rabbit hole.",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage is a Japanese light novel series written by Arata Shiraishi and illustrated by Uodenim.",
+      "body": "It was originally published as a web novel on the online publication platform Shōsetsuka ni Narō in 2018, before Kadokawa Shoten began publishing it as a light novel under their Kadokawa Sneaker Bunko imprint, which ran from October 2019 to March 2022. Worth a",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/00/From_Overshadowed_to_Overpowered_volume_1_cover.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/From_Overshadowed_to_Overpowered"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Legend of the White Horse is a 1987 Polish-American adventure children's film directed by Jerzy Domaradzki and Janusz Morgenstern, based on the magic realism novel White Horse, Dark Dragon by Robert C.",
+      "body": "Fleet, who also wrote the screenplay. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marry_Me%2C_Cherie"
+      "url": "https://en.wikipedia.org/wiki/Legend_of_the_White_Horse"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could AI be conscious?",
+      "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘New Girl was so scary I had to stop smoking pot’: Jake Johnson on perseverance, pickleball and Prince",
+      "body": "<p>As Nick in the blockbuster TV comedy, the actor was adored by millions. So will his new comedy The Dink, which he jokes is a ‘sexier Challengers’, make him even more popular? </p><p>You might assume that Jake Johnson would know a little ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/21/new-girl-was-so-scary-i-had-to-stop-smoking-pot-jake-johnson-on-perseverance-pickleball-and-prince"
     },
     {
       "type": "card",
@@ -33,21 +81,11 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "“He had a big impact on the history of film in this country”: Industry pays tribute to Simon Field who had died aged 80",
-      "body": "“Simon never gave up, never compromised,” said Apichatpong Weerasethakul of his ‘Uncle Boomee’ producer.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/he-had-a-big-impact-on-the-history-of-film-in-this-country-industry-pays-tribute-to-simon-field-who-had-died-aged-80/5218753.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Moon Over Morocco is a 1931 French mystery film directed by Julien Duvivier and starring Harry Baur, René Lefèvre and Rosine Deréan.",
-      "body": "A separate German-language film The Five Accursed Gentlemen was also produced. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Moon_Over_Morocco_%281931_film%29.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Moon_Over_Morocco_(film)"
+      "opener": "BBC Entertainment —",
+      "hook": "Bruno Mars has an unexpected opening before Wembley party starts",
+      "body": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -60,51 +98,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Could AI be conscious?",
-      "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Suzaki Paradise: Red Light a.k.a.",
-      "body": "Suzaki Paradise: Red Light District or Suzaki Paradise: Akashingō is a 1956 Japanese drama film directed by Yūzō Kawashima. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Suzaki_paradise_Akashingo_poster.jpg/330px-Suzaki_paradise_Akashingo_poster.jpg",
+      "opener": "Okay, this one's fun —",
+      "hook": "Karl Maria Kaufmann was a German biblical archaeologist who later embraced National Socialism.",
+      "body": "Kaufmann also published under the pseudonym Marchese di San Callisto. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Carl_Maria_Kaufmann_%281872%E2%80%931951%29.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Suzaki_Paradise%3A_Red_Light"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Inugami Family is a 1976 Japanese mystery film directed by Kon Ichikawa.",
-      "body": "It is based on the novel The Inugami Curse by Seishi Yokomizo. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/33/The_Inugami_Family_poster.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Inugami_Family"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
-      "body": "<p>$81bn merger halted for at least two weeks after US states sued to block deal, saying it would ‘extinguish competition’</p><p>A federal judge on Monday ordered <a href=\"https://www.theguardian.com/film/paramount-pictures\">Paramount</a> a",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Ninth Building is a novel by Zou Jingzhi.",
-      "body": "Originally written in Mandarin Chinese, it was translated to English by Jeremy Tiang and published by Honford Star in 2023. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a6/%22Ninth_Building%22_book_cover.webp",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ninth_Building"
+      "url": "https://en.wikipedia.org/wiki/Karl_Maria_Kaufmann"
     },
     {
       "type": "card",
@@ -114,6 +114,16 @@
       "body": "“Simon never gave up, never compromised,” said Apichatpong Weerasethakul of his ‘Uncle Boomee’ producer.",
       "src": "Screen Daily",
       "url": "https://www.screendaily.com/news/he-had-a-big-impact-on-the-history-of-film-in-this-country-industry-pays-tribute-to-simon-field-who-has-died-aged-80/5218753.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Allies is a historical fiction novel by Alan Gratz, based on D-Day.",
+      "body": "It was published by Scholastic Inc. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/af/Allies_%28novel%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Allies_(novel)"
     }
   ]
 }

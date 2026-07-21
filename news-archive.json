@@ -2,6 +2,16 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Film —",
+    "hook": "‘New Girl was so scary I had to stop smoking pot’: Jake Johnson on perseverance, pickleball and Prince",
+    "body": "<p>As Nick in the blockbuster TV comedy, the actor was adored by millions. So will his new comedy The Dink, which he jokes is a ‘sexier Challengers’, make him even more popular? </p><p>You might assume that Jake Johnson would know a little ",
+    "src": "The Guardian · Film",
+    "url": "https://www.theguardian.com/film/2026/jul/21/new-girl-was-so-scary-i-had-to-stop-smoking-pot-jake-johnson-on-perseverance-pickleball-and-prince",
+    "_t": 1784609659163
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "The Guardian · Books —",
     "hook": "Could AI be conscious?",
     "body": "<p>Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications</p><p>In January, the AI company Anthropic published a <a href=\"https://www.anthropic.com/constitution\">new constitution</a> for Claude,",
@@ -588,15 +598,5 @@
     "src": "New Scientist",
     "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
     "_t": 1784504595239
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "New Scientist —",
-    "hook": "Why a Ukrainian cruise missile is flying with hobby drone hardware",
-    "body": "An open-source flight-control system found in consumer drones has been installed in Ukraine’s latest cruise missile, showing how cheap technology is making military hardware accessible to all",
-    "src": "New Scientist",
-    "url": "https://www.newscientist.com/article/2580002-why-a-ukrainian-cruise-missile-is-flying-with-hobby-drone-hardware/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
-    "_t": 1784493882803
   }
 ]
