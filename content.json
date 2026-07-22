@@ -1,7 +1,67 @@
 {
-  "generated": "2026-07-22T16:11:02.093Z",
-  "count": 18,
+  "generated": "2026-07-22T17:59:14.087Z",
+  "count": 25,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Episcopal Public Library of Barcelona, also called the Episcopal Public Library of the Seminary of Barcelona is a library located in the building of the Conciliar Seminary of Barcelona.",
+      "body": "Founded in 1772, it is the oldest preserved public access library in the city of Barcelona, Spain. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Edifici_del_Seminari_Conciliar_de_Barcelona_-_25.JPG/330px-Edifici_del_Seminari_Conciliar_de_Barcelona_-_25.JPG",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Episcopal_Public_Library_of_Barcelona"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The population of the civil parish at the 2011 census was 1,102.",
+      "body": "Chatburn is a village, civil parish and electoral ward in the Ribble Valley, East Lancashire, England. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Chatburn_-_geograph.org.uk_-_38576.jpg/330px-Chatburn_-_geograph.org.uk_-_38576.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chatburn"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Constance \"Connie\" Johnson was an Australian philanthropist.",
+      "body": "She suffered from bone cancer at age 11, uterine cancer at age 22 and finally breast cancer at age 33. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Samuel_and_Connie_Johnson.jpg/330px-Samuel_and_Connie_Johnson.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Connie_Johnson_(fundraiser)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1833 —",
+      "hook": "The Slavery Abolition Act passes in the British House of Commons, initiating the gradual abolition of slavery in most parts of the British Empire.",
+      "body": "The Slavery Abolition Act 1833 was an act of the Parliament of the United Kingdom which abolished slavery in the British Empire by way of compensated emancipation. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Coat_of_Arms_of_the_United_Kingdom_%281816-1837%29.svg/330px-Coat_of_Arms_of_the_United_Kingdom_%281816-1837%29.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Slavery_Abolition_Act_1833"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Elevations range from 2,000 feet (610 m) along the Sacramento River near the base of the crags, to over 6,500 feet (2,000 m) at the summit of the tallest crag.",
+      "body": "Castle Crags is a dramatic and well-known rock formation in Northern California. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CastleCrags.jpg/330px-CastleCrags.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Castle_Crags"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1880 —",
+      "hook": "Abdur Rahman is proclaimed emir of Afghanistan after having been accepted as ruler by the British.",
+      "body": "Abdur Rahman Khan Barakzai, also known by his epithet as the Iron Emir, was Emir of Afghanistan from 11 August 1880 until his death on 1 October 1901. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Amir_Abdur_Rahman_Khan_of_Afghanistan-cropped.jpg/330px-Amir_Abdur_Rahman_Khan_of_Afghanistan-cropped.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Abdur_Rahman_Khan"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,167 +73,177 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Warren Heywood Williams was an American architect, who spent most of his career working in the U.S.",
-      "body": "Starting in 1860, he apprenticed in San Francisco as a draftsman at the architectural firm of his father, Stephen H. The world is stranger than it lets on.",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The club currently plays in the semi-professional competition the Shute Shield where they have been since the 2020 season.",
+      "body": "The Hunter Wildfires, also known as the Hunter Rugby Club, or simply NHRU Wildfires, are an Australian rugby union club based in the New South Wales city of Newcastle, New South Wales. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Warren_Heywood_Williams"
+      "url": "https://en.wikipedia.org/wiki/Hunter_Wildfires"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1976 —",
+      "hook": "Japan completes its last reparation to the Philippines for war crimes committed during imperial Japan's conquest of the country in the Second World War.",
+      "body": "The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Philippines"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2019 —",
+      "hook": "Chandrayaan-2, the second lunar exploration mission developed by Indian Space Research Organisation after Chandrayaan-1 is launched from Satish Dhawan Space Centre in a GSLV Mark III M1. It consists of a lunar orbiter, and also included the Vikram lander, and the Pragyan lunar rover.",
+      "body": "Chandrayaan-2 is the second lunar exploration mission developed by ISRO after Chandrayaan-1. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GSLV_Mk_III_M1%2C_Chandrayaan-2_-_Vikram_lander_mounted_on_top_of_orbiter.jpg/330px-GSLV_Mk_III_M1%2C_Chandrayaan-2_-_Vikram_lander_mounted_on_top_of_orbiter.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Chandrayaan-2"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "New Scientist —",
-      "hook": "What the world’s happiest countries can teach us about joyful living",
-      "body": "As editor of the World Happiness Report, few people know more than Jan-Emmanuel De Neve about what makes a country happy. He reveals what we can learn from the nations where people feel the most content",
+      "hook": "Sunshine can help with some serious health problems, argues a new book",
+      "body": "While Europe’s heatwave makes us run for shade, the intriguing In Defense of Sunlight reveals sunlight’s health-giving effects – in moderation, says David Robson",
       "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2533390-what-the-worlds-happiest-countries-can-teach-us-about-joyful-living/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
+      "url": "https://www.newscientist.com/article/2580341-sunshine-can-help-with-some-serious-health-problems-argues-a-new-book/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘His chords are like sheets of diamond ice’: the beguiling psych-folk of late cult songwriter Ed Askew",
-      "body": "<p>The late songwriter released around 50 records, writing gay love songs and effortless folk songs from folk’s fringes. Fans including Bill Callahan explain his singular brilliance</p><p>In a grainy television clip from 1986, a flame-haire",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/jul/21/ed-askew-psych-folk-bill-callahan"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Kishore Kalidas Jadav was a novelist, critic, and short story writer from India.",
-      "body": "He wrote in Gujarati and was primarily responsible for the development of surreal and experimental Gujarati fiction. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kishor_Jadav.jpg/330px-Kishor_Jadav.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kishore_Jadav"
+      "opener": "ESA —",
+      "hook": "Plato's electronics ready for space",
+      "body": "Image: The European Space Agency’s terrestrial planet hunter Plato has recently completed a series of key tests inside the Maxwell Test Chamber at ESTEC , demonstrating that its electronic equipment is fit to work in space. This photo captu",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Plato_s_electronics_ready_for_space"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "New Scientist —",
-      "hook": "IVF embryos may thrive when grown with less oxygen",
-      "body": "Decreasing the amount of oxygen that IVF-conceived embryos are developed in could improve outcomes, such as reducing the risk of low birth weight",
+      "hook": "Why open-source software can be both good and bad",
+      "body": "Software that is free to use creates many opportunities – not all of which are good",
       "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580792-ivf-embryos-may-thrive-when-grown-with-less-oxygen/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://www.newscientist.com/article/2580504-why-open-source-software-can-be-both-good-and-bad/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Mexican Americans have lived in Los Angeles since the original Pobladores.",
-      "body": "The 44 original settlers, 22 children, and 4 soldiers who founded the city in 1781 were almost exclusively from the current Mexican states of Sinaloa and Sonora. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/LosAngeles-Plaza-1869.jpg/330px-LosAngeles-Plaza-1869.jpg",
+      "opener": "Here's one for the group chat —",
+      "hook": "In computer security, a vulnerability is a flaw or weakness in a system's design, implementation, or management that can be exploited by a malicious actor to compromise its security.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/History_of_Mexican_Americans_in_Los_Angeles"
+      "url": "https://en.wikipedia.org/wiki/Vulnerability_(computer_security)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "New Scientist —",
-      "hook": "Phone breathalyser can detect when your body switches to burning fat",
-      "body": "A handheld breathalyser picks up on a molecule called acetone, revealing that your body is using fat for energy",
+      "hook": "This twisty sci-fi thriller is a fantastic debut from Isabel J. Kim",
+      "body": "Sublimation, in which a person can split into two when crossing an international border, is tip-top stuff. Don't miss it, says science-fiction columnist Emily H. Wilson",
       "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580739-breathalyser-detects-when-your-body-is-burning-fat/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://www.newscientist.com/article/2580343-enjoy-2-great-sci-fi-reads-with-sublimation-and-mossd-in-space/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Twisteddoodles on children&#8217;s flexible ears",
+      "body": "This week's cartoon from Twisteddoodles",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2580267-twisteddoodles-on-childrens-flexible-ears/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1893 —",
+      "hook": "Katharine Lee Bates writes \"America the Beautiful\" after admiring the view from the top of Pikes Peak near Colorado Springs, Colorado.",
+      "body": "Katharine Lee Bates was an American author and poet, chiefly remembered for her anthem \"America the Beautiful\", but also for her many books and articles on social reform, on which she was a noted speaker. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Portrait_of_Katharine_Lee_Bates%2C_ca._1880-1890.jpg/330px-Portrait_of_Katharine_Lee_Bates%2C_ca._1880-1890.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Katharine_Lee_Bates"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Western Daily Press is a regional newspaper covering parts of South West England, mainly Gloucestershire, Wiltshire and Somerset as well as the metropolitan areas of Bath and North East Somerset and the Bristol area.",
-      "body": "It is published Monday to Saturday in Bristol, UK. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/WDPcover.jpg",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Prestwold Hall is a country house in Leicestershire, England, standing in 2,500 acres (10 km2) of land in the parish of Prestwold.",
+      "body": "It is both a private home and a venue for weddings and events. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Prestwold_hall.jpg/330px-Prestwold_hall.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Western_Daily_Press"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
+      "url": "https://en.wikipedia.org/wiki/Prestwold_Hall"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "Here's one for the group chat —",
-      "hook": "He co-authored it with novelist Leon Whiteson (1930–2013).",
-      "body": "A Place Called Waco: A Survivor's Story is the memoir of Waco siege survivor David Thibodeau. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/61/A_Place_Called_Waco_A_Survivor%27s_Story.jpg",
+      "hook": "He was a co-author of the design report of the first Soviet two-stage thermonuclear bomb, the RDS-37.",
+      "body": "Vitaliy Aleksandrovich Aleksandrovich was a Soviet chemist of Ukrainian origin who also became part of the Soviet program that developed nuclear weapons from the late 1940s. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Place_Called_Waco%3A_A_Survivor's_Story"
+      "url": "https://en.wikipedia.org/wiki/Vitaly_Aleksandrovich"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "City celebrates Ozzy Day on anniversary of death",
-      "body": "Pop-up performances from a brass band and an orchestra are part of the celebrations of Osbourne.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjp5y9qq3o?at_medium=RSS&at_campaign=rss"
+      "cat": "geography",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Duchesne River is 115 miles (185 km) long, and drains a total land area of 3,790 square miles (9,800 km2).",
+      "body": "The Duchesne River, located in the Uintah Basin region of Utah in the western United States, is a tributary of the Green River. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/OVERALL_VIEW_OF_CANAL_AND_DUCHESNE_RIVER_VALLEY%2C_LOOKING_SOUTHEAST_-_Irrigation_Canals_in_the_Uinta_Basin%2C_Rocky_Point_Canal%2C_Duchesne%2C_Duchesne_County%2C_UT_HAER_UTAH%2C7-DUCH.V%2C1K-1.tif/lossy-page1-330px-thumbnail.tif.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Duchesne_River"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Godzilla and Godzilla Raids Again is a 1955 young adult kaiju novel by Shigeru Kayama.",
-      "body": "It is a novelization of the first two films in the Godzilla franchise produced by Toho, Godzilla (1954) and Godzilla Raids Again (1955), both of which were based on story outlines by Kayama. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/GodzillaAndGodzillaRidesAgainCover.png",
+      "opener": "File under 'wait, really?' —",
+      "hook": "We Are Seven is a British television drama series set in Wales and based on the 1955 book of the same name by Una Troy.",
+      "body": "It was produced by HTV Wales and shown on ITV. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Godzilla_and_Godzilla_Raids_Again"
+      "url": "https://en.wikipedia.org/wiki/We_Are_Seven_(TV_series)"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1993 —",
+      "hook": "Great Flood of 1993: Levees near Kaskaskia, Illinois rupture, forcing the entire town to evacuate by barges operated by the Army Corps of Engineers.",
+      "body": "The Great Flood of 1993 was a flood that occurred in the Midwestern United States, along the Mississippi and Missouri rivers and their tributaries, from April to October 1993. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/MO_capital_flood_93.jpg/330px-MO_capital_flood_93.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Great_Flood_of_1993"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Elon Musk says Grok Imagine will make ‘historically accurate’ AI adaptation of Homer’s Odyssey",
-      "body": "<p>The billionaire says the AI-generated film will stay true to Homer’s original, after repeatedly criticising Christopher Nolan’s blockbuster over its casting choices</p><p>Elon Musk has said his AI platform Grok Imagine will make a “histo",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan"
+      "opener": "Screen Daily —",
+      "hook": "Toronto’s expanded Platform section unveils 12 world premieres",
+      "body": "The festival’s only competitive section offers a cash prize and potential Oscar eligibility.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/torontos-expanded-platform-section-unveils-12-world-premieres/5218755.article"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
+      "type": "card",
+      "cat": "geography",
+      "opener": "File under 'wait, really?' —",
+      "hook": "It became popular in England at the time of the Glorious Revolution of 1688.",
+      "body": "\"Lillibullero\" is a march attributed to Henry Purcell. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lillibullero"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The population of the civil parish at the 2011 census was 593.",
+      "body": "Tealby is a village and civil parish in the West Lindsey district of Lincolnshire, England, situated on the edge of the Lincolnshire Wolds and 3 miles (5 km) north-east of Market Rasen. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/All_Saints%27_church%2C_Tealby%2C_Lincs._-_geograph.org.uk_-_125807.jpg/330px-All_Saints%27_church%2C_Tealby%2C_Lincs._-_geograph.org.uk_-_125807.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tealby"
     }
   ]
 }
