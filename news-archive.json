@@ -2,6 +2,36 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Books —",
+    "hook": "The 100 best novels of all time",
+    "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
+    "_t": 1784747480012
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "The Guardian · Culture —",
+    "hook": "Charles Gaines, whose book Pumping Iron helped to popularize bodybuilding, dies at 84",
+    "body": "<p>1974 book led to making of seminal documentary and introduced Arnold Schwarzenegger to the world</p><p>Charles Gaines, the author whose book and documentary Pumping Iron helped bring professional bodybuilding into the mainstream and intr",
+    "src": "The Guardian · Culture",
+    "url": "https://www.theguardian.com/books/2026/jul/22/charles-gaines-pumping-iron-author-arnold-schwarzenegger",
+    "_t": 1784747480012
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "The Guardian · Culture —",
+    "hook": "Prosecutors argue D4vd had financial motivation to kill Celeste Rivas Hernandez",
+    "body": "<p>Details emerge about how much Interscope Records paid the singer at hearing to determine if there is probable cause for murder case to proceed to trial</p><p>Singer D4vd had a multimillion-dollar recording deal, an executive at his forme",
+    "src": "The Guardian · Culture",
+    "url": "https://www.theguardian.com/us-news/2026/jul/22/d4vd-murder-case-financial-motivation",
+    "_t": 1784747480012
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "Screen Daily —",
     "hook": "Toronto’s expanded Platform section unveils 12 world premieres",
     "body": "The festival’s only competitive section offers a cash prize and potential Oscar eligibility.",
@@ -568,35 +598,5 @@
     "src": "New Scientist",
     "url": "https://www.newscientist.com/article/2580674-the-ancient-silk-road-city-that-has-a-lesson-for-silicon-valley/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
     "_t": 1784657134062
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "Brunello: The Gracious Visionary review – fawning portrait of the king of cashmere",
-    "body": "<p>Giuseppe Tornatore traces Italian fashion designer Brunello Cucinelli’s life from poor farming family to billion-dollar empire in a sentimental vanity project</p><p>Brunello Cucinelli is the Italian fashion designer and entrepreneur who ",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/jul/21/brunello-the-gracious-visionary-review-brunello-cucinelli-giuseppe-tornatore",
-    "_t": 1784650297826
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "Screen Daily —",
-    "hook": "Georgian organisations claim state festivals are being hijacked by “authoritarian regime”",
-    "body": "Top Georgian groups say international guests are being used as “useful idiots”.",
-    "src": "Screen Daily",
-    "url": "https://www.screendaily.com/news/georgian-organisations-claim-state-festivals-are-being-hijacked-by-authoritarian-regime/5218773.article",
-    "_t": 1784650297826
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "BBC Entertainment —",
-    "hook": "BBC Introducing stage axed from Reading Festival",
-    "body": "The stage has hosted up-and-coming artists including Ed Sheeran at the Berkshire festival since 2008.",
-    "src": "BBC Entertainment",
-    "url": "https://www.bbc.co.uk/news/articles/cp871g996qno?at_medium=RSS&at_campaign=rss",
-    "_t": 1784650297826
   }
 ]
