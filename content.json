@@ -1,16 +1,54 @@
 {
-  "generated": "2026-07-22T04:53:57.243Z",
-  "count": 18,
+  "generated": "2026-07-22T07:27:15.970Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "On Thin Ice by Charlie Walker review – a Siberian adventure goes off the rails",
+      "body": "<p>Moments of beauty and horror punctuate this account of an ill-timed sub-zero camping trip </p><p>In late February 2022, Charlie Walker set off on a hiking holiday in northern Siberia. In temperatures as low as -50C, he intended to trek a",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/22/on-thin-ice-by-charlie-walker-review-a-siberian-adventure-goes-off-the-rails"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "On the Sea review – tender fishermen’s boat-based tale of forbidden love far from prying eyes",
+      "body": "<p>Away from the disapproval of their Welsh fishing community, two men embark on a passionate affair in Helen Walsh’s poignant drama</p><p>Barry Ward brings sincerity and force to this well-intended, well-acted <a href=\"https://www.theguard",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/22/on-the-sea-review-fishermen-tale-forbidden-love-helen-walsh"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1802 —",
-      "hook": "Emperor Gia Long conquers Hanoi and unified Viet Nam, which had experienced centuries of feudal warfare.",
-      "body": "Gia Long, born Nguyễn Phúc Ánh (阮福暎) or Nguyễn Ánh (阮暎), was the founding emperor of the Nguyễn dynasty, the last dynasty of Vietnam, which would rule the unified territories that constitute modern-day Vietnam until 1945. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Emperor_Gia_Long.jpg/330px-Emperor_Gia_Long.jpg",
+      "opener": "On this day in 1942 —",
+      "hook": "Grossaktion Warsaw: The systematic deportation of Jews from the Warsaw ghetto begins.",
+      "body": "The Grossaktion Warsaw was the Nazi code name for the deportation and mass murder of Jews from the Warsaw Ghetto during the summer of 1942, beginning on 22 July. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Umschlagplatz_loading.jpg/330px-Umschlagplatz_loading.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Gia_Long"
+      "url": "https://en.wikipedia.org/wiki/Grossaktion_Warsaw"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Salvation Boulevard is a 2011 comedy thriller film with religious satire undertones directed by George Ratliff, and starring Pierce Brosnan, Jennifer Connelly, Ed Harris, Greg Kinnear, Marisa Tomei and Jim Gaffigan.",
+      "body": "It is based on the novel of the same name by Larry Beinhart. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Salvation_boulevard_poster.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Salvation_Boulevard"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "One of Those Hideous Books Where the Mother Dies (2004) is a novel in verse by Sonya Sones.",
+      "body": "Ruby is taken away from her friends and family, all of which she loves, and is forced to cope in the fake and artificial world of Hollywood. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/78/One_of_Those_Hideous_Books_Where_the_Mother_Dies.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/One_of_Those_Hideous_Books_Where_the_Mother_Dies"
     },
     {
       "type": "card",
@@ -23,157 +61,129 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "'Play music loud to remember Ozzy' says Sharon on first anniversary of his death",
+      "body": "Sharon Osbourne shares with the BBC her memories and hopes for the future.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lnl9jzgyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The MAP75 armoured personnel carrier is a Rhodesian 4x4 heavy troop-carrying vehicle (TCV) first introduced in 1978 based on a Mercedes-Benz truck chassis.",
+      "body": "It remains in use with the Zimbabwe National Army. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/MAP75_armoured_personnel_carrier"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Luis Humberto Crosthwaite is a writer, editor, and journalist whose work has appeared in a variety of international venues.",
+      "body": "His fiction works have garnered critical attention for his ability to express the complexities of living on the US/Mexico border region. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LuisHumbertoCrosthwaite.jpg/330px-LuisHumbertoCrosthwaite.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Luis_Humberto_Crosthwaite"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+      "body": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
+      "body": "The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Judge rules Trump must hand over records sought by BBC in defamation case",
+      "body": "The judge grants a motion to compel the release of files held by the Donald J Trump Revocable Trust.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c93487x97kyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1443 —",
+      "hook": "Battle of St. Jakob an der Sihl in the Old Zürich War.",
+      "body": "The Battle of St. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Zuerichkrieg_1444.jpg/330px-Zuerichkrieg_1444.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_St._Jakob_an_der_Sihl"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Meu Pé de Laranja Lima is a novel by José Mauro de Vasconcelos.",
+      "body": "The book was first published in 1968 and was used for literature classes for elementary schools in Brazil. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Meu_P%C3%A9_de_Laranja_Lima"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Eurico, the Presbyter is an 1844 historical novel by Alexandre Herculano.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eurico%2C_the_Presbyter"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1227 —",
+      "hook": "A coalition of north-east German towns, counts and princes defeats King Valdemar II of Denmark in the Battle of Bornhöved.",
+      "body": "Valdemar II Valdemarsen, later remembered as Valdemar the Victorious and Valdemar the Conqueror, was King of Denmark from 1202 until his death in 1241. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coin_minted_for_king_Valdemar_II_of_Denmark%2C_Valdemar_II_Sejr.jpg/330px-Coin_minted_for_king_Valdemar_II_of_Denmark%2C_Valdemar_II_Sejr.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Valdemar_II_of_Denmark"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1962 —",
+      "hook": "Mariner program: Mariner 1 spacecraft flies erratically several minutes after launch and has to be destroyed.",
+      "body": "The Mariner program was conducted by the American space agency NASA to explore other planets. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Atlas_Agena_with_Mariner_1.jpg/330px-Atlas_Agena_with_Mariner_1.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mariner_program"
+    },
+    {
+      "type": "card",
       "cat": "history",
       "opener": "On this day in 1983 —",
       "hook": "Martial law in Poland is officially revoked.",
-      "body": "Martial law in Poland existed between 13 December 1981 and 22 July 1983. Bring it up somewhere. Watch the reaction.",
+      "body": "Martial law in Poland existed between 13 December 1981 and 22 July 1983. One of those things you can't un-know.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/T-55A_Martial_law_Poland.jpg/330px-T-55A_Martial_law_Poland.jpg",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Martial_law_in_Poland"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tell us: what have you been reading this month?",
-      "body": "<p>We would like to hear about the books you’ve particularly enjoyed this month</p><p>As part of The Guardian’s “<a href=\"https://www.theguardian.com/books/series/what-we-re-reading\">what we’re reading</a>” series, we would like to hear abo",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1342 —",
-      "hook": "St. Mary Magdalene's flood is the worst such event on record for central Europe.",
-      "body": "St. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/M%C3%BCnden_Hochwasserst%C3%A4nde_Packhof.jpg/330px-M%C3%BCnden_Hochwasserst%C3%A4nde_Packhof.jpg",
+      "opener": "On this day in 1099 —",
+      "hook": "First Crusade: Godfrey of Bouillon is elected the first Defender of the Holy Sepulchre of The Kingdom of Jerusalem.",
+      "body": "The First Crusade (1096–1099) was the first of a series of religious wars, or Crusades, which were initiated, supported and at times directed by the Latin Church in the Middle Ages. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Peter_the_Hermit.jpg/330px-Peter_the_Hermit.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/St._Mary_Magdalene's_flood"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Dink review – Jake Johnson’s pickleball comedy serves up engagingly silly laughs",
-      "body": "<p>Johnson is delusional ex-tennis player The Hammer, who has to switch to the sport he loathes after injury</p><p>There’s some funny stuff here in this engagingly silly sports comedy from producer-star Jake Johnson about the world of pickl",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/21/the-dink-review-pickleball-comedy-serves-up-engagingly-silly-laughs"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Face in the Frost is a short fantasy novel by American author John Bellairs published in 1969.",
-      "body": "Unlike most of his later works, this book is meant for adult readers. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/87/The_Face_in_the_Frost_-_John_Bellairs.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Face_in_the_Frost"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Jackass: Best and Last review – kings of gross-out comedy’s final, funny farewell",
-      "body": "<p>So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgia</p><p>The boy-men of <a href=\"https://www.theguardian.com/film/202",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
-      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Al-Wakwak, also spelled al-Waq Waq, Wak al-Wak or just Wak Wak, is the name of an island, or possibly more than one island, in medieval Arabic geographical and imaginative literature.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_Queen_of_the_Island_of_Vaqvaq_-_Walters_W659150A_-_Full_Page.jpg/330px-Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_Queen_of_the_Island_of_Vaqvaq_-_Walters_W659150A_-_Full_Page.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Al-Wakwak"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1992 —",
-      "hook": "Near Medellín, Colombian drug lord Pablo Escobar escapes from his luxury prison fearing extradition to the United States.",
-      "body": "Medellín, officially the Special District of Science, Technology and Innovation of Medellín, is the second-largest city in Colombia after Bogotá, and the capital of the department of Antioquia. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/El_Poblado_Medell%C3%ADn.jpg/330px-El_Poblado_Medell%C3%ADn.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Saxophonist Plas Johnson, known for solo on The Pink Panther Theme, dies aged 94",
-      "body": "<p>Jazz saxophonist – who recorded with artists Frank Sinatra, BB King and more – died in Los Angeles, reports say</p><p>The US jazz saxophonist Plas Johnson, best known for his solo riff on the timeless classic The <a href=\"https://www.the",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/plas-johnson-saxophonist-dead"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Little Brother review – Netflix comedy is neither weird or funny enough for star Eric André",
-      "body": "<p>The surreal comedian struggles to sell a middling and mostly conventional film about an uptight realtor whose life is upturned by an unpredictable figure from his past</p><p>The specific, unforced strangeness of <a href=\"https://www.theg",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Hurling Team of the Century was chosen as part of the Gaelic Athletic Association's centenary year celebrations in 1984 to comprise, as a fifteen-member side divided as one goalkeeper, three full-backs, three half-backs, two midfielders, three half-forwards and three full-forwards, the best hurling players of the first one hundred years of the Gaelic Athletic Association.",
-      "body": "The players on the team were nominated by Sunday Independent readers and were selected by a panel of experts and former players. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hurling_Team_of_the_Century"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2005 —",
-      "hook": "Jean Charles de Menezes is killed by police as the hunt begins for the London Bombers responsible for the 7 July 2005 London bombings and the 21 July 2005 London bombings.",
-      "body": "Jean Charles da Silva de Menezes was a Brazilian man fatally shot and wrongfully killed by the Metropolitan Police Service at Stockwell Station of the London Underground, after being mistakenly identified as one of the fugitives from the previous day's failed bombing attempts. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/18/Jean_Charles_de_Menezes.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Killing_of_Jean_Charles_de_Menezes"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1973 —",
-      "hook": "Pan Am Flight 816 crashes after takeoff from Faa'a International Airport in Papeete, French Polynesia, killing 78.",
-      "body": "Pan Am Flight 816 was an international flight from Auckland, New Zealand, to San Francisco, California, via Tahiti, French Polynesia, and Los Angeles, California. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Boeing_707-321B_Pan_Am_Freer.jpg/330px-Boeing_707-321B_Pan_Am_Freer.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pan_Am_Flight_816"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Forgery and Counterforgery: The Use of Literary Deceit in Early Christian Polemics is a 2012 scholarly monograph by American New Testament historian Bart D.",
-      "body": "Published by Oxford University Press, the volume surveys first- through fourth-century Christian writings that claim false authorship and evaluates how contemporaries received them. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/22/Forgery_and_Counterforgery.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Forgery_and_Counterforgery"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Philip Fracassi is an American writer of horror, thriller, and science fiction.",
-      "body": "He has written multiple novels, screenplays, and short stories. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Philip_Fracassi"
+      "url": "https://en.wikipedia.org/wiki/First_Crusade"
     }
   ]
 }
