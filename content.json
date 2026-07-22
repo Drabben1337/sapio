@@ -1,179 +1,121 @@
 {
-  "generated": "2026-07-22T07:27:15.970Z",
-  "count": 19,
+  "generated": "2026-07-22T10:10:20.108Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It Chapter Two is a 2019 American supernatural horror film directed by Andy Muschietti from a screenplay by Gary Dauberman.",
+      "body": "It is the sequel to It (2017) and the second of a two-part adaptation of the 1986 novel It by Stephen King. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/It_Chapter_Two_Poster.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/It_Chapter_Two"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1598 —",
+      "hook": "William Shakespeare's play, The Merchant of Venice, is entered on the Stationers' Register. By decree of Queen Elizabeth, the Stationers' Register licensed printed works, giving the Crown tight control over all published material.",
+      "body": "William Shakespeare was an English playwright, poet and actor. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/330px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/William_Shakespeare"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "On Thin Ice by Charlie Walker review – a Siberian adventure goes off the rails",
-      "body": "<p>Moments of beauty and horror punctuate this account of an ill-timed sub-zero camping trip </p><p>In late February 2022, Charlie Walker set off on a hiking holiday in northern Siberia. In temperatures as low as -50C, he intended to trek a",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/22/on-thin-ice-by-charlie-walker-review-a-siberian-adventure-goes-off-the-rails"
+      "opener": "Screen Daily —",
+      "hook": "Venice’s Giornate degli Autori lineup includes Lili Horvat, Robert Guediguian films",
+      "body": "10 features in competition include five debuts.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/venices-giornate-degli-autori-lineup-includes-lili-horvat-robert-guediguian-films/5218783.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1990 —",
+      "hook": "Greg LeMond, an American road racing cyclist, wins his third Tour de France after leading the majority of the race. It was LeMond's second consecutive Tour de France victory.",
+      "body": "Gregory James LeMond is an American former road racing cyclist. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Greg_LeMond_by_Gage_Skidmore.jpg/330px-Greg_LeMond_by_Gage_Skidmore.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Greg_LeMond"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "On the Sea review – tender fishermen’s boat-based tale of forbidden love far from prying eyes",
-      "body": "<p>Away from the disapproval of their Welsh fishing community, two men embark on a passionate affair in Helen Walsh’s poignant drama</p><p>Barry Ward brings sincerity and force to this well-intended, well-acted <a href=\"https://www.theguard",
+      "hook": "Ask E Jean review – Trump survivor turns out to be tougher than he thought as she fights on",
+      "body": "<p>Ivy Meeropol’s engrossing film follows former star columnist E Jean Carroll, now in her 80s, battles through an unfinished series of legal disputes</p><p>Donald Trump has almost succeeded in an insidiously sneaky trick of auto-uncancelli",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/22/on-the-sea-review-fishermen-tale-forbidden-love-helen-walsh"
+      "url": "https://www.theguardian.com/film/2026/jul/22/ask-e-jean-review-carroll-donald-trump"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Thorn Birds is a 2009 musical adaptation of the 1977 novel of the same name by Colleen McCullough.",
+      "body": "The lyrics were written by McCullough herself, the music was composed by Gloria Bruni and it was directed by Michael Bogdanov behind Wales Theatre Company. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Thorn_Birds_Musical"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "Grossaktion Warsaw: The systematic deportation of Jews from the Warsaw ghetto begins.",
-      "body": "The Grossaktion Warsaw was the Nazi code name for the deportation and mass murder of Jews from the Warsaw Ghetto during the summer of 1942, beginning on 22 July. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Umschlagplatz_loading.jpg/330px-Umschlagplatz_loading.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Grossaktion_Warsaw"
+      "opener": "Bet you didn't know —",
+      "hook": "and the inventor of the Nautilus exercise machines, including the Nautilus pullover, which was first sold in 1970.",
+      "body": "Arthur Allen Jones was the founder of Nautilus, Inc. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Arthur_Jones_Portrait.jpg/330px-Arthur_Jones_Portrait.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arthur_Jones_(inventor)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Avengers: Doomsday trailer reveals star-packed Marvel adventure",
+      "body": "<p>The first full look at the big-budget December tentpole features returning heroes such as Chris Hemsworth, Patrick Stewart, Florence Pugh and Chris Evans</p><p>The first full trailer for Avengers: Doomsday has been released online offeri",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/jul/20/avengers-doomsday-trailer"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Venus, Vanishing by Rebecca Birrell review – art, desire and the rise of the Third Reich",
+      "body": "<p>This portrait of a Jewish painter in bohemian Berlin is filled with insightful observations</p><p>In the summer of 1937, two exhibitions sponsored by the Nazis opened in Munich. For the Degenerate Art exhibition, hundreds of confiscated ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/22/venus-vanishing-by-rebecca-birrell-review-art-desire-and-the-rise-of-the-third-reich"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Salvation Boulevard is a 2011 comedy thriller film with religious satire undertones directed by George Ratliff, and starring Pierce Brosnan, Jennifer Connelly, Ed Harris, Greg Kinnear, Marisa Tomei and Jim Gaffigan.",
-      "body": "It is based on the novel of the same name by Larry Beinhart. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Salvation_boulevard_poster.jpg",
+      "hook": "Jack is a novel by the French writer Alphonse Daudet, published by Édouard Dentu in two volumes in 1876.",
+      "body": "It was published in English translation by Mary Neal Sherwood in 1877. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Salvation_Boulevard"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "One of Those Hideous Books Where the Mother Dies (2004) is a novel in verse by Sonya Sones.",
-      "body": "Ruby is taken away from her friends and family, all of which she loves, and is forced to cope in the fake and artificial world of Hollywood. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/78/One_of_Those_Hideous_Books_Where_the_Mother_Dies.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/One_of_Those_Hideous_Books_Where_the_Mother_Dies"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Magic rituals took place in an Australian cave for 25,000 years",
-      "body": "Preserved plant cells show that grasses were brought into Cloggs cave in Australia and burnt over many millennia, revealing the ancient origins of rituals practised by the GunaiKurnai people",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2580559-magic-ceremonies-took-place-in-an-australian-cave-for-25000-years/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "'Play music loud to remember Ozzy' says Sharon on first anniversary of his death",
-      "body": "Sharon Osbourne shares with the BBC her memories and hopes for the future.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lnl9jzgyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Jack_(Daudet_novel)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The MAP75 armoured personnel carrier is a Rhodesian 4x4 heavy troop-carrying vehicle (TCV) first introduced in 1978 based on a Mercedes-Benz truck chassis.",
-      "body": "It remains in use with the Zimbabwe National Army. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/MAP75_armoured_personnel_carrier"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Luis Humberto Crosthwaite is a writer, editor, and journalist whose work has appeared in a variety of international venues.",
-      "body": "His fiction works have garnered critical attention for his ability to express the complexities of living on the US/Mexico border region. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LuisHumbertoCrosthwaite.jpg/330px-LuisHumbertoCrosthwaite.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Luis_Humberto_Crosthwaite"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Rebel Wilson cleared in defamation case brought by actress in her own film",
-      "body": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-      "body": "The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Judge rules Trump must hand over records sought by BBC in defamation case",
-      "body": "The judge grants a motion to compel the release of files held by the Donald J Trump Revocable Trust.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c93487x97kyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1443 —",
-      "hook": "Battle of St. Jakob an der Sihl in the Old Zürich War.",
-      "body": "The Battle of St. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Zuerichkrieg_1444.jpg/330px-Zuerichkrieg_1444.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_St._Jakob_an_der_Sihl"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Meu Pé de Laranja Lima is a novel by José Mauro de Vasconcelos.",
-      "body": "The book was first published in 1968 and was used for literature classes for elementary schools in Brazil. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Meu_P%C3%A9_de_Laranja_Lima"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Eurico, the Presbyter is an 1844 historical novel by Alexandre Herculano.",
-      "body": "Bring it up somewhere. Watch the reaction.",
+      "hook": "(Ken) Clements have researched the history of mathematics education, in the process discovering school worksheets in the Harvard Library that are among the oldest known writings of Abraham Lincoln.",
+      "body": "Nerida Fay Ellerton is an Australian mathematics educator and historian of mathematics. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Eurico%2C_the_Presbyter"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1227 —",
-      "hook": "A coalition of north-east German towns, counts and princes defeats King Valdemar II of Denmark in the Battle of Bornhöved.",
-      "body": "Valdemar II Valdemarsen, later remembered as Valdemar the Victorious and Valdemar the Conqueror, was King of Denmark from 1202 until his death in 1241. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coin_minted_for_king_Valdemar_II_of_Denmark%2C_Valdemar_II_Sejr.jpg/330px-Coin_minted_for_king_Valdemar_II_of_Denmark%2C_Valdemar_II_Sejr.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Valdemar_II_of_Denmark"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1962 —",
-      "hook": "Mariner program: Mariner 1 spacecraft flies erratically several minutes after launch and has to be destroyed.",
-      "body": "The Mariner program was conducted by the American space agency NASA to explore other planets. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Atlas_Agena_with_Mariner_1.jpg/330px-Atlas_Agena_with_Mariner_1.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mariner_program"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1983 —",
-      "hook": "Martial law in Poland is officially revoked.",
-      "body": "Martial law in Poland existed between 13 December 1981 and 22 July 1983. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/T-55A_Martial_law_Poland.jpg/330px-T-55A_Martial_law_Poland.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Martial_law_in_Poland"
+      "url": "https://en.wikipedia.org/wiki/Nerida_Ellerton"
     },
     {
       "type": "card",
@@ -184,6 +126,84 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Peter_the_Hermit.jpg/330px-Peter_the_Hermit.jpg",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/First_Crusade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1587 —",
+      "hook": "Roanoke Colony: A second group of English settlers arrives on Roanoke Island off North Carolina to re-establish the deserted colony.",
+      "body": "The Roanoke Colony was the site of two attempts by Sir Walter Raleigh to found the first permanent English settlement in North America. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/William_Ludwell_Sheppard_%26_William_James_Linton_-_CROATOAN%2C_The_Lost_Colony_%28John_White%29.jpg/330px-William_Ludwell_Sheppard_%26_William_James_Linton_-_CROATOAN%2C_The_Lost_Colony_%28John_White%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Roanoke_Colony"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1706 —",
+      "hook": "The Acts of Union 1707 are agreed upon by commissioners from the Kingdom of England and the Kingdom of Scotland, which, when passed by each country's Parliament, leads to the creation of the Kingdom of Great Britain.",
+      "body": "The Acts of Union refer to two acts of Parliament, one by the Parliament of Scotland in March 1707, followed shortly thereafter by an equivalent act of the Parliament of England. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Coat_of_arms_of_England_%281702%E2%80%931707%29.svg/330px-Coat_of_arms_of_England_%281702%E2%80%931707%29.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Acts_of_Union_1707"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Pinocchio: Unstrung review – public domain slasher turns beloved puppet into sick serial killer",
+      "body": "<p>Like the grisly Winnie-the-Pooh films, the latest in the Twisted Childhood Universe franchise offers feeble satire and shock-free ‘horror’</p><p>The so-called Twisted Childhood Universe, a bad-taste British slasher franchise, continues t",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/22/pinocchio-unstrung-review-twisted-childhood-universe"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Our Forefathers is a series of historical novels by the German writer Gustav Freytag, consisting of eight stories originally published in six volumes by S.",
+      "body": "Hirzel Verlag in 1872–1880. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gustav_Freytag_-_Die_Ahnen_%28Buchdeckel%29_1874.jpg/330px-Gustav_Freytag_-_Die_Ahnen_%28Buchdeckel%29_1874.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Our_Forefathers"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1298 —",
+      "hook": "Wars of Scottish Independence: Battle of Falkirk: King Edward I of England and his longbowmen defeat William Wallace and his Scottish schiltrons outside the town of Falkirk.",
+      "body": "The Scottish wars (1296–1357) were two extended military conflicts in which the Kingdom of England attempted to establish control over the Kingdom of Scotland. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg/330px-Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Wars_of_Scottish_Independence"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "How a singer's chance encounter led to an alien experience in Hollywood",
+      "body": "Winnie Ama couldn't believe her luck when she had the chance to sing her original song in the new Supergirl movie - but there was a catch.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ce34yr1ppw3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Piccadilly Murder is a 1929 mystery detective novel by the British writer Anthony Berkeley.",
+      "body": "Berkeley was a prominent writer during the Golden Age of Detective Fiction, known for his private detective Roger Sheringham series and his development of the inverted detective story. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/58/The_Piccadilly_Murder.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Piccadilly_Murder"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "It has 28 members elected under the mixed electoral system where 60% of members will be elected using first-past-the-post voting and the remaining 40% through closed list proportional representation.",
+      "body": "The Gampaha Municipal Council is the primary administrative body of the Gampaha District of Sri Lanka.. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Emblem_of_Gampaha_Urban_Council_by_Amila_De_Lucy_Designer.svg/330px-Emblem_of_Gampaha_Urban_Council_by_Amila_De_Lucy_Designer.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gampaha_Municipal_Council"
     }
   ]
 }
