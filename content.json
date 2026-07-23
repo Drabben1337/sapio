@@ -1,169 +1,44 @@
 {
-  "generated": "2026-07-23T14:57:42.583Z",
+  "generated": "2026-07-23T16:21:42.399Z",
   "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Seinfeld’s Jason Alexander apologizes to Courtney Stodden for ‘inappropriate’ sketch made when she was a teenager",
-      "body": "<p>The actor, who is one of the writers credited for the Funny or Die sketch, said he was ‘deeply sorry for any harm or distress’ caused by the 2012 skit</p><p>Seinfeld star Jason Alexander has apologized to the model Courtney Stodden for a",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/23/seinfelds-jason-alexander-apologizes-to-courtney-stodden-for-inappropriate-sketch-made-when-she-was-a-teenager"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1829 —",
-      "hook": "In the United States, William Austin Burt patents the typographer, a precursor to the typewriter.",
-      "body": "William Austin Burt was an American inventor, legislator, surveyor, and millwright. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/William_A_Burt_1873.jpg/330px-William_A_Burt_1873.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/William_Austin_Burt"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Leviticus review – queer desire is a deadly curse in haunting horror",
-      "body": "<p><strong>Sundance film festival:</strong> Conversion therapy has gory results in a smart and surprisingly romantic debut feature from Australian writer-director Adrian Chiarella</p><p>Something rather nasty is unfolding in Sundance horror",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/24/leviticus-review"
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Northern Railroad of Guatemala was a railway system that ran from Guatemala City to Puerto Barrios, the main port of Guatemala, between 1896 and 1968.",
+      "body": "The American United Fruit Company had the monopoly of the railway system through its affiliate, International Railways of Central America (IRCA), along with the docks at Puerto Barrios, the banana plantations in Izabal and the cargo and passenger transport wit",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ferrocarril_del_norte4.jpg/330px-Ferrocarril_del_norte4.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northern_Railroad_of_Guatemala"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Smoky is a 1946 American Western film directed by Louis King and starring Fred MacMurray, Anne Baxter and Bruce Cabot.",
-      "body": "The film was produced and distributed by 20th Century Fox. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/Smoky_%281946_film%29.jpg",
+      "opener": "Okay, this one's fun —",
+      "hook": "A Complicated Story is a 2013 Hong Kong drama film directed by Kiwi Chow based on the novel of the same title by Yi Shu.",
+      "body": "The film is headlined by actors Jacky Cheung, Jacqueline Zhu, Stephanie Che, and Zi Yi. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b9/AComplicatedStory.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Smoky_(1946_film)"
+      "url": "https://en.wikipedia.org/wiki/A_Complicated_Story"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Children’s literature festival criticised after requests that comments on diversity be deleted",
-      "body": "<p>John McLay, one of the founders of the festival in Bath, contacted writers who had noted a lack of diversity in the programme to request they remove comments posted to social media</p><p><a href=\"https://bathfestivals.org.uk/childrens-li",
+      "hook": "The Midnight Train by Matt Haig audiobook review – a cosy, feelgood journey",
+      "body": "<p>Actor James Norton brings a sense of gentle longing to this tale of an octogenarian looking back on the life he’s departed</p><p>The latest novel from the Reasons to Stay Alive author Matt Haig begins with an octogenarian man having a he",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/23/bath-childrens-literature-festival-requests-lack-of-diversity-comments-removed"
+      "url": "https://www.theguardian.com/books/2026/jul/23/the-midnight-train-by-matt-haig-audiobook-review-a-cosy-feelgood-journey"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "A grief therapist told me I should live to honor my son. How would I do that?",
-      "body": "<p>After my 22-month-old child died, music and poetry brought catharsis and comfort</p><p>The day Renzo had his aneurysm, in the afternoon before it happened, I distinctly remember telling him that it was going to be a pleasure to watch him",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/23/matthew-schnipper-rise-above-grief"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1995 —",
-      "hook": "Comet Hale–Bopp is discovered; it becomes visible to the naked eye on Earth nearly a year later.",
-      "body": "Comet Hale–Bopp is a long-period comet that was one of the most widely observed of the 20th century and one of the brightest seen for many decades. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/330px-Comet_Hale-Bopp_1995O1.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1862 —",
-      "hook": "Begin of the Hyde Park Riots.",
-      "body": "The Reform League was established in 1865 to press for manhood suffrage and the ballot in Great Britain. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Reform_League"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Servants of the Empire is a young reader science fiction novel series by Jason Fry.",
-      "body": "Set in the Star Wars universe, the novels are affiliated with the television series Star Wars Rebels and follow the Rebels character Zare Leonis. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/64/Servants-Edge_of_the_Galaxy.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Servants_of_the_Empire"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "The end of Heartstopper is a bittersweet loss – it’s never felt scarier to be young and queer | Alim Kheraj",
-      "body": "<p>The gay Netflix romance maintained a political edge despite rollbacks to queer and trans rights</p><p>After six books, three seasons of television and a <a href=\"https://www.theguardian.com/film/2026/jul/17/heartstopper-forever-movie-rev",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/23/heartstopper-netflix-end"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1962 —",
-      "hook": "The International Agreement on the Neutrality of Laos is signed.",
-      "body": "The International Agreement on the Neutrality of Laos was an international agreement signed in Geneva on July 23, 1962, between 14 states, including Laos, as a result of the International Conference on the Settlement of the Laotian Question, which lasted from May 16, 1961, to July 23, 1962. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/International_Agreement_on_the_Neutrality_of_Laos"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Pompeii: Out of Time With Tom Hiddleston review – you will cringe so hard you turn to cheese",
-      "body": "<p>The actor emotes his way through Vesuvius’s catastrophic eruption in a docudrama that is embarrassing and exhausting – but undeniably entertaining. Prepare to be Hiddlestoned!</p><p>There’s such a fine line between “cheese” and “cringe”,",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/23/pompeii-out-of-time-with-tom-hiddleston-review"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Serpentine Assassin is the second of the short series of fast-paced, action-based adventure of Agent 13: The Midnight Avenger, written by Flint Dille and David Marconi in a style reminiscent of popular 1930s pulps.",
-      "body": "It picked up directly from the story where the previous book, The Invisible Empire, ended. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/Agent_13_Serpentine_Assassin.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Agent_13%3A_The_Serpentine_Assassin"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Dragon in the Sea (1956), also known as Under Pressure from its serialization, is a novel by Frank Herbert.",
-      "body": "It was first serialized in Astounding magazine from 1955 to 1956, then reworked and published as a standalone novel in 1956. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cf/The_Dragon_in_the_Sea.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Dragon_in_the_Sea"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The City We Became is a 2020 urban fantasy novel by American writer N.",
-      "body": "It was developed from her short story \"The City Born Great,” first published in her collection How Long 'til Black Future Month? One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/The_City_We_Became.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_City_We_Became"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Saxophonist Plas Johnson, known for solo on The Pink Panther Theme, dies aged 94",
-      "body": "<p>Jazz saxophonist – who recorded with artists Frank Sinatra, BB King and more – died in Los Angeles, reports say</p><p>The US jazz saxophonist Plas Johnson, best known for his solo riff on the timeless classic The <a href=\"https://www.the",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/plas-johnson-saxophonist-dead"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1980 —",
-      "hook": "Phạm Tuân becomes the first Vietnamese citizen and the first Asian in space when he flies aboard the Soyuz 37 mission as an Intercosmos Research Cosmonaut.",
-      "body": "Phạm Tuân is a retired Vietnamese Air Force fighter pilot and cosmonaut. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ph%E1%BA%A1m_Tu%C3%A2n_.JPG/330px-Ph%E1%BA%A1m_Tu%C3%A2n_.JPG",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Tu%C3%A2n"
+      "opener": "New Scientist —",
+      "hook": "Can sounds make plants grow bigger? A start-up says they can",
+      "body": "Haivya has developed acoustic signals designed to influence plant development, and its trials reportedly show large yield increases in soybean, pepper and cannabis crops",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2581022-can-sounds-make-plants-grow-bigger-a-start-up-says-they-can/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
@@ -174,6 +49,131 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rivista_italiana_di_numismatica_1891_p_189.jpg/330px-Rivista_italiana_di_numismatica_1891_p_189.jpg",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Pope_John_V"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1914 —",
+      "hook": "July Crisis: Austria-Hungary issues a series of demands in an ultimatum to the Kingdom of Serbia demanding Serbia to allow the Austrians to determine who assassinated Archduke Franz Ferdinand. Serbia accepts all but one of those demands and Austria declares war on July 28.",
+      "body": "The July Crisis was a series of interrelated diplomatic and military escalations among the major powers of Europe in mid-1914, which led to the outbreak of World War I. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Der_St%C3%A4nker.png/330px-Der_St%C3%A4nker.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/July_Crisis"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The roaring 20s: how the current decade revolutionised cinema",
+      "body": "<p>Pre-Covid, the movie landscape was dramatically different: YouTubers weren’t dominating the box office, video game spin-offs rarely made an impact and Winnie-the-Pooh wasn’t yet the star of a slasher movie. Why such a flurry of innovatio",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "John Acton Wroth (1830–1876) was a convict transportee to the Swan River Colony, and later a clerk and storekeeper in Toodyay, Western Australia.",
+      "body": "He kept a personal diary that recorded life on board the transport ship and his experiences at the country hiring depots of York and Toodyay. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/John_Acton_Wroth.jpg/330px-John_Acton_Wroth.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Acton_Wroth"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Fatboy Slim helps to save 'lifeblood' music venue",
+      "body": "The DJ is among investors including Andy Burnham helping to buy the Brighton home of The Pipeline.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cevmgv9g77do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1992 —",
+      "hook": "A Vatican commission, led by Cardinal Joseph Ratzinger, establishes that limiting certain rights of homosexual people and non-married couples is not equivalent to discrimination on grounds of race or gender.",
+      "body": "The Catholic Church, also called the Roman Catholic Church, is the largest Christian church, with an estimated 1.28 to 1.41 billion baptized members worldwide as of 2026. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/330px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Catholic_Church"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Murdoch and Musk in the crosshairs at Venice film festival",
+      "body": "<p>Danny Boyle’s drama about the acquisition of the Sun and a four-hour Elon Musk documentary will premiere alongside new films from Martin McDonagh and Werner Herzog – but only one female director has a movie in competition</p><p>The Venic",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/23/venice-film-festival-lineup-2026-danny-boyle"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The General Electric Building, also known as 570 Lexington Avenue, is a skyscraper at the southwestern corner of Lexington Avenue and 51st Street in Midtown Manhattan, New York City.",
+      "body": "The building, designed by Cross & Cross and completed in 1931, was known as the RCA Victor Building during its construction. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/General_Electric_Building_570_Lexington.jpg/330px-General_Electric_Building_570_Lexington.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Electric_Building"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1906 —",
+      "hook": "The Amsden Building collapse in Framingham, Massachusetts, U.S., claims 12 lives.",
+      "body": "The Amsden Building collapse occurred on July 23, 1906, in Framingham, Massachusetts. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Amsden_Building_collapse.jpg/330px-Amsden_Building_collapse.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Amsden_Building_collapse"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1903 —",
+      "hook": "The Ford Motor Company sells its first car.",
+      "body": "The Ford Motor Company is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/330px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ford_Motor_Company"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1319 —",
+      "hook": "A Knights Hospitaller fleet scores a crushing victory over an Aydinid fleet off Chios.",
+      "body": "The Order of Knights of the Hospital of Saint John of Jerusalem, commonly known as the Knights Hospitaller, is a Catholic military order. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat_of_arms_of_the_Knights_Hospitaller.svg/330px-Coat_of_arms_of_the_Knights_Hospitaller.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Knights_Hospitaller"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Autobiography of a Family Photo is a 1995 book by Jacqueline Woodson.",
+      "body": "The book covers childhood, the growth of dark emotional and sexual tension, and the terrors of war. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cb/Autobiography_of_a_Family_Photo_-_Woodson.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Autobiography_of_a_Family_Photo"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Extremely basic AI prompt cracks decades-old maths problem",
+      "body": "For the second time in a week, a long-standing conjecture has been disproved by artificial intelligence, highlighting the advanced mathematical capabilities of ChatGPT and its ilk",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2580932-extremely-basic-ai-prompt-cracks-decades-old-maths-problem/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Six talking points from the Venice 2026 lineup: Studios and female directors go missing",
+      "body": "In Competition, just one title out of 20 is directed by a woman.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/features/six-talking-points-from-the-venice-2026-lineup-studios-and-female-directors-go-missing/5218857.article"
     }
   ]
 }
