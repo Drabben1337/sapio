@@ -1,26 +1,103 @@
 {
-  "generated": "2026-07-23T18:04:36.167Z",
-  "count": 14,
+  "generated": "2026-07-23T20:04:58.301Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "He has performed as a concert guitarist and as soloist with orchestras at international music festivals and venues including Carnegie Hall and the 92nd St.",
-      "body": "David Leisner is an American classical guitarist, composer and teacher whose activities include recording, arranging and writing about music. Bring it up somewhere. Watch the reaction.",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Geometry of quantum systems is mainly phrased in algebraic terms of modules and algebras.",
+      "body": "Connections on modules are generalization of a linear connection on a smooth vector bundle written as a Koszul connection on the -module of sections of . Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/David_Leisner"
+      "url": "https://en.wikipedia.org/wiki/Connection_(algebraic_framework)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Watch the total solar eclipse with ESA in León",
+      "body": "Discover the science behind one of nature's most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the University of León.",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon"
     },
     {
       "type": "card",
       "cat": "history",
+      "opener": "On this day in 1952 —",
+      "hook": "General Muhammad Naguib leads the Free Officers Movement (formed by Gamal Abdel Nasser, the real power behind the coup) in overthrowing King Farouk of Egypt.",
+      "body": "Major General Mohamed Bey Naguib Youssef Qutb El-Qashlan, known simply as Mohamed Naguib, was a Sudanese-born Egyptian military officer and revolutionary who, along with Gamal Abdel Nasser, was one of the two principal leaders of the Free Officers movement of 1952 that toppled the monarchy of Egypt and the Sudan, leading to the establishment of the Republic of Egypt. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Muhammad_Naguib.jpg/330px-Muhammad_Naguib.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mohamed_Naguib"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
+      "body": "Jason Alexander said he \"truly regrets\" the Funny Or Die sketch he appeared in with Courtney Stodden.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cz64pn37138o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1967 —",
+      "hook": "Detroit Riots: In Detroit, one of the worst riots in United States history begins on 12th Street in the predominantly African American inner city. It ultimately kills 43 people, injures 342 and burns about 1,400 buildings.",
+      "body": "The 1967 Detroit riot, also known as the 12th Street Riot and the Detroit Uprising, was the bloodiest of the urban riots in the United States during the \"long, hot summer of 1967\". The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Detroit_1967.jpg/330px-Detroit_1967.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1967_Detroit_riot"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2001 —",
+      "hook": "Megawati Sukarnoputri was sworn in as the first female president of Indonesia following her predecessor's impeachment.",
+      "body": "Diah Permata Megawati Setiawati Sukarnoputri is an Indonesian politician who served as the fifth president of Indonesia from 2001 to 2004 and the eighth vice president under President Abdurrahman Wahid from 1999 to 2001. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/President_Megawati_Sukarnoputri_-_Indonesia.jpg/330px-President_Megawati_Sukarnoputri_-_Indonesia.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Megawati_Sukarnoputri"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "The 272-metre (892 ft) long ship was built at Daewoo Shipbuilding & Marine Engineering in Okpo, South Korea in 2004/2005.",
-      "body": "Monte Sarmiento is a container ship owned and operated by Aliança Navegação, a subsidiary of A.P. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Monte_Sarmiento_%28ship%2C_2005%29_002.jpg/330px-Monte_Sarmiento_%28ship%2C_2005%29_002.jpg",
+      "hook": "Dracula 3D is a 2012 vampire horror film directed by Dario Argento from a screenplay he wrote with Enrique Cerezo, Stefano Piani, and Stefano Piani.",
+      "body": "It stars Thomas Kretschmann as Count Dracula, alongside Marta Gastini, Asia Argento, Unax Ugalde, Miriam Giovanelli, and Rutger Hauer. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e8/Dracula-3D-poster.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Monte_Sarmiento_(ship)"
+      "url": "https://en.wikipedia.org/wiki/Dracula_3D"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "The Odyssey film fans inspired to go back to the source",
+      "body": "Book sales and audiobook figures for Homer's original poem rise sharply after the film's release.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cp9en982n3do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1903 —",
+      "hook": "The Ford Motor Company sells its first car.",
+      "body": "The Ford Motor Company is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/330px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ford_Motor_Company"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1942 —",
+      "hook": "Bulgarian poet and communist activist Nikola Vaptsarov is executed by firing squad.",
+      "body": "Bulgaria, officially the Republic of Bulgaria, is a country in Southeastern Europe. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/330px-Flag_of_Bulgaria.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bulgaria"
     },
     {
       "type": "card",
@@ -33,45 +110,6 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Lectionary 154, designated by siglum ℓ 154 is a Greek manuscript of the New Testament, on parchment leaves.",
-      "body": "Palaeographically it has been assigned to the 13th century. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lectionary_154"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
-      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Kōkichi Nishimura was a Japanese soldier and businessman who devoted his post-retirement years to traveling to Papua New Guinea to recover the remains of his former comrades and other Japanese soldiers who died during World War II.",
-      "body": "His life was described in the 2008 book The Bone Man of Kokoda by Australian journalist Charles Happell. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kokichi_Nishimura"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Albian Hajdari is a professional footballer who plays as a defender for German Bundesliga club TSG Hoffenheim.",
-      "body": "Born in Switzerland, he represented that nation at youth and senior international levels, before switching to play for the Kosovo national team in 2025. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Albian_Hajdari"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
       "hook": "Air by Christian Kracht review – a metaphysical jigsaw puzzle",
@@ -81,50 +119,52 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "\"Fallin' In Love\" is a song by American music trio Hamilton, Joe Frank & Reynolds.",
+      "body": "It was written by band member Dan Hamilton and featured on the trio's third studio album by the same name (1975). Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/78/Fallin%27_in_Love_-_Hamilton%2C_Joe_Frank_%26_Reynolds.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fallin'_in_Love_(Hamilton%2C_Joe_Frank_%26_Reynolds_song)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Noor Aishah binti Mohammad Salim, commonly known as Puan Noor Aishah, was the wife of Yusof Ishak, the first president of Singapore.",
-      "body": "She took the role as First Lady of Singapore between 1965 and 1970. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/db/Noor_Aishah.jpg",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Lancaster University is a collegiate public research university in Lancaster, Lancashire, England.",
+      "body": "The university was established in 1964 by royal charter, as one of several new universities created in the 1960s. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/University_of_Lancaster_shield.svg/330px-University_of_Lancaster_shield.svg.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Puan_Noor_Aishah"
+      "url": "https://en.wikipedia.org/wiki/Lancaster_University"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 685 —",
+      "hook": "The election of Pope John V following the death of Pope Benedict II two months prior.",
+      "body": "Pope John V was the bishop of Rome from 23 July 685 to his death on 2 August 686. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rivista_italiana_di_numismatica_1891_p_189.jpg/330px-Rivista_italiana_di_numismatica_1891_p_189.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pope_John_V"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The AACTA International Award for Best Actor is an award that is presented by the Australian Academy of Cinema and Television Arts (AACTA), for a performance by a male actor in a film made outside Australia.",
-      "body": "It was first handed out by the Academy after its establishment in 2011 by the Australian Film Institute (AFI), to replace the AFI International Award for Best Actor (2005–2010). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Timoth%C3%A9e_Chalamet_2025_2_%28cropped%29.jpg/330px-Timoth%C3%A9e_Chalamet_2025_2_%28cropped%29.jpg",
+      "opener": "Bet you didn't know —",
+      "hook": "Christopher James Adler is an American musician, best known as a founding member and the longtime drummer of heavy metal band Lamb of God from 1994 to 2019.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2015_RiP_Lamb_of_God_-_Chris_Adler_by_2eight_-_3SC5483.jpg/330px-2015_RiP_Lamb_of_God_-_Chris_Adler_by_2eight_-_3SC5483.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/AACTA_International_Award_for_Best_Actor"
+      "url": "https://en.wikipedia.org/wiki/Chris_Adler"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Venus, Vanishing by Rebecca Birrell review – art, desire and the rise of the Third Reich",
-      "body": "<p>This portrait of a Jewish painter in bohemian Berlin is filled with insightful observations</p><p>In the summer of 1937, two exhibitions sponsored by the Nazis opened in Munich. For the Degenerate Art exhibition, hundreds of confiscated ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/22/venus-vanishing-by-rebecca-birrell-review-art-desire-and-the-rise-of-the-third-reich"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Seth Meyers on Trump’s approval ratings: ‘Worse than Bush during the Iraq war’",
-      "body": "<p>Late-night host discussed Trump’s claims of a rigged 2020 election, push for voting changes and new Canadian tariffs</p><p>Last night, <a href=\"https://www.theguardian.com/tv-and-radio/seth-meyers\">Seth Meyers</a> focused on <a href=\"htt",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/jul/23/seth-meyers-trump-approval-ratings-2020-election"
+      "opener": "The Guardian · Film —",
+      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
+      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
     },
     {
       "type": "card",
