@@ -1,72 +1,16 @@
 {
-  "generated": "2026-07-24T04:56:17.429Z",
+  "generated": "2026-07-24T07:25:23.665Z",
   "count": 13,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "The Odyssey film fans inspired to go back to the source",
-      "body": "Book sales and audiobook figures for Homer's original poem rise sharply after the film's release.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cp9en982n3do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Point of Contact is a techno-thriller novel, written by Mike Maden and released on June 13, 2017.",
-      "body": "It is his first book in the Jack Ryan Jr. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Point_of_Contact_%28novel%29.jpg",
+      "opener": "Bet you didn't know —",
+      "hook": "The New Mutants are a group of mutant superheroes appearing in American comic books published by Marvel Comics, generally in association with the X-Men.",
+      "body": "Originally depicted as the teenaged junior class at the Xavier Institute, subsequent stories have depicted the characters as adult superheroes or as teachers and mentors to younger mutants. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/New_Mutants.jpg/330px-New_Mutants.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Point_of_Contact_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Hollows is a series of urban fantasy novels by Kim Harrison, originally published by HarperCollins Publishers and by Ace Books since 2020.",
-      "body": "The series includes 18 novels, numerous novellas and short stories, two graphic novels, and one compendium resource; a 19th novel, Absolute Demon, is forthcoming in 2027. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Dead_Witch_Walking_cover.jpg/330px-Dead_Witch_Walking_cover.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hollows_(series)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Watch the total solar eclipse with ESA in León",
-      "body": "Discover the science behind one of nature's most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the University of León.",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "BFI reveals next director of Filmmaking Funds",
-      "body": "New director will take over from Mia Bays in October.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/bfi-reveals-next-director-of-filmmaking-funds/5218835.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Former River City actor Iain Robertson jailed for nine years for rape",
-      "body": "The 45-year-old, played Stevie O'Hara in the BBC soap, was convicted of five offences against the women between 2004 and 2019.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5z9g35zpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Net is a 1975 West German drama film directed by Manfred Purzer and starring Mel Ferrer.",
-      "body": "It is based on the novel The Poisoned Stream by Hans Habe. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/91/The_Net_%281975_film%29.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Net_(1975_film)"
+      "url": "https://en.wikipedia.org/wiki/New_Mutants"
     },
     {
       "type": "card",
@@ -79,13 +23,22 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Kalpatta Narayanan is an Indian novelist, short story writer, essayist, columnist, and a poet of Malayalam literature.",
-      "body": "He is known for his novel, Ithramathram and a number of poetry anthologies and other literary contributions. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kalpetta_Narayanan1.JPG/330px-Kalpetta_Narayanan1.JPG",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "It was an integral part of the Donbas–Rostov Strategic Defensive Operation.",
+      "body": "The Donbas Operation was a frontline defensive operation of the Soviet Red Army in the territory of Donbas on the Eastern Front of the Second World War in Europe. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kalpatta_Narayanan"
+      "url": "https://en.wikipedia.org/wiki/Donbas_operation_(1941)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Unsayable by Michael Cunningham review – The Hours author on the insecurities that powered his creative life",
+      "body": "<p>The American novelist and screenwriter’s memoir covers sex work, Virginia Woolf and Hollywood success</p><p>As an eight-year-old in comfortable, solid, suburban California, Michael Cunningham felt compelled to make art before he quite un",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/24/unsayable-by-michael-cunningham-review-the-hours-author-on-the-insecurities-that-powered-his-creative-life"
     },
     {
       "type": "card",
@@ -98,32 +51,79 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "haliana is the only arboreal skink in Sri Lanka.",
-      "body": "The Haly's tree skink is a species of lizard in the family Scincidae. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Aleksei Sergeyevich Suvorin was a Russian newspaper and book publisher and journalist whose publishing empire wielded considerable influence during the last decades of the Russian Empire.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Kramskoy_Aleksej_Suvorin.JPG/330px-Kramskoy_Aleksej_Suvorin.JPG",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dasia_haliana"
+      "url": "https://en.wikipedia.org/wiki/Aleksey_Suvorin"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "BFI reveals next director of Filmmaking Funds",
+      "body": "New director will take over from Mia Bays in October.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/bfi-reveals-next-director-of-filmmaking-funds/5218835.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Toldos Aharon is a devout, insular, fervently anti-Zionist ultra orthodox Hasidic dynasty.",
+      "body": "The group is characterized by extreme conservatism and a desire to preserve the life of the old Yishuv in Jerusalem, in sharp opposition to Zionism, in a strict Haredi way of life, in a special style of clothing, and in an emphasis on prayer at a moderate pace",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Aharon_Roth.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Toldos_Aharon"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Red Kiss – guiding vampires through a blood-soaked cold war Berlin",
+      "body": "<p>Inspired by interactive theatre and fuelled by the motion capture tech used by VTubers, the vampire spies in Red Kiss have personality in spades</p><p>‘You look at the news and you’re like, ‘Another pointless war, another pointless blood",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/games/2026/jul/22/red-kiss-guiding-vampires-through-a-blood-soaked-cold-war-berlin"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "BBC's Fake or Fortune uncovers 'enormously important' painting worth £100,000",
+      "body": "The painting by the 18th Century Scottish artist Katherine Read is thought to be worth more than £100,000.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cvgxejg9evjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Queen Millennia is a Japanese manga series written and illustrated by Leiji Matsumoto which was serialized from 28 January 1980 through 11 May 1983 in both the Sankei Shimbun and Nishinippon Sports newspapers.",
-      "body": "The manga series was adapted into a 42-episode anime television series by Toei Animation and broadcast on Fuji Television and its affiliates from 16 April 1981 through 25 March 1982. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Shin_Taketori_Monogatari_-_Sennen_Jo%C5%8D_manga_covers.png",
+      "hook": "Isidro Corbinos Pantoque was a Spanish footballer who played as a midfielder for FC Barcelona in the mid-1910s.",
+      "body": "He later worked as a sports journalist for several Spanish newspapers, including Mundo Deportivo and La Vanguardia. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Queen_Millennia"
+      "url": "https://en.wikipedia.org/wiki/Isidro_Corbinos"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Archibald Thorburn FZS was a Scottish artist who specialised in wildlife, painting mostly in watercolour.",
+      "body": "He explored Scotland to sketch birds in the wild, his favourite haunt being the Forest of Gaick near Kingussie in Inverness-shire. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Archibald_Thorburn06.png/330px-Archibald_Thorburn06.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Archibald_Thorburn"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
-      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
+      "opener": "BBC Entertainment —",
+      "hook": "Former River City actor Iain Robertson jailed for nine years for rape",
+      "body": "The 45-year-old, played Stevie O'Hara in the BBC soap, was convicted of five offences against the women between 2004 and 2019.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5z9g35zpo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
