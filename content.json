@@ -1,52 +1,46 @@
 {
-  "generated": "2026-07-25T18:44:13.268Z",
-  "count": 16,
+  "generated": "2026-07-25T20:02:17.952Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "BFI reveals next director of Filmmaking Funds",
-      "body": "New director will take over from Mia Bays in October.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/bfi-reveals-next-director-of-filmmaking-funds/5218835.article"
+      "cat": "history",
+      "opener": "On this day in 1538 —",
+      "hook": "The city of Guayaquil is founded by the Spanish Conquistador Francisco de Orellana and given the name Muy Noble y Muy Leal Ciudad de Santiago de Guayaquil.",
+      "body": "Guayaquil, officially Santiago de Guayaquil, is the largest city in Ecuador and also the nation's economic capital and main port. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Faro_de_Guayaquil.jpg/330px-Faro_de_Guayaquil.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Guayaquil"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The perfect books for the beach … picked by Freida McFadden, Mick Herron, Robert Harris and more",
-      "body": "<p>From a transporting historical saga to a tale of small-town betrayal, the authors of our favourite page-turners reveal the books they take on holiday – introduced by Jenny Colgan</p><p>It<strong> </strong>is important to follow a balance",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/25/the-perfect-books-for-the-beach-picked-by-freida-mcfadden-mick-herron-robert-harris-and-more"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘People who commit heinous crimes can be victims’: Michael Mann on the provocative power of Manhunter at 40",
-      "body": "<p>As a stunning 4K restoration arrives in theaters, the director and cast reflect on creating the disturbing descent into a criminal underworld</p><p><a href=\"https://www.theguardian.com/film/michael-mann\">Michael Mann</a> has shown time a",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Decoding Charli XCX's new album, Music, Fashion, Film",
-      "body": "The star's new album strips away artifice to examine her life after the phenomenal success of Brat.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c151zp1p4qyo?at_medium=RSS&at_campaign=rss"
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Neo Gōmanism Manifesto Special – On War is a controversial manga series written by right-wing Japanese manga artist Yoshinori Kobayashi.",
+      "body": "It was published in a series of three volumes by Gentosha as a supplement to the Neo Gōmanism series serialized in SAPIO magazine from September 1995 onwards. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/62/Shin_G%C5%8Dmanism_v1_cover.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neo_G%C5%8Dmanism_Manifesto_Special_%E2%80%93_On_War"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The church was declared a historical monument in 1951.",
-      "body": "The Church of San Pedro de Atacama is a Catholic church in San Pedro de Atacama, Chile. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Iglesia_de_San_Pedro_de_Atacama_01.JPG/330px-Iglesia_de_San_Pedro_de_Atacama_01.JPG",
+      "opener": "Okay, this one's fun —",
+      "hook": "Before and after the election of Barack Obama as the first African American president of the United States in 2008, the idea of a Black president has been explored by various writers in novels, films and television, as well as other media.",
+      "body": "Numerous actors have portrayed a Black president. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Church_of_San_Pedro_de_Atacama"
+      "url": "https://en.wikipedia.org/wiki/African-American_presidents_of_the_United_States_in_popular_culture"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1591 —",
+      "hook": "The Duke of Parma is defeated near the Dutch city of Nijmegen by an Anglo-Dutch force led by Maurice of Orange.",
+      "body": "Alexander Farnese was an Italian noble and military leader, who was Duke of Parma, Piacenza and Castro from 1586 to 1592, as well as Governor of the Spanish Netherlands from 1578 to 1592. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vaenius_-_Alexander_Farnese.png/330px-Vaenius_-_Alexander_Farnese.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Farnese%2C_Duke_of_Parma"
     },
     {
       "type": "card",
@@ -59,13 +53,71 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Please Please Me is the debut studio album by English rock band the Beatles.",
-      "body": "Produced by George Martin, it was released in the United Kingdom on EMI's Parlophone label on 22 March 1963. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/2e/Please_Please_Me.png",
+      "cat": "history",
+      "opener": "On this day in 1866 —",
+      "hook": "The United States Congress passes legislation authorizing the rank of General of the Army. Lieutenant General Ulysses S. Grant becomes the first to be promoted to this rank.",
+      "body": "Military ranks are a system of hierarchical relationships within armed forces, police, intelligence agencies and other institutions organized along military lines. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/330px-Gari-Melchers-War-Highsmith.jpeg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Military_rank"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1979 —",
+      "hook": "In accord with the Egypt–Israel peace treaty, Israel begins its withdrawal from the Sinai Peninsula.",
+      "body": "The Egypt–Israel peace treaty was signed in Washington, D.C., United States, on 26 March 1979, following the 1978 Camp David Accords. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flickr_-_Government_Press_Office_%28GPO%29_-_THE_TRIPLE_HANDSHAKE_IN_THE_PEACE_TREATY_SIGNING_BETWEEN_ISRAEL_AND_EGYPT.jpg/330px-Flickr_-_Government_Press_Office_%28GPO%29_-_THE_TRIPLE_HANDSHAKE_IN_THE_PEACE_TREATY_SIGNING_BETWEEN_ISRAEL_AND_EGYPT.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Egypt%E2%80%93Israel_peace_treaty"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "It was built between 2003 and 2012, and was consecrated by Cardinal Angelo Sodano on September 9, 2012.",
+      "body": "The Cathedral of Our Lady of Fatima is a Catholic cathedral in neo-Gothic style. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0%2C_%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%94%D0%B5%D0%B2%D1%8B_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_%D0%A4%D0%B0%D1%82%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9.jpg/330px-%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0%2C_%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%94%D0%B5%D0%B2%D1%8B_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_%D0%A4%D0%B0%D1%82%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Please_Please_Me"
+      "url": "https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_of_Fatima%2C_Karaganda"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Son of Woman is a postcolonial crime fiction novel by Kenyan writer Charles Mangua, first published in Nairobi, Kenya.",
+      "body": "It follows Dodge Kiunya, a character that is \"returning to a homeland….using an available asset to begin a new career;\" a character and story that resonates with the larger population. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Son_of_Woman"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "BFI reveals next director of Filmmaking Funds",
+      "body": "New director will take over from Mia Bays in October.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/bfi-reveals-next-director-of-filmmaking-funds/5218835.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Barbara Luisi is a German photographer and musician.",
+      "body": "After many years in New York City, she now lives and works in Vienna, Austria, and Venice, Italy. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Barbara_Luisi.jpg/330px-Barbara_Luisi.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Barbara_Luisi"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Decoding Charli XCX's new album, Music, Fashion, Film",
+      "body": "The star's new album strips away artifice to examine her life after the phenomenal success of Brat.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c151zp1p4qyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -78,23 +130,13 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The \"Dirty Tricks\" scandal was a series of concerted campaigns by British Airways (BA) in the 1990s seeking to undermine their rival, Virgin Atlantic.",
-      "body": "Concerned by the prospect of an upcoming challenger, Lord King, Chairman of British Airways, told his chief executive \"do something about Branson\". One of those things you can't un-know.",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Metalcore is a broadly defined music genre combining elements of heavy metal and hardcore punk, originating in the 1990s United States and becoming popular in the 2000s.",
+      "body": "Metalcore typically has aggressive verses and melodic choruses, combined with slow, intense passages called breakdowns. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dirty_Tricks_(scandal)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "1 Kings 20 is the 20th chapter of the Books of Kings in the Hebrew Bible or the First Book of Kings in the Old Testament of the Christian Bible.",
-      "body": "The book is a compilation of various annals recording the acts of the kings of Israel and Judah by a Deuteronomic compiler in the seventh century BCE, with a supplement added in the sixth century BCE. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Leningrad-codex-09-kings.pdf/page1-330px-Leningrad-codex-09-kings.pdf.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1_Kings_20"
+      "url": "https://en.wikipedia.org/wiki/Metalcore"
     },
     {
       "type": "card",
@@ -108,52 +150,50 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The 1940 college football season was the 72nd season of intercollegiate football in the United States.",
-      "body": "Competition included schools from the Big Ten Conference, the Pacific Coast Conference (PCC), the Southeastern Conference (SEC), the Big Six Conference, the Southern Conference, the Southwestern Conference, and numerous smaller conferences and independent prog",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kenan_Memorial_Stadium_1940.jpg/330px-Kenan_Memorial_Stadium_1940.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1940_college_football_season"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Luke Jacobs is an English professional wrestler working for the British promotions Revolution Pro Wrestling (RevPro) and Progress Wrestling.",
-      "body": "In RevPro, he is a former Undisputed British Heavyweight Champion, and a former Undisputed British Cruiserweight Champion; and in Progress, a former Progress Atlas Champion and the former one-time PROGRESS World Champion. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Luke_Jacobs_in_April_2025.jpg/330px-Luke_Jacobs_in_April_2025.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Luke_Jacobs"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "On February 22, 2024, Laken Riley, a 22-year-old Augusta University nursing student, was attacked and murdered while she was jogging at the University of Georgia (UGA) in Athens, Georgia, United States.",
-      "body": "Her body was found in Oconee Forest Park near Lake Herrick; her death was caused by blunt force trauma and asphyxiation. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/db/Laken_Riley_American_Murder_Victim.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Murder_of_Laken_Riley"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "He played college football for the Wyoming Cowboys and was selected by the Washington Redskins in the sixth round of the 2017 NFL draft.",
-      "body": "Chase Roullier is an American former professional football player who was a center for six seasons in the National Football League (NFL). One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chase_Roullier_WFT_vs_Cowboys_OCT2020_%28cropped%29.jpg/330px-Chase_Roullier_WFT_vs_Cowboys_OCT2020_%28cropped%29.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chase_Roullier"
-    },
-    {
-      "type": "card",
-      "cat": "history",
       "opener": "File under 'wait, really?' —",
-      "hook": "Organized mainly by Michele Bokobza, this event gathered around 3000 people: Jews, Spaniards and other noteworthy personalities like Queen Sophia of Spain.",
-      "body": "By My Spirit was a worldwide gathering that occurred in Toledo, Spain on May 3 and 4 of 1992. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "Ahli Shirazi, full name Muhammad ibn Yusuf Ahli Shirazi, was a Persian poet who lived in Shiraz, Iran, from circa 1454 to 1535.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sheikh_Muhammad_Ahli_Shirazi_%28d._1535%29%3B_diwan%2C_signed_Mohammad_Mir_Miram_ibn_Mahmud_%27Imad%2C_Safavid_Iran%2C_dated_1581-82.jpg/330px-Sheikh_Muhammad_Ahli_Shirazi_%28d._1535%29%3B_diwan%2C_signed_Mohammad_Mir_Miram_ibn_Mahmud_%27Imad%2C_Safavid_Iran%2C_dated_1581-82.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/By_My_Spirit"
+      "url": "https://en.wikipedia.org/wiki/Ahli_Shirazi"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The perfect books for the beach … picked by Freida McFadden, Mick Herron, Robert Harris and more",
+      "body": "<p>From a transporting historical saga to a tale of small-town betrayal, the authors of our favourite page-turners reveal the books they take on holiday – introduced by Jenny Colgan</p><p>It<strong> </strong>is important to follow a balance",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/25/the-perfect-books-for-the-beach-picked-by-freida-mcfadden-mick-herron-robert-harris-and-more"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1917 —",
+      "hook": "Sir Robert Borden introduces the first income tax in Canada as a \"temporary\" measure (lowest bracket is 4% and highest is 25%).",
+      "body": "Sir Robert Laird Borden was a Canadian lawyer and politician who served as the eighth prime minister of Canada from 1911 to 1920. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sir_Robert_Borden%2C_in_the_1910%E2%80%99s_Sir_Robert_Borden%2C_dans_les_ann%C3%A9es_1910_%287196134714%29.jpg/330px-Sir_Robert_Borden%2C_in_the_1910%E2%80%99s_Sir_Robert_Borden%2C_dans_les_ann%C3%A9es_1910_%287196134714%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Robert_Borden"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘People who commit heinous crimes can be victims’: Michael Mann on the provocative power of Manhunter at 40",
+      "body": "<p>As a stunning 4K restoration arrives in theaters, the director and cast reflect on creating the disturbing descent into a criminal underworld</p><p><a href=\"https://www.theguardian.com/film/michael-mann\">Michael Mann</a> has shown time a",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1978 —",
+      "hook": "Puerto Rican police shoot two nationalists in the Cerro Maravilla murders.",
+      "body": "Puerto Rico, officially the Commonwealth of Puerto Rico, is a self-governing Caribbean archipelago and island organized as an unincorporated territory of the United States under the designation of commonwealth. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/330px-Flag_of_Puerto_Rico.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Puerto_Rico"
     }
   ]
 }
