@@ -1,63 +1,16 @@
 {
-  "generated": "2026-07-25T09:23:21.372Z",
-  "count": 12,
+  "generated": "2026-07-25T10:59:13.137Z",
+  "count": 24,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "A biome is a distinct geographical region with specific climate, vegetation, animal life, and an ecosystem.",
-      "body": "It consists of a biological community that has formed in response to its physical environment and regional climate. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vegetation.png/330px-Vegetation.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Biome"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The perfect books for the beach … picked by Freida McFadden, Mick Herron, Robert Harris and more",
-      "body": "<p>From a transporting historical saga to a tale of small-town betrayal, the authors of our favourite page-turners reveal the books they take on holiday – introduced by Jenny Colgan</p><p>It<strong> </strong>is important to follow a balance",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/25/the-perfect-books-for-the-beach-picked-by-freida-mcfadden-mick-herron-robert-harris-and-more"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Decoding Charli XCX's new album, Music, Fashion, Film",
-      "body": "The star's new album strips away artifice to examine her life after the phenomenal success of Brat.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c151zp1p4qyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
+      "cat": "people",
       "opener": "You probably never noticed this —",
-      "hook": "The Story of God is a three-part documentary series produced by Dangerous Films and presented by Robert Winston.",
-      "body": "It first aired on 4, 11, and 18 December 2005 on BBC One and was rebroadcast by the Canadian Broadcasting Corporation in May and June 2006 and by the Australian Broadcasting Corporation in April 2007. Worth a quiet trip down the rabbit hole.",
+      "hook": "He won primaries in several states, but eventually lost the nomination to incumbent president Gerald Ford at the 1976 Republican National Convention.",
+      "body": "Ronald Reagan announced his candidacy for President of the United States on November 20, 1975. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Story_of_God"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Mary Jeannie May Simon is a Canadian civil servant, diplomat, and former broadcaster who served as the 30th governor general of Canada from 2021 to 2026.",
-      "body": "She is Inuk on her mother's side, making her the first Indigenous person to hold the office. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Mary_Simon%2C_Governor_General_of_Canada.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mary_Simon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "BBC's Fake or Fortune uncovers 'enormously important' painting worth £100,000",
-      "body": "The painting by the 18th Century Scottish artist Katherine Read is thought to be worth more than £100,000.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cvgxejg9evjo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Ronald_Reagan_1976_presidential_campaign"
     },
     {
       "type": "card",
@@ -70,12 +23,199 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: Operation Spring near Caen is one of the bloodiest days for the First Canadian Army during the war.",
+      "body": "Operation Spring was an offensive operation of the Second World War conducted by II Canadian Corps during the Normandy campaign in 1944. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Operation_Spring.svg/330px-Operation_Spring.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Operation_Spring"
+    },
+    {
+      "type": "card",
+      "cat": "people",
+      "opener": "File under 'wait, really?' —",
+      "hook": "His television roles include the PBS 2002 drama series American Family, the Showtime series Resurrection Blvd.",
+      "body": "He has had notable roles in the films Bad Boys with Sean Penn and La Bamba with Lou Diamond Phillips. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Esai_Morales_at_the_2025_Cannes_Film_Festival_05_Cropped.jpg/330px-Esai_Morales_at_the_2025_Cannes_Film_Festival_05_Cropped.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Esai_Morales"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The perfect books for the beach … picked by Freida McFadden, Mick Herron, Robert Harris and more",
+      "body": "<p>From a transporting historical saga to a tale of small-town betrayal, the authors of our favourite page-turners reveal the books they take on holiday – introduced by Jenny Colgan</p><p>It<strong> </strong>is important to follow a balance",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/25/the-perfect-books-for-the-beach-picked-by-freida-mcfadden-mick-herron-robert-harris-and-more"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Sami Abduqahhor was a Soviet and Uzbek author and screenwriter.",
+      "body": "He is regarded as a central figure in the development of the modern fable genre in 20th-century Uzbek literature. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Samig_Abdukakhkhar_Uzbek_and_Soviet_writer.jpg/330px-Samig_Abdukakhkhar_Uzbek_and_Soviet_writer.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sami_Abduqahhor"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "He is best remembered as author of La Guêpe (1934) which won Grand Prix du roman de l'Académie française in 1935.",
+      "body": "Albert Camille Touchard was a French author. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Albert_Touchard"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "John Hunyadi was a leading Hungarian military and political figure during the 15th century, who served as regent of the Kingdom of Hungary from 1446 to 1453, under the minor Ladislaus V.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/John_Hunyadi_%28Chronica_Hungarorum%29.jpg/330px-John_Hunyadi_%28Chronica_Hungarorum%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Hunyadi"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Unsayable by Michael Cunningham review – The Hours author on the insecurities that powered his creative life",
+      "body": "<p>The American novelist and screenwriter’s memoir covers sex work, Virginia Woolf and Hollywood success</p><p>As an eight-year-old in comfortable, solid, suburban California, Michael Cunningham felt compelled to make art before he quite un",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/24/unsayable-by-michael-cunningham-review-the-hours-author-on-the-insecurities-that-powered-his-creative-life"
+    },
+    {
+      "type": "card",
+      "cat": "people",
+      "opener": "File under 'wait, really?' —",
+      "hook": "She appeared in 25 films between 1942 and 2006.",
+      "body": "Erni Arneson was a Danish film actress. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Erni_Arneson"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
       "hook": "BFI reveals next director of Filmmaking Funds",
       "body": "New director will take over from Mia Bays in October.",
       "src": "Screen Daily",
       "url": "https://www.screendaily.com/news/bfi-reveals-next-director-of-filmmaking-funds/5218835.article"
+    },
+    {
+      "type": "card",
+      "cat": "people",
+      "opener": "Okay, this one's fun —",
+      "hook": "Katharine Hepburn was an American actress of the 20th century, active in 44 feature films, 8 telemovies, and 33 stage plays over 66 years from 1928 and 1994.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Katharine_Hepburn_promo_pic_2.jpg/330px-Katharine_Hepburn_promo_pic_2.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Katharine_Hepburn_on_screen_and_stage"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Coin cleaning is the controversial process of removing undesirable substances from a coin's surface in order to make it more attractive to potential buyers.",
+      "body": "Coin cleaning is not advised as it generally decreases its value by removing the coin's patina, the surface valued by collectors. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Cleaned_coin.jpg/330px-Cleaned_coin.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coin_cleaning"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Agatha Streicher (1520–1581), was a German physician who lived her entire life in Ulm.",
+      "body": "She has been referred to as the first female physician in Germany. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agatha_Streicher"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1837 —",
+      "hook": "The first commercial use of an electrical telegraph is successfully demonstrated in London by William Cooke and Charles Wheatstone.",
+      "body": "Electrical telegraphy is point-to-point distance communicating via sending electric signals over wire, a system primarily used from the 1840s until the late 20th century. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cooke_and_Wheatstone_electric_telegraph.jpg/330px-Cooke_and_Wheatstone_electric_telegraph.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Electrical_telegraph"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1603 —",
+      "hook": "James VI and I and Anne of Denmark are crowned in Westminster Abbey.",
+      "body": "James VI and I was King of Scotland as James VI from 24 July 1567, and King of England and Ireland as James I from the union of the Scottish and English crowns on 24 March 1603, until his death in 1625. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JamesIEngland.jpg/330px-JamesIEngland.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/James_VI_and_I"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The dry ice color show is a demonstration of the chemical formation of carbonic acid by the dissolution of dry ice in water.",
+      "body": "The dry ice color show is usually performed in classrooms to demonstrate the properties of acids and bases, their effect on pH indicators, and the sublimation of dry ice. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dry_ice_experiment.webm/330px--Dry_ice_experiment.webm.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dry_ice_color_show"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2001 —",
+      "hook": "Phoolan Devi, a serving Member of Parliament, is assassinated by shooting in New Delhi, India.",
+      "body": "Phoolan Devi, popularly known as the Bandit Queen, was an Indian dacoit (bandit) who became a politician, serving as a member of parliament until her assassination. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Non-free_picture_of_Phoolan_Devi.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Phoolan_Devi"
+    },
+    {
+      "type": "card",
+      "cat": "people",
+      "opener": "Okay, this one's fun —",
+      "hook": "He began his acting career in musical theatre, and has since starred in television series such as Queen and I (2012), The Birth of a Family (2012), Can't Stand Anymore (2013) and The Return of Hwang Geum-bok (2015).",
+      "body": "Kim Jin-woo is a South Korean actor and singer. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kim_Jin-woo_in_Dec_2018.png/330px-Kim_Jin-woo_in_Dec_2018.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kim_Jin-woo_(actor)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1908 —",
+      "hook": "Ajinomoto is founded. Kikunae Ikeda of the Tokyo Imperial University discovers that a key ingredient in kombu soup stock is monosodium glutamate (MSG), and patents a process for manufacturing it.",
+      "body": "Ajinomoto Co., Inc. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ajinomoto_global_logo.svg/330px-Ajinomoto_global_logo.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ajinomoto"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "BBC's Fake or Fortune uncovers 'enormously important' painting worth £100,000",
+      "body": "The painting by the 18th Century Scottish artist Katherine Read is thought to be worth more than £100,000.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cvgxejg9evjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1536 —",
+      "hook": "Sebastián de Belalcázar, on his search for El Dorado, founds the city of Santiago de Cali.",
+      "body": "Sebastián Moyano y Cabrera, best known as Sebastián de Belalcázar was a Spanish conquistador. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Statue_of_Sebasti%C3%A1n_de_Benalc%C3%A1zar%2C_Quito.jpg/330px-Statue_of_Sebasti%C3%A1n_de_Benalc%C3%A1zar%2C_Quito.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_de_Belalc%C3%A1zar"
     },
     {
       "type": "card",
@@ -88,32 +228,12 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Shirley Wu is a data scientist specialized in data art and data visualizations.",
-      "body": "She is a freelancer based out of San Francisco, California. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Shirley_Wu"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Diane Jean McBain was an American actress who, as a Warner Brothers contract player, reached a brief peak of popularity during the early 1960s.",
-      "body": "She was best known for playing an adventurous socialite in the 1960–1962 television series Surfside 6 and as one of Elvis Presley's leading ladies in 1966's Spinout. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Diane_McBain.JPG/330px-Diane_McBain.JPG",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Diane_McBain"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Unsayable by Michael Cunningham review – The Hours author on the insecurities that powered his creative life",
-      "body": "<p>The American novelist and screenwriter’s memoir covers sex work, Virginia Woolf and Hollywood success</p><p>As an eight-year-old in comfortable, solid, suburban California, Michael Cunningham felt compelled to make art before he quite un",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/24/unsayable-by-michael-cunningham-review-the-hours-author-on-the-insecurities-that-powered-his-creative-life"
+      "opener": "BBC Entertainment —",
+      "hook": "Decoding Charli XCX's new album, Music, Fashion, Film",
+      "body": "The star's new album strips away artifice to examine her life after the phenomenal success of Brat.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c151zp1p4qyo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
