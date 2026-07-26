@@ -1,16 +1,34 @@
 {
-  "generated": "2026-07-26T18:48:46.041Z",
+  "generated": "2026-07-26T20:01:46.545Z",
   "count": 19,
   "items": [
     {
       "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Having a young biological age could help with weight loss",
+      "body": "In a small study, restricting calories led to greater weight loss among people with a biological age younger than their chronological age",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2581243-having-a-young-biological-age-could-help-with-weight-loss/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Lake Champlain is a large natural freshwater lake in North America.",
-      "body": "With a length of 107 mi (172 km) and surface area over 500 sq mi (1,295 km2), it lies mostly between the U.S. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lake_Champlain_Valley.jpg/330px-Lake_Champlain_Valley.jpg",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Girl in a Swing is a novel by British writer Richard Adams.",
+      "body": "It was first published in 1980. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/GirlOnASwing.JPG",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lake_Champlain"
+      "url": "https://en.wikipedia.org/wiki/The_Girl_in_a_Swing_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Add to playlist: the ramshackle, soulful twang of Twisted Teens and the week’s best new tracks",
+      "body": "<p>The New Orleans country-punk duo are on a hot streak, about to release their third album in a year, and the crunchy, literate hooks keep coming</p><p><strong>From </strong>New Orleans<br><strong>Recommended if you like </strong>Parquet C",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/24/twisted-teens-week-s-best-new-tracks-add-to-playlist"
     },
     {
       "type": "card",
@@ -23,129 +41,43 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Ottonian Renaissance was a renaissance of Byzantine and Late Antique art in Central and Southern Europe that accompanied the reigns of the first three Holy Roman Emperors of the Ottonian dynasty: Otto I (936–973), Otto II (973–983), and Otto III (983–1002), and which in large part depended upon their patronage.",
-      "body": "The leading figures in this movement were Pope Sylvester II and Abbo of Fleury. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kreuz-Gro%C3%9Fe-Senkschmelzen-Domschatz-Essen-2025.jpg/330px-Kreuz-Gro%C3%9Fe-Senkschmelzen-Domschatz-Essen-2025.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ottonian_Renaissance"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1963 —",
-      "hook": "Syncom 2, the world's first geosynchronous satellite, is launched from Cape Canaveral on a Delta B booster.",
-      "body": "Syncom started as a 1961 NASA program for active geosynchronous communication satellites, all of which were developed and manufactured by the Space and Communications division of Hughes Aircraft Company. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Syncom_colour.jpg/330px-Syncom_colour.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Syncom"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Industry star David Jonsson to play Black Panther in Marvel sequel",
-      "body": "<p>Director Ryan Coogler announces British actor in lead role alongside co-stars Letitia Wright and Winston Duke</p><p></p><p>The British actor David Jonsson has been unveiled as the new Black Panther by the film’s director, Ryan Coogler.</",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/26/industry-star-david-jonsson-to-play-black-panther-in-marvel-sequel"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Having a young biological age could help with weight loss",
-      "body": "In a small study, restricting calories led to greater weight loss among people with a biological age younger than their chronological age",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2581243-having-a-young-biological-age-could-help-with-weight-loss/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1757 —",
-      "hook": "A French army under Marshal d'Estrées defeats a smaller British-German army under the duke of Cumberland in the battle of Hastenbeck.",
-      "body": "Louis Charles César Le Tellier, Duke of Estrées was a French military commander and Marshal of France. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Louis_Charles_C%C3%A9sar_Le_Tellier.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Louis_Charles_C%C3%A9sar_Le_Tellier%2C_Duke_of_Estr%C3%A9es"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1918 —",
-      "hook": "Emmy Noether's paper, which became known as Noether's theorem was presented at Göttingen, Germany, from which conservation laws are deduced for symmetries of angular momentum, linear momentum, and energy.",
-      "body": "Amalie Emmy Noether was a German mathematician who made many important contributions to abstract algebra. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Emmy_Noether_%283x4_cropped%29.jpg/330px-Emmy_Noether_%283x4_cropped%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Emmy_Noether"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 920 —",
-      "hook": "Rout of an alliance of Christian troops from Navarre and Léon against the Muslims at the Battle of Valdejunquera.",
-      "body": "Navarre, officially the Chartered Community of Navarre, is a landlocked foral autonomous community and province in northern Spain, bordering the Basque Autonomous Community, La Rioja, and Aragon in Spain and Nouvelle-Aquitaine in France. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bandera_de_Navarra.svg/330px-Bandera_de_Navarra.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Navarre"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on the punctutation factory – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/jul/26/tom-gauld-on-the-punctutation-factory-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/jul/26/tom-gauld-on-the-punctutation-factory-cartoon"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Matthew Blastares was a 14th-century Byzantine Greek monk in Thessalonica and early scholarly opponent of reconciliation with Rome.",
-      "body": "He was also the writer of the Syntagma Canonum. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Matthew_Blastares.jpg/330px-Matthew_Blastares.jpg",
+      "hook": "At the time of the 2021 census, the population of Waterloo was 121,436.",
+      "body": "Waterloo is a city in the Canadian province of Ontario. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Uptown_Waterloo_Ontario.JPG/330px-Uptown_Waterloo_Ontario.JPG",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Matthew_Blastares"
+      "url": "https://en.wikipedia.org/wiki/Waterloo%2C_Ontario"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2008 —",
+      "hook": "Fifty-six people are killed and over 200 people are injured, in the Ahmedabad bombings in India.",
+      "body": "The 2008 Ahmedabad bombings were a series of 21 bomb blasts that hit Ahmedabad, India, on 26 July 2008, within a span of 70 minutes. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2008_Ahmedabad_bombings"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1891 —",
+      "hook": "France annexes Tahiti.",
+      "body": "Tahiti is the largest island of the Windward group of the Society Islands in French Polynesia, an overseas collectivity of France. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Tahiti.svg/330px-Flag_of_Tahiti.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Tahiti"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Northampton Saints is a professional rugby union club from Northampton, England.",
-      "body": "The club plays in the Gallagher PREM, England's top division of rugby union. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Northampton_Saints_Logo.svg/330px-Northampton_Saints_Logo.svg.png",
+      "opener": "Okay, this one's fun —",
+      "hook": "Fanny Elizabeth Lacy, who wrote under the name Fanny Eliza Lacy, was a British writer, poet, composer, and advocate of vegetarianism and women's rights.",
+      "body": "She was active in reform circles in and around London and became involved in the early vegetarian movement in the 1830s and 1840s. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%22The_Vegetarian%3B_or%2C_a_Visit_to_Aunt_Primitive%22_%281847%29_-_Fanny_E._Lacy.png/330px-%22The_Vegetarian%3B_or%2C_a_Visit_to_Aunt_Primitive%22_%281847%29_-_Fanny_E._Lacy.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Northampton_Saints"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "The Labour Party wins the United Kingdom general election of July 5 by a landslide, removing Winston Churchill from power.",
-      "body": "The Labour Party, commonly Labour, is a political party in the United Kingdom. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Labour_Party_(UK)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Plato's electronics ready for space",
-      "body": "Image: The European Space Agency’s terrestrial planet hunter Plato has recently completed a series of key tests inside the Maxwell Test Chamber at ESTEC , demonstrating that its electronic equipment is fit to work in space. This photo captu",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Plato_s_electronics_ready_for_space"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1897 —",
-      "hook": "Anglo-Afghan War: The Pashtun fakir Saidullah leads an army of more than 10,000 to begin a siege of the British garrison in the Malakand Agency of the North West Frontier Province of India.",
-      "body": "Anglo-Afghan Wars may refer to:First Anglo-Afghan War (1838–1842) Second Anglo-Afghan War (1878–1880) Third Anglo-Afghan War (1919) Hazara Expedition (1888) Expedition of Shah Shujah Durrani (1833–1834) Chitral Expedition (1895) Tochi Expedition (1897–1898) Siege of Malakand (1897) Mohmand campaign (1897–1898) Tirah Campaign (1897–1898) Mahsud Waziri blockade (1900–1902) Operations in the Tochi (1914–1915) Operations against the Mohmands, Bunerwals and Swatis (1915) Mohmand blockade (1916–1917) Operations against the Mahsuds (1917) Waziristan Campaign (1919–1920) Waziristan campaign (1921–1924) Pink's War (1925) Mohmand Campaign (1935) Waziristan campaign (1936–1939) War in Afghanistan (2001–2021) Operation Herrick Operation Toral Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Anglo-Afghan_War"
+      "url": "https://en.wikipedia.org/wiki/Fanny_E._Lacy"
     },
     {
       "type": "card",
@@ -159,22 +91,41 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "It was signed into law on January 14, 2013, and took effect on July 14, 2014.",
-      "body": "The Intercountry Adoption Universal Accreditation Act of 2012 (UAA) is a United States federal law that regulates adoption service providers involved in intercountry adoptions. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Intercountry_Adoption_Universal_Accreditation_Act_of_2012"
+      "opener": "On this day in 1803 —",
+      "hook": "The Surrey Iron Railway, arguably the world's first public railway, opens in south London, United Kingdom.",
+      "body": "The Surrey Iron Railway (SIR) was a horse-drawn narrow-gauge plateway that linked Wandsworth and Croydon via Mitcham, all then in Surrey but now suburbs of south London, in England. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Surrey_Iron_Railway_watercolour.jpg/330px-Surrey_Iron_Railway_watercolour.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Surrey_Iron_Railway"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Industry star David Jonsson to play Black Panther in Marvel sequel",
+      "body": "<p>Director Ryan Coogler announces British actor in lead role alongside co-stars Letitia Wright and Winston Duke</p><p></p><p>The British actor David Jonsson has been unveiled as the new Black Panther by the film’s director, Ryan Coogler.</",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/26/industry-star-david-jonsson-to-play-black-panther-in-marvel-sequel"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1757 —",
+      "hook": "A French army under Marshal d'Estrées defeats a smaller British-German army under the duke of Cumberland in the battle of Hastenbeck.",
+      "body": "Louis Charles César Le Tellier, Duke of Estrées was a French military commander and Marshal of France. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Louis_Charles_C%C3%A9sar_Le_Tellier.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Louis_Charles_C%C3%A9sar_Le_Tellier%2C_Duke_of_Estr%C3%A9es"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Black Boys Burning: The 1959 Fire at the Arkansas Negro Boys Industrial School is a 2017 non-fiction book by Grif Stockley, published by University Press of Mississippi.",
-      "body": "It is about the deadly fire at the Arkansas Negro Boys' Industrial School. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Black_Boys_Burning.jpg",
+      "opener": "Bet you didn't know —",
+      "hook": "Skins is a 2002 American feature film by Chris Eyre and based upon the novel of the same name by Adrian C.",
+      "body": "It was filmed on South Dakota's Pine Ridge Indian Reservation, which served as the setting in the novel. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Skinsfilm.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Black_Boys_Burning"
+      "url": "https://en.wikipedia.org/wiki/Skins_(2002_film)"
     },
     {
       "type": "card",
@@ -184,6 +135,55 @@
       "body": "<p><strong>(RCA/Cult)</strong><br>Allying the crackpot strangeness of Julian Casablancas’ side projects with his band’s gift for pop minimalism, the New Yorkers are on playful, joyous form</p><p>Here’s a sentence no old-head Strokes fan wan",
       "src": "The Guardian · Culture",
       "url": "https://www.theguardian.com/music/2026/jul/24/the-strokes-reality-awaits-review"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2016 —",
+      "hook": "The Sagamihara stabbings occur in Kanagawa Prefecture in Japan. Nineteen people are killed.",
+      "body": "The Sagamihara stabbings were committed on 26 July 2016 in Midori Ward, Sagamihara, Kanagawa, Japan. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Tsukui_Yamayuri_En_2021-11-11.jpg/330px-Tsukui_Yamayuri_En_2021-11-11.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Sagamihara_stabbings"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Paddington in Peru is a 2024 live-action animated adventure comedy film directed by Dougal Wilson and written by Mark Burton, Jon Foster, and James Lamont.",
+      "body": "It is the sequel to Paddington 2 (2017) and the third installment in the Paddington film series, which is based on the Paddington stories by Michael Bond. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5e/Paddington_in_Peru_poster.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paddington_in_Peru"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘An anthem for the co-dependent’: Bad Magpie’s corvid carnage with a side of existential angst",
+      "body": "<p>Going by the mantra, if you want to make someone laugh, make them cry first, the game’s developers have created a lonely magpie who fills the void by wreaking havoc</p><p>Amid the gleeful anarchy of Bad Magpie’s debut trailer, there’s a ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/games/2026/jul/24/bad-magpie-preview-milktooth"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Menella Bute Smedley (1820–1877) was a novelist and poet.",
+      "body": "A relative of Lewis Carroll, she wrote some minor novels and books of poems, including the anonymous, The Story of Queen Isabel, and Other Verses, 1863. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Menella_Bute_Smedley"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1822 —",
+      "hook": "First day of the three-day Battle of Dervenakia, between the Ottoman Empire force led by Mahmud Dramali Pasha and the Greek Revolutionary force led by Theodoros Kolokotronis.",
+      "body": "The Battle of Dervenakia was the Greek victory over the Ottoman forces on 6–8 August 1822, an important event in the Greek War of Independence. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%CE%92%CF%81%CF%85%CE%B6%CE%AC%CE%BA%CE%B7%CF%82%2C_%CE%98%CE%B5%CF%8C%CE%B4%CF%89%CF%81%CE%BF%CF%82_-_%CE%97_%CE%BC%CE%AC%CF%87%CE%B7_%CF%83%CF%84%CE%B1_%CF%83%CF%84%CE%B5%CE%BD%CE%AC_%CF%84%CF%89%CE%BD_%CE%94%CE%B5%CF%81%CE%B2%CE%B5%CE%BD%CE%B1%CE%BA%CE%AF%CF%89%CE%BD.jpg/330px-%CE%92%CF%81%CF%85%CE%B6%CE%AC%CE%BA%CE%B7%CF%82%2C_%CE%98%CE%B5%CF%8C%CE%B4%CF%89%CF%81%CE%BF%CF%82_-_%CE%97_%CE%BC%CE%AC%CF%87%CE%B7_%CF%83%CF%84%CE%B1_%CF%83%CF%84%CE%B5%CE%BD%CE%AC_%CF%84%CF%89%CE%BD_%CE%94%CE%B5%CF%81%CE%B2%CE%B5%CE%BD%CE%B1%CE%BA%CE%AF%CF%89%CE%BD.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Dervenakia"
     }
   ]
 }
