@@ -1,25 +1,64 @@
 {
-  "generated": "2026-07-26T20:01:46.545Z",
-  "count": 19,
+  "generated": "2026-07-26T21:44:52.589Z",
+  "count": 13,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Having a young biological age could help with weight loss",
-      "body": "In a small study, restricting calories led to greater weight loss among people with a biological age younger than their chronological age",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2581243-having-a-young-biological-age-could-help-with-weight-loss/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "BBC Entertainment —",
+      "hook": "Broadcaster Gerry Kelly dies aged 77",
+      "body": "The journalist and broadcaster, whose career spanned four decades, died at his home on Sunday morning.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8jgw769zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Seth Meyers on Elon Musk’s AI Odyssey movie: ‘I can’t wait for that to suck’",
+      "body": "<p>The late-night host ridiculed the right’s ‘alternate reality’ where Christopher Nolan’s blockbuster is a flop and the Iran war is over</p><p>Seth Meyers took aim at Elon Musk and the right over their inconsequential attempts to bring dow",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/culture/2026/jul/24/seth-meyers-odyssey-movie-elon-musk-ai"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Cathy Olkin is a planetary scientist at the Southwest Research Institute, focusing on the outer Solar System.",
+      "body": "She is deputy principal investigator for NASA's Lucy mission examining the Trojan asteroids around Jupiter, which launched in 2021 and will fly past its targets between 2025 and 2033. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cathy_Olkin_%28NHQ201812310005%29.jpg/330px-Cathy_Olkin_%28NHQ201812310005%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cathy_Olkin"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "The Girl in a Swing is a novel by British writer Richard Adams.",
-      "body": "It was first published in 1980. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/GirlOnASwing.JPG",
+      "hook": "Yeh Vaada Raha is a 1982 Indian Hindi-language romance film directed by Kapil Kapoor, starring Rishi Kapoor, Poonam Dhillon, Tina Munim, Rakhee Gulzar and Shammi Kapoor.",
+      "body": "Inspired by Danielle Steel's The Promise, this was the first Hindi movie where the lead female character is portrayed by two actresses through the use of plastic surgery. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Yeh_Vaada_Raha.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Girl_in_a_Swing_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Yeh_Vaada_Raha_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "After professional stints in Seattle and San Francisco, Kelly moved to Chicago in 1914 where he flourished a banjoist, bandleader, and promoter.",
+      "body": "Bert Kelly was an American musician, who pioneered jazz as a banjoist, bandleader, educator, promoter, night club owner, and night club operator. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Meet_Me_at_the_Green_Goose_Deary.jpg/330px-Meet_Me_at_the_Green_Goose_Deary.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bert_Kelly_(jazz_musician)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Linda Cobb is an American writer and columnist who is known as the Queen of Clean.",
+      "body": "She is known for humor in her writing which focuses on difficult cleaning problems and cleaning solutions which are used everyday or inexpensive items like tea bags and Tang. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Linda_Cobb"
     },
     {
       "type": "card",
@@ -32,100 +71,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Venice artistic director Alberto Barbera on 2026 lineup, lack of female and studio films",
-      "body": "Barbera talks Screen through the selection for his 19th edition at the helm of Venice.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/venice-artistic-director-alberto-barbera-on-2026-lineup-lack-of-female-and-studio-films/5218887.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "At the time of the 2021 census, the population of Waterloo was 121,436.",
-      "body": "Waterloo is a city in the Canadian province of Ontario. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Uptown_Waterloo_Ontario.JPG/330px-Uptown_Waterloo_Ontario.JPG",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Waterloo%2C_Ontario"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2008 —",
-      "hook": "Fifty-six people are killed and over 200 people are injured, in the Ahmedabad bombings in India.",
-      "body": "The 2008 Ahmedabad bombings were a series of 21 bomb blasts that hit Ahmedabad, India, on 26 July 2008, within a span of 70 minutes. Bring it up somewhere. Watch the reaction.",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Our Daily Bread is a Christian devotional calendar-style booklet published by Our Daily Bread Ministries in over 55 languages.",
+      "body": "The booklet is one of the most widely read Christian devotionals in circulation today. Worth a quiet trip down the rabbit hole.",
       "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2008_Ahmedabad_bombings"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1891 —",
-      "hook": "France annexes Tahiti.",
-      "body": "Tahiti is the largest island of the Windward group of the Society Islands in French Polynesia, an overseas collectivity of France. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Tahiti.svg/330px-Flag_of_Tahiti.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tahiti"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Fanny Elizabeth Lacy, who wrote under the name Fanny Eliza Lacy, was a British writer, poet, composer, and advocate of vegetarianism and women's rights.",
-      "body": "She was active in reform circles in and around London and became involved in the early vegetarian movement in the 1830s and 1840s. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%22The_Vegetarian%3B_or%2C_a_Visit_to_Aunt_Primitive%22_%281847%29_-_Fanny_E._Lacy.png/330px-%22The_Vegetarian%3B_or%2C_a_Visit_to_Aunt_Primitive%22_%281847%29_-_Fanny_E._Lacy.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fanny_E._Lacy"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Chris Brown pleads guilty to affray over London nightclub attack",
-      "body": "The US singer hit a man with a glass bottle in \"a vicious and unprovoked attack\", prosecutors say.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c3w01e37v9vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1803 —",
-      "hook": "The Surrey Iron Railway, arguably the world's first public railway, opens in south London, United Kingdom.",
-      "body": "The Surrey Iron Railway (SIR) was a horse-drawn narrow-gauge plateway that linked Wandsworth and Croydon via Mitcham, all then in Surrey but now suburbs of south London, in England. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Surrey_Iron_Railway_watercolour.jpg/330px-Surrey_Iron_Railway_watercolour.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Surrey_Iron_Railway"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Industry star David Jonsson to play Black Panther in Marvel sequel",
-      "body": "<p>Director Ryan Coogler announces British actor in lead role alongside co-stars Letitia Wright and Winston Duke</p><p></p><p>The British actor David Jonsson has been unveiled as the new Black Panther by the film’s director, Ryan Coogler.</",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/26/industry-star-david-jonsson-to-play-black-panther-in-marvel-sequel"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1757 —",
-      "hook": "A French army under Marshal d'Estrées defeats a smaller British-German army under the duke of Cumberland in the battle of Hastenbeck.",
-      "body": "Louis Charles César Le Tellier, Duke of Estrées was a French military commander and Marshal of France. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Louis_Charles_C%C3%A9sar_Le_Tellier.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Louis_Charles_C%C3%A9sar_Le_Tellier%2C_Duke_of_Estr%C3%A9es"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Skins is a 2002 American feature film by Chris Eyre and based upon the novel of the same name by Adrian C.",
-      "body": "It was filmed on South Dakota's Pine Ridge Indian Reservation, which served as the setting in the novel. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Skinsfilm.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Skins_(2002_film)"
+      "url": "https://en.wikipedia.org/wiki/Our_Daily_Bread_(devotional)"
     },
     {
       "type": "card",
@@ -138,23 +90,12 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2016 —",
-      "hook": "The Sagamihara stabbings occur in Kanagawa Prefecture in Japan. Nineteen people are killed.",
-      "body": "The Sagamihara stabbings were committed on 26 July 2016 in Midori Ward, Sagamihara, Kanagawa, Japan. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Tsukui_Yamayuri_En_2021-11-11.jpg/330px-Tsukui_Yamayuri_En_2021-11-11.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sagamihara_stabbings"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Paddington in Peru is a 2024 live-action animated adventure comedy film directed by Dougal Wilson and written by Mark Burton, Jon Foster, and James Lamont.",
-      "body": "It is the sequel to Paddington 2 (2017) and the third installment in the Paddington film series, which is based on the Paddington stories by Michael Bond. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/5e/Paddington_in_Peru_poster.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Paddington_in_Peru"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I know what it’s like to be vulnerable’: musician This Is Lorelei AKA Nate Amos on addiction and finding peace",
+      "body": "<p>The singer-songwriter and Water from Your Eyes guitarist was unstoppably prolific, despite a growing dependence on substances. Now sober, he reflects on his new album and the songs that helped him turn his life round</p><p>For most of hi",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/24/nate-amos-music-interview-singer-in-my-band-album-water-from-your-eyes-this-is-lorelai"
     },
     {
       "type": "card",
@@ -167,23 +108,22 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Menella Bute Smedley (1820–1877) was a novelist and poet.",
-      "body": "A relative of Lewis Carroll, she wrote some minor novels and books of poems, including the anonymous, The Story of Queen Isabel, and Other Verses, 1863. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Menella_Bute_Smedley"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "How rapper Aitch's sister inspired him to climb one of the world's toughest peaks",
+      "body": "The rapper has been taking on challenges to raise awareness and money for the Down's Syndrome Association.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cx2dgl98lxko?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1822 —",
-      "hook": "First day of the three-day Battle of Dervenakia, between the Ottoman Empire force led by Mahmud Dramali Pasha and the Greek Revolutionary force led by Theodoros Kolokotronis.",
-      "body": "The Battle of Dervenakia was the Greek victory over the Ottoman forces on 6–8 August 1822, an important event in the Greek War of Independence. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%CE%92%CF%81%CF%85%CE%B6%CE%AC%CE%BA%CE%B7%CF%82%2C_%CE%98%CE%B5%CF%8C%CE%B4%CF%89%CF%81%CE%BF%CF%82_-_%CE%97_%CE%BC%CE%AC%CF%87%CE%B7_%CF%83%CF%84%CE%B1_%CF%83%CF%84%CE%B5%CE%BD%CE%AC_%CF%84%CF%89%CE%BD_%CE%94%CE%B5%CF%81%CE%B2%CE%B5%CE%BD%CE%B1%CE%BA%CE%AF%CF%89%CE%BD.jpg/330px-%CE%92%CF%81%CF%85%CE%B6%CE%AC%CE%BA%CE%B7%CF%82%2C_%CE%98%CE%B5%CF%8C%CE%B4%CF%89%CF%81%CE%BF%CF%82_-_%CE%97_%CE%BC%CE%AC%CF%87%CE%B7_%CF%83%CF%84%CE%B1_%CF%83%CF%84%CE%B5%CE%BD%CE%AC_%CF%84%CF%89%CE%BD_%CE%94%CE%B5%CF%81%CE%B2%CE%B5%CE%BD%CE%B1%CE%BA%CE%AF%CF%89%CE%BD.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Dervenakia"
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Lovers is a 1991 Spanish film noir written and directed by Vicente Aranda, starring Victoria Abril, Jorge Sanz and Maribel Verdú.",
+      "body": "The film brought Aranda to widespread attention in the English-speaking world. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/Amantes_movie_poster.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lovers_(1991_film)"
     }
   ]
 }
