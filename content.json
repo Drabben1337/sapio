@@ -1,55 +1,45 @@
 {
-  "generated": "2026-07-26T17:50:15.827Z",
-  "count": 18,
+  "generated": "2026-07-26T18:48:46.041Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Lake Champlain is a large natural freshwater lake in North America.",
+      "body": "With a length of 107 mi (172 km) and surface area over 500 sq mi (1,295 km2), it lies mostly between the U.S. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lake_Champlain_Valley.jpg/330px-Lake_Champlain_Valley.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lake_Champlain"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on the punctutation factory – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/jul/26/tom-gauld-on-the-punctutation-factory-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/jul/26/tom-gauld-on-the-punctutation-factory-cartoon"
+      "opener": "Screen Daily —",
+      "hook": "Venice artistic director Alberto Barbera on 2026 lineup, lack of female and studio films",
+      "body": "Barbera talks Screen through the selection for his 19th edition at the helm of Venice.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/venice-artistic-director-alberto-barbera-on-2026-lineup-lack-of-female-and-studio-films/5218887.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Ottonian Renaissance was a renaissance of Byzantine and Late Antique art in Central and Southern Europe that accompanied the reigns of the first three Holy Roman Emperors of the Ottonian dynasty: Otto I (936–973), Otto II (973–983), and Otto III (983–1002), and which in large part depended upon their patronage.",
+      "body": "The leading figures in this movement were Pope Sylvester II and Abbo of Fleury. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kreuz-Gro%C3%9Fe-Senkschmelzen-Domschatz-Essen-2025.jpg/330px-Kreuz-Gro%C3%9Fe-Senkschmelzen-Domschatz-Essen-2025.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ottonian_Renaissance"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1887 —",
-      "hook": "Publication of the Unua Libro, founding the Esperanto movement.",
-      "body": "Dr. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dr._Esperanto%27s_International_Language_cover_page.jpg/330px-Dr._Esperanto%27s_International_Language_cover_page.jpg",
+      "opener": "On this day in 1963 —",
+      "hook": "Syncom 2, the world's first geosynchronous satellite, is launched from Cape Canaveral on a Delta B booster.",
+      "body": "Syncom started as a 1961 NASA program for active geosynchronous communication satellites, all of which were developed and manufactured by the Space and Communications division of Hughes Aircraft Company. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Syncom_colour.jpg/330px-Syncom_colour.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Unua_Libro"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "In complex geometry, the Kähler identities are a collection of identities between operators on a Kähler manifold relating the Dolbeault operators and their adjoints, contraction and wedge operators of the Kähler form, and the Laplacians of the Kähler metric.",
-      "body": "The Kähler identities combine with results of Hodge theory to produce a number of relations on de Rham and Dolbeault cohomology of compact Kähler manifolds, such as the Lefschetz hyperplane theorem, the hard Lefschetz theorem, the Hodge-Riemann bilinear relati",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/K%C3%A4hler_identities"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Rebecca Mehra is an American middle-distance runner.",
-      "body": "Running for Stanford University, she finished 3rd at the 2016 NCAA Division I Indoor Track and Field Championships in the distance medley relay, and she finished 11th at the 2021 United States Olympic trials in the 1500 m. Bring it up somewhere. Watch the reac",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rebecca_Mehra"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Abyssocladia is a genus of the family Cladorhizidae, a family of carnivorous sponges.",
-      "body": "It is made up of at least 39 species found in oceans all over the world. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Abyssocladia_spp.png/330px-Abyssocladia_spp.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Abyssocladia"
+      "url": "https://en.wikipedia.org/wiki/Syncom"
     },
     {
       "type": "card",
@@ -62,71 +52,81 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "World War II: The USS Indianapolis arrives at Tinian with components and enriched uranium for the Little Boy nuclear bomb.",
-      "body": "USS Indianapolis (CL/CA-35) was a Portland-class heavy cruiser of the United States Navy, named for the city of Indianapolis, Indiana. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/USS_Indianapolis_%28CA-35%29_underway_at_sea_on_27_September_1939_%2880-G-425615%29.jpg/330px-USS_Indianapolis_%28CA-35%29_underway_at_sea_on_27_September_1939_%2880-G-425615%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/USS_Indianapolis_(CA-35)"
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Having a young biological age could help with weight loss",
+      "body": "In a small study, restricting calories led to greater weight loss among people with a biological age younger than their chronological age",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2581243-having-a-young-biological-age-could-help-with-weight-loss/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2005 —",
-      "hook": "Mumbai, India receives 99.5cm of rain (39.17 inches) within 24 hours, resulting in floods killing over 5,000 people.",
-      "body": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/330px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+      "opener": "On this day in 1757 —",
+      "hook": "A French army under Marshal d'Estrées defeats a smaller British-German army under the duke of Cumberland in the battle of Hastenbeck.",
+      "body": "Louis Charles César Le Tellier, Duke of Estrées was a French military commander and Marshal of France. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Louis_Charles_C%C3%A9sar_Le_Tellier.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mumbai"
+      "url": "https://en.wikipedia.org/wiki/Louis_Charles_C%C3%A9sar_Le_Tellier%2C_Duke_of_Estr%C3%A9es"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "World War II: The Potsdam Declaration is signed in Potsdam, Germany.",
-      "body": "The Potsdam Declaration, or the Proclamation Defining Terms for Japanese Surrender, was a statement that called for the surrender of all Japanese armed forces during World War II. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/President_Harry_S._Truman_and_Prime_Minister_Winston_Churchill_on_the_steps_of_the_%22Little_White_House%2C%22_the..._-_NARA_-_198764.jpg/330px-President_Harry_S._Truman_and_Prime_Minister_Winston_Churchill_on_the_steps_of_the_%22Little_White_House%2C%22_the..._-_NARA_-_198764.jpg",
+      "opener": "On this day in 1918 —",
+      "hook": "Emmy Noether's paper, which became known as Noether's theorem was presented at Göttingen, Germany, from which conservation laws are deduced for symmetries of angular momentum, linear momentum, and energy.",
+      "body": "Amalie Emmy Noether was a German mathematician who made many important contributions to abstract algebra. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Emmy_Noether_%283x4_cropped%29.jpg/330px-Emmy_Noether_%283x4_cropped%29.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Potsdam_Declaration"
+      "url": "https://en.wikipedia.org/wiki/Emmy_Noether"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1509 —",
-      "hook": "Krishnadevaraya ascends to the throne as Emperor of Vijayanagara, marking the beginning of the regeneration of the Vijayanagara Empire.",
-      "body": "Krishnadevaraya was emperor of the Vijayanagara Empire from 1509 to 1529 and the third ruler of the Tuluva dynasty. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Chinnadevi%2C_Krishnadevaraya%2C_Tirumaladevi_statues_at_Chandragiri_Museum.jpg/330px-Chinnadevi%2C_Krishnadevaraya%2C_Tirumaladevi_statues_at_Chandragiri_Museum.jpg",
+      "opener": "On this day in 920 —",
+      "hook": "Rout of an alliance of Christian troops from Navarre and Léon against the Muslims at the Battle of Valdejunquera.",
+      "body": "Navarre, officially the Chartered Community of Navarre, is a landlocked foral autonomous community and province in northern Spain, bordering the Basque Autonomous Community, La Rioja, and Aragon in Spain and Nouvelle-Aquitaine in France. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bandera_de_Navarra.svg/330px-Bandera_de_Navarra.svg.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Krishnadevaraya"
+      "url": "https://en.wikipedia.org/wiki/Navarre"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on the punctutation factory – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/jul/26/tom-gauld-on-the-punctutation-factory-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/jul/26/tom-gauld-on-the-punctutation-factory-cartoon"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Aṣṭāvakra (2010) is a Hindi epic poem (Mahakavya) composed by Jagadguru Rambhadracharya (1950–) in the year 2009.",
-      "body": "It consists of 864 verses in 8 cantos (sargas) of 108 verses each. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ramabhadracharya_Works_-_Ashtavakra_%282010%29.jpg/330px-Ramabhadracharya_Works_-_Ashtavakra_%282010%29.jpg",
+      "hook": "Matthew Blastares was a 14th-century Byzantine Greek monk in Thessalonica and early scholarly opponent of reconciliation with Rome.",
+      "body": "He was also the writer of the Syntagma Canonum. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Matthew_Blastares.jpg/330px-Matthew_Blastares.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ashtavakra_(epic)"
+      "url": "https://en.wikipedia.org/wiki/Matthew_Blastares"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Chuck Russell obituary",
-      "body": "<p>Film-maker who reshaped The Mask as an exuberant comic spectacular and launched the film careers of Cameron Diaz and the Rock</p><p>The film-maker Chuck Russell, who has died aged 74, described himself as “a thrill junkie with a sense of",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/26/chuck-russell-obituary"
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Northampton Saints is a professional rugby union club from Northampton, England.",
+      "body": "The club plays in the Gallagher PREM, England's top division of rugby union. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Northampton_Saints_Logo.svg/330px-Northampton_Saints_Logo.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northampton_Saints"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "New heatwave TV thriller resonates in today's world, says Iwan Rheon",
-      "body": "Weather conditions were \"changeable\" at best when actor Iwan Rheon began filming for new drama in Wales.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c9q9w0qxwd7o?at_medium=RSS&at_campaign=rss"
+      "cat": "history",
+      "opener": "On this day in 1945 —",
+      "hook": "The Labour Party wins the United Kingdom general election of July 5 by a landslide, removing Winston Churchill from power.",
+      "body": "The Labour Party, commonly Labour, is a political party in the United Kingdom. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Labour_Party_(UK)"
     },
     {
       "type": "card",
@@ -136,6 +136,16 @@
       "body": "Image: The European Space Agency’s terrestrial planet hunter Plato has recently completed a series of key tests inside the Maxwell Test Chamber at ESTEC , demonstrating that its electronic equipment is fit to work in space. This photo captu",
       "src": "ESA",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Plato_s_electronics_ready_for_space"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1897 —",
+      "hook": "Anglo-Afghan War: The Pashtun fakir Saidullah leads an army of more than 10,000 to begin a siege of the British garrison in the Malakand Agency of the North West Frontier Province of India.",
+      "body": "Anglo-Afghan Wars may refer to:First Anglo-Afghan War (1838–1842) Second Anglo-Afghan War (1878–1880) Third Anglo-Afghan War (1919) Hazara Expedition (1888) Expedition of Shah Shujah Durrani (1833–1834) Chitral Expedition (1895) Tochi Expedition (1897–1898) Siege of Malakand (1897) Mohmand campaign (1897–1898) Tirah Campaign (1897–1898) Mahsud Waziri blockade (1900–1902) Operations in the Tochi (1914–1915) Operations against the Mohmands, Bunerwals and Swatis (1915) Mohmand blockade (1916–1917) Operations against the Mahsuds (1917) Waziristan Campaign (1919–1920) Waziristan campaign (1921–1924) Pink's War (1925) Mohmand Campaign (1935) Waziristan campaign (1936–1939) War in Afghanistan (2001–2021) Operation Herrick Operation Toral Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Afghan_War"
     },
     {
       "type": "card",
@@ -149,31 +159,31 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1941 —",
-      "hook": "World War II: Battle of Grand Harbour, British forces on Malta destroy an attack by the Italian Decima Flottiglia MAS. Fort St Elmo Bridge covering the harbour is demolished in the process.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
+      "opener": "Here's one for the group chat —",
+      "hook": "It was signed into law on January 14, 2013, and took effect on July 14, 2014.",
+      "body": "The Intercountry Adoption Universal Accreditation Act of 2012 (UAA) is a United States federal law that regulates adoption service providers involved in intercountry adoptions. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Intercountry_Adoption_Universal_Accreditation_Act_of_2012"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The year 2023 was the 7th year in the history of the Oktagon MMA, a mixed martial arts promotion based in Czech Republic and Slovakia.",
-      "body": "2023 began with Oktagon 39. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "File under 'wait, really?' —",
+      "hook": "Black Boys Burning: The 1959 Fire at the Arkansas Negro Boys Industrial School is a 2017 non-fiction book by Grif Stockley, published by University Press of Mississippi.",
+      "body": "It is about the deadly fire at the Arkansas Negro Boys' Industrial School. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Black_Boys_Burning.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2023_in_Oktagon_MMA"
+      "url": "https://en.wikipedia.org/wiki/Black_Boys_Burning"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Having a young biological age could help with weight loss",
-      "body": "In a small study, restricting calories led to greater weight loss among people with a biological age younger than their chronological age",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2581243-having-a-young-biological-age-could-help-with-weight-loss/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "The Guardian · Culture —",
+      "hook": "The Strokes: Reality Awaits review – a perfect marriage of mayhem and melody on their best album in years",
+      "body": "<p><strong>(RCA/Cult)</strong><br>Allying the crackpot strangeness of Julian Casablancas’ side projects with his band’s gift for pop minimalism, the New Yorkers are on playful, joyous form</p><p>Here’s a sentence no old-head Strokes fan wan",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/24/the-strokes-reality-awaits-review"
     }
   ]
 }
