@@ -1,7 +1,16 @@
 {
-  "generated": "2026-07-26T23:47:45.829Z",
-  "count": 18,
+  "generated": "2026-07-27T01:25:49.846Z",
+  "count": 12,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "If Deadpool wants to be a true Marvel superhero, is it time he grew up and stopped joking around?",
+      "body": "<p>Ryan Reynolds’ sarcastic superhero is rumoured to be in Avengers: Doomsday – but how is he going to fit in the MCU proper when he spent all of his previous film mocking it?</p><p></p><p>How do you solve a problem like Deadpool in the Mar",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/culture/2026/jul/24/deadpool-marvel-avengers-doomsday-time-he-grew-up-week-in-geek"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -10,6 +19,73 @@
       "body": "Researchers have created a textile made from the parasitic fungus Cordyceps militaris, which is biodegradable and can be adapted for different purposes with various microbes",
       "src": "New Scientist",
       "url": "https://www.newscientist.com/article/2581227-clothes-made-from-living-fungi-can-clean-and-repair-themselves/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Marcus Alexander Fulton was an American businessman, politician, and Wisconsin pioneer.",
+      "body": "He was the 17th mayor of Hudson, Wisconsin, (1878) and represented northwest Wisconsin in the State Senate and Assembly. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Fulton"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Brigadier General Carl Fredrik Wilhelm Herlitz is an officer in the Swedish Amphibious Corps.",
+      "body": "Herlitz was commissioned as a naval officer in 1996 and has held several key command and staff positions within the Swedish Navy and Amphibious Corps. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fredrik_Herlitz"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Johnny Depp is playing Scrooge? I am not here for his big Hollywood comeback",
+      "body": "<p>‘It’s good to be back,’ says the actor in a new trailer for the forthcoming Ebenezer. Has everyone forgotten about the ghosts of his past?</p><p>It is fair to say that, professionally speaking, Johnny Depp has had a quiet few years. Sinc",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/24/johnny-depp-is-playing-scrooge-i-am-not-here-for-his-big-hollywood-comeback"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Little Brother review – Netflix comedy is neither weird or funny enough for star Eric André",
+      "body": "<p>The surreal comedian struggles to sell a middling and mostly conventional film about an uptight realtor whose life is upturned by an unpredictable figure from his past</p><p>The specific, unforced strangeness of <a href=\"https://www.theg",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Black Kettle was a leader of the Southern Cheyenne during the American Indian Wars.",
+      "body": "Born to the Northern Só'taeo'o / Só'taétaneo'o band of the Northern Cheyenne in the Black Hills of present-day South Dakota, he later married into the Wotápio / Wutapai band of the Southern Cheyenne. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chief_Black_Kettle.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_Kettle"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Serge Dumont is a global entrepreneur, business executive, and philanthropist.",
+      "body": "He is one of the pioneers in China’s corporate and marketing communications industry. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Serge_Dumont_Awarded_OOC.JPG/330px-Serge_Dumont_Awarded_OOC.JPG",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Serge_Dumont"
     },
     {
       "type": "card",
@@ -23,157 +99,21 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Septobasidium is a fungal genus within the family Septobasidiaceae.",
-      "body": "Approximately 175 described species are associated with this genus. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Septobasidium_pseudopedicellatum_Burt.jpg/330px-Septobasidium_pseudopedicellatum_Burt.jpg",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Persis Maryam Karim is an American poet, essayist, editor, and educator.",
+      "body": "Her work focuses on Iranians living outside of Iran, specifically Iranian Americans, and their complicated histories and identities which is often presented through storytelling. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/PERSIS_KARIM%2C_PH.D.jpg/330px-PERSIS_KARIM%2C_PH.D.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Septobasidium"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1775 —",
-      "hook": "The office that would later become the United States Post Office Department is established by the Second Continental Congress. Benjamin Franklin of Pennsylvania takes office as Postmaster General.",
-      "body": "The United States Post Office Department was the predecessor of the United States Postal Service, established in 1792. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Seal_of_the_United_States_Post_Office_Department_%281837%E2%80%931970%29.svg/330px-Seal_of_the_United_States_Post_Office_Department_%281837%E2%80%931970%29.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/United_States_Post_Office_Department"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1951 —",
-      "hook": "Walt Disney's 13th animated film, Alice in Wonderland, premieres in London, England, United Kingdom.",
-      "body": "Walter Elias Disney was an American animator, film producer, voice actor, and entrepreneur. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Walt_Disney_1946_%28cropped2%29.JPG/330px-Walt_Disney_1946_%28cropped2%29.JPG",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Walt_Disney"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Petty Demon, also translated as The Little Demon, is a Symbolist novel by Russian writer Fyodor Sologub.",
-      "body": "It was published in a stand-alone edition in 1907 and quickly became popular, having ten printings during the author's lifetime. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/The_Petty_Demon_1907.jpg/330px-The_Petty_Demon_1907.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Petty_Demon"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1990 —",
-      "hook": "The Americans with Disabilities Act of 1990 is signed into law by President George H. W. Bush.",
-      "body": "The Americans with Disabilities Act of 1990 (ADA) is a civil rights law that prohibits discrimination based on disability. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Sophie Caroline Pataky was an Austrian bibliographer.",
-      "body": "Her two-volume Lexikon deutscher Frauen der Feder, published in 1898, was the first German-language encyclopedia of women writers edited by a woman. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pataky_Buchdeckel.jpg/330px-Pataky_Buchdeckel.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sophie_Pataky"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Earth is heating up faster than at any time in its history",
-      "body": "To understand where climate change is heading, we have to look at the planet’s distant past and appreciate the disturbing uniqueness of our situation, says Bill McGuire",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2581280-earth-is-heating-up-faster-than-at-any-time-in-its-history/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2005 —",
-      "hook": "Space Shuttle program: STS-114 Mission: Launch of Discovery, NASA's first scheduled flight mission after the Columbia Disaster in 2003.",
-      "body": "The Space Shuttle program was the fourth human spaceflight program carried out by the U.S. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Shuttle_Patch.svg/330px-Shuttle_Patch.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_program"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1947 —",
-      "hook": "Cold War: U.S. president Harry S. Truman signs the National Security Act of 1947 into United States law creating the Central Intelligence Agency, United States Department of Defense, United States Air Force, Joint Chiefs of Staff, and the United States National Security Council.",
-      "body": "The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Cold_War"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1509 —",
-      "hook": "Krishnadevaraya ascends to the throne as Emperor of Vijayanagara, marking the beginning of the regeneration of the Vijayanagara Empire.",
-      "body": "Krishnadevaraya was emperor of the Vijayanagara Empire from 1509 to 1529 and the third ruler of the Tuluva dynasty. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Chinnadevi%2C_Krishnadevaraya%2C_Tirumaladevi_statues_at_Chandragiri_Museum.jpg/330px-Chinnadevi%2C_Krishnadevaraya%2C_Tirumaladevi_statues_at_Chandragiri_Museum.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Krishnadevaraya"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Bodyjar are an Australian pop punk band which formed in 1990.",
-      "body": "They began performing under the name Bodyjar in 1994; their previous names included Damnation (1990–91) and Helium (1992–93). The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bodyjar.png/330px-Bodyjar.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bodyjar"
+      "url": "https://en.wikipedia.org/wiki/Persis_Karim"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Little Brother review – Netflix comedy is neither weird or funny enough for star Eric André",
-      "body": "<p>The surreal comedian struggles to sell a middling and mostly conventional film about an uptight realtor whose life is upturned by an unpredictable figure from his past</p><p>The specific, unforced strangeness of <a href=\"https://www.theg",
+      "hook": "Jackass: Best and Last review – kings of gross-out comedy’s final, funny farewell",
+      "body": "<p>So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgia</p><p>The boy-men of <a href=\"https://www.theguardian.com/film/202",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Xenogears is a 1998 role-playing video game developed and published by Square for the PlayStation.",
-      "body": "It is the debut entry in the larger Xeno franchise. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6f/Xenogears_box.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Xenogears"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "If Deadpool wants to be a true Marvel superhero, is it time he grew up and stopped joking around?",
-      "body": "<p>Ryan Reynolds’ sarcastic superhero is rumoured to be in Avengers: Doomsday – but how is he going to fit in the MCU proper when he spent all of his previous film mocking it?</p><p></p><p>How do you solve a problem like Deadpool in the Mar",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/culture/2026/jul/24/deadpool-marvel-avengers-doomsday-time-he-grew-up-week-in-geek"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Seth Meyers on Elon Musk’s AI Odyssey movie: ‘I can’t wait for that to suck’",
-      "body": "<p>The late-night host ridiculed the right’s ‘alternate reality’ where Christopher Nolan’s blockbuster is a flop and the Iran war is over</p><p>Seth Meyers took aim at Elon Musk and the right over their inconsequential attempts to bring dow",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/jul/24/seth-meyers-odyssey-movie-elon-musk-ai"
+      "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review"
     }
   ]
 }
