@@ -2,6 +2,16 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Books —",
+    "hook": "The 100 best novels of all time",
+    "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
+    "_t": 1785189615191
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "New Scientist —",
     "hook": "Peptides are the latest wellness trend – but do they work?",
     "body": "A drug advisory committee in the US has recommended approval for several experimental peptides. But there have been no large-scale tests of these new compounds in humans, finds columnist Grace Wade",
@@ -588,15 +598,5 @@
     "src": "The Guardian · Film",
     "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review",
     "_t": 1785115549845
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "Little Brother review – Netflix comedy is neither weird or funny enough for star Eric André",
-    "body": "<p>The surreal comedian struggles to sell a middling and mostly conventional film about an uptight realtor whose life is upturned by an unpredictable figure from his past</p><p>The specific, unforced strangeness of <a href=\"https://www.theg",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix",
-    "_t": 1785109665828
   }
 ]
