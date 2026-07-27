@@ -1,53 +1,86 @@
 {
-  "generated": "2026-07-27T01:25:49.846Z",
-  "count": 12,
+  "generated": "2026-07-27T05:34:29.340Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "If Deadpool wants to be a true Marvel superhero, is it time he grew up and stopped joking around?",
-      "body": "<p>Ryan Reynolds’ sarcastic superhero is rumoured to be in Avengers: Doomsday – but how is he going to fit in the MCU proper when he spent all of his previous film mocking it?</p><p></p><p>How do you solve a problem like Deadpool in the Mar",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/culture/2026/jul/24/deadpool-marvel-avengers-doomsday-time-he-grew-up-week-in-geek"
+      "cat": "history",
+      "opener": "On this day in 1857 —",
+      "hook": "Indian Rebellion: Sixty-eight men hold out for eight days against a force of 2,500 to 3,000 mutinying sepoys and 8,000 irregular forces.",
+      "body": "The siege of Arrah took place during the Indian Mutiny. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Defence-of-Arrah-House.png/330px-Defence-of-Arrah-House.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Arrah"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Clothes made from living fungi can clean and repair themselves",
-      "body": "Researchers have created a textile made from the parasitic fungus Cordyceps militaris, which is biodegradable and can be adapted for different purposes with various microbes",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2581227-clothes-made-from-living-fungi-can-clean-and-repair-themselves/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "history",
+      "opener": "On this day in 1997 —",
+      "hook": "About 50 people are killed in the Si Zerrouk massacre in Algeria.",
+      "body": "The Si Zerrouk massacre took place in the Si Zerrouk neighborhood in the south of Larbaa in Algeria on 27 July 1997. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Si_Zerrouk_massacre"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Iron Throne is a fantasy novel by Simon Hawke, set in the world of the Birthright, and based on the Dungeons & Dragons role-playing game.",
+      "body": "It is the first novel published for the setting. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c5/The_Iron_Throne_%28D%26D_novel%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Iron_Throne_(novel)"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Marcus Alexander Fulton was an American businessman, politician, and Wisconsin pioneer.",
-      "body": "He was the 17th mayor of Hudson, Wisconsin, (1878) and represented northwest Wisconsin in the State Senate and Assembly. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "Bogus Skill \"Fruitmaster\": About that Time I Became Able to Eat Unlimited Numbers of Skill Fruits is a Japanese web novel series written by Hanyuu.",
+      "body": "It began serialization online in May 2020 on the user-generated novel publishing website Shōsetsuka ni Narō. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/Hazure_Skill_%22Kinomi_Master%22_light_novel_volume_cover.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marcus_Fulton"
+      "url": "https://en.wikipedia.org/wiki/Bogus_Skill_%22Fruitmaster%22"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Brigadier General Carl Fredrik Wilhelm Herlitz is an officer in the Swedish Amphibious Corps.",
-      "body": "Herlitz was commissioned as a naval officer in 1996 and has held several key command and staff positions within the Swedish Navy and Amphibious Corps. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "File under 'wait, really?' —",
+      "hook": "Brothers is a 1986 thriller novel by William Goldman.",
+      "body": "It is the sequel to his 1974 novel Marathon Man and is Goldman's final novel. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3d/BrothersNovel.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fredrik_Herlitz"
+      "url": "https://en.wikipedia.org/wiki/Brothers_(Goldman_novel)"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Johnny Depp is playing Scrooge? I am not here for his big Hollywood comeback",
-      "body": "<p>‘It’s good to be back,’ says the actor in a new trailer for the forthcoming Ebenezer. Has everyone forgotten about the ghosts of his past?</p><p>It is fair to say that, professionally speaking, Johnny Depp has had a quiet few years. Sinc",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/24/johnny-depp-is-playing-scrooge-i-am-not-here-for-his-big-hollywood-comeback"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "New Saga is a Japanese light novel series written by Masayuki Abe and illustrated by Ryūta Fuse.",
+      "body": "It was serialized online between May 2012 and June 2018 on the user-generated novel publishing website Shōsetsuka ni Narō. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/94/New_Saga_light_novel_volume_1_cover.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/New_Saga"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1865 —",
+      "hook": "Welsh settlers arrive at Chubut in Argentina.",
+      "body": "Y Wladfa, also occasionally Y Wladychfa Gymreig, refers to the establishment of settlements by Welsh colonists and immigrants in the Argentine Patagonia, beginning in 1865, mainly along the coast of the lower Chubut Valley. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_the_Welsh_colony_in_Patagonia.svg/330px-Flag_of_the_Welsh_colony_in_Patagonia.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Y_Wladfa"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "There is a built-up area on the B4329 former turnpike, and another down a side-road, close to, but with no road access to Llys y Fran reservoir.",
+      "body": "Woodstock is a village in the southern foothills of the Preseli Mountains in the community and parish of Ambleston, Pembrokeshire, Wales. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hamlet_of_Woodstock_-_geograph.org.uk_-_1729095.jpg/330px-Hamlet_of_Woodstock_-_geograph.org.uk_-_1729095.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Woodstock%2C_Pembrokeshire"
     },
     {
       "type": "card",
@@ -60,32 +93,22 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Zhou Xuechang – November 27, 1952) was a politician in the Republic of China.",
+      "body": "He was an important figure during the Reorganized National Government of China. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Zhou_Xuechang.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhou_Xuechang"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Little Brother review – Netflix comedy is neither weird or funny enough for star Eric André",
-      "body": "<p>The surreal comedian struggles to sell a middling and mostly conventional film about an uptight realtor whose life is upturned by an unpredictable figure from his past</p><p>The specific, unforced strangeness of <a href=\"https://www.theg",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Black Kettle was a leader of the Southern Cheyenne during the American Indian Wars.",
-      "body": "Born to the Northern Só'taeo'o / Só'taétaneo'o band of the Northern Cheyenne in the Black Hills of present-day South Dakota, he later married into the Wotápio / Wutapai band of the Southern Cheyenne. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chief_Black_Kettle.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Black_Kettle"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Serge Dumont is a global entrepreneur, business executive, and philanthropist.",
-      "body": "He is one of the pioneers in China’s corporate and marketing communications industry. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Serge_Dumont_Awarded_OOC.JPG/330px-Serge_Dumont_Awarded_OOC.JPG",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Serge_Dumont"
+      "opener": "New Scientist —",
+      "hook": "Clothes made from living fungi can clean and repair themselves",
+      "body": "Researchers have created a textile made from the parasitic fungus Cordyceps militaris, which is biodegradable and can be adapted for different purposes with various microbes",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2581227-clothes-made-from-living-fungi-can-clean-and-repair-themselves/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
@@ -99,12 +122,60 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Persis Maryam Karim is an American poet, essayist, editor, and educator.",
-      "body": "Her work focuses on Iranians living outside of Iran, specifically Iranian Americans, and their complicated histories and identities which is often presented through storytelling. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/PERSIS_KARIM%2C_PH.D.jpg/330px-PERSIS_KARIM%2C_PH.D.jpg",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Peddler in Another World: I Can Go Back to My World Whenever I Want!",
+      "body": "is a Japanese light novel series written by Hiiro Shimotsuki and illustrated by Takashi Iwasaki. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/79/Peddler_in_Another_World_light_novel_volume_1_cover.webp",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Persis_Karim"
+      "url": "https://en.wikipedia.org/wiki/Peddler_in_Another_World%3A_I_Can_Go_Back_to_My_World_Whenever_I_Want!"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1953 —",
+      "hook": "Korean War: Cessation of hostilities is achieved when the United States, China, and North Korea sign an armistice agreement. Syngman Rhee, President of South Korea, refuses to sign but pledges to observe the armistice.",
+      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Published in London, it was distributed throughout the UK and internationally.",
+      "body": "CorpComms was a monthly trade magazine targeted at the in-house communicator. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/CorpComms"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1789 —",
+      "hook": "The first U.S. federal government agency, the Department of Foreign Affairs, is established (it will be later renamed Department of State).",
+      "body": "The federal government of the United States is the national government of the United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/330px-Greater_coat_of_arms_of_the_United_States.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Federal_government_of_the_United_States"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Johnny Depp is playing Scrooge? I am not here for his big Hollywood comeback",
+      "body": "<p>‘It’s good to be back,’ says the actor in a new trailer for the forthcoming Ebenezer. Has everyone forgotten about the ghosts of his past?</p><p>It is fair to say that, professionally speaking, Johnny Depp has had a quiet few years. Sinc",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/24/johnny-depp-is-playing-scrooge-i-am-not-here-for-his-big-hollywood-comeback"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "If Deadpool wants to be a true Marvel superhero, is it time he grew up and stopped joking around?",
+      "body": "<p>Ryan Reynolds’ sarcastic superhero is rumoured to be in Avengers: Doomsday – but how is he going to fit in the MCU proper when he spent all of his previous film mocking it?</p><p></p><p>How do you solve a problem like Deadpool in the Mar",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/culture/2026/jul/24/deadpool-marvel-avengers-doomsday-time-he-grew-up-week-in-geek"
     },
     {
       "type": "card",
@@ -114,6 +185,25 @@
       "body": "<p>So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgia</p><p>The boy-men of <a href=\"https://www.theguardian.com/film/202",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1921 —",
+      "hook": "Researchers at the University of Toronto, led by biochemist Frederick Banting, prove that the hormone insulin regulates blood sugar.",
+      "body": "The University of Toronto is a public research university with three main campuses in the Greater Toronto Area of Ontario, Canada. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/330px-Utoronto_coa.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/University_of_Toronto"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Little Brother review – Netflix comedy is neither weird or funny enough for star Eric André",
+      "body": "<p>The surreal comedian struggles to sell a middling and mostly conventional film about an uptight realtor whose life is upturned by an unpredictable figure from his past</p><p>The specific, unforced strangeness of <a href=\"https://www.theg",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix"
     }
   ]
 }
