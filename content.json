@@ -1,7 +1,47 @@
 {
-  "generated": "2026-07-28T10:17:58.720Z",
-  "count": 18,
+  "generated": "2026-07-28T12:28:07.277Z",
+  "count": 24,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "He was a member of the United States men's national artistic gymnastics team and won multiple medals while representing the United States at the 2003 Pan American Games.",
+      "body": "Clayton Strother is a retired American artistic gymnast. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clay_Strother"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1883 —",
+      "hook": "A moderate earthquake measuring magnitude 4.3–5.2 strikes the Italian island of Ischia, killing over 2,300 people.",
+      "body": "The 1883 Casamicciola earthquake, also known as the Ischia earthquake occurred on 28 July at 20:25 local time on the island of Ischia in the Gulf of Naples in Italy. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sommer%2C_Casamicciola%2C_dopo_il_terremoto_del_1883.jpg/330px-Sommer%2C_Casamicciola%2C_dopo_il_terremoto_del_1883.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1883_Casamicciola_earthquake"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1778 —",
+      "hook": "Constitution of the province of Cantabria ratified at the Assembly Hall in Bárcena la Puente, Reocín, Spain.",
+      "body": "Cantabria is an autonomous community and province in northern Spain with Santander as its capital city. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Cantabria_%28Official%29.svg/330px-Flag_of_Cantabria_%28Official%29.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cantabria"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Play with Me is a 1955 picture book written and illustrated by Marie Hall Ets.",
+      "body": "The book tells the story of a girl who attempts to play in a meadow with animals. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/Play_With_Me_%28children%27s_book%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Play_With_Me_(children's_book)"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,120 +53,32 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Tears of April is a 2008 Finnish war drama film directed by Aku Louhimies.",
-      "body": "Based on the novel Käsky by Leena Lander, the film is set in the final stages of the Finnish Civil War. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Tears_of_April.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tears_of_April"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2002 —",
-      "hook": "Nine coal miners trapped in the flooded Quecreek Mine in Somerset County, Pennsylvania, are rescued after 77 hours underground.",
-      "body": "Coal mining is the process of extracting coal from the ground or from a mine. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Coal_mine_Wyoming.jpg/330px-Coal_mine_Wyoming.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Coal_mining"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Gaining Ground by Joan Barfoot review – Anne Enright celebrates a landmark feminist novel",
-      "body": "<p>Half a century on, this tale of a woman who abandons her children in search of her self remains thrillingly original</p><p>There is a growing literature of maternal flight: novels about women who leave not just their husbands but also th",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/27/gaining-ground-by-joan-barfoot-review-anne-enright-celebrates-a-landmark-feminist-novel"
-    },
-    {
-      "type": "card",
       "cat": "history",
       "opener": "On this day in 1939 —",
       "hook": "The Sutton Hoo helmet is discovered.",
-      "body": "The Sutton Hoo helmet is a decorated Anglo-Saxon helmet found during a 1939 excavation of the Sutton Hoo ship-burial. The world is stranger than it lets on.",
+      "body": "The Sutton Hoo helmet is a decorated Anglo-Saxon helmet found during a 1939 excavation of the Sutton Hoo ship-burial. Worth a quiet trip down the rabbit hole.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sutton_Hoo_helmet_2016.png/330px-Sutton_Hoo_helmet_2016.png",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Sutton_Hoo_helmet"
     },
     {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Underdogs by Louise Powell review – a powerful debut with plenty of northern soul",
-      "body": "<p>A bereaved father and son bond over greyhound racing in an east Durham town in terminal decline</p><p>The adjoining villages<strong> </strong>of Easington and Easington Colliery in the coalfields of east Durham make the perfect case stud",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/28/underdogs-by-louise-powell-review-a-powerful-debut-with-plenty-of-northern-soul"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1854 —",
-      "hook": "USS Constellation (1854), the last all-sail warship built by the United States Navy and current museum ship in Baltimore Harbor, is commissioned.",
-      "body": "USS Constellation is a sloop-of-war, the last sail-only warship designed and built by the United States Navy. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/USS_Constellation_Inner_Harbor.JPG/330px-USS_Constellation_Inner_Harbor.JPG",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/USS_Constellation_(1854)"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Just when you thought it was safe … the shark movie is back for more",
-      "body": "<p>Shark Week arrives in an overstuffed period for the film genre even if nothing will ever rival the greatest of them all</p><p>Tracy Jordan, Tracy Morgan’s character on 30 Rock, once advised a friend to live every week like it’s Shark Wee",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/28/shark-week-movies"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "World War I: In the culmination of the July Crisis, Austria-Hungary declares war on the Kingdom of Serbia and begins the Great War.",
-      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_I"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1896 —",
-      "hook": "The city of Miami is incorporated.",
-      "body": "Miami is a coastal city in the southeast portion of the U.S. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Villa_Vizcaya_20110228.jpg/330px-Villa_Vizcaya_20110228.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Miami"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Firm of Girdlestone is a novel by British author Sir Arthur Conan Doyle.",
-      "body": "It was first published in 1890 by Chatto and Windus in London, England. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Firm_of_Girdleston2-1.jpg/330px-Firm_of_Girdleston2-1.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Firm_of_Girdlestone"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Ualalapi is a novel by Mozambican writer Ungulani Ba Ka Khosa.",
-      "body": "It was published in 1987, and won Mozambique's Grande Prémio da Ficção Narrativa in 1990. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ualalapi"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Brødre i blodet is a Norwegian novel by Ingvar Ambjørnsen, published in 1996.",
-      "body": "Ambjørnsen received the Booksellers Prize for the publication. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Br%C3%B8dre_i_blodet"
+      "opener": "Screen Daily —",
+      "hook": "San Sebastian adds Mike Leigh, Nicole Garcia, Pablo Larrain titles to competition lineup",
+      "body": "Spanish festival is set to take place from September 18-26.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/san-sebastian-adds-mike-leigh-nicole-garcia-pablo-larrain-titles-to-competition-lineup/5218950.article"
     },
     {
       "type": "card",
@@ -139,41 +91,149 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2001 —",
+      "hook": "Australian Ian Thorpe becomes the first swimmer to win six gold medals at a single World Championship meeting.",
+      "body": "Ian James Thorpe is an Australian retired swimmer who specialised in freestyle, but also competed in backstroke and the individual medley. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ian_Thorpe_2012.jpg/330px-Ian_Thorpe_2012.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ian_Thorpe"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse",
-      "body": "<p>The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers</p><p>The AI ethicist Eleanor Drage believes that to thrive alongside artificial intelligence, humans need to recognise AI’s “h",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse"
+      "opener": "The Guardian · Film —",
+      "hook": "Just when you thought it was safe … the shark movie is back for more",
+      "body": "<p>Shark Week arrives in an overstuffed period for the film genre even if nothing will ever rival the greatest of them all</p><p>Tracy Jordan, Tracy Morgan’s character on 30 Rock, once advised a friend to live every week like it’s Shark Wee",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/28/shark-week-movies"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2005 —",
+      "hook": "The Provisional Irish Republican Army calls an end to its thirty-year-long armed campaign against British rule in Northern Ireland.",
+      "body": "The Provisional Irish Republican Army, officially known as the Irish Republican Army and informally known as the Provos, was an Irish republican paramilitary force that sought to end British rule in Northern Ireland, facilitate Irish reunification and bring about an independent socialist republic, which would encompass all of Ireland. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Provisional_Irish_Republican_Army_Badge.svg/330px-Provisional_Irish_Republican_Army_Badge.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "John Henry is a 1931 novel by Roark Bradford and illustrated by woodcut artist J.",
-      "body": "Lankes, based on the African-American folk hero of the same name. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d2/John_Henry_book_cover.jpg",
+      "hook": "Our Missing Hearts is the third novel by the American author Celeste Ng.",
+      "body": "It was published in 2022 by Penguin Press. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/eb/Our_Missing_Hearts.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/John_Henry_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Our_Missing_Hearts"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1960 —",
-      "hook": "The German Volkswagen Act comes into force.",
-      "body": "The Volkswagen Act is a set of German federal laws enacted in 1960, regulating the privatization of Volkswagenwerk GmbH into the Volkswagen Group. One of those things you can't un-know.",
-      "img": null,
+      "opener": "On this day in 2010 —",
+      "hook": "Airblue Flight 202 crashes into the Margalla Hills north of Islamabad, Pakistan, killing all 152 people aboard. It is the deadliest aviation accident in Pakistan history and the first involving an Airbus A321.",
+      "body": "Airblue Flight 202 was a scheduled domestic passenger flight departing from Karachi en route to Islamabad. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Airblueflight202crashaircraft.jpg/330px-Airblueflight202crashaircraft.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Volkswagen_Act"
+      "url": "https://en.wikipedia.org/wiki/Airblue_Flight_202"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Criss Cross is a 1949 American noir crime tragedy film starring Burt Lancaster, Yvonne De Carlo and Dan Duryea, directed by Robert Siodmak and written by Daniel Fuchs based on Don Tracy's 1934 novel of the same name.",
+      "body": "The film was shot partly on location in the Bunker Hill section of Los Angeles. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Criss_Cross_%28film%29_poster.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Criss_Cross_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Brighton Belle is a 1963 crime novel by the British writer Arthur La Bern.",
+      "body": "The author had made his name with his 1945 debut It Always Rains on Sunday and had followed it up with several other bestsellers. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/61/Brighton_Belle_%281963_novel%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brighton_Belle_(La_Bern_novel)"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "Daniel Auteuil’s Cannes title ‘When The Night Falls’ secures US distribution",
-      "body": "EXCLUSIVE: The Second World War drama played in the Cannes Premiere section of the festival and is sold by SND.",
+      "hook": "‘The Odyssey’ scores impressive £11.9m second weekend at UK-Ireland box office",
+      "body": "Christopher Nolan’s epic passes £35m after just 10 days in cinemas.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/daniel-auteuils-cannes-title-when-the-night-falls-secures-us-distribution/5218942.article"
+      "url": "https://www.screendaily.com/news/the-odyssey-scores-impressive-119m-second-weekend-at-uk-ireland-box-office/5218919.article"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Richard Hammond convicted and fined for speeding",
+      "body": "The TV host is caught speeding twice in the space of three weeks, magistrates hear.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cvgv7n0k57eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Dibyendu Palit was a Bengali novelist, poet, and short-story writer.",
+      "body": "His oeuvre consists of some forty novels, twenty-five short-story collections, ten poetry collections and several essays. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dibyendu_Palit"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "House of the Dragon star Bethany Antonia joins Strictly line-up",
+      "body": "She plays Lady Baela Targaryen in HBO's Game of Thrones prequel, and is the ninth celebrity to be confirmed.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
