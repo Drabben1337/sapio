@@ -1,15 +1,26 @@
 {
-  "generated": "2026-07-28T04:49:51.300Z",
-  "count": 12,
+  "generated": "2026-07-28T07:28:30.655Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "cat": "history",
+      "opener": "On this day in 484 —",
+      "hook": "Pope Felix III excommunicated patriarch Acacius of Constantinople for his support of the Henoticon and his support of the removal of patriarch John Talaia, leading to the Acacian schism.",
+      "body": "Pope Felix III was the bishop of Rome from 13 March 483 to his death on 1 March 492. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Portret_van_paus_Felix_III_%28IV%29%2C_RP-P-1874-12-111-1.jpg/330px-Portret_van_paus_Felix_III_%28IV%29%2C_RP-P-1874-12-111-1.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pope_Felix_III"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2017 —",
+      "hook": "Nawaz Sharif was disqualified from office for life by Supreme Court of Pakistan after finding him guilty of corruption charges.",
+      "body": "Mian Muhammad Nawaz Sharif is a Pakistani politician and businessman who thrice served as the prime minister of Pakistan, for three non-consecutive terms, first serving from 1990 to 1993, then from 1997 to 1999 and later from 2013 to 2017. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PrimeMinisterNawazSharif.jpg/330px-PrimeMinisterNawazSharif.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Nawaz_Sharif"
     },
     {
       "type": "card",
@@ -22,21 +33,23 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Mystery hominin left big footprints at ancient lake in Africa",
-      "body": "Over 1.4 million years ago, a group of eight ancient hominins walked across a shallow mudflat, but their footprints don’t match those of Paranthropus boisei or Homo erectus",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2581351-mystery-hominin-left-big-footprints-at-ancient-lake-in-africa/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Colonel Alexander Hugh \"Sandy\" MacGregor, is an Australian author and former army officer.",
+      "body": "From 1989 until 2015, MacGregor ran workshops and seminars, teaching people in the public, educational and private sectors on how to \"use the power of the subconscious mind.\" The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sandy_MacGregor_talks_resiliency_with_173rd_paratroopers_140801-A-MM054-260_%28cropped%29.jpg/330px-Sandy_MacGregor_talks_resiliency_with_173rd_paratroopers_140801-A-MM054-260_%28cropped%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sandy_MacGregor"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Peptides are the latest wellness trend – but do they work?",
-      "body": "A drug advisory committee in the US has recommended approval for several experimental peptides. But there have been no large-scale tests of these new compounds in humans, finds columnist Grace Wade",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2581574-peptides-are-the-latest-wellness-trend-but-do-they-work/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Samuel Simon Schmucker was a German-American Lutheran pastor and theologian.",
+      "body": "He was integral to the founding of the Lutheran church body known as the General Synod, as well as the oldest continuously operating Lutheran seminary and college in North America. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Samuel_Schmucker.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Simon_Schmucker"
     },
     {
       "type": "card",
@@ -49,71 +62,128 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1364 —",
+      "hook": "Troops of the Republic of Pisa and the Republic of Florence clash in the Battle of Cascina.",
+      "body": "The Republic of Pisa was an independent state existing from the 11th to the 15th century, centered on the Tuscan city of Pisa. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_Republic_of_Pisa.svg/330px-Flag_of_the_Republic_of_Pisa.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Pisa"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Psamtik III, known by the Graeco-Romans as Psammetichus or Psammeticus, or Psammenitus, was the last Pharaoh of the Twenty-sixth Dynasty of Egypt from 526 BC to 525 BC.",
+      "body": "Most of what is known about his reign and life was documented by the Greek historian Herodotus in the 5th century BC. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Psamtik_III"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Toni Turner, President of Trendstar Trading Group, LLC, is a technical analyst as well as an educator and speaker in the financial arena.",
+      "body": "She is the author of the books: A Beginner’s Guide to Day Trading Online, 2nd Ed., A Beginner’s Guide to Short-term Trading, 2nd Ed., Short-Term Trading in the New Stock Market, and Invest to Win: Earn & Keep Profits in Bull and Bear Markets with the Gains Mas",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Toni_Turner"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1939 —",
+      "hook": "The Sutton Hoo helmet is discovered.",
+      "body": "The Sutton Hoo helmet is a decorated Anglo-Saxon helmet found during a 1939 excavation of the Sutton Hoo ship-burial. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sutton_Hoo_helmet_2016.png/330px-Sutton_Hoo_helmet_2016.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Sutton_Hoo_helmet"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2002 —",
+      "hook": "Nine coal miners trapped in the flooded Quecreek Mine in Somerset County, Pennsylvania, are rescued after 77 hours underground.",
+      "body": "Coal mining is the process of extracting coal from the ground or from a mine. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Coal_mine_Wyoming.jpg/330px-Coal_mine_Wyoming.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Coal_mining"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2005 —",
+      "hook": "The Provisional Irish Republican Army calls an end to its thirty-year-long armed campaign against British rule in Northern Ireland.",
+      "body": "The Provisional Irish Republican Army, officially known as the Irish Republican Army and informally known as the Provos, was an Irish republican paramilitary force that sought to end British rule in Northern Ireland, facilitate Irish reunification and bring about an independent socialist republic, which would encompass all of Ireland. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Provisional_Irish_Republican_Army_Badge.svg/330px-Provisional_Irish_Republican_Army_Badge.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Spinola's campaign was launched by the Spanish crown in 1605 as a response to Maurice of Nassau's territorial expansion within the Habsburg Netherlands during his ten years campaign.",
+      "body": "During this campaign, Spanish forces commanded by Ambrogio Spinola successfully conquered cities along the Rhine and advanced into the eastern provinces of the Dutch Republic. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Michiel_Jansz_van_Mierevelt_-_Ambrogio_Spinola.jpg/330px-Michiel_Jansz_van_Mierevelt_-_Ambrogio_Spinola.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spinola's_campaign_of_1605%E2%80%931606"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Upland by Ed Douglas review – a glorious survey of Britain’s high places",
+      "body": "<p>The writer and climber brings colour and carnival to his account of a country and people shaped by its mountains</p><p>It comes as a shock to learn that Britain’s uplands were not always rocky, covered with coarse grass and suitable only",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/28/upland-by-ed-douglas-review-a-glorious-survey-of-britains-high-places"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "1757 oil-on-canvas painting by the French artist Jean-Baptiste Greuze, produced during his stay in Rome.",
+      "body": "The Guitar Player or The Guitarist is a c. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Petit_Palais_Greuze_enfance_IMG_8842.jpg/330px-Petit_Palais_Greuze_enfance_IMG_8842.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Guitar_Player_(Greuze)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Tougher to survive as a music festival in the UK, says Womad founder Peter Gabriel",
+      "body": "Genesis frontman Peter Gabriel says putting on WOMAD in Wiltshire is always a \"gamble\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwnyq0edwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Wham! 10 Days in China review – pop meets politics in George and Andrew’s great leap east",
+      "body": "<p>The duo’s groundbreaking 1985 tour reveals a strange collision of pop stardom and communism, a re-edit of Lindsay Anderson’s efforts that got him fired</p><p>Here is a documentary that has a very important story to tell, maybe more impor",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/28/wham-10-days-in-china-review-george-michael-andrew-ridgeley"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers",
+      "body": "The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "Jackass: Best and Last review – kings of gross-out comedy’s final, funny farewell",
       "body": "<p>So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgia</p><p>The boy-men of <a href=\"https://www.theguardian.com/film/202",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "\"I Am an Island\" is a song by Australian rock musician Richard Clapton.",
-      "body": "The song was released in February 1982 as the lead single from Clapton's seventh studio album, The Great Escape. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e0/I_Am_an_Island_by_Richard_Clapton.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/I_Am_an_Island_(song)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Berenice of Cilicia, also known as Julia Berenice and sometimes spelled Bernice, was a Jewish client queen of the Roman Empire during the second half of the 1st century.",
-      "body": "Berenice was a member of the Herodian dynasty that ruled the Roman province of Judaea between 39 BC and 92 AD. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Titus_and_Berenice.jpg/330px-Titus_and_Berenice.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Berenice_(daughter_of_Herod_Agrippa)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Wojciech Wiewiórowski is a Polish lawyer, university teacher and European Data Protection Supervisor.",
-      "body": "He is a former General Inspector of the Personal Data Protection in Poland (2010-2014). Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20240123_EDPS_W_Wiewiorowski.jpg/330px-20240123_EDPS_W_Wiewiorowski.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wojciech_Wiewi%C3%B3rowski"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Love Island UK crowns winners of twist-filled series",
-      "body": "For the first time in the history of the UK series, only three couples were in the final after several twists.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c0rd5l4xlvro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Shaun Johnston is a Canadian movie and theater actor best known for his role as Jack Bartlett on the CBC drama Heartland, which debuted in October 2007.",
-      "body": "He co-founded the Shadow Theatre in Edmonton and made his first professional forays in Alberta's thriving theatre scene. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Shaun_Johnston_2015.jpg/330px-Shaun_Johnston_2015.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Shaun_Johnston"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Michal Novotný is a Czech art curator, critic, and writer.",
-      "body": "He is the Director of the Collection of Modern and Contemporary Art at National Gallery Prague. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Michal_Novotn%C3%BD_(curator)"
     }
   ]
 }
