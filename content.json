@@ -1,7 +1,45 @@
 {
-  "generated": "2026-07-28T19:00:56.115Z",
-  "count": 18,
+  "generated": "2026-07-28T20:54:49.354Z",
+  "count": 14,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘We’ve always been wary of working together’: Val McDermid and Jo Sharp on writing a novel as a couple",
+      "body": "<p>The bestselling crime writer and Scotland’s first female Geographer Royal had long kept their work separate, until a chance discovery about a doomed 17th-century expedition forced them to collaborate</p><p>The airy, modern house on the o",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/28/val-mcdermid-jo-sharp-this-door-of-the-seas"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Velveteen Rabbit is a British children's book written by Margery Williams and illustrated by William Nicholson.",
+      "body": "It chronicles the story of a stuffed rabbit's desire to become real through the love of his owner. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Velveteen_Rabbit_pg_1.jpg/330px-The_Velveteen_Rabbit_pg_1.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Velveteen_Rabbit"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I would be ashamed to have written any part of this’: Odyssey translator Emily Wilson attacks Nolan blockbuster",
+      "body": "<p>Wilson, whose work on Homer’s epic was praised by Nolan, said his film was grandiose and superficial with ‘nothing convincing to say’</p><p>• <a href=\"https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/jul/27/odyssey-translator-emily-wilson-attacks-nolan-blockbuster"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Carnegie Hall is a concert venue at 881 Seventh Avenue, between 56th and 57th Streets, in Midtown Manhattan, New York City.",
+      "body": "Designed by architect William Burnet Tuthill and built by its namesake, industrialist and philanthropist Andrew Carnegie, the venue is one of the most prestigious in the world for both classical music and popular music. Bring it up somewhere. Watch the reactio",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Carnegie_Hall_-_Full_%2848155558466%29.jpg/330px-Carnegie_Hall_-_Full_%2848155558466%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carnegie_Hall"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,52 +51,70 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Jon Stewart on Trump’s comedy routine: ‘Normally I’d say don’t quit your day job but in this case …’",
-      "body": "<p>Late-night hosts raked over the president’s much-ridiculed performance at the White House correspondents’ dinner</p><p>Late-night hosts ridiculed Donald Trump’s disastrous attempt at a comedy routine at the weekend’s White House correspo",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/jul/28/jon-stewart-trump-white-house-correspondents-dinner"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "\"True Tears of Joy\" was the fourth single from Australian pub rockers, Hunters & Collectors' seventh studio album, Cut.",
+      "body": "It was released after the album on 23 November 1992. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/True_Tears_of_Joy"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "World War I: In the culmination of the July Crisis, Austria-Hungary declares war on the Kingdom of Serbia and begins the Great War.",
-      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_I"
+      "opener": "Okay, this one's fun —",
+      "hook": "The Supreme Court of Tasmania is the highest State court in the Australian State of Tasmania.",
+      "body": "Together with the Magistrates Court, it forms the judiciary in Tasmania. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29_%28St_Edwards_Crown%29.svg/330px-Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29_%28St_Edwards_Crown%29.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Tasmania"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in June",
+      "body": "<p>Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I just finished reading <strong>Wimmy Road Boyz</strong> by Sufiyaan Salam. I ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jun/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-june-candice-carty-williams"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Director Mike Leigh likely to retire after his next film due to illness",
+      "body": "<p>Film-maker’s drama Tender Loving Care ‘likely’ his final one as he manages myositis, a disease affecting immune system</p><p>Film-maker Mike Leigh has said his next film is likely to be his last.</p><p>According to <a href=\"https://www.i",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/jul/28/mike-leigh-last-film-myositis"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
+      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "After a shadowy postwar existence the unit was finally disbanded in 1953.",
+      "body": "The Royal East Middlesex Militia was an auxiliary regiment reorganised in Middlesex in the Home counties of England during the 18th Century from earlier precursor units. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Royal_East_Middlesex_Militia"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Johannes Gerardus Franciscus (Jan) Veldhuis is a Dutch administrator/governor in the fields of scientific education and research, healthcare and culture, nationally and internationally.",
-      "body": "His last post was president of Utrecht University, from 1986 until 2003. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "Okay, this one's fun —",
+      "hook": "Samantha Allison Whitcomb is an American-Australian professional basketball player for the Phoenix Mercury of the Women's National Basketball Association (WNBA).",
+      "body": "She is also contracted with the Perth Lynx of the Women's National Basketball League (WNBL). Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sami_Whitcomb_32_Be%C5%9Fikta%C5%9F_WB_TKBSL_20251224_%283%29_%28cropped%29.jpg/330px-Sami_Whitcomb_32_Be%C5%9Fikta%C5%9F_WB_TKBSL_20251224_%283%29_%28cropped%29.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jan_G.F._Veldhuis"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1402 —",
-      "hook": "Ottoman-Timurid Wars: Battle of Ankara: Timur, ruler of Timurid Empire, defeats forces of the Ottoman Empire sultan Bayezid I.",
-      "body": "The Battle of Ankara or Angora was fought on 28 July 1402, at the Çubuk plain near Ankara, between the forces of Timur and the Ottoman sultan Bayezid I. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Timur_reviews_his_troops_in_the_plain_of_Sivas_in_the_battle_of_Ankara_in_mid-summer_1402._Zafarnama_of_1436%2C_facing_folios_356r_%28left%29%2C_355v_%28right%29.jpg/330px-Timur_reviews_his_troops_in_the_plain_of_Sivas_in_the_battle_of_Ankara_in_mid-summer_1402._Zafarnama_of_1436%2C_facing_folios_356r_%28left%29%2C_355v_%28right%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Ankara"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2018 —",
-      "hook": "Australian Wendy Tuck becomes the first female skipper to win the Clipper Round the World Yacht Race.",
-      "body": "Wendy Tuck is a yachtswoman and previous chief instructor and principal at the Clipper Race training base in Sydney, Australia. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wendy_Tuck_in_Liverpool_%28cropped%29.jpg/330px-Wendy_Tuck_in_Liverpool_%28cropped%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Wendy_Tuck"
+      "url": "https://en.wikipedia.org/wiki/Sami_Whitcomb"
     },
     {
       "type": "card",
@@ -72,108 +128,12 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Attention seeking behavior is to act in a way that is likely to elicit attention.",
-      "body": "Attention seeking behavior as a pathological personality trait is defined in the DSM-5 as \"engaging in behavior designed to attract notice and to make oneself the focus of others' attention and admiration\". Bring it up somewhere. Watch the reaction.",
+      "opener": "File under 'wait, really?' —",
+      "hook": "\"Choices 2020\" is the ninth episode of the twelfth season of the American television series RuPaul's Drag Race.",
+      "body": "It originally aired on April 24, 2020. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Attention_seeking"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2005 —",
-      "hook": "The Provisional Irish Republican Army calls an end to its thirty-year-long armed campaign against British rule in Northern Ireland.",
-      "body": "The Provisional Irish Republican Army, officially known as the Irish Republican Army and informally known as the Provos, was an Irish republican paramilitary force that sought to end British rule in Northern Ireland, facilitate Irish reunification and bring about an independent socialist republic, which would encompass all of Ireland. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Provisional_Irish_Republican_Army_Badge.svg/330px-Provisional_Irish_Republican_Army_Badge.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘He liked to get people’s blood boiling’: metal masters Mastodon on the loss of bandmate Brent Hinds – and his shocking words before his death",
-      "body": "<p>The Grammy-winning band had an acrimonious rift with Hinds – then he died in a motorbike crash. They explain how they’re paying tribute on their new album, and why their love for each other never ended</p><p>Mastodon are near the end of ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/jul/28/metal-masters-mastodon-on-loss-of-brent-hinds-new-album-marrow-deep-interview"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘I would be ashamed to have written any part of this’: Odyssey translator Emily Wilson attacks Nolan blockbuster",
-      "body": "<p>Wilson, whose work on Homer’s epic was praised by Nolan, said his film was grandiose and superficial with ‘nothing convincing to say’</p><p>• <a href=\"https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/jul/27/odyssey-translator-emily-wilson-attacks-nolan-blockbuster"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘We’ve always been wary of working together’: Val McDermid and Jo Sharp on writing a novel as a couple",
-      "body": "<p>The bestselling crime writer and Scotland’s first female Geographer Royal had long kept their work separate, until a chance discovery about a doomed 17th-century expedition forced them to collaborate</p><p>The airy, modern house on the o",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/28/val-mcdermid-jo-sharp-this-door-of-the-seas"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Charles Joseph Baker is an American former middle infielder and third baseman in Major League Baseball who played for the San Diego Padres and Minnesota Twins in parts of three seasons spanning 1978–1981.",
-      "body": "Listed at 5' 11\", 180 lb., he batted and threw right handed. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chuck_Baker_-_San_Diego_Padres_-_1978.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chuck_Baker"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1939 —",
-      "hook": "The Sutton Hoo helmet is discovered.",
-      "body": "The Sutton Hoo helmet is a decorated Anglo-Saxon helmet found during a 1939 excavation of the Sutton Hoo ship-burial. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sutton_Hoo_helmet_2016.png/330px-Sutton_Hoo_helmet_2016.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sutton_Hoo_helmet"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Leigh (David) Blackmore is an Australian horror writer, critic, editor, occultist, musician and proponent of post-left anarchy.",
-      "body": "He was the Australian representative for the Horror Writers of America (1994–95) and served as the second President of the Australian Horror Writers Association (2010–2011). The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Leigh_Blackmore.jpg/330px-Leigh_Blackmore.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Leigh_Blackmore"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1364 —",
-      "hook": "Troops of the Republic of Pisa and the Republic of Florence clash in the Battle of Cascina.",
-      "body": "The Republic of Pisa was an independent state existing from the 11th to the 15th century, centered on the Tuscan city of Pisa. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_Republic_of_Pisa.svg/330px-Flag_of_the_Republic_of_Pisa.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Republic_of_Pisa"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
-      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Landt Trio was one of the busiest singing groups in early radio.",
-      "body": "In 1928, the three brothers, Karl (1908–1997), Jack (1911–1959), and Dan (1896–1961) Landt, with their accompanist Howard White, were signed onto the NBC Blue Network as sustaining artists and began a career of more than 20 years. One of those things you can't",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c8/The_Landt_Trio_on_CBS.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Landt_Trio"
+      "url": "https://en.wikipedia.org/wiki/Choices_2020"
     }
   ]
 }
