@@ -1,52 +1,103 @@
 {
-  "generated": "2026-07-29T04:54:47.505Z",
-  "count": 11,
+  "generated": "2026-07-29T07:34:38.799Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Outsider and Others is a collection of stories by American writer H.",
-      "body": "It was released in 1939 and was the first book published by Arkham House. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/27/The_Outsider_and_Others_book_cover.jpg",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Prime of Miss Jean Brodie is a novel by Muriel Spark, the best known of her works.",
+      "body": "It was first published in The New Yorker magazine and was published as a book by Macmillan in 1961. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/Jeanbrodie.JPG",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Outsider_and_Others"
+      "url": "https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "My Precious is a 2023 Thai coming of age romance film based on the semi-autobiographical novel The Girl We Chased Together in Those Years by Taiwanese author Giddens Ko.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a7/My_Precious_Film_Official_Poster.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/My_Precious_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Diary of a Wimpy Kid: Rodrick Rules is a children's novel by American author and cartoonist Jeff Kinney, based on the FunBrain.com version.",
+      "body": "It is the sequel to Diary of a Wimpy Kid, followed by The Last Straw. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/80/Diary_of_a_Wimpy_Kid_Rodrick_Rules_book_cover.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid%3A_Rodrick_Rules"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
-      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
+      "opener": "BBC Entertainment —",
+      "hook": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+      "body": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1985 —",
+      "hook": "Space Shuttle Challenger launches on STS-51-F. The shuttle ends up in a lower orbit than planned due to an engine failure during ascent.",
+      "body": "Space Shuttle Challenger (OV-099) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/330px-S83-35803_%28cropped%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Sámuel Fenichel was a Hungarian naturalist, collector, and explorer who died after a very brief period of 14 months in Papua New Guinea.",
+      "body": "His main collections were insect specimens, and several species have been named after him. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fenichel_S%C3%A1muel-1.jpg/330px-Fenichel_S%C3%A1muel-1.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/S%C3%A1muel_Fenichel"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "‘We’ve always been wary of working together’: Val McDermid and Jo Sharp on writing a novel as a couple",
-      "body": "<p>The bestselling crime writer and Scotland’s first female Geographer Royal had long kept their work separate, until a chance discovery about a doomed 17th-century expedition forced them to collaborate</p><p>The airy, modern house on the o",
+      "hook": "Beginning Middle End by Valeria Luiselli review – a mother and daughter’s odyssey",
+      "body": "<p>This journey of discovery from the US to Sicily tackles urgent themes, but is increasingly inward-looking</p><p>In Grace Paley’s short story A Conversation With My Father, a request is made of the Paley-like narrator. “I would like you t",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/28/val-mcdermid-jo-sharp-this-door-of-the-seas"
+      "url": "https://www.theguardian.com/books/2026/jul/29/beginning-middle-end-by-valeria-luiselli-review-a-mother-and-daughters-odyssey"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1967 —",
+      "hook": "During the fourth day of celebrating its 400th anniversary, the city of Caracas, Venezuela is shaken by an earthquake, leaving approximately 500 dead.",
+      "body": "Caracas, officially Santiago de León de Caracas (CCS), is the capital and largest city of Venezuela, and the center of the Metropolitan Region of Caracas. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caracas_desde_el_%C3%A1vila.jpg/330px-Caracas_desde_el_%C3%A1vila.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Caracas"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 615 —",
+      "hook": "Pakal ascends the throne of Palenque at the age of 12.",
+      "body": "Kʼinich Janaab Pakal I, also known as Pacal or Pacal the Great, was ajaw of the Maya city-state of Palenque in the Late Classic period of pre-Columbian Mesoamerican chronology. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PacalII.svg/330px-PacalII.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/K%CA%BCinich_Janaab%CA%BC_Pakal"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘I would be ashamed to have written any part of this’: Odyssey translator Emily Wilson attacks Nolan blockbuster",
-      "body": "<p>Wilson, whose work on Homer’s epic was praised by Nolan, said his film was grandiose and superficial with ‘nothing convincing to say’</p><p>• <a href=\"https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/jul/27/odyssey-translator-emily-wilson-attacks-nolan-blockbuster"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+      "opener": "BBC Entertainment —",
+      "hook": "Pop star Madison Beer and NFL player Justin Herbert announce engagement",
+      "body": "The couple made the announcement on social media on Tuesday, including photos of the proposal.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/czxq028q99go?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -61,20 +112,50 @@
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "\"The Yama Yama Man\" was a comical song for the Broadway show The Three Twins, published in 1908 by M.",
-      "body": "Witmark & Sons with music by Karl Hoschna and lyrics by Collin Davis. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Three_Twins_sheet_music_cover_%281908%29.JPEG/330px-Three_Twins_sheet_music_cover_%281908%29.JPEG",
+      "hook": "The Lightning Thief is a musical with music and lyrics by Rob Rokicki and a book by Joe Tracz, based on the 2005 novel of the same name by Rick Riordan.",
+      "body": "In the musical, Percy Jackson - a teenage boy who discovers that he is a demigod - goes on a quest to find Zeus's missing lightning bolt to prevent a war between the Greek gods. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/The_Lightning_Thief_The_Percy_Jackson_Musical_poster.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Yama_Yama_Man"
+      "url": "https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1981 —",
+      "hook": "After impeachment on June 21, Abolhassan Banisadr flees with Massoud Rajavi to Paris, in an Iranian Air Force Boeing 707, piloted by Colonel Behzad Moezzi, to form the National Council of Resistance of Iran.",
+      "body": "Abolhassan Banisadr was an Iranian politician, writer, and political dissident who served as the first president of Iran following the Iranian Revolution, holding office from 1980 until his impeachment in 1981. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Abolhassan_Banisadr_portrait_1980_2.jpg/330px-Abolhassan_Banisadr_portrait_1980_2.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Abolhassan_Banisadr"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "Plato's electronics ready for space",
-      "body": "Image: The European Space Agency’s terrestrial planet hunter Plato has recently completed a series of key tests inside the Maxwell Test Chamber at ESTEC , demonstrating that its electronic equipment is fit to work in space. This photo captu",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Plato_s_electronics_ready_for_space"
+      "opener": "BBC Entertainment —",
+      "hook": "Amelia Dimoldenberg: I wouldn't invite Andy Burnham on Chicken Shop Date - but I'd love a chat",
+      "body": "The YouTube star on helping young creatives, and who she wants (and doesn’t want) on her show.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c8rng7pm212o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "One species, Dromornis stirtoni, was 3 m tall, making them among the largest birds ever.",
+      "body": "Dromornithidae, known as mihirungs and informally as thunder birds or demon ducks, is an extinct family of large, flightless birds native to Australia from at least the late Oligocene to the Late Pleistocene. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dromornis_stirtoni_01.jpg/330px-Dromornis_stirtoni_01.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dromornithidae"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1030 —",
+      "hook": "Ladejarl-Fairhair succession wars: Battle of Stiklestad: King Olaf II fights and dies trying to regain his Norwegian throne from the Danes.",
+      "body": "The Earls of Lade were a dynasty of Norse jarls who ruled what is now Trøndelag and Hålogaland from the 9th century to the 11th century. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ladejarlen.jpg/330px-Ladejarlen.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Earls_of_Lade"
     },
     {
       "type": "card",
@@ -87,23 +168,42 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Henne Kirkeby Kro is an inn (kro) in the village of Henne Kirkeby in Varde Municipality, Denmark.",
-      "body": "It was established in 1790 and since 2007 has been owned by Flemming Skouboe. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Henne_Kirkeby_Kro_%282014-08-07%29.jpeg/330px-Henne_Kirkeby_Kro_%282014-08-07%29.jpeg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Henne_Kirkeby_Kro"
+      "cat": "history",
+      "opener": "On this day in 1818 —",
+      "hook": "French physicist Augustin Fresnel submits his prizewinning \"Memoir on the Diffraction of Light\", precisely accounting for the limited extent to which light spreads into shadows, and thereby demolishing the oldest objection to the wave theory of light.",
+      "body": "Augustin-Jean Fresnel was a French civil engineer and physicist whose research in optics led to the almost unanimous acceptance of the wave theory of light, fully supplanting Newton's corpuscular theory, from the late 1830s until the end of the 19th century. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Augustin_Fresnel.jpg/330px-Augustin_Fresnel.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
+      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Tamburica or tamboura refers to a family of long-necked lutes popular in Southeast Europe and southeastern Central Europe, especially Bosnia and Herzegovina, Croatia, Hungary, Serbia, and Slovenia.",
-      "body": "It is also known in Burgenland, Austria. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Loverboy is a 2005 American drama film directed by Kevin Bacon.",
+      "body": "The cast includes his wife, Kyra Sedgwick, as well as both of their children, Travis and Sosie, the latter of whom has gone on to further her acting career in film and television. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Loverboy_ver2.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tamburica"
+      "url": "https://en.wikipedia.org/wiki/Loverboy_(2005_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The 386th Air Expeditionary Wing is a provisional United States Air Force unit assigned to United States Air Forces Central.",
+      "body": "As a provisional unit, it may be activated or inactivated at any time. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/386thaew-2.jpg/330px-386thaew-2.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/386th_Air_Expeditionary_Wing"
     }
   ]
 }
