@@ -1,45 +1,122 @@
 {
-  "generated": "2026-07-29T07:34:38.799Z",
-  "count": 21,
+  "generated": "2026-07-29T10:23:23.795Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Prime of Miss Jean Brodie is a novel by Muriel Spark, the best known of her works.",
-      "body": "It was first published in The New Yorker magazine and was published as a book by Macmillan in 1961. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/Jeanbrodie.JPG",
+      "opener": "You probably never noticed this —",
+      "hook": "Dame Beryl Margaret Bainbridge was an English writer.",
+      "body": "She was primarily known for her works of psychological fiction, often macabre tales set among the English working class. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Beryl_Bainbridge"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "My Precious is a 2023 Thai coming of age romance film based on the semi-autobiographical novel The Girl We Chased Together in Those Years by Taiwanese author Giddens Ko.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a7/My_Precious_Film_Official_Poster.png",
+      "hook": "Tropic of Cancer is an autobiographical novel by Henry Miller that is best known as \"notorious for its candid sexuality\", with the resulting social controversy considered responsible for the \"free speech that we now take for granted in literature\".",
+      "body": "It was first published in 1934 by the Obelisk Press in Paris, France; however, this edition was banned in the United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/22/TropicOfCancer.JPG",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/My_Precious_(film)"
+      "url": "https://en.wikipedia.org/wiki/Tropic_of_Cancer_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1976 —",
+      "hook": "In New York City, David Berkowitz (a.k.a. the \"Son of Sam\") kills one person and seriously wounds another in the first of a series of attacks.",
+      "body": "David Richard Berkowitz, also known as the Son of Sam, the .44 Caliber Killer and the Phantom of the Bronx, is an American serial killer, serial arsonist, and former United States Army soldier who committed a stabbing and a series of shootings in New York City between 1975 and 1977, killing six people and wounding eleven others. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/David_Berkowitz_Arrested_August_10_1977_Mount_Vernon_Argus.jpg/330px-David_Berkowitz_Arrested_August_10_1977_Mount_Vernon_Argus.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/David_Berkowitz"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Personal Problems review – an exhilarating lo-fi epic of Black working-class life in 80s New York",
+      "body": "<p>The director of Ganja &amp; Hess, Bill Gunn, turns analogue video and improvisation into a work of startling intimacy, humour and emotional force</p><p>In 1980, Bill Gunn, director of <a href=\"https://www.theguardian.com/film/2020/oct/30",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/personal-problems-review-an-exhilarating-lo-fi-epic-of-black-working-class-life-in-80s-new-york"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 923 —",
+      "hook": "Battle of Firenzuola: Lombard forces under King Rudolph II and Adalbert I, margrave of Ivrea, defeat the dethroned Emperor Berengar I of Italy at Firenzuola (Tuscany).",
+      "body": "The Battle of Fiorenzuola was fought on 29 July 923 between the forces of Rudolph II of Burgundy and Adalbert I of Ivrea on one side and Berengar I of Italy on the other. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Fiorenzuola"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Dua Lipa to interview Zadie Smith at London Literature festival",
+      "body": "<p>The pop star is curating the 2026 festival, which also features Patti Smith, Mustafa and Ta-Nehisi Coates, as part of the Southbank Centre’s anniversary year</p><p>Zadie Smith, Patti Smith and Mustafa are among the star names lined up to",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/29/dua-lipa-to-interview-zadie-smith-at-london-literature-festival"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1014 —",
+      "hook": "Byzantine–Bulgarian wars: Battle of Kleidion: Byzantine emperor Basil II inflicts a decisive defeat on the Bulgarian army, and his subsequent treatment of 15,000 prisoners reportedly causes Tsar Samuil of Bulgaria to die of a heart attack less than three months later, on October 6.",
+      "body": "The Byzantine–Bulgarian wars were a series of conflicts fought between the Byzantine Empire and the Bulgarian Empire which began after the Bulgars conquered parts of the Balkan peninsula after 680 AD. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BG_BYZ.JPG/330px-BG_BYZ.JPG",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Fethia Hechmi is a Tunisian novelist.",
+      "body": "She published her first collection of poems entitled al-Uqḥuwān al-maṣlūb alā al-shifah in 2002, and her first novel Ḥāfiyat al-rūḥ (novel) in 2002. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fethia_Hechmi"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Diary of a Wimpy Kid: Rodrick Rules is a children's novel by American author and cartoonist Jeff Kinney, based on the FunBrain.com version.",
-      "body": "It is the sequel to Diary of a Wimpy Kid, followed by The Last Straw. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/80/Diary_of_a_Wimpy_Kid_Rodrick_Rules_book_cover.png",
+      "hook": "I Saved Myself with a Potion!: Life in Another World is a Japanese light novel series written by Akira Iwafune and illustrated by Sunaho Tobe.",
+      "body": "It was serialized online from April 2014 to September 2024 on the user-generated novel publishing website Shōsetsuka ni Narō. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/34/Potion%2C_Wagami_o_Tasukeru_light_novel_volume_1_cover.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid%3A_Rodrick_Rules"
+      "url": "https://en.wikipedia.org/wiki/I_Saved_Myself_with_a_Potion!"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
-      "body": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Film —",
+      "hook": "Solo Sunny review – a rueful East German gem of ambition, loneliness and faded dreams",
+      "body": "<p>Konrad Wolf’s 1980 drama follows a singer trying to escape the drab compromises of GDR life, capturing the melancholy of thwarted ambition with warmth and wit</p><p>The terrible sadness, tattiness and poisoned idealism of the old GDR is ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/solo-sunny-review-konrad-wolf"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Emperor's Candlesticks is a 1937 American historical drama film starring William Powell and Luise Rainer and directed by George Fitzmaurice.",
+      "body": "It is based on the 1899 novel of the same name by Baroness Orczy. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Poster_-_Emperor%27s_Candlesticks%2C_The_01.jpg/330px-Poster_-_Emperor%27s_Candlesticks%2C_The_01.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Emperor's_Candlesticks_(1937_film)"
     },
     {
       "type": "card",
@@ -53,157 +130,50 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Billy Liar review – Tom Courtenay is superb in classic study of a young man and his quixotic dreams",
+      "body": "<p>Courtenay gives a beautiful performance as the undertaker’s clerk who nurses preposterous ambitions. But the film is too quick to surrender them</p><p>This is John Schlesinger’s much-loved British comedy from 1963, based on the 1959 nove",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/billy-liar-review-tom-courtenay-is-superb-in-classic-study-of-a-young-man-and-his-quixotic-dreams"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Sámuel Fenichel was a Hungarian naturalist, collector, and explorer who died after a very brief period of 14 months in Papua New Guinea.",
-      "body": "His main collections were insect specimens, and several species have been named after him. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fenichel_S%C3%A1muel-1.jpg/330px-Fenichel_S%C3%A1muel-1.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/S%C3%A1muel_Fenichel"
+      "opener": "On this day in 2010 —",
+      "hook": "An overloaded passenger ferry capsizes on the Kasai River in Bandundu Province, Democratic Republic of the Congo, resulting in at least 80 deaths.",
+      "body": "The 2010 Kasai River ferry capsizing took place on July 29, 2010, when an overloaded passenger ferry capsized on the Kasai River in the Bandundu Province, east of Kinshasa, in the Democratic Republic of the Congo. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2010_Kasai_River_ferry_capsizing"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Beginning Middle End by Valeria Luiselli review – a mother and daughter’s odyssey",
-      "body": "<p>This journey of discovery from the US to Sicily tackles urgent themes, but is increasingly inward-looking</p><p>In Grace Paley’s short story A Conversation With My Father, a request is made of the Paley-like narrator. “I would like you t",
+      "hook": "Alive by Melanie Challenger review – a maverick study of what it means to have a body",
+      "body": "<p>In this disorienting book, a poet argues we have been looking at nature – and ourselves – the wrong way</p><p>The eastern breakwater of Granton harbour is almost 1km long, and swimmers can follow its crooked finger, heading straight out ",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/29/beginning-middle-end-by-valeria-luiselli-review-a-mother-and-daughters-odyssey"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1967 —",
-      "hook": "During the fourth day of celebrating its 400th anniversary, the city of Caracas, Venezuela is shaken by an earthquake, leaving approximately 500 dead.",
-      "body": "Caracas, officially Santiago de León de Caracas (CCS), is the capital and largest city of Venezuela, and the center of the Metropolitan Region of Caracas. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caracas_desde_el_%C3%A1vila.jpg/330px-Caracas_desde_el_%C3%A1vila.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Caracas"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 615 —",
-      "hook": "Pakal ascends the throne of Palenque at the age of 12.",
-      "body": "Kʼinich Janaab Pakal I, also known as Pacal or Pacal the Great, was ajaw of the Maya city-state of Palenque in the Late Classic period of pre-Columbian Mesoamerican chronology. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PacalII.svg/330px-PacalII.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/K%CA%BCinich_Janaab%CA%BC_Pakal"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Pop star Madison Beer and NFL player Justin Herbert announce engagement",
-      "body": "The couple made the announcement on social media on Tuesday, including photos of the proposal.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/czxq028q99go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Director Mike Leigh likely to retire after his next film due to illness",
-      "body": "<p>Film-maker’s drama Tender Loving Care ‘likely’ his final one as he manages myositis, a disease affecting immune system</p><p>Film-maker Mike Leigh has said his next film is likely to be his last.</p><p>According to <a href=\"https://www.i",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/jul/28/mike-leigh-last-film-myositis"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Lightning Thief is a musical with music and lyrics by Rob Rokicki and a book by Joe Tracz, based on the 2005 novel of the same name by Rick Riordan.",
-      "body": "In the musical, Percy Jackson - a teenage boy who discovers that he is a demigod - goes on a quest to find Zeus's missing lightning bolt to prevent a war between the Greek gods. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/The_Lightning_Thief_The_Percy_Jackson_Musical_poster.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1981 —",
-      "hook": "After impeachment on June 21, Abolhassan Banisadr flees with Massoud Rajavi to Paris, in an Iranian Air Force Boeing 707, piloted by Colonel Behzad Moezzi, to form the National Council of Resistance of Iran.",
-      "body": "Abolhassan Banisadr was an Iranian politician, writer, and political dissident who served as the first president of Iran following the Iranian Revolution, holding office from 1980 until his impeachment in 1981. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Abolhassan_Banisadr_portrait_1980_2.jpg/330px-Abolhassan_Banisadr_portrait_1980_2.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Abolhassan_Banisadr"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Amelia Dimoldenberg: I wouldn't invite Andy Burnham on Chicken Shop Date - but I'd love a chat",
-      "body": "The YouTube star on helping young creatives, and who she wants (and doesn’t want) on her show.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c8rng7pm212o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "One species, Dromornis stirtoni, was 3 m tall, making them among the largest birds ever.",
-      "body": "Dromornithidae, known as mihirungs and informally as thunder birds or demon ducks, is an extinct family of large, flightless birds native to Australia from at least the late Oligocene to the Late Pleistocene. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dromornis_stirtoni_01.jpg/330px-Dromornis_stirtoni_01.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dromornithidae"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1030 —",
-      "hook": "Ladejarl-Fairhair succession wars: Battle of Stiklestad: King Olaf II fights and dies trying to regain his Norwegian throne from the Danes.",
-      "body": "The Earls of Lade were a dynasty of Norse jarls who ruled what is now Trøndelag and Hålogaland from the 9th century to the 11th century. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ladejarlen.jpg/330px-Ladejarlen.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Earls_of_Lade"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in June",
-      "body": "<p>Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I just finished reading <strong>Wimmy Road Boyz</strong> by Sufiyaan Salam. I ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jun/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-june-candice-carty-williams"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1818 —",
-      "hook": "French physicist Augustin Fresnel submits his prizewinning \"Memoir on the Diffraction of Light\", precisely accounting for the limited extent to which light spreads into shadows, and thereby demolishing the oldest objection to the wave theory of light.",
-      "body": "Augustin-Jean Fresnel was a French civil engineer and physicist whose research in optics led to the almost unanimous acceptance of the wave theory of light, fully supplanting Newton's corpuscular theory, from the late 1830s until the end of the 19th century. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Augustin_Fresnel.jpg/330px-Augustin_Fresnel.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel"
+      "url": "https://www.theguardian.com/books/2026/jul/29/alive-by-melanie-challenger-review-a-maverick-study-of-what-it-means-to-have-a-body"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
-      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
+      "hook": "The Devil’s Mouth review – Amazon’s shark thriller gives us just about enough to chew on",
+      "body": "<p>A group of holidaying friends get trapped in a cave system with a bull shark in a solidly entertaining b-movie lifted by a toxic central friendship</p><p>We’ve officially reached <a href=\"https://www.theguardian.com/film/2026/jul/28/shar",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Loverboy is a 2005 American drama film directed by Kevin Bacon.",
-      "body": "The cast includes his wife, Kyra Sedgwick, as well as both of their children, Travis and Sosie, the latter of whom has gone on to further her acting career in film and television. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Loverboy_ver2.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Loverboy_(2005_film)"
+      "url": "https://www.theguardian.com/film/2026/jul/29/the-devils-mouth-review-amazon-shark-thriller"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The 386th Air Expeditionary Wing is a provisional United States Air Force unit assigned to United States Air Forces Central.",
-      "body": "As a provisional unit, it may be activated or inactivated at any time. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/386thaew-2.jpg/330px-386thaew-2.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/386th_Air_Expeditionary_Wing"
+      "opener": "On this day in 1921 —",
+      "hook": "Adolf Hitler becomes leader of the National Socialist German Workers' Party.",
+      "body": "Adolf Hitler was an Austrian-born German politician who was dictator of Germany in the Nazi era from 1933 until his suicide in 1945. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/330px-Hitler_portrait_crop_%28cropped%29%282%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Adolf_Hitler"
     }
   ]
 }
