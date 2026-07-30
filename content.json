@@ -1,94 +1,170 @@
 {
-  "generated": "2026-07-30T07:24:17.010Z",
-  "count": 19,
+  "generated": "2026-07-30T10:07:22.488Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Amelia Dimoldenberg: I wouldn't invite Andy Burnham on Chicken Shop Date - but I'd love a chat",
-      "body": "The YouTube star on helping young creatives, and who she wants (and doesn’t want) on her show.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c8rng7pm212o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "Corambe steinbergae is a species of sea slug, an Eastern Pacific Ocean nudibranch, a marine, opisthobranch gastropod mollusk in the family Corambidae.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Corambe_steinbergae_from_Santa_Cruz%2C_California.jpg/330px-Corambe_steinbergae_from_Santa_Cruz%2C_California.jpg",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Virtual reality (VR) is a simulated experience that employs 3D head-mounted displays and pose tracking to give the user an immersive feel of a virtual world.",
+      "body": "Applications of virtual reality include entertainment, education, research and business. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Reality_check_ESA384313.jpg/330px-Reality_check_ESA384313.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Corambe_steinbergae"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1729 —",
-      "hook": "Founding of Baltimore, Maryland.",
-      "body": "Baltimore, also known as Baltimore City, is the most populous city in the U.S. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fell%27s_Point_Aerial_2022.jpg/330px-Fell%27s_Point_Aerial_2022.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Baltimore"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Beginning Middle End by Valeria Luiselli review – a mother and daughter’s odyssey",
-      "body": "<p>This journey of discovery from the US to Sicily tackles urgent themes, but is increasingly inward-looking</p><p>In Grace Paley’s short story A Conversation With My Father, a request is made of the Paley-like narrator. “I would like you t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/29/beginning-middle-end-by-valeria-luiselli-review-a-mother-and-daughters-odyssey"
+      "url": "https://en.wikipedia.org/wiki/Virtual_reality"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "After a sexual assault or rape, victims are often subjected to scrutiny and mistreatment.",
-      "body": "Victims who decide to report their assaults to law enforcement undergo medical examinations and are interviewed by police. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "You probably never noticed this —",
+      "hook": "Adipose-secreted signaling protein is a protein that in humans is encoded by the gene ADISSP.",
+      "body": "It is expressed in the majority of the human tissues. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ideogram_human_chromosome_20.svg/330px-Ideogram_human_chromosome_20.svg.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Post-assault_treatment_of_sexual_assault_victims"
+      "url": "https://en.wikipedia.org/wiki/Adipose-secreted_signaling_protein"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "The discography of English singer-songwriter Lynsey de Paul consists of six studio albums, 11 compilation albums and 23 singles.",
-      "body": "Known for her top-ten hits \"Sugar Me\" and \"No Honestly\" and the Eurovision Song Contest entry \"Rock Bottom\", de Paul also wrote and/or co-wrote a number of songs that were hits for other artists, including \"Storm in a Teacup\" for the Fortunes and \"Dancin' \" fo",
-      "img": null,
+      "hook": "Owen Murphy Panner was an American attorney and jurist from Oregon who served as a United States district judge of the United States District Court for the District of Oregon.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/OwenMPanner.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lynsey_de_Paul_discography"
+      "url": "https://en.wikipedia.org/wiki/Owen_M._Panner"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Flat head syndrome discovered in Iron Age skeletons",
+      "body": "Certain sleeping positions can lead to babies developing flattened heads, and an analysis of ancient skulls from Italy reveals that this condition affected people in the 9th century BC",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2582200-flat-head-syndrome-discovered-in-iron-age-skeletons/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1863 —",
-      "hook": "American Indian Wars: Representatives of the United States and tribal leaders including Chief Pocatello (of the Shoshone) sign the Treaty of Box Elder.",
-      "body": "The American Indian Wars, also known as the American Frontier Wars, and the Indian Wars, were initially fought by European colonial empires, the United States, and briefly the Confederate States of America and Republic of Texas against various American Indian tribes in North America. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg/330px-U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg",
+      "opener": "On this day in 1609 —",
+      "hook": "Beaver Wars: At Ticonderoga (now Crown Point, New York), Samuel de Champlain shoots and kills two Iroquois chiefs on behalf of his native allies.",
+      "body": "The Beaver Wars, also known as the Iroquois Wars or the French and Iroquois Wars, were a series of conflicts fought intermittently during the 17th century in North America throughout the Great Lakes region and the St. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champlain%27s_Battle_with_the_Iroquois%2C_Ticonderoga%2C_July%2C_1609_%28NYPL_b12647398-79471%29_%28cropped%29.tiff/lossy-page1-330px-Champlain%27s_Battle_with_the_Iroquois%2C_Ticonderoga%2C_July%2C_1609_%28NYPL_b12647398-79471%29_%28cropped%29.tiff.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Indian_Wars"
+      "url": "https://en.wikipedia.org/wiki/Beaver_Wars"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Lawrence Sheldon \"Larry\" Grossman, was a politician in Ontario, Canada.",
-      "body": "He served in the Legislative Assembly as a Progressive Conservative from 1975 to 1987, and was a cabinet minister in the governments of Bill Davis and Frank Miller. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Larry_Grossman_QP_1986-04-28_%2800m30s%29.jpg/330px-Larry_Grossman_QP_1986-04-28_%2800m30s%29.jpg",
+      "hook": "Sabin is the surname of the following people:Albert Sabin (1906–1993), Polish-American medical researcher who developed an oral polio vaccine; President of the Weizmann Institute of Science Alvah Sabin (1793–1885), American politician Alec Sabin, British actor Alfred Sabin (1905–1982), English footballer Andrew Sabin, British sculptor Arthur Knowles Sabin (1879–1959), British writer, poet and printer Cédric Sabin, French football forward Chauncey Brewer Sabin (1824–1890), United States federal judge Chris Sabin, American professional wrestler Daniel Sabin, American engineer Diane Sabin, American feminist activist Dmitry Sabin, Ukrainian sprint canoer Dwight M.",
+      "body": "Sabin (1843–1902), American politician E. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Larry_Grossman_(politician)"
+      "url": "https://en.wikipedia.org/wiki/Sabin_(surname)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Olivia Dean nominated and Lily Allen snubbed in Mercury Prize list",
+      "body": "This year's best album shortlist includes several returning nominees - but Lily Allen misses out.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Alive by Melanie Challenger review – a maverick study of what it means to have a body",
+      "body": "<p>In this disorienting book, a poet argues we have been looking at nature – and ourselves – the wrong way</p><p>The eastern breakwater of Granton harbour is almost 1km long, and swimmers can follow its crooked finger, heading straight out ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/29/alive-by-melanie-challenger-review-a-maverick-study-of-what-it-means-to-have-a-body"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1975 —",
+      "hook": "Jimmy Hoffa disappears from the parking lot of the Machus Red Fox restaurant in Bloomfield Hills, Michigan, a suburb of Detroit, at about 2:30 p.m. He is never seen or heard from again.",
+      "body": "James Riddle Hoffa was an American labor union leader who served as the General President of the International Brotherhood of Teamsters (IBT) from 1957 to 1971. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/James_R._Hoffa_NYWTS_%28cropped%29.jpg/330px-James_R._Hoffa_NYWTS_%28cropped%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Hoffa"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Spencer's Additional Continental Regiment, sometimes referred to as the 5th New Jersey Regiment, was an American infantry unit that served for four years in the Continental Army during the American Revolutionary War.",
-      "body": "The Continental Congress authorized sixteen \"Additional\" Continental Regiments in late 1776 and Colonel Oliver Spencer accepted command of this regiment with rank from January 15, 1777. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "Jennifer Lynn Connelly is an American actress.",
+      "body": "She began her career as a child model before making her acting debut in the 1984 crime film Once Upon a Time in America. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jennifer_Connelly_2019_2.png/330px-Jennifer_Connelly_2019_2.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Spencer's_Additional_Continental_Regiment"
+      "url": "https://en.wikipedia.org/wiki/Jennifer_Connelly"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "First-of-kind Guillain-Barré drug switches off part of immune system",
+      "body": "A treatment that turns off the bit of the immune system that goes haywire in Guillain-Barré syndrome may be the first targeted therapy approved for the autoimmune condition",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2582376-first-targeted-treatment-for-guillain-barre-syndrome-nears-approval/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2006 —",
+      "hook": "An Israeli airstrike kills 28 Lebanese civilians, including 16 children.",
+      "body": "The 2006 Qana airstrike was an airstrike carried out by the Israeli Air Force (IAF) on a three-story building in the small community of al-Khuraybah near the South Lebanese village of Qana on July 30, 2006, during the 2006 Lebanon War. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/2006_Qana_massacre.jpg/330px-2006_Qana_massacre.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2006_Qana_airstrike"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2006 —",
+      "hook": "The world's longest running music show Top of the Pops is broadcast for the last time on BBC Two. The show had aired for 42 years.",
+      "body": "Top of the Pops (TOTP) is a British record chart television programme, made by the BBC and broadcast weekly between 1 January 1964 and 30 July 2006. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Totp_logo_1986.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Top_of_the_Pops"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 657 —",
+      "hook": "Election of pope Vitalian following the death of pope Eugene I in the previous month.",
+      "body": "Pope Vitalian was the bishop of Rome from 30 July 657 to his death in 672. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bulle_vitaliani_16976.jpg/330px-Bulle_vitaliani_16976.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pope_Vitalian"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1990 —",
+      "hook": "Ian Gow, Conservative Member of Parliament, is assassinated at his home by the IRA in a car bombing after he assured the group that the British government would never surrender to them.",
+      "body": "Ian Reginald Edward Gow was a British politician and solicitor. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Ian_Gow_1985.jpeg/330px-Ian_Gow_1985.jpeg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ian_Gow"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Why the most central law in cosmology may need to be broken",
+      "body": "The cosmological principle is the foundation of modern cosmology – but its usefulness doesn’t necessarily make it true, says columnist Leah Crane",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2581589-why-the-most-central-law-in-cosmology-may-need-to-be-broken/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
@@ -98,92 +174,6 @@
       "body": "<p>This stylish biography of the author traces his journey from left to right, and from ‘posh Lima’ to Cricklewood</p><p>“At what precise moment had Peru fucked itself up?” Those words on the opening page of Conversation in the Cathedral<em",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/2026/jul/30/mario-vargas-llosa-by-gerald-martin-review-the-passions-and-politics-of-perus-nobel-laureate"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1912 —",
-      "hook": "Japan's Emperor Meiji dies and is succeeded by his son Yoshihito, who is now known as the Emperor Taishō.",
-      "body": "Emperor Meiji was Emperor of Japan from 30 January 1867 until his death in 1912. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Meiji_Emperor_%28cropped%29%28b%29.jpg/330px-Meiji_Emperor_%28cropped%29%28b%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Emperor_Meiji"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1756 —",
-      "hook": "In Saint Petersburg, Bartolomeo Rastrelli presents the newly built Catherine Palace to Empress Elizabeth and her courtiers.",
-      "body": "Saint Petersburg, formerly known as Petrograd (Петроград) and later Leningrad (Ленинград), is the second-largest city in Russia, after Moscow, the nation's capital. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Spb_06-2017_img20_StMichael_Castle_%28cropped%29.jpg/330px-Spb_06-2017_img20_StMichael_Castle_%28cropped%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Saint_Petersburg"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
-      "body": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Salman Rushdie attacker convicted of terror offences",
-      "body": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Festival bans camping stoves and disposable BBQs",
-      "body": "The Dorset festival is banning items that post a fire hazard due to the hot weather and dry ground.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ckgv63p3gnno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1971 —",
-      "hook": "An All Nippon Airways Boeing 727 and a Japanese Air Force F-86 collide over Morioka, Iwate, Japan, killing 162.",
-      "body": "All Nippon Airways (ANA) is a Japanese airline headquartered in Minato, Tokyo. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg/330px-Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/All_Nippon_Airways"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in June",
-      "body": "<p>Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I just finished reading <strong>Wimmy Road Boyz</strong> by Sufiyaan Salam. I ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jun/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-june-candice-carty-williams"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Buffalo County is a county located in the U.S.",
-      "body": "As of the 2020 census, the population was 50,084, and was estimated to be 51,172 in 2025, making it the fifth-most populous county in Nebraska. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Buffalo_County_Courthouse_%28Nebraska%29_3.jpg/330px-Buffalo_County_Courthouse_%28Nebraska%29_3.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Buffalo_County%2C_Nebraska"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 762 —",
-      "hook": "Baghdad is founded.",
-      "body": "Baghdad is the capital and largest city in Iraq. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/330px-5628442718_b10fc2c47f_o.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Baghdad"
     }
   ]
 }
