@@ -1,34 +1,16 @@
 {
-  "generated": "2026-07-30T01:09:07.328Z",
-  "count": 12,
+  "generated": "2026-07-30T04:42:58.098Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Plato's electronics ready for space",
-      "body": "Image: The European Space Agency’s terrestrial planet hunter Plato has recently completed a series of key tests inside the Maxwell Test Chamber at ESTEC , demonstrating that its electronic equipment is fit to work in space. This photo captu",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Plato_s_electronics_ready_for_space"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Canadian producer-financier Jason Cloth indicted in $100m fraud case",
-      "body": "Founder and CEO of now-defunct Creative Wealth Media was EP on Joker, Longlegs, others.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/canadian-producer-financier-jason-cloth-indicted-in-100m-fraud-case/5218999.article"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Six-time defending champion Richard Sears defeated Henry Slocum in the challenge round, 6–1, 6–3, 6–2 to win the men's singles tennis title at the 1887 U.S.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "When the Green Woods Laugh is a 1960 comedy novel by the British writer H.",
+      "body": "It is the third in the series began by the 1958 novel The Darling Buds of May focusing on the Larkins, a family living in rural Kent. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/When_the_Green_Woods_Laugh.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1887_U.S._National_Championships_%E2%80%93_Men's_singles"
+      "url": "https://en.wikipedia.org/wiki/When_the_Green_Woods_Laugh"
     },
     {
       "type": "card",
@@ -41,42 +23,61 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "A bridged nucleic acid (BNA) is a class of modified RNA nucleotides.",
-      "body": "They are sometimes also referred to as constrained or inaccessible RNA molecules. Worth a quiet trip down the rabbit hole.",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Canadian producer-financier Jason Cloth indicted in $100m fraud case",
+      "body": "Founder and CEO of now-defunct Creative Wealth Media was EP on Joker, Longlegs, others.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/canadian-producer-financier-jason-cloth-indicted-in-100m-fraud-case/5218999.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "After his death, she married Hasan's brother, Husayn ibn Ali.",
+      "body": "Umm Isḥāq bint Ṭalḥa ibn ʿUbayd Allāh was the daughter of Talha and one of the wives of Hasan ibn Ali. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bridged_nucleic_acid"
+      "url": "https://en.wikipedia.org/wiki/Umm_Ishaq_bint_Talha_ibn_Ubayd_Allah"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Michael O'Halloran is a 1948 American drama film directed by John Rawlins and starring Scotty Beckett, Allene Roberts and Tommy Cook.",
+      "body": "It is an adaptation of the novel of the same name by Gene Stratton-Porter. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/00/Michael_O%27Halloran_%281948_film%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Michael_O'Halloran_(1948_film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Abu al-Faraj Jamal al-Din Abd al-Rahman ibn Abi Hasan Ali Al-Jawzi also known as Ibn al-Jawzi was a Muslim jurisconsult, preacher, orator, heresiographer, traditionist, historian, judge, hagiographer, and philologist who played an instrumental role in propagating the Hanbali school of orthodox Sunni jurisprudence in his native Baghdad during the twelfth-century.",
+      "body": "During \"a life of great intellectual, religious and political activity,\" Ibn al-Jawzi came to be widely admired by his fellow Hanbalis for the tireless role he played in ensuring that that particular school – historically, the smallest of the four principal Su",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/PARSONS%281808%29_p008_View_of_Bagdad_on_the_Persian_side_of_the_Tigris.jpg/330px-PARSONS%281808%29_p008_View_of_Bagdad_on_the_Persian_side_of_the_Tigris.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ibn_al-Jawzi"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Cipher Academy is a Japanese manga series written by Nisio Isin and illustrated by Yūji Iwasaki.",
+      "body": "It was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from November 2022 to February 2024, with its chapters collected in seven tankōbon volumes. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Cipher_Academy_vol._1_cover.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cipher_Academy"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘We’ve always been wary of working together’: Val McDermid and Jo Sharp on writing a novel as a couple",
-      "body": "<p>The bestselling crime writer and Scotland’s first female Geographer Royal had long kept their work separate, until a chance discovery about a doomed 17th-century expedition forced them to collaborate</p><p>The airy, modern house on the o",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/28/val-mcdermid-jo-sharp-this-door-of-the-seas"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "TetGen is a mesh generator developed by Hang Si which is designed to partition any 3D geometry into tetrahedrons by employing a form of Delaunay triangulation whose algorithm was developed by the author.",
-      "body": "One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/TetGen"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Archives of American Art is the largest collection of primary resources documenting the history of the visual arts in the United States.",
-      "body": "More than 20 million items of original material are housed in the Archives' research centers in Washington, D.C., and New York City. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Smithsonian_Institution_-_Archives_of_American_Art_logo.svg/330px-Smithsonian_Institution_-_Archives_of_American_Art_logo.svg.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Archives_of_American_Art"
+      "opener": "BBC Entertainment —",
+      "hook": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+      "body": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -89,12 +90,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Director Mike Leigh likely to retire after his next film due to illness",
-      "body": "<p>Film-maker’s drama Tender Loving Care ‘likely’ his final one as he manages myositis, a disease affecting immune system</p><p>Film-maker Mike Leigh has said his next film is likely to be his last.</p><p>According to <a href=\"https://www.i",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/28/mike-leigh-last-film-myositis"
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Also known as 'the raised bed river', its bed is more than 3 metres higher than the ground.",
+      "body": "The Earth Suspended River (地上悬河 is located in the lower reaches of the Yellow River, which is a world-famous geographical landscape. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Earth_Suspended_River"
     },
     {
       "type": "card",
@@ -107,13 +109,31 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Beginning Middle End by Valeria Luiselli review – a mother and daughter’s odyssey",
+      "body": "<p>This journey of discovery from the US to Sicily tackles urgent themes, but is increasingly inward-looking</p><p>In Grace Paley’s short story A Conversation With My Father, a request is made of the Paley-like narrator. “I would like you t",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/29/beginning-middle-end-by-valeria-luiselli-review-a-mother-and-daughters-odyssey"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Director Mike Leigh likely to retire after his next film due to illness",
+      "body": "<p>Film-maker’s drama Tender Loving Care ‘likely’ his final one as he manages myositis, a disease affecting immune system</p><p>Film-maker Mike Leigh has said his next film is likely to be his last.</p><p>According to <a href=\"https://www.i",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/28/mike-leigh-last-film-myositis"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The discography of Julie Andrews, an English actress, singer, and author, encompasses a wide range of recordings spanning over six decades.",
-      "body": "Her work includes studio albums, live albums, soundtracks, cast recordings, compilations, and singles, contemplating her extensive career in musical theater, film, and television. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Julie_Andrews_%288742617433%29_%28cropped%29.jpg/330px-Julie_Andrews_%288742617433%29_%28cropped%29.jpg",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Go Now is the 1996 debut novel by the American writer and musician Richard Hell.",
+      "body": "Published in the United States by Scribner and in the United Kingdom by Fourth Estate, the novel is narrated by Billy Mud, a burnt-out punk rock musician and heroin addict who is hired by an admirer to drive a 1957 DeSoto Adventurer across the United States wi",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/Go_Now_by_Richard_Hell.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Julie_Andrews_discography"
+      "url": "https://en.wikipedia.org/wiki/Go_Now_(novel)"
     }
   ]
 }
