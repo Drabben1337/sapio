@@ -1,7 +1,16 @@
 {
-  "generated": "2026-07-29T23:49:51.607Z",
-  "count": 14,
+  "generated": "2026-07-30T01:09:07.328Z",
+  "count": 12,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Plato's electronics ready for space",
+      "body": "Image: The European Space Agency’s terrestrial planet hunter Plato has recently completed a series of key tests inside the Maxwell Test Chamber at ESTEC , demonstrating that its electronic equipment is fit to work in space. This photo captu",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Plato_s_electronics_ready_for_space"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -14,21 +23,69 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Frederick Hotham Andrus was an American outfielder and pitcher in Major League Baseball for the Chicago White Stockings.",
-      "body": "In 1876 he played 8 games in the outfield, batting .306 in 36 at bats. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Fred_Andrus.jpg",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Six-time defending champion Richard Sears defeated Henry Slocum in the challenge round, 6–1, 6–3, 6–2 to win the men's singles tennis title at the 1887 U.S.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fred_Andrus"
+      "url": "https://en.wikipedia.org/wiki/1887_U.S._National_Championships_%E2%80%93_Men's_singles"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "Plato's electronics ready for space",
-      "body": "Image: The European Space Agency’s terrestrial planet hunter Plato has recently completed a series of key tests inside the Maxwell Test Chamber at ESTEC , demonstrating that its electronic equipment is fit to work in space. This photo captu",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Plato_s_electronics_ready_for_space"
+      "opener": "BBC Entertainment —",
+      "hook": "Amelia Dimoldenberg: I wouldn't invite Andy Burnham on Chicken Shop Date - but I'd love a chat",
+      "body": "The YouTube star on helping young creatives, and who she wants (and doesn’t want) on her show.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c8rng7pm212o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "A bridged nucleic acid (BNA) is a class of modified RNA nucleotides.",
+      "body": "They are sometimes also referred to as constrained or inaccessible RNA molecules. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bridged_nucleic_acid"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘We’ve always been wary of working together’: Val McDermid and Jo Sharp on writing a novel as a couple",
+      "body": "<p>The bestselling crime writer and Scotland’s first female Geographer Royal had long kept their work separate, until a chance discovery about a doomed 17th-century expedition forced them to collaborate</p><p>The airy, modern house on the o",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/28/val-mcdermid-jo-sharp-this-door-of-the-seas"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "TetGen is a mesh generator developed by Hang Si which is designed to partition any 3D geometry into tetrahedrons by employing a form of Delaunay triangulation whose algorithm was developed by the author.",
+      "body": "One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TetGen"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Archives of American Art is the largest collection of primary resources documenting the history of the visual arts in the United States.",
+      "body": "More than 20 million items of original material are housed in the Archives' research centers in Washington, D.C., and New York City. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Smithsonian_Institution_-_Archives_of_American_Art_logo.svg/330px-Smithsonian_Institution_-_Archives_of_American_Art_logo.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Archives_of_American_Art"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in June",
+      "body": "<p>Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I just finished reading <strong>Wimmy Road Boyz</strong> by Sufiyaan Salam. I ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jun/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-june-candice-carty-williams"
     },
     {
       "type": "card",
@@ -42,84 +99,6 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Firm was an American hip hop supergroup formed in New York City in 1996 by rapper Nas, his manager Steve Stoute, producer Dr.",
-      "body": "Dre and production team Trackmasters. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/The_Firm_promo.jpg/330px-The_Firm_promo.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Firm_(hip-hop_group)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "body": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The deluxe edition, Hall of Fame 2.0, was released on December 3, 2021, with fourteen bonus tracks.",
-      "body": "Hall of Fame is the third studio album by American rapper Polo G. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/Polo_G_-_Hall_of_Fame.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hall_of_Fame_(Polo_G_album)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Antonio Caggiano was an archbishop and a cardinal of the Roman Catholic Church in Argentina.",
-      "body": "He played a part in helping Nazi sympathisers and war criminals escape prosecution in Europe by easing their passage to South America. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Antonio_Caggiano.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Antonio_Caggiano"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Edward Otho Cresap Ord II was an American military officer, artist, writer, and inventor.",
-      "body": "He was a United States Army Major who served with the 22nd Infantry Regiment during the Indian Wars, the Spanish–American War and the Philippine–American War. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/Edward_Otho_Cresap_Ord_II_%281858%E2%80%931923%29.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Edward_Otho_Cresap_Ord_II"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Franco Pepe is an Italian award-winning pizzaiolo, internationally recognized as one of the best in the world.",
-      "body": "He is the owner of Pepe in Grani restaurant in his hometown of Caiazzo, Caserta, and is featured in one of the episodes of the Netflix docu-series Chef's Table: Pizza. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Franco_Pepe.jpg/330px-Franco_Pepe.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Franco_Pepe"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "It is a colorless liquid with a foul and acrid aroma.",
-      "body": "Acrolein is the simplest unsaturated aldehyde. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Acrolein-s-trans-GED-MW-3D-sf.png/330px-Acrolein-s-trans-GED-MW-3D-sf.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Acrolein"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
       "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
@@ -128,12 +107,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘We’ve always been wary of working together’: Val McDermid and Jo Sharp on writing a novel as a couple",
-      "body": "<p>The bestselling crime writer and Scotland’s first female Geographer Royal had long kept their work separate, until a chance discovery about a doomed 17th-century expedition forced them to collaborate</p><p>The airy, modern house on the o",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/28/val-mcdermid-jo-sharp-this-door-of-the-seas"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The discography of Julie Andrews, an English actress, singer, and author, encompasses a wide range of recordings spanning over six decades.",
+      "body": "Her work includes studio albums, live albums, soundtracks, cast recordings, compilations, and singles, contemplating her extensive career in musical theater, film, and television. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Julie_Andrews_%288742617433%29_%28cropped%29.jpg/330px-Julie_Andrews_%288742617433%29_%28cropped%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Julie_Andrews_discography"
     }
   ]
 }
