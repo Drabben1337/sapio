@@ -1,15 +1,54 @@
 {
-  "generated": "2026-07-31T20:49:16.926Z",
-  "count": 12,
+  "generated": "2026-07-31T21:53:47.443Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Specialized High Schools Admissions Test (SHSAT) is an examination administered to eighth and ninth-grade students residing in New York City and used to determine admission to eight of the city's nine Specialized High Schools (SHS).",
+      "body": "As of 2024, there were 25,678 students who took the test and 4,072 (15.9%) who received qualifying scores. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Specialized_High_Schools_Admissions_Test"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Tony’ review: Dominic Sessa impresses as young chef Anthony Bourdain",
-      "body": "Antonio Banderas and Emilia Jones also star in the feature, which opens in the US on August 7",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/tony-review-dominic-sessa-impresses-as-young-chef-anthony-bourdain/5218894.article"
+      "opener": "The Guardian · Film —",
+      "hook": "Little Brother review – Netflix comedy is neither weird or funny enough for star Eric André",
+      "body": "<p>The surreal comedian struggles to sell a middling and mostly conventional film about an uptight realtor whose life is upturned by an unpredictable figure from his past</p><p>The specific, unforced strangeness of <a href=\"https://www.theg",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Margaret Robertson was a British script supervisor and personal assistant to Alfred Hitchcock from the 1940s to the 1970s during which time she worked on his films Under Capricorn (1948) and Stage Fright (1950), before joining his team permanently on Vertigo (1958), working thereafter on all of the director's remaining films.",
+      "body": "The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peggy_Robertson"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Watch the total solar eclipse with ESA in León",
+      "body": "Discover the science behind one of nature's most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the University of León.",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Malasakit Center refers to a chain of one-stop-shop centers for medical and financial assistance provided by various agencies of the Philippine government.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Joni_Villanueva_General_Hospital_Malasakit_Centers_1.jpg/330px-Joni_Villanueva_General_Hospital_Malasakit_Centers_1.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Malasakit_Center"
     },
     {
       "type": "card",
@@ -22,42 +61,23 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Matthew Flinders' Cat is a 2002 novel by Bryce Courtenay (ISBN 0670910619), published by Viking Press.",
-      "body": "It records the relationship between a homeless former lawyer and alcoholic, and a young skateboard riding boy with a troubled background, who slowly bond over tales of Matthew Flinders and \"Trim\", the ship's cat who travelled with him on a number of his voyage",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/MatthewFlindersCat.jpg",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The \"Private Snafu\" cartoons were not released commercially, until December 2010.",
+      "body": "Snafuperman is a 1944 animated short superhero comedy produced by Warner Bros. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Snafuperman.PNG/330px-Snafuperman.PNG",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Matthew_Flinders'_Cat"
+      "url": "https://en.wikipedia.org/wiki/Snafuperman"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Enchanted Island of Oz is a children's novel written by Ruth Plumly Thompson and illustrated by Dick Martin, and first published in 1976.",
-      "body": "The novel is an unofficial entry in the Oz series created by L. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c7/TheEnchantedIslandOfOz.jpg",
+      "opener": "Bet you didn't know —",
+      "hook": "Daniel Laby is an ophthalmologist and professor known for his contributions to the field of sports vision.",
+      "body": "He currently holds the position of Clinical professor and director of the Sports and Performance Vision Center at the State University of New York College of Optometry and has previously served as a Clinical Professor of Ophthalmology at Harvard Medical School",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Enchanted_Island_of_Oz"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Mrityukshuda (1930) is a Bengali novel by Kazi Nazrul Islam.",
-      "body": "It is one of only three novels written by him. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Nazrul.jpg/330px-Nazrul.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mrityukshuda_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Birthday Trip review – excellent Australian black comedy piles pressure on to privilege",
-      "body": "<p>This compelling debut feature of James Robert Woods – who wrote, directed, produced, shot and edited it – keeps dialogue centre stage</p><p>The success of <a href=\"https://www.theguardian.com/film/2026/jun/30/the-invite-review-seth-rogen",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/01/the-birthday-trip-movie-review-film"
+      "url": "https://en.wikipedia.org/wiki/Daniel_Laby"
     },
     {
       "type": "card",
@@ -72,10 +92,10 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Little Brother review – Netflix comedy is neither weird or funny enough for star Eric André",
-      "body": "<p>The surreal comedian struggles to sell a middling and mostly conventional film about an uptight realtor whose life is upturned by an unpredictable figure from his past</p><p>The specific, unforced strangeness of <a href=\"https://www.theg",
+      "hook": "The Birthday Trip review – excellent Australian black comedy piles pressure on to privilege",
+      "body": "<p>This compelling debut feature of James Robert Woods – who wrote, directed, produced, shot and edited it – keeps dialogue centre stage</p><p>The success of <a href=\"https://www.theguardian.com/film/2026/jun/30/the-invite-review-seth-rogen",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix"
+      "url": "https://www.theguardian.com/film/2026/aug/01/the-birthday-trip-movie-review-film"
     },
     {
       "type": "card",
@@ -90,30 +110,30 @@
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Ellis Avery was an American writer.",
-      "body": "She was the only author to win two Stonewall Book Awards, one in 2008 for her debut novel The Teahouse Fire and one in 2013 for her second novel The Last Nude. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ellis_Avery_2011.jpg/330px-Ellis_Avery_2011.jpg",
+      "hook": "Section 907 of the 1992 United States Freedom Support Act banned any kind of direct United States aid to the Azerbaijani government.",
+      "body": "Up until 2001, this ban made Azerbaijan the only post-Soviet state not to receive direct aid from the United States government to facilitate economic and political stability. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ellis_Avery"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Rose Rent is a medieval mystery novel set in the summer of 1142 by Ellis Peters.",
-      "body": "This is the thirteenth novel in The Cadfael Chronicles, first published in 1986. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/01/The_Rose_Rent.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Rose_Rent"
+      "url": "https://en.wikipedia.org/wiki/Section_907"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "Watch the total solar eclipse with ESA in León",
-      "body": "Discover the science behind one of nature's most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the University of León.",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon"
+      "opener": "Screen Daily —",
+      "hook": "‘Tony’ review: Dominic Sessa impresses as young chef Anthony Bourdain",
+      "body": "Antonio Banderas and Emilia Jones also star in the feature, which opens in the US on August 7",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/reviews/tony-review-dominic-sessa-impresses-as-young-chef-anthony-bourdain/5218894.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "It was published in 1955 by Gnome Press in an edition of 5,000 copies, of which 900 copies were never bound.",
+      "body": "Star Bridge is a science fiction novel by American authors Jack Williamson and James E. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Star_bridge.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Star_Bridge"
     }
   ]
 }
