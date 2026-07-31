@@ -1,119 +1,189 @@
 {
-  "generated": "2026-07-31T13:23:20.660Z",
-  "count": 12,
+  "generated": "2026-07-31T15:51:44.706Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 781 —",
+      "hook": "The oldest recorded eruption of Mount Fuji (Traditional Japanese date: Sixth day of the seventh month of the first year of the Ten'o (天応) era).",
+      "body": "Mount Fuji is an active stratovolcano located on the Japanese island of Honshu, with a summit elevation of 3,776.24 m. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/330px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "opener": "The Guardian · Culture —",
+      "hook": "Seth Meyers on Trump’s unpopularity: ‘Madam Web has a higher audience rating’",
+      "body": "<p>The late-night host poked fun at the president’s record-low approval rating as he gets rich while Americans struggle</p><p>Seth Meyers examined Donald Trump’s lowest approval rating yet as Americans struggle to afford gas and groceries.<",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/culture/2026/jul/31/seth-meyers-trump-approval-rating"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Boy George pulls out of Jesus Christ Superstar after releasing pro-Israel song",
+      "body": "<p>The 80s star will no longer appear in role of Herod in London Palladium run, with manager saying decision is ‘in the best interests of my artist’</p><p>Boy George has pulled out of a forthcoming London production of Jesus Christ Supersta",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/31/boy-george-pulls-out-of-jesus-christ-superstar-after-releasing-pro-israel-song"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Första Kärleken is a 1992 Swedish television miniseries created by Leif Magnusson.",
-      "body": "Starring Linus Åberg, Alexandra Royal and Christopher Luschan. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/F%C3%B6rsta_K%C3%A4rleken.jpg/330px-F%C3%B6rsta_K%C3%A4rleken.jpg",
+      "opener": "Okay, this one's fun —",
+      "hook": "Gillian Condy is a South African botanical artist.",
+      "body": "She has illustrated more than 200 plates for Flowering Plants of Africa, contributed to various other South African National Botanical Institute publications and eight plates for Curtis’s Botanical Magazine. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gillian_Condy00.jpg/330px-Gillian_Condy00.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/F%C3%B6rsta_K%C3%A4rleken"
+      "url": "https://en.wikipedia.org/wiki/Gillian_Condy"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1987 —",
+      "hook": "A tornado occurs in Edmonton, Alberta, killing 27 people.",
+      "body": "The Edmonton tornado, also known as Black Friday to Edmontonians, was a powerful and devastating tornado that ripped through the eastern parts of Edmonton, Alberta, Canada and parts of neighbouring Strathcona County on the afternoon of Friday, July 31, 1987. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Edmonton_Tornado.jpg/330px-Edmonton_Tornado.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Edmonton_tornado"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Nigeria date removed from South African pop star Tyla's world tour after boycott petition",
+      "body": "Nigerians urged Tyla to cancel her concert in Lagos over anti-migrant protests in South Africa.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c7vglz56gg5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Climate change could eliminate malaria from West and Central Africa",
+      "body": "Global warming may make it too hot for malaria-carrying mosquitoes to survive in parts of Africa, but could also shift the problem to less affected areas",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2582737-climate-change-could-eliminate-malaria-from-west-and-central-africa/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Mahrajan Festival is a 'milestone' for Arabic community",
+      "body": "The festival is making its debut in London with the likes of Saint Levant and Dystinct performing.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7g9z1gnwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1975 —",
+      "hook": "The Troubles: Three members of a popular cabaret band and two gunmen are killed during a botched paramilitary attack in Northern Ireland.",
+      "body": "Five people, including three members of The Miami Showband, were killed by the Ulster Volunteer Force (UVF), a loyalist paramilitary group, on 31 July 1975 on the A1 road at Buskhill in County Down, Northern Ireland. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Location_of_the_Miami_Showband_Killings_in_2019.jpg/330px-Location_of_the_Miami_Showband_Killings_in_2019.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Miami_Showband_killings"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1741 —",
+      "hook": "Charles Albert of Bavaria invades Upper Austria and Bohemia.",
+      "body": "Charles VII was elector of Bavaria from 26 February 1726 and Holy Roman Emperor from 24 January 1742 to his death on 20 January 1745. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Carl_Albrecht_VII_by_workshop_of_George_Desmarees%2C_M%C3%BCnchner_Residenz.jpg/330px-Carl_Albrecht_VII_by_workshop_of_George_Desmarees%2C_M%C3%BCnchner_Residenz.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Charles_VII%2C_Holy_Roman_Emperor"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "The tour had 120 dates in North America, South America, Europe, Australia, and New Zealand from September 2016 through November 2017.",
+      "body": "The Revolution Radio Tour was a concert tour by American rock band Green Day in support of the group's twelfth studio album, Revolution Radio. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/47/Revolution_Radio_Tour_poster.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Revolution_Radio_Tour"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "‘Change is happening! I can cut off my hair and misbehave’: Vicky Krieps on rage, rebellion, and rejecting Hollywood",
-      "body": "<p>After her star turn in Phantom Thread, everyone expected a move to Tinseltown – but the actor embraced indie European films instead. It’s because of a lifelong instinct to be bold, she says</p><p>Back when she was a rising actor, Vicky K",
+      "hook": "Hold the front page! Marilyn Monroe is Dakota Johnson’s ninth cousin three times removed",
+      "body": "<p>The vogue for celebrity ancestors can be traced back to Robert Pattinson descending from Dracula and Benedict Cumberbatch being related to just about everyone</p><p>To mark Marilyn Monroe’s 100th birthday, a short film will premiere at t",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/31/actor-vicky-krieps-interview-love-me-tender-movie-phantom-thread-corsage"
+      "url": "https://www.theguardian.com/film/2026/jul/31/marilyn-monroe-dakota-johnson-related-ninth-cousin-three-times-removed"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘A universal human story’: Clean Start’s thought-provoking tidying sim tells immigrant’s tale",
-      "body": "<p>Playing as recent arrival Lena, your challenges include learning a new language and uncovering family secrets – its developer hopes it will spread ‘a little more compassion’</p><p>The cosy house-sorting sim has become a much-loved staple",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/games/2026/jul/31/clean-start-thought-provoking-tidying-sim-tells-immigrants-tale"
+      "cat": "history",
+      "opener": "On this day in 1938 —",
+      "hook": "Archaeologists discover engraved gold and silver plates from King Darius the Great in Persepolis.",
+      "body": "Gold is a chemical element; its chemical symbol is Au and atomic number 79. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/330px-Gold-crystals.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Gold"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Stanisław Potrzebowski is the founder and Naczelnik (transl.",
+      "body": "leader) of Rodzima Wiara, a Polish rodnover organisation, and of the European Congress of Ethnic Religions. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Stanis%C5%82aw_Potrzebowski.jpg/330px-Stanis%C5%82aw_Potrzebowski.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Potrzebowski"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Baden, sometimes unofficially, to distinguish it from other Badens, called Baden bei Zürich or Baden im Aargau, is a town and a municipality in Switzerland.",
-      "body": "It is the main town or seat of the district of Baden in the canton of Aargau. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Baden_Altstadt_und_Industrie_DJI.jpg/330px-Baden_Altstadt_und_Industrie_DJI.jpg",
+      "hook": "Andover is a town in the Test Valley district of Hampshire, England.",
+      "body": "The town is on the River Anton, a major tributary of the Test, and lies alongside the major A303 trunk road at the eastern end of Salisbury Plain, 18 miles (29 km) west of the town of Basingstoke. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Andover_-_High_Street_-_geograph.org.uk_-_2191677.jpg/330px-Andover_-_High_Street_-_geograph.org.uk_-_2191677.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Baden%2C_Switzerland"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Release schedule: when to wee and when to wait during this summer’s biggest movies",
-      "body": "<p>With run-times hitting three hours, you will probably need to take a bathroom break during this season’s blockbusters. Here’s a handy guide for your urination calculations</p><p><a href=\"http://www.theguardian.com/film/2026/jul/31/greek-",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/jul/31/release-schedule-when-to-wee-and-when-to-wait-during-this-summers-biggest-movies"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "From Felix the Cat to MTV: MoMA explores a century of animation",
-      "body": "<p>Exhibition It’s Alive follows the evolution of animation in the 100 years before digital technology changed the game</p><p>Although the word “animation” may bring to mind rascally, anthropomorphic bunnies, cats and ducks doing outlandish",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/2026/jul/31/moma-animation-exhibition-its-alive"
+      "url": "https://en.wikipedia.org/wiki/Andover%2C_Hampshire"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Choi Geum-jin is a South Korean poet.",
-      "body": "He is known for his straightforward portrayal of poverty and marginalization using humor and satire. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "Here's one for the group chat —",
+      "hook": "Barney Smith was an American master plumber, artist and museum curator.",
+      "body": "He was best known for his Toilet Seat Art Museum in San Antonio, Texas, which he operated out of his home. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Barneysmithtoiletseat.jpg/330px-Barneysmithtoiletseat.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Choi_Geum-jin"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Alien erotica, football coaching and making Meryl Streep cry: Ted Lasso’s new star Tanya Reynolds opens up",
-      "body": "<p>She lit up screens as Sex Education’s steamy sci-fi writer, wowed Streep in the West End and now she’s starring in the return of TV’s feelgood footie hit. The star talks about pretending to be sporty – and why she’s a total cheese string",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/31/tanya-reynolds-interview-ted-lasso-fourth-season"
+      "url": "https://en.wikipedia.org/wiki/Barney_Smith_(artist)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The PowerBook Duo is a line of subnotebook computers introduced by Apple Computer in 1992 and sold until 1997.",
-      "body": "Designed as a smaller companion to the PowerBook 100 series and the later 500 series, the line comprised seven models: the PowerBook Duo 210, 230, 250, 270c, 280, 280c, and 2300c. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Powerbook_duo_2300c.jpg/330px-Powerbook_duo_2300c.jpg",
+      "opener": "Here's one for the group chat —",
+      "hook": "Major General Eric Virgin was a Swedish Air Force officer.",
+      "body": "Originally a Swedish Army officer, Virgin became commanding officer of the Svea Logistic Corps in 1926 and was appointed Inspector of the Swedish Army Service Troops the year after. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Major_General_Eric_Virgin_%281876%E2%80%931950%29.jpg/330px-Major_General_Eric_Virgin_%281876%E2%80%931950%29.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/PowerBook_Duo"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Black Mirror: Bandersnatch is a 2018 interactive film in the science fiction anthology series Black Mirror.",
-      "body": "It was written by series creator Charlie Brooker and directed by David Slade. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Black_mirror_bandersnatch_poster.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Black_Mirror%3A_Bandersnatch"
+      "url": "https://en.wikipedia.org/wiki/Eric_Virgin_(officer)"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Add to playlist: the art-pop showtunes of Luki and the week’s best new tracks",
-      "body": "<p>Combining grand melodrama with nuanced emotional character, Lucy Duncan and producer Niac’s collaboration sounds both timeless and true</p><p><strong>From</strong> Hastings, UK<br><strong>Recommended if you like</strong> Mary Margaret O’",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/jul/31/add-to-playlist-the-art-pop-showtunes-of-luki-and-the-weeks-best-new-tracks"
+      "opener": "Screen Daily —",
+      "hook": "Julie Delpy, Takehiro Hira, Emma D’Arcy to star in Sonoya Mizuno’s ‘Stages’ for A24, Focus",
+      "body": "Production is underway in the UK; Kathryn Hunter and Kate Dickie are also in the cast.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/julie-delpy-takehiro-hira-emma-darcy-to-star-in-sonoya-mizunos-stages-for-a24-focus/5218398.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1658 —",
+      "hook": "Aurangzeb is proclaimed Mughal emperor of India.",
+      "body": "Alamgir I, commonly known by the title Aurangzeb, was the sixth Mughal emperor, reigning from 1658 until his death in 1707. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Aurangzeb-portrait.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Aurangzeb"
     }
   ]
 }
