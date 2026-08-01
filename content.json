@@ -1,55 +1,36 @@
 {
-  "generated": "2026-08-01T15:48:43.806Z",
-  "count": 19,
+  "generated": "2026-08-01T16:43:14.923Z",
+  "count": 22,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "What your summer reading list says about you",
-      "body": "Just picked your holiday book? Our choices can subconsciously reveal important parts of our personality, studies show.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd69glgl2jzo?at_medium=RSS&at_campaign=rss"
+      "cat": "history",
+      "opener": "On this day in 1893 —",
+      "hook": "Henry Perky patents shredded wheat.",
+      "body": "Henry Drushel Perky was a lawyer, businessman, promoter, and inventor. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Henry_Perky.jpg/330px-Henry_Perky.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Henry_Perky"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 69 —",
-      "hook": "Batavian rebellion: The Batavians in Germania Inferior (Netherlands) revolt under the leadership of Gaius Julius Civilis.",
-      "body": "AD 69 (LXIX) was a common year starting on Sunday of the Julian calendar. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Roman_Empire_69.svg/330px-Roman_Empire_69.svg.png",
+      "opener": "On this day in 1964 —",
+      "hook": "The former Belgian Congo is renamed the Democratic Republic of the Congo.",
+      "body": "The Belgian Congo was a Belgian colony in Central Africa from 1908 until independence in 1960. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_the_Congo_Free_State.svg/330px-Flag_of_the_Congo_Free_State.svg.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/AD_69"
+      "url": "https://en.wikipedia.org/wiki/Belgian_Congo"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1993 —",
-      "hook": "The Great Mississippi and Missouri Rivers Flood of 1993 comes to a peak.",
-      "body": "The Great Flood of 1993 was a flood that occurred in the Midwestern United States, along the Mississippi and Missouri rivers and their tributaries, from April to October 1993. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/MO_capital_flood_93.jpg/330px-MO_capital_flood_93.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Great_Flood_of_1993"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1933 —",
-      "hook": "Anti-Fascist activists Bruno Tesch, Walter Möller, Karl Wolff and August Lütgens are executed by the Nazi regime in Altona.",
-      "body": "Bruno Guido Camillo Tesch was a German communist and member of the Young Communist League of Germany. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stolperstein_Max-Brauer-Allee_89_%28Bruno_Tesch%29_in_Hamburg-Altona-Nord.JPG/330px-Stolperstein_Max-Brauer-Allee_89_%28Bruno_Tesch%29_in_Hamburg-Altona-Nord.JPG",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bruno_Tesch_(antifascist)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1714 —",
-      "hook": "George, Elector of Hanover, becomes King George I of Great Britain, marking the beginning of the Georgian era of British history.",
-      "body": "Hanover is the capital and largest city of the German state of Lower Saxony. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hannover_Blick_Neues_Rathaus_01.jpg/330px-Hannover_Blick_Neues_Rathaus_01.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hanover"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Jocelin of Soissons was a French theologian, a philosophical opponent of Peter Abelard.",
+      "body": "He became bishop of Soissons, and is known also as a composer, with two pieces in the Codex Calixtinus. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jocelin_of_Soissons"
     },
     {
       "type": "card",
@@ -62,6 +43,26 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The company was established in 2015 under the Air Operators Certificate issued by the Government of Nepal as a subsidiary of the Prabhu Group.",
+      "body": "Prabhu Helicopter is a helicopter airline based at Pokhara International Airport in Pokhara, Nepal, operating chartered helicopter services. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Prabhu_Helicopter"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1911 —",
+      "hook": "Harriet Quimby takes her pilot's test and becomes the first U.S. woman to earn an Aero Club of America aviator's certificate.",
+      "body": "Harriet Quimby was an American pioneering aviator, journalist, and film screenwriter. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Harriet_Quimby_1911.jpg/330px-Harriet_Quimby_1911.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Harriet_Quimby"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "Gregg Araki on sex, film and queer resistance: ‘All the terrible shit in the world is because of sexual repression’",
@@ -71,33 +72,51 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Foundation Trilogy is a radio series that was broadcast weekly on BBC Radio 4 as eight hour-long episodes between 6 May and 24 June 1973.",
-      "body": "It is an adaptation of Isaac Asimov's Foundation trilogy of science fiction novels. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "state of Louisiana, and negotiation to organize the state's legislature in January 1875.",
+      "body": "The Wheeler Compromise, sometimes known as the Wheeler Adjustment, was the settlement of the disputed gubernatorial election of 1872 in the U.S. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/A_republican_form_of_government_and_no_domestic_violence.jpg/330px-A_republican_form_of_government_and_no_domestic_violence.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Foundation_Trilogy_(radio_series)"
+      "url": "https://en.wikipedia.org/wiki/Wheeler_Compromise"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The discography of the Welsh singer Bonnie Tyler consists of 18 studio albums, three live albums, four extended plays, 83 singles, and several compilation albums.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bonnie_Tyler_W%C3%BCrzburg2013.jpg/330px-Bonnie_Tyler_W%C3%BCrzburg2013.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bonnie_Tyler_discography"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1927 —",
-      "hook": "The Nanchang Uprising marks the first significant battle in the Chinese Civil War between the Kuomintang and Chinese Communist Party. This day is commemorated as the anniversary of the founding of the People's Liberation Army.",
-      "body": "The Nanchang Uprising of August 1927 was the point at which conflict between the Chinese Communist Party and the Nationalist Party of China (Kuomintang) became an outright rebellion. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/China_Soviet_Zones.png/330px-China_Soviet_Zones.png",
+      "opener": "On this day in 1800 —",
+      "hook": "The Acts of Union 1800 are passed which merge the Kingdom of Great Britain and the Kingdom of Ireland into the United Kingdom of Great Britain and Ireland.",
+      "body": "The Acts of Union 1800 were parallel acts of the Parliament of Great Britain and the Parliament of Ireland which united the Kingdom of Great Britain and the Kingdom of Ireland to create the United Kingdom of Great Britain and Ireland. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg/330px-Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Nanchang_Uprising"
+      "url": "https://en.wikipedia.org/wiki/Acts_of_Union_1800"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "País Portátil is a Venezuelan film screened in 1979 and directed by Iván Feo and Antonio Llerandi based on the novel of Adriano González León.",
-      "body": "The film is part of UNESCO's Memory of the World Programme National Cinematic Heritage. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Poster_Pa%C3%ADs_port%C3%A1til%2C_pel%C3%ADcula_1979.jpg/330px-Poster_Pa%C3%ADs_port%C3%A1til%2C_pel%C3%ADcula_1979.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pa%C3%ADs_Port%C3%A1til"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Leviticus review – queer desire is a deadly curse in haunting horror",
+      "body": "<p><strong>Sundance film festival:</strong> Conversion therapy has gory results in a smart and surprisingly romantic debut feature from Australian writer-director Adrian Chiarella</p><p>Something rather nasty is unfolding in Sundance horror",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/24/leviticus-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "What your summer reading list says about you",
+      "body": "Just picked your holiday book? Our choices can subconsciously reveal important parts of our personality, studies show.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cd69glgl2jzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -107,26 +126,6 @@
       "body": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "A Man Called Horse is a 1970 Western film directed by Elliot Silverstein, produced by Sandy Howard, and written by Jack DeWitt.",
-      "body": "It is based on a short story of the same name by the Western writer Dorothy M. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Man_called_horse_poster.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Man_Called_Horse_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "In for a Murder is a 2021 Polish crime drama film directed by Piotr Mularuk and based on the novel W jak morderstwo by Katarzyna Gacek.",
-      "body": "It was released theatrically in Poland on 18 June 2021 before being released internationally on Netflix on 19 October 2021. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/In_for_a_Murder.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/In_for_a_Murder"
     },
     {
       "type": "card",
@@ -141,11 +140,21 @@
       "type": "card",
       "cat": "history",
       "opener": "Here's one for the group chat —",
-      "hook": "The front (recto) contains parts of seven lines from the Gospel of John 18:31–33, in Greek, and the back (verso) contains parts of seven lines from verses 37–38.",
-      "body": "The Rylands Library Papyrus P52, also known as the St John's fragment and with an accession reference of Papyrus Rylands Greek 457, is a fragment from a papyrus codex, measuring only 3.5 by 2.5 inches at its widest, and conserved with the Rylands Papyri at the",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Manchester%2C_John_Rylands_Library_Ms_Greek_P_457_%28Papyrus_52%29_recto_John_18%2C_31-33.jpg/330px-Manchester%2C_John_Rylands_Library_Ms_Greek_P_457_%28Papyrus_52%29_recto_John_18%2C_31-33.jpg",
+      "hook": "It was released by Sony Music Latin on September 16, 2021.",
+      "body": "\"Baila Así\" is a song by American DJ group duo Play-N-Skillz, Mexican singer Thalía and American singer Becky G, featuring fellow American singer Chiquis. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/Baila_As%C3%AD_cover.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52"
+      "url": "https://en.wikipedia.org/wiki/Baila_As%C3%AD"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Endocapillary proliferative glomerulonephritis is a histological pattern with the basis of glomerular inflammation.",
+      "body": "It is characterized by endothelial hypercellularity and white blood cell infiltrates resulting from subendothelial immune deposits. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Renal_corpuscle.svg/330px-Renal_corpuscle.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Endocapillary_proliferative_glomerulonephritis"
     },
     {
       "type": "card",
@@ -158,32 +167,53 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Leviticus review – queer desire is a deadly curse in haunting horror",
-      "body": "<p><strong>Sundance film festival:</strong> Conversion therapy has gory results in a smart and surprisingly romantic debut feature from Australian writer-director Adrian Chiarella</p><p>Something rather nasty is unfolding in Sundance horror",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/24/leviticus-review"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Tales from the Flat Earth is a fantasy series by British writer Tanith Lee.",
+      "body": "The novels take inspiration from One Thousand and One Nights and are similarly structured as interconnected stories. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/34/NightsMaster_firsteditioncover.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tales_from_the_Flat_Earth"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2007 —",
-      "hook": "The I-35W Mississippi River bridge spanning the Mississippi River in Minneapolis, Minnesota, collapses during the evening rush hour, killing 13 people and injuring 145.",
-      "body": "The I-35W Mississippi River bridge was an eight-lane, steel truss arch bridge that carried Interstate 35W across the Mississippi River one-half mile downstream from the Saint Anthony Falls in Minneapolis, Minnesota, United States. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/I35W_Bridge.jpg/330px-I35W_Bridge.jpg",
+      "opener": "On this day in 1957 —",
+      "hook": "The United States and Canada form the North American Aerospace Defense Command (NORAD).",
+      "body": "The North American Aerospace Defense Command is a bi-national mutual defense organization in Canada and the United States. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/North_American_Aerospace_Defense_Command_logo.svg/330px-North_American_Aerospace_Defense_Command_logo.svg.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/I-35W_Mississippi_River_bridge"
+      "url": "https://en.wikipedia.org/wiki/NORAD"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "A Time to Kill is a 1989 legal thriller and debut novel by American author John Grisham.",
-      "body": "The novel was rejected by many publishers before Wynwood Press eventually gave it a 5,000-copy printing. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/de/A_Time_To_Kill_%28Grisham_novel%29_cover.jpg",
+      "opener": "Here's one for the group chat —",
+      "hook": "Soldering joins two metal surfaces using a filler metal called solder.",
+      "body": "The surfaces are heated, melting the solder, which is then allowed to cool and solidify, creating a strong and durable joint. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Desoldering.jpg/330px-Desoldering.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Time_to_Kill_(Grisham_novel)"
+      "url": "https://en.wikipedia.org/wiki/Soldering"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1855 —",
+      "hook": "The first ascent of Monte Rosa, the second highest summit in the Alps.",
+      "body": "Monte Rosa is a mountain massif in the eastern part of the Pennine Alps, on the border between Italy and Switzerland (Valais). One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Dufourspitze_%28Monte_Rosa%29_and_Monte_Rosa_Glacier_as_seen_from_Gornergrat%2C_Wallis%2C_Switzerland%2C_2012_August.jpg/330px-Dufourspitze_%28Monte_Rosa%29_and_Monte_Rosa_Glacier_as_seen_from_Gornergrat%2C_Wallis%2C_Switzerland%2C_2012_August.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Monte_Rosa"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "The original line-up released two albums: Legal Drug Money (1996) and Love, Peace & Nappiness (1997).",
+      "body": "Lost Boyz are an American hip hop group from Queens, New York, consisting of MC Mr. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f7/Lost_Boyz_%28hip-hop_group%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lost_Boyz"
     }
   ]
 }
