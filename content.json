@@ -1,7 +1,65 @@
 {
-  "generated": "2026-08-01T14:18:24.699Z",
-  "count": 20,
+  "generated": "2026-08-01T15:48:43.806Z",
+  "count": 19,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "What your summer reading list says about you",
+      "body": "Just picked your holiday book? Our choices can subconsciously reveal important parts of our personality, studies show.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cd69glgl2jzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 69 —",
+      "hook": "Batavian rebellion: The Batavians in Germania Inferior (Netherlands) revolt under the leadership of Gaius Julius Civilis.",
+      "body": "AD 69 (LXIX) was a common year starting on Sunday of the Julian calendar. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Roman_Empire_69.svg/330px-Roman_Empire_69.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/AD_69"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1993 —",
+      "hook": "The Great Mississippi and Missouri Rivers Flood of 1993 comes to a peak.",
+      "body": "The Great Flood of 1993 was a flood that occurred in the Midwestern United States, along the Mississippi and Missouri rivers and their tributaries, from April to October 1993. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/MO_capital_flood_93.jpg/330px-MO_capital_flood_93.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Great_Flood_of_1993"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1933 —",
+      "hook": "Anti-Fascist activists Bruno Tesch, Walter Möller, Karl Wolff and August Lütgens are executed by the Nazi regime in Altona.",
+      "body": "Bruno Guido Camillo Tesch was a German communist and member of the Young Communist League of Germany. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stolperstein_Max-Brauer-Allee_89_%28Bruno_Tesch%29_in_Hamburg-Altona-Nord.JPG/330px-Stolperstein_Max-Brauer-Allee_89_%28Bruno_Tesch%29_in_Hamburg-Altona-Nord.JPG",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bruno_Tesch_(antifascist)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1714 —",
+      "hook": "George, Elector of Hanover, becomes King George I of Great Britain, marking the beginning of the Georgian era of British history.",
+      "body": "Hanover is the capital and largest city of the German state of Lower Saxony. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hannover_Blick_Neues_Rathaus_01.jpg/330px-Hannover_Blick_Neues_Rathaus_01.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hanover"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Jacaranda by Gaël Faye review – the limits of forgiveness after Rwanda",
+      "body": "<p>This bold family saga explores a search for healing and truth in the aftermath of the Rwanda genocide</p><p>How to forgive the unforgivable? How to live in the aftermath of atrocity? Following 2016’s <a href=\"https://www.theguardian.com/",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/jacaranda-by-gael-faye-review-the-limits-of-forgiveness-after-rwanda"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,13 +71,33 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Foundation Trilogy is a radio series that was broadcast weekly on BBC Radio 4 as eight hour-long episodes between 6 May and 24 June 1973.",
+      "body": "It is an adaptation of Isaac Asimov's Foundation trilogy of science fiction novels. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Foundation_Trilogy_(radio_series)"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1855 —",
-      "hook": "The first ascent of Monte Rosa, the second highest summit in the Alps.",
-      "body": "Monte Rosa is a mountain massif in the eastern part of the Pennine Alps, on the border between Italy and Switzerland (Valais). One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Dufourspitze_%28Monte_Rosa%29_and_Monte_Rosa_Glacier_as_seen_from_Gornergrat%2C_Wallis%2C_Switzerland%2C_2012_August.jpg/330px-Dufourspitze_%28Monte_Rosa%29_and_Monte_Rosa_Glacier_as_seen_from_Gornergrat%2C_Wallis%2C_Switzerland%2C_2012_August.jpg",
+      "opener": "On this day in 1927 —",
+      "hook": "The Nanchang Uprising marks the first significant battle in the Chinese Civil War between the Kuomintang and Chinese Communist Party. This day is commemorated as the anniversary of the founding of the People's Liberation Army.",
+      "body": "The Nanchang Uprising of August 1927 was the point at which conflict between the Chinese Communist Party and the Nationalist Party of China (Kuomintang) became an outright rebellion. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/China_Soviet_Zones.png/330px-China_Soviet_Zones.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Monte_Rosa"
+      "url": "https://en.wikipedia.org/wiki/Nanchang_Uprising"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "País Portátil is a Venezuelan film screened in 1979 and directed by Iván Feo and Antonio Llerandi based on the novel of Adriano González León.",
+      "body": "The film is part of UNESCO's Memory of the World Programme National Cinematic Heritage. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Poster_Pa%C3%ADs_port%C3%A1til%2C_pel%C3%ADcula_1979.jpg/330px-Poster_Pa%C3%ADs_port%C3%A1til%2C_pel%C3%ADcula_1979.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pa%C3%ADs_Port%C3%A1til"
     },
     {
       "type": "card",
@@ -32,23 +110,23 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2017 —",
-      "hook": "A suicide attack on a mosque in Herat, Afghanistan kills 20 people.",
-      "body": "On August 1, 2017, two suicide bombers entered a Shi'ite mosque named \"Jadwadia\" in Bekrabad, Herat, Afghanistan, during an evening prayer session. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/August_2017_Herat_mosque_attack"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "A Man Called Horse is a 1970 Western film directed by Elliot Silverstein, produced by Sandy Howard, and written by Jack DeWitt.",
+      "body": "It is based on a short story of the same name by the Western writer Dorothy M. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Man_called_horse_poster.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Man_Called_Horse_(film)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Young Unicorns (1968), ISBN 0-374-38778-8) is the title of a young adult suspense novel by American writer Madeleine L'Engle.",
-      "body": "It is the third novel about the Austin family, taking place between the events of The Moon by Night (1963) and A Ring of Endless Light (1980). One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/75/Theyoungunicornsll.jpg",
+      "opener": "Here's one for the group chat —",
+      "hook": "In for a Murder is a 2021 Polish crime drama film directed by Piotr Mularuk and based on the novel W jak morderstwo by Katarzyna Gacek.",
+      "body": "It was released theatrically in Poland on 18 June 2021 before being released internationally on Netflix on 19 October 2021. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/In_for_a_Murder.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Young_Unicorns"
+      "url": "https://en.wikipedia.org/wiki/In_for_a_Murder"
     },
     {
       "type": "card",
@@ -61,101 +139,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Leviticus review – queer desire is a deadly curse in haunting horror",
-      "body": "<p><strong>Sundance film festival:</strong> Conversion therapy has gory results in a smart and surprisingly romantic debut feature from Australian writer-director Adrian Chiarella</p><p>Something rather nasty is unfolding in Sundance horror",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/24/leviticus-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "​What makes a good comic novel? Andrew Sean Greer on the joy of funny writing",
-      "body": "<p>The Pulitzer-winning author of Less and Villa Coco explores the art of writing humour – plus 10 of the best novels to make you laugh</p><p>In March 2020, when the mayor of San Francisco instructed all citizens to remain in their houses d",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/01/what-makes-a-good-comic-novel-andrew-sean-greer-on-the-joy-of-funny-writing"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Blue Sky Jo is a Canadian comedy-drama film, directed by Patrice Sauvé and released in 2024.",
-      "body": "Adapted from Marie-Renée Lavoie's 2010 novel La petite et le vieux, the film stars Juliette Bharucha as Jo-Hélène, a young girl in the blue-collar Limoilou neighbourhood of Quebec City who befriends her elderly neighbour Roger. The world is stranger than it le",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Blue_Sky_Jo"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 607 —",
-      "hook": "Ono no Imoko is dispatched as envoy to the Sui court in China (Traditional Japanese date: July 3, 607).",
-      "body": "Ono no Imoko was a Japanese politician and diplomat in the late 6th and early 7th century, during the Asuka period. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ono_no_Imoko.jpg/330px-Ono_no_Imoko.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ono_no_Imoko"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Sinister Pig is a crime novel by American writer Tony Hillerman, the sixteenth in the Joe Leaphorn/Jim Chee Navajo Tribal Police series, first published in 2003.",
-      "body": "It was a New York Times best-seller. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/73/TheSinisterPig.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Sinister_Pig"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1911 —",
-      "hook": "Harriet Quimby takes her pilot's test and becomes the first U.S. woman to earn an Aero Club of America aviator's certificate.",
-      "body": "Harriet Quimby was an American pioneering aviator, journalist, and film screenwriter. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Harriet_Quimby_1911.jpg/330px-Harriet_Quimby_1911.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Harriet_Quimby"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1966 —",
-      "hook": "Purges of intellectuals and imperialists becomes official China policy at the beginning of the Cultural Revolution.",
-      "body": "The Cultural Revolution, formally known as the Great Proletarian Cultural Revolution, was a sociopolitical movement in the People's Republic of China (PRC). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Cultural_Revolution_poster.jpg/330px-Cultural_Revolution_poster.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Cultural_Revolution"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "World War I: The Swiss Army mobilizes because of World War I.",
-      "body": "The Swiss Armed Forces are the military forces of Switzerland, consisting of land and air service branches. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Swiss_Armed_Forces"
-    },
-    {
-      "type": "card",
       "cat": "history",
       "opener": "Here's one for the group chat —",
-      "hook": "The house was opened by Lord Nicholas Windsor in February 2019 and is named for St.",
-      "body": "The Christian Heritage Centre at Stonyhurst is a charitable trust that has as its mission the provision of access to, and learning around, Christian artefacts held at Stonyhurst College in Lancashire, England. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "The front (recto) contains parts of seven lines from the Gospel of John 18:31–33, in Greek, and the back (verso) contains parts of seven lines from verses 37–38.",
+      "body": "The Rylands Library Papyrus P52, also known as the St John's fragment and with an accession reference of Papyrus Rylands Greek 457, is a fragment from a papyrus codex, measuring only 3.5 by 2.5 inches at its widest, and conserved with the Rylands Papyri at the",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Manchester%2C_John_Rylands_Library_Ms_Greek_P_457_%28Papyrus_52%29_recto_John_18%2C_31-33.jpg/330px-Manchester%2C_John_Rylands_Library_Ms_Greek_P_457_%28Papyrus_52%29_recto_John_18%2C_31-33.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Christian_Heritage_Centre_at_Stonyhurst"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The town is located 37 kilometers north of the city of Concepción and has 4,486 inhabitants according to the 2017 census.",
-      "body": "Dichato is a coastal town located in the commune of Tomé in the Biobío Region, in central Chile. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dichato4.JPG/330px-Dichato4.JPG",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dichato"
+      "url": "https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52"
     },
     {
       "type": "card",
@@ -168,32 +158,32 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Invention of Curried Sausage is a novella by German author Uwe Timm detailing the fictionalized invention of currywurst, a popular dish of sausage in curry ketchup in Germany, as well as describing life in Hamburg in the last days of the Second World War.",
-      "body": "The story follows an unnamed journalist seeking to track down the recipe of the currywurst he had when he was a child. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Uwe_Timm%2C_Frankfurter_Buchmesse_2013_1.jpg/330px-Uwe_Timm%2C_Frankfurter_Buchmesse_2013_1.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Invention_of_Curried_Sausage"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "What your summer reading list says about you",
-      "body": "Just picked your holiday book? Our choices can subconsciously reveal important parts of our personality, studies show.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd69glgl2jzo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Film —",
+      "hook": "Leviticus review – queer desire is a deadly curse in haunting horror",
+      "body": "<p><strong>Sundance film festival:</strong> Conversion therapy has gory results in a smart and surprisingly romantic debut feature from Australian writer-director Adrian Chiarella</p><p>Something rather nasty is unfolding in Sundance horror",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/24/leviticus-review"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2007 —",
+      "hook": "The I-35W Mississippi River bridge spanning the Mississippi River in Minneapolis, Minnesota, collapses during the evening rush hour, killing 13 people and injuring 145.",
+      "body": "The I-35W Mississippi River bridge was an eight-lane, steel truss arch bridge that carried Interstate 35W across the Mississippi River one-half mile downstream from the Saint Anthony Falls in Minneapolis, Minnesota, United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/I35W_Bridge.jpg/330px-I35W_Bridge.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/I-35W_Mississippi_River_bridge"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Effie Adelaide Maria Henderson was a British novelist, better known under the pen names Effie Adelaide Rowlands, E.",
-      "body": "Maria Albanesi and Madame Albanesi. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/EMariaAlbanesi1904.tif/lossless-page1-330px-EMariaAlbanesi1904.tif.png",
+      "opener": "File under 'wait, really?' —",
+      "hook": "A Time to Kill is a 1989 legal thriller and debut novel by American author John Grisham.",
+      "body": "The novel was rejected by many publishers before Wynwood Press eventually gave it a 5,000-copy printing. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/de/A_Time_To_Kill_%28Grisham_novel%29_cover.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Effie_Adelaide_Rowlands"
+      "url": "https://en.wikipedia.org/wiki/A_Time_to_Kill_(Grisham_novel)"
     }
   ]
 }
