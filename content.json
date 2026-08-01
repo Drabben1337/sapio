@@ -1,16 +1,15 @@
 {
-  "generated": "2026-08-01T07:55:40.110Z",
-  "count": 12,
+  "generated": "2026-08-01T09:47:20.008Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Jordan Tannahill is a Canadian writer and director.",
-      "body": "His novels and plays have been translated into twelve languages, and honoured with a number of prizes including two Governor General's Literary Awards. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Jordan_Tannahill_at_Paris_Fashion_Week_2023.jpg/330px-Jordan_Tannahill_at_Paris_Fashion_Week_2023.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jordan_Tannahill"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "​What makes a good comic novel? Andrew Sean Greer on the joy of funny writing",
+      "body": "<p>The Pulitzer-winning author of Less and Villa Coco explores the art of writing humour – plus 10 of the best novels to make you laugh</p><p>In March 2020, when the mayor of San Francisco instructed all citizens to remain in their houses d",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/01/what-makes-a-good-comic-novel-andrew-sean-greer-on-the-joy-of-funny-writing"
     },
     {
       "type": "card",
@@ -20,6 +19,65 @@
       "body": "<p>Animated cats banter tediously in a show that’s determined to shock, but which leaves you checking your watch to see how long is left. It’s lazy, dated and far too pleased with itself</p><p>According to multiverse theory, there are paral",
       "src": "The Guardian · Culture",
       "url": "https://www.theguardian.com/tv-and-radio/2026/aug/01/alley-cats-ricky-gervais-review-back-boorish-sweary-comedy"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Peringuey's leaf-toed gecko, also known commonly as the salt marsh gecko, is a species of lizard in the family Gekkonidae.",
+      "body": "The species is endemic to South Africa. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peringuey's_leaf-toed_gecko"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Cromwell Gorge is a steep gorge cut by the former Clutha River in the Central Otago region of New Zealand's South Island.",
+      "body": "It winds 19 km (12 mi) between the Dunstan and Cairnmuir Mountains, linking the townships of Cromwell and Clyde. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Miners_Rockfall_Cromwell_Gorge.jpg/330px-Miners_Rockfall_Cromwell_Gorge.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cromwell_Gorge"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "In poetry, an epic is a lengthy narrative poem typically about the extraordinary deeds of extraordinary characters who, in dealings with gods or other superhuman forces, gave shape to the mortal universe for their descendants.",
+      "body": "With regard to oral tradition, epic poems consist of formal speech and are usually learnt word for word, contrasted with narratives that consist of everyday speech, categorised into 'factual' or fiction, the former of which is less susceptible to variation. Th",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/British_Museum_Flood_Tablet.jpg/330px-British_Museum_Flood_Tablet.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Epic_poetry"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Ordain Women is a Mormon feminist organization that supports the ordination of women to the priesthood in the Church of Jesus Christ of Latter-day Saints.",
+      "body": "It was founded on March 17, 2013, by Kate Kelly, a human rights attorney from Washington, D.C., with the website launch containing 19 profiles of individuals calling for the ordination of Mormon women. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ordain_Women"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The ceremony was held on November 16, 2022, at The Avalon in Hollywood, becoming the first in-person ceremony in two years after the virtual ceremonies of 2020 and 2021.",
+      "body": "The 13th Hollywood Music in Media Awards recognized the best in music in film, TV, video games, commercials, and trailers of 2022. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/13th_Hollywood_Music_in_Media_Awards"
     },
     {
       "type": "card",
@@ -33,87 +91,49 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Robin Hood and His Merry Men Entertaining Richard the Lionheart in Sherwood Forest is an 1839 history painting by the Irish artist Daniel Maclise, reflecting the style of the Romantic movement.",
-      "body": "It shows the former outlaw Robin Hood and his band of Merry Men hosting the rightful king Richard I at his hideout in Sherwood Forest. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Daniel_Maclise_%281806-1870%29_-_Robin_Hood_and_His_Merry_Men_Entertaining_Richard_the_Lionheart_in_Sherwood_Forest_-_NCM_1984-400_-_Nottingham_Museums.jpg/330px-Daniel_Maclise_%281806-1870%29_-_Robin_Hood_and_His_Merry_Men_Entertaining_Richard_the_Lionheart_in_Sherwood_Forest_-_NCM_1984-400_-_Nottingham_Museums.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Robin_Hood_and_His_Merry_Men_Entertaining_Richard_the_Lionheart_in_Sherwood_Forest"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "On tour with the Beastie Boys, Sonic Youth and Foo Fighters: raw music documentary captures Australia’s ‘best summer’",
-      "body": "<p>In 1995, US film-maker Tamra Davis travelled to Australia to capture the one-off Summersault tour on her camcorder. Thirty years on she has made The Best Summer, an intimate snapshot of an era that can never be repeated</p><p>There are o",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/01/summersault-tour-australia-best-summer-documentary-film"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Paramount, US states disagree on antitrust trial date",
-      "body": "Trial will take place in Oakland, California.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/paramount-us-states-disagree-on-antitrust-trial-date/5219046.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Redeeming Love is a 2022 American Christian Western romance film directed by D.J.",
-      "body": "Caruso, who co-wrote the screenplay with Francine Rivers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/64/Redeeming_Love_%282022_film%29.jpg",
+      "hook": "Rosa Mercedes Riglos was a Peruvian writer who was better known in some parts of Peru under her pseudonym of Beatriz.",
+      "body": "She was a member of the first generation of Peruvian women writers, and greatly influenced the Peruvian literary scene by organizing some of Juana Manuela Gorriti's literary events. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rosa_Mercedes_Riglos.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Redeeming_Love_(2022_film)"
+      "url": "https://en.wikipedia.org/wiki/Rosa_Mercedes_Riglos"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Fireworks, Should We See It from the Side or the Bottom?",
-      "body": "is a 1993 Japanese youth drama television play written and directed by Shunji Iwai. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Fireworks_dvd_cover.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fireworks%2C_Should_We_See_It_from_the_Side_or_the_Bottom%3F_(If%3A_Moshimo)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Birthday Trip review – excellent Australian black comedy piles pressure on to privilege",
-      "body": "<p>This compelling debut feature of James Robert Woods – who wrote, directed, produced, shot and edited it – keeps dialogue centre stage</p><p>The success of <a href=\"https://www.theguardian.com/film/2026/jun/30/the-invite-review-seth-rogen",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/01/the-birthday-trip-movie-review-film"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Thirteen Cents is the debut novel of South African author K.",
-      "body": "It was published in 2000 to critical acclaim and immediate success in South Africa and abroad, winning the 2002 Commonwealth Writers Prize for Best First Book, Africa. One of those things you can't un-know.",
+      "hook": "Carnegie Station, or Carnegie pastoral lease, is located north of Laverton and east of Wiluna in Western Australia and is the most eastern of pastoral leases found on the Gunbarrel Highway.",
+      "body": "Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Thirteen_Cents"
+      "url": "https://en.wikipedia.org/wiki/Carnegie_Station"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Acclaimed Welsh artist Kevin Sinnott dies aged 78",
-      "body": "Welsh Artist Kevin Sinnott rose to fame for his painting Running Away with the Hairdresser",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cp8ezz1mgvjo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Film —",
+      "hook": "Leviticus review – queer desire is a deadly curse in haunting horror",
+      "body": "<p><strong>Sundance film festival:</strong> Conversion therapy has gory results in a smart and surprisingly romantic debut feature from Australian writer-director Adrian Chiarella</p><p>Something rather nasty is unfolding in Sundance horror",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/24/leviticus-review"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "Watch the total solar eclipse with ESA in León",
-      "body": "Discover the science behind one of nature's most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the University of León.",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon"
+      "opener": "New Scientist —",
+      "hook": "The best new science-fiction novels of August 2026",
+      "body": "Fascist empires and deadly sea monsters are on offer in the science fiction out this month, says Alison Flood",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2582625-the-best-new-science-fiction-novels-of-august-2026/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Gregg Araki on sex, film and queer resistance: ‘All the terrible shit in the world is because of sexual repression’",
+      "body": "<p>As his 12th feature film, I Want Your Sex, hits theaters, the cult gay film-maker is as fired up as ever</p><p>Is straight sex the most perverse sex of all? <a href=\"https://www.theguardian.com/film/gregg-araki\">Gregg Araki</a>’s new fil",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
     }
   ]
 }
