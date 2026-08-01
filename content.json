@@ -1,121 +1,26 @@
 {
-  "generated": "2026-08-01T09:47:20.008Z",
-  "count": 14,
+  "generated": "2026-08-01T11:08:10.898Z",
+  "count": 23,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "​What makes a good comic novel? Andrew Sean Greer on the joy of funny writing",
-      "body": "<p>The Pulitzer-winning author of Less and Villa Coco explores the art of writing humour – plus 10 of the best novels to make you laugh</p><p>In March 2020, when the mayor of San Francisco instructed all citizens to remain in their houses d",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/01/what-makes-a-good-comic-novel-andrew-sean-greer-on-the-joy-of-funny-writing"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Alley Cats: Ricky Gervais is back with a boorish, sweary comedy – and I didn’t laugh once",
-      "body": "<p>Animated cats banter tediously in a show that’s determined to shock, but which leaves you checking your watch to see how long is left. It’s lazy, dated and far too pleased with itself</p><p>According to multiverse theory, there are paral",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/01/alley-cats-ricky-gervais-review-back-boorish-sweary-comedy"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Peringuey's leaf-toed gecko, also known commonly as the salt marsh gecko, is a species of lizard in the family Gekkonidae.",
-      "body": "The species is endemic to South Africa. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Peringuey's_leaf-toed_gecko"
-    },
-    {
-      "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Cromwell Gorge is a steep gorge cut by the former Clutha River in the Central Otago region of New Zealand's South Island.",
-      "body": "It winds 19 km (12 mi) between the Dunstan and Cairnmuir Mountains, linking the townships of Cromwell and Clyde. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Miners_Rockfall_Cromwell_Gorge.jpg/330px-Miners_Rockfall_Cromwell_Gorge.jpg",
+      "hook": "Massachusetts House of Representatives' 1st Berkshire district in the United States is one of 160 legislative districts included in the lower house of the Massachusetts General Court.",
+      "body": "It covers part of Berkshire County. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2013_map_1st_Berkshire_district_Massachusetts_House_of_Representatives_DC10SLDL25065_001.png/330px-2013_map_1st_Berkshire_district_Massachusetts_House_of_Representatives_DC10SLDL25065_001.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cromwell_Gorge"
+      "url": "https://en.wikipedia.org/wiki/Massachusetts_House_of_Representatives'_1st_Berkshire_district"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "In poetry, an epic is a lengthy narrative poem typically about the extraordinary deeds of extraordinary characters who, in dealings with gods or other superhuman forces, gave shape to the mortal universe for their descendants.",
-      "body": "With regard to oral tradition, epic poems consist of formal speech and are usually learnt word for word, contrasted with narratives that consist of everyday speech, categorised into 'factual' or fiction, the former of which is less susceptible to variation. Th",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/British_Museum_Flood_Tablet.jpg/330px-British_Museum_Flood_Tablet.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Epic_poetry"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Ordain Women is a Mormon feminist organization that supports the ordination of women to the priesthood in the Church of Jesus Christ of Latter-day Saints.",
-      "body": "It was founded on March 17, 2013, by Kate Kelly, a human rights attorney from Washington, D.C., with the website launch containing 19 profiles of individuals calling for the ordination of Mormon women. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ordain_Women"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The ceremony was held on November 16, 2022, at The Avalon in Hollywood, becoming the first in-person ceremony in two years after the virtual ceremonies of 2020 and 2021.",
-      "body": "The 13th Hollywood Music in Media Awards recognized the best in music in film, TV, video games, commercials, and trailers of 2022. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/13th_Hollywood_Music_in_Media_Awards"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "British girl band FLO 'want it all' - and they're confident they will get it",
-      "body": "The rising stars say making their second album, Therapy at the Club, was a \"crash course\" in music.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c8rnpxyj762o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Rosa Mercedes Riglos was a Peruvian writer who was better known in some parts of Peru under her pseudonym of Beatriz.",
-      "body": "She was a member of the first generation of Peruvian women writers, and greatly influenced the Peruvian literary scene by organizing some of Juana Manuela Gorriti's literary events. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rosa_Mercedes_Riglos.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rosa_Mercedes_Riglos"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Carnegie Station, or Carnegie pastoral lease, is located north of Laverton and east of Wiluna in Western Australia and is the most eastern of pastoral leases found on the Gunbarrel Highway.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Carnegie_Station"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Leviticus review – queer desire is a deadly curse in haunting horror",
-      "body": "<p><strong>Sundance film festival:</strong> Conversion therapy has gory results in a smart and surprisingly romantic debut feature from Australian writer-director Adrian Chiarella</p><p>Something rather nasty is unfolding in Sundance horror",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/24/leviticus-review"
+      "opener": "On this day in 2004 —",
+      "hook": "A supermarket fire kills 424 people and injures 360 others in Asunción, Paraguay.",
+      "body": "The Ycuá Bolaños supermarket fire, also known as the Ycuá Bolaños Tragedy, occurred on 1 August 2004 in Asunción, Paraguay. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Super_Ycu%C3%A1_Bola%C3%B1os_01_08_2005.jpg/330px-Super_Ycu%C3%A1_Bola%C3%B1os_01_08_2005.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ycu%C3%A1_Bola%C3%B1os_supermarket_fire"
     },
     {
       "type": "card",
@@ -128,12 +33,197 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1976 —",
+      "hook": "Niki Lauda has a severe accident that almost claims his life at the German Grand Prix at Nürburgring.",
+      "body": "Andreas Nikolaus \"Niki\" Lauda was an Austrian racing driver, motorsport executive, and aviation entrepreneur, who competed in Formula One from 1971 to 1979 and from 1982 to 1985. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lauda_at_1982_Dutch_Grand_Prix.jpg/330px-Lauda_at_1982_Dutch_Grand_Prix.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Niki_Lauda"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Thomas Gustav Borer is a Swiss management consultant, lobbyist and former diplomat.",
+      "body": "From 1996 to 1999 he headed the Switzerland – Second World War Task Force. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Thomas_Borer%2C_2016_%28cropped%29.jpg/330px-Thomas_Borer%2C_2016_%28cropped%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Borer"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The 2024 Southeastern Conference football season was the 92nd season of Southeastern Conference (SEC) football and part of the 2024 NCAA Division I FBS football season.",
+      "body": "This was the SEC's first season with 16 teams with the additions of Texas and Oklahoma, and its first season since 1991 with a non-divisional scheduling format. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Southeastern_Conference_logo.svg/330px-Southeastern_Conference_logo.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2024_Southeastern_Conference_football_season"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Wyatt family included several of the major English architects during the 18th and 19th centuries, and a significant 18th century inventor, John Wyatt (1700–1766), the eldest son of John Wyatt (1675–1742).",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Wyatt_family_vault.jpg/330px-Wyatt_family_vault.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wyatt_family"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "​What makes a good comic novel? Andrew Sean Greer on the joy of funny writing",
+      "body": "<p>The Pulitzer-winning author of Less and Villa Coco explores the art of writing humour – plus 10 of the best novels to make you laugh</p><p>In March 2020, when the mayor of San Francisco instructed all citizens to remain in their houses d",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/01/what-makes-a-good-comic-novel-andrew-sean-greer-on-the-joy-of-funny-writing"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2008 —",
+      "hook": "Eleven mountaineers from international expeditions die on K2, the second-highest mountain on Earth, in the worst single accident in the history of K2 mountaineering.",
+      "body": "The 2008 K2 disaster occurred on 1 August 2008, when 11 mountaineers from international expeditions died on K2, the second-highest mountain on Earth. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/K2-big.jpg/330px-K2-big.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2008_K2_disaster"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "Gregg Araki on sex, film and queer resistance: ‘All the terrible shit in the world is because of sexual repression’",
       "body": "<p>As his 12th feature film, I Want Your Sex, hits theaters, the cult gay film-maker is as fired up as ever</p><p>Is straight sex the most perverse sex of all? <a href=\"https://www.theguardian.com/film/gregg-araki\">Gregg Araki</a>’s new fil",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "N-succinylornithine carbamoyltransferase (EC 2.1.3.11, succinylornithine transcarbamylase, N-succinyl-L-ornithine transcarbamylase, SOTCase) is an enzyme with systematic name carbamoyl phosphate:N2-succinyl-L-ornithine carbamoyltransferase.",
+      "body": "It catalyses the following chemical reaction Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Carbamoylphosphat2.svg/330px-Carbamoylphosphat2.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/N-succinylornithine_carbamoyltransferase"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1974 —",
+      "hook": "Cyprus dispute: The United Nations Security Council authorizes the UNFICYP to create the \"Green Line\", dividing Cyprus into two zones.",
+      "body": "There is an ongoing dispute between the Greek and Turkish communities in Cyprus, particularly in the north where Turkish troops are deployed. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_map_of_Cyprus.svg/330px-Flag_map_of_Cyprus.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cyprus_problem"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Leviticus review – queer desire is a deadly curse in haunting horror",
+      "body": "<p><strong>Sundance film festival:</strong> Conversion therapy has gory results in a smart and surprisingly romantic debut feature from Australian writer-director Adrian Chiarella</p><p>Something rather nasty is unfolding in Sundance horror",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/24/leviticus-review"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The western terminus of State Route 151 is at a T-intersection with U.S.",
+      "body": "State Route 151 is an east–west state highway in the eastern part of the U.S. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/OH-151.svg/330px-OH-151.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ohio_State_Route_151"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
+      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Ellen Asher is an American science fiction editor who served as editor-in-chief of the Science Fiction Book Club (SFBC) for thirty-four years, from February 8, 1973, through June 1, 2007.",
+      "body": "She grew up in New York City and began editing science fiction at New American Library from 1970 to 1972. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/EllenAsher.jpg/330px-EllenAsher.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ellen_Asher"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1984 —",
+      "hook": "Commercial peat-cutters discover the preserved bog body of a man, called Lindow Man, at Lindow Moss, Cheshire, England.",
+      "body": "Peat is an accumulation of partially decayed vegetation or organic matter. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Peat_%2849302157252%29.jpg/330px-Peat_%2849302157252%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Peat"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1957 —",
+      "hook": "The United States and Canada form the North American Aerospace Defense Command (NORAD).",
+      "body": "The North American Aerospace Defense Command is a bi-national mutual defense organization in Canada and the United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/North_American_Aerospace_Defense_Command_logo.svg/330px-North_American_Aerospace_Defense_Command_logo.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/NORAD"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "North Carolina currently competes as a member of the Atlantic Coast Conference (ACC) and plays its home matches at Cone-Kenfield Tennis Center.",
+      "body": "The North Carolina Tar Heels men's tennis team, commonly referred to as Carolina, represents the University of North Carolina at Chapel Hill in NCAA Division I college tennis. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/North_Carolina_Tar_Heels_logo.svg/330px-North_Carolina_Tar_Heels_logo.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_men's_tennis"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Glasgow gets starring role in Spider-Man: Brand New Day film",
+      "body": "Scotland's largest city doubles as New York in the latest installment of Marvel cinematic universe.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c78gngjz3p8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "It was established in 1985 and is published by Springer Science+Business Media.",
+      "body": "The Journal of Quantitative Criminology is a quarterly peer-reviewed academic journal in the field of criminology. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Journal_of_Quantitative_Criminology"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It was released on December 8, 2017, as the second single from Mateo's fifth studio album A Cámara Lenta.",
+      "body": "\"Háblame Bajito\" is a song by Spanish singer-songwriter Abraham Mateo with American rapper 50 Cent and American singer Austin Mahone. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/86/H%C3%A1blame_Bajito.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/H%C3%A1blame_Bajito"
     }
   ]
 }
