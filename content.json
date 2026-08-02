@@ -1,26 +1,55 @@
 {
-  "generated": "2026-08-01T23:44:46.850Z",
-  "count": 21,
+  "generated": "2026-08-02T01:22:08.091Z",
+  "count": 22,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Tom Swift III is the unofficial name of this series of juvenile science fiction adventure novels, the third to feature a protagonist named Tom Swift.",
-      "body": "Unlike the previous series, it was not published by the Grosset & Dunlap, but was published by Wanderer Books, a division of Simon & Schuster, which, at the tail-end of the series bought and obtained the rights of the Stratemeyer Syndicate's series. Bring it u",
-      "img": null,
+      "opener": "Bet you didn't know —",
+      "hook": "Shakuntala is a 1945 Nepali epic poem written by Laxmi Prasad Devkota and published by Sajha Publications.",
+      "body": "It is considered to be one of the greatest works of Laxmi Prasad Devkota and Nepali literature. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Nepali_Shakuntala.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tom_Swift_III"
+      "url": "https://en.wikipedia.org/wiki/Shakuntala_(epic)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1984 —",
-      "hook": "Commercial peat-cutters discover the preserved bog body of a man, called Lindow Man, at Lindow Moss, Cheshire, England.",
-      "body": "Peat is an accumulation of partially decayed vegetation or organic matter. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Peat_%2849302157252%29.jpg/330px-Peat_%2849302157252%29.jpg",
+      "opener": "On this day in 1914 —",
+      "hook": "World War I: The German occupation of Luxembourg begins.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Peat"
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1939 —",
+      "hook": "Albert Einstein and Leo Szilard write a letter to Franklin D. Roosevelt, urging him to begin the Manhattan Project to develop a nuclear weapon.",
+      "body": "Albert Einstein was a German-born theoretical physicist best known for developing the theory of relativity. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/330px-Albert_Einstein_Head_cleaned.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1784 —",
+      "hook": "The first British mail coach service runs from Bristol to London.",
+      "body": "A mail coach is a public coach contracted to carry the mail. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mail_coach%2C_York-London%2C_c._1820_-_Science_Museum%2C_London_-_DSC05710.jpg/330px-Mail_coach%2C_York-London%2C_c._1820_-_Science_Museum%2C_London_-_DSC05710.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mail_coach"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Does Love Island UK need to pull the US version for a chat?",
+      "body": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -34,6 +63,85 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Conkers is a traditional children's game in Great Britain and Ireland played using the seeds of horse chestnut trees—the name 'conker' is also applied to the seed and to the tree itself.",
+      "body": "The game is played by two players, each with a conker threaded onto a piece of string: they take turns striking each other's conker until one breaks. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Conker_%28248814699%29.jpeg/330px-Conker_%28248814699%29.jpeg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Conkers"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1943 —",
+      "hook": "World War II: After the Motor Torpedo Boat PT-109 is rammed and sunk by the Japanese destroyer Amagiri, Lt. John F. Kennedy, future U.S. president, saves all but two of his crew.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "James Neilson Pettigrew who is currently the chairman of the AIB Group Plc, RBC Global Asset Management UK Ltd, and Scottish Ballet.",
+      "body": "Until recently, he was the chairman of Virgin Money & CYBG PLC, the owners of Clydesdale Bank, Yorkshire Bank and the digital app based current account provider, B. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jim_Pettigrew"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "East Africans in the United States are Americans with ancestry from East Africa.",
+      "body": "They include:Burundian Americans Kenyan Americans Rwandan Americans South Sudanese Americans Tanzanian Americans Ugandan Americans One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/East_Africans_in_the_United_States"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "A strain of bacterium or fungus will not grow near a concentration of antibiotic or antifungal if it is sensitive.",
+      "body": "Etest is a way of determining antimicrobial sensitivity by placing a strip impregnated with antimicrobials onto an agar plate. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/E-test_Ngono.jpg/330px-E-test_Ngono.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Etest"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1916 —",
+      "hook": "World War I: Austrian sabotage causes the sinking of the Italian battleship Leonardo da Vinci in Taranto.",
+      "body": "Austria-Hungary, also referred to as the Austro-Hungarian Empire and officially as the Austro-Hungarian Monarchy, was a multi-national constitutional dual empire in Central Europe between 1867 and 1918. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coat_of_arms_of_Austria-Hungary_%281914%29.svg/330px-Coat_of_arms_of_Austria-Hungary_%281914%29.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Austria-Hungary"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Xaver Wilhelmy is an inventor, designer and certified pipe organ builder who was the first in the world to create organ pipes from glass.",
+      "body": "Wilhelmy created the Wilhelmy American Flag Glass Pipe Organ, the first pipe organ in the world with pipes made entirely from glass. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wilhelmy_American_Flag_Glass_Pipe_Organ.jpg/330px-Wilhelmy_American_Flag_Glass_Pipe_Organ.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Xaver_Wilhelmy"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "BBC Entertainment —",
       "hook": "Spider-Man fans hail Brand New Day as Holland's best yet",
       "body": "Spider-Man fans are full of praise for Tom Holland's latest web-slinging performance.",
@@ -42,168 +150,70 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1933 —",
-      "hook": "Anti-Fascist activists Bruno Tesch, Walter Möller, Karl Wolff and August Lütgens are executed by the Nazi regime in Altona.",
-      "body": "Bruno Guido Camillo Tesch was a German communist and member of the Young Communist League of Germany. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stolperstein_Max-Brauer-Allee_89_%28Bruno_Tesch%29_in_Hamburg-Altona-Nord.JPG/330px-Stolperstein_Max-Brauer-Allee_89_%28Bruno_Tesch%29_in_Hamburg-Altona-Nord.JPG",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bruno_Tesch_(antifascist)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Sunrise Alley is a romantic science fiction novel by American author Catherine Asaro about a retired EI engineer named Samantha Bryton, and her adventures with an escaped EI who claims to be a human named Turner Pascal.",
-      "body": "The audiobook is narrated by Hillary Huber. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Sunrise_Alley.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sunrise_Alley"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Voicemails for Isabelle review – Netflix romcom picks creepy over cute",
-      "body": "<p>Zoey Deutch and Nick Robinson stumble in this mushy, overlong story of a woman leaving voicemails for her dead sister</p><p>There’s a fine line between romantic comedy and creepy thriller, and while redefining the genre’s lovelorn leads ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jun/18/voicemails-for-isabelle-review-netflix-romcom"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "The Sopranos star Vincent Pastore dies aged 80",
-      "body": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Stephen Steps Out is a 1923 American silent comedy film that is notable as being the first starring role for the still teenaged Douglas Fairbanks Jr.",
-      "body": "Directed by Joseph Henabery, it was based on a short story by Richard Harding Davis, \"The Grand Cross of the Desert.\" Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Stephen_Steps_Out_lobby_card.jpg/330px-Stephen_Steps_Out_lobby_card.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Stephen_Steps_Out"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "James forced to pull out of Belladrum headline slot as Tim Booth loses voice",
-      "body": "Festival producer Dougie Brown said it was rare to lose a headliner but Razorlight had been asked to step up to the slot on Saturday night.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c77g67l0zl4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1971 —",
-      "hook": "The Concert for Bangladesh, organized by former Beatle George Harrison, is held at Madison Square Garden in New York City.",
-      "body": "The Concert for Bangladesh was a pair of benefit concerts organised by former Beatles guitarist George Harrison and the Indian sitar player Ravi Shankar. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/MSG_box-office_sign_for_Concert_for_Bangladesh.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/The_Concert_for_Bangladesh"
+      "opener": "The Guardian · Books —",
+      "hook": "The best recent poetry – review roundup",
+      "body": "<p>Small Birds Singing by Matthew Welton; The Channel by Jana Prikryl; Stepmother by Helen Mort; Drunken Driving by Martina Evans</p><p><strong><a href=\"https://www.guardianbookshop.com/small-birds-singing-9781800175594/?utm_source=editoria",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/the-best-recent-poetry-review-roundup"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "You probably never noticed this —",
-      "hook": "Lurasidone, sold under the brand name Latuda among others, is an atypical antipsychotic medication used to treat schizophrenia and bipolar depression.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lurasidone.svg/330px-Lurasidone.svg.png",
+      "hook": "The Karnala Bird Sanctuary is located in Panvel Taluka of Raigad District, outside Mumbai, India near Matheran and Karjat.It is the first bird sanctuary in Maharashtra.",
+      "body": "The sanctuary is quite small with an area of 12.11 square kilometres but is, along with the Sanjay Gandhi National Park and Tungareshwar Wildlife Sanctuary, one of the few sanctuaries to be within reach of the city of Mumbai. One of those things you can't un-k",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Karnala_006.jpg/330px-Karnala_006.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lurasidone"
+      "url": "https://en.wikipedia.org/wiki/Karnala_Bird_Sanctuary"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2004 —",
-      "hook": "A supermarket fire kills 424 people and injures 360 others in Asunción, Paraguay.",
-      "body": "The Ycuá Bolaños supermarket fire, also known as the Ycuá Bolaños Tragedy, occurred on 1 August 2004 in Asunción, Paraguay. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Super_Ycu%C3%A1_Bola%C3%B1os_01_08_2005.jpg/330px-Super_Ycu%C3%A1_Bola%C3%B1os_01_08_2005.jpg",
+      "opener": "On this day in 1989 —",
+      "hook": "A massacre is carried out by an Indian Peace Keeping Force in Sri Lanka killing 64 ethnic Tamil civilians.",
+      "body": "The 1989 Valvettiturai massacre occurred on 2 and 3 August 1989 in the small coastal town of Valvettiturai, on the Jaffna Peninsula in Sri Lanka. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/LocationSriLanka.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ycu%C3%A1_Bola%C3%B1os_supermarket_fire"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The general ledger holds financial and non-financial data for an organization.",
-      "body": "In bookkeeping, a general ledger is a bookkeeping ledger in which accounting data are posted from journals and aggregated from subledgers, such as accounts payable, accounts receivable, cash management, fixed assets, purchasing and projects. One of those thing",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0.png/330px-%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/General_ledger"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Last Orders is a 2001 drama film written and directed by Fred Schepisi.",
-      "body": "The screenplay is based on the 1996 Booker Prize-winning novel Last Orders by Graham Swift. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/93/Last_Orders_%28film%29_poster.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Last_Orders_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "UK-Ireland box office preview: ‘Spider-Man: Brand New Day’ swings into 716 cinemas for Sony",
-      "body": "Can the superhero film topple Christopher Nolan’s ‘The Odyssey’?",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-spider-man-brand-new-day-swings-into-716-cinemas-for-sony/5219029.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "It is in the western suburbs of Paris 31.2 km (19.4 mi) from the center.",
-      "body": "Maurepas is a commune in the Yvelines department in the Île-de-France region in north-central France. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Maurepas_eglise.JPG/330px-Maurepas_eglise.JPG",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maurepas%2C_Yvelines"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1965 —",
-      "hook": "Frank Herbert's novel, Dune, is published for the first time. It was named as the world's best-selling science fiction novel in 2003.",
-      "body": "Franklin Patrick Herbert Jr. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Frank_Herbert_1984_%28square%29.jpg/330px-Frank_Herbert_1984_%28square%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1974 —",
-      "hook": "Cyprus dispute: The United Nations Security Council authorizes the UNFICYP to create the \"Green Line\", dividing Cyprus into two zones.",
-      "body": "There is an ongoing dispute between the Greek and Turkish communities in Cyprus, particularly in the north where Turkish troops are deployed. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_map_of_Cyprus.svg/330px-Flag_map_of_Cyprus.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Cyprus_problem"
+      "url": "https://en.wikipedia.org/wiki/1989_Valvettiturai_massacre"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse",
-      "body": "<p>The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers</p><p>The AI ethicist Eleanor Drage believes that to thrive alongside artificial intelligence, humans need to recognise AI’s “h",
+      "hook": "Jacqueline Crooks: ‘Toni Morrison’s voice made me want to find my own’",
+      "body": "<p>The novelist on learning empathy from Charles Dickens, the playfulness of Irenosen Okojie and avoiding Jane Austen</p><p><strong>My earliest reading memory</strong><br> I was eight when I was given The Water-Babies by Charles Kingsley, a",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse"
+      "url": "https://www.theguardian.com/books/2026/jul/31/jacqueline-crooks-toni-morrisons-voice-made-me-want-to-find-my-own"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Road: A Graphic Novel Adaptation is a French comic book by Manu Larcenet, published by Dargaud on 29 March 2024.",
-      "body": "It is based on the novel The Road by Cormac McCarthy and follows a father and his son who try to survive in a post-apocalyptic wasteland. Worth a quiet trip down the rabbit hole.",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Listed at 5 ft 5 in (1.65 m), 150 lb., she batted and threw right-handed.",
+      "body": "Magdalen \"Mamie\" Redman was a catcher and utility infielder who played from 1948 through 1954 in the All-American Girls Professional Baseball League (AAGPBL). The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Road%3A_A_Graphic_Novel_Adaptation"
+      "url": "https://en.wikipedia.org/wiki/Magdalen_Redman"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Founded in 1934 in Cartagena, Colombia, by Antonio Fuentes Estrada, Discos Fuentes was the country's first notable record label.",
+      "body": "Discos Fuentes is a record label based in Medellín, Colombia, South America. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Discos_Fuentes"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Wicker Man sequel director Justin Hardy dies aged 61",
+      "body": "The British filmmaker died on Friday after suffering a heart attack, his family said in a statement.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwj0wnyydo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
