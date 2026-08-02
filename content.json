@@ -1,66 +1,84 @@
 {
-  "generated": "2026-08-02T05:12:14.873Z",
-  "count": 21,
+  "generated": "2026-08-02T07:57:52.621Z",
+  "count": 16,
   "items": [
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1870 —",
-      "hook": "Tower Subway, the world's first underground tube railway, opens in London, England, United Kingdom.",
-      "body": "The Tower Subway is a tunnel beneath the River Thames in central London, between Tower Hill on the north bank of the river and Vine Lane on the south. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tower_subway_map.gif/330px-Tower_subway_map.gif",
+      "opener": "On this day in 1916 —",
+      "hook": "World War I: Austrian sabotage causes the sinking of the Italian battleship Leonardo da Vinci in Taranto.",
+      "body": "Austria-Hungary, also referred to as the Austro-Hungarian Empire and officially as the Austro-Hungarian Monarchy, was a multi-national constitutional dual empire in Central Europe between 1867 and 1918. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coat_of_arms_of_Austria-Hungary_%281914%29.svg/330px-Coat_of_arms_of_Austria-Hungary_%281914%29.svg.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tower_Subway"
+      "url": "https://en.wikipedia.org/wiki/Austria-Hungary"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1973 —",
-      "hook": "A flash fire kills 50 people at the Summerland amusement centre at Douglas, Isle of Man.",
-      "body": "The Summerland disaster occurred when a fire spread through the Summerland leisure centre in Douglas on the Isle of Man on the night of 2 August 1973. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Summerland_-_the_burnt_out_remains_the_month_after_the_fire%2C_geograph_5858933_by_Stuart_Taylor.jpg/330px-Summerland_-_the_burnt_out_remains_the_month_after_the_fire%2C_geograph_5858933_by_Stuart_Taylor.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Summerland_disaster"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in -338 —",
-      "hook": "A Macedonian army led by Philip II defeated the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean.",
-      "body": "The Macedonian army was the army of Macedon under the leadership of Philip II and Alexander the Great. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hypaspist.jpg/330px-Hypaspist.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ancient_Macedonian_army"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1980 —",
-      "hook": "A bomb explodes at the railway station in Bologna, Italy, killing 85 people and wounding more than 200.",
-      "body": "The Bologna massacre was a terrorist bombing of the Bologna Centrale railway station in Bologna, Italy, on the morning of 2 August 1980, which killed 85 people and wounded over 200. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stragedibologna-2.jpg/330px-Stragedibologna-2.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bologna_massacre"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1934 —",
-      "hook": "Reichskanzler Adolf Hitler becomes Führer of Germany following the death of President Paul von Hindenburg.",
-      "body": "The chancellor of Germany, officially the federal chancellor of the Federal Republic of Germany, is the head of government of Germany. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DEgov-BK-Logo.svg/330px-DEgov-BK-Logo.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Chancellor_of_Germany"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "A part of Spartanburg County School District 5, it is named after the former Governor of South Carolina and U.S.",
-      "body": "Byrnes High School is a public high school located in Duncan, South Carolina. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/James_F._Byrnes_High_School_logo.png/330px-James_F._Byrnes_High_School_logo.png",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Citebase Search was an experimental, semi-autonomous citation index for free, online research literature created at the University of Southampton as part of the Open Citation Project.",
+      "body": "It harvested open access e-prints from OAI-PMH compliant archives, parses and links their references and indexes the metadata in a Xapian-based search engine. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/James_F._Byrnes_High_School"
+      "url": "https://en.wikipedia.org/wiki/Citebase"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1990 —",
+      "hook": "Iraqi invasion of Kuwait: Iraq invades Kuwait and temporarily establishes the Republic of Kuwait puppet state on the orders of Saddam Hussein, eventually leading to the Gulf War.",
+      "body": "The Iraqi invasion of Kuwait, codenamed Project 17, began on 2 August 1990 and marked the beginning of the Gulf War. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Tankskuwait.jpg/330px-Tankskuwait.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Iraqi_invasion_of_Kuwait"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1909 —",
+      "hook": "End of the Tragic Week in Barcelona, a series of antiwar and antigovernment protests in Spain and especially in Barcelona.",
+      "body": "The Tragic Week was a series of violent confrontations between the Spanish army and anarchists, freemasons, socialists and republicans of Barcelona and other cities in Catalonia, Spain, during the last week of July 1909. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/TragicWeekroundup.jpg/330px-TragicWeekroundup.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Tragic_Week_(Spain)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Does Love Island UK need to pull the US version for a chat?",
+      "body": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1947 —",
+      "hook": "A British South American Airways Avro Lancastrian airliner crashes into a mountain during a flight from Buenos Aires, Argentina to Santiago, Chile. The wreckage would not be found until 1998.",
+      "body": "British South American Airways (BSAA) was a state-run airline of the United Kingdom in the mid-to-late 1940s responsible for services to the Caribbean and South America. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/British_South_American_Airways"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "This list of fossil reptiles described in 2020 is a list of new taxa of fossil reptiles that were described during the year 2020, as well as other significant discoveries and events related to reptile paleontology that occurred in 2020.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2020_in_reptile_paleontology"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Massive Attack banned from Singapore after pro-Palestine display at show",
+      "body": "The UK band is told not to return to the city-state after shouting \"free Palestine\" at a gig on Wednesday.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -73,42 +91,22 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2005 —",
-      "hook": "Air France Flight 358 lands at Toronto Pearson International Airport and runs off the runway, causing the plane to burst into flames, leaving 12 injuries and no fatalities.",
-      "body": "Air France Flight 358 was a regularly scheduled international flight from Charles de Gaulle Airport in Paris, France, to Toronto Pearson International Airport in Ontario, Canada. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Airfranceflight358_%28cropped%29.jpg/330px-Airfranceflight358_%28cropped%29.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Air_France_Flight_358"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Jacobus en Corneel is a Flemish children's slapstick series from the 1980s featuring the exploits of two handymen.",
-      "body": "It was originally broadcast between 1982 and 1984 on BRT every Tuesday and Friday around 18.20 in the evening. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Jacobus_en_Corneel-series_banner.png/330px-Jacobus_en_Corneel-series_banner.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jacobus_en_Corneel"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Mario Vargas Llosa by Gerald Martin review – the Peruvian leftist who fell in love with Margaret Thatcher",
-      "body": "<p>This stylish biography of the author traces his journey from left to right, and from ‘posh Lima’ to Cricklewood</p><p>“At what precise moment had Peru fucked itself up?” Those words on the opening page of Conversation in the Cathedral<em",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/30/mario-vargas-llosa-by-gerald-martin-review-the-passions-and-politics-of-perus-nobel-laureate"
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Tribulation Force: The Continuing Drama of Those Left Behind (1996) is the second novel in the Left Behind series, by Tim LaHaye and Jerry B.",
-      "body": "It takes place from two weeks after the Rapture to 18 months into the Tribulation. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/fe/Tribulation_Force_Paperback.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tribulation_Force"
+      "cat": "history",
+      "opener": "On this day in -216 —",
+      "hook": "The Carthaginian army led by Hannibal defeats a numerically superior Roman army at the Battle of Cannae.",
+      "body": "Carthage was an ancient city in northern Africa founded by the legendary Phoenician queen Dido on the eastern side of the Lake of Tunis in what is now Tunisia. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Montage_ville_de_Carthage.png/330px-Montage_ville_de_Carthage.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Carthage"
     },
     {
       "type": "card",
@@ -122,41 +120,12 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "He ruled the Sapadalaksha country, which included parts of present-day Rajasthan in north-western India.",
-      "body": "Chamundaraja was an Indian king belonging to the Shakambhari Chahamana dynasty. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chamundaraja_(Chahamana_dynasty)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Mohammad Hameed Shahid is a Pakistani short story writer, novelist and literary critic.",
-      "body": "He is well known for his Urdu fiction writings. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Receiving_Tagma_E_Imtiaz_Mr_Hameed_Shahid.jpg/330px-Receiving_Tagma_E_Imtiaz_Mr_Hameed_Shahid.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mohammad_Hameed_Shahid"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "It works to alleviate problems of poverty and exclusion of all sections of the population and seeks to promote social justice.",
-      "body": "Secours Catholique, also known as Secours Catholique – Caritas France, is a French not-for-profit organisation. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/Logo_of_Secours_catholique.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Secours_catholique"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Wicker Man sequel director Justin Hardy dies aged 61",
-      "body": "The British filmmaker died on Friday after suffering a heart attack, his family said in a statement.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwj0wnyydo?at_medium=RSS&at_campaign=rss"
+      "opener": "On this day in 1790 —",
+      "hook": "The first United States Census is conducted.",
+      "body": "The 1790 United States census was the first United States census. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/1790a-01-page-001.jpg/330px-1790a-01-page-001.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1790_United_States_census"
     },
     {
       "type": "card",
@@ -170,40 +139,21 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Switchers Trilogy is a fantasy book series for young adults, written by British-Irish author Kate Thompson.",
-      "body": "The series is mainly set in Ireland. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/88/Switchers_trilogyy.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Switchers_Trilogy"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Khadambi Asalache was a Kenyan poet and author who settled in London, England.",
-      "body": "He was later a civil servant at HM Treasury. Bring it up somewhere. Watch the reaction.",
+      "opener": "Okay, this one's fun —",
+      "hook": "QH2.com formerly Planetboredom.net is a website which has its roots in Toronto, Ontario, Canada.",
+      "body": "Launched in the late 1990s, it was owned by Ben Lovatt. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Khadambi_Asalache"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+      "url": "https://en.wikipedia.org/wiki/Planetboredom"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Does Love Island UK need to pull the US version for a chat?",
-      "body": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again.",
+      "hook": "Wicker Man sequel director Justin Hardy dies aged 61",
+      "body": "The British filmmaker died on Friday after suffering a heart attack, his family said in a statement.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cvgwj0wnyydo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
