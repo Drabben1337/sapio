@@ -1,17 +1,7 @@
 {
-  "generated": "2026-08-02T15:49:12.333Z",
-  "count": 15,
+  "generated": "2026-08-02T16:41:57.981Z",
+  "count": 12,
   "items": [
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Hayate the Combat Butler is a Japanese manga series written and illustrated by Kenjiro Hata.",
-      "body": "It was serialized in Shogakukan's Weekly Shōnen Sunday magazine from October 2004 to April 2017. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/Hayate_cover.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hayate_the_Combat_Butler"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -24,11 +14,11 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "San Sebastian unveils 14-film New Directors lineup",
-      "body": "‘The Bad Son’, ‘Florid’ bookend festival running September 18-26.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/san-sebastian-unveils-14-film-new-directors-lineup/5219019.article"
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
@@ -42,89 +32,51 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on how to be a top reader – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/02/tom-gauld-on-how-to-be-a-top-reader-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/aug/02/tom-gauld-on-how-to-be-a-top-reader-cartoon"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "He was selected by the Tampa Bay Buccaneers in the third round of the 2004 NFL draft.",
-      "body": "Marquis Victor Cooper was an American professional football player who was a linebacker in the National Football League (NFL). One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/MarquisCooper.jpg/330px-MarquisCooper.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marquis_Cooper"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Dinosaur Planet Survivors or Survivors: Dinosaur Planet II is a 1984 science fiction novel by American writer Anne McCaffrey.",
-      "body": "It is the sequel to Dinosaur Planet (1978) and the second book in the Ireta series. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/29/Dinosaur-Planet2.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dinosaur_Planet_Survivors"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Shiroki Teikoku is a Japanese light novel series written by Koroku Inumura and illustrated by Kotarō.",
-      "body": "It began publication under Shogakukan's Gagaga Bunko imprint in February 2024. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/Shiroki_Teikoku_light_novel_volume_1_cover.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Shiroki_Teikoku"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Prussian Blue is a 1947 mystery crime novel by the British writer Anne Hocking.",
-      "body": "It was her ninth in the series featuring Chief Superintendent William Austen of Scotland Yard. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/13/Prussian_Blue_%28novel%29.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Prussian_Blue_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "What should Isabel Davis’s priorities be as new head of BFI Filmmaking Funds? - The Screen Podcast",
-      "body": "Producers Nicky Bentham and Joy Gharoro-Akpojotor give their verdicts.",
+      "hook": "San Sebastian unveils 14-film New Directors lineup",
+      "body": "‘The Bad Son’, ‘Florid’ bookend festival running September 18-26.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/what-should-isabel-daviss-priorities-be-as-new-head-of-bfi-filmmaking-funds-the-screen-podcast/5218985.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "From The Wizard of Oz to Trainspotting: 25 films to watch before you turn 25",
-      "body": "<p>As AI slop takes over our screens, what better antidote for enquiring minds than a magical film? We ask directors, producers and critics to pick one must-see movie for each year from infancy to early adulthood</p><p>***</p><p>Screentime ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/02/25-films-to-watch-before-you-turn-25-wizard-oz-trainspotting-totoro-labyrinth-get-out"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "Born in Memphis, Tennessee, he was a 6-foot-9-inch (206 cm) 210 pounds (95 kg) forward and he played collegiately at Memphis State University.",
-      "body": "Hank Leigh McDowell is an American former professional basketball player. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hank_McDowell"
+      "url": "https://www.screendaily.com/news/san-sebastian-unveils-14-film-new-directors-lineup/5219019.article"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Fortitude is a one-act play written by Kurt Vonnegut in 1968, and broadly based on Mary Shelley's 1818 novel Frankenstein; or, The Modern Prometheus.",
-      "body": "The brief [19 page] play relates to the issues of robotics and the ethical dilemmas of the \"cyborg's rights.\" It was featured in the anthologies, Human-Machines: An Anthology of Stories About Cyborgs and The Ultimate Frankenstein. Worth a quiet trip down the r",
+      "opener": "Here's one for the group chat —",
+      "hook": "The ZB-26 was a Czechoslovak light machine gun developed in the 1920s, which went on to enter service with several countries.",
+      "body": "It saw its major use during World War II, and spawned the related ZB vz. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ZB_vz._26_at_Great_Patriotic_War_museum_in_Smolensk.jpg/330px-ZB_vz._26_at_Great_Patriotic_War_museum_in_Smolensk.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ZB_vz._26"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The 1958 Lituya Bay earthquake occurred on July 9, 1958, at 22:15:58 PST with a moment magnitude of 7.8 to 8.3 and a maximum Mercalli intensity of XI (Extreme).",
+      "body": "The strike-slip earthquake took place on the Fairweather Fault and triggered a rockslide of 30 million cubic meters and about 90 million tons into the narrow inlet of Lituya Bay, Alaska. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/1958_Lituya_Bay_earthquake_and_megatsunami.jpg/330px-1958_Lituya_Bay_earthquake_and_megatsunami.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1958_Lituya_Bay_earthquake_and_megatsunami"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Luke 18 is the eighteenth chapter of the Gospel of Luke in the New Testament of the Christian Bible.",
+      "body": "It records the teachings and a miracle of Jesus Christ. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fortitude_(play)"
+      "url": "https://en.wikipedia.org/wiki/Luke_18"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Paula Pogány was a Hungarian women's rights activist and pacifist.",
+      "body": "Her father died when she was young and she left school at the age of sixteen. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paula_Pog%C3%A1ny.jpg/330px-Paula_Pog%C3%A1ny.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paula_Pog%C3%A1ny"
     },
     {
       "type": "card",
@@ -137,13 +89,31 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "It is well known in the city for its many restaurants and street food vendors.",
-      "body": "Burnes Road, erroneously spelled as Burns Road, and officially known as Muhammad Bin Qasim Road, is a food street located in Karachi, Pakistan. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fresco_Chowk_BarnceRoad_-_panoramio.jpg/330px-Fresco_Chowk_BarnceRoad_-_panoramio.jpg",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "From The Wizard of Oz to Trainspotting: 25 films to watch before you turn 25",
+      "body": "<p>As AI slop takes over our screens, what better antidote for enquiring minds than a magical film? We ask directors, producers and critics to pick one must-see movie for each year from infancy to early adulthood</p><p>***</p><p>Screentime ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/02/25-films-to-watch-before-you-turn-25-wizard-oz-trainspotting-totoro-labyrinth-get-out"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on how to be a top reader – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/02/tom-gauld-on-how-to-be-a-top-reader-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/aug/02/tom-gauld-on-how-to-be-a-top-reader-cartoon"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Ace Motor Corporation was a motorcycle manufacturer in continuous operation in Philadelphia, Pennsylvania between 1919 and 1924, and intermittently afterward until 1927.",
+      "body": "Essentially only one model of the large luxury four-cylinder motorcycle, with slight variations, was made from first to last. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/1923_Ace_1280ccm.JPG/330px-1923_Ace_1280ccm.JPG",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Burnes_Road"
+      "url": "https://en.wikipedia.org/wiki/Ace_Motor_Corporation"
     }
   ]
 }
