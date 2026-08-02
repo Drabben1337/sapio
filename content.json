@@ -1,25 +1,7 @@
 {
-  "generated": "2026-08-02T09:50:38.545Z",
-  "count": 14,
+  "generated": "2026-08-02T11:08:54.784Z",
+  "count": 19,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best recent poetry – review roundup",
-      "body": "<p>Small Birds Singing by Matthew Welton; The Channel by Jana Prikryl; Stepmother by Helen Mort; Drunken Driving by Martina Evans</p><p><strong><a href=\"https://www.guardianbookshop.com/small-birds-singing-9781800175594/?utm_source=editoria",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/the-best-recent-poetry-review-roundup"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "From The Wizard of Oz to Trainspotting: 25 films to watch before you turn 25",
-      "body": "<p>As AI slop takes over our screens, what better antidote for enquiring minds than a magical film? We ask directors, producers and critics to pick one must-see movie for each year from infancy to early adulthood</p><p>***</p><p>Screentime ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/02/25-films-to-watch-before-you-turn-25-wizard-oz-trainspotting-totoro-labyrinth-get-out"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -33,51 +15,69 @@
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Siegfried Trebitsch was an Austrian playwright, translator, novelist and poet.",
-      "body": "Though prolific as a writer in various genres, he was best known for his German translations, especially of the works of the Irish playwright George Bernard Shaw, with whom he kept up a long and detailed correspondence. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Siegfried-Trebitsch-1902.jpg",
+      "hook": "Les Bêtises is a 1971 novel by the French writer Jacques Laurent.",
+      "body": "It recounts 47 years in the life of an adventurous and well-travelled man, in the forms of his own notes, diary entries, an unfinished novel and comments, collected by a friend after the man's death. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Les_B%C3%AAtises_%28novel%29_book_cover.png",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Siegfried_Trebitsch"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Carcase for Hounds is a novel by Kenyan writer Meja Mwangi first published in 1974.",
-      "body": "The novel concerns the Mau Mau liberation struggle during the latter days of British colonial rule and attempts, by the actions of the main protagonists, to show how Mau Mau was organized and why it took so long for the colonial government to defeat them. One ",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/44/Carcase_for_Hounds_cover.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Carcase_for_Hounds"
+      "url": "https://en.wikipedia.org/wiki/Les_B%C3%AAtises_(novel)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "NY 272 was assigned as part of the 1930 renumbering of state highways in New York and has not been altered since.",
-      "body": "New York State Route 272 (NY 272) is a north–south state highway in the western portion of New York in the United States. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/NY-272.svg/330px-NY-272.svg.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/New_York_State_Route_272"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Iron Dream is a metafictional 1972 alternate history novel by American author Norman Spinrad.",
-      "body": "The book has a nested narrative that tells a story within a story. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/23/The_Iron_Dream_%281st_edition%29.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Iron_Dream"
+      "opener": "On this day in 1989 —",
+      "hook": "Pakistan is re-admitted to the Commonwealth of Nations after having restored democracy for the first time since 1972.",
+      "body": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/330px-Flag_of_Pakistan.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pakistan"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The Pianist was a 1998 Catalan-language film directed by Mario Gas, and based on a novel by Manuel Vázquez Montalbán.",
-      "body": "It tells the story of two musicians, played in their old age by Serge Reggiani and Laurent Terzieff and in their youth by Pere Ponce and Jordi Mollà, who were friends at the onset of the Spanish Civil War. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "I Don't Expect Anyone to Believe Me is a 2023 black comedy thriller film directed by Fernando Frías de la Parra based on the novel by Juan Pablo Villalobos which stars Darío Yazbek.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/24/I_Don%27t_Expect_Anyone_to_Believe_Me_poster.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Pianist_(1998_film)"
+      "url": "https://en.wikipedia.org/wiki/I_Don't_Expect_Anyone_to_Believe_Me"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1784 —",
+      "hook": "The first British mail coach service runs from Bristol to London.",
+      "body": "A mail coach is a public coach contracted to carry the mail. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mail_coach%2C_York-London%2C_c._1820_-_Science_Museum%2C_London_-_DSC05710.jpg/330px-Mail_coach%2C_York-London%2C_c._1820_-_Science_Museum%2C_London_-_DSC05710.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mail_coach"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could a couch-to-5k for books get you back into reading?",
+      "body": "<p>With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habit</p><p>Do you feel that it’s harder to read than it used to be? Not harder to read ema",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "San Sebastian unveils 14-film New Directors lineup",
+      "body": "‘The Bad Son’, ‘Florid’ bookend festival running September 18-26.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/san-sebastian-unveils-14-film-new-directors-lineup/5219019.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1932 —",
+      "hook": "The positron (antiparticle of the electron) is discovered by Carl D. Anderson.",
+      "body": "The positron or antielectron is the particle with an electric charge of +1e, a spin of 1/2 ħ, and the same mass as an electron. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/PositronDiscovery.png/330px-PositronDiscovery.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Positron"
     },
     {
       "type": "card",
@@ -90,12 +90,72 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "VTuber Legend: How I Went Viral After Forgetting to Turn Off My Stream, or VDen for short, is a Japanese light novel series written by Nana Nanato and illustrated by Siokazunoko.",
+      "body": "The series originated on the novel posting websites Hameln and Kakuyomu in 2020, before being published in ten volumes under Fujimi Shobo's Fujimi Fantasia Bunko light novel imprint from May 2021 to February 2025. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/VTuber_Legend_light_novel_volume_1_cover.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/VTuber_Legend"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Sideways is a 2004 American comedy-drama film directed by Alexander Payne and written by Jim Taylor and Payne.",
+      "body": "A film adaptation of Rex Pickett's 2004 novel, Sideways follows two men in their forties, Miles Raymond, a depressed teacher and unsuccessful writer, and Jack Cole, a past-his-prime actor, who take a week-long road trip to Santa Barbara County wine country to ",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/Sideways_poster.JPG",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sideways"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Stepford Husbands is a 1996 American science fiction thriller television film inspired by Ira Levin's 1972 novel The Stepford Wives.",
+      "body": "It was directed by Fred Walton, written by Ken and Jim Wheat, and stars Donna Mills, Michael Ontkean, Cindy Williams, Sarah Douglas and Louise Fletcher. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ef/The_Stepford_Husbands.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Stepford_Husbands"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "He succeeded his father Tuekakas in the early 1870s.",
+      "body": "Hin-mah-too-yah-lat-kekt, popularly known as Chief Joseph, Young Joseph, or Joseph the Younger, was a leader of the wal-lam-wat-kain (Wallowa) band of Nez Perce, a Native American tribe of the interior Pacific Northwest region of the United States, in the latt",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Chief_Joseph_by_Edward_Sheriff_Curtis.jpg/330px-Chief_Joseph_by_Edward_Sheriff_Curtis.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chief_Joseph"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Jacqueline Crooks: ‘Toni Morrison’s voice made me want to find my own’",
-      "body": "<p>The novelist on learning empathy from Charles Dickens, the playfulness of Irenosen Okojie and avoiding Jane Austen</p><p><strong>My earliest reading memory</strong><br> I was eight when I was given The Water-Babies by Charles Kingsley, a",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/jacqueline-crooks-toni-morrisons-voice-made-me-want-to-find-my-own"
+      "opener": "The Guardian · Film —",
+      "hook": "From The Wizard of Oz to Trainspotting: 25 films to watch before you turn 25",
+      "body": "<p>As AI slop takes over our screens, what better antidote for enquiring minds than a magical film? We ask directors, producers and critics to pick one must-see movie for each year from infancy to early adulthood</p><p>***</p><p>Screentime ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/02/25-films-to-watch-before-you-turn-25-wizard-oz-trainspotting-totoro-labyrinth-get-out"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1798 —",
+      "hook": "French Revolutionary Wars: The Battle of the Nile concludes in a British victory.",
+      "body": "The French Revolutionary Wars were a series of sweeping military conflicts resulting from the French Revolution that lasted from 1792 until 1802. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/French_Revolutionary_Wars.jpg/330px-French_Revolutionary_Wars.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1415 —",
+      "hook": "Thomas Grey is executed for participating in the Southampton Plot.",
+      "body": "Sir Thomas Grey, of Heaton Castle in the parish of Norham, Northumberland, was one of the three conspirators in the failed Southampton Plot against King Henry V in 1415, for which he was executed. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Portchester_castle_04.jpg/330px-Portchester_castle_04.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Grey_(conspirator)"
     },
     {
       "type": "card",
@@ -108,32 +168,22 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Anne of Windy Poplars—published as Anne of Windy Willows in the UK, Australia and Japan—is an epistolary novel by Canadian author L.",
-      "body": "First published in 1936 by McClelland and Stewart, it details Anne Shirley's experiences while serving as principal of a high school in Summerside, Prince Edward Island over three years. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/AnneOfWindyPoplars.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Anne_of_Windy_Poplars"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+      "opener": "The Guardian · Culture —",
+      "hook": "Add to playlist: the art-pop showtunes of Luki and the week’s best new tracks",
+      "body": "<p>Combining grand melodrama with nuanced emotional character, Lucy Duncan and producer Niac’s collaboration sounds both timeless and true</p><p><strong>From</strong> Hastings, UK<br><strong>Recommended if you like</strong> Mary Margaret O’",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/jul/31/add-to-playlist-the-art-pop-showtunes-of-luki-and-the-weeks-best-new-tracks"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "It was found in Old Woodstock, a suburb of Woodstock, Oxfordshire near Blenheim in England in about 1740.",
-      "body": "Blenheim Orange (Kempster's Pippin) is a cultivar of apple. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Malus_goldrenette_von_blenheim.jpg/330px-Malus_goldrenette_von_blenheim.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Blenheim_Orange"
+      "opener": "On this day in 1943 —",
+      "hook": "World War II: After the Motor Torpedo Boat PT-109 is rammed and sunk by the Japanese destroyer Amagiri, Lt. John F. Kennedy, future U.S. president, saves all but two of his crew.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
     }
   ]
 }
