@@ -1,16 +1,7 @@
 {
-  "generated": "2026-08-02T20:02:50.733Z",
-  "count": 12,
+  "generated": "2026-08-02T21:41:19.744Z",
+  "count": 19,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Universal becomes first studio to cross $4bn at global box office in 2026",
-      "body": "The Odyssey, The Super Mario Galaxy Movie, Michael are key drivers.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/universal-becomes-first-studio-to-cross-4bn-at-global-box-office-in-2026/5219049.article"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -22,21 +13,43 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Fly on the Wall is a 1971 political crime novel by Tony Hillerman.",
+      "body": "The story features journalist John Cotton and is set in the unnamed capital city of an unnamed Midwestern state. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/Book_Cover_of_The_Fly_on_the_Wall.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Fly_on_the_Wall"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on how to be a top reader – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/02/tom-gauld-on-how-to-be-a-top-reader-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/aug/02/tom-gauld-on-how-to-be-a-top-reader-cartoon"
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "James Smart was a British police officer who served as head of the City of Glasgow Police from 1848 until his death in 1870, first as chief superintendent before being designated as Glasgow's first chief constable in 1862.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/James_Smart_%28police_officer%29.jpg/330px-James_Smart_%28police_officer%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Smart_(police_officer)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Adventure of the Ectoplasmic Man is a 1985 mystery pastiche novel written by Daniel Stashower, featuring Sherlock Holmes and Dr.",
+      "body": "John Watson teaming up with famous magician Harry Houdini. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Adventure_of_the_Ectoplasmic_Man.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Adventure_of_the_Ectoplasmic_Man"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1343 —",
+      "hook": "After the execution of her husband, Jeanne de Clisson sells her estates and raises a force of men with which to attack French shipping and ports.",
+      "body": "Jeanne de Clisson (1300–1359), also known as Jeanne de Belleville and the Lioness of Brittany, was a French–Breton noblewoman who became a privateer to avenge her husband after he was executed for treason by King Philip VI of France. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dual_Coat_of_Arms_of_Jeanne_de_Clisson.jpg/330px-Dual_Coat_of_Arms_of_Jeanne_de_Clisson.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Jeanne_de_Clisson"
     },
     {
       "type": "card",
@@ -49,62 +62,72 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Tell-All is a novel by Chuck Palahniuk, released on May 4, 2010.",
-      "body": "A preview video, with the tagline: \"Boy Meets Girl. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/14/TellAll.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tell-All"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Rabbit Remembered is a 2001 novella by John Updike and postscript to the tetralogy he began with Rabbit, Run.",
-      "body": "It first appeared in his collection of short fiction titled Licks of Love: Short Stories and a Sequel. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/42/LicksOfLove.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rabbit_Remembered"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Phoenix Rising is a trilogy of children's novels written by Erica Verrillo.",
-      "body": "It is composed of three books released between 2007 and 2009, Elissa's Quest, Elissa's Odyssey and World's End. Bring it up somewhere. Watch the reaction.",
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "The first general strike in Canadian history takes place in Vancouver.",
+      "body": "A general strike is a strike action in which a substantial proportion of the total labour force in a city, region, or country participates. One of those things you can't un-know.",
       "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Phoenix_Rising_(novel_series)"
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/General_strike"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Five Children and It is a fantasy children's novel by English author E.",
-      "body": "It was originally published in 1902 in the Strand Magazine under the general title The Psammead, or the Gifts, with a segment appearing each month from April to December. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Five_Children_and_It_%28novel%29_1st_ed.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Five_Children_and_It"
+      "cat": "history",
+      "opener": "On this day in 1945 —",
+      "hook": "World War II: The Potsdam Conference ends.",
+      "body": "The Potsdam Conference was held at Potsdam in the Soviet occupation zone from 17 July to 2 August 1945, to allow the three leading Allies to plan the postwar peace, while avoiding the mistakes of the Paris Peace Conference of 1919. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Attlee%2C_Truman_and_Stalin_at_Potsdam.jpg/330px-Attlee%2C_Truman_and_Stalin_at_Potsdam.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Potsdam_Conference"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "A Walking Tour of the Shambles (2002), written by Neil Gaiman and Gene Wolfe, is a novel in the form of a tour guide concerning a fictional part of Chicago called 'The Shambles'.",
-      "body": "It guides the reader through such non-existent landmarks as The House of Clocks, Cereal House, and Gavagan's Irish Saloon. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/87/A_Walking_Tour_of_the_Shambles.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Walking_Tour_of_the_Shambles"
+      "cat": "history",
+      "opener": "On this day in -338 —",
+      "hook": "A Macedonian army led by Philip II defeats the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean.",
+      "body": "The Macedonian army was the army of Macedon under the leadership of Philip II and Alexander the Great. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hypaspist.jpg/330px-Hypaspist.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Macedonian_army"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Spider-Man: Brand New Day’ soars to $355m in second-highest US box office debut of all time",
-      "body": "Tentpole earns staggering $927m worldwide.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-soars-to-355m-in-second-highest-us-box-office-debut-of-all-time/5219048.article"
+      "opener": "BBC Entertainment —",
+      "hook": "Ariana Grande pulls out of musical for break from 'endless' scrutiny",
+      "body": "The US singer, 33, will \"step back from visibility\" at the end of her world tour, her representative says.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Adventures of Captain Fabian or Adventure in New Orleans is a 1951 American adventure film directed by William Marshall and starring Errol Flynn, Micheline Presle, Vincent Price, Agnes Moorehead and Victor Francen.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/64/Adventures_of_Captain_Fabian_-_Poster.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adventures_of_Captain_Fabian"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in -49 —",
+      "hook": "Caesar, who marched to Spain earlier in the year, leaving Marcus Antonius in charge of Italy, defeats Pompey's general Afranius and Petreius in Ilerda (Lerida) north of the Ebro river.",
+      "body": "Gaius Julius Caesar was a Roman general, statesman, and author who was the dictator of the Roman Republic almost continuously from 49 BC until his assassination in 44 BC. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/330px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Obsession is a 1949 British crime film directed by Edward Dmytryk.",
+      "body": "It is based on the 1947 novel A Man About a Dog by Alec Coppel, who also wrote the screenplay for the film. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e0/Obsession_%28The_Hidden_Room%29_poster.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Obsession_(1949_film)"
     },
     {
       "type": "card",
@@ -114,6 +137,53 @@
       "body": "Protein is everywhere, but studies – mostly in non-human animals – suggest that limiting our intake could extend our lifespan",
       "src": "New Scientist",
       "url": "https://www.newscientist.com/article/2582717-high-protein-is-a-wellness-craze-but-could-restricting-it-be-anti-ageing/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Massive Attack respond after Singapore ban over Palestine display",
+      "body": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1947 —",
+      "hook": "A British South American Airways Avro Lancastrian airliner crashes into a mountain during a flight from Buenos Aires, Argentina to Santiago, Chile. The wreckage would not be found until 1998.",
+      "body": "British South American Airways (BSAA) was a state-run airline of the United Kingdom in the mid-to-late 1940s responsible for services to the Caribbean and South America. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/British_South_American_Airways"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Jules Verne Trophy is a prize for the fastest circumnavigation of the world by any type of yacht with no restrictions on the size of the crew provided the vessel has registered with the organization and paid an entry fee.",
+      "body": "A vessel holding the Jules Verne trophy will not necessarily hold the absolute round the world record. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jules_Verne_Trophy.jpg/330px-Jules_Verne_Trophy.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jules_Verne_Trophy"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Universal becomes first studio to cross $4bn at global box office in 2026",
+      "body": "The Odyssey, The Super Mario Galaxy Movie, Michael are key drivers.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/universal-becomes-first-studio-to-cross-4bn-at-global-box-office-in-2026/5219049.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘The greatest arms I’ve ever seen’: Matt Damon’s muscular female stunt double Devyn Dalton",
+      "body": "<p>Canadian stuntwoman is only 4ft 6in and stood in for star to make the giant Laestrygonians appear even bigger</p><p>A 35-year-old stuntwoman is one of the great unsung heroes of Christopher Nolan’s new blockbuster <a href=\"https://www.th",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/02/matt-damon-stunt-double-the-odyssey-devyn-dalton"
     }
   ]
 }
