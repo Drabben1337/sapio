@@ -1,64 +1,7 @@
 {
-  "generated": "2026-08-03T21:55:13.991Z",
-  "count": 13,
+  "generated": "2026-08-03T22:46:02.159Z",
+  "count": 24,
   "items": [
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Survivors is a novel series written by a team of authors under the pseudonym Erin Hunter.",
-      "body": "Survivors follows the adventures of a group of former domestic dogs who form a pack with the help of protagonist Lucky, after an earthquake separates them from their owners. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/15/Boxed_set_of_3_books_of_Survivors_series.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Survivors_(novel_series)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "From The Wizard of Oz to Trainspotting: 25 films to watch before you turn 25",
-      "body": "<p>As AI slop takes over our screens, what better antidote for enquiring minds than a magical film? We ask directors, producers and critics to pick one must-see movie for each year from infancy to early adulthood</p><p>***</p><p>Screentime ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/02/25-films-to-watch-before-you-turn-25-wizard-oz-trainspotting-totoro-labyrinth-get-out"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "How to safely watch a solar eclipse",
-      "body": "Video: 00:01:34 [English]: A solar eclipse is an unforgettable sight, but only if you watch it safely! ESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "It was built in 1899 and was listed on the National Register of Historic Places in 2006.",
-      "body": "The Perry Avenue Bridge is a historic bridge spanning the Silvermine River in the Silvermine section of Norwalk, Connecticut. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Perry_Avenue_Bridge_011.JPG/330px-Perry_Avenue_Bridge_011.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Perry_Avenue_Bridge"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Could a couch-to-5k for books get you back into reading?",
-      "body": "<p>With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habit</p><p>Do you feel that it’s harder to read than it used to be? Not harder to read ema",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Matadana (meaning: voting) is a 1965 novel written by the famous Kannada writer, philosopher, thinker S L Bhyrappa.",
-      "body": "An award winning Kannada movie Mathadana based on this novel, which was directed by T N Seetharam secured 'Best Regional Film' award at 47th National Film Awards. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/SL-Bhyrappa-Matadana.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Matadana"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -69,33 +12,63 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2ge428md0o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2005 —",
+      "hook": "President of Mauritania Maaouya Ould Sid'Ahmed Taya is overthrown in a military coup while attending the funeral of King Fahd in Saudi Arabia.",
+      "body": "This is a list of heads of state of Mauritania since the country gained independence from France in 1960 to the present day. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/National_Seal_of_Mauritania.svg/330px-National_Seal_of_Mauritania.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Mauritania"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "body": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Where the Lilies Bloom is a 1974 American drama film directed by William A.",
-      "body": "Graham and starring Julie Gholson, Harry Dean Stanton, Rance Howard and Jan Smithers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Where_the_Lilies_Bloom.jpg",
+      "opener": "File under 'wait, really?' —",
+      "hook": "She Faded into Air is a 1941 mystery novel by the British writer Ethel Lina White, originally published by the Collins Crime Club.",
+      "body": "It received relatively mixed reviews, but White followed it up with her success Midnight House in 1942. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/She_Faded_into_Air.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Where_the_Lilies_Bloom"
+      "url": "https://en.wikipedia.org/wiki/She_Faded_into_Air"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Christopher Gudgeon is a Canadian author, poet and screenwriter.",
-      "body": "He has contributed to numerous magazines – including Playboy, MAD and National Lampoon – and written almost 20 books, from critically acclaimed fiction and poetry like Song of Kosovo¸ Encyclopedia of Lies, Assdeep in Wonder and Greetings from the Vodka Sea, to",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Christopher_Gudgeon_2015.jpg/330px-Christopher_Gudgeon_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Deer Park is a Hollywood novel written by Norman Mailer and published in 1955 by G.P.",
+      "body": "Putnam's Sons after it was rejected by Mailer's publisher, Rinehart & Company, for obscenity. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/TheDeerPark.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Christopher_Gudgeon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "url": "https://en.wikipedia.org/wiki/The_Deer_Park"
     },
     {
       "type": "card",
@@ -109,21 +82,158 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The ouvrage consists of one entry block, two infantry blocks, two artillery blocks, two observation blocks and one combination block at an altitude of 2,540 metres (8,330 ft), the second highest fortification on the Alps in 1940.",
+      "body": "Ouvrage Janus is a work of the Maginot Line's Alpine extension, the Alpine Line, located to the east of Briançon on near the Col de Montgenèvre. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Le_Janus_-_panoramio.jpg/330px-Le_Janus_-_panoramio.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ouvrage_Janus"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Voorman Problem is a 2011 British short film directed by Mark Gill, who also co-wrote the screenplay and edited the film with producer Baldwin Li, who also wrote the score.",
+      "body": "It is adapted from \"Panopticon\", a film within a story from the 2001 novel number9dream by David Mitchell, with Martin Freeman starring as a prison psychiatrist, and Tom Hollander as his patient. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/50/The_Voorman_Problem_poster.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Voorman_Problem"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Requiem: A Hallucination is a 1991 novel by the Italian writer Antonio Tabucchi.",
+      "body": "Set in Lisbon, the narrative centres on an Italian author who meets the spirit of a dead Portuguese poet, never named but strongly indicated to be Fernando Pessoa. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/03/RequiemUmaAlucina%C3%A7%C3%A3o.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Requiem%3A_A_Hallucination"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1997 —",
+      "hook": "Sky Tower in downtown Auckland, New Zealand opens after two-and-a-half years of construction, becoming the tallest free-standing structure in the Southern Hemisphere at the time.",
+      "body": "The Sky Tower is a telecommunications and observation tower in Auckland, New Zealand. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/01_Auckland_New_Zealand-1000137.jpg/330px-01_Auckland_New_Zealand-1000137.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1959 —",
+      "hook": "Portugal's state police force PIDE fires upon striking workers in Bissau, Portuguese Guinea, killing over 50 people.",
+      "body": "The International and State Defense Police was a Portuguese security agency that existed during the Estado Novo regime of António de Oliveira Salazar. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/PIDE"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "McTeague: A Story of San Francisco, otherwise known as simply McTeague, is a novel by Frank Norris, first published in 1899.",
+      "body": "It tells the story of a couple's courtship and marriage, and their subsequent descent into poverty and violence as the result of jealousy and greed. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/McTeague_First_Edition_cover.jpg/330px-McTeague_First_Edition_cover.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McTeague"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1940 —",
+      "hook": "World War II: Italian forces begin the invasion of British Somaliland.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could a couch-to-5k for books get you back into reading?",
+      "body": "<p>With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habit</p><p>Do you feel that it’s harder to read than it used to be? Not harder to read ema",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1946 —",
+      "hook": "Santa Claus Land, the world's first themed amusement park, opens in Santa Claus, Indiana, United States.",
+      "body": "Holiday World & Splashin' Safari, originally known as Santa Claus Land, is a theme park and water park located in Santa Claus, Indiana, United States. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Holiday_World_Logo.svg/330px-Holiday_World_Logo.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Holiday_World_%26_Splashin'_Safari"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "How to safely watch a solar eclipse",
+      "body": "Video: 00:01:34 [English]: A solar eclipse is an unforgettable sight, but only if you watch it safely! ESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1903 —",
+      "hook": "Macedonian rebels in Kruševo proclaim the Kruševo Republic, which exists for only ten days before Ottoman Turks lay waste to the town.",
+      "body": "The Internal Macedonian Revolutionary Organization was a secret revolutionary society founded in the Ottoman territories in Europe that operated in the late 19th and early 20th centuries. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/IMRO_badge.svg/330px-IMRO_badge.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Internal_Macedonian_Revolutionary_Organization"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "Screen Daily —",
       "hook": "Universal becomes first studio to cross $4bn at global box office in 2026",
       "body": "The Odyssey, The Super Mario Galaxy Movie, Michael are key drivers.",
       "src": "Screen Daily",
       "url": "https://www.screendaily.com/news/universal-becomes-first-studio-to-cross-4bn-at-global-box-office-in-2026/5219049.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Burden of Desire (1992) is a large mass-market book based on the Halifax Explosion of 1917 written by Canadian-born journalist Robert MacNeil.",
-      "body": "MacNeil, who hosted the MacNeil/Lehrer NewsHour, has also published other fiction and non-fiction books including The Story of English (1986), Breaking News (1999) and Wordstruck: A Memoir (1989). Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Burden_of_Desire"
     }
   ]
 }
