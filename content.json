@@ -1,132 +1,16 @@
 {
-  "generated": "2026-08-03T20:50:03.012Z",
-  "count": 24,
+  "generated": "2026-08-03T21:55:13.991Z",
+  "count": 13,
   "items": [
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1031 —",
-      "hook": "Olaf II of Norway is canonized as Saint Olaf by Grimketel, the English Bishop of Selsey.",
-      "body": "Olaf Haraldsson, also called Saint Olaf, Olaf the Holy, Olaf II, and Olaf the Stout or \"Large\", was King of Norway from 1015 to 1028. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Olav_der_Heilige07.jpg/330px-Olav_der_Heilige07.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Olaf_Haraldsson"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Universal becomes first studio to cross $4bn at global box office in 2026",
-      "body": "The Odyssey, The Super Mario Galaxy Movie, Michael are key drivers.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/universal-becomes-first-studio-to-cross-4bn-at-global-box-office-in-2026/5219049.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "I Have Some Questions for You is a 2023 literary mystery novel by American writer Rebecca Makkai, published by Viking Press.",
-      "body": "The novel received universal acclaim from critics upon release, and spent six weeks on the New York Times bestseller list. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/3f/I_Have_Some_Questions_for_You_book_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/I_Have_Some_Questions_for_You"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Methil Devika is an Indian classical dancer, research supervisor and actress.",
-      "body": "She was a Senior Research Associate at ISRO's Indian Institute of Space Science and Technology, in 2023 working on an arts-integrated-advance-science project ideated by her. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/METHIL_DEVIKA.jpg/330px-METHIL_DEVIKA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Methil_Devika"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Piano City is a Social Music Game for iOS developed and published by UK-based game development company Room 8 Studio.",
-      "body": "The game was released on September 24, 2014. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Piano_City_cover.jpg/330px-Piano_City_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Piano_City"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "How to safely watch a solar eclipse",
-      "body": "Video: 00:01:34 [English]: A solar eclipse is an unforgettable sight, but only if you watch it safely! ESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2014 —",
-      "hook": "A 6.1 magnitude earthquake kills at least 617 people and injures more than 2,400 in Yunnan, China.",
-      "body": "The 2014 Ludian earthquake struck Ludian County, Yunnan, China, with a moment magnitude of 6.2 on 3 August. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Zhoujiaping_after_Ludian_earthquake.jpg/330px-Zhoujiaping_after_Ludian_earthquake.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2014_Ludian_earthquake"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1889 —",
-      "hook": "An Anglo-Eyptian army defeats a Mahdist-Sudanese army in the battle of Toski.",
-      "body": "The Mahdist State, also known as Mahdist Sudan or the Sudanese Mahdiyya, was a state based on a religious and political movement launched in 1881 by Muhammad Ahmad against the Khedivate of Egypt, which had ruled Sudan since 1821. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_the_Mahdi_movement_in_Sudan.svg/330px-Flag_of_the_Mahdi_movement_in_Sudan.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mahdist_State"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "San Sebastian unveils 14-film New Directors lineup",
-      "body": "‘The Bad Son’, ‘Florid’ bookend festival running September 18-26.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/san-sebastian-unveils-14-film-new-directors-lineup/5219019.article"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1057 —",
-      "hook": "Frederick of Lorraine elected as Pope Stephen IX.",
-      "body": "Pope Stephen IX was the Bishop of Rome and ruler of the Papal States from 3 August 1057 to his death on 29 March 1058. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pope_Stephen_IX"
-    },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Feral goats are an invasive animal species in Australia.",
-      "body": "First arriving in the 18th century with European settlers, feral goat populations originated from escaped domestic individuals. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Feral_goat_browsing%2C_Yathong_Nature_Reserve.jpg/330px-Feral_goat_browsing%2C_Yathong_Nature_Reserve.jpg",
+      "hook": "Survivors is a novel series written by a team of authors under the pseudonym Erin Hunter.",
+      "body": "Survivors follows the adventures of a group of former domestic dogs who form a pack with the help of protagonist Lucky, after an earthquake separates them from their owners. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/15/Boxed_set_of_3_books_of_Survivors_series.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Feral_goats_in_Australia"
+      "url": "https://en.wikipedia.org/wiki/Survivors_(novel_series)"
     },
     {
       "type": "card",
@@ -140,6 +24,25 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "ESA —",
+      "hook": "How to safely watch a solar eclipse",
+      "body": "Video: 00:01:34 [English]: A solar eclipse is an unforgettable sight, but only if you watch it safely! ESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "It was built in 1899 and was listed on the National Register of Historic Places in 2006.",
+      "body": "The Perry Avenue Bridge is a historic bridge spanning the Silvermine River in the Silvermine section of Norwalk, Connecticut. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Perry_Avenue_Bridge_011.JPG/330px-Perry_Avenue_Bridge_011.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Perry_Avenue_Bridge"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "The Guardian · Books —",
       "hook": "Could a couch-to-5k for books get you back into reading?",
       "body": "<p>With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habit</p><p>Do you feel that it’s harder to read than it used to be? Not harder to read ema",
@@ -147,64 +50,52 @@
       "url": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Matadana (meaning: voting) is a 1965 novel written by the famous Kannada writer, philosopher, thinker S L Bhyrappa.",
+      "body": "An award winning Kannada movie Mathadana based on this novel, which was directed by T N Seetharam secured 'Best Regional Film' award at 47th National Film Awards. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/SL-Bhyrappa-Matadana.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matadana"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2019 —",
-      "hook": "Twenty-three people are killed and 22 injured in a mass shooting at a Walmart in El Paso, Texas.",
-      "body": "On August 3, 2019, a mass shooting occurred at a Walmart store in El Paso, Texas, United States. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Patrick_Crusius_exiting_a_Walmart_in_El_Paso%2C_Texas_after_murdering_23_shoppers.jpg/330px-Patrick_Crusius_exiting_a_Walmart_in_El_Paso%2C_Texas_after_murdering_23_shoppers.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2019_El_Paso_Walmart_shooting"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Huw Edwards criticised for entering festival poetry competition",
+      "body": "A sex abuse survivor says Edwards winning would have been \"catastrophic\" and calls for rules review.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm2ge428md0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Massa Frumentaria or Monte Frumentario was a medieval grain fund established in Malta.",
-      "body": "As a public institution, it was tasked with the importation and distribution of wheat and other commodities, while also serving as a precursor to an investment bank. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "You probably never noticed this —",
+      "hook": "Where the Lilies Bloom is a 1974 American drama film directed by William A.",
+      "body": "Graham and starring Julie Gholson, Harry Dean Stanton, Rance Howard and Jan Smithers. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Where_the_Lilies_Bloom.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Massa_Frumentaria"
+      "url": "https://en.wikipedia.org/wiki/Where_the_Lilies_Bloom"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1900 —",
-      "hook": "The Firestone Tire and Rubber Company is founded.",
-      "body": "Firestone Tire and Rubber Company is an American tire manufacturer based in Nashville, Tennessee. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bridgestone_Americas_HQ_1.jpg/330px-Bridgestone_Americas_HQ_1.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Firestone_(company)"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Christopher Gudgeon is a Canadian author, poet and screenwriter.",
+      "body": "He has contributed to numerous magazines – including Playboy, MAD and National Lampoon – and written almost 20 books, from critically acclaimed fiction and poetry like Song of Kosovo¸ Encyclopedia of Lies, Assdeep in Wonder and Greetings from the Vodka Sea, to",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Christopher_Gudgeon_2015.jpg/330px-Christopher_Gudgeon_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Christopher_Gudgeon"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "He has represented the riding of Flin Flon in the Legislative Assembly of Manitoba since 2016.",
-      "body": "Tom Lindsey is a Canadian politician who is currently serving as the 31st Speaker of the Legislative Assembly of Manitoba. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tom_Lindsey"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
@@ -216,24 +107,23 @@
       "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Universal becomes first studio to cross $4bn at global box office in 2026",
+      "body": "The Odyssey, The Super Mario Galaxy Movie, Michael are key drivers.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/universal-becomes-first-studio-to-cross-4bn-at-global-box-office-in-2026/5219049.article"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Burden of Desire (1992) is a large mass-market book based on the Halifax Explosion of 1917 written by Canadian-born journalist Robert MacNeil.",
+      "body": "MacNeil, who hosted the MacNeil/Lehrer NewsHour, has also published other fiction and non-fiction books including The Story of English (1986), Breaking News (1999) and Wordstruck: A Memoir (1989). Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Burden_of_Desire"
     }
   ]
 }
