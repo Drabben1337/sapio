@@ -3,6 +3,36 @@
     "type": "card",
     "cat": "news",
     "opener": "The Guardian · Books —",
+    "hook": "The 100 best novels of all time",
+    "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
+    "_t": 1785790203011
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "Screen Daily —",
+    "hook": "Universal becomes first studio to cross $4bn at global box office in 2026",
+    "body": "The Odyssey, The Super Mario Galaxy Movie, Michael are key drivers.",
+    "src": "Screen Daily",
+    "url": "https://www.screendaily.com/news/universal-becomes-first-studio-to-cross-4bn-at-global-box-office-in-2026/5219049.article",
+    "_t": 1785790203011
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "ESA —",
+    "hook": "How to safely watch a solar eclipse",
+    "body": "Video: 00:01:34 [English]: A solar eclipse is an unforgettable sight, but only if you watch it safely! ESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains",
+    "src": "ESA",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
+    "_t": 1785790203011
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "The Guardian · Books —",
     "hook": "Could a couch-to-5k for books get you back into reading?",
     "body": "<p>With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habit</p><p>Do you feel that it’s harder to read than it used to be? Not harder to read ema",
     "src": "The Guardian · Books",
@@ -568,35 +598,5 @@
     "src": "BBC Entertainment",
     "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
     "_t": 1785706879743
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "BBC Entertainment —",
-    "hook": "Massive Attack respond after Singapore ban over Palestine display",
-    "body": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
-    "src": "BBC Entertainment",
-    "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
-    "_t": 1785706879743
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "New Scientist —",
-    "hook": "Climate change may help eliminate malaria from West and Central Africa",
-    "body": "Global warming may make it too hot for malaria-carrying mosquitoes to survive in parts of Africa, but could also shift the problem to less affected areas",
-    "src": "New Scientist",
-    "url": "https://www.newscientist.com/article/2582737-climate-change-could-eliminate-malaria-from-west-and-central-africa/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
-    "_t": 1785700970732
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "New Scientist —",
-    "hook": "Could eating less protein slow ageing?",
-    "body": "Protein is everywhere, but studies – mostly in non-human animals – suggest that limiting our intake could extend our lifespan",
-    "src": "New Scientist",
-    "url": "https://www.newscientist.com/article/2582717-high-protein-is-a-wellness-craze-but-could-restricting-it-be-anti-ageing/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
-    "_t": 1785700970732
   }
 ]
