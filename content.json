@@ -1,74 +1,159 @@
 {
-  "generated": "2026-08-03T15:34:08.385Z",
-  "count": 20,
+  "generated": "2026-08-03T17:31:46.322Z",
+  "count": 18,
   "items": [
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Yukari Tamura is a Japanese voice actress and singer affiliated with Amuleto.",
+      "body": "She released her debut single \"Yūki o Kudasai\" on March 26, 1997. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yukari_Tamura"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Mario Vargas Llosa by Gerald Martin review – the Peruvian leftist who fell in love with Margaret Thatcher",
+      "body": "<p>This stylish biography of the author traces his journey from left to right, and from ‘posh Lima’ to Cricklewood</p><p>“At what precise moment had Peru fucked itself up?” Those words on the opening page of Conversation in the Cathedral<em",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/30/mario-vargas-llosa-by-gerald-martin-review-the-passions-and-politics-of-perus-nobel-laureate"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Måns is a Swedish male given name that may refer toMåns, fictional cat in the Pelle Svanslös children's stories of Gösta Knutsson 8536 Måns, a minor planet named after the cat Måns Andersson, 17th century Swedish explorer Måns Ekvall, Swedish football player Måns Forsfjäll, Swedish ice hockey defenceman Måns Gahrton, Swedish author Måns Grenhagen, Swedish racing driver Måns Groundstroem, Finnish bass player, studio technician and music producer Måns Hedberg, Swedish snowboarder Måns Herngren, Swedish actor and film director Måns Mårlind, Swedish film director and screenwriter Måns Nathanaelson, Swedish actor Måns Nilsson Kling, 17th century Swedish explorer Måns Olström, Swedish footballer Måns von Rosenstein (1755–1801), Swedish Navy rear admiral Måns Olström, Swedish football defender Måns Saebbö, Swedish footballer Måns Söderqvist, Swedish football forward Måns Sörensson, Swedish footballer Måns Zelmerlöw, Swedish pop singer and television presenter",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/M%C3%A5ns"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ confirmed $360m US debut sets all-time high",
+      "body": "“Records are made to be broken, but we will take great pride in this one, for as long as we hold it.”",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-confirmed-360m-us-debut-sets-all-time-high/5219079.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1811 —",
-      "hook": "First ascent of Jungfrau, third highest summit in the Bernese Alps by brothers Johann Rudolf and Hieronymus Meyer.",
-      "body": "The Jungfrau, at 4,158 m (13,642 ft) is one of the main summits of the Bernese Alps, located between the southern canton of Bern and the northern canton of Valais, halfway between Interlaken and Fiesch. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jungfrau03.jpg/330px-Jungfrau03.jpg",
+      "opener": "On this day in 1977 —",
+      "hook": "Tandy Corporation announces the TRS-80, one of the world's first mass-produced personal computers.",
+      "body": "Tandy Corporation was an American family-owned retailer based in Fort Worth, Texas that made leather goods, operated the RadioShack and Tandy electronics stores, and later built personal computers. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jungfrau"
+      "url": "https://en.wikipedia.org/wiki/Tandy_Corporation"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Jacaranda by Gaël Faye review – the limits of forgiveness after Rwanda",
+      "body": "<p>This bold family saga explores a search for healing and truth in the aftermath of the Rwanda genocide</p><p>How to forgive the unforgivable? How to live in the aftermath of atrocity? Following 2016’s <a href=\"https://www.theguardian.com/",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/jacaranda-by-gael-faye-review-the-limits-of-forgiveness-after-rwanda"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1997 —",
-      "hook": "Sky Tower in downtown Auckland, New Zealand opens after two-and-a-half years of construction, becoming the tallest free-standing structure in the Southern Hemisphere at the time.",
-      "body": "The Sky Tower is a telecommunications and observation tower in Auckland, New Zealand. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/01_Auckland_New_Zealand-1000137.jpg/330px-01_Auckland_New_Zealand-1000137.jpg",
+      "opener": "On this day in 2010 —",
+      "hook": "Widespread rioting erupts in Karachi, Pakistan, after the assassination of a local politician, leaving at least 85 dead and at least 17 billion Pakistani rupees (US$200 million) in damage.",
+      "body": "The 2010 Karachi riots started on August 3, 2010, after the assassination of Parliament member Raza Haider, a member of the Muttahida Qaumi Movement political party, on the night of August 2, 2010, in Karachi, Pakistan. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)"
+      "url": "https://en.wikipedia.org/wiki/2010_Karachi_riots"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1778 —",
+      "hook": "The theatre La Scala in Milan is inaugurated with the première of Antonio Salieri's Europa riconosciuta.",
+      "body": "La Scala is a historic opera house in Milan, Italy. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Exterior_Teatro_Alla_Scala_high_quality_01.jpg/330px-Exterior_Teatro_Alla_Scala_high_quality_01.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/La_Scala"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "John Oliver on police surveillance: ‘Big Brother on steroids’",
+      "body": "<p>The host tore into ‘wildly invasive’ cameras, microphones and license plate readers that police use to track Americans</p><p><a href=\"https://www.theguardian.com/tv-and-radio/john-oliver\">John Oliver</a> discussed the tools that police a",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/03/john-oliver-police-surveillance-cameras"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Why Love Island fans are choosing the US edition: 'They actually fancy each other'",
+      "body": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Sanam Maher is a Pakistani journalist and feminist.",
-      "body": "She is known for her book The sensational life of Qandeel Baloch which is based on the life of the late model Qandeel Baloch. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "Christen Friis Rottbøll was a Danish physician and botanist: He was a pupil of Carolus Linnaeus.",
+      "body": "The standard author abbreviation Rottb. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Christen_Friis_Rottb%C3%B8ll.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sanam_Maher"
+      "url": "https://en.wikipedia.org/wiki/Christen_Friis_Rottb%C3%B8ll"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Leviticus review – queer desire is a deadly curse in haunting horror",
-      "body": "<p><strong>Sundance film festival:</strong> Conversion therapy has gory results in a smart and surprisingly romantic debut feature from Australian writer-director Adrian Chiarella</p><p>Something rather nasty is unfolding in Sundance horror",
+      "hook": "Justin Hardy, director of Wicker Man sequel, dies three weeks before its premiere",
+      "body": "<p>Hardy, a Bafta-nominated film-maker, has died aged 61, having completed a sequel to the cult 1973 folk-horror made by his father Robin Hardy</p><p>British film-maker Justin Hardy, the son of The Wicker Man director Robin Hardy, has died ",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/24/leviticus-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "This Tempting Madness review – watchable psychological suspense offers Mexican standoff of gaslighting",
-      "body": "<p>Pleasingly potboilerish tale of a woman trying to make sense of a traumatic fall that left her comatose slightly loses track of its toxic mind games<br></p><p>It is fair to say that spending your time doodling ouroboroses and picking ope",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/03/this-tempting-madness-review-watchable-psychological-suspense-offers-mexican-standoff-of-gaslighting"
+      "url": "https://www.theguardian.com/film/2026/aug/03/justin-hardy-director-wicker-man-sequel-dies-before-premiere"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2023 —",
-      "hook": "Major floods hit parts of Slovenia.",
-      "body": "In August 2023, major floods occurred in large part of Slovenia and neighbouring areas of Austria and Croatia due to heavy rain. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sava_v_Tacnu_4._avgusta_ob_16h.jpg/330px-Sava_v_Tacnu_4._avgusta_ob_16h.jpg",
+      "opener": "On this day in 1900 —",
+      "hook": "The Firestone Tire and Rubber Company is founded.",
+      "body": "Firestone Tire and Rubber Company is an American tire manufacturer based in Nashville, Tennessee. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bridgestone_Americas_HQ_1.jpg/330px-Bridgestone_Americas_HQ_1.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2023_Slovenia_floods"
+      "url": "https://en.wikipedia.org/wiki/Firestone_(company)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1997 —",
+      "hook": "Oued El-Had and Mezouara massacre in Algeria: A total of 116 villagers killed, 40 in Oued El-Had and 76 in Mezouara.",
+      "body": "The Oued El-Had and Mezouara massacre took place on August 2, 1997. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Oued_El-Had_and_Mezouara_massacre"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Wikimania is the Wikimedia movement's annual conference, organized by the community of contributors and hosted by the Wikimedia Foundation.",
+      "body": "Topics of presentations and discussions include Wikimedia projects such as Wikipedia, other wikis, open-source software, free knowledge and free content, and social and technical aspects related to these topics. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wikimania_logo.svg/330px-Wikimania_logo.svg.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikimania"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Why winner of biggest prize in maths has decided to work on AI instead",
+      "body": "Jacob Tsimerman won a Fields medal last month – now he is leaving mathematics to work on AI safety",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2582780-why-winner-of-biggest-prize-in-maths-has-decided-to-work-on-ai-instead/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
@@ -81,119 +166,14 @@
       "url": "https://en.wikipedia.org/wiki/Harvard_University"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1031 —",
-      "hook": "Olaf II of Norway is canonized as Saint Olaf by Grimketel, the English Bishop of Selsey.",
-      "body": "Olaf Haraldsson, also called Saint Olaf, Olaf the Holy, Olaf II, and Olaf the Stout or \"Large\", was King of Norway from 1015 to 1028. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Olav_der_Heilige07.jpg/330px-Olav_der_Heilige07.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Olaf_Haraldsson"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "​What makes a good comic novel? Andrew Sean Greer on the joy of funny writing",
-      "body": "<p>The Pulitzer-winning author of Less and Villa Coco explores the art of writing humour – plus 10 of the best novels to make you laugh</p><p>In March 2020, when the mayor of San Francisco instructed all citizens to remain in their houses d",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/01/what-makes-a-good-comic-novel-andrew-sean-greer-on-the-joy-of-funny-writing"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
-      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1936 —",
-      "hook": "Jesse Owens wins the 100 metre dash, defeating Ralph Metcalfe, at the Berlin Olympics.",
-      "body": "James Cleveland \"Jesse\" Owens was an American track and field athlete who made history at the 1936 Olympic Games by winning four gold medals, setting individual Olympic records in each event, plus another as a member of the 400-meter relay. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jesse_Owens_1936.jpg/330px-Jesse_Owens_1936.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jesse_Owens"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
-    },
-    {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Flower and Asura , also known as simply Hanashura, is a Japanese manga series written by Ayano Takeda and illustrated by Musshu.",
-      "body": "It began serialization in Shueisha's seinen manga magazine Ultra Jump in June 2021. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/Hana_wa_Saku%2C_Shura_no_Gotoku_volume_1_cover.jpg",
+      "opener": "Bet you didn't know —",
+      "hook": "The Tomorrow Show is an American late-night television talk show hosted by Tom Snyder that aired on NBC in first-run form from October 1973 to December 1981, at which point its reruns continued until late January 1982.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/42/TomorrowShowTSLogo.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Flower_and_Asura"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Sade wasn’t particularly friendly’: the stories behind music’s most iconic portraits – in pictures",
-      "body": "<p>In a career spanning six decades, photographer Gered Mankowitz has nurtured trusting relationships with many of the twentieth century’s defining artists. As he celebrates his 80th birthday, Mankowitz opens up about the stories behind ico",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/03/gered-mankowitz-gallery-interview-eurythmics-revenge-young-sade-diamond-life-wham-rolling-stones"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Barbie sequel at risk as salary talks with Robbie, Gosling and Gerwig hit impasse",
-      "body": "<p>Warner Bros faces losing rights to the blockbuster sequel if deals with the film’s stars and director are not agreed by December</p><p>The comedy mega-hit Barbie made an estimated $1.5bn (£1.1bn) at the box office, was nominated for eigh",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/03/barbie-2-stalls-margot-robbie-ryan-gosling-greta-gerwig-salary-talks"
+      "url": "https://en.wikipedia.org/wiki/The_Tomorrow_Show"
     }
   ]
 }
