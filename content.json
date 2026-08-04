@@ -1,7 +1,95 @@
 {
-  "generated": "2026-08-04T04:50:39.919Z",
-  "count": 13,
+  "generated": "2026-08-04T07:28:23.924Z",
+  "count": 20,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Arboles is an unincorporated community and a census-designated place (CDP) on the Southern Ute Indian Reservation in southwestern Archuleta County, Colorado, United States.",
+      "body": "At the United States Census 2020, the population of the Arboles CDP was 308. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Arboles%2C_Colorado.JPG/330px-Arboles%2C_Colorado.JPG",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arboles%2C_Colorado"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1796 —",
+      "hook": "French Revolutionary Wars: Napoleon leads the French Army of Italy to victory in the Battle of Lonato.",
+      "body": "The French Revolutionary Wars were a series of sweeping military conflicts resulting from the French Revolution that lasted from 1792 until 1802. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/French_Revolutionary_Wars.jpg/330px-French_Revolutionary_Wars.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Summer Book review – Glenn Close powers sweet-natured take on Tove Jansson’s kids’ classic",
+      "body": "<p>This sensitive adaptation of Jansson’s 1972 novel, set in the beatific Gulf of Finland, is a quiet treatise on life and death</p><p>Glenn Close brings her totemic presence to this gentle movie – as well as a makeup-enhanced grandmotherly",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/04/the-summer-book-review-glenn-close-powers-sweet-natured-take-on-tove-janssons-kids-classic"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Miyata Yataro , whose pen names were Miyata Hanan, Miyata Harmitsu, and Miyata Aomu, was a painter and printmaker during the Japanese colonial period in Taiwan.",
+      "body": "He was a friend of Japanese writer Mitsuru Nishikawa, who resided in Taiwan. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Yataro_Miyata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yataro_Miyata"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1789 —",
+      "hook": "France: abolition of feudalism by the National Constituent Assembly.",
+      "body": "France, officially the French Republic, is a country primarily located in Western Europe. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/France"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Ariana Grande says decision to step back 'was not reactive or impulsive'",
+      "body": "The star told fans at her Chicago show on Monday that \"boundaries need to be set\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6295z6jkw6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 598 —",
+      "hook": "Goguryeo-Sui War: In response to a Goguryeo (Korean) incursion into Liaoxi, Emperor Wéndi of Sui orders his youngest son, Yang Liang (assisted by the co-prime minister Gao Jiong), to conquer Goguryeo during the Manchurian rainy season, with a Chinese army and navy.",
+      "body": "The Goguryeo–Sui War were a series of invasions launched by the Sui dynasty of China against Goguryeo, one of the Three Kingdoms of Korea, between AD 598 and AD 614. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Sui_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "After Veligosti was lost to the Byzantines towards 1300, the name was retained even though the barony was reduced to Damala.",
+      "body": "The Barony of Veligosti or Veligosti–Damala was a medieval Frankish fiefdom of the Principality of Achaea, originally centred on Veligosti in southern Arcadia, but also came to include the area of Damala in the Argolid when it came under a cadet branch of the ",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Peloponnese_Middle_Ages_map-en.svg/330px-Peloponnese_Middle_Ages_map-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Barony_of_Veligosti"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2007 —",
+      "hook": "NASA's Phoenix Mars lander is launched.",
+      "body": "The National Aeronautics and Space Administration is an independent agency of the U.S. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/NASA"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,79 +101,90 @@
     },
     {
       "type": "card",
-      "cat": "books",
+      "cat": "history",
+      "opener": "On this day in 1887 —",
+      "hook": "Granny, a sea anemone, died in Edinburgh after nearly 60 years in captivity. Her death was reported in The Scotsman and The New York Times.",
+      "body": "Granny was the affectionate name eventually given to a beadlet sea anemone, Actinia equina, which in 1828 was taken from a rocky shore at North Berwick in Scotland by an amateur naturalist, John Dalyell. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Beadlet_sea_anemone_called_Granny%2C_colour_%28cropped%29.jpg/330px-Beadlet_sea_anemone_called_Granny%2C_colour_%28cropped%29.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Granny_(sea_anemone)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Post your questions for Imelda Staunton",
+      "body": "<p>She’s acting royalty – literally, having played Queen Elizabeth II in The Crown – but what questions would you ask her?</p><p>It is perhaps fitting that Imelda Staunton ended up playing Queen Elizabeth II in the last two series of The Cr",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/04/post-your-questions-for-imelda-staunton"
+    },
+    {
+      "type": "card",
+      "cat": "history",
       "opener": "Here's one for the group chat —",
-      "hook": "Women Talking is a 2018 novel by Canadian writer Miriam Toews.",
-      "body": "Her seventh novel, Toews describes it as \"an imagined response to real events,\" the gas-facilitated rapes that took place on the Manitoba Colony, a remote and isolated Mennonite community in Bolivia: Between 2005 and 2009, over a hundred girls and women in the",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b5/Women_Talking_%28Toews_novel%29.jpg",
+      "hook": "The Mull of Kintyre in Scotland is only about 15 miles away across the North Channel and can be seen easily on clear days.",
+      "body": "Cushendun is a small coastal village in County Antrim, Northern Ireland. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/SDC10966.JPG/330px-SDC10966.JPG",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Women_Talking_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Cushendun"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Huw Edwards criticised for entering festival poetry competition",
-      "body": "A sex abuse survivor says Edwards winning would have been \"catastrophic\" and calls for rules review.",
+      "hook": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "body": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\".",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm2ge428md0o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Universal becomes first studio to cross $4bn at global box office in 2026",
-      "body": "The Odyssey, The Super Mario Galaxy Movie, Michael are key drivers.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/universal-becomes-first-studio-to-cross-4bn-at-global-box-office-in-2026/5219049.article"
+      "opener": "The Guardian · Film —",
+      "hook": "Careless whispers: what really happened between George Michael and Lindsay Anderson? The Wham! movie producer reveals all",
+      "body": "<p>How did the pioneering director get involved – then fall out – with the 80s’ poppiest band? How are Sam Peckinpah and Michael Jackson’s Thriller involved? Prepare for a tale of ambition, deception and shuttlecock-stuffed shorts</p><ul><l",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/04/george-michael-lindsay-anderson-wham-movie-china-producer"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "cat": "history",
+      "opener": "On this day in 1964 —",
+      "hook": "Second Gulf of Tonkin Incident: U.S. destroyers USS Maddox and USS Turner Joy mistakenly report coming under attack in the Gulf of Tonkin.",
+      "body": "The Gulf of Tonkin incident refers to a naval confrontation in the Gulf of Tonkin off the coast of North Vietnam, which led to the United States engaging more directly in the Vietnam War. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tonkingunboats.jpg/330px-Tonkingunboats.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Sacred Waters is a 1960 Swiss drama film directed by Alfred Weidenmann and starring Hansjörg Felmy, Cordula Trantow and Hanns Lothar.",
-      "body": "It was based on a novel by Jakob Christoph Heer, which had previously been made into a film in 1932. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "Here's one for the group chat —",
+      "hook": "The Statute Law (Ireland) Revision Act 1872 is an act of the Parliament of the United Kingdom which repealed for Ireland statutes acts of the Parliament of England which had been extended to the then Lordship of Ireland by royal writs or acts of the Parliament of Ireland from the Magna Carta to Poynings' Law 1495.",
+      "body": "The act was intended, in particular, to make the revised edition of the statutes already published applicable to Ireland. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Coat_of_arms_of_the_United_Kingdom_%281837%29.svg/330px-Coat_of_arms_of_the_United_Kingdom_%281837%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sacred_Waters_(1960_film)"
+      "url": "https://en.wikipedia.org/wiki/Statute_Law_(Ireland)_Revision_Act_1872"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Could a couch-to-5k for books get you back into reading?",
-      "body": "<p>With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habit</p><p>Do you feel that it’s harder to read than it used to be? Not harder to read ema",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Song Ji-eun, better known mononymously as Jieun, is a South Korean singer and actress best known as a member of the South Korean girl group Secret.",
+      "body": "Aside from her group's activities, she has released several solo songs and participated in various OSTs. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Song_Ji-eun_in_September_2019.png/330px-Song_Ji-eun_in_September_2019.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Song_Ji-eun"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Shuishi yuan, also translated as Marriage Between Water and Stone, is a Chinese romantic caizi jiaren novel of the 18th century during the Qing dynasty.",
-      "body": "The novel was written by Li Chunrong (李春榮). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/IOC.UTokyo-010662_%E6%B0%B4%E7%9F%B3%E7%B7%A3%E4%BA%8C%E5%8D%81%E4%B9%9D%E6%AE%B5%E9%81%93%E5%85%89%E4%BA%8C%E5%8D%81%E4%B8%80%E5%B9%B4%E5%88%8A%E6%9C%AC_%E5%8D%B7%E9%A6%96.pdf/page1-330px-IOC.UTokyo-010662_%E6%B0%B4%E7%9F%B3%E7%B7%A3%E4%BA%8C%E5%8D%81%E4%B9%9D%E6%AE%B5%E9%81%93%E5%85%89%E4%BA%8C%E5%8D%81%E4%B8%80%E5%B9%B4%E5%88%8A%E6%9C%AC_%E5%8D%B7%E9%A6%96.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The North–South Summit, officially the International Meeting on Cooperation and Development, was an international summit held in Cancún, Mexico, from 22 to 23 October 1981.",
+      "body": "The summit was attended by representatives of 22 countries from five continents. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Reagan_Thatcher_Boigny_Sattar_Benjedid_Genscher_Trudeau_Portillo_Fahd_Pahr_Guerreiro_Ziyang_Marcos_Kraigher_Nyerere_Suzuki_Burnham_Mitterrand_Gandhi_Shagari_Falldin_Campins_Waldheim_-_DPLA_-_a9b3d3e36d8e15226f167727a0e6aafe.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Shuishi_yuan"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Malaya became independent from British colonial rule on 31 August 1957.",
-      "body": "This article lists important figures and events in Malayan public affairs during the year 1957, together with births and deaths of significant Malayans. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Map_PeninsularMalaysia.png/330px-Map_PeninsularMalaysia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1957_in_Malaya"
+      "url": "https://en.wikipedia.org/wiki/North%E2%80%93South_Summit"
     },
     {
       "type": "card",
@@ -95,35 +194,6 @@
       "body": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "How to safely watch a solar eclipse",
-      "body": "Video: 00:01:34 [English]: A solar eclipse is an unforgettable sight, but only if you watch it safely! ESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Charlie the Choo-Choo: From the World of The Dark Tower is a children's book by Stephen King, published under the pseudonym Beryl Evans.",
-      "body": "The story was written by Stephen King and published in King's previous novel The Dark Tower III: The Waste Lands. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/66/Charlie_the_Choo-Choo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Charlie_the_Choo-Choo"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Russel Middlebrook is a series of young adult fiction novels written by Brent Hartinger.",
-      "body": "The series follows the lives and love lives of Russel Middlebrook and his friends as they create the Geography Club, a safe space for gay teenagers and eventually the first Gay-Straight-Bisexual Alliance at their school. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Russel_Middlebrook_(series)"
     }
   ]
 }
