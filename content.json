@@ -1,26 +1,45 @@
 {
-  "generated": "2026-08-04T20:58:50.880Z",
-  "count": 19,
+  "generated": "2026-08-04T22:08:31.627Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Rum Diary is a 2011 American comedy-drama film written and directed by Bruce Robinson, based on the novel of the same name by Hunter S.",
-      "body": "The film stars Johnny Depp, Aaron Eckhart, Michael Rispoli, Amber Heard, Richard Jenkins, and Giovanni Ribisi. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/36/The_Rum_Diary_Poster.jpg",
+      "opener": "You probably never noticed this —",
+      "hook": "The Unknown Ajax is a Regency romance by Georgette Heyer, published in 1959 by Heinemann in the UK and in 1960 by Putnam in the US.",
+      "body": "It was her forty-seventh novel and the eighteenth set in Regency times. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c5/TheUnknownAjax.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Rum_Diary_(film)"
+      "url": "https://en.wikipedia.org/wiki/The_Unknown_Ajax"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Robert Alphonse Collard, also known as Robert Lortac or simply Lortac, was a French writer, illustrator, portraitist, animator, and art critic.",
-      "body": "He was born in Cherbourg and died in Paris. One of those things you can't un-know.",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The music has become increasingly popular in the 2010s and 2020s and frequently includes Islamophobic lyrics.",
+      "body": "Hindutva pop, often referred to as H-Pop, is a genre of Indian pop music that promotes Hindutva, a Hindu nationalist ideology. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Robert_Collard"
+      "url": "https://en.wikipedia.org/wiki/Hindutva_pop"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It was built by 1837, and is a two-story, vernacular Federal style frame residence.",
+      "body": "Mountain Shoals Plantation, also known as the James Nesbitt House, is a historic plantation house located at Enoree, Spartanburg County, South Carolina. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mountain_Shoals.jpg/330px-Mountain_Shoals.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mountain_Shoals_Plantation"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
+      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
     },
     {
       "type": "card",
@@ -33,62 +52,31 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "I, Libertine is a historical novel that began as a practical joke by Jean Shepherd, a late-night radio raconteur who aimed to lampoon the process of determining best-selling books.",
-      "body": "After generating substantial attention for a novel that did not actually exist, Shepherd approved a 1956 edition of the book written mainly by Theodore Sturgeon—which was later claimed to have become an actual best-seller, with all profits donated to charity. ",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/79/I%2C_Libertine_%28book_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/I%2C_Libertine"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1965 —",
-      "hook": "The Constitution of the Cook Islands comes into force, giving the Cook Islands self-governing status within New Zealand.",
-      "body": "The politics of the Cook Islands takes place in a framework of a parliamentary representative democracy within a constitutional monarchy. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_the_Cook_Islands.svg/330px-Coat_of_arms_of_the_Cook_Islands.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Politics_of_the_Cook_Islands"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Persistent Lovers is a 1922 British silent drama film directed by Guy Newall and starring Newall, Ivy Duke and A.",
-      "body": "It was an adaptation of a 1915 novel by A. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Persistent_Lovers"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1854 —",
-      "hook": "The Hinomaru is established as the official flag to be flown from Japanese ships.",
-      "body": "The national flag of Japan is a rectangular white banner with a red circle at its center. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/330px-Flag_of_Japan.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Flag_of_Japan"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1964 —",
-      "hook": "Civil rights movement: Civil rights workers Michael Schwerner, Andrew Goodman and James Chaney are found dead in Mississippi after disappearing on June 21.",
-      "body": "The civil rights movement was a social movement in the United States from 1954 to 1968 which aimed to abolish legalized racial segregation, discrimination, and disenfranchisement in the country, which most commonly affected African Americans. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/330px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Civil_rights_movement"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "Leviticus review – queer desire is a deadly curse in haunting horror",
       "body": "<p><strong>Sundance film festival:</strong> Conversion therapy has gory results in a smart and surprisingly romantic debut feature from Australian writer-director Adrian Chiarella</p><p>Something rather nasty is unfolding in Sundance horror",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/jan/24/leviticus-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Baskerville: A Sherlock Holmes Mystery is a play by American playwright Ken Ludwig.",
+      "body": "It premiered at the Arena Stage in Southwest, Washington, D.C. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Everyman_Theatre.jpg/330px-Everyman_Theatre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baskerville%3A_A_Sherlock_Holmes_Mystery"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Paramount CEO David Ellison tells Q2 earnings call he is “highly confident” WBD merger will close",
+      "body": "Call came hours after US federal judge scheduled antitrust trial for March 2027.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/paramount-ceo-david-ellison-tells-q2-earnings-call-he-is-highly-confident-wbd-merger-will-close/5219114.article"
     },
     {
       "type": "card",
@@ -110,71 +98,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "​What makes a good comic novel? Andrew Sean Greer on the joy of funny writing",
-      "body": "<p>The Pulitzer-winning author of Less and Villa Coco explores the art of writing humour – plus 10 of the best novels to make you laugh</p><p>In March 2020, when the mayor of San Francisco instructed all citizens to remain in their houses d",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/01/what-makes-a-good-comic-novel-andrew-sean-greer-on-the-joy-of-funny-writing"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1320 —",
-      "hook": "The so-called Black Parliament at Scone tries William II de Soules and other nobles who had plotted against Robert I of Scotland and intended to place William on the Scottish throne.",
-      "body": "Scone Palace is a Category A-listed historic house near the village of Scone and the city of Perth, Scotland. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Perth_and_Kinross_Scone_Palace_2.jpg/330px-Perth_and_Kinross_Scone_Palace_2.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Scone_Palace"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Invite review – A-list ensemble electrify hilarious couples night gone wrong comedy",
-      "body": "<p><strong>Sundance film festival:</strong> Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are exceptional in a smart and funny winner about sex, marriage and partner-swapping</p><p>Not enough people managed to see last year’s se",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jan/25/the-invite-review-sundance-olivia-wilde"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 598 —",
-      "hook": "Goguryeo-Sui War: In response to a Goguryeo (Korean) incursion into Liaoxi, Emperor Wéndi of Sui orders his youngest son, Yang Liang (assisted by the co-prime minister Gao Jiong), to conquer Goguryeo during the Manchurian rainy season, with a Chinese army and navy.",
-      "body": "The Goguryeo–Sui War were a series of invasions launched by the Sui dynasty of China against Goguryeo, one of the Three Kingdoms of Korea, between AD 598 and AD 614. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Sui_War"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "A fix-up is a novel created from several short fiction stories that may or may not have been initially related or previously published.",
-      "body": "The stories may be edited for consistency, and sometimes new connecting material, such as a frame story or other interstitial narration, is written for the new work. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fix-up"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1789 —",
-      "hook": "France: abolition of feudalism by the National Constituent Assembly.",
-      "body": "France, officially the French Republic, is a country primarily located in Western Europe. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/France"
-    },
-    {
-      "type": "card",
-      "cat": "history",
       "opener": "You probably never noticed this —",
-      "hook": "It was released in October 2015 as the album's second single, and has charted at number 5 in the Polish Airplay Top 100 and 35 on the Dutch Top 40.",
-      "body": "\"Another Lonely Night\" is a song recorded by American singer Adam Lambert for his third studio album, The Original High (2015). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/44/Another_Lonely_Night.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "A Year in the Province is a comic novel by Christopher Marsh.",
+      "body": "The book tells the story of Jesus Sanchez Ventura, who persuades his wife Begona and his three daughters to leave Andalusia for Belfast. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/A_year_in_the_province_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Another_Lonely_Night_(Adam_Lambert_song)"
+      "url": "https://en.wikipedia.org/wiki/A_Year_in_the_Province"
     },
     {
       "type": "card",
@@ -184,6 +114,26 @@
       "body": "<p>This stylish biography of the author traces his journey from left to right, and from ‘posh Lima’ to Cricklewood</p><p>“At what precise moment had Peru fucked itself up?” Those words on the opening page of Conversation in the Cathedral<em",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/2026/jul/30/mario-vargas-llosa-by-gerald-martin-review-the-passions-and-politics-of-perus-nobel-laureate"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Quick Change is a 1990 American crime comedy film directed by Howard Franklin and Bill Murray and written by Franklin.",
+      "body": "Based on the novel of the same name by Jay Cronley, the film stars Murray, Geena Davis, Randy Quaid, and Jason Robards. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/Quick_change.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quick_Change"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "A Strangeness in My Mind is a 2014 novel by Orhan Pamuk.",
+      "body": "It is the author's ninth novel. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2b/A_Strangeness_in_My_Mind.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Strangeness_in_My_Mind"
     }
   ]
 }
