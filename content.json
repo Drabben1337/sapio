@@ -1,179 +1,119 @@
 {
-  "generated": "2026-08-05T10:19:32.902Z",
-  "count": 18,
+  "generated": "2026-08-05T12:29:45.160Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Where the Heart Is is a 1995 novel by author Billie Letts.",
-      "body": "It was chosen as an Oprah's Book Club selection in December 1998, and was adapted into a 2000 film by the same name. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/79/Where_the_Heart_Is_Billie_Letts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Where_the_Heart_Is_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1969 —",
-      "hook": "The Lonesome Cowboys police raid occurs in Atlanta, Georgia, leading to the creation of the Georgia Gay Liberation Front.",
-      "body": "On August 5, 1969, the Atlanta Police Department led a police raid on a screening of the film Lonesome Cowboys at a movie theater in Atlanta, Georgia, United States. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Lonesome_Cowboys_police_raid"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1906 —",
-      "hook": "Persian Constitutional Revolution: Mozaffar ad-Din Shah Qajar, King of Iran, agrees to convert the government to a constitutional monarchy.",
-      "body": "The Persian Constitutional Revolution, also known as the Constitutional Revolution of Iran, took place between 1905 and 1911 during the Qajar era. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sattarkhan_%26_Bagherkhan.jpg/330px-Sattarkhan_%26_Bagherkhan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Persian_Constitutional_Revolution"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Ariana Grande expands on decision to ‘step back from visibility’, telling fans it was ‘not reactive or impulsive’",
+      "body": "<p>Singer and actor, whose world tour ends next month, told audience in Chicago that she had been quietly planning the move for a long time</p><p>Ariana Grande has expanded upon her recent decision to take “a step back from visibility” when",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/04/ariana-grande-decision-to-step-back-from-visibility-chicago-petal"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Paw Patrol: The Dino Movie review – plucky pups do their thing on Jurassic-style island",
-      "body": "<p>Stranded on an island full of prehistoric animals, the Paw Patrol squad get stuck in in a remarkably charmless animation</p><p>The Paw Patrol pups – that’s Chase, Marshall, Skye, Rocky, Rubble and Zuma – are engaged in a rescue mission a",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/paw-patrol-the-dino-movie-review-plucky-pups-do-their-thing-on-jurassic-style-island"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2015 —",
-      "hook": "The Environmental Protection Agency at Gold King Mine waste water spill releases three million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado.",
-      "body": "The 2015 Gold King Mine waste water spill was an environmental disaster that began at the Gold King Mine near Silverton, Colorado, when Environmental Protection Agency (EPA) personnel, along with workers for Environmental Restoration LLC, caused the release of toxic waste water into the Animas River watershed. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Animas_River_spill_2015-08-06.JPG/330px-Animas_River_spill_2015-08-06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2015_Gold_King_Mine_waste_water_spill"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "György Dalos is a Hungarian Jewish writer and historian.",
-      "body": "He is best known for his novel 1985, and The Guest from the Future: Anna Akhmatova and Isaiah Berlin. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Gy%C3%B6rgy_Dalos_-_Buch_Wien_2025.JPG/330px-Gy%C3%B6rgy_Dalos_-_Buch_Wien_2025.JPG",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Dalos"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1388 —",
-      "hook": "The Battle of Otterburn, a border skirmish between the Scottish and the English in Northern England, is fought near Otterburn.",
-      "body": "The Battle of Otterburn, also known as the Battle of Chevy Chase, took place according to Scottish sources on 5 August 1388, or 19 August according to English sources, as part of the continuing border skirmishes between the Scots and English. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Otterburn_Battle.jpg/330px-Otterburn_Battle.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Otterburn"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2010 —",
-      "hook": "The Copiapó mining accident occurs, trapping 33 Chilean miners approximately 2,300 ft (700 m) below the ground for 69 days.",
-      "body": "A mining accident began on 5 August 2010 with a cave-in at the San José copper–gold mine in the Atacama Desert, 45 kilometers (28 mi) north of the regional capital of Copiapó, in northern Chile. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mina_San_Jos%C3%A9_de_Copiap%C3%B3_en_2010.jpg/330px-Mina_San_Jos%C3%A9_de_Copiap%C3%B3_en_2010.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Tributes paid to “transgressive rebel” Brian Robinson, BFI Flare stalwart, who has died aged 67",
-      "body": "Ben Roberts, Tricia Tuttle and Briony Hanson among those who paid tribute.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/tributes-paid-to-transgressive-rebel-brian-robinson-bfi-flare-stalwart-who-has-died-aged-67/5219124.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Analogue evil: why today’s horror film-makers are obsessed with obsolete tech",
-      "body": "<p>From Obsession to Teenage Sex and Death at Camp Miasma, a new wave of movies are ditching minimalism for retro settings</p><p>The indie-horror hit films <a href=\"https://www.theguardian.com/film/2025/sep/06/obsession-movie-review-tiff\">O",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/horror-movies-obsession-backrooms-tech-props"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "A Child of My Own review – barely believable true crime tale of desperation and delusion",
-      "body": "<p>Candy-coloured recreations of one woman’s pregnancy unravel as dark truths are revealed in Maite Alberdi’s intimate docudrama</p><p>This cheekily inquisitive docudrama by Chilean director Maite Alberdi features a unique variation on the ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/a-child-of-my-own-review-true-crime-fake-pregnancy"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru: Kabe o Surinuketara, Shokai Clear Hōshū o Mugen Kaishū Dekimashita!",
-      "body": "is a Japanese web novel series written by Nikita Kitagawa. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/Saijaku_na_Boku_wa_%22Kabenuke_Bug%22_de_Nariagaru_LN_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Saijaku_na_Boku_wa_%22Kabenuke_Bug%22_de_Nariagaru"
+      "opener": "BBC Entertainment —",
+      "hook": "Traitors star Joe Marler to become BBC's first celebrity Gladiator",
+      "body": "The former rugby star will be known as Mauler when the fourth series airs in 2027, the BBC confirmed.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c39ep0eyk21o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Hell University is a Philippine mystery thriller television series with elements of romance and dark academia.",
-      "body": "The show is an adaptation of the Wattpad novel of the same name, which was inspired by the dystopian horror film series The Purge and written by KnightInBlack. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/55/Hell_University_official_poster_%28season_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Bostonians is a 1984 historical romance drama film directed by James Ivory.",
+      "body": "The screenplay by Ruth Prawer Jhabvala is based on the 1886 American novel The Bostonians by Henry James. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/The_Bostonians.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hell_University"
+      "url": "https://en.wikipedia.org/wiki/The_Bostonians_(film)"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Saga of Recluce is a series of fantasy novels written by L.",
-      "body": "The initial novel in the series, The Magic of Recluce, was published in 1991. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/ce/The_Magic_of_Recluce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Saga_of_Recluce"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1068 —",
-      "hook": "Byzantine–Norman wars: Italo-Normans begin a nearly-three-year siege of Bari.",
-      "body": "The Byzantine–Norman wars were a series of military conflicts between the Normans and the Byzantine Empire fought from c. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Italy_and_Illyria_1084_AD.svg/330px-Italy_and_Illyria_1084_AD.svg.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Norman_wars"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Presenter and dog trainer Graeme Hall joins Strictly line-up",
+      "body": "The author and presenter has appeared on Channel 5's Dogs Behaving (Very) Badly since its launch in 2017.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "Post your questions for Imelda Staunton",
-      "body": "<p>She’s acting royalty – literally, having played Queen Elizabeth II in The Crown – but what questions would you ask her?</p><p>It is perhaps fitting that Imelda Staunton ended up playing Queen Elizabeth II in the last two series of The Cr",
+      "hook": "Sex, drugs and serial killers: inside Ryan Murphy and Bret Easton Ellis’s lurid TV thriller",
+      "body": "<p>The Shards brings the cocaine-addled teens of a 1980s prep school to life with a cast of newcomers and a heavy dose of sleaze</p><p>One of the first things <a href=\"https://www.theguardian.com/tv-and-radio/ryan-murphy\">Ryan Murphy</a>’s ",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/04/post-your-questions-for-imelda-staunton"
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/04/the-shards-tv-show-thriller-cast-interview"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Boyfriend, written in 2003 is R.",
+      "body": "Based in Mumbai, India, it discusses the city's gay subculture against a backdrop of the 1992 riots and discusses caste, class and masculinities. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/The_Boyfriend_%282003_novel_by_R_Raj_Rao%29_Cover_Paperback.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Boyfriend_(novel)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "A Sense of Occasion by Brodie Crellin review – a surprising and darkly funny debut",
-      "body": "<p>A dysfunctional family comes together for a funeral in this heartfelt, keenly observed novel </p><p>Most of us come upon our family’s dysfunctions gradually, like a door that opens a little wider each year. This uncle, you find out, has ",
+      "hook": "Children of the Wild by Kevin Powers review – gripping tale of a friendship forged in war",
+      "body": "<p>Written by a US army veteran, this novel of courage and cruelty during the first world war is filled with unsettlingly authoritative depictions of violence – but its characters are less believable </p><p>Kevin Powers’s fourth novel marks",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/05/a-sense-of-occasion-by-brodie-crellin-review-a-surprising-and-darkly-funny-debut"
+      "url": "https://www.theguardian.com/books/2026/aug/04/children-of-the-wild-by-kevin-powers-review-gripping-tale-of-a-friendship-forged-in-war"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Tunnel is a 1952 Argentine drama film directed by León Klimovsky and starring Laura Hidalgo, Carlos Thompson and Bernardo Perrone.",
+      "body": "It is an adaptation of the 1948 novel The Tunnel by Ernesto Sábato. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7a/The_Tunnel_%281952_film%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Tunnel_(1952_film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Ògbójú Ọdẹ nínú Igbó Irúnmọlẹ̀ is the first novel written by the Yorùbá author D.",
+      "body": "It was published by the Church Missionary Society Bookshop, Lagos in 1938 and is one of the first novels written in Yorùbá. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Front_Cover_of_%C3%92gb%C3%B3j%C3%BA_%E1%BB%8Cd%E1%BA%B9_n%C3%ADn%C3%BA_Igb%C3%B3_Ir%C3%BAnm%E1%BB%8Dl%E1%BA%B9%CC%80_by_D.O._F%C3%A1g%C3%BAnw%C3%A0.png/330px-Front_Cover_of_%C3%92gb%C3%B3j%C3%BA_%E1%BB%8Cd%E1%BA%B9_n%C3%ADn%C3%BA_Igb%C3%B3_Ir%C3%BAnm%E1%BB%8Dl%E1%BA%B9%CC%80_by_D.O._F%C3%A1g%C3%BAnw%C3%A0.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%C3%92gb%C3%B3j%C3%BA_%E1%BB%8Cd%E1%BA%B9_n%C3%ADn%C3%BA_Igb%C3%B3_Ir%C3%BAnm%E1%BB%8Dl%E1%BA%B9%CC%80"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Ice Cream Man review – Eli Roth’s junky slasher is one of year’s worst horrors",
-      "body": "<p>The Hostel and Thanksgiving director takes a massive stumble with a rushed retro horror made on the cheap</p><p>A few years ago, Eli Roth realized his long-held ambition to make a movie out of <a href=\"https://www.theguardian.com/film/20",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/ice-cream-man-review-eli-roth"
+      "opener": "New Scientist —",
+      "hook": "Ancient Egyptians may have built a massive dam near the Red Pyramid",
+      "body": "Large structures near the Red Pyramid may be the remnants of a major dam, suggesting that the Egyptians used water to help power their construction projects",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583326-ancient-egyptians-may-have-built-a-massive-dam-near-the-red-pyramid/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The River of Stars is a 1913 novel by the British writer Edgar Wallace.",
+      "body": "It was part of a series of stories in which the character of Commissioner Sanders appears, set in British West Africa. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ce/The_River_of_Stars_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_River_of_Stars_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "A pressing issue: why are vinyl albums becoming so different from their digital versions?",
+      "body": "<p>They’re expensive, elaborate – and may not contain all the music. After Olivia Rodrigo, Charli xcx and more sent out incomplete or unfinished vinyl versions, fans are feeling shortchanged</p><p>It was one of the most anticipated collabor",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/04/a-pressing-issue-vinyl-albums-riddled-with-mistakes-charli-xcx-olivia-rodrigo"
     }
   ]
 }
