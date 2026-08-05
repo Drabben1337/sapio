@@ -1,63 +1,73 @@
 {
-  "generated": "2026-08-04T23:50:41.546Z",
-  "count": 13,
+  "generated": "2026-08-05T01:14:28.363Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Should you stop using preventive flea treatments on your pets?",
-      "body": "It has been assumed for decades that tick and flea treatments for pets pose no threat to wildlife or people, but there’s growing evidence that we have got it wrong",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583235-should-you-stop-using-preventive-flea-treatments-on-your-pets/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Siddham is a 2009 Telugu-language action film, produced by Kiran Kumar Koneru on Shreya Productions banner and directed by J.",
-      "body": "The film stars Jagapati Babu and Sindhu Menon, with music composed by Amar Mohile. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Siddham_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Grim Reaper is a character and a superhero.",
+      "body": "Created by writer/editor Richard E. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wonder_Comics_1_Pines.jpg/330px-Wonder_Comics_1_Pines.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Siddham_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Most people prefer AI-written stories – and can&#8217;t tell when they are made by humans",
-      "body": "People appear to prefer short stories created by AI over those written by humans. They are also no better than chance at telling which is which",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583065-most-people-prefer-stories-written-by-ai-and-cant-tell-it-apart-from-human-work/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://en.wikipedia.org/wiki/Grim_Reaper_(Nedor_Comics)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "George Bernard Shaw, known at his insistence as Bernard Shaw, was an Irish playwright, critic, polemicist and political activist.",
-      "body": "His influence on Western theatre, culture and politics extended from the 1880s to his death and beyond. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Bernard-Shaw-ILN-1911-original.jpg/330px-Bernard-Shaw-ILN-1911-original.jpg",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Wilfrid Scawen Blunt, sometimes spelt Wilfred, was an English poet and writer.",
+      "body": "He and his wife Lady Anne Blunt travelled in the Middle East and were instrumental in preserving the Arabian horse bloodlines through their farm, the Crabbet Arabian Stud. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Wilfred_Scawen_Blunt.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
+      "url": "https://en.wikipedia.org/wiki/Wilfrid_Scawen_Blunt"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Lest Darkness Fall is a 1939 alternate history science fiction novel by the American author L.",
+      "body": "Lest Darkness Fall is similar in concept to Mark Twain's A Connecticut Yankee in King Arthur's Court, but the treatment is very different. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Lest_darkness_fall_holt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lest_Darkness_Fall"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Paramount-WBD merger antitrust trial scheduled for March 2027",
-      "body": "David Ellison’s media company will owe more than $1bn in “ticking fees”.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/paramount-wbd-merger-antitrust-trial-scheduled-for-march-2027/5219113.article"
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "How to safely watch a solar eclipse",
+      "body": "Video: 00:01:34 [English]: A solar eclipse is an unforgettable sight, but only if you watch it safely! ESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Alo is a 2003 Bengali family drama film directed by Tarun Majumder and starring Rituparna Sengupta.",
-      "body": "The story is based on a short story Kinnardal by Bibhutibhushan Bandopadhyay. One of those things you can't un-know.",
+      "hook": "Susan Weinschenk is an American behavioral psychologist who has been working in the field of design and user experience since 1985.",
+      "body": "She has published five books on user experience in computer systems and has spoken at many conferences She also is the founder of the Weinschenk Institute. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Alo_(film)"
+      "url": "https://en.wikipedia.org/wiki/Susan_Weinschenk"
     },
     {
       "type": "card",
@@ -71,50 +81,20 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Paramount CEO David Ellison tells Q2 earnings call he is “highly confident” WBD merger will close",
-      "body": "Call came hours after US federal judge scheduled antitrust trial for March 2027.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/paramount-ceo-david-ellison-tells-q2-earnings-call-he-is-highly-confident-wbd-merger-will-close/5219114.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Tommy Storm and the Galactic Knights is the second novel in the Tommy Storm series, written by Irish author A.J.",
-      "body": "Set three years after the first Tommy Storm, Tommy and his friends travel across the universe searching for answers about the TFC. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a2/TS2_FrontCover_Compressed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tommy_Storm_and_the_Galactic_Knights"
+      "opener": "New Scientist —",
+      "hook": "Should you stop using preventive flea treatments on your pets?",
+      "body": "It has been assumed for decades that tick and flea treatments for pets pose no threat to wildlife or people, but there’s growing evidence that we have got it wrong",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583235-should-you-stop-using-preventive-flea-treatments-on-your-pets/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "hook": "Could a couch-to-5k for books get you back into reading?",
+      "body": "<p>With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habit</p><p>Do you feel that it’s harder to read than it used to be? Not harder to read ema",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "This status continued to grow into the 18th century, by which time French was the language of European diplomacy and international relations.",
-      "body": "The French language became an international language, the second international language alongside Latin, in the Middle Ages, \"from the fourteenth century onwards\". Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/LaFrancophonie2021.png/330px-LaFrancophonie2021.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Geographical_distribution_of_French_speakers"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Hunting Badger is a crime novel by American writer Tony Hillerman, the fourteenth in the Joe Leaphorn/Jim Chee Navajo Tribal Police series, first published in 1999.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cc/HuntingBadger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hunting_Badger"
+      "url": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading"
     },
     {
       "type": "card",
@@ -124,6 +104,16 @@
       "body": "Mixed Q2 earnings sees Paramount+ add two million members to reach 81.6m worldwide.",
       "src": "Screen Daily",
       "url": "https://www.screendaily.com/news/paramount-ceo-david-ellison-highly-confident-wbd-merger-will-close/5219114.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Rachel Manley is a Jamaican writer in verse and prose, born in Cornwall, England, raised in Jamaica and currently residing in Canada.",
+      "body": "She is a daughter of the former Jamaican prime minister, Michael Manley. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rachel_Manley"
     }
   ]
 }
