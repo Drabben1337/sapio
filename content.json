@@ -1,82 +1,36 @@
 {
-  "generated": "2026-08-05T04:50:49.753Z",
-  "count": 13,
+  "generated": "2026-08-05T07:28:52.346Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Eiger Sanction is a 1972 thriller novel by Trevanian, the pen name of Rodney William Whitaker.",
+      "body": "The novel was made into a film of the same name in 1975, directed by and starring Clint Eastwood. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cd/EigerSanction.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Eiger_Sanction_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Bud, Not Buddy is the second children's novel written by Christopher Paul Curtis.",
+      "body": "It was the first book to receive both the Newbery Medal for excellence in American children's literature, and the Coretta Scott King Award, which is given to outstanding African-American authors. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/28/Bud%2C_Not_Buddy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bud%2C_Not_Buddy"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "It features the historical figures William Douglas, 6th Earl of Douglas, and Gilles de Retz (\"Bluebeard\"), though in reality they never met.",
-      "body": "The Black Douglas is a historical fantasy novel by the Scottish author Samuel Rutherford Crockett published in 1899. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Black_Douglas_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Paramount CEO David Ellison “highly confident” WBD merger will close",
-      "body": "Mixed Q2 earnings sees Paramount+ add two million members to reach 81.6m worldwide.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/paramount-ceo-david-ellison-highly-confident-wbd-merger-will-close/5219114.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Suika (水夏) is a Japanese adult visual novel developed by Circus and was first released on July 27, 2001 for Windows as a CD-ROM, followed by a DVD-ROM release on August 31, 2001.",
-      "body": "It was followed by two all-ages consumer ports for the PlayStation, retitled as Water Summer, and the Dreamcast on July 18, 2002, which was subsequently followed by an all-ages version for Windows, released on July 25, 2003. The world is stranger than it lets ",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a7/Suika_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Suika_(2001_video_game)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Memories of Rain is an English-language book written by Sunetra Gupta.",
-      "body": "This was Gupta's debut novel and was first published in 1992. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Memories_of_Rain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Memories_of_Rain"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Stop! That! Train! review - RuPaul-led zany drag comedy is a riot",
-      "body": "<p>With a whip-smart drag queen cast and celebrity cameos, Adam Shankman’s film is a refreshingly kooky twist on the summer movie caper</p><p>Given the grip it exerts on the drag world in the US and beyond, it’s almost quaint to remember th",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jun/11/stop-that-train-movie-review-rupaul"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Winds of War is Herman Wouk's second book about World War II.",
-      "body": "Published in 1971, The Winds of War was followed up seven years later by War and Remembrance; originally conceived as one volume, Wouk decided to break it into two volumes when he realized it took nearly 1,000 pages just to get to the attack on Pearl Harbor. W",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/95/HermanWouk_TheWindsOfWar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Winds_of_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+      "opener": "On this day in 1862 —",
+      "hook": "American Civil War: Battle of Baton Rouge: Along the Mississippi River near Baton Rouge, Louisiana, Confederate troops attempt to take the city, but are driven back by fire from Union gunboats.",
+      "body": "The Battle of Baton Rouge was a ground and naval battle in the American Civil War fought in East Baton Rouge Parish, Louisiana, on August 5, 1862. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Battle_Baton_Rouge.jpg/330px-Battle_Baton_Rouge.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Baton_Rouge_(1862)"
     },
     {
       "type": "card",
@@ -89,41 +43,157 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Ghost of the Mountains by Kulbhushansingh Suryawanshi review – the secrets of the snow leopard",
+      "body": "<p>An Indian mountaineer follows in the footsteps of explorers and conservationists in search of an enigmatic animal</p><p>When bored, try the following game – I call it “Purr or Roar?”. Take any feline and guess whether it can purr or roar",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/05/the-ghost-of-the-mountains-by-kulbhushansingh-suryawanshi-review-the-secrets-of-the-snow-leopard"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Kate Nash on Irish history, heritage and covering Sinéad O'Connor",
+      "body": "Kate Nash will perform at The Mac as part of the fringe programme for the Fleadh Cheoil na hÉireann",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0e4dx8w9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2008 —",
+      "hook": "The New England Revolution win the 2008 North American SuperLiga final against the Houston Dynamo.",
+      "body": "The New England Revolution are an American professional soccer club based in the Greater Boston area. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_of_New_England_Revolution_%282021%29.svg/330px-Logo_of_New_England_Revolution_%282021%29.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/New_England_Revolution"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1925 —",
+      "hook": "Plaid Cymru is formed with the aim of disseminating knowledge of the Welsh language that is at the time in danger of dying out.",
+      "body": "Plaid Cymru is a centre-left to left-wing Welsh nationalist political party in Wales, that supports Welsh independence from the United Kingdom. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Plaid_Cymru"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Queens of the Dead review – drag performers slay on the party scene in playful zombie comedy",
+      "body": "<p>Tina Romero’s queer spin on the horror genre delivers plenty of laughs and splattery fun – even if the storytelling occasionally stumbles</p><p>A zombie epidemic taking place in the LGBTQ+ warehouse party scene is the fun premise of this",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/queens-of-the-dead-review-drag-zombie-comedy"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+      "body": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1100 —",
+      "hook": "Henry I is crowned King of England in Westminster Abbey.",
+      "body": "Henry I, also known as Henry Beauclerc, was King of England from 1100 to his death in 1135. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Worcester_chronicle_-_Henry_I_in_a_hulk.png/330px-Worcester_chronicle_-_Henry_I_in_a_hulk.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: Polish insurgents liberate a German labor camp (Gęsiówka) in Warsaw, freeing 348 Jewish prisoners.",
+      "body": "A labor camp or work camp is a detention facility where inmates are forced to engage in penal labor as a form of punishment. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Canal_Mer_Blanche.jpg/330px-Canal_Mer_Blanche.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Labor_camp"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Himmler’s ‘anti-Nazi’ masseur: exposing the lies and fantasies of the SS chief’s ‘magic Buddha’",
+      "body": "<p>Felix Kersten, the personal therapist of Hitler’s principal enforcer, claimed to have saved countless lives from the Holocaust. A new feature film exposes him as a narcissist prone to myth-making</p><p>Five years ago, German writer-direc",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/himmlers-anti-nazi-masseur-exposing-the-lies-and-fantasies-of-the-ss-chiefs-magic-buddha"
+    },
+    {
+      "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Incubus is a 1981 Canadian supernatural slasher film directed by John Hough and starring John Cassavetes, Kerrie Keane, and John Ireland.",
-      "body": "The plot focuses on a small Wisconsin town where a mysterious figure is raping and murdering young women. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/25/The-incubus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Poppoya , also known as The Railroad Man, is a 1999 Japanese film directed by Yasuo Furuhata.",
+      "body": "It was Japan's submission to the 72nd Academy Awards for the Academy Award for Best Foreign Language Film, but was not accepted as a nominee. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Poppoya.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Incubus_(1981_film)"
+      "url": "https://en.wikipedia.org/wiki/Poppoya"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "Its footprints have been found at Lark Quarry in Queensland Australia.",
+      "body": "Wintonopus is an ichnogenus of dinosaur footprint. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wintonopus_latomorum.jpg/330px-Wintonopus_latomorum.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wintonopus"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Diary of a Wimpy Kid: Dog Days is a novel written by American author and cartoonist Jeff Kinney, and is the fourth book in the Diary of a Wimpy Kid series.",
+      "body": "It was released on September 13, 2009, in Canada and September 20, 2009, in the USA. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/78/Diary_of_a_Wimpy_Kid_Dog_Days_book_cover.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid%3A_Dog_Days_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1971 —",
+      "hook": "The first Pacific Islands Forum (then known as the \"South Pacific Forum\") is held in Wellington, New Zealand, with the aim of enhancing cooperation between the independent countries of the Pacific Ocean.",
+      "body": "The Pacific Islands Forum is an inter-governmental organisation which aims to enhance cooperation among countries and territories of Oceania, including formation of a trade bloc and regional peacekeeping operations. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Pacific_Islands_Forum.svg/330px-Flag_of_the_Pacific_Islands_Forum.svg.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pacific_Islands_Forum"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The site is entirely based on user-generated content and, in 2013, it was considered by Kochie's Business Builders as the top business review website in Australia with 400,000 reviews for businesses based in Australia.",
+      "body": "Word of Mouth (previously WOMO - Word Of Mouth Online) is business review site containing crowd-sourced reviews of local businesses in Australia. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Womo"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "The Mummy film ad banned from London Underground",
+      "body": "Posters for Lee Cronin’s horror film The Mummy depicting a dead child are \"too realistic\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cdewg45w5kno?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Typewriter in the Sky is a science fantasy novel by American writer L.",
-      "body": "The protagonist Mike de Wolf finds himself inside the story of his friend Horace Hackett's book. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%22Typewriter_in_the_Sky%22_and_%22Fear%22%2C_by_L._Ron_Hubbard.jpg/330px-%22Typewriter_in_the_Sky%22_and_%22Fear%22%2C_by_L._Ron_Hubbard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Pilgrims of the Night is a 1921 American drama film directed by Edward Sloman and starring Lewis Stone, Rubye De Remer and William V.",
+      "body": "It is based on the 1910 novel Passers-By by the British writer E. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Pilgrims_of_the_Night_%281921%29_-_8.jpg/330px-Pilgrims_of_the_Night_%281921%29_-_8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Typewriter_in_the_Sky"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "How to safely watch a solar eclipse",
-      "body": "Video: 00:01:34 [English]: A solar eclipse is an unforgettable sight, but only if you watch it safely! ESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Could a couch-to-5k for books get you back into reading?",
-      "body": "<p>With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habit</p><p>Do you feel that it’s harder to read than it used to be? Not harder to read ema",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading"
+      "url": "https://en.wikipedia.org/wiki/Pilgrims_of_the_Night"
     }
   ]
 }
