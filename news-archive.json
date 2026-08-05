@@ -2,6 +2,26 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
+    "body": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
+    "_t": 1785967337454
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Kate Nash on Irish history, heritage and covering Sinéad O'Connor",
+    "body": "Kate Nash will perform at The Mac as part of the fringe programme for the Fleadh Cheoil na hÉireann",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/c5y0e4dx8w9o?at_medium=RSS&at_campaign=rss",
+    "_t": 1785967337454
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "The Guardian · Books —",
     "hook": "The 100 best novels of all time",
     "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
@@ -578,25 +598,5 @@
     "src": "The Guardian · Film",
     "url": "https://www.theguardian.com/film/2026/aug/05/queens-of-the-dead-review-drag-zombie-comedy",
     "_t": 1785914932344
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "Himmler’s ‘anti-Nazi’ masseur: exposing the lies and fantasies of the SS chief’s ‘magic Buddha’",
-    "body": "<p>Felix Kersten, the personal therapist of Hitler’s principal enforcer, claimed to have saved countless lives from the Holocaust. A new feature film exposes him as a narcissist prone to myth-making</p><p>Five years ago, German writer-direc",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/aug/05/himmlers-anti-nazi-masseur-exposing-the-lies-and-fantasies-of-the-ss-chiefs-magic-buddha",
-    "_t": 1785914932345
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Books —",
-    "hook": "The Ghost of the Mountains by Kulbhushansingh Suryawanshi review – the secrets of the snow leopard",
-    "body": "<p>An Indian mountaineer follows in the footsteps of explorers and conservationists in search of an enigmatic animal</p><p>When bored, try the following game – I call it “Purr or Roar?”. Take any feline and guess whether it can purr or roar",
-    "src": "The Guardian · Books",
-    "url": "https://www.theguardian.com/books/2026/aug/05/the-ghost-of-the-mountains-by-kulbhushansingh-suryawanshi-review-the-secrets-of-the-snow-leopard",
-    "_t": 1785914932345
   }
 ]
