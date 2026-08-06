@@ -1,199 +1,179 @@
 {
-  "generated": "2026-08-06T07:29:24.803Z",
-  "count": 20,
+  "generated": "2026-08-06T10:21:13.325Z",
+  "count": 18,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1945 —",
+      "hook": "World War II: Hiroshima, Japan is devastated when the atomic bomb \"Little Boy\" is dropped by the United States B-29 Enola Gay. Around 70,000 people are killed instantly, and some tens of thousands die in subsequent years from burns and radiation poisoning.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Bluest Eye is the first novel written by American author Toni Morrison and published in 1970.",
-      "body": "It takes place in Lorain, Ohio, and tells the story of a young African-American girl named Pecola who grew up following the Great Depression. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Toni_Morrison_%28The_Bluest_Eye_author_portrait%29.jpg/330px-Toni_Morrison_%28The_Bluest_Eye_author_portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Catch Trap is a 1979 novel by American writer Marion Zimmer Bradley set in the U.S.",
+      "body": "circus world of the 1940s-1950s, centering on the professional and romantic partnership of two trapeze artists. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/The_Catch_Trap_-_First_Edition_Hardcover_-_Book_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Bluest_Eye"
+      "url": "https://en.wikipedia.org/wiki/The_Catch_Trap"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Sky City by Jacqueline Crooks review – an ambitious, lyrical portrait of trauma",
-      "body": "<p>A young woman is haunted by her childhood in this forcefully imaginative and unapologetically bleak novel from the author of Fire Rush</p><p>The world of Sky City never quite settles beneath your feet. The action of Jacqueline Crooks’s s",
+      "hook": "A Sense of Occasion by Brodie Crellin review – a surprising and darkly funny debut",
+      "body": "<p>A dysfunctional family comes together for a funeral in this heartfelt, keenly observed novel </p><p>Most of us come upon our family’s dysfunctions gradually, like a door that opens a little wider each year. This uncle, you find out, has ",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/06/sky-city-by-jacqueline-crooks-review-an-ambitious-lyrical-portrait-of-trauma"
+      "url": "https://www.theguardian.com/books/2026/aug/05/a-sense-of-occasion-by-brodie-crellin-review-a-surprising-and-darkly-funny-debut"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Mayaponman is a 1997 Indian Malayalam-language film directed by Thulasidas.",
+      "body": "It had Dileep, Kalabhavan Mani and Mohini. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4c/Mayaponman.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mayaponman"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1997 —",
-      "hook": "Korean Air Flight 801 crashed at Nimitz Hill, Guam, killing 229 of the 254 people on board.",
-      "body": "Korean Air Flight 801 was a scheduled international passenger flight operated by Korean Air, from Gimpo International Airport, Seoul to Antonio B. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Korean_Airlines_flight_801_crash_site.jpg/330px-Korean_Airlines_flight_801_crash_site.jpg",
+      "opener": "On this day in 1996 —",
+      "hook": "NASA announces that the ALH 84001 meteorite, thought to originate from Mars, contains evidence of primitive life-forms.",
+      "body": "The National Aeronautics and Space Administration is an independent agency of the U.S. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Korean_Air_Flight_801"
+      "url": "https://en.wikipedia.org/wiki/NASA"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Locarno pays tribute to Isabella Rossellini as festival kicks off with ‘The Green Eyes’ premiere",
+      "body": "Artistic director Giona A Nazzaro led round of applause for two of his Locarno predecessors who died this year, Moritz de Hadeln and Lili Hinstin",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/locarno-pays-tribute-to-isabella-rossellini-as-festival-kicks-off-with-the-green-eyes-premiere/5219147.article"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "How to Feed a Dictator review – what was on the menu for some of the world’s most evil men",
-      "body": "<p>Andrew Neel’s documentary contrasts the lavish dishes eaten by heads of repressive states – served by largely unrepentant staff – with the starvation faced by their citizens</p><p>There are moments in this sly documentary that evoke regu",
+      "hook": "Super Troopers 3 review – misfiring cop comedy threequel",
+      "body": "<p>The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence</p><p>Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/06/how-to-feed-a-dictator-review-what-was-on-the-menu-for-some-of-the-worlds-most-evil-men"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "He was defeated and forced to flee Chang'an in 784 and was killed in flight.",
-      "body": "Zhu Ci was a Chinese military general, monarch, and rebel during the Tang dynasty. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zhu_Ci"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Secret Cinema seeks to build first long-term venue",
-      "body": "Planning permission to build a 1,500-seat venue in Greenwich Peninsula was granted last month.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw3943zeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1991 —",
-      "hook": "Tim Berners-Lee releases files describing his idea for the World Wide Web. WWW makes its first appearance as a publicly available service on the Internet.",
-      "body": "Sir Timothy John Berners-Lee, also known as TimBL, is an English computer scientist best known as the inventor of the World Wide Web, HTML, the URL system, and HTTP. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg/330px-Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1806 —",
-      "hook": "Francis II, Holy Roman Emperor, declares the moribund empire to be dissolved, although he retains power in the Austrian Empire.",
-      "body": "Francis II and I was the last Holy Roman Emperor as Francis II from 1792 to 1806, and the first Emperor of Austria as Francis I from 1804 to 1835. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Francis_II%2C_Holy_Roman_Emperor_by_Friedrich_von_Amerling_%284x5_cropped%29.jpg/330px-Francis_II%2C_Holy_Roman_Emperor_by_Friedrich_von_Amerling_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Francis_II%2C_Holy_Roman_Emperor"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The King's Peace is a fantasy novel by Welsh-Canadian writer Jo Walton, published by Tor Books in October 2000.",
-      "body": "The first of Walton's published novels, it is also the first of three \"Sulien\" novels. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/15/TheKingsPeaceCover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_King's_Peace_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Rihanna is 'in the studio', says partner A$AP Rocky",
-      "body": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2015 —",
-      "hook": "A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.",
-      "body": "The 2015 Abha mosque bombing occurred on 6 August 2015, when a suicide bomb attack killed 17 people at a mosque in the south-western Saudi Arabian city of Abha. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Asir_in_Saudi_Arabia.svg/330px-Asir_in_Saudi_Arabia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2015_Abha_mosque_bombing"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Danger Signal is a 1945 American film noir starring Faye Emerson and Zachary Scott.",
-      "body": "The screenplay was adapted from the 1939 novel of the same name by Phyllis Bottome. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Danger_Signal"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Mercedes Ritchie Lackey is an American writer of fantasy novels.",
-      "body": "Many of her novels and trilogies are interlinked and set in the world of Velgarth, mostly in and around the country of Valdemar. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mercedes_Lackey_by_Gage_Skidmore.jpg/330px-Mercedes_Lackey_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mercedes_Lackey"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Oasis promoter granted Knebworth events licence",
-      "body": "On Monday, it will be 30 years since Oasis played the Hertfordshire venue.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdm008emro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Agapē Agape is a novel by William Gaddis.",
-      "body": "Published posthumously in 2002 by Viking with an afterword by Joseph Tabbi, Agapē Agape was Gaddis' fifth and final novel. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/AgapeAgape.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The French corvette Alecton was a ship in the French Navy in the 19th century.",
+      "body": "She is most famous for having been one of the first surface vessels recorded to have encountered a giant squid (Architeuthis). The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bouyer1867-La_Guyane-p003-Alecton.jpg/330px-Bouyer1867-La_Guyane-p003-Alecton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Agap%C4%93_Agape"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Total solar eclipse: how to watch live from home",
-      "body": "A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from anywhere in the world. Quick links: - Live broadcast on YouTube (12",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 258 —",
-      "hook": "Pope Sixtus II is arrested while celebrating mass and then beheaded with several of his deacons.",
-      "body": "Pope Sixtus II, also written as Pope Xystus II, was Pope from 31 August 257 until his death on 6 August 258. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sandro_Botticelli_%E2%80%93_Sixtus_II.jpg/330px-Sandro_Botticelli_%E2%80%93_Sixtus_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pope_Sixtus_II"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1661 —",
-      "hook": "The Treaty of The Hague is signed by Portugal and the Dutch Republic.",
-      "body": "The Treaty of The Hague was signed on 6 August 1661 between representatives of the Dutch Republic and Portugal. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_The_Hague_(1661)"
+      "url": "https://en.wikipedia.org/wiki/French_corvette_Alecton"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "American witchhunt: how the McCarthy blacklist annihilated the Hollywood left",
-      "body": "<p>A retrospective at the Locarno film festival looks back at the era of Huac’s domination of US culture, uncovering some sobering lessons for now</p><p>In September 2025, Disney and ABC announced that Jimmy Kimmel and his late-night talksh",
+      "hook": "Nadja review – Dracula’s daughter is divine in dreamy lo-fi modern vampire tale of predatory sexuality",
+      "body": "<p>Michael Almereyda’s 1994 horror romance is an indie gem – with a cameo from executive producer David Lynch as a morgue attendant</p><p>Here is an amazing midnight-movie adventure, in the shape of the 1994 Dracula’s daughter horror romanc",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/06/american-witchhunt-how-the-mccarthy-blacklist-annihilated-the-hollywood-left"
+      "url": "https://www.theguardian.com/film/2026/aug/06/nadja-review-dracula-daughter-vampire-tale-michael-almereyda-david-lynch"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Hunt for the Wilderpeople review – Sam Neill is warm and wise in Taika Waititi’s goofily tremendous film",
+      "body": "<p>Waititi’s eccentric drama sends the late actor into the New Zealand wilderness with his young charge, angry authorities in hot pursuit</p><p>The recent sad loss of Sam Neill is a great opportunity to revisit one of his greatest roles, in",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/06/hunt-for-the-wilderpeople-review-sam-neill-taika-waititi"
     },
     {
       "type": "card",
       "cat": "history",
+      "opener": "On this day in 1890 —",
+      "hook": "At Auburn Prison in New York, murderer William Kemmler becomes the first person to be executed by electric chair.",
+      "body": "Auburn Correctional Facility is a state prison on State Street in Auburn, New York, United States. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Auburn_Correctional_Facility"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Funeral of Irish actress Brenda Fricker under way in Dublin",
+      "body": "The service will commence at 11:00 local time at St. Catherine's Church in Dublin.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c9w07qejvj1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1940 —",
+      "hook": "Estonia is annexed by the Soviet Union.",
+      "body": "Estonia, officially the Republic of Estonia, is a country in the Baltic region of Northern Europe. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/330px-Flag_of_Estonia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Estonia"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "He represented Lambton East in the Legislative Assembly of Ontario from 1905 to 1908 as a Conservative member.",
-      "body": "Hugh Montgomery was a Canadian farmer and political figure in Ontario. Bring it up somewhere. Watch the reaction.",
+      "hook": "Rafael Sender is a Spanish writer.",
+      "body": "He studied at the University of Barcelona, where he has lived since the age of three. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hugh_Montgomery_(Canadian_politician)"
+      "url": "https://en.wikipedia.org/wiki/Rafael_Sender"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Apes of God is a 1930 novel by the British artist and writer Wyndham Lewis.",
+      "body": "It is a satire of London's contemporary literary and artistic scene. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/51/TheApesOfGod.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Apes_of_God"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1870 —",
+      "hook": "Franco-Prussian War: The Battle of Wörth results in a decisive German victory.",
+      "body": "The Battle of Wörth, also known as the Battle of Reichshoffen or as the Battle of Frœschwiller, refers to the second battle of Wörth, which took place on 6 August 1870 in the opening stages of the Franco-Prussian War. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Wuerttemberger_bei_Woerth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_W%C3%B6rth"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1958 —",
+      "hook": "Law of Permanent Defense of Democracy, outlawing the Communist Party of Chile and banning 26,650 persons from the electoral lists, is repealed in Chile.",
+      "body": "In 1948, on the initiative of Chilean President Gabriel González Videla, the Chilean National Congress enacted the Permanent Defense of Democracy Law, referred to by many as the Damned Law, which outlawed the Communist Party of Chile and banned 26,650 persons from the electoral lists. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Stalin-image_in_Santiago_de_Chile_1943.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Law_of_Permanent_Defense_of_Democracy"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "From pre-sales to distribution: inside UK indie filmmaking with 'Sunny Dancer' team - The Screen Podcast",
+      "body": "Filmmaker and producer George Jaques and producer Ken Petrie tell all.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/from-pre-sales-to-distribution-inside-uk-indie-filmmaking-with-sunny-dancer-team-the-screen-podcast/5219134.article"
     }
   ]
 }
