@@ -1,93 +1,7 @@
 {
-  "generated": "2026-08-07T10:39:28.097Z",
-  "count": 14,
+  "generated": "2026-08-07T11:35:20.088Z",
+  "count": 18,
   "items": [
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The population was 1,784 at the 2020 census.",
-      "body": "Woodworth is an unincorporated community and census-designated place in Beaver Township, Mahoning County, Ohio, United States. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Mahoning_County_Ohio_incorporated_and_unincorporated_areas_Woodworth_highlighted.png/330px-Mahoning_County_Ohio_incorporated_and_unincorporated_areas_Woodworth_highlighted.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Woodworth%2C_Ohio"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Slugs, also referred to as Slugs: The Movie is a 1988 English-language Spanish natural horror film directed by Juan Piquer Simón, and co-written by Simon with Ron Gantman.",
-      "body": "Based on the 1982 novel of the same name by Shaun Hutson, it tells the story of a small town whose locals are terrorised by aggressive carnivorous slugs. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/89/Slugs-film-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Slugs_(1988_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Drought and heat push Europe&#8217;s power grid to breaking point",
-      "body": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Total solar eclipse: how to watch live from home",
-      "body": "A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from anywhere in the world. Quick links: - Live broadcast on YouTube (12",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Yiheng Wang is a Chinese competitive speedcuber who holds the 4th fastest single solve of 3.06 seconds, and the world record fastest average of 3.51 seconds.",
-      "body": "He also holds the second best 2x2x2 average with a time of 0.87 seconds. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Yiheng_Wang"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Chronicler of the Winds is a novel written by Henning Mankell in Swedish in 1995.",
-      "body": "The story is set in an unnamed port city in Africa which resembles Maputo, the capital of Mozambique, where the author often lived and worked. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Com%C3%A9diaInfantil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chronicler_of_the_Winds"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Last House review – post-Covid apocalyptic lockdown thriller is a solid night in",
-      "body": "<p>Oscar nominee Wagner Moura and Greta Lee lead Netflix’s sci-fi tale of a family trapped in their house as something sinister arrives</p><p>Most of us aren’t truly ready for films that directly cover the recent horrors of Covid and, well,",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/07/the-last-house-review-thriller-movie"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Thunderball is the ninth book and the eighth novel in Ian Fleming's James Bond series.",
-      "body": "It was published in the UK by Jonathan Cape on 27 March 1961. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/IanFleming_Thunderball.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Thunderball_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Edinburgh director Paul Ridd on why he would love to create a film market at the festival",
-      "body": "”It starts with building the confidence of the market, of sales reps, producers, filmmakers.”",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/edinburgh-director-paul-ridd-on-why-he-would-love-to-create-a-film-market-at-the-festival/5219175.article"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -100,11 +14,21 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What Happened to Liberal Democracy? by Daron Acemoğlu review – how to fix the system",
-      "body": "<p>The Nobel-winning economist takes aim at elites for no longer meeting the needs of the masses</p><p>In 2009, the tech billionaire Peter Thiel published an essay with the portentous title The Education of a Libertarian, in which he announ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/07/what-happened-to-liberal-democracy-by-daron-acemoglu-review-how-to-fix-the-system"
+      "opener": "Screen Daily —",
+      "hook": "Locarno pays tribute to Isabella Rossellini as festival kicks off with ‘The Green Eyes’ premiere",
+      "body": "Artistic director Giona A Nazzaro led round of applause for two of his Locarno predecessors who died this year, Moritz de Hadeln and Lili Hinstin",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/locarno-pays-tribute-to-isabella-rossellini-as-festival-kicks-off-with-the-green-eyes-premiere/5219147.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Smartest Giant in Town is a 2002 British children's book written by British writer and playwright Julia Donaldson, illustrated by Axel Scheffler and published by Macmillan Publishers.",
+      "body": "The story follows a giant named George who is the scruffiest giant in town. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Smartest_Giant_in_Town"
     },
     {
       "type": "card",
@@ -117,23 +41,139 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1679 —",
+      "hook": "The brigantine Le Griffon becomes the first ship to sail the upper Great Lakes of North America.",
+      "body": "A brigantine is a two-masted sailing vessel with a fully square-rigged foremast and at least two sails on the main mast: a square topsail and a gaff sail mainsail. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Brigantine_copperEtch.png/330px-Brigantine_copperEtch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Brigantine"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1946 —",
+      "hook": "The government of the Soviet Union presented a note to its Turkish counterparts which refuted the latter's sovereignty over the Turkish Straits, thus beginning the Turkish Straits crisis.",
+      "body": "The Soviet Union, officially the Union of Soviet Socialist Republics (USSR), was a transcontinental country that spanned much of Eurasia from its formation in 1922 until its dissolution in 1991. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Union"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "SpaceX crash site on moon revealed by South Korean orbiter",
+      "body": "An out-of-control SpaceX rocket that crashed into the moon earlier this week did, in fact, leave an impact crater, according to images from a Korea AeroSpace Administration lunar orbiter that caught before-and-after photographs",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583782-spacex-crash-site-on-moon-revealed-by-south-korean-orbiter/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Drought and heat push Europe&#8217;s power grid to breaking point",
+      "body": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Gate of Ivrel is a 1976 novel by American writer C.",
-      "body": "Cherryh, her first published work. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/34/CherryhGateIvrelCover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "You probably never noticed this —",
+      "hook": "The Cloward–Piven strategy is a political strategy outlined in 1966 by American sociologists and political activists Richard Cloward and Frances Fox Piven.",
+      "body": "The strategy aims to utilize \"militant anti poverty groups\" to facilitate a \"political crisis\" by overloading the welfare system via an increase in welfare claims, forcing the creation of a system of guaranteed minimum income and \"redistributing income through",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gate_of_Ivrel"
+      "url": "https://en.wikipedia.org/wiki/Cloward%E2%80%93Piven_strategy"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1890 —",
+      "hook": "Anna Månsdotter, found guilty of the 1889 Yngsjö murder, became the last woman to be executed in Sweden.[better source needed]",
+      "body": "The Yngsjö murder is the common name of one of Sweden's most notorious murder cases, which occurred on March 28, 1889, in Yngsjö, Skåne. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Yngsj%C3%B6_murder"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1993 —",
+      "hook": "Ada Deer, a Menominee activist, is sworn in as the head of the Bureau of Indian Affairs.",
+      "body": "Ada Elizabeth Deer was an American scholar and civil servant who was a member of the Menominee Indian Tribe of Wisconsin and a Native American advocate. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ada_E._Deer.jpg/330px-Ada_E._Deer.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ada_Deer"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Fabiola is a 1949 Italian language motion picture historical drama directed by Alessandro Blasetti, very loosely based on the 1854 novel Fabiola by Nicholas Patrick Wiseman.",
-      "body": "The film stars Michèle Morgan, Henri Vidal and Michel Simon. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/2a/Fabiola_1949_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Unified Silla, Late Silla, or Greater Silla is the name often applied to the historical period of the Korean kingdom of Silla after its conquest of Goguryeo in 668 AD, which marked the end of the Three Kingdoms period.",
+      "body": "In the 7th century, a Silla–Tang alliance conquered Baekje in the Baekje–Tang War. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/History_of_Korea-Inter-country_Age-830_CE.gif/330px-History_of_Korea-Inter-country_Age-830_CE.gif",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fabiola_(1949_film)"
+      "url": "https://en.wikipedia.org/wiki/Unified_Silla"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "A Manji was a Sikh religious administrative unit, similar to a parish or diocese, for the propagation of Sikhism.",
+      "body": "It was part of the Sikh missionary administrative organization founded by Guru Amar Das, the third Guru of Sikhism. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/22_Missionaries_established_by_Guru_Amardas.jpg/330px-22_Missionaries_established_by_Guru_Amardas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Manji_(Sikhism)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 461 —",
+      "hook": "Roman Emperor Majorian is beheaded near the river Iria in north-west Italy following his arrest and deposition by the magister militum Ricimer.",
+      "body": "Majorian was Western Roman emperor from 457 to 461. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Solidus_Majorian_Arles_%28obverse%29.jpg/330px-Solidus_Majorian_Arles_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Majorian"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The 1852 Atlantic hurricane season was the first of only three Atlantic hurricane seasons in which every known tropical cyclone attained hurricane status, preceding 1858 and 1884.",
+      "body": "Five tropical cyclones were reported during the season, which lasted from late August to the middle of October. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/1852_Atlantic_hurricane_season_summary_map.png/330px-1852_Atlantic_hurricane_season_summary_map.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1852_Atlantic_hurricane_season"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Could geoengineering ‘ice arches’ help preserve Arctic sea ice?",
+      "body": "Researchers are investigating whether artificially thickening ice blockages between Canada and Greenland could prevent huge amounts of sea ice from flowing south to melt",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583296-could-geoengineering-ice-arches-help-preserve-arctic-sea-ice/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1743 —",
+      "hook": "The Treaty of Åbo ended the 1741–1743 Russo-Swedish War.",
+      "body": "The Treaty of Åbo, or the Treaty of Turku, was a peace treaty signed between the Russian Empire and Sweden in Åbo (Turku) on 18 August [O.S. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Altfinnland.png/330px-Altfinnland.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_%C3%85bo"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best recent science fiction, fantasy and horror – review roundup",
+      "body": "<p>The Salt King by Natasha Pulley; A Trade of Blood by Robert Jackson Bennett; Netherwood by Jake Arnott; Fawn by CN Vair</p><p><strong><a href=\"https://guardianbookshop.com/the-salt-king-9781399632966/?utm_source=editoriallink&amp;utm_med",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/07/the-best-recent-science-fiction-fantasy-and-horror-review-roundup"
     }
   ]
 }
