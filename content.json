@@ -1,84 +1,24 @@
 {
-  "generated": "2026-08-07T18:34:49.397Z",
+  "generated": "2026-08-07T19:41:28.410Z",
   "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2007 —",
-      "hook": "At AT&T Park, Barry Bonds hits his 756th career home run to surpass Hank Aaron's 33-year-old record.",
-      "body": "Oracle Park is a ballpark in the South Beach neighborhood of San Francisco, California, United States. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oracle_Park_2021.jpg/330px-Oracle_Park_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Park"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1909 —",
-      "hook": "Alice Huyler Ramsey and three friends become the first women to complete a transcontinental auto trip, taking 59 days to travel from New York, New York to San Francisco, California.",
-      "body": "Alice Huyler Ramsey was an American who was the first woman to drive an automobile across the United States from coast to coast, a feat she completed on August 7, 1909. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alice_Ramsey_ggbain.03065_%28headshot%29.jpg/330px-Alice_Ramsey_ggbain.03065_%28headshot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Alice_Huyler_Ramsey"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Dragondrums is a young adult science fiction novel by the American-Irish author Anne McCaffrey.",
-      "body": "Published by Atheneum Books in 1979, it is the sixth book in the Dragonriders of Pern series. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c8/Dragondrums.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dragondrums"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1461 —",
-      "hook": "The Ming dynasty Chinese military general Cao Qin stages a coup against the Tianshun Emperor.",
-      "body": "The Ming dynasty, officially the Great Ming, was an imperial dynasty of China that ruled from 1368 to 1644, following the collapse of the Mongol-led Yuan dynasty. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Map_of_Ming_Chinese_empire_1415_%28cropped_2%29.jpg/330px-Map_of_Ming_Chinese_empire_1415_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ming_dynasty"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Newell Convers Wyeth was an American painter and illustrator.",
-      "body": "He was a student of Howard Pyle and became one of America's most well-known illustrators. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NC_Wyeth_ca1920.jpg/330px-NC_Wyeth_ca1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/N._C._Wyeth"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Singer Self Esteem to make cinematic debut in film set in 1980s",
+      "body": "Pop singer Self Esteem is set to star in upcoming film Mountain from Welsh director Celyn Jones.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5x1xn8dno?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Monsters of God review – a messy feud between rival reptile smugglers gets the Tiger King treatment",
-      "body": "<p>Director Eric Goode has found two enemies to rival Joe Exotic and Carole Baskin in his new documentary about the animal trade’s underworld</p><p>Through the fear and general miasma of the Covid pandemic, TV brought people together like n",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/07/monsters-of-god-review-hbo-max-documentary-reptile-smugglers"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Prince to Madonna, Blur to Beth Orton: William Orbit’s 12 greatest recordings",
-      "body": "<p>The late producer’s gift for bringing in elements from dance music’s cutting edge drew all manner of music royalty – and he often made them sound better than ever before</p><p>• <a href=\"https://www.theguardian.com/music/2026/aug/07/will",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/07/william-orbit-greatest-recordings-prince-madonna-blur-beth-orton"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Black Spot is a literary device created by Robert Louis Stevenson for his novel Treasure Island.",
-      "body": "It is a message written on paper or card, signifying the verdict of accused pirates. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TI-BlackSpot.jpg/330px-TI-BlackSpot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Black_Spot_(Treasure_Island)"
+      "opener": "The Guardian · Books —",
+      "hook": "Jason Arday claimed he was paid ‘1.4 million’ by publisher for memoir",
+      "body": "<p>Simon &amp; Schuster still plans to publish book by Cambridge academic who resigned this week amid plagiarism claims</p><p>Jason Arday, the former Cambridge professor accused of plagiarism and embellishment, claimed he was paid “1.4 mill",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge"
     },
     {
       "type": "card",
@@ -91,6 +31,65 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Disputa de l’ase (1417) is a Catalan medieval novel.",
+      "body": "It is about the discussion between a monk and a donkey about the human superiority over the other animals. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Llibre_de_disputaci%C3%B3_de_l%27ase_%281922%29.djvu/page1-330px-Llibre_de_disputaci%C3%B3_de_l%27ase_%281922%29.djvu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Disputa_de_l'ase"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Ping'er is an important character in the 18th century Chinese novel Dream of the Red Chamber.",
+      "body": "She is Wang Xifeng's chief maid and personal assistant/confidante, who follows her from the Wang family. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ping'er"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1927 —",
+      "hook": "The Peace Bridge opens between Fort Erie, Ontario and Buffalo, New York.",
+      "body": "The Peace Bridge is an international bridge over the Niagara River between Canada and the United States, located just north of the river's source at the east end of Lake Erie about 20 kilometres (12.4 mi) upriver of Niagara Falls. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Peace_Bridge.jpg/330px-Peace_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Peace_Bridge"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Prince to Madonna, Blur to Beth Orton: William Orbit’s 12 greatest recordings",
+      "body": "<p>The late producer’s gift for bringing in elements from dance music’s cutting edge drew all manner of music royalty – and he often made them sound better than ever before</p><p>• <a href=\"https://www.theguardian.com/music/2026/aug/07/will",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/07/william-orbit-greatest-recordings-prince-madonna-blur-beth-orton"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1962 —",
+      "hook": "Canadian-born American pharmacologist Frances Oldham Kelsey is awarded the U.S. President's Award for Distinguished Federal Civilian Service for her refusal to authorize thalidomide.",
+      "body": "Frances Kathleen Oldham Kelsey was a Canadian-American pharmacologist and physician who had a 45-year career with the U.S. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/Frances_Oldham_Kelsey.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Frances_Oldham_Kelsey"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1782 —",
+      "hook": "George Washington orders the creation of the Badge of Military Merit to honor soldiers wounded in battle. It is later renamed to the more poetic Purple Heart.",
+      "body": "George Washington was a Founding Father and the first president of the United States, serving from 1789 to 1797. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/330px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/George_Washington"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
       "hook": "Stephen Bear jailed for harassing ex-partner Georgia Harrison",
@@ -100,22 +99,23 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Sam Neill filmed role in Legend of Zelda film adaptation before his death",
-      "body": "<p>The New Zealand actor, who died last month aged 78, will appear in live-action movie of popular video game, which is set for release next year</p><p>The New Zealand actor Sam Neill completed filming of a role in the forthcoming adaptatio",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/07/sam-neill-legend-of-zelda-film-video-game-before-death"
+      "cat": "history",
+      "opener": "On this day in 2020 —",
+      "hook": "Air India Express Flight 1344 overshoots the runway at Calicut International Airport in the Malappuram district of Kerala, India, and crashes, killing 21 of the 190 people on board.",
+      "body": "Air India Express Flight 1344 was a scheduled international flight operated by a Boeing 737-800 on 7 August 2020 from Dubai, United Arab Emirates, to Kozhikode, India, landing at Calicut International Airport. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/VT-AXH_B738_Air_India_Express_DXB_20180404.jpg/330px-VT-AXH_B738_Air_India_Express_DXB_20180404.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Air_India_Express_Flight_1344"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 461 —",
-      "hook": "Roman Emperor Majorian is beheaded near the river Iria in north-west Italy following his arrest and deposition by the magister militum Ricimer.",
-      "body": "Majorian was Western Roman emperor from 457 to 461. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Solidus_Majorian_Arles_%28obverse%29.jpg/330px-Solidus_Majorian_Arles_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Majorian"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Moribito II: Guardian of the Darkness is the second book in the Moribito series, a series of fantasy novels by Japanese author Nahoko Uehashi.",
+      "body": "It was written in 1999 and published by Kaisei-Sha Publishing Co., Ltd. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/Moribito_II_Guardian_of_Darkness.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moribito_II%3A_Guardian_of_the_Darkness"
     },
     {
       "type": "card",
@@ -128,12 +128,22 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Darkest Corner of the World is a debut novel by Urve Tamberg, published in September 2012.",
+      "body": "The novel was launched at Tartu College in Toronto. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/The_Darkest_Corner_of_the_World_by_Urve_Tamberg.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Darkest_Corner_of_the_World"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Singer Self Esteem to make cinematic debut in film set in 1980s",
-      "body": "Pop singer Self Esteem is set to star in upcoming film Mountain from Welsh director Celyn Jones.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5x1xn8dno?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Culture —",
+      "hook": "Monsters of God review – a messy feud between rival reptile smugglers gets the Tiger King treatment",
+      "body": "<p>Director Eric Goode has found two enemies to rival Joe Exotic and Carole Baskin in his new documentary about the animal trade’s underworld</p><p>Through the fear and general miasma of the Covid pandemic, TV brought people together like n",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/07/monsters-of-god-review-hbo-max-documentary-reptile-smugglers"
     },
     {
       "type": "card",
@@ -141,39 +151,29 @@
       "opener": "On this day in 1479 —",
       "hook": "Battle of Guinegate: French troops of King Louis XI were defeated by the Burgundians led by Archduke Maximilian of Habsburg.",
       "body": "The First Battle of Guinegate took place on 7 August 1479. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Die_Schlacht_von_Therouanne_-_Guinegate_1479.jpg/330px-Die_Schlacht_von_Therouanne_-_Guinegate_1479.jpg",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Die_Schlacht_von_Therouanne_-_Guinegate_1479.jpg/330px-Die_Schlacht_von_Therouanne_-_Guinegate_1479.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Guinegate_(1479)"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Winds of Winter is the planned sixth and penultimate novel of the epic fantasy series A Song of Ice and Fire by American writer George R.",
-      "body": "The novel, which has been in the works since 2011, has been described as one of the most anticipated books in modern history. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Winds_of_Winter"
+      "cat": "history",
+      "opener": "On this day in 626 —",
+      "hook": "The Avar and Slav armies leave the siege of Constantinople.",
+      "body": "The Pannonian Avars or Carpathian Avars were a confederation of Eurasian nomads. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Avar_Khaganate_Map_602.png/330px-Avar_Khaganate_Map_602.png",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pannonian_Avars"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Come Away, Death is a 1937 mystery detective novel by the British writer Gladys Mitchell.",
-      "body": "It is the eighth in her long-running series featuring the psychoanalyst and amateur detective Mrs Bradley. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/Come_Away%2C_Death_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Koanga is an opera written between 1896 and 1897, with music by Frederick Delius and a libretto by Charles Francis Keary, inspired partly by the book The Grandissimes: A Story of Creole Life by George Washington Cable (1880).",
+      "body": "Inspiration also came from Delius's own experiences as a young man, when his family sent him to work in Florida. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rosen_-_Frederick_Delius.jpg/330px-Rosen_-_Frederick_Delius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Come_Away%2C_Death_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1985 —",
-      "hook": "Takao Doi, Mamoru Mohri and Chiaki Mukai are chosen to be Japan's first astronauts.",
-      "body": "Takao Doi is a Japanese astronaut, engineer and veteran of two NASA Space Shuttle missions. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Doi.jpg/330px-Doi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Takao_Doi"
+      "url": "https://en.wikipedia.org/wiki/Koanga"
     }
   ]
 }
