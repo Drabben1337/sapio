@@ -1,15 +1,55 @@
 {
-  "generated": "2026-08-07T20:25:24.543Z",
-  "count": 19,
+  "generated": "2026-08-07T21:25:44.759Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Felix Mnthali is a Malawian poet, novelist and playwright.",
+      "body": "Educated at what is now the National University of Lesotho, Mnthali's works include a book of poetry, When Sunset Comes to Sapitwa (1980), and a novel, My Dear Anniversary (1992). Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Felix_Mnthali"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1679 —",
+      "hook": "The brigantine Le Griffon becomes the first ship to sail the upper Great Lakes of North America.",
+      "body": "A brigantine is a two-masted sailing vessel with a fully square-rigged foremast and at least two sails on the main mast: a square topsail and a gaff sail mainsail. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Brigantine_copperEtch.png/330px-Brigantine_copperEtch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Brigantine"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1479 —",
+      "hook": "Battle of Guinegate: French troops of King Louis XI were defeated by the Burgundians led by Archduke Maximilian of Habsburg.",
+      "body": "The First Battle of Guinegate took place on 7 August 1479. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Die_Schlacht_von_Therouanne_-_Guinegate_1479.jpg/330px-Die_Schlacht_von_Therouanne_-_Guinegate_1479.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Guinegate_(1479)"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Singer Self Esteem to make cinematic debut in film set in 1980s",
-      "body": "Pop singer Self Esteem is set to star in upcoming film Mountain from Welsh director Celyn Jones.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5x1xn8dno?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Culture —",
+      "hook": "Monsters of God review – a messy feud between rival reptile smugglers gets the Tiger King treatment",
+      "body": "<p>Director Eric Goode has found two enemies to rival Joe Exotic and Carole Baskin in his new documentary about the animal trade’s underworld</p><p>Through the fear and general miasma of the Covid pandemic, TV brought people together like n",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/07/monsters-of-god-review-hbo-max-documentary-reptile-smugglers"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Larger than Life, also translated as The Singularity, is a 1960 novel by the Italian writer Dino Buzzati.",
+      "body": "It tells the story of a scientist who becomes entangled with a large electronic machine in which the woman he loves is reincarnated. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/IlGrandeRitratto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Larger_than_Life_(novel)"
     },
     {
       "type": "card",
@@ -19,6 +59,16 @@
       "body": "<p>The comedian and broadcaster narrates the heartfelt and at times self-lacerating account of his relationship with alcohol</p><p>A memoir chronicling the comic and broadcaster John Robins’s life in alcohol and his subsequent path to sobri",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/2026/aug/06/thirst-by-john-robins-audiobook-review-an-ex-drinkers-darkly-funny-journey"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Voss (1957) is the fifth published novel by Patrick White.",
+      "body": "It is based upon the life of the 19th-century Prussian explorer and naturalist Ludwig Leichhardt, who disappeared while on an expedition into the Australian outback. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/31/Foto_038.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Voss_(novel)"
     },
     {
       "type": "card",
@@ -32,130 +82,51 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 461 —",
-      "hook": "Roman Emperor Majorian is beheaded near the river Iria in north-west Italy following his arrest and deposition by the magister militum Ricimer.",
-      "body": "Majorian was Western Roman emperor from 457 to 461. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Solidus_Majorian_Arles_%28obverse%29.jpg/330px-Solidus_Majorian_Arles_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1989 —",
+      "hook": "U.S. Congressman Mickey Leland (D-TX) and 15 others die in a plane crash in Ethiopia.",
+      "body": "George Thomas \"Mickey\" Leland III was an American politician and anti-poverty activist. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mickey_Leland.jpg/330px-Mickey_Leland.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Majorian"
+      "url": "https://en.wikipedia.org/wiki/Mickey_Leland"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Olivia Rodrigo review – crushing riffs and infectious hooks at secret New York show",
-      "body": "<p><strong>Warsaw, Brooklyn, New York</strong></p><p>Playing to just 1,000 fans, Rodrigo’s pop-up show is a thrillingly intimate showcase of her tour de force talent</p><p>At 10am on Thursday, Olivia Rodrigo announced in an Instagram post t",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/07/olivia-rodrigo-review-brooklyn-warsaw-show"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Scholomance Trilogy is a series of three fantasy novels written by American author Naomi Novik.",
-      "body": "The books follow the adventures of Galadriel \"El\" Higgins during and after attending a dangerous and magical boarding school for wizards named after the magic school Scholomance from Romanian folklore. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Scholomance_Trilogy"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "French Silk is a romance novel written by Sandra Brown.",
-      "body": "It was published in 1992, and made the New York Times bestseller list. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/04/French_Silk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/French_Silk"
+      "cat": "history",
+      "opener": "On this day in 1976 —",
+      "hook": "Viking program: Viking 2 enters orbit around Mars.",
+      "body": "The Viking program consisted of a pair of identical American space probes, Viking 1 and Viking 2 both launched in 1975, and landed on Mars in 1976. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Viking_Orbiter_releasing_the_lander.jpg/330px-Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Viking_program"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Murder Me, Murder You is a 1983 American made-for-television mystery film starring Stacy Keach as Mickey Spillane's iconic hardboiled private detective Mike Hammer.",
-      "body": "The Dobson film, which did not lead to a series, marked the first time the character was depicted on the small-screen since Darren McGavin played the part in the black-and-white version of Mickey Spillane's Mike Hammer, a syndicated television series (1958–196",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d3/Murder_Me%2C_Murder_You.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "A Thief of Time is a crime novel by American writer Tony Hillerman, the eighth in the Joe Leaphorn/Jim Chee Navajo Tribal Police series, first published in 1988.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/60/A_Thief_of_Time.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Murder_Me%2C_Murder_You"
+      "url": "https://en.wikipedia.org/wiki/A_Thief_of_Time"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1993 —",
+      "hook": "Ada Deer, a Menominee activist, is sworn in as the head of the Bureau of Indian Affairs.",
+      "body": "Ada Elizabeth Deer was an American scholar and civil servant who was a member of the Menominee Indian Tribe of Wisconsin and a Native American advocate. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ada_E._Deer.jpg/330px-Ada_E._Deer.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ada_Deer"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Jason Arday claimed he was paid ‘1.4 million’ by publisher for memoir",
-      "body": "<p>Simon &amp; Schuster still plans to publish book by Cambridge academic who resigned this week amid plagiarism claims</p><p>Jason Arday, the former Cambridge professor accused of plagiarism and embellishment, claimed he was paid “1.4 mill",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1960 —",
-      "hook": "Ivory Coast becomes independent from France.",
-      "body": "Ivory Coast, also known as Côte d'Ivoire and officially as the Republic of Côte d'Ivoire, is a country on the southern coast of West Africa. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/330px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ivory_Coast"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Darling of the Day is a musical with a book by Nunnally Johnson, lyrics by E.",
-      "body": "Harburg, and music by Jule Styne. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/DarlingOfTheDayLP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Darling_of_the_Day"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1930 —",
-      "hook": "The last confirmed lynching of black people in the Northern United States occurs in Marion, Indiana; two men, Thomas Shipp and Abram Smith, are murdered.",
-      "body": "Lynching is an extrajudicial killing by a group. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Lynching"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Jo's Boys, and How They Turned Out: A Sequel to \"Little Men\" is a novel by American author Louisa May Alcott, first published in 1886.",
-      "body": "The novel is the final book in the unofficial Little Women series. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/JosBoysOrig.jpg/330px-JosBoysOrig.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jo's_Boys"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 936 —",
-      "hook": "Coronation of King Otto I of Germany.",
-      "body": "Otto I, known as Otto the Great or Otto of Saxony, was East Frankish (German) king from 936 and Holy Roman Emperor from 962 until his death in 973. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Siegel_Otto_I_Posse.JPG/330px-Siegel_Otto_I_Posse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Otto_the_Great"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1998 —",
-      "hook": "Bombings at United States embassies in Dar es Salaam, Tanzania and Nairobi, Kenya kill approximately 212 people.",
-      "body": "The 1998 United States embassy bombings were a series of terrorist attacks that occurred on August 7, 1998. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg/330px-1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1998_United_States_embassy_bombings"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Since June 29, 2002, the only shareholder has been a Slovak company, HTC Holdings.",
-      "body": "Zetor is a Czech agricultural machinery manufacturer. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zetor_Headquarter.jpg/330px-Zetor_Headquarter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zetor"
+      "opener": "BBC Entertainment —",
+      "hook": "Singer Self Esteem to make cinematic debut in film set in 1980s",
+      "body": "Pop singer Self Esteem is set to star in upcoming film Mountain from Welsh director Celyn Jones.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5x1xn8dno?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -168,22 +139,61 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Monsters of God review – a messy feud between rival reptile smugglers gets the Tiger King treatment",
-      "body": "<p>Director Eric Goode has found two enemies to rival Joe Exotic and Carole Baskin in his new documentary about the animal trade’s underworld</p><p>Through the fear and general miasma of the Covid pandemic, TV brought people together like n",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/07/monsters-of-god-review-hbo-max-documentary-reptile-smugglers"
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The school currently has 443 students enrolled.",
+      "body": "Stockton Early College Academy (SECA), also known as Stockton Unified Early College Academy, is a public four-year charter high school in Stockton, California. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stockton_Early_College_Academy"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1976 —",
-      "hook": "Viking program: Viking 2 enters orbit around Mars.",
-      "body": "The Viking program consisted of a pair of identical American space probes, Viking 1 and Viking 2 both launched in 1975, and landed on Mars in 1976. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Viking_Orbiter_releasing_the_lander.jpg/330px-Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 626 —",
+      "hook": "The Avar and Slav armies leave the siege of Constantinople.",
+      "body": "The Pannonian Avars or Carpathian Avars were a confederation of Eurasian nomads. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Avar_Khaganate_Map_602.png/330px-Avar_Khaganate_Map_602.png",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Viking_program"
+      "url": "https://en.wikipedia.org/wiki/Pannonian_Avars"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "It consists of a basaltic lava field of volcanic origin, covering an area of 220 square kilometres, and contains at least 38 cinder cones.",
+      "body": "As-Safa, also known as Tulul al-Safa, Arabic for Al-Safa hills, is a hilly region which lies in southern Syria, north-east of Jabal al-Druze volcanic plateau. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Es_Safa_Volcanic_Field%2C_Syria.JPG/330px-Es_Safa_Volcanic_Field%2C_Syria.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Al-Safa_(Syria)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Olivia Rodrigo review – crushing riffs and infectious hooks at secret New York show",
+      "body": "<p><strong>Warsaw, Brooklyn, New York</strong></p><p>Playing to just 1,000 fans, Rodrigo’s pop-up show is a thrillingly intimate showcase of her tour de force talent</p><p>At 10am on Thursday, Olivia Rodrigo announced in an Instagram post t",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/07/olivia-rodrigo-review-brooklyn-warsaw-show"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Jason Arday claimed he was paid ‘1.4 million’ by publisher for memoir",
+      "body": "<p>Simon &amp; Schuster still plans to publish book by Cambridge academic who resigned this week amid plagiarism claims</p><p>Jason Arday, the former Cambridge professor accused of plagiarism and embellishment, claimed he was paid “1.4 mill",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "A Touch of Love is a 1969 British drama film directed by Waris Hussein and adapted by Margaret Drabble from her novel The Millstone (1965).",
+      "body": "The film stars Sandy Dennis, Ian McKellen, Michael Coles, John Standing and Eleanor Bron. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/47/A_Touch_of_Love_FilmPoster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Touch_of_Love_(1969_film)"
     }
   ]
 }
