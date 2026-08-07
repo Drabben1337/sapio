@@ -1,64 +1,26 @@
 {
-  "generated": "2026-08-07T01:39:24.069Z",
-  "count": 20,
+  "generated": "2026-08-07T04:16:09.986Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Aisha Ibrahim is a critically-acclaimed Libyan novelist.",
+      "body": "She was born in Beni Walid in 1969. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aisha_Ibrahim_(writer)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Farewell, My Lovely is a 1975 neo-noir mystery film directed by Dick Richards from a screenplay by David Zelag Goodman, starring Robert Mitchum as Raymond Chandler's fictional private detective Philip Marlowe.",
-      "body": "The cast also features Charlotte Rampling, John Ireland, Sylvia Miles, Harry Dean Stanton, Joe Spinell, Sylvester Stallone, Jack O'Halloran in his film debut, and hardcore crime novelist Jim Thompson in his only acting role. The world is stranger than it lets ",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/2c/Poster_Farewell_My_Lovely_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Farewell%2C_My_Lovely_(1975_film)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Dealing with Dragons is a middle grade fantasy novel written by Patricia C.",
-      "body": "Wrede, and is the first book in the Enchanted Forest Chronicles series. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/93/Dealing-with-dragons-first-edition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dealing_with_Dragons"
-    },
-    {
-      "type": "card",
-      "cat": "history",
       "opener": "Bet you didn't know —",
-      "hook": "It is bordered on the north by Park Lane South and Forest Park, on the east by Richmond Hill, on the south by Ozone Park and Atlantic Avenue, and the west by the Cypress Hills area of East New York, Brooklyn.",
-      "body": "Woodhaven is a neighborhood in the southwestern section of the New York City borough of Queens. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Woodhaven_Bl_Jamaica_Av_37.jpg/330px-Woodhaven_Bl_Jamaica_Av_37.jpg",
+      "hook": "A Spy of Napoleon is a 1934 historical novel by the British writer Baroness Emmuska Orczy.",
+      "body": "An illegitimate daughter of Louis Napoleon is taken on as an agent by Napoleon III, ruler of France, who wishes her to marry into and spy on the aristocracy who he suspects of wanting to overthrow him. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/ASpyOfNapoleon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Woodhaven%2C_Queens"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1960 —",
-      "hook": "Ivory Coast becomes independent from France.",
-      "body": "Ivory Coast, also known as Côte d'Ivoire and officially as the Republic of Côte d'Ivoire, is a country on the southern coast of West Africa. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/330px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ivory_Coast"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘We crafted it from our hearts’: the Womack Sisters on continuing a great soul music dynasty",
-      "body": "<p>Their parents were Womack &amp; Womack, Uncle Bobby was a superstar and so was their grandfather, Sam Cooke. The trio explain how, after driving Ubers and being told soul was dead, they joined the family business</p><p>Backstage at a Lon",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/06/womack-sisters-on-continuing-a-great-soul-music-dynasty"
+      "url": "https://en.wikipedia.org/wiki/A_Spy_of_Napoleon"
     },
     {
       "type": "card",
@@ -71,23 +33,12 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Dog Star is a novel by American writer Donald Windham, first published in 1950.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/15/The_Dog_Star_Novel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Dog_Star"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1993 —",
-      "hook": "Ada Deer, a Menominee activist, is sworn in as the head of the Bureau of Indian Affairs.",
-      "body": "Ada Elizabeth Deer was an American scholar and civil servant who was a member of the Menominee Indian Tribe of Wisconsin and a Native American advocate. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ada_E._Deer.jpg/330px-Ada_E._Deer.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ada_Deer"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
     },
     {
       "type": "card",
@@ -100,46 +51,6 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1959 —",
-      "hook": "Explorer program: Explorer 6 launches from the Atlantic Missile Range in Cape Canaveral, Florida.",
-      "body": "The Explorers Program is a NASA exploration program that provides flight opportunities for physics, geophysics, heliophysics, and astrophysics investigations from space. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg/330px-Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Explorers_Program"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Dragon's Gate is a children's historical novel by Laurence Yep, published by HarperCollins in 1995.",
-      "body": "It inaugurated the Golden Mountain Chronicles and is the third chronicle in narrative sequence among ten published as of 2012. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Dragon%27s_Gate_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dragon's_Gate_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Afternoon Men is the first published novel by the English writer Anthony Powell.",
-      "body": "In its characters and themes it anticipates some of the ground Powell would cover in A Dance to the Music of Time, a twelve-volume cycle that spans much of the 20th century and is widely considered Powell's masterpiece. Bring it up somewhere. Watch the reactio",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/59/AfternoonMen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Afternoon_Men"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1947 —",
-      "hook": "The Bombay Municipal Corporation formally takes over the Bombay Electric Supply and Transport (BEST).",
-      "body": "The Brihanmumbai Municipal Corporation (BMC) is the governing civic body of Mumbai, the capital city of Maharashtra. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Emblem_of_Mumbai.png/330px-Emblem_of_Mumbai.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Brihanmumbai_Municipal_Corporation"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
       "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
@@ -149,32 +60,51 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Blood of Others is a 1945 novel by the French existentialist Simone de Beauvoir that depicts the lives of several characters in Paris leading up to and during the Second World War.",
+      "body": "The novel explores themes of freedom and responsibility. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3e/TheBloodOfOthers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Blood_of_Others"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "‘Getting old is no fun’: Game of Thrones author George RR Martin speaks out about depression amid further book delays",
-      "body": "<p>A new blog post by the fantasy writer has outlined his recent difficulties, as fans continue to speculate on the elusive sixth book in his A Song of Ice and Fire series</p><p>George RR Martin has opened up about experiencing depression d",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/05/getting-old-is-no-fun-game-of-thrones-author-george-rr-martin-speaks-out-about-depression-amid-further-book-delays"
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1976 —",
-      "hook": "Viking program: Viking 2 enters orbit around Mars.",
-      "body": "The Viking program consisted of a pair of identical American space probes, Viking 1 and Viking 2 both launched in 1975, and landed on Mars in 1976. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Viking_Orbiter_releasing_the_lander.jpg/330px-Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Viking_program"
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Tod of the Fens is a 1928 children's historical fiction novel written by Elinor Whitney Field and illustrated by Warwick Goble.",
+      "body": "Set in Boston, England, in the early fifteenth century, it is a light-hearted adventure about Tod, a boy who lives with a band of men outside town, and Prince Hal, the heir to the throne, who disguises himself so he can move among the people incognito. The wor",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cover_of_Tod_of_the_Fens_%281928%29.jpg/330px-Cover_of_Tod_of_the_Fens_%281928%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tod_of_the_Fens"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1964 —",
-      "hook": "Vietnam War: The U.S. Congress passes the Gulf of Tonkin Resolution giving U.S. President Lyndon B. Johnson broad war powers to deal with North Vietnamese attacks on American forces.",
-      "body": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Vietnam_War"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘These cooks ripped each other apart’: Dominic Sessa on playing Anthony Bourdain, kitchen bullies and the joys of being a 70s barfly",
+      "body": "<p>After his breakthrough in The Holdovers in 2023, Sessa has gone back to the 70s again for Tony, the biopic of bad-boy chef and Kitchen Confidential author Bourdain. And, he says, a big part of him would like to stay there</p><p>Despite b",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/07/these-cooks-ripped-each-other-apart-dominic-sessa-on-playing-anthony-bourdain-kitchen-bullies-and-the-joys-of-being-a-70s-barfly"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Mignon Desires her Fatherland is an oil on canvas painting by the Dutch-French artist Ary Scheffer, from 1836.",
+      "body": "The picture depicts a young woman, Mignon, inspired from a character in Goethe's 1795-96 novel Wilhelm Meister's Apprenticeship. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/AriSchefferMignon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mignon_Desires_her_Fatherland"
     },
     {
       "type": "card",
@@ -184,16 +114,6 @@
       "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Henry Oscar Beatty was an American lawyer and jurist who served as a justice of the Supreme Court of Nevada from 1864 to 1868, and who was a leading societal figure in Sacramento, California.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/H_O_Beatty.jpg/330px-H_O_Beatty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/H._O._Beatty"
     }
   ]
 }
