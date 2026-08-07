@@ -1,16 +1,7 @@
 {
-  "generated": "2026-08-07T11:35:20.088Z",
-  "count": 18,
+  "generated": "2026-08-07T12:33:34.827Z",
+  "count": 20,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Webb opens a Treasure Chest filled with stars",
-      "body": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy , where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the ",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -22,42 +13,81 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 936 —",
+      "hook": "Coronation of King Otto I of Germany.",
+      "body": "Otto I, known as Otto the Great or Otto of Saxony, was East Frankish (German) king from 936 and Holy Roman Emperor from 962 until his death in 973. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Siegel_Otto_I_Posse.JPG/330px-Siegel_Otto_I_Posse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Otto_the_Great"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1947 —",
+      "hook": "Thor Heyerdahl's balsa wood raft, the Kon-Tiki, smashes into the reef at Raroia in the Tuamotu Islands after a 101-day, 7,000 kilometres (4,300 mi) journey across the Pacific Ocean in an attempt to prove that pre-historic peoples could have traveled from South America.",
+      "body": "Thor Heyerdahl KStJ was a Norwegian adventurer and ethnographer with a background in biology with specialization in zoology, botany and geography. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ThorHeyerdahl.jpg/330px-ThorHeyerdahl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Thor_Heyerdahl"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Smartest Giant in Town is a 2002 British children's book written by British writer and playwright Julia Donaldson, illustrated by Axel Scheffler and published by Macmillan Publishers.",
-      "body": "The story follows a giant named George who is the scruffiest giant in town. One of those things you can't un-know.",
-      "img": null,
+      "opener": "Okay, this one's fun —",
+      "hook": "The Pet Girl of Sakurasou is a Japanese light novel series written by Hajime Kamoshida, with illustrations by Kēji Mizoguchi.",
+      "body": "ASCII Media Works published 13 volumes between January 2010 and March 2014. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Sakura-s%C5%8D_no_Pet_na_Kanojo_light_novel_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Smartest_Giant_in_Town"
+      "url": "https://en.wikipedia.org/wiki/The_Pet_Girl_of_Sakurasou"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Doomsday Book is a 1992 science fiction novel by American author Connie Willis.",
+      "body": "The novel won both the Hugo and Nebula Awards, and was shortlisted for other awards. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/DoomsdayBook%281stEd%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doomsday_Book_(novel)"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Sky City by Jacqueline Crooks review – an ambitious, lyrical portrait of trauma",
-      "body": "<p>A young woman is haunted by her childhood in this forcefully imaginative and unapologetically bleak novel from the author of Fire Rush</p><p>The world of Sky City never quite settles beneath your feet. The action of Jacqueline Crooks’s s",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/06/sky-city-by-jacqueline-crooks-review-an-ambitious-lyrical-portrait-of-trauma"
+      "opener": "The Guardian · Film —",
+      "hook": "Hunt for the Wilderpeople review – Sam Neill is warm and wise in Taika Waititi’s goofily tremendous film",
+      "body": "<p>Waititi’s eccentric drama sends the late actor into the New Zealand wilderness with his young charge, angry authorities in hot pursuit</p><p>The recent sad loss of Sam Neill is a great opportunity to revisit one of his greatest roles, in",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/06/hunt-for-the-wilderpeople-review-sam-neill-taika-waititi"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "From pre-sales to distribution: inside UK indie filmmaking with ‘Sunny Dancer’ team - The Screen Podcast",
+      "body": "Filmmaker and producer George Jaques and producer Ken Petrie tell all.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/from-pre-sales-to-distribution-inside-uk-indie-filmmaking-with-sunny-dancer-team-the-screen-podcast/5219134.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Jack McDevitt is an American science fiction author whose novels frequently deal with attempts to make contact with alien races, and with archaeology or xenoarchaeology.",
+      "body": "Most of his books concern either galactic relic hunters Alex Benedict and Chase Kolpath or superluminal space pilot Priscilla \"Hutch\" Hutchins. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jack-McDevitt1.JPG/330px-Jack-McDevitt1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jack_McDevitt"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1679 —",
-      "hook": "The brigantine Le Griffon becomes the first ship to sail the upper Great Lakes of North America.",
-      "body": "A brigantine is a two-masted sailing vessel with a fully square-rigged foremast and at least two sails on the main mast: a square topsail and a gaff sail mainsail. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Brigantine_copperEtch.png/330px-Brigantine_copperEtch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1989 —",
+      "hook": "The National Cold Fusion Institute opened in Salt Lake City.",
+      "body": "The National Cold Fusion Institute (NCFI) was a nonprofit research institute affiliated with the University of Utah in Salt Lake City, Utah, United States. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Brigantine"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1946 —",
-      "hook": "The government of the Soviet Union presented a note to its Turkish counterparts which refuted the latter's sovereignty over the Turkish Straits, thus beginning the Turkish Straits crisis.",
-      "body": "The Soviet Union, officially the Union of Soviet Socialist Republics (USSR), was a transcontinental country that spanned much of Eurasia from its formation in 1922 until its dissolution in 1991. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Soviet_Union"
+      "url": "https://en.wikipedia.org/wiki/National_Cold_Fusion_Institute"
     },
     {
       "type": "card",
@@ -70,101 +100,71 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Drought and heat push Europe&#8217;s power grid to breaking point",
-      "body": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Cloward–Piven strategy is a political strategy outlined in 1966 by American sociologists and political activists Richard Cloward and Frances Fox Piven.",
-      "body": "The strategy aims to utilize \"militant anti poverty groups\" to facilitate a \"political crisis\" by overloading the welfare system via an increase in welfare claims, forcing the creation of a system of guaranteed minimum income and \"redistributing income through",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cloward%E2%80%93Piven_strategy"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1890 —",
-      "hook": "Anna Månsdotter, found guilty of the 1889 Yngsjö murder, became the last woman to be executed in Sweden.[better source needed]",
-      "body": "The Yngsjö murder is the common name of one of Sweden's most notorious murder cases, which occurred on March 28, 1889, in Yngsjö, Skåne. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Yngsj%C3%B6_murder"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1993 —",
-      "hook": "Ada Deer, a Menominee activist, is sworn in as the head of the Bureau of Indian Affairs.",
-      "body": "Ada Elizabeth Deer was an American scholar and civil servant who was a member of the Menominee Indian Tribe of Wisconsin and a Native American advocate. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ada_E._Deer.jpg/330px-Ada_E._Deer.jpg",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ada_Deer"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Unified Silla, Late Silla, or Greater Silla is the name often applied to the historical period of the Korean kingdom of Silla after its conquest of Goguryeo in 668 AD, which marked the end of the Three Kingdoms period.",
-      "body": "In the 7th century, a Silla–Tang alliance conquered Baekje in the Baekje–Tang War. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/History_of_Korea-Inter-country_Age-830_CE.gif/330px-History_of_Korea-Inter-country_Age-830_CE.gif",
+      "hook": "Zarabe is the name given to the Muslim community of Réunion, who migrated in the mid-19th century.",
+      "body": "Zarabes are mostly Indian, specifically from the modern state of Gujarat in India. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Unified_Silla"
+      "url": "https://en.wikipedia.org/wiki/Zarabes"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "The jurisdiction was formed through the 2023 New Brunswick local governance reforms which saw the consolidation of local government entities into regions or districts.",
+      "body": "Lakeland Ridges is a village in the Canadian province of New Brunswick. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Canterbury_NB.JPG/330px-Canterbury_NB.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lakeland_Ridges"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "UK-Ireland box office preview: Eli Roth’s ‘Ice Cream Man’, Andre Rieu concert lead quiet weekend",
+      "body": "’Flushed Away’ and ‘Hunt For The Wilderpeople’ are on re-release.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-eli-roths-ice-cream-man-andre-rieu-concert-lead-quiet-weekend/5219193.article"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "A Manji was a Sikh religious administrative unit, similar to a parish or diocese, for the propagation of Sikhism.",
-      "body": "It was part of the Sikh missionary administrative organization founded by Guru Amar Das, the third Guru of Sikhism. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/22_Missionaries_established_by_Guru_Amardas.jpg/330px-22_Missionaries_established_by_Guru_Amardas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Katya Ismailova is a 1994 Russian drama film directed by Valery Todorovsky.",
+      "body": "It is based on the novella Lady Macbeth of the Mtsensk District by Nikolai Leskov. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Manji_(Sikhism)"
+      "url": "https://en.wikipedia.org/wiki/Katya_Ismailova"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 461 —",
-      "hook": "Roman Emperor Majorian is beheaded near the river Iria in north-west Italy following his arrest and deposition by the magister militum Ricimer.",
-      "body": "Majorian was Western Roman emperor from 457 to 461. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Solidus_Majorian_Arles_%28obverse%29.jpg/330px-Solidus_Majorian_Arles_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1714 —",
+      "hook": "The Battle of Gangut: The first important victory of the Russian Navy.",
+      "body": "The Battle of Gangut took place on 27 JulyJul./ 7 August 1714Greg. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Battle_of_Gangut-Bakua.jpg/330px-Battle_of_Gangut-Bakua.jpg",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Majorian"
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Gangut"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The 1852 Atlantic hurricane season was the first of only three Atlantic hurricane seasons in which every known tropical cyclone attained hurricane status, preceding 1858 and 1884.",
-      "body": "Five tropical cyclones were reported during the season, which lasted from late August to the middle of October. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/1852_Atlantic_hurricane_season_summary_map.png/330px-1852_Atlantic_hurricane_season_summary_map.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1852_Atlantic_hurricane_season"
+      "cat": "history",
+      "opener": "On this day in 1969 —",
+      "hook": "Richard Nixon appoints Luis R. Bruce, a Mohawk-Oglala Sioux and co-founder of the National Congress of American Indians, as the new commissioner of the Bureau of Indian Affairs.",
+      "body": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Richard_Nixon"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Could geoengineering ‘ice arches’ help preserve Arctic sea ice?",
-      "body": "Researchers are investigating whether artificially thickening ice blockages between Canada and Greenland could prevent huge amounts of sea ice from flowing south to melt",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583296-could-geoengineering-ice-arches-help-preserve-arctic-sea-ice/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1743 —",
-      "hook": "The Treaty of Åbo ended the 1741–1743 Russo-Swedish War.",
-      "body": "The Treaty of Åbo, or the Treaty of Turku, was a peace treaty signed between the Russian Empire and Sweden in Åbo (Turku) on 18 August [O.S. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Altfinnland.png/330px-Altfinnland.png",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_%C3%85bo"
+      "opener": "The Guardian · Film —",
+      "hook": "Out of the blue: James Cameron’s surprise departure would be good for Avatar",
+      "body": "<p>The director has yet again hinted that he may step away – but if he does actually relinquish control, would it benefit the franchise or would be it be ‘hasta la vista’, Terminator 6 style?</p><p>After directing the highest-grossing film ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/07/james-cameron-avatar-trilogy-quit-as-director"
     },
     {
       "type": "card",
@@ -174,6 +174,26 @@
       "body": "<p>The Salt King by Natasha Pulley; A Trade of Blood by Robert Jackson Bennett; Netherwood by Jake Arnott; Fawn by CN Vair</p><p><strong><a href=\"https://guardianbookshop.com/the-salt-king-9781399632966/?utm_source=editoriallink&amp;utm_med",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/2026/aug/07/the-best-recent-science-fiction-fantasy-and-horror-review-roundup"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Tony Hale, Space Detective is a juvenile science fiction novel, the fifteenth in Hugh Walters' Chris Godfrey of U.N.E.X.A.",
+      "body": "It was published in the UK by Faber in 1973. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9d/TonyHaleSpaceDetective.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tony_Hale%2C_Space_Detective"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1819 —",
+      "hook": "Simón Bolívar triumphs over Spain in the Battle of Boyacá.",
+      "body": "Simón José Antonio de la Santísima Trinidad Bolívar Palacios Ponte y Blanco was a Venezuelan military officer and statesman who led what are currently the countries of Bolivia, Colombia, Ecuador, Panama, Peru, and Venezuela to independence from the Spanish Empire. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png/330px-Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar"
     }
   ]
 }
