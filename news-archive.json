@@ -2,6 +2,26 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Books —",
+    "hook": "The 100 best novels of all time",
+    "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
+    "_t": 1786082561371
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "The Guardian · Culture —",
+    "hook": "‘Like Backstreet Boys, but less sultry’: how the Jonas Brothers notched up 20 years of pop stardom against the odds",
+    "body": "<p>Unlike their Disney peers, the toothesome trio didn’t pivot to being sexy – and they’re now at their stadium-filling peak. Fans and collaborators explain their unique, cheesy appeal</p><p>The Jonas Brothers appeared in the mid-00s in a b",
+    "src": "The Guardian · Culture",
+    "url": "https://www.theguardian.com/music/2026/aug/05/jonas-brothers-20-years-in-pop",
+    "_t": 1786082561371
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "The Guardian · Film —",
     "hook": "‘These cooks ripped each other apart’: Dominic Sessa on playing Anthony Bourdain, kitchen bullies and the joys of being a 70s barfly",
     "body": "<p>After his breakthrough in The Holdovers in 2023, Sessa has gone back to the 70s again for Tony, the biopic of bad-boy chef and Kitchen Confidential author Bourdain. And, he says, a big part of him would like to stay there</p><p>Despite b",
@@ -578,25 +598,5 @@
     "src": "The Guardian · Film",
     "url": "https://www.theguardian.com/film/2026/aug/06/amy-goodman-reporter-interview-steal-this-story-please-democracy-now-news",
     "_t": 1785991855493
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Books —",
-    "hook": "The Ghost of the Mountains by Kulbhushansingh Suryawanshi review – the secrets of the snow leopard",
-    "body": "<p>An Indian mountaineer follows in the footsteps of explorers and conservationists in search of an enigmatic animal</p><p>When bored, try the following game – I call it “Purr or Roar?”. Take any feline and guess whether it can purr or roar",
-    "src": "The Guardian · Books",
-    "url": "https://www.theguardian.com/books/2026/aug/05/the-ghost-of-the-mountains-by-kulbhushansingh-suryawanshi-review-the-secrets-of-the-snow-leopard",
-    "_t": 1785973454706
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "BBC Entertainment —",
-    "hook": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
-    "body": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
-    "src": "BBC Entertainment",
-    "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
-    "_t": 1785967337454
   }
 ]

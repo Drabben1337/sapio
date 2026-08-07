@@ -1,44 +1,104 @@
 {
-  "generated": "2026-08-07T04:16:09.986Z",
-  "count": 12,
+  "generated": "2026-08-07T06:02:41.372Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Aisha Ibrahim is a critically-acclaimed Libyan novelist.",
-      "body": "She was born in Beni Walid in 1969. One of those things you can't un-know.",
-      "img": null,
+      "opener": "Okay, this one's fun —",
+      "hook": "Here I Stand is a 1958 book written by Paul Robeson with the collaboration of Lloyd L.",
+      "body": "While Robeson wrote many articles and speeches, Here I stand is his only book. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/Here_I_Stand_%28book%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Aisha_Ibrahim_(writer)"
+      "url": "https://en.wikipedia.org/wiki/Here_I_Stand_(book)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "For many years, this book was a fifth grade reader in the Texas public schools, approved for state-wide use.",
+      "body": "On Jungle Trails is a book-length compilation of Frank Buck’s stories describing how he captures wild animals. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/On_Jungle_Trails_%281936%29_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/On_Jungle_Trails"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1890 —",
+      "hook": "Anna Månsdotter, found guilty of the 1889 Yngsjö murder, became the last woman to be executed in Sweden.[better source needed]",
+      "body": "The Yngsjö murder is the common name of one of Sweden's most notorious murder cases, which occurred on March 28, 1889, in Yngsjö, Skåne. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Yngsj%C3%B6_murder"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1987 —",
+      "hook": "Cold War: Lynne Cox becomes the first person to swim from the United States to the Soviet Union, crossing the Bering Strait from Little Diomede Island in Alaska to Big Diomede in the Soviet Union.",
+      "body": "The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cold_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Canaan is a town in Columbia County, New York, United States.",
+      "body": "The population was 1,570 at the 2020 census, down from 1,710 at the 2010 census. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lace_House%2C_Canaan%2C_NY.jpg/330px-Lace_House%2C_Canaan%2C_NY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Canaan%2C_New_York"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1978 —",
+      "hook": "U.S. President Jimmy Carter declares a federal emergency at Love Canal due to toxic waste that had been disposed of negligently.",
+      "body": "James Earl Carter Jr. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/330px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Carter"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1959 —",
+      "hook": "Explorer program: Explorer 6 launches from the Atlantic Missile Range in Cape Canaveral, Florida.",
+      "body": "The Explorers Program is a NASA exploration program that provides flight opportunities for physics, geophysics, heliophysics, and astrophysics investigations from space. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg/330px-Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Explorers_Program"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘Like Backstreet Boys, but less sultry’: how the Jonas Brothers notched up 20 years of pop stardom against the odds",
+      "body": "<p>Unlike their Disney peers, the toothesome trio didn’t pivot to being sexy – and they’re now at their stadium-filling peak. Fans and collaborators explain their unique, cheesy appeal</p><p>The Jonas Brothers appeared in the mid-00s in a b",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/05/jonas-brothers-20-years-in-pop"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "A Spy of Napoleon is a 1934 historical novel by the British writer Baroness Emmuska Orczy.",
-      "body": "An illegitimate daughter of Louis Napoleon is taken on as an agent by Napoleon III, ruler of France, who wishes her to marry into and spy on the aristocracy who he suspects of wanting to overthrow him. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/ASpyOfNapoleon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "\"Silver Hoof\" is a fairy tale short story written by Pavel Bazhov, based on the folklore of the Ural region of Siberia.",
+      "body": "It was first published in Uralsky Sovremennik in 1938, and later included in The Malachite Casket collection. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Spy_of_Napoleon"
+      "url": "https://en.wikipedia.org/wiki/Silver_Hoof"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Lauryn Hill and Wyclef ‘in an amazing place’ as fans hope for new Fugees album after 30 years",
-      "body": "Hill says the band have gone through \"an incredible healing process\", raising the prospect of new music.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cdew6jxjw3do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
     },
     {
       "type": "card",
@@ -53,39 +113,20 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
-      "cat": "books",
+      "cat": "history",
       "opener": "Okay, this one's fun —",
-      "hook": "The Blood of Others is a 1945 novel by the French existentialist Simone de Beauvoir that depicts the lives of several characters in Paris leading up to and during the Second World War.",
-      "body": "The novel explores themes of freedom and responsibility. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/3e/TheBloodOfOthers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "It is estimated that 120,000 enslaved Africans were transported on the company's ships.",
+      "body": "The Danish West India Company or Danish West India–Guinea Company was a Dano-Norwegian chartered company that operated out of the colonies in the Danish West Indies. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_the_Danish_West_Indies_from_american_tabacco_card.svg/330px-Flag_of_the_Danish_West_Indies_from_american_tabacco_card.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Blood_of_Others"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Tod of the Fens is a 1928 children's historical fiction novel written by Elinor Whitney Field and illustrated by Warwick Goble.",
-      "body": "Set in Boston, England, in the early fifteenth century, it is a light-hearted adventure about Tod, a boy who lives with a band of men outside town, and Prince Hal, the heir to the throne, who disguises himself so he can move among the people incognito. The wor",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cover_of_Tod_of_the_Fens_%281928%29.jpg/330px-Cover_of_Tod_of_the_Fens_%281928%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tod_of_the_Fens"
+      "url": "https://en.wikipedia.org/wiki/Danish_West_India_Company"
     },
     {
       "type": "card",
@@ -100,20 +141,69 @@
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Mignon Desires her Fatherland is an oil on canvas painting by the Dutch-French artist Ary Scheffer, from 1836.",
-      "body": "The picture depicts a young woman, Mignon, inspired from a character in Goethe's 1795-96 novel Wilhelm Meister's Apprenticeship. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/AriSchefferMignon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "If I Die in a Combat Zone, Box Me Up and Ship Me Home is an autobiographical account of Tim O'Brien's tour of duty in the Vietnam War.",
+      "body": "It was published in 1973 in the United States by Delacorte and in Great Britain by Calder and Boyars Ltd. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/08/IfIDieInACombatZone.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mignon_Desires_her_Fatherland"
+      "url": "https://en.wikipedia.org/wiki/If_I_Die_in_a_Combat_Zone%2C_Box_Me_Up_and_Ship_Me_Home"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
+      "opener": "BBC Entertainment —",
+      "hook": "Lauryn Hill and Wyclef ‘in an amazing place’ as fans hope for new Fugees album after 30 years",
+      "body": "Hill says the band have gone through \"an incredible healing process\", raising the prospect of new music.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cdew6jxjw3do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1933 —",
+      "hook": "The Kingdom of Iraq slaughters over 3,000 Assyrians in the village of Simele. This date is recognized as Martyrs Day or National Day of Mourning by the Assyrian community in memory of the Simele massacre.",
+      "body": "The Hashemite Kingdom of Iraq was the Iraqi state located in the Middle East from 1932 to 1958. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Iraq_%281924%E2%80%931959%29.svg/330px-Flag_of_Iraq_%281924%E2%80%931959%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Iraq"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The group was named in reference to the Iraqi revolt of 1920.",
+      "body": "The 1920 Revolution Brigades was a Sunni militant and insurgent group in Iraq, formed by former members of the disbanded Saddam-era Iraqi military, following the 2003 American invasion of Iraq. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c5/Logo_of_1920_Revolution_Brigade.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1920_Revolution_Brigades"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1962 —",
+      "hook": "Canadian-born American pharmacologist Frances Oldham Kelsey is awarded the U.S. President's Award for Distinguished Federal Civilian Service for her refusal to authorize thalidomide.",
+      "body": "Frances Kathleen Oldham Kelsey was a Canadian-American pharmacologist and physician who had a 45-year career with the U.S. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/Frances_Oldham_Kelsey.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Frances_Oldham_Kelsey"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Coronation of Inês de Castro in 1361 is a c.",
+      "body": "1849 oil on canvas history painting by the French artist Pierre-Charles Comte, first exhibited at the Paris Salon of 1849 and in the Museum of Fine Arts of Lyon since 1885. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tableau_In%C3%A9s_de_Castro.jpg/330px-Tableau_In%C3%A9s_de_Castro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Coronation_of_In%C3%AAs_de_Castro_in_1361"
     }
   ]
 }
