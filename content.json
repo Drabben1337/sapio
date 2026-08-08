@@ -1,25 +1,15 @@
 {
-  "generated": "2026-08-08T09:24:38.189Z",
+  "generated": "2026-08-08T10:18:07.456Z",
   "count": 12,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘The Odyssey’ crosses $1bn at global box office",
-      "body": "Universal tentpole heads into fourth session.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/the-odyssey-crosses-1bn-at-global-box-office/5219215.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The 2022 Taiwan Railway Union collective leave action refers to the collective leave taken by members of theTaiwan Railway Labor Union on 1 May 2022.",
-      "body": "The action was organized in protest against the Ministry of Transportation and Communications' push to corporatize the Taiwan Railways Administration (TRA) without prior consultation. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2022_Taiwan_Railway_Union_collective_leave_action"
+      "opener": "The Guardian · Film —",
+      "hook": "Human Centipede director Tom Six reveals multiple sclerosis diagnosis in ‘final film’",
+      "body": "<p>The Dutch creator of the controversial trilogy set to detail struggles with neurological disease in homemade documentary, after spending six years ‘as a recluse’</p><p>Tom Six, the film-maker behind schlock horror phenomenon The Human Ce",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/08/human-centipede-director-tom-six-multiple-sclerosis-diagnosis-final-film"
     },
     {
       "type": "card",
@@ -33,11 +23,21 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Amanda Knox defends Fringe comedy show after claims it will 'trivialise violence'",
-      "body": "Knox, who was convicted and later acquitted of the murder of a British student, said she does not downplay the seriousness of Meredith Kercher's death.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7pyv3y7no?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Film —",
+      "hook": "‘James Dean has got nothing on that kid’: River Phoenix films – ranked!",
+      "body": "<p>As Stand By Me is re-released for its 40th anniversary, we look at the late actor’s most intense, enduring roles – from a goofball boffin to a narcoleptic hustler</p><p>Issue-of-the-week TV movie about elder abuse, with Tuesday Weld as a",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/06/james-dean-has-got-nothing-on-that-kid-river-phoenix-films-ranked"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Alon Cohen is the co-founder of VocalTec Inc.",
+      "body": "(1989) and the co-inventor of the Audio Transceiver that enabled the creation of Voice Over Networks products and eventually the VoIP industry. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alon_Cohen.jpg/330px-Alon_Cohen.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alon_Cohen"
     },
     {
       "type": "card",
@@ -52,68 +52,68 @@
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "A hypothermia cap is a therapeutic device used to cool the human scalp.",
-      "body": "Its most prominent medical applications are in preventing or reducing alopecia in chemotherapy, and for preventing cerebral palsy in babies born with neonatal encephalopathy caused by hypoxic-ischemic encephalopathy (HIE). The world is stranger than it lets on",
+      "hook": "13 Fighting Men is a 1960 American drama film directed by Harry W.",
+      "body": "Gerstad and written by Robert Hamner and Jack W. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/13_Fighting_Men_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/13_Fighting_Men"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Alice is a 1988 surrealist dark fantasy film written and directed by Jan Švankmajer.",
+      "body": "Its original Czech title is Něco z Alenky, which means \"Something from Alice\". Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/17/NecoZAlenky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alice_(1988_film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Siân Phillips to step back from acting aged 93 after memory issues",
+      "body": "Sian Phillips will step back from full-scale stage shows but continue other projects.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lgm07l35o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Psorotichia is a genus of saxicolous (rock-dwelling) lichens in the family Lichinaceae.",
+      "body": "The genus can be distinguished from other rock-dwelling lichens by its distinctive dark colouration and granular texture. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Psorotichia_murorum_1733498735.jpg/330px-Psorotichia_murorum_1733498735.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Psorotichia"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘The Odyssey’ crosses $1bn at global box office",
+      "body": "Universal tentpole heads into fourth session.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/the-odyssey-crosses-1bn-at-global-box-office/5219215.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Amanda Knox defends Fringe comedy show after claims it will 'trivialise violence'",
+      "body": "Knox, who was convicted and later acquitted of the murder of a British student, said she does not downplay the seriousness of Meredith Kercher's death.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7pyv3y7no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Kadhirur Gurukkal, also known as Mathiloor Gurukkal, was a martial artist of medieval India.",
+      "body": "He came from Kadirur, near to Thalasserry in the North Malabar region of present-day Kerala. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hypothermia_cap"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Mickey Mouse is a Disney comic book series that has a long-running history, first appearing in 1943 as part of the Four Color one-shot series.",
-      "body": "It received its own numbering system with issue #28. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a6/MickeyMouseAndFriendsNo296.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mickey_Mouse_(comic_book)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "USS Akron was a helium-filled rigid airship of the U.S.",
-      "body": "Navy, the lead ship of her class, which operated between September 1931 and April 1933. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ZRS-4_landing_h42156.jpg/330px-ZRS-4_landing_h42156.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/USS_Akron"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘James Dean has got nothing on that kid’: River Phoenix films – ranked!",
-      "body": "<p>As Stand By Me is re-released for its 40th anniversary, we look at the late actor’s most intense, enduring roles – from a goofball boffin to a narcoleptic hustler</p><p>Issue-of-the-week TV movie about elder abuse, with Tuesday Weld as a",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/06/james-dean-has-got-nothing-on-that-kid-river-phoenix-films-ranked"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Jason Arday claimed he was paid ‘1.4 million’ by publisher for memoir",
-      "body": "<p>Simon &amp; Schuster still plans to publish book by Cambridge academic who resigned this week amid plagiarism claims</p><p>Jason Arday, the former Cambridge professor accused of plagiarism and embellishment, claimed he was paid “1.4 mill",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The California Southern Railroad was a subsidiary railroad of the Atchison, Topeka and Santa Fe Railway in Southern California.",
-      "body": "It was organized July 10, 1880, and chartered on October 23, 1880, to build a rail connection between what has become the city of Barstow and San Diego, California. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/California_Southern_Railroad_route_map.png/330px-California_Southern_Railroad_route_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/California_Southern_Railroad"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Human Centipede director Tom Six reveals multiple sclerosis diagnosis in ‘final film’",
-      "body": "<p>The Dutch creator of the controversial trilogy set to detail struggles with neurological disease in homemade documentary, after spending six years ‘as a recluse’</p><p>Tom Six, the film-maker behind schlock horror phenomenon The Human Ce",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/08/human-centipede-director-tom-six-multiple-sclerosis-diagnosis-final-film"
+      "url": "https://en.wikipedia.org/wiki/Kadhirur_Gurukkal"
     }
   ]
 }
