@@ -1,44 +1,55 @@
 {
-  "generated": "2026-08-08T04:00:32.104Z",
-  "count": 13,
+  "generated": "2026-08-08T05:32:35.597Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Big Apple Circus is a circus based in New York City.",
-      "body": "Opened in 1977, later becoming a nonprofit organization, it became a tourist attraction. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "Bet you didn't know —",
+      "hook": "The Emigrants is a 1954 novel by Barbadian writer George Lamming, a sequel to his debut autobiographical book In the Castle of My Skin, following the life of the same protagonist as he travels from Barbados to England in search of better prospects and opportunities.",
+      "body": "Lamming \"experimented with the form of the novel as he sought to portray an original historical experience: the immigration of Caribbean peoples to Britain.\" Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/16/The_Emigrants_%28Lamming_novel%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Big_Apple_Circus"
+      "url": "https://en.wikipedia.org/wiki/The_Emigrants_(Lamming_novel)"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘The Odyssey’ crosses $1bn at global box office",
-      "body": "Universal tentpole heads into fourth session.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/the-odyssey-crosses-1bn-at-global-box-office/5219215.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Monsters of God review – a messy feud between rival reptile smugglers gets the Tiger King treatment",
-      "body": "<p>Director Eric Goode has found two enemies to rival Joe Exotic and Carole Baskin in his new documentary about the animal trade’s underworld</p><p>Through the fear and general miasma of the Covid pandemic, TV brought people together like n",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/07/monsters-of-god-review-hbo-max-documentary-reptile-smugglers"
+      "opener": "The Guardian · Books —",
+      "hook": "Jason Arday claimed he was paid ‘1.4 million’ by publisher for memoir",
+      "body": "<p>Simon &amp; Schuster still plans to publish book by Cambridge academic who resigned this week amid plagiarism claims</p><p>Jason Arday, the former Cambridge professor accused of plagiarism and embellishment, claimed he was paid “1.4 mill",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Aldfrith was king of Northumbria from 685 until his death.",
-      "body": "He is described by early writers such as Bede, Alcuin and Stephen of Ripon as a man of great learning. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Aldfrith_sceat_beast_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Harriet Martineau was an English social theorist.",
+      "body": "She wrote from a sociological, holistic, religious and feminine angle, translated works by Auguste Comte, and, rare for a woman writer at the time, earned enough to support herself. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Harriet_Martineau_by_Richard_Evans.jpg/330px-Harriet_Martineau_by_Richard_Evans.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Aldfrith_of_Northumbria"
+      "url": "https://en.wikipedia.org/wiki/Harriet_Martineau"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Fuse is a Japanese light novel writer.",
+      "body": "He is best known as the creator of the fantasy series That Time I Got Reincarnated as a Slime, which originated as a web novel before being published as a light novel series and adapted into manga, an anime television series, and feature films. Bring it up som",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fuse_(writer)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Type 84 features two tubes that can be loaded with 62mm incendiary and smoke rockets.",
+      "body": "The FHJ-84 is an over/under twin-barreled 62 mm incendiary rocket launcher developed by Norinco for the People's Liberation Army. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/172117277da98134758753-1385622697.jpg/330px-172117277da98134758753-1385622697.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/FHJ-84"
     },
     {
       "type": "card",
@@ -52,6 +63,15 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Singer Self Esteem to make cinematic debut in film set in 1980s",
+      "body": "Pop singer Self Esteem is set to star in upcoming film Mountain from Welsh director Celyn Jones.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5x1xn8dno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "‘James Dean has got nothing on that kid’: River Phoenix films – ranked!",
       "body": "<p>As Stand By Me is re-released for its 40th anniversary, we look at the late actor’s most intense, enduring roles – from a goofball boffin to a narcoleptic hustler</p><p>Issue-of-the-week TV movie about elder abuse, with Tuesday Weld as a",
@@ -60,23 +80,51 @@
     },
     {
       "type": "card",
-      "cat": "history",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘The Odyssey’ crosses $1bn at global box office",
+      "body": "Universal tentpole heads into fourth session.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/the-odyssey-crosses-1bn-at-global-box-office/5219215.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "The World's 50 Best Restaurants is a list produced by the UK media company William Reed, which originally appeared in the British magazine Restaurant in 2002.",
-      "body": "The list and awards are no longer directly related to Restaurant, though they are owned by the same media company. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0a/50%2Bbest.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Salah Asuhan is a 1972 film directed by Asrul Sani, produced by Andy Azhar, and starring Dicky Zulkarnaen, Ruth Pelupessy, and Rima Melati.",
+      "body": "Adapted from Abdoel Moeis' 1928 novel of the same name, it tells of a man who betrays his upbringing for the metropolitan life, while at the same time marrying an Indo woman instead of the one chosen by his mother. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_World's_50_Best_Restaurants"
+      "url": "https://en.wikipedia.org/wiki/Salah_Asuhan_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "He was signed by the Cincinnati Bengals as an undrafted free agent in 2001.",
+      "body": "\"Duke\" Pettijohn is a former American Arena football defensive lineman. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Duke_Pettijohn"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Marguerite Henry was an American writer of children's books, writing fifty-nine books based on true stories of horses and other animals.",
-      "body": "She won the Newbery Medal for King of the Wind, a 1948 book about horses, and she was a runner-up for two others. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cf/Marguerite_Henry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Inheritance is a play by Matthew López, inspired by the 1910 novel Howards End by E.",
+      "body": "The play premiered in London at the Young Vic in March 2018, before transferring to Broadway in November 2019. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Matthew_Lopez_The_Inheritance.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marguerite_Henry"
+      "url": "https://en.wikipedia.org/wiki/The_Inheritance_(play)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Monsters of God review – a messy feud between rival reptile smugglers gets the Tiger King treatment",
+      "body": "<p>Director Eric Goode has found two enemies to rival Joe Exotic and Carole Baskin in his new documentary about the animal trade’s underworld</p><p>Through the fear and general miasma of the Covid pandemic, TV brought people together like n",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/07/monsters-of-god-review-hbo-max-documentary-reptile-smugglers"
     },
     {
       "type": "card",
@@ -86,44 +134,6 @@
       "body": "<p>The comedian and broadcaster narrates the heartfelt and at times self-lacerating account of his relationship with alcohol</p><p>A memoir chronicling the comic and broadcaster John Robins’s life in alcohol and his subsequent path to sobri",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/2026/aug/06/thirst-by-john-robins-audiobook-review-an-ex-drinkers-darkly-funny-journey"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Jason Arday claimed he was paid ‘1.4 million’ by publisher for memoir",
-      "body": "<p>Simon &amp; Schuster still plans to publish book by Cambridge academic who resigned this week amid plagiarism claims</p><p>Jason Arday, the former Cambridge professor accused of plagiarism and embellishment, claimed he was paid “1.4 mill",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Singer Self Esteem to make cinematic debut in film set in 1980s",
-      "body": "Pop singer Self Esteem is set to star in upcoming film Mountain from Welsh director Celyn Jones.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5x1xn8dno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Tirone José González Orama, known professionally as Canserbero, was a Venezuelan rapper, poet, composer, philosopher, and activist.",
-      "body": "Born in Caracas, Venezuela, he is considered to be one of the most significant and influential figures in the history of Latin and independent rap in Latin America. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Canserbero_2013.png/330px-Canserbero_2013.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Canserbero"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Middlemore is a surname, and may refer to:Amphilis Throckmorton Middlemore (1891–1931), daughter of Sir John Middlemore George Middlemore, British Army officer and politician Henry Middlemore, English courtier Humphrey Middlemore, English Catholic priest and Carthusian hermit John Middlemore (1844–1924), baronet, politician, brother of Thomas Middlemore Maria Trinidad Howard Sturgis Middlemore (1846–1890), author, wife of Samuel George Chetwynd Middlemore] Mary Middlemore, English courtier Samuel George Chetwynd Middlemore (1848–1890), English translator and journalist Thomas Middlemore (1842–1923), English mountaineer and head of Middlemores Saddles",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Middlemore_(surname)"
     }
   ]
 }
