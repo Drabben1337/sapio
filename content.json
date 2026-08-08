@@ -1,15 +1,36 @@
 {
-  "generated": "2026-08-08T18:17:47.719Z",
-  "count": 12,
+  "generated": "2026-08-08T19:19:34.543Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘James Dean has got nothing on that kid’: River Phoenix films – ranked!",
-      "body": "<p>As Stand By Me is re-released for its 40th anniversary, we look at the late actor’s most intense, enduring roles – from a goofball boffin to a narcoleptic hustler</p><p>Issue-of-the-week TV movie about elder abuse, with Tuesday Weld as a",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/06/james-dean-has-got-nothing-on-that-kid-river-phoenix-films-ranked"
+      "cat": "history",
+      "opener": "On this day in 2010 —",
+      "hook": "China Floods: A mudslide in Zhugqu County, Gansu, China, kills more than 1,400 people.",
+      "body": "Floods in China in 2010 resulted in over 3,000 deaths. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flooding_along_Ganjiang%2C_Jiangxi%2C_June_2010.jpg/330px-Flooding_along_Ganjiang%2C_Jiangxi%2C_June_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2010_China_floods"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1503 —",
+      "hook": "King James IV of Scotland marries Margaret Tudor, daughter of King Henry VII of England, at Holyrood Abbey in Edinburgh, Scotland.",
+      "body": "James IV was King of Scotland from 11 June 1488 until his death at the Battle of Flodden in 1513. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/James_IV_of_Scotland_%282%29.jpg/330px-James_IV_of_Scotland_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/James_IV"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Democracy or Demo Crazy is a political satire novel written by Seyyed Mahdi Shojaee in Persian and translated to English by Caroline Croskery.",
+      "body": "Democracy or Demo Crazy was published by Candle and Fog Publishing in 2014. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/98/Democracy_or_Demo_Crazy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Democracy_or_Demo_Crazy"
     },
     {
       "type": "card",
@@ -22,12 +43,92 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1876 —",
+      "hook": "Thomas Edison receives a patent for his mimeograph.",
+      "body": "Thomas Alva Edison was an American inventor and businessman known for his work on the incandescent light bulb, the phonograph, electric power distribution and early motion pictures. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1989 —",
+      "hook": "Space Shuttle program: STS-28 Mission: Space Shuttle Columbia takes off on a secret five-day military mission.",
+      "body": "The Space Shuttle program was the fourth human spaceflight program carried out by the U.S. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Shuttle_Patch.svg/330px-Shuttle_Patch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_program"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "World War I: The Battle of Amiens begins a string of almost continuous Allied victories with a push through the German front lines (Hundred Days Offensive).",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Coming of Winter is a novel by Canadian writer David Adams Richards, published in 1974.",
+      "body": "It was published after an excerpt from the novel won the Norma Epstein Prize for unpublished writing by Canadian university students. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/78/The_Coming_of_Winter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Coming_of_Winter"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1863 —",
+      "hook": "American Civil War: Following his defeat in the Battle of Gettysburg, General Robert E. Lee sends a letter of resignation to Confederate President Jefferson Davis (which is refused upon receipt).",
+      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Peter Farquhar was a retired teacher of English and novelist.",
+      "body": "After his death on 26 October 2015, his former student and lodger Benjamin L. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Peter_Farquhar"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Amanda Knox defends Fringe comedy show after claims it will 'trivialise violence'",
-      "body": "Knox, who was convicted and later acquitted of the murder of a British student, said she does not downplay the seriousness of Meredith Kercher's death.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7pyv3y7no?at_medium=RSS&at_campaign=rss"
+      "opener": "Screen Daily —",
+      "hook": "Locarno film festival protest sees huge shroud unfurled with names of 60,000 killed in Gaza",
+      "body": "Peaceful protest took place shortly before a sold-out Piazza Grande screening of Olivia Wilde’s ’The Invite’, which is being attended by over 8,000 people.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/locarno-film-festival-protest-sees-huge-shroud-unfurled-with-names-of-60000-killed-in-gaza/5219218.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The first seeded plants emerged in the late Devonian 370 million years ago.",
+      "body": "Selection pressures shaping seed size stem from physical and biological sources including drought, predation, seedling-seedling competition, optimal dormancy depth, and dispersal. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Coco_de_mer_-_BOT.2007.26.21.jpg/330px-Coco_de_mer_-_BOT.2007.26.21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Evolution_of_seed_size"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "The series premiered on 12 November 2021.",
+      "body": "Special Ops 1.5: The Himmat Story is a Hindi action thriller series created and directed by Neeraj Pandey for Disney+ Hotstar. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/Special_Ops_Himmat_Story_Poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Special_Ops_1.5%3A_The_Himmat_Story"
     },
     {
       "type": "card",
@@ -42,11 +143,11 @@
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "The Sunset Strip is the 1.7-mile (2.7 km) stretch of Sunset Boulevard that passes through the city of West Hollywood, California, United States.",
-      "body": "It extends from West Hollywood's eastern border with the city of Los Angeles near Marmont Lane to its western border with Beverly Hills at Phyllis Street. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sunset_Tower%2C_8358_Sunset_Blvd._West_Hollywood_2383.jpg/330px-Sunset_Tower%2C_8358_Sunset_Blvd._West_Hollywood_2383.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Children of the New Forest is a children's novel published in 1847 by Frederick Marryat.",
+      "body": "It is set in the time of the English Civil War and the Commonwealth. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Children_of_the_New_Forest_-_1911_book_cover.jpg/330px-The_Children_of_the_New_Forest_-_1911_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sunset_Strip"
+      "url": "https://en.wikipedia.org/wiki/The_Children_of_the_New_Forest"
     },
     {
       "type": "card",
@@ -60,6 +161,15 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Amanda Knox defends Fringe comedy show after claims it will 'trivialise violence'",
+      "body": "Knox, who was convicted and later acquitted of the murder of a British student, said she does not downplay the seriousness of Meredith Kercher's death.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7pyv3y7no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "Screen Daily —",
       "hook": "‘The Odyssey’ crosses $1bn at global box office",
       "body": "Universal tentpole heads into fourth session.",
@@ -69,42 +179,12 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Eugene Lim is an American novelist, publisher, and librarian.",
-      "body": "He has published four novels since 2008, and his writings have appeared in The New Yorker, The Believer, The Baffler, Granta, Triple Canopy, The Denver Quarterly, The Brooklyn Rail, and others. Bring it up somewhere. Watch the reaction.",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Number 31328 is an autobiographical novel by Elias Venezis.",
+      "body": "It tells of his experiences as a captive of the Turkish Army on a death march into the Anatolia interior. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Eugene_Lim_(novelist)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Ramchandra Gopal Torne, also known as Dadasaheb Torne, was an Indian director and producer, best known for making the first feature film in India, Shree Pundalik.",
-      "body": "This historic record is well established by an advertisement in The Times of India published on 25 May 1912. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/71/DadasahebTorneImg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dadasaheb_Torne"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Dora Curtis (1875–1920) was a British artist and a member of the 1914 expedition down the Yenisei River in Siberia to the Kara Sea led by Polish anthropologist Maria Antonina Czaplicka (1886–1921).",
-      "body": "The other expedition members were Maud Doria Haviland (1889–1941) and Henry Usher Hall of the Philadelphia University Museum (1876–1944). The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Oxford_Expedition_Siberia_1914.jpg/330px-Oxford_Expedition_Siberia_1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dora_Curtis"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "An independence referendum was held on 1 October 2017 in the Spanish autonomous community of Catalonia, passed by the Parliament of Catalonia as the Law on the Referendum on Self-determination of Catalonia and called by the Generalitat de Catalunya.",
-      "body": "The referendum, known in the Spanish media by the numeronym 1-O, was declared unconstitutional on 7 September 2017 and suspended by the Constitutional Court of Spain after a request from the Spanish government, who declared it a breach of the Spanish Constitut",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2017_Catalan_Independence_Referendum_by_province.svg/330px-2017_Catalan_Independence_Referendum_by_province.svg.png",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2017_Catalan_independence_referendum"
+      "url": "https://en.wikipedia.org/wiki/Number_31328"
     },
     {
       "type": "card",
