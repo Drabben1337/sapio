@@ -1,16 +1,35 @@
 {
-  "generated": "2026-08-08T05:32:35.597Z",
-  "count": 14,
+  "generated": "2026-08-08T06:28:11.368Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Emigrants is a 1954 novel by Barbadian writer George Lamming, a sequel to his debut autobiographical book In the Castle of My Skin, following the life of the same protagonist as he travels from Barbados to England in search of better prospects and opportunities.",
-      "body": "Lamming \"experimented with the form of the novel as he sought to portray an original historical experience: the immigration of Caribbean peoples to Britain.\" Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/16/The_Emigrants_%28Lamming_novel%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "cat": "geography",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It exhibits twentieth- and twenty-first-century art encompassing visual art, design and architecture, and moving image.",
+      "body": "M+ is an art museum located in the West Kowloon Cultural District of Hong Kong. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/WKCD_M%2B%2C_2021.11.jpg/330px-WKCD_M%2B%2C_2021.11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Emigrants_(Lamming_novel)"
+      "url": "https://en.wikipedia.org/wiki/M%2B"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "Just Like My Child Foundation (JLMC) is a San Diego–based 501(c)(3) organization that works with women and children in rural Uganda and Senegal.",
+      "body": "Its goal is to create healthy and self-sustaining families who prosper without further aid. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Just_Like_My_Child_Foundation"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Thirst by John Robins audiobook review – an ex-drinker’s darkly funny journey",
+      "body": "<p>The comedian and broadcaster narrates the heartfelt and at times self-lacerating account of his relationship with alcohol</p><p>A memoir chronicling the comic and broadcaster John Robins’s life in alcohol and his subsequent path to sobri",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/06/thirst-by-john-robins-audiobook-review-an-ex-drinkers-darkly-funny-journey"
     },
     {
       "type": "card",
@@ -20,102 +39,6 @@
       "body": "<p>Simon &amp; Schuster still plans to publish book by Cambridge academic who resigned this week amid plagiarism claims</p><p>Jason Arday, the former Cambridge professor accused of plagiarism and embellishment, claimed he was paid “1.4 mill",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Harriet Martineau was an English social theorist.",
-      "body": "She wrote from a sociological, holistic, religious and feminine angle, translated works by Auguste Comte, and, rare for a woman writer at the time, earned enough to support herself. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Harriet_Martineau_by_Richard_Evans.jpg/330px-Harriet_Martineau_by_Richard_Evans.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Harriet_Martineau"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Fuse is a Japanese light novel writer.",
-      "body": "He is best known as the creator of the fantasy series That Time I Got Reincarnated as a Slime, which originated as a web novel before being published as a light novel series and adapted into manga, an anime television series, and feature films. Bring it up som",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fuse_(writer)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Type 84 features two tubes that can be loaded with 62mm incendiary and smoke rockets.",
-      "body": "The FHJ-84 is an over/under twin-barreled 62 mm incendiary rocket launcher developed by Norinco for the People's Liberation Army. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/172117277da98134758753-1385622697.jpg/330px-172117277da98134758753-1385622697.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/FHJ-84"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Olivia Rodrigo review – crushing riffs and infectious hooks at secret New York show",
-      "body": "<p><strong>Warsaw, Brooklyn, New York</strong></p><p>Playing to just 1,000 fans, Rodrigo’s pop-up show is a thrillingly intimate showcase of her tour de force talent</p><p>At 10am on Thursday, Olivia Rodrigo announced in an Instagram post t",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/07/olivia-rodrigo-review-brooklyn-warsaw-show"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Singer Self Esteem to make cinematic debut in film set in 1980s",
-      "body": "Pop singer Self Esteem is set to star in upcoming film Mountain from Welsh director Celyn Jones.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5x1xn8dno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘James Dean has got nothing on that kid’: River Phoenix films – ranked!",
-      "body": "<p>As Stand By Me is re-released for its 40th anniversary, we look at the late actor’s most intense, enduring roles – from a goofball boffin to a narcoleptic hustler</p><p>Issue-of-the-week TV movie about elder abuse, with Tuesday Weld as a",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/06/james-dean-has-got-nothing-on-that-kid-river-phoenix-films-ranked"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘The Odyssey’ crosses $1bn at global box office",
-      "body": "Universal tentpole heads into fourth session.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/the-odyssey-crosses-1bn-at-global-box-office/5219215.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Salah Asuhan is a 1972 film directed by Asrul Sani, produced by Andy Azhar, and starring Dicky Zulkarnaen, Ruth Pelupessy, and Rima Melati.",
-      "body": "Adapted from Abdoel Moeis' 1928 novel of the same name, it tells of a man who betrays his upbringing for the metropolitan life, while at the same time marrying an Indo woman instead of the one chosen by his mother. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Salah_Asuhan_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "He was signed by the Cincinnati Bengals as an undrafted free agent in 2001.",
-      "body": "\"Duke\" Pettijohn is a former American Arena football defensive lineman. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Duke_Pettijohn"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Inheritance is a play by Matthew López, inspired by the 1910 novel Howards End by E.",
-      "body": "The play premiered in London at the Young Vic in March 2018, before transferring to Broadway in November 2019. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Matthew_Lopez_The_Inheritance.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Inheritance_(play)"
     },
     {
       "type": "card",
@@ -129,11 +52,128 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Thirst by John Robins audiobook review – an ex-drinker’s darkly funny journey",
-      "body": "<p>The comedian and broadcaster narrates the heartfelt and at times self-lacerating account of his relationship with alcohol</p><p>A memoir chronicling the comic and broadcaster John Robins’s life in alcohol and his subsequent path to sobri",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/06/thirst-by-john-robins-audiobook-review-an-ex-drinkers-darkly-funny-journey"
+      "opener": "BBC Entertainment —",
+      "hook": "Singer Self Esteem to make cinematic debut in film set in 1980s",
+      "body": "Pop singer Self Esteem is set to star in upcoming film Mountain from Welsh director Celyn Jones.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5x1xn8dno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "By The Gods Beloved, first published in the UK in 1905, was a novel by Baroness Orczy.",
+      "body": "It was released under the title The Gates of Kamt in the US. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/Bythegodsbeloved1907.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/By_the_Gods_Beloved"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The King is a 1995 Indian Malayalam-language political action thriller film directed by Shaji Kailas, written by Renji Panicker and produced by Manjalamkuzhi Ali.",
+      "body": "The film stars Mammootty, alongside Murali, Vijayaraghavan, K. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/The_King_1995_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_King_(1995_film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Olivia Rodrigo review – crushing riffs and infectious hooks at secret New York show",
+      "body": "<p><strong>Warsaw, Brooklyn, New York</strong></p><p>Playing to just 1,000 fans, Rodrigo’s pop-up show is a thrillingly intimate showcase of her tour de force talent</p><p>At 10am on Thursday, Olivia Rodrigo announced in an Instagram post t",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/07/olivia-rodrigo-review-brooklyn-warsaw-show"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘The Odyssey’ crosses $1bn at global box office",
+      "body": "Universal tentpole heads into fourth session.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/the-odyssey-crosses-1bn-at-global-box-office/5219215.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Unseen Academicals is the 37th novel in Terry Pratchett's Discworld series.",
+      "body": "The novel satirises football, and features Mustrum Ridcully setting up an Unseen University football team, with the Librarian in goal. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/96/Unseen_Academicals_%28book%29_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Unseen_Academicals"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Elections were held annually from 1837 through 1921, biennially from 1923 through 1933, and quadrennially starting in 1935.",
+      "body": "The City of Chicago has held elections to its City Council since its incorporation in 1837. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Seal_of_Illinois.svg/330px-Seal_of_Illinois.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/City_Council_elections_in_Chicago"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "1969 – Siempre, En Vivo Desde Monterrey, Parte 2 is a live album by regional Mexican singer Jenni Rivera, released in 2014.",
+      "body": "It is Part 2 of a trilogy recording of her final concert in Monterrey, Nuevo León, Mexico, just three hours before her death. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3e/Jenni_Rivera_1969_-_Siempre%2C_En_Vivo_Desde_Monterrey_Parte_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1969_%E2%80%93_Siempre%2C_En_Vivo_Desde_Monterrey%2C_Parte_2"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "August Giacomo Jochmus Freiherr von Cotignola was an Austrian lieutenant field marshal, and minister of the German Confederation.",
+      "body": "He spent his life in Greek, English, Spanish and Turkish service, was briefly foreign minister and navy minister of the Frankfurt Parliament of the German Confederation in 1849 and finished his career as an Austrian lieutenant field marshal. One of those thing",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/August_Giacomo_Jochmus_in_Turkish_Military_Uniform.jpg/330px-August_Giacomo_Jochmus_in_Turkish_Military_Uniform.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/August_Giacomo_Jochmus"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "\"The Morning After\" is a song written by Al Kasha and Joel Hirschhorn for the 1972 film The Poseidon Adventure, which won Best Original Song at the 45th Academy Awards.",
+      "body": "Following this success, Maureen McGovern recorded a single version that became a No. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/83/The_morning_after_by_maureen_mcgovern_US_single_side-A.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Morning_After_(Maureen_McGovern_song)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Homo Sapiens is a trilogy by Polish author Stanisław Przybyszewski.",
+      "body": "The novels were originally published in German as Über Bord, Unterwegs and Im Malstrom. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/22/Homo_sapiens_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Homo_sapiens_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘James Dean has got nothing on that kid’: River Phoenix films – ranked!",
+      "body": "<p>As Stand By Me is re-released for its 40th anniversary, we look at the late actor’s most intense, enduring roles – from a goofball boffin to a narcoleptic hustler</p><p>Issue-of-the-week TV movie about elder abuse, with Tuesday Weld as a",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/06/james-dean-has-got-nothing-on-that-kid-river-phoenix-films-ranked"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The head remained in Alexandria and a portion was returned in 1968.",
+      "body": "Saint Mark's relics, the remains of Mark the Evangelist, have been held in St Mark's Basilica in Venice, Italy since being stolen from Alexandria, Egypt in the ninth century AD. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Angelico%2C_linaioli_tabernacle_05.jpg/330px-Angelico%2C_linaioli_tabernacle_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saint_Mark's_relics"
     }
   ]
 }
