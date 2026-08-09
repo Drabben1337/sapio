@@ -1,113 +1,64 @@
 {
-  "generated": "2026-08-09T07:42:25.205Z",
-  "count": 19,
+  "generated": "2026-08-09T08:26:25.289Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Timeslip is a 1955 British black-and-white science fiction film directed by Ken Hughes and starring Gene Nelson and Faith Domergue.",
-      "body": "Snowden, it was written by Charles Eric Maine. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/95/Timeslip_FilmPoster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Timeslip_(1955_film)"
+      "cat": "history",
+      "opener": "On this day in 2021 —",
+      "hook": "The Tampere light rail officially starts operating.",
+      "body": "The Tampere light rail, branded as Tampere Tram, is a public transport system in Tampere, Finland. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/H%C3%A4meenkatu_tram_3.jpg/330px-H%C3%A4meenkatu_tram_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Tampere_light_rail"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1942 —",
+      "hook": "World War II: Battle of Savo Island: Allied naval forces protecting their amphibious forces during the initial stages of the Battle of Guadalcanal are surprised and defeated by an Imperial Japanese Navy cruiser force.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1830 —",
+      "hook": "Louis Philippe becomes the king of the French following abdication of Charles X.",
+      "body": "Louis Philippe I, nicknamed the Citizen King, was King of the French from 1830 to 1848, the penultimate monarch of France, the last French monarch to bear the title \"King\", and the only French monarch to descend from the Orléans branch of the Bourbon family. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/1841_portrait_painting_of_Louis_Philippe_I_%28King_of_the_French%29_by_Winterhalter.jpg/330px-1841_portrait_painting_of_Louis_Philippe_I_%28King_of_the_French%29_by_Winterhalter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Louis_Philippe_I"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Harry Potter and the Prisoner of Azkaban is a fantasy novel by British author J.",
-      "body": "The third novel in the Harry Potter series, it follows the young wizard Harry Potter during his third year at Hogwarts School of Witchcraft and Wizardry. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Harry_Potter_and_the_Prisoner_of_Azkaban.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "World War II: Continuation War: The Vyborg–Petrozavodsk Offensive, the largest offensive launched by Soviet Union against Finland during the Second World War, ends to a strategic stalemate. Both Finnish and Soviet troops at the Finnish front dig to defensive positions, and the front remains stable until the end of the war.",
-      "body": "The Continuation War, also known as the Second Soviet–Finnish War, was a conflict fought by Finland and Nazi Germany against the Soviet Union during World War II. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Finnish_soldiers_1944.jpg/330px-Finnish_soldiers_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Continuation_War"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The blockade began 10:00 EDT and applied only to ships going to and from Iran.",
-      "body": "On 13 April 2026, the United States imposed a naval blockade on Iran following the failure of the Islamabad Talks to end the 2026 Iran war. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PersianGulf_vue_satellite_du_golfe_persique_%28cropped%29.jpg/330px-PersianGulf_vue_satellite_du_golfe_persique_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1993 —",
-      "hook": "The Liberal Democratic Party of Japan loses a 38-year hold on national leadership.",
-      "body": "The Liberal Democratic Party, also known as Jimintō (自民党), is a major conservative and nationalist political party in Japan. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Liberal_Democratic_Party_%28Japan%29_Emblem.svg/330px-Liberal_Democratic_Party_%28Japan%29_Emblem.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Japan)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1500 —",
-      "hook": "Ottoman–Venetian War (1499–1503): The Ottomans capture Methoni, Messenia.",
-      "body": "The Second Ottoman–Venetian War was fought from 1499 to 1503 between the Ottoman Empire and the Republic of Venice for control of contested lands in the Aegean Sea, the Ionian Sea, and the Adriatic Sea. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Battle_of_Zonchio_1499.jpg/330px-Battle_of_Zonchio_1499.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1499%E2%80%931503)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-      "body": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Strictly dancers Ola and James Jordan separate after 23 years of marriage",
-      "body": "The professional dancers, who married in 2003, both spent several series on the BBC programme.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wyzrn57wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1897 —",
-      "hook": "The first International Congress of Mathematicians is held in Zürich, Switzerland.",
-      "body": "The International Congress of Mathematicians (ICM) is the largest conference for the topic of mathematics. The world is stranger than it lets on.",
+      "hook": "Paleontology or palaeontology is the study of prehistoric life forms on Earth through the examination of plant and animal fossils.",
+      "body": "This includes the study of body fossils, tracks (ichnites), burrows, cast-off parts, fossilised feces (coprolites), palynomorphs and chemical residues. Worth a quiet trip down the rabbit hole.",
       "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/International_Congress_of_Mathematicians"
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2017_in_reptile_paleontology"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Kellie Bright to leave EastEnders after 13 years",
-      "body": "The former Old Vic landlady Linda Carter is set to leave Walford.",
+      "hook": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "body": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cre40875r9vo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Butterfly Winter was the seventh novel published by the late Canadian writer W.P.",
-      "body": "The story of Julio and Esteban Pimental, twins whose divine destiny for baseball begins with games of catch in the womb, the novel marks a return to form, combining his long-held passions of baseball and magical realism. Worth a quiet trip down the rabbit hole",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d4/Butterfly_Winter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Butterfly_Winter"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
@@ -121,51 +72,80 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1892 —",
-      "hook": "Thomas Edison receives a patent for a two-way telegraph.",
-      "body": "Thomas Alva Edison was an American inventor and businessman known for his work on the incandescent light bulb, the phonograph, electric power distribution and early motion pictures. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+      "opener": "Here's one for the group chat —",
+      "hook": "The 1893 Dublin Senior Hurling Championship was the seventh staging of the Dublin Senior Hurling Championship since its establishment by the Dublin County Board.",
+      "body": "The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1893_Dublin_Senior_Hurling_Championship"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1970 —",
-      "hook": "LANSA Flight 502 crashes after takeoff from Alejandro Velasco Astete International Airport in Cusco, Peru, killing 99 of the 100 people on board, as well as two people on the ground.",
-      "body": "LANSA Flight 502 was a Lockheed L-188A Electra operated by Líneas Aéreas Nacionales Sociedad Anónima (LANSA) which crashed shortly after takeoff from Quispiquilla Airport near Cusco, Peru, on August 9, 1970, after losing all power from one of its four engines. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Cuzco-Boardi2.jpg/330px-Cuzco-Boardi2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1329 —",
+      "hook": "Quilon, the first Indian Christian Diocese, is erected by Pope John XXII; the French-born Jordanus is appointed the first Bishop.",
+      "body": "The Diocese of Quilon is a Latin Church diocese of the Catholic Church based in the southern Indian city of Kollam. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coat_of_Arms%2C_Diocese_of_Quilon.png/330px-Coat_of_Arms%2C_Diocese_of_Quilon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/LANSA_Flight_502"
+      "url": "https://en.wikipedia.org/wiki/Diocese_of_Quilon"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The 2014–15 World Rugby Women's Sevens Series was the third edition of the World Rugby Women's Sevens Series, an annual series of tournaments organised by World Rugby for women's national teams in rugby sevens.",
+      "body": "The series also doubled as an Olympic qualifier for the first time ever. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2014%E2%80%9315_World_Rugby_Women's_Sevens_Series"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "body": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "hook": "Strictly dancers Ola and James Jordan separate after 23 years of marriage",
+      "body": "The professional dancers, who married in 2003, both spent several series on the BBC programme.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cy9wyzrn57wo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Angels Sing is a 2012 Christmas family drama film directed by Tim McCanlies and starring Harry Connick Jr., Connie Britton, Chandler Canterbury, Fionnula Flanagan, Lyle Lovett, Willie Nelson and Kris Kristofferson.",
-      "body": "It is an adaptation of Turk Pipkin's 1999 novel When Angels Sing. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Angels_Sing_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "6th Anti-Aircraft Brigade was an air defense formation of the British Army formed during the Second World War.",
+      "body": "It served in the disastrous Norwegian Campaign in 1940 and then defended East Anglia during the Battle of Britain and The Blitz. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Angels_Sing"
+      "url": "https://en.wikipedia.org/wiki/6th_Anti-Aircraft_Brigade_(United_Kingdom)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Devil Wears Prada is a 2006 American comedy-drama film directed by David Frankel and produced by Wendy Finerman.",
-      "body": "The screenplay, written by Aline Brosh McKenna, is based on the 2003 novel by Lauren Weisberger. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/The_Devil_Wears_Prada_main_onesheet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The system of State Labor Savings Banks of the USSR was the main retail bank of the Soviet Union, which in some respects perpetuated the prior operations of savings banks or Sberkassy in the Russian Empire.",
+      "body": "Unlike in other countries, the Soviet savings banks were not autonomous entities but were fully part of the state administration. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Soviet_Union-Savings-bank_book.jpg/330px-Soviet_Union-Savings-bank_book.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(film)"
+      "url": "https://en.wikipedia.org/wiki/State_Labor_Savings_Banks_System_of_the_USSR"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Kellie Bright to leave EastEnders after 13 years",
+      "body": "The former Old Vic landlady Linda Carter is set to leave Walford.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cre40875r9vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "SHeDAISY, originally the Osborn Sisters, was an American country music vocal group from Magna, Utah.",
+      "body": "The group consisted of sisters Kassidy, Kelsi, and Kristyn Osborn. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SheDAISY_2007.JPEG/330px-SheDAISY_2007.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SHeDAISY"
     },
     {
       "type": "card",
@@ -178,12 +158,42 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1979 —",
+      "hook": "Female workers of YH Trading in South Korea hold a sit-in protest in response to the company's unilateral shutdown.",
+      "body": "In August 1979, female garment workers employed at the YH Trading Company in Seoul, South Korea held a sit-in protest at headquarters of the opposition New Democratic Party in response to the company's unilateral shutdown and their impending redundancy. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/YH_incident"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "opener": "BBC Entertainment —",
+      "hook": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "body": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Minuscule 903, ε 4002, is a 14th-century Greek minuscule manuscript of the New Testament on paper.",
+      "body": "The manuscript has survived in complete condition. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Minuscule_903"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1500 —",
+      "hook": "Ottoman–Venetian War (1499–1503): The Ottomans capture Methoni, Messenia.",
+      "body": "The Second Ottoman–Venetian War was fought from 1499 to 1503 between the Ottoman Empire and the Republic of Venice for control of contested lands in the Aegean Sea, the Ionian Sea, and the Adriatic Sea. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Battle_of_Zonchio_1499.jpg/330px-Battle_of_Zonchio_1499.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1499%E2%80%931503)"
     }
   ]
 }
