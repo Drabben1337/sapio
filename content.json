@@ -1,7 +1,106 @@
 {
-  "generated": "2026-08-09T04:06:46.804Z",
-  "count": 13,
+  "generated": "2026-08-09T05:37:59.668Z",
+  "count": 19,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "A goodwill ambassador may be an individual from one country who resides in or travels to another country on a diplomatic mission at a peer to peer level.",
+      "body": "Goodwill ambassador is a post-nominal honorific title, a professional occupation and/or authoritative designation that is assigned to a person who advocates for a specific cause or global issue on the basis of their notability such as a public figure, advocate",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/5.9.18_Kristin_Davis_Goodwill_Ambassador_UNHCR_%2828153301858%29.jpg/330px-5.9.18_Kristin_Davis_Goodwill_Ambassador_UNHCR_%2828153301858%29.jpg",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Goodwill_ambassador"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1960 —",
+      "hook": "South Kasai secedes from the Congo.",
+      "body": "South Kasai was an unrecognised secessionist state within the Republic of the Congo which was semi-independent between 1960 and 1962. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flag_of_South_Kasai.svg/330px-Flag_of_South_Kasai.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/South_Kasai"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1892 —",
+      "hook": "Thomas Edison receives a patent for a two-way telegraph.",
+      "body": "Thomas Alva Edison was an American inventor and businessman known for his work on the incandescent light bulb, the phonograph, electric power distribution and early motion pictures. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1971 —",
+      "hook": "The Troubles: In Northern Ireland, the British authorities launch Operation Demetrius. The operation involves the mass arrest and internment without trial of individuals suspected of being affiliated with the Irish Republican Army (PIRA). Mass riots follow, and thousands of people flee or are forced out of their homes.",
+      "body": "The Troubles were an ethno-nationalist conflict in Northern Ireland that lasted for about 30 years from the late 1960s to 1998. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Map_of_Ireland%27s_capitals.png/330px-Map_of_Ireland%27s_capitals.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/The_Troubles"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1999 —",
+      "hook": "Russian president Boris Yeltsin fires his prime minister, Sergei Stepashin, and for the fourth time fires his entire cabinet.",
+      "body": "Boris Nikolayevich Yeltsin was a Soviet and Russian politician who served as President of Russia from 1991 to 1999. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Yeltsin_%283x4_cropped%29.jpg/330px-Boris_Yeltsin_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Boris_Yeltsin"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Passover sacrifice, also known as the Paschal lamb or the Passover lamb, is the sacrifice that the Torah mandates the Israelites to ritually slaughter on the evening of Nisan 14, before Passover of Nisan 15, and eat lamb on the first night of the holiday with bitter herbs and matzo.",
+      "body": "According to the Torah, it was first offered on the night of the Exodus from Egypt. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%D7%9E%D7%A2%D7%9E%D7%93_%D7%94%D7%9B%D7%A0%D7%94_%D7%9C%D7%A7%D7%A8%D7%90%D7%AA_%D7%A7%D7%A8%D7%91%D7%9F_%D7%A4%D7%A1%D7%97.JPG/330px-%D7%9E%D7%A2%D7%9E%D7%93_%D7%94%D7%9B%D7%A0%D7%94_%D7%9C%D7%A7%D7%A8%D7%90%D7%AA_%D7%A7%D7%A8%D7%91%D7%9F_%D7%A4%D7%A1%D7%97.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Passover_sacrifice"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Ryūsui Seiryōin is a Japanese novelist, active in mystery and various other fields.",
+      "body": "He was born in 1974, in Hyōgo Prefecture, Japan. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ry%C5%ABsui_Seiry%C5%8Din"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "John Davis McCaughey was an Irish-born Australian academic theologian, Christian minister, university administrator and the 23rd Governor of Victoria from 1986 to 1992.",
+      "body": "The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Davis_McCaughey"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1979 —",
+      "hook": "Female workers of YH Trading in South Korea held a sit-in protest in response to the company's unilateral shutdown.",
+      "body": "In August 1979, female garment workers employed at the YH Trading Company in Seoul, South Korea held a sit-in protest at headquarters of the opposition New Democratic Party in response to the company's unilateral shutdown and their impending redundancy. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/YH_incident"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -40,23 +139,13 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Oksi is a graphic novel written and illustrated by Mari Ahokoivu.",
-      "body": "Originally released in Finnish and published by Asema Kustannus in August 2018, the novel was translated into English by Silja-Maaria Aronpuro and published by Levine Querido on October 26, 2021. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/14/Oksi_-_original_edition_cover_art.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Oksi"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Alex Michaelides is a bestselling British Cypriot author and screenwriter.",
-      "body": "His debut novel, the psychological thriller The Silent Patient, is a New York Times and Sunday Times bestseller, with over 6.5 million copies sold. Worth a quiet trip down the rabbit hole.",
+      "cat": "history",
+      "opener": "On this day in 1854 —",
+      "hook": "American Transcendentalist philosopher Henry David Thoreau publishes his memoir Walden.",
+      "body": "Transcendentalism is a philosophical, spiritual, and literary movement that developed in the late 1820s and 1830s in the New England region of the United States. The world is stranger than it lets on.",
       "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Alex_Michaelides"
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Transcendentalism"
     },
     {
       "type": "card",
@@ -69,35 +158,6 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Dark Buildings (A Crack in the Wall) (Spanish: Las grietas de Jara) is a 2018 Argentine-Spanish thriller film directed by Nicolás Gil Lavedra based on the novel of Claudia Piñeiro.",
-      "body": "Its stars Oscar Martínez, Joaquín Furriel, and Soledad Villamil along with Sara Sálamo, Laura Novoa, and Santiago Segura. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dark_Buildings_(A_Crack_in_the_Wall)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Cat Who Went to Paris is an American non-fiction book by Peter Gethers published in 1991 that documents the first part of his life with his cat Norton, a Scottish Fold.",
-      "body": "Gethers subsequently wrote two sequels about his life with Norton, A Cat Abroad (ISBN 9780449909522) and The Cat Who'll Live Forever: The Final Adventures of Norton, the Perfect Cat, and His Imperfect Human (ISBN 9780767909037). Bring it up somewhere. Watch th",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/Peter_Gethers_-_The_Cat_Who_Went_to_Paris.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Cat_Who_Went_to_Paris"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
@@ -107,23 +167,23 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "It was released on DVD on June 17, 2008.",
-      "body": "Start the Machine is a documentary that focuses on the break-up of Blink-182, the genesis of Angels & Airwaves, and the making of their debut album We Don't Need to Whisper. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Angels_%26_Airwaves_-_Start_the_Machine_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Bonnie Jeanne Dunbar is an American engineer and retired NASA astronaut.",
+      "body": "She flew on five Space Shuttle missions between 1985 and 1998, including two dockings with the Mir space station. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bonnie_J._Dunbar.jpg/330px-Bonnie_J._Dunbar.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Start_the_Machine_(film)"
+      "url": "https://en.wikipedia.org/wiki/Bonnie_J._Dunbar"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "In the Mesh is a screenplay written by Jean-Paul Sartre in 1946 and published in 1948.",
-      "body": "Although it was conceived as a film script, it was never made into a movie. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/ed/L%27Engrenage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Christian Carlos Hernan Castillo is an Argentinian activist, politician, sociologist and university teacher.",
+      "body": "He is a founding member of the Socialist Workers' Party (Argentina) (PTS). The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Christian_castillo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/In_the_Mesh"
+      "url": "https://en.wikipedia.org/wiki/Christian_Castillo_(politician)"
     }
   ]
 }
