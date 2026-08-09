@@ -1,46 +1,63 @@
 {
-  "generated": "2026-08-09T16:18:09.970Z",
-  "count": 26,
+  "generated": "2026-08-09T17:19:22.121Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "It is the first science and technology university in the northern part of the country.",
-      "body": "Hajee Mohammad Danesh Science and Technology University (HSTU) is a public university located in Dinajpur, Rangpur Division, Bangladesh. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/HSTU_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hajee_Mohammad_Danesh_Science_%26_Technology_University"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Pusô or tamu, sometimes known in Philippine English as \"hanging rice\", is a Filipino rice cake made by boiling rice in a woven pouch of palm leaves.",
-      "body": "It is most commonly found in octahedral, diamond, or rectangular shapes, but it can also come in various other intricately woven complex forms. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Puso-_Rice_from_Cebu_City.JPG/330px-Puso-_Rice_from_Cebu_City.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pus%C3%B4"
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Drought and heat push Europe&#8217;s power grid to breaking point",
+      "body": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Andrew Spielman was a prominent American public health entomologist and Professor of Tropical Public Health in the Department of Immunology and Infectious Disease at the Harvard School of Public Health (HSPH).",
-      "body": "The world is stranger than it lets on.",
-      "img": null,
+      "hook": "Nicholas Revett (1720–1804) was a British architect.",
+      "body": "Revett is best known for his work with James \"Athenian\" Stuart documenting the ruins of ancient Athens. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nicholas_Revett.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Andrew_Spielman"
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Revett"
     },
     {
       "type": "card",
-      "cat": "history",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Could geoengineering ‘ice arches’ help preserve Arctic sea ice?",
+      "body": "Researchers are investigating whether artificially thickening ice blockages between Canada and Greenland could prevent huge amounts of sea ice from flowing south to melt",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583296-could-geoengineering-ice-arches-help-preserve-arctic-sea-ice/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Future-oriented therapy (FOT) and future-directed therapy (FDT) are approaches to psychotherapy that place greater emphasis on the future than on the past or present.",
-      "body": "The world is stranger than it lets on.",
+      "hook": "Mathews Mar Pachomios is the Eparchial Bishop of the Eparchy of St Ephrem Khadki.",
+      "body": "He was appointed as the 2nd Bishop of the Eparchy on December 12, 2023. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Future-oriented_therapy"
+      "url": "https://en.wikipedia.org/wiki/Mathews_Pachomios"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Kenya Television Network (KTN) is a Kenyan free-to-air television network that was launched in March 1990 by Jared Kangwana.",
+      "body": "It is headquartered at Standard Group Centre, Nairobi. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/KTN.2014-present_logo.jpg/330px-KTN.2014-present_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kenya_Television_Network"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "SpaceX crash site on moon revealed by South Korean orbiter",
+      "body": "An out-of-control SpaceX rocket that crashed into the moon earlier this week did, in fact, leave an impact crater, according to images from a Korea AeroSpace Administration lunar orbiter that caught before-and-after photographs",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583782-spacex-crash-site-on-moon-revealed-by-south-korean-orbiter/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
@@ -53,169 +70,22 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1830 —",
-      "hook": "Louis Philippe becomes the king of the French following abdication of Charles X.",
-      "body": "Louis Philippe I, nicknamed the Citizen King, was King of the French from 1830 to 1848, the penultimate monarch of France, the last French monarch to bear the title \"King\", and the only French monarch to descend from the Orléans branch of the Bourbon family. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/1841_portrait_painting_of_Louis_Philippe_I_%28King_of_the_French%29_by_Winterhalter.jpg/330px-1841_portrait_painting_of_Louis_Philippe_I_%28King_of_the_French%29_by_Winterhalter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Louis_Philippe_I"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1970 —",
-      "hook": "LANSA Flight 502 crashes after takeoff from Alejandro Velasco Astete International Airport in Cusco, Peru, killing 99 of the 100 people on board, as well as two people on the ground.",
-      "body": "LANSA Flight 502 was a Lockheed L-188A Electra operated by Líneas Aéreas Nacionales Sociedad Anónima (LANSA) which crashed shortly after takeoff from Quispiquilla Airport near Cusco, Peru, on August 9, 1970, after losing all power from one of its four engines. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Cuzco-Boardi2.jpg/330px-Cuzco-Boardi2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/LANSA_Flight_502"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "I Rarely Wake Up Dreaming review – brilliant bulletin from Ukrainian frontline dives deep into culture war",
-      "body": "<p><strong>Locarno film festival<br></strong>A couple attempting to leave Ukraine when the war encounter gender identity issues in this bold and challenging film</p><p></p><p>A movie’s themes could hardly be more urgent and contemporary tha",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/09/i-rarely-wake-up-dreaming-review"
-    },
-    {
-      "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Kiel Urban Mueller, known professionally as Kiel Martin, was an American actor best known for his role as Detective John \"J.",
-      "body": "D.\" LaRue on the 1980s television police drama Hill Street Blues. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kiel_Martin_%22Second_Chance%22_%281987_FOX_press_photo%29.jpg/330px-Kiel_Martin_%22Second_Chance%22_%281987_FOX_press_photo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Schütte-Lanz D.II was a variant of the Schütte-Lanz D.I.",
+      "body": "The only change was a new engine - the 100 hp Mercedes D.I 6-cylinder water-cooled engine replacing the 80 hp Oberursel U.0 rotary engine in the D.I. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kiel_Martin"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Gibson Brothers are a French musical group, originally from Martinique, who had their greatest success during the disco boom of the late 1970s.",
-      "body": "Their best known hit singles included \"Non-stop dance\", \"Cuba\" and \"Que Sera Mi Vida\". The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gibson_Brothers_-_2018082185934_2018-03-23_Radio_Regenbogen_Award_2018_-_Sven_-_1D_X_MK_II_-_0299_-_B70I2078.jpg/330px-Gibson_Brothers_-_2018082185934_2018-03-23_Radio_Regenbogen_Award_2018_-_Sven_-_1D_X_MK_II_-_0299_-_B70I2078.jpg",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gibson_Brothers"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Species in the genus Homopholis are native to Sub-Saharan Africa.",
-      "body": "Homopholis is a genus of geckos in the family Gekkonidae. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Homopholis_fasciata1_cropped.JPG/330px-Homopholis_fasciata1_cropped.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Homopholis"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Puerto Rican Nationalist Party insurgency was a series of coordinated uprisings for the secession of Puerto Rico led by the president of the Puerto Rican Nationalist Party, Don Pedro Albizu Campos, against the United States government's rule over the islands of Puerto Rico.",
-      "body": "The party repudiated the \"Free Associated State\" status that had been enacted in 1950 and which the Nationalists considered a continuation of colonialism. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Flag_of_the_Puerto_Rican_Nationalist_Party.svg/330px-Flag_of_the_Puerto_Rican_Nationalist_Party.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Puerto_Rican_Nationalist_Party_insurgency"
+      "url": "https://en.wikipedia.org/wiki/Sch%C3%BCtte-Lanz_D.II"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Last House review – post-Covid apocalyptic lockdown thriller is a solid night in",
-      "body": "<p>Oscar nominee Wagner Moura and Greta Lee lead Netflix’s sci-fi tale of a family trapped in their house as something sinister arrives</p><p>Most of us aren’t truly ready for films that directly cover the recent horrors of Covid and, well,",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/07/the-last-house-review-thriller-movie"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Drought and heat push Europe&#8217;s power grid to breaking point",
-      "body": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Here's one for the group chat —",
-      "hook": "Uzbekistan joined the community on 7 October 2005, but later withdrew on 16 October 2008.",
-      "body": "The Eurasian Economic Community was a regional organisation between 2000 and 2014 which aimed for the economic integration of its member states. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Timeline_of_EAEU_Integration_-_WTO.png/330px-Timeline_of_EAEU_Integration_-_WTO.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Eurasian_Economic_Community"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1855 —",
-      "hook": "Åland War: The Battle of Suomenlinna begins.",
-      "body": "The Åland War was the operations of an Anglo-French naval force against military and civilian facilities on the coast of the Grand Duchy of Finland in 1854–1856, during the Crimean War between Russia and the allied France and Britain. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Escadre_franco-anglaise_devant_Bomarsund.jpg/330px-Escadre_franco-anglaise_devant_Bomarsund.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/%C3%85land_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Total solar eclipse: how to watch live from home",
-      "body": "A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from anywhere in the world. Quick links: - Live ESA broadcast on YouTube",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Here's one for the group chat —",
-      "hook": "Tea dances are events organized on Sunday afternoons in the US gay community, originating in New York in the 1950s and 1960s.",
-      "body": "The original dances included tea service. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tea_dance_(gay_event)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "Dmitri Shostakovich's 7th symphony premieres in a besieged Leningrad.",
-      "body": "Dmitri Dmitriyevich Shostakovich was a Soviet-era Russian composer and pianist who became internationally known after the premiere of his First Symphony in 1926 and thereafter was regarded as a major composer. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BE%D1%81%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D1%87.jpg/330px-%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BE%D1%81%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D1%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "It was established in 1995 to provide a secondary and A-level education for students who were not selected for government schools.",
-      "body": "Loyola High School is a private, Catholic, English-medium, secondary school run by the Eastern Africa Jesuit Province of the Society of Jesus in the Mabibo Farasi ward of Ubungo District, Dar-es-salaam Region, Tanzania. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/LoyolaTanzania.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Loyola_School%2C_Dar_es_Salaam"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "It was founded in 1967 with the primary objective of accrediting Master of Business Administration (MBA) programmes.",
-      "body": "The Association of MBAs (AMBA) is a global organisation headquartered in London, UK. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Association_of_MBAs"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Okay, this one's fun —",
-      "hook": "Published in Barcelona by Noguer in 1973, it was subsequently turned into a successful film in 1998.",
-      "body": "Mararía (1973) is a novel by the Spanish Canarian writer Rafael Arozarena. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marar%C3%ADa"
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ sets 10-day North American box office record",
+      "body": "A24 reports best limited opening of the year for ‘Tony’. ’Teenage Sex And Death At Camp Miasma’ opens well for Mubi.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-sets-10-day-north-american-box-office-record/5219219.article"
     },
     {
       "type": "card",
@@ -228,32 +98,22 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Edinburgh director Paul Ridd on why he would love to create a film market at the festival",
-      "body": "”It starts with building the confidence of the market, of sales reps, producers, filmmakers.”",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/edinburgh-director-paul-ridd-on-why-he-would-love-to-create-a-film-market-at-the-festival/5219175.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1979 —",
-      "hook": "Female workers of YH Trading in South Korea hold a sit-in protest in response to the company's unilateral shutdown.",
-      "body": "In August 1979, female garment workers employed at the YH Trading Company in Seoul, South Korea held a sit-in protest at headquarters of the opposition New Democratic Party in response to the company's unilateral shutdown and their impending redundancy. Bring it up somewhere. Watch the reaction.",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Curtis Lynea Meinert was an American clinical trialist.",
+      "body": "He was a professor of epidemiology and biostatistics at Johns Hopkins Bloomberg School of Public Health. Bring it up somewhere. Watch the reaction.",
       "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/YH_incident"
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Curtis_L._Meinert"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "The United States Forest Service and the Wartime Advertising Council release posters featuring Smokey Bear for the first time.",
-      "body": "The United States Forest Service (USFS) is an agency within the United States Department of Agriculture. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_the_United_States_Forest_Service.svg/330px-Logo_of_the_United_States_Forest_Service.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/United_States_Forest_Service"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "I Rarely Wake Up Dreaming review – brilliant bulletin from Ukrainian frontline dives deep into culture war",
+      "body": "<p><strong>Locarno film festival<br></strong>A couple attempting to leave Ukraine when the war encounter gender identity issues in this bold and challenging film</p><p></p><p>A movie’s themes could hardly be more urgent and contemporary tha",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/09/i-rarely-wake-up-dreaming-review"
     }
   ]
 }
