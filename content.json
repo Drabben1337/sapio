@@ -1,15 +1,16 @@
 {
-  "generated": "2026-08-09T09:25:40.129Z",
-  "count": 17,
+  "generated": "2026-08-09T10:19:41.010Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "cat": "history",
+      "opener": "On this day in 1862 —",
+      "hook": "American Civil War: Battle of Cedar Mountain: At Cedar Mountain, Virginia, Confederate General Stonewall Jackson narrowly defeats Union forces under General John Pope.",
+      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
     },
     {
       "type": "card",
@@ -22,22 +23,32 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1971 —",
+      "hook": "The Troubles: In Northern Ireland, the British authorities launch Operation Demetrius. The operation involves the mass arrest and internment without trial of individuals suspected of being affiliated with the Irish Republican Army (PIRA). Mass riots follow, and thousands of people flee or are forced out of their homes.",
+      "body": "The Troubles were an ethno-nationalist conflict in Northern Ireland that lasted for about 30 years from the late 1960s to 1998. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Map_of_Ireland%27s_capitals.png/330px-Map_of_Ireland%27s_capitals.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/The_Troubles"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "body": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "hook": "Strictly dancers Ola and James Jordan separate after 23 years of marriage",
+      "body": "The professional dancers, who married in 2003, both spent several series on the BBC programme.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cy9wyzrn57wo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Yao Xueyin was a Chinese novelist who was a member of China Writers Association.",
-      "body": "Yao was a member of the 5th, 6th, and 7th National Committee of the Chinese People's Political Consultative Conference. One of those things you can't un-know.",
+      "opener": "Okay, this one's fun —",
+      "hook": "Mircea Florian, also known as Florian din Transilvania, M.",
+      "body": "Florian, and FloriMAN, is a Romanian multi-instrumentalist musician, multimedia artist and computer scientist, based in Germany. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Yao_Xueyin"
+      "url": "https://en.wikipedia.org/wiki/Mircea_Florian_(musician)"
     },
     {
       "type": "card",
@@ -51,11 +62,89 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1897 —",
+      "hook": "The first International Congress of Mathematicians is held in Zürich, Switzerland.",
+      "body": "The International Congress of Mathematicians (ICM) is the largest conference for the topic of mathematics. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/International_Congress_of_Mathematicians"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Conde–Charlotte House, also known as the Kirkbride House, is a historic house museum in Mobile, Alabama.",
+      "body": "The earliest section of the building, the rear kitchen wing, was built in 1822. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Conde-Charlotte_House.JPG/330px-Conde-Charlotte_House.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Conde%E2%80%93Charlotte_House"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Mahuma Paul Rapetsoa was a South African actor, playwright, radio broadcaster and theatre manager.",
+      "body": "Often called the \"father of township theatre\" in Limpopo, he is best known for his portrayal of Malome Josias on the SABC1 soap opera Skeem Saam, his leadership of the Thobela FM drama department, and for founding a community theatre institute that trained gen",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paul_Rapetsoa"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1892 —",
+      "hook": "Thomas Edison receives a patent for a two-way telegraph.",
+      "body": "Thomas Alva Edison was an American inventor and businessman known for his work on the incandescent light bulb, the phonograph, electric power distribution and early motion pictures. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1993 —",
+      "hook": "The Liberal Democratic Party of Japan loses a 38-year hold on national leadership.",
+      "body": "The Liberal Democratic Party, also known as Jimintō (自民党), is a major conservative and nationalist political party in Japan. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Liberal_Democratic_Party_%28Japan%29_Emblem.svg/330px-Liberal_Democratic_Party_%28Japan%29_Emblem.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Japan)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Elizabeth Mary Aslin was an English art historian, administrator, author and lecturer who was a specialist in 19th and 20th century decorative arts.",
+      "body": "She was a research assistant in the Circulation Department of the Victoria and Albert Museum (V&A) between 1947 and 1964, before becoming a part-time assistant keeper in charge of Bethnal Green Museum from 1964 to 1968. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Mary_Aslin"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Strictly dancers Ola and James Jordan separate after 23 years of marriage",
-      "body": "The professional dancers, who married in 2003, both spent several series on the BBC programme.",
+      "hook": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "body": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wyzrn57wo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "body": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -78,92 +167,13 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1979 —",
-      "hook": "Female workers of YH Trading in South Korea hold a sit-in protest in response to the company's unilateral shutdown.",
-      "body": "In August 1979, female garment workers employed at the YH Trading Company in Seoul, South Korea held a sit-in protest at headquarters of the opposition New Democratic Party in response to the company's unilateral shutdown and their impending redundancy. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/YH_incident"
-    },
-    {
-      "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Christopher Trumbo was an American television writer, screenwriter and playwright.",
-      "body": "Trumbo was considered an expert on the McCarthy-era Hollywood blacklist. One of those things you can't un-know.",
-      "img": null,
+      "hook": "Sir Alexander Johnston, PC, FRS, was a British colonial official who served as third Chief Justice of Ceylon and second Advocate Fiscal of Ceylon.",
+      "body": "He introduced a range of administrative reforms in Sri Lanka, introducing numerous liberal ideas and supporting the rights of natives. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Sir_Alexander_Johnston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Christopher_Trumbo"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Euonymus hamiltonianus, known by the common names Hamilton's spindletree, Himalayan spindle, and Siebold's spindle is a species of flowering plant in the family Celastraceae.",
-      "body": "It is native to Asia, where it is distributed in Afghanistan, Russia, China, Japan, Korea, India, Nepal, Pakistan, Bhutan, Thailand, and Myanmar. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Euonymus_hamiltonianus_3.JPG/330px-Euonymus_hamiltonianus_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Euonymus_hamiltonianus"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-      "body": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "John McNutt, known as Tico McNutt, started the Wild Dog Research Project in 1989.",
-      "body": "His research in that field has been supported in part by the National Geographic Society. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tico_McNutt"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1973 —",
-      "hook": "Mars 7 is launched from the USSR.",
-      "body": "Mars 7, also known as 3MP No.51P was a Soviet spacecraft launched in 1973 to explore Mars. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mars_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mars_7"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2021 —",
-      "hook": "The Tampere light rail officially starts operating.",
-      "body": "The Tampere light rail, branded as Tampere Tram, is a public transport system in Tampere, Finland. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/H%C3%A4meenkatu_tram_3.jpg/330px-H%C3%A4meenkatu_tram_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tampere_light_rail"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2006 —",
-      "hook": "At least 21 suspected terrorists are arrested in the 2006 transatlantic aircraft plot that happened in the United Kingdom. The arrests are made in London, Birmingham, and High Wycombe in an overnight operation.",
-      "body": "The 2006 transatlantic aircraft plot was a terrorist plot to detonate liquid explosives, carried aboard airliners travelling from the United Kingdom to the United States and Canada, disguised as soft drinks. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/2006-08-10_police_raid_walthamstow_london_uk-NOISEedit.jpg/330px-2006-08-10_police_raid_walthamstow_london_uk-NOISEedit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2006_transatlantic_aircraft_plot"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1993 —",
-      "hook": "The Liberal Democratic Party of Japan loses a 38-year hold on national leadership.",
-      "body": "The Liberal Democratic Party, also known as Jimintō (自民党), is a major conservative and nationalist political party in Japan. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Liberal_Democratic_Party_%28Japan%29_Emblem.svg/330px-Liberal_Democratic_Party_%28Japan%29_Emblem.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Japan)"
+      "url": "https://en.wikipedia.org/wiki/Alexander_Johnston_(1775%E2%80%931849)"
     }
   ]
 }
