@@ -1,7 +1,17 @@
 {
-  "generated": "2026-08-09T19:22:54.371Z",
-  "count": 16,
+  "generated": "2026-08-09T20:16:15.379Z",
+  "count": 20,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1892 —",
+      "hook": "Thomas Edison receives a patent for a two-way telegraph.",
+      "body": "Thomas Alva Edison was an American inventor and businessman known for his work on the incandescent light bulb, the phonograph, electric power distribution and early motion pictures. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,13 +23,23 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Crown Representative for Small Businesses in the Government of the United Kingdom is an appointed position with responsibility in the field of procurement for the relationship between the UK Government and small and medium-sized enterprises (SMEs).",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Coat_of_arms_of_the_United_Kingdom_%282024%2C_lesser_arms%29.svg/330px-Coat_of_arms_of_the_United_Kingdom_%282024%2C_lesser_arms%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crown_Representative_for_Small_Businesses"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 2024 —",
-      "hook": "Voepass Linhas Aéreas Flight 2283 crashes near Vinhedo, São Paulo, killing all 62 people on board.",
-      "body": "Voepass Flight 2283 was a scheduled domestic Brazilian passenger flight from Cascavel to Guarulhos. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/PS-VPB_ATR_72-500_Voepass_SBSV_%28cropped%29.jpg/330px-PS-VPB_ATR_72-500_Voepass_SBSV_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1610 —",
+      "hook": "The First Anglo-Powhatan War begins in colonial Virginia.",
+      "body": "The Anglo–Powhatan Wars were three wars fought between settlers of the Colony of Virginia and the Powhatan People of Tsenacommacah in the early 17th century. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matth%C3%A4us_Merian_d%C3%86%2C_S%C3%A5ledes_blev_ogs%C3%A5_denne_fred_brudt_p%C3%A5_grund_af_bedrag%2C_KKSgb10894-5%2C_Statens_Museum_for_Kunst.jpg/330px-Matth%C3%A4us_Merian_d%C3%86%2C_S%C3%A5ledes_blev_ogs%C3%A5_denne_fred_brudt_p%C3%A5_grund_af_bedrag%2C_KKSgb10894-5%2C_Statens_Museum_for_Kunst.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Voepass_Flight_2283"
+      "url": "https://en.wikipedia.org/wiki/Anglo-Powhatan_Wars"
     },
     {
       "type": "card",
@@ -32,6 +52,16 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1979 —",
+      "hook": "Female workers of YH Trading in South Korea hold a sit-in protest in response to the company's unilateral shutdown.",
+      "body": "In August 1979, female garment workers employed at the YH Trading Company in Seoul, South Korea held a sit-in protest at headquarters of the opposition New Democratic Party in response to the company's unilateral shutdown and their impending redundancy. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/YH_incident"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "ESA —",
       "hook": "Webb opens a Treasure Chest filled with stars",
@@ -41,13 +71,62 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2012 —",
-      "hook": "Shannon Eastin becomes the first woman to officiate an NFL game.",
-      "body": "Shannon Eastin is a former NFL official; she was the first female official of the National Football League (NFL). Worth a quiet trip down the rabbit hole.",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Sinhala Braille is one of the many Bharati braille alphabets.",
+      "body": "While it largely conforms to the letter values of other Bharati alphabets, it diverges in the values of the letters assigned toward the end of those alphabets. The world is stranger than it lets on.",
       "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sinhala_Braille"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1993 —",
+      "hook": "The Liberal Democratic Party of Japan loses a 38-year hold on national leadership.",
+      "body": "The Liberal Democratic Party, also known as Jimintō (自民党), is a major conservative and nationalist political party in Japan. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Liberal_Democratic_Party_%28Japan%29_Emblem.svg/330px-Liberal_Democratic_Party_%28Japan%29_Emblem.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Shannon_Eastin"
+      "url": "https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Japan)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2007 —",
+      "hook": "Air Moorea Flight 1121 crashes after takeoff from Moorea Airport in French Polynesia, killing all 20 people on board.",
+      "body": "Air Moorea Flight 1121 was a de Havilland Canada DHC-6 Twin Otter which crashed into the ocean shortly after takeoff from Moorea Airport on Moorea Island in French Polynesia on 9 August 2007 killing all 20 people on board. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Air_Moorea_DHC-6_Twin_Otter_%28_F-OIQI%29_on_final_approach_into_Papeete.jpg/330px-Air_Moorea_DHC-6_Twin_Otter_%28_F-OIQI%29_on_final_approach_into_Papeete.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Air_Moorea_Flight_1121"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ sets 10-day North American box office record",
+      "body": "A24 reports best limited opening of the year for ‘Tony’. ’Teenage Sex And Death At Camp Miasma’ opens well for Mubi.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-sets-10-day-north-american-box-office-record/5219219.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Bush in 2005, and has been continued by each successive U.S.",
+      "body": "The President's Malaria Initiative (PMI) is a U.S. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Credit_Brant_Stewart%2C_RTI_%2814802679425%29.jpg/330px-Credit_Brant_Stewart%2C_RTI_%2814802679425%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/President's_Malaria_Initiative"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Quatre-vingt-treize is a French silent film adapted by Alexandre Arnoux based on the novel Ninety-Three by Victor Hugo.",
+      "body": "Originally undertaken as a follow-up to his great success with Les misérables (1913), director Albert Capellani began the project in the spring and summer of 1914, but the war interrupted shooting and Capellani left France for the United States, not to return ",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Quatre-vingt-treize_%281920%29.jpg/330px-Quatre-vingt-treize_%281920%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quatre-vingt-treize_(film)"
     },
     {
       "type": "card",
@@ -61,41 +140,12 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 378 —",
-      "hook": "Gothic War: Battle of Adrianople: A large Roman army led by Emperor Valens is defeated by the Visigoths. Valens is killed along with over half of his army.",
-      "body": "The Gothic War of 376–382 was one of several Gothic Wars in Roman history in which the Goths fought against the Roman Empire. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Theodosius_obeliszk_-_Isztambul%2C_2014.10.23_%282%29.JPG/330px-Theodosius_obeliszk_-_Isztambul%2C_2014.10.23_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1925 —",
+      "hook": "A train robbery takes place in Kakori, near Lucknow, India, by the Indian independence revolutionaries, against the British government.",
+      "body": "The Kakori train Action was a train robbery that took place at Kakori, a village near Lucknow, on 9 August 1925, during the Indian independence movement against the British rule in India. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mauser_C96_prototype_1895Mar15.jpg/330px-Mauser_C96_prototype_1895Mar15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Gothic_War_(376%E2%80%93382)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Ashley Collins is an American Contemporary Painter.",
-      "body": "Collins's massive scaled paintings are found in blue chip collections and museums worldwide. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Artist_Ashley_Collins_In_Studio.jpg/330px-Artist_Ashley_Collins_In_Studio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ashley_Collins"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Could geoengineering ‘ice arches’ help preserve Arctic sea ice?",
-      "body": "Researchers are investigating whether artificially thickening ice blockages between Canada and Greenland could prevent huge amounts of sea ice from flowing south to melt",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583296-could-geoengineering-ice-arches-help-preserve-arctic-sea-ice/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Wang Yintai was a politician in the Republic of China.",
-      "body": "He belonged to Fengtian clique, later he became an important politician during the Provisional Government of the Republic of China and the Wang Jingwei regime. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Wang_Yintai2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wang_Yintai"
+      "url": "https://en.wikipedia.org/wiki/Kakori_conspiracy"
     },
     {
       "type": "card",
@@ -108,52 +158,42 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1974 —",
-      "hook": "As a direct result of the Watergate scandal, Richard Nixon becomes the first president of the United States to resign from office. Vice President Gerald Ford becomes president.",
-      "body": "The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Watergate_scandal"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1854 —",
-      "hook": "American Transcendentalist philosopher Henry David Thoreau publishes his memoir Walden.",
-      "body": "Transcendentalism is a philosophical, spiritual, and literary movement that developed in the late 1820s and 1830s in the New England region of the United States. One of those things you can't un-know.",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Puccinellia stricta is a species of grass known by the common names Australian saltmarsh grass, and Marshgrass.",
+      "body": "It was first described by Joseph Dalton Hooker in 1853 as Glyceria stricta from a specimen collected at Akaroa, but was assigned to the genus, Puccinellia, in 1930 by Carl Hilding Blom. The world is stranger than it lets on.",
       "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Transcendentalism"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1991 —",
-      "hook": "The Italian prosecuting magistrate Antonino Scopelliti is murdered by the 'Ndrangheta on behalf of the Sicilian Mafia while preparing the government's case in the final appeal of the Maxi Trial.",
-      "body": "Antonino Scopelliti was an Italian prosecuting magistrate, murdered by the 'Ndrangheta on behalf of the Sicilian Mafia. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Antonino_Scopelliti"
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Puccinellia_stricta"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "GEAR is a Japanese long-running non-verbal theatre show that originates in Kyoto and incorporates elements of technology, skilled performance arts.",
-      "body": "It is the first long-run show with original content in Japan. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "File under 'wait, really?' —",
+      "hook": "Marsh Gibbon is a village and civil parish in Buckinghamshire, England.",
+      "body": "It is close to the A41 and the border with Oxfordshire about 4 miles (6.4 km) east of Bicester. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Marsh_Gibbon.jpg/330px-Marsh_Gibbon.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/GEAR_(theatre_show)"
+      "url": "https://en.wikipedia.org/wiki/Marsh_Gibbon"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Spider-Man: Brand New Day’ sets 10-day North American box office record",
-      "body": "A24 reports best limited opening of the year for ‘Tony’. ’Teenage Sex And Death At Camp Miasma’ opens well for Mubi.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-sets-10-day-north-american-box-office-record/5219219.article"
+      "opener": "New Scientist —",
+      "hook": "Could geoengineering ‘ice arches’ help preserve Arctic sea ice?",
+      "body": "Researchers are investigating whether artificially thickening ice blockages between Canada and Greenland could prevent huge amounts of sea ice from flowing south to melt",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583296-could-geoengineering-ice-arches-help-preserve-arctic-sea-ice/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It is also the only underwater cave that can be accessed through land in California.",
+      "body": "Sunny Jim's Sea Cave is a cave in the La Jolla community of San Diego, California. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sunny_Jim_Cave_in_La_Jolla_-_1.jpg/330px-Sunny_Jim_Cave_in_La_Jolla_-_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sunny_Jim's_Sea_Cave"
     }
   ]
 }
