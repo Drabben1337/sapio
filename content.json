@@ -1,35 +1,54 @@
 {
-  "generated": "2026-08-09T22:16:13.576Z",
-  "count": 19,
+  "generated": "2026-08-09T23:17:37.737Z",
+  "count": 12,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Odd Women is an 1893 novel by the English novelist George Gissing.",
+      "body": "Its themes are the role of women in society, marriage, morals and the early feminist movement. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Odd_Women%2C_first_edition_title_page.jpg/330px-The_Odd_Women%2C_first_edition_title_page.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Odd_Women"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ sets 10-day North American box office record",
+      "body": "A24 reports best limited opening of the year for ‘Tony’. ’Teenage Sex And Death At Camp Miasma’ opens well for Mubi.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-sets-10-day-north-american-box-office-record/5219219.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Cement is a socialist realism novel by Soviet and Russian writer Fyodor Gladkov (1883–1958).",
+      "body": "Published in 1925, the book is arguably the first in Soviet socialist realist literature to depict the struggles of post-Revolutionary reconstruction. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/CementCover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cement_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Big Clock is a 1948 American film noir thriller directed by John Farrow and adapted by novelist-screenwriter Jonathan Latimer from the 1946 novel of the same title by Kenneth Fearing.",
+      "body": "The Big Clock stars Ray Milland and Charles Laughton, with Maureen O'Sullivan, George Macready, Rita Johnson and Elsa Lanchester. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/46/TheBigClock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Big_Clock_(film)"
+    },
     {
       "type": "card",
       "cat": "news",
       "opener": "New Scientist —",
-      "hook": "SpaceX crash site on moon revealed by South Korean orbiter",
-      "body": "An out-of-control SpaceX rocket that crashed into the moon earlier this week did, in fact, leave an impact crater, according to images from a Korea AeroSpace Administration lunar orbiter that caught before-and-after photographs",
+      "hook": "Drought and heat push Europe&#8217;s power grid to breaking point",
+      "body": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
       "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583782-spacex-crash-site-on-moon-revealed-by-south-korean-orbiter/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Bet you didn't know —",
-      "hook": "In the 2021 census, Ugar Island had a population of 69 people.",
-      "body": "Ugar Island is an island locality in the Torres Strait Island Region, Queensland, Australia. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ugar_Island_dancers%2C_1958.jpg/330px-Ugar_Island_dancers%2C_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ugar_Island%2C_Queensland"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Most organic photovoltaic cells are polymer solar cells.",
-      "body": "An organic solar cell (OSC) or plastic solar cell is a type of photovoltaic that uses organic electronics, a branch of electronics that deals with conductive organic polymers or small organic molecules, for light absorption and charge transport to produce elec",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/4inchcell.jpg/330px-4inchcell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Organic_solar_cell"
+      "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
@@ -39,6 +58,35 @@
       "body": "Researchers are investigating whether artificially thickening ice blockages between Canada and Greenland could prevent huge amounts of sea ice from flowing south to melt",
       "src": "New Scientist",
       "url": "https://www.newscientist.com/article/2583296-could-geoengineering-ice-arches-help-preserve-arctic-sea-ice/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "\"The Case of the Stick\" is an 1891 short story by Brazilian writer Joaquim Maria Machado de Assis, published first in the Gazeta de Notícias and republished in the book Páginas Recolhidas.",
+      "body": "It is an ironic depiction of slavery in Brazil and selfishness. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Case_of_the_Stick"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Grantville Gazette is the first of a series of professionally selected and edited paid fan fiction anthologies set within the 1632 series inspired by Eric Flint's novel 1632.",
+      "body": "The electronically published the Grantville Gazettes, which were reaching long novel length with regularity, had make up the majority of the series in terms of words in print. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7a/The_Grantville_Gazette.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Grantville_Gazette"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best recent science fiction, fantasy and horror – review roundup",
+      "body": "<p>The Salt King by Natasha Pulley; A Trade of Blood by Robert Jackson Bennett; Netherwood by Jake Arnott; Fawn by CN Vair</p><p><strong><a href=\"https://guardianbookshop.com/the-salt-king-9781399632966/?utm_source=editoriallink&amp;utm_med",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/07/the-best-recent-science-fiction-fantasy-and-horror-review-roundup"
     },
     {
       "type": "card",
@@ -52,104 +100,6 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Drought and heat push Europe&#8217;s power grid to breaking point",
-      "body": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Generation Warriors is a science fiction novel by American writers Anne McCaffrey and Elizabeth Moon, published by Baen Books in 1991.",
-      "body": "It concludes the Planet Pirates trilogy (1990–1991), which McCaffrey wrote alternately with Moon and Jody Lynn Nye, and is the last book in the Ireta series that she initiated with Dinosaur Planet in 1978. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/45/Generation_Warriors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Generation_Warriors"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Rain Wild Chronicles is a quartet of fantasy novels by American author Robin Hobb, published from 2009 to 2013.",
-      "body": "It chronicles the re-emergence of dragons in the Rain Wilds, a setting in Hobb's fictional Realm of the Elderlings. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/The_Rain_Wild_Chronicles.png/330px-The_Rain_Wild_Chronicles.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rain_Wild_Chronicles"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "was a United States Army soldier and a recipient of the United States military's highest decoration—the Medal of Honor—for his actions in the Vietnam War.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Armymoh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Edward_A._DeVore_Jr."
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Created by the California Wilderness Act of 1984, it is located in the Sierra Nevada mountains west of Lake Tahoe in the U.S.",
-      "body": "The Granite Chief Wilderness is a 19,048 acre (77 km2) federally designated wilderness area of the Tahoe National Forest. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Granite_Chief_Wilderness.jpg/330px-Granite_Chief_Wilderness.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Granite_Chief_Wilderness"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "In cryptography, LOKI89 and LOKI91 are symmetric-key block ciphers designed as possible replacements for the Data Encryption Standard (DES).",
-      "body": "The ciphers were developed based on a body of work analysing DES, and are very similar to DES in structure. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/LOKI"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Porky, is the fifth novel by the English author Deborah Moggach, first published in 1983 by Jonathan Cape and recommended in OUP's Good Fiction Guide.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/04/PorkyNovel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Porky_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Spider-Man: Brand New Day’ sets 10-day North American box office record",
-      "body": "A24 reports best limited opening of the year for ‘Tony’. ’Teenage Sex And Death At Camp Miasma’ opens well for Mubi.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-sets-10-day-north-american-box-office-record/5219219.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The song was released by Sony Music on December 8, 2022, as the fourth single from the album.",
-      "body": "\"De Carolina\" is a song recorded by Puerto Rican singer Rauw Alejandro and Puerto Rican producer DJ Playero for Alejandro's third studio album, Saturno (2022). The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/De_Carolina"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Danger UXB is a 1979 British ITV television series set during the Second World War.",
-      "body": "It was developed by John Hawkesworth and starred Anthony Andrews as Lieutenant Brian Ash, an officer in the Royal Engineers (RE). One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/Danger_UXB_titlecard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Danger_UXB"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "ESA —",
       "hook": "Webb opens a Treasure Chest filled with stars",
       "body": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy , where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the ",
@@ -159,31 +109,11 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best recent science fiction, fantasy and horror – review roundup",
-      "body": "<p>The Salt King by Natasha Pulley; A Trade of Blood by Robert Jackson Bennett; Netherwood by Jake Arnott; Fawn by CN Vair</p><p><strong><a href=\"https://guardianbookshop.com/the-salt-king-9781399632966/?utm_source=editoriallink&amp;utm_med",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/07/the-best-recent-science-fiction-fantasy-and-horror-review-roundup"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Make Haste to Live is a 1954 American film noir thriller film directed by William A.",
-      "body": "Seiter and starring Dorothy McGuire, Stephen McNally and Mary Murphy. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Make_haste_to_live_poster_small.jpg/330px-Make_haste_to_live_poster_small.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Make_Haste_to_Live"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Ancient Trilogy is a Polish literary trilogy by Karol Bunsch about Alexander the Great, consisting of the novels Olimpias (1955), Parmenion (1963), and Alexander (1968).",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Karol_Bunsch%2C_rok_1980_-_fot._Adam_Bunsch.jpg/330px-Karol_Bunsch%2C_rok_1980_-_fot._Adam_Bunsch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Ancient_Trilogy"
+      "opener": "New Scientist —",
+      "hook": "SpaceX crash site on moon revealed by South Korean orbiter",
+      "body": "An out-of-control SpaceX rocket that crashed into the moon earlier this week did, in fact, leave an impact crater, according to images from a Korea AeroSpace Administration lunar orbiter that caught before-and-after photographs",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583782-spacex-crash-site-on-moon-revealed-by-south-korean-orbiter/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     }
   ]
 }
