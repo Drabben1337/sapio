@@ -1,54 +1,113 @@
 {
-  "generated": "2026-08-10T11:38:54.584Z",
-  "count": 19,
+  "generated": "2026-08-10T12:37:03.074Z",
+  "count": 23,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Adolf Maximilian Ferdinand Gritzner was a German expert on heraldry and a herald in the Ministry of the Interior in Berlin.",
-      "body": "His reference book on orders of knighthood was still in print in 2000. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Commandeurskruis_en_Ster_Franz-Josephs-Orde_Oostenrijk.jpg/330px-Commandeurskruis_en_Ster_Franz-Josephs-Orde_Oostenrijk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Royall Tyler, was an American historian, who was a descendant of the American jurist and playwright Royall Tyler.",
+      "body": "He was born in Quincy, Massachusetts, and educated at Harrow School in England. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Royall_Tyler_%28historian%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maximilian_Gritzner"
+      "url": "https://en.wikipedia.org/wiki/Royall_Tyler_(historian)"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Lyncoya Jackson, also known as Lincoyer or Lincoya, was an Indigenous American from a family that was a part of the Upper Creek tribal-geographical grouping and more than likely affiliated with Red Stick political party.",
+      "body": "The family lived in the Muscogee tribal town at Tallasseehatchee Creek in present-day eastern Alabama. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tennessee_Virtual_Archive_42889_THS_I-C-2%2C_Box_6_Folder28.jpg/330px-Tennessee_Virtual_Archive_42889_THS_I-C-2%2C_Box_6_Folder28.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lyncoya_Jackson"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Uganda, Somalia and Ghana projects share top prize at Locarno’s Open Doors",
-      "body": "Locarno Pro’s co-production and talent development programme is currently focused on 42 countries in Africa.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/uganda-somalia-and-ghana-projects-share-top-prize-at-locarnos-open-doors/5219222.article"
+      "opener": "BBC Entertainment —",
+      "hook": "Radio Caroline breached Ofcom rules after mistakenly announcing King's death",
+      "body": "A correction and apology wasn't aired until 30 minutes after the incident occurred.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ckge094k2k1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "A Most Wanted Man is a 2014 espionage thriller film based on the 2008 novel by John le Carré, directed by Anton Corbijn and written by Andrew Bovell.",
+      "body": "The film stars Philip Seymour Hoffman, Rachel McAdams, Willem Dafoe, Robin Wright, Grigoriy Dobrygin, Homayoun Ershadi, Daniel Brühl and Nina Hoss. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3e/A_Most_Wanted_Man_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Most_Wanted_Man_(film)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "Sam Neill filmed role in Legend of Zelda film adaptation before his death",
-      "body": "<p>The New Zealand actor, who died last month aged 78, will appear in live-action movie of popular video game, which is set for release next year</p><p>The New Zealand actor Sam Neill completed filming of a role in the forthcoming adaptatio",
+      "hook": "Prince to Madonna, Blur to Beth Orton: William Orbit’s 12 greatest recordings",
+      "body": "<p>The late producer’s gift for bringing in elements from dance music’s cutting edge drew all manner of music royalty – and he often made them sound better than ever before</p><p>• <a href=\"https://www.theguardian.com/music/2026/aug/07/will",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/07/sam-neill-legend-of-zelda-film-video-game-before-death"
+      "url": "https://www.theguardian.com/music/2026/aug/07/william-orbit-greatest-recordings-prince-madonna-blur-beth-orton"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Olivia Rodrigo review – crushing riffs and infectious hooks at secret New York show",
+      "body": "<p><strong>Warsaw, Brooklyn, New York</strong></p><p>Playing to just 1,000 fans, Rodrigo’s pop-up show is a thrillingly intimate showcase of her tour de force talent</p><p>At 10am on Thursday, Olivia Rodrigo announced in an Instagram post t",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/07/olivia-rodrigo-review-brooklyn-warsaw-show"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1997 —",
-      "hook": "Sixteen people are killed when Formosa Airlines Flight 7601 crashes near Beigan Airport in the Matsu Islands of Taiwan.",
-      "body": "Formosa Airlines Flight 7601 was an aviation accident that killed 16 people on 10 August 1997 in Beigan, Matsu Islands, Fujian, Republic of China. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/B-12256_Stuart_Jessup.jpg/330px-B-12256_Stuart_Jessup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1904 —",
+      "hook": "Russo-Japanese War: The Battle of the Yellow Sea between the Russian and Japanese battleship fleets takes place.",
+      "body": "The Russo-Japanese War was fought between the Russian Empire and the Empire of Japan over rival imperial ambitions in Manchuria and the Korean Empire. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RUSSOJAPANESEWARIMAGE.jpg/330px-RUSSOJAPANESEWARIMAGE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Formosa_Airlines_Flight_7601"
+      "url": "https://en.wikipedia.org/wiki/Russo-Japanese_War"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Ludwell Lee was an American lawyer and planter who served in both houses of the Virginia General Assembly representing Prince William and Fairfax Counties and rose to become the Speaker of the Virginia Senate.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ludwell_Lee_%28page_262_crop%29.jpg/330px-Ludwell_Lee_%28page_262_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "After the Sandy Hook Elementary School shooting, multiple gun laws were proposed in the United States at the federal and state levels.",
+      "body": "The shooting renewed debate about gun control. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sandy_Hook_memorial.jpg/330px-Sandy_Hook_memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ludwell_Lee"
+      "url": "https://en.wikipedia.org/wiki/Gun_control_after_the_Sandy_Hook_Elementary_School_shooting"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2012 —",
+      "hook": "The Marikana massacre begins near Rustenburg, South Africa, resulting in the deaths of 47 people.",
+      "body": "The Marikana massacre was the killing of thirty-four miners by the South African Police Service (SAPS) on 16 August 2012 during a six-week wildcat strike at the Lonmin platinum mine at Marikana near Rustenburg in South Africa's North West province. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lonmin-platinummyn%2C_a%2C_Marikana%2C_Noordwes.jpg/330px-Lonmin-platinummyn%2C_a%2C_Marikana%2C_Noordwes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Marikana_massacre"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1270 —",
+      "hook": "Yekuno Amlak takes the imperial throne of Ethiopia, restoring the Solomonic dynasty to power after a 100-year Zagwe interregnum.",
+      "body": "Yekuno Amlak ; throne name Tesfa Iyasus was Emperor of Ethiopia, from 1270 to 1285, and the founder of the Solomonic dynasty, which lasted until 1974. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Yekuno_Amlak"
     },
     {
       "type": "card",
@@ -61,101 +120,32 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Sir Herbert John Seddon was an English orthopaedic surgeon.",
-      "body": "He was Nuffield Professor of Orthopaedic Surgery at the University of Oxford, where his work and publications on peripheral nerve injuries gained him an international reputation. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/54/Sir_Herbert_John_Seddon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Herbert_Seddon"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2019 —",
-      "hook": "Thirty-two are killed and one million are evacuated as Typhoon Lekima makes landfall in Zhejiang, China. Earlier it had caused flooding in the Philippines.",
-      "body": "Typhoon Lekima, known in the Philippines as Typhoon Hanna, was the fourth costliest typhoon in Chinese history. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lekima_2019-08-08_Suomi_NPP.jpg/330px-Lekima_2019-08-08_Suomi_NPP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Typhoon_Lekima"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Christianity is the most widely professed religion in Argentina, with Catholicism being its largest denomination.",
-      "body": "This historical background is very much due to the Spanish influence brought about through the newly conquered territories. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Procesi%C3%B3n_del_Milagro_en_la_provincia_de_Salta_-_Argentina.jpg/330px-Procesi%C3%B3n_del_Milagro_en_la_provincia_de_Salta_-_Argentina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Religion_in_Argentina"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Olympic gold medallist Tabby Stoecker joins Strictly line-up",
-      "body": "The Team GB skeleton racer said she was \"over the moon\" to be joining the cast of this year's series.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Culture —",
+      "hook": "Monsters of God review – a messy feud between rival reptile smugglers gets the Tiger King treatment",
+      "body": "<p>Director Eric Goode has found two enemies to rival Joe Exotic and Carole Baskin in his new documentary about the animal trade’s underworld</p><p>Through the fear and general miasma of the Covid pandemic, TV brought people together like n",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/07/monsters-of-god-review-hbo-max-documentary-reptile-smugglers"
     },
     {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "When I Grow Up I Want to be a List of Further Possibilities is a 2017 debut poetry collection by Chen Chen.",
-      "body": "It was published by BOA Editions following its selection by Jericho Brown for the A. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/24/%22When_I_Grow_Up_I_Want_to_be_a_List_of_Further_Possibilities%22_by_Chen_Chen_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/When_I_Grow_Up_I_Want_to_Be_a_List_of_Further_Possibilities"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
     },
     {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1792 —",
-      "hook": "French Revolution: Storming of the Tuileries Palace: Louis XVI is arrested and taken into custody as his Swiss Guards are massacred by the Parisian mob.",
-      "body": "The French Revolution was a period of political and societal change in France that began with the Estates General of 1789 and ended with the Coup of 18 Brumaire on 9 November 1799. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/330px-Anonymous_-_Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/French_Revolution"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1808 —",
-      "hook": "Finnish War: Swedish forces led by General von Döbeln defeat Russian forces led by General Šepelev in the Battle of Kauhajoki.",
-      "body": "The Finnish War was fought between the Kingdom of Sweden and the Russian Empire from 21 February 1808 to 17 September 1809 as part of the Napoleonic Wars. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Finnish_War_Collage_5.png/330px-Finnish_War_Collage_5.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Finnish_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-      "body": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1913 —",
-      "hook": "Second Balkan War: Delegates from Bulgaria, Romania, Serbia, Montenegro, and Greece sign the Treaty of Bucharest, ending the war.",
-      "body": "The Second Balkan War was a conflict fought between the Tsardom of Bulgaria and its former Balkan League allies, Serbia, Montenegro and Greece, who were later joined by Romania and the Ottoman Empire. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Second_Balkan_War.png/330px-Second_Balkan_War.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Second_Balkan_War"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1258 —",
-      "hook": "Manfred, illegitimate son of Frederick II, is crowned king of Sicily.",
-      "body": "Frederick II was King of Sicily from 1198, King of Germany from 1212, King of Italy and Holy Roman Emperor from 1220, and King of Jerusalem from 1225 to 1228. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frederick_II_and_eagle.jpg/330px-Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
     },
     {
       "type": "card",
@@ -167,23 +157,73 @@
       "url": "https://www.theguardian.com/film/2026/aug/10/sex-film-one-night-only-the-invite-camp-miasma"
     },
     {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Quantum voting trickery could make elections more secure",
-      "body": "In an election, how can you make sure that everyone's votes are counted but also kept entirely secret? Quantum mechanics may have the answer",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583747-quantum-voting-trickery-could-make-elections-more-secure/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "ESA —",
+      "hook": "How ESA mimics and models the 2026 total solar eclipse",
+      "body": "On 12 August 2026 , parts of Europe will experience a total solar eclipse . With the Sun's bright disc covered, its surrounding atmosphere – the solar corona – will become visible to the naked eye. Unfortunately, total solar eclipses are ra",
+      "src": "ESA",
+      "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "He was one of the largest merchants in Copenhagen of his day and was from 1687 the owner of a large property at Frederiksholms Kanal in Copenhagen where the National Museum of Denmark stands today.",
-      "body": "Gysbert Wigand Michelbecker was a Danish merchant, shipowner and property owner. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gysbert_Wigand_Michelbecker.jpg/330px-Gysbert_Wigand_Michelbecker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1999 —",
+      "hook": "One person is killed and five people are injured in the Los Angeles Jewish Community Center shooting.",
+      "body": "On August 10, 1999, at around 10:50 a.m. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1999_Los_Angeles_Jewish_Community_Center_shooting"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1741 —",
+      "hook": "King Marthanda Varma of Travancore defeats the Dutch East India Company at the Battle of Colachel, effectively bringing about the end of the Dutch colonial rule in India.",
+      "body": "Anizham Thirunal Marthanda Varma, was the founding monarch of the southern Indian Kingdom of Travancore from 1729 until his death in 1758. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Anizham_Thirunal_Marthanda_Varma.jpg/330px-Anizham_Thirunal_Marthanda_Varma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Marthanda_Varma"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1954 —",
+      "hook": "At Massena, New York, the groundbreaking ceremony for the Saint Lawrence Seaway is held.",
+      "body": "Massena is a town in St. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/City_Hall_and_Farmers%27_Market%2C_Massena_NY.jpg/330px-City_Hall_and_Farmers%27_Market%2C_Massena_NY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Massena%2C_New_York"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Gladys Mary Wrigley was the first woman to receive a PhD in geography in the United States of America, from Yale University in 1917.",
+      "body": "She was editor of the journal Geographical Review from 1920 to 1949, and the annual Wrigley-Fairchild prize for best article in the journal is named in her honour. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gysbert_Wigand_Michelbecker"
+      "url": "https://en.wikipedia.org/wiki/Gladys_Mary_Wrigley"
     }
   ]
 }
