@@ -1,72 +1,91 @@
 {
-  "generated": "2026-08-10T09:03:37.837Z",
-  "count": 19,
+  "generated": "2026-08-10T10:53:38.140Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
       "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "RL Stine’s Pumpkinhead review – horror from Goosebumps writer has kid confined inside large fruit",
+      "body": "<p>Based on a short story by the Goosebumps author, this derivative but tautly plotted tale over-relies on Scooby-Doo-style sleuthery, and its truly unsettling turn comes too late</p><p>Adapted from a 1999 short story by Goosebumps’ RL Stin",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/10/rl-stines-pumpkinhead-review-goosebumps-author"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "‘Spider-Man: Brand New Day’ hits $1.7bn at global box office; ‘The Odyssey’ is Nolan’s biggest ever hit",
-      "body": "‘Brand New Day’ is already the 12th biggest film of all time.",
+      "hook": "Pippa Harris and James Wilson to headline BFI London Film Festival 2026’s Industry Forum",
+      "body": "This year’s industry forum puts a spotlight on UK producers.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-hits-17bn-at-global-box-office-the-odyssey-is-nolans-biggest-ever-hit/5219223.article"
+      "url": "https://www.screendaily.com/news/pippa-harris-and-james-wilson-to-headline-bfi-london-film-festival-2026s-industry-forum/5219230.article"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "World War II: The Battle of Guam in the Pacific comes to an effective end.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "He is most famous for being the first to attempt the standardisation of the Basque language and for the translation of religious works into Basque, in particular the first Basque translation of the New Testament, (1571).",
-      "body": "Joanes Leizarraga (1506–1601) was a 16th-century Basque priest. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Corcomroe Abbey is an early 13th-century Cistercian monastery located in the north of the Burren region of County Clare, Ireland, a few miles east of the village of Ballyvaughan in the Barony of Burren.",
+      "body": "Mary of the Fertile Rock\", a reference to the Burren's fertile soil. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Corcomroe_Abbey_South_East_View_1996_08_22.jpg/330px-Corcomroe_Abbey_South_East_View_1996_08_22.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Joanes_Leizarraga"
+      "url": "https://en.wikipedia.org/wiki/Corcomroe_Abbey"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Postbiotic supplement boosts body&#8217;s own GLP-1 and weight loss",
-      "body": "A small trial suggests a supplement containing dead bacteria could offer a cheaper alternative to weight-loss drugs such as semaglutide, but further evidence is needed",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583831-postbiotic-supplement-boosts-bodys-own-glp-1-and-weight-loss/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Ancestral Visions of the Future review – visceral cine-memoir is a haunting return to Lesotho",
-      "body": "<p>Lemohang Jeremiah Mosese pairs his literary-grade voiceover with propulsive, prophetic images to interrogate his identity and that of his colonialism-carved homeland</p><p>Here is a captivating stream of consciousness film about exile, r",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/10/ancestral-visions-of-the-future-review-lemohang-jeremiah-mosese-lesotho"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2018 —",
-      "hook": "An anti-government rally turns into a riot when members of the Romanian Gendarmerie attack the 100,000 people protesting in front of the Victoria Palace, leading to 452 recorded injuries. The authorities alleged that the crowd was infiltrated by hooligans who began attacking law enforcement agents.",
-      "body": "There were numerous protests against the Romanian Government between 2017 and 2019. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Protest_against_corruption_-_Bucharest_2017_-_Piata_Universitatii_-_5.jpg/330px-Protest_against_corruption_-_Bucharest_2017_-_Piata_Universitatii_-_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2017%E2%80%932019_Romanian_protests"
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "\"Bob Wills Is Still the King\" is a song written and performed by American country music artist Waylon Jennings, as a tribute to the Western swing musician Bob Wills.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bob_Wills_Is_Still_the_King_by_Waylon_Jennings_US_vinyl.png/330px-Bob_Wills_Is_Still_the_King_by_Waylon_Jennings_US_vinyl.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bob_Wills_Is_Still_the_King"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "The Odyssey becomes Christopher Nolan’s highest grossing film as it passes $1.1bn at box office",
-      "body": "<p>The film-maker’s take on Homer’s epic has beaten his previous record holder The Dark Knight Rises</p><p>The Odyssey has become the highest grossing film of Christopher Nolan’s career, having made more than US$1bn at the global box office",
+      "hook": "‘I am left grinning’: why The Dish is my feelgood movie",
+      "body": "<p>The latest in our series of writers picking their most loved comfort films is a 2000 Australian gem featuring the late Sam Neill</p><p>After the shock of Sam Neill’s death, I was surprised just how hard the news hit me. I don’t usually t",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/10/the-odyssey-becomes-christopher-nolans-highest-grossing-film-as-it-passes-11bn-at-box-office"
+      "url": "https://www.theguardian.com/film/2026/aug/10/the-dish-sam-neill-feelgood-movie"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Mycena arcangeliana is a species of Mycenaceae fungus.",
+      "body": "It has been known by a number of scientific names, and its taxonomy is still somewhat disputed. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Mycena_arcangeliana_107930.jpg/330px-Mycena_arcangeliana_107930.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mycena_arcangeliana"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "A logical machine or logical abacus is a tool containing a set of parts that uses energy to perform formal logic operations through the use of truth tables.",
+      "body": "Early logical machines were mechanical devices that performed basic operations in Boolean logic. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/William_Stanley_Jevons_Logic_Piano.jpg/330px-William_Stanley_Jevons_Logic_Piano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Logical_machine"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "From Heartstopper to Sterling Point: how teen TV is thriving again with love, sex and nostalgia",
+      "body": "<p>Shows like Off Campus and The Summer I Turned Pretty are winning viewers with grounded coming-of-age themes</p><p>Annie Jacobson has a 10-step skincare routine, a voice-activated white noise machine, the wardrobe of a Uniqlo mom, and no ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/07/sterling-point-prime-tv-show-teen-drama"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Add to playlist: the anxiety-ridden sugar rush of Tiffany Day and the week’s best new tracks",
+      "body": "<p>Day’s latest album Halo is all high-energy exhaustion, injected with a crushing electroclash chaos that illuminates her insecurities in bright neon</p><p><strong>From</strong> Los Angeles<br><strong>Recommended</strong> <strong>if you li",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/07/add-to-playlist-tiffany-day-and-the-weeks-best-new-tracks"
     },
     {
       "type": "card",
@@ -80,110 +99,21 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Jay Alders is an American fine artist, (home) photographer and graphic designer.",
-      "body": "He is best known for his original surf art paintings, live painting and is a well-known profile in surf culture for his work with musicians, artists and cause organizations. One of those things you can't un-know.",
-      "img": null,
+      "opener": "Okay, this one's fun —",
+      "hook": "Vampire Blood is the first trilogy in The Saga of Darren Shan by the author Darren Shan.",
+      "body": "It contains the books Cirque du Freak, The Vampire's Assistant and Tunnels of Blood. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/Vampire_blood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jay_Alders"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Bezirksliga Rheinhessen-Saar was the highest association football league in the German state of Saarland, the Rheinhessen part of the state of Hesse and parts of the Bavarian region of Palatinate and the Prussian Rhine Province from 1923 to 1927, when the league was replaced by the Bezirksliga Rhein-Saar and the Bezirksliga Main-Hessen.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Reich_1925_b.png/330px-Deutsches_Reich_1925_b.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bezirksliga_Rheinhessen-Saar"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Marguerite Graham Churchill was an American stage and film actress whose career spanned 30 years, from 1922 to 1952.",
-      "body": "Marguerite made her debut as a child actress on Broadway in 1922. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Marguerite_Churchill_ph1229.jpg/330px-Marguerite_Churchill_ph1229.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marguerite_Churchill"
+      "url": "https://en.wikipedia.org/wiki/Vampire_Blood"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "Join us live and enjoy the total solar eclipse!",
-      "body": "Video: 00:01:44 [English] On 12 August 2026, Europe will witness one of nature’s most spectacular events: a total solar eclipse starting at 19:30 CEST. As the Moon’s shadow sweeps across Spain, join the European Space Agency live from Obser",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Join_us_live_and_enjoy_the_total_solar_eclipse"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1835 —",
-      "hook": "P. T. Barnum begins his career as a showman and circus entrepreneur by exhibiting Joice Heth, an octogenerian African slave whom he claims was George Washington's nursemaid.",
-      "body": "Phineas Taylor Barnum was an American showman, businessman, and politician remembered for promoting celebrated hoaxes and founding the Ringling Bros. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/P._T._Barnum_-_02176a_%28cropped%29.jpg/330px-P._T._Barnum_-_02176a_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/P._T._Barnum"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Is Beauty Good by Rosalind Belben review – the literary equivalent of free jazz",
-      "body": "<p>Combining hilarious detail with harsh observation, this rediscovered novel takes the reader on an exhilaratingly strange journey </p><p>‘But after all, writing is nothing more than a guided dream,” wrote Jorge Luis Borges. Dreams and dre",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/10/is-beauty-good-by-rosalind-belben-review-the-literary-equivalent-of-free-jazz"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 955 —",
-      "hook": "Battle of Lechfeld: Otto I, Holy Roman Emperor defeats the Magyars, ending 50 years of Magyar invasion of the West.",
-      "body": "The Battle of Lechfeld, also known as the Second Battle of Lechfeld, was a series of military engagements over the course of three days from 10–12 August 955 in which the Kingdom of Germany, led by King Otto I the Great, defeated the Hungarian army led by Harka Bulcsú and the chieftains Lél and Súr. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lechfeld1457.jpg/330px-Lechfeld1457.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Lechfeld"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1346 —",
-      "hook": "Jaume Ferrer sets out from Mallorca for the \"River of Gold\", the Senegal River.",
-      "body": "Jaume Ferrer was a Majorcan sailor and explorer. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jaume_Ferrer"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Amrit Lal Meena was an Indian politician who served as a member of the Rajasthan Legislative Assembly from the Salumber constituency in Udaipur district.",
-      "body": "He was a member of the Bharatiya Janata Party. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Amrit_Lal_Meena"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1981 —",
-      "hook": "Murder of Adam Walsh: The head of John Walsh's son is found. This inspires the creation of the television series America's Most Wanted and the National Center for Missing & Exploited Children.",
-      "body": "Adam John Walsh was an American child who was abducted from a Sears department store at the Hollywood Mall in Hollywood, Florida, on July 27, 1981. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Adam_Walsh.png/330px-Adam_Walsh.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Murder_of_Adam_Walsh"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Paterson Police Department is the primary law enforcement agency for the city of Paterson, New Jersey.",
-      "body": "It has about 400 sworn law enforcement officers and 125 support staff. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Paterson_nj.png/330px-Paterson_nj.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Paterson_Police_Department"
+      "opener": "The Guardian · Culture —",
+      "hook": "EA Sports FC 27: what does the next instalment of the world’s biggest football game have in store?",
+      "body": "<p>The all-conquering franchise’s revamps are technically impressive, its transfers more true to life – and its new grassroots social hub is surprising fun</p><p>As if the world wasn’t sufficiently football-obsessed, it’s time to prepare fo",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/games/2026/aug/07/ea-sports-fc-27-grounds"
     }
   ]
 }
