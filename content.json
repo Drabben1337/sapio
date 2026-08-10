@@ -1,131 +1,92 @@
 {
-  "generated": "2026-08-10T16:39:20.806Z",
-  "count": 19,
+  "generated": "2026-08-10T17:41:05.020Z",
+  "count": 24,
   "items": [
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 991 —",
-      "hook": "Battle of Maldon: The English, led by Byrhtnoth, Ealdorman of Essex, are defeated by a band of inland-raiding Vikings near Maldon, Essex.",
-      "body": "The Battle of Maldon took place on 10 or 11 August 991 AD near Maldon beside the River Blackwater in Essex, England, during the reign of Æthelred the Unready. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Alfred_Pearse%CB%90_Battle_of_Maldon_in_991_%28Hutchinson%27s_Story_of_the_British_Nation%2C_1922%29.jpg/330px-Alfred_Pearse%CB%90_Battle_of_Maldon_in_991_%28Hutchinson%27s_Story_of_the_British_Nation%2C_1922%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1971 —",
+      "hook": "The Society for American Baseball Research is founded in Cooperstown, New York.",
+      "body": "The Society for American Baseball Research (SABR) is a membership organization dedicated to fostering the research and dissemination of the history and statistical record of baseball. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/SABR_logo_2016.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Maldon"
+      "url": "https://en.wikipedia.org/wiki/Society_for_American_Baseball_Research"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What Happened to Liberal Democracy? by Daron Acemoglu review – how to fix the system",
-      "body": "<p>The Nobel-winning economist takes aim at elites for no longer meeting the needs of the masses</p><p>In 2009, the tech billionaire Peter Thiel published an essay with the portentous title The Education of a Libertarian, in which he announ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/07/what-happened-to-liberal-democracy-by-daron-acemoglu-review-how-to-fix-the-system"
+      "opener": "BBC Entertainment —",
+      "hook": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
+      "body": "The verdict from most theatre critics is that it's a worthy addition to the epic fantasy franchise.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/czrjkm68xlno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ sets 10-day North American box office record",
+      "body": "A24 reports best limited opening of the year for ‘Tony’. ’Teenage Sex And Death At Camp Miasma’ opens well for Mubi.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-sets-10-day-north-american-box-office-record/5219219.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "30 years later, a former rival will stand trial for Tupac's murder",
+      "body": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2020 —",
-      "hook": "Derecho in Iowa becomes the most costly thunderstorm disaster in U.S. history.",
-      "body": "The 2020 Midwest derecho was an unusually destructive and extremely powerful progressive derecho that devastated much of the Midwestern United States, primarily eastern Nebraska, Iowa, Illinois, Wisconsin, and Indiana. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/GOES-East_Watches_Derecho_Slam_Midwest_%28NESDIS_2020-08-11%29.gif/330px-GOES-East_Watches_Derecho_Slam_Midwest_%28NESDIS_2020-08-11%29.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2001 —",
+      "hook": "Space Shuttle program: The Space Shuttle Discovery is launched on STS-105 to the International Space Station, carrying the astronauts of Expedition 3 to replace the crew of Expedition 2.",
+      "body": "The Space Shuttle program was the fourth human spaceflight program carried out by the U.S. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Shuttle_Patch.svg/330px-Shuttle_Patch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2020_Midwest_derecho"
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_program"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Bluford Series is a collection of contemporary American young adult novels set in the fictional inner-city high school of Bluford High in Southern California.",
-      "body": "Bluford is named after Guion \"Guy\" Bluford, the first African-American astronaut. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/The_20_books_in_the_Bluford_Series.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "You probably never noticed this —",
+      "hook": "Kay Rohrer was a catcher who played in the All-American Girls Professional Baseball League (AAGPBL).",
+      "body": "Listed at 5 ft 7 in (1.70 m), 139 lb, she batted and threw right-handed. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c5/Kay_Rohrer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Bluford_Series"
+      "url": "https://en.wikipedia.org/wiki/Kay_Rohrer"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘Grief became my brand’: Freya Bromley on writing about personal tragedy",
-      "body": "<p>Touring her memoir and talking to others helped the author come to terms with her brother’s death, but the book’s success left her feeling guilty. Had she commodified her family’s pain?</p><p>When my memoir about my life after my brother",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/09/grief-became-my-brand-freya-bromley-on-writing-about-personal-tragedy"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Dragonsinger is a young adult science fiction novel by the American-Irish author Anne McCaffrey.",
-      "body": "Published by Atheneum Books in 1977, it is the fourth book in the Dragonriders of Pern series. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Dragonsinger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dragonsinger"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "opener": "New Scientist —",
+      "hook": "What primates tell us about the evolutionary origins of keeping pets",
+      "body": "Keeping pets seems to be fairly recent behaviour in the timeline of human evolution. Columnist Michael Marshall turns to the latest research on primates to understand how long we’ve had the impulse to adopt furry friends",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583030-what-primates-tell-us-about-the-evolutionary-origins-of-keeping-pets/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2003 —",
-      "hook": "The Okinawa Urban Monorail is opened in Naha, Okinawa.",
-      "body": "The Okinawa Urban Monorail,, also known as Yui Rail, is a straddle-beam, Alweg-type monorail line serving the cities of Naha and Urasoe, Okinawa, Japan. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Naha-kuko_Station02s3s3750.jpg/330px-Naha-kuko_Station02s3s3750.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Okinawa_Urban_Monorail"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Abyssinia is a musical with music by Ted Kociolek, lyrics by James Racheff, and a book by both Racheff and Kociolek, based on the novel Marked by Fire, by Joyce Carol Thomas.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/45/Abyssinia_promo_artwork.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "It is named after Essendon full-forward John Coleman, one of the most prolific goalkickers in the league's history, who was league leading goalkicker for five consecutive seasons.",
+      "body": "The Coleman Medal is an Australian rules football award given annually to the Australian Football League (AFL) player who kicks the most goals in the home-and-away season. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Jeremy_Cameron_July_2024.jpg/330px-Jeremy_Cameron_July_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Abyssinia_(1987_musical)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "It was situated to the east of the Augustaion, close to the Hagia Sophia, and next to the Chalke Gate and has often equated by scholars with the building that housed the Senate.",
-      "body": "The Magnaura was a large building in Byzantine Constantinople located next to the Great Palace. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Constantinople_imperial_district.png/330px-Constantinople_imperial_district.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Magnaura"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1993 —",
-      "hook": "Two earthquakes affect New Zealand. A 7.0 Mw shock (intensity VI (Strong)) in the South Island was followed nine hours later by a 6.4 Mw event (intensity VII (Very strong)) in the North Island.",
-      "body": "This is a list of large earthquakes that have occurred in New Zealand. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/NZ_faults.png/330px-NZ_faults.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/List_of_earthquakes_in_New_Zealand"
+      "url": "https://en.wikipedia.org/wiki/Coleman_Medal"
     },
     {
       "type": "card",
@@ -138,52 +99,141 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Oliver Angelo Carnegie was an Italian American professional baseball player whose playing career spanned 15 seasons.",
+      "body": "Over that time, Carnegie played in the minor leagues with the Class-B Flint Vehicles (1922) of the Michigan–Ontario League; the Class-B Hazleton Mountaineers (1931) of the New York–Penn League; the Double-A Buffalo Bisons of the International League; and the C",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ollie_Carnegie_-_1940_Buffalo_Bisons.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ollie_Carnegie"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1904 —",
-      "hook": "Russo-Japanese War: The Battle of the Yellow Sea between the Russian and Japanese battleship fleets takes place.",
-      "body": "The Russo-Japanese War was fought between the Russian Empire and the Empire of Japan over rival imperial ambitions in Manchuria and the Korean Empire. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RUSSOJAPANESEWARIMAGE.jpg/330px-RUSSOJAPANESEWARIMAGE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2014 —",
+      "hook": "Forty people are killed when Sepahan Airlines Flight 5915 crashes at Tehran's Mehrabad International Airport.",
+      "body": "Sepahan Airlines Flight 5915 was a scheduled domestic passenger flight from Iranian capital Tehran Mehrabad International Airport to Tabas, South Khorasan province, Iran. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HESA_IrAn-140-100_-_HESA_Airlines_%28EP-GPA%29.jpg/330px-HESA_IrAn-140-100_-_HESA_Airlines_%28EP-GPA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Russo-Japanese_War"
+      "url": "https://en.wikipedia.org/wiki/Sepahan_Airlines_Flight_5915"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Inside Love is a 2013 Spanish romantic thriller film directed by Santiago Tabernero from a screenplay by Tabernero and Eduardo Noriega, based on the novel Presentimientos by Clara Sánchez.",
-      "body": "It stars Marta Etura and Eduardo Noriega alongside Alfonso Bassave. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Inside_Love_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Commission on Training Camp Activities (CTCA), also popularly known as the Fosdick Commission, was an umbrella agency within the United States Department of War during World War I that provided recreational and educational activities for soldiers as they trained for combat.",
+      "body": "Established in April 1917, the CTCA had the mandate to keep American troops \"physically healthy and morally pure\", while also motivating them to fight. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CTCA13.png/330px-CTCA13.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Inside_Love_(film)"
+      "url": "https://en.wikipedia.org/wiki/Commission_on_Training_Camp_Activities"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Mulholland Drive is a street and road in the eastern Santa Monica Mountains of Southern California.",
+      "body": "It is named after pioneering Los Angeles civil engineer William Mulholland. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mulholland_Drive.png/330px-Mulholland_Drive.png",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mulholland_Drive"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+      "opener": "The Guardian · Books —",
+      "hook": "Barack Obama launches podcast about books that ‘shaped his worldview’",
+      "body": "<p>The former US president will host six episodes of A Great Book for Audible, discussing work from Toni Morrison and John le Carré to James Baldwin</p><p>Barack Obama is set to host a podcast about books that have “profoundly shaped his wo",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/10/barack-obama-launches-podcast-about-books-that-shaped-his-worldview"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1954 —",
-      "hook": "At Massena, New York, the groundbreaking ceremony for the Saint Lawrence Seaway is held.",
-      "body": "Massena is a town in St. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/City_Hall_and_Farmers%27_Market%2C_Massena_NY.jpg/330px-City_Hall_and_Farmers%27_Market%2C_Massena_NY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1316 —",
+      "hook": "The Second Battle of Athenry takes place near Athenry during the Bruce campaign in Ireland.",
+      "body": "The Second Battle of Athenry took place at Athenry in Ireland on 10 August 1316 during the Bruce campaign in Ireland. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Massena%2C_New_York"
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Athenry"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1346 —",
+      "hook": "Jaume Ferrer sets out from Mallorca for the \"River of Gold\", the Senegal River.",
+      "body": "Jaume Ferrer was a Majorcan sailor and explorer. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Jaume_Ferrer"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1741 —",
+      "hook": "King Marthanda Varma of Travancore defeats the Dutch East India Company at the Battle of Colachel, effectively bringing about the end of the Dutch colonial rule in India.",
+      "body": "Anizham Thirunal Marthanda Varma, was the founding monarch of the southern Indian Kingdom of Travancore from 1729 until his death in 1758. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Anizham_Thirunal_Marthanda_Varma.jpg/330px-Anizham_Thirunal_Marthanda_Varma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Marthanda_Varma"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Ídolos rotos is a novel by the Venezuelan writer Manuel Díaz Rodríguez that was published in 1901.",
-      "body": "It is considered one of the most pessimistic novels written in Venezuela. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/64/%C3%8Ddolos_rotos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "Edley ODowd is a New York-based graphic designer, musician and typographer.",
+      "body": "ODowd was a member of British band Psychic TV 3 since 2003, as the drummer and designer who created all the band's album covers, records, posters, books, apparel and branding for the group, led by Genesis P-Orridge. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/%C3%8Ddolos_rotos"
+      "url": "https://en.wikipedia.org/wiki/Edley_ODowd"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘Grief became my brand’: Freya Bromley on writing about personal tragedy",
+      "body": "<p>Touring her memoir and talking to others helped the author come to terms with her brother’s death, but the book’s success left her feeling guilty. Had she commodified her family’s pain?</p><p>When my memoir about my life after my brother",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/09/grief-became-my-brand-freya-bromley-on-writing-about-personal-tragedy"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
     }
   ]
 }
