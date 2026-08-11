@@ -1,83 +1,45 @@
 {
-  "generated": "2026-08-11T02:56:32.686Z",
-  "count": 15,
+  "generated": "2026-08-11T04:11:02.924Z",
+  "count": 23,
   "items": [
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The prison opened on 11 November 2025 when it accepted a transfer of 300 prisoners from the La Roca prison.",
-      "body": "El Encuentro is a maximum security prison in Santa Elena, Ecuador. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/El_Encuentro_(prison)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Spider-Man: Brand New Day’ hits $1.7bn at global box office; ‘The Odyssey’ is Nolan’s biggest ever hit",
-      "body": "‘Brand New Day’ is already the 12th biggest film of all time.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-hits-17bn-at-global-box-office-the-odyssey-is-nolans-biggest-ever-hit/5219223.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Is Beauty Good by Rosalind Belben review – the literary equivalent of free jazz",
-      "body": "<p>Combining hilarious detail with harsh observation, this rediscovered novel takes the reader on an exhilaratingly strange journey </p><p>‘But after all, writing is nothing more than a guided dream,” wrote Jorge Luis Borges. Dreams and dre",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/10/is-beauty-good-by-rosalind-belben-review-the-literary-equivalent-of-free-jazz"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Blaze at Full Monty club thought to be arson",
-      "body": "The fire service say a blaze at the derelict club in Sheffield was started deliberately.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c78gx2qgqzxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "\"Summer\", known in Welsh as \"Yr Haf\", is a 14th-century Welsh poem in the form of a cywydd by Dafydd ap Gwilym, widely seen as the greatest of the Welsh poets.",
-      "body": "The poem celebrates summer as the season of love and natural beauty, while lamenting its inevitable end in winter. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Yr_Haf.gif/330px-Yr_Haf.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Summer_(poem)"
-    },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The British Red Cross Society is the United Kingdom body of the worldwide neutral and impartial humanitarian network the International Red Cross and Red Crescent Movement.",
-      "body": "The society was formed in 1870, and is a registered charity with 10,500 volunteers and 3,500 staff. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "The Scorch Trials is a 2010 young adult post-apocalyptic dystopian science fiction novel written by American author James Dashner, the second book, fourth chronologically, in The Maze Runner series.",
+      "body": "The novel was published on 18 September 2010 by Delacorte Press. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b6/The_Scorch_Trials_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/British_Red_Cross"
+      "url": "https://en.wikipedia.org/wiki/The_Scorch_Trials"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Star Wars: Shattered Empire is a four-issue Star Wars comic book limited series, set immediately after the events of the 1983 film Return of the Jedi.",
-      "body": "It features the parents of Resistance X-wing fighter pilot Poe Dameron from the 2015 film Star Wars: The Force Awakens, who are members of the Rebel Alliance. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/85/Star_Wars_Shattered_Empire-1_%282015%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Star_Wars%3A_Shattered_Empire"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Ancestral Visions of the Future review – visceral cine-memoir is a haunting return to Lesotho",
+      "body": "<p>Lemohang Jeremiah Mosese pairs his literary-grade voiceover with propulsive, prophetic images to interrogate his identity and that of his colonialism-carved homeland</p><p>Here is a captivating stream of consciousness film about exile, r",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/10/ancestral-visions-of-the-future-review-lemohang-jeremiah-mosese-lesotho"
     },
     {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The 2022–23 season was the 73rd season in the history of Olympique Lyonnais and their 34th consecutive season in the top flight.",
-      "body": "The club participated in Ligue 1 and the Coupe de France. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2022%E2%80%9323_Olympique_Lyonnais_season"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
     },
     {
       "type": "card",
@@ -91,40 +53,31 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Ancestral Visions of the Future review – visceral cine-memoir is a haunting return to Lesotho",
-      "body": "<p>Lemohang Jeremiah Mosese pairs his literary-grade voiceover with propulsive, prophetic images to interrogate his identity and that of his colonialism-carved homeland</p><p>Here is a captivating stream of consciousness film about exile, r",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/10/ancestral-visions-of-the-future-review-lemohang-jeremiah-mosese-lesotho"
+      "opener": "BBC Entertainment —",
+      "hook": "Blaze at Full Monty club thought to be arson",
+      "body": "The fire service say a blaze at the derelict club in Sheffield was started deliberately.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c78gx2qgqzxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Pippa Harris and James Wilson to headline BFI London Film Festival 2026’s Industry Forum",
-      "body": "This year’s industry forum puts a spotlight on UK producers.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/pippa-harris-and-james-wilson-to-headline-bfi-london-film-festival-2026s-industry-forum/5219230.article"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
     },
     {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Voice in the Fog is a lost 1915 silent film produced by Jesse Lasky and distributed by Paramount Pictures.",
-      "body": "McGowan directed the film which is based on a novel by Harold McGrath. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Voice_in_the_Fog"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Viljar Ansko was an Estonian physician, poet and caricaturist.",
-      "body": "He wrote poetry under the pen name Viljar Kaarna. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Viljar_Ansko%2C_august_2016_Purkus_3482-2.jpg/330px-Viljar_Ansko%2C_august_2016_Purkus_3482-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Viljar_Ansko"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
     },
     {
       "type": "card",
@@ -137,13 +90,140 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1919 —",
+      "hook": "Germany's Weimar Constitution is signed into law.",
+      "body": "The Constitution of the German Reich, usually known as the Weimar Constitution, was the constitution that governed Germany during the Weimar Republic era. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Weimar_Constitution.jpg/330px-Weimar_Constitution.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Weimar_Constitution"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1969 —",
+      "hook": "The Apollo 11 astronauts are released from a three-week quarantine following their liftoff from the Moon.",
+      "body": "Apollo 11 was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission of NASA's Apollo program. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/330px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Apollo_11"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ hits $1.7bn at global box office; ‘The Odyssey’ is Nolan’s biggest ever hit",
+      "body": "‘Brand New Day’ is already the 12th biggest film of all time.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-hits-17bn-at-global-box-office-the-odyssey-is-nolans-biggest-ever-hit/5219223.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Pippa Harris and James Wilson to headline BFI London Film Festival 2026’s Industry Forum",
+      "body": "This year’s industry forum puts a spotlight on UK producers.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/pippa-harris-and-james-wilson-to-headline-bfi-london-film-festival-2026s-industry-forum/5219230.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1972 —",
+      "hook": "Vietnam War: The last United States ground combat unit leaves South Vietnam.",
+      "body": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Vietnam_War"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Is Beauty Good by Rosalind Belben review – the literary equivalent of free jazz",
+      "body": "<p>Combining hilarious detail with harsh observation, this rediscovered novel takes the reader on an exhilaratingly strange journey </p><p>‘But after all, writing is nothing more than a guided dream,” wrote Jorge Luis Borges. Dreams and dre",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/10/is-beauty-good-by-rosalind-belben-review-the-literary-equivalent-of-free-jazz"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1988 —",
+      "hook": "A meeting between Sayyed Imam Al-Sharif, Osama bin Laden, Abdullah Yusuf Azzam, and leaders of Egyptian Islamic Jihad in Afghanistan culminates in the formation of Al-Qaeda.",
+      "body": "Sayyed Imam Al-Sharif, also known as Dr. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Sayyed_Imam_Al-Sharif"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Blackfellas is a 1993 Australian drama film directed by James Ricketson and starring John Moore, David Ngoombujarra, Jack Charles, John Hargreaves and Ernie Dingo.",
+      "body": "It is an adaptation of Archie Weller's 1981 novel The Day of the Dog. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blackfellas"
+    },
+    {
+      "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Ton Koot (1907–1986) was secretary of the Amsterdam Rijksmuseum.",
-      "body": "He was vice-president of the Amsterdam Tourist Office and a prolific author. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/Ton_Kootpenning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Historias de un arrabal parisino is the third novel by the Venezuelan author Vicente Ulive-Schnell and was published by Ediciones Idea in Spain.",
+      "body": "The edition published by Ediciones Idea had the support and contribution of Spanish photographer Tarek Ode, who gave one of his works for the cover and who presented the book in the Elder House of Tenerife in the company of the author. Worth a quiet trip down ",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Historias_de_un_arrabal_parisino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ton_Koot"
+      "url": "https://en.wikipedia.org/wiki/Historias_de_un_arrabal_parisino"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Return to Ithaca: A Novel about the Present is a 1946 novel by Swedish author Eyvind Johnson.",
+      "body": "It is based on Homer's story of Odysseus as he returns home to Ithaca after the Trojan War. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/55/Str%C3%A4ndernas_svall_1st_edition_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Return_to_Ithaca_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2012 —",
+      "hook": "At least 306 people are killed and 3,000 others injured in a pair of earthquakes near Tabriz, Iran.",
+      "body": "The 2012 East Azerbaijan earthquakes – also known as the Ahar earthquakes – occurred on 11 August 2012, at 16:53 Iran Standard Time, near the cities of Ahar and Varzaqan in Iran's East Azerbaijan province, approximately 60 kilometers from Tabriz. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 490 —",
+      "hook": "Battle of Adda: The Goths under Theodoric the Great and his ally Alaric II defeat the forces of Odoacer on the Adda River, near Milan.",
+      "body": "The Goths were a Germanic people who played a major role in the fall of the Western Roman Empire and the emergence of medieval Europe. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Goths"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Islands in the Stream (1970) is the first of the posthumously published novels of Ernest Hemingway.",
+      "body": "The book was originally intended to revive Hemingway's reputation after the negative reviews of Across the River and Into the Trees. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/22/IslandsInTheStream.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Islands_in_the_Stream_(novel)"
     }
   ]
 }
