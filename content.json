@@ -1,44 +1,15 @@
 {
-  "generated": "2026-08-11T16:42:25.943Z",
-  "count": 19,
+  "generated": "2026-08-11T17:45:29.560Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "\"I Can't Get There from Here\" is a song by American country singer George Jones.",
-      "body": "It was released as a single on the Musicor label in 1967. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/I_Can't_Get_There_from_Here"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘Everything about me is good in his eyes’: the women in China choosing AI boyfriends over human men",
-      "body": "<p>In her new documentary Replica, film-maker Chouwa Liang taps into her own experience of finding love with artificial intelligence and makes contact with other women like her</p><ul><li><p><a href=\"https://www.theguardian.com/australia-ne",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The men's basketball tournament at the 2020 Summer Olympics was the 20th edition of the event for men at the Summer Olympic Games.",
-      "body": "It was held from 25 July to 7 August 2021. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/330px-Olympic_rings_without_rims.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Basketball_at_the_2020_Summer_Olympics_%E2%80%93_Men's_tournament"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "John Cameron Mitchell: ‘It’s punk to turn off your phone – you’re walking away from the herd’",
-      "body": "<p>The writer, director and star of Hedwig and the Angry Inch on turning down David Bowie, falling off a Broadway stage, and a cringeworthy moment with Nicole Kidman</p><p><strong>The film adaptation of Hedwig and the Angry Inch has such a ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/stage/2026/aug/11/john-cameron-mitchell-actor-performer-interview"
+      "opener": "New Scientist —",
+      "hook": "CRISPR-armed phages help treat severe superbug infection",
+      "body": "Bacteria-killing phage viruses souped up with DNA-destroying CRISPR appear to have helped clear up a very serious infection caused by antibiotic-resistant E. coli",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584196-crispr-armed-phages-help-treat-severe-superbug-infection/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
@@ -51,139 +22,98 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Nazi collaboration occurred in every country occupied by Nazi Germany during the Second World War, including the Baltic states.",
-      "body": "The three Baltic republics of Estonia, Latvia and Lithuania, were occupied by the Soviet Union in the summer of 1940, and were later occupied by Germany in the summer of 1941 and then incorporated, together with parts of the Byelorussian Soviet Socialist Repub",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wartime_collaboration_in_the_Baltic_states"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 117 —",
-      "hook": "Hadrian is proclaimed Roman emperor, two days after Trajan's death.",
-      "body": "Year 117 (CXVII) was a common year starting on Thursday of the Julian calendar. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/RomanEmpire_117.svg/330px-RomanEmpire_117.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/AD_117"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1858 —",
-      "hook": "The Eiger in the Bernese Alps is ascended for the first time by Charles Barrington accompanied by Christian Almer and Peter Bohren.",
-      "body": "The Eiger is a 3,967-metre (13,015 ft) mountain of the Bernese Alps, overlooking Grindelwald and Lauterbrunnen in the Bernese Oberland of Switzerland, just north of the main watershed and border with Valais. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/North_face.jpg/330px-North_face.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Eiger"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1315 —",
-      "hook": "The Great Famine of Europe becomes so dire that even the king of England has difficulties buying bread for himself and his entourage.",
-      "body": "The Great Famine of 1315–1317 was the first of a series of large-scale crises that struck parts of Europe early in the 14th century. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Great_famine.jpg/330px-Great_famine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Chuānyuè, also chuānkōng, is a Chinese genre of speculative fiction where the protagonist normally travels back in time to historical periods or travels to parallel universes and different worlds.",
-      "body": "Time travel in these stories is most often in the direction of the past and may include fantasy or magical motifs. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chuanyue"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Convince an AI it’s not alive in psychological horror game Prove You’re Human",
-      "body": "<p>Sunset Visitor studio’s founder tells us about their new, unnerving Captcha-filled world which prompts players to ask what it means to have a ‘meat body’</p><p>Sunset Visitor is a studio that has long engaged with the idea that video gam",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1995 —",
-      "hook": "The Russell Hill subway accident in Toronto kills three and injures 30, due to a combination of human error and a safety system design flaw.",
-      "body": "The 1995 Russell Hill subway accident was a train crash that occurred in Toronto, Ontario, Canada, on Line 1 Yonge–University of the Toronto subway on August 11, 1995. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/RusselHillEmergExit.jpg/330px-RusselHillEmergExit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1995_Russell_Hill_subway_accident"
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "hook": "Sinking ships, dark humour and really good bad guys: Beryl Bainbridge – ranked!",
+      "body": "<p>From the last days of the Titanic to desperate romantics, we<em> </em>rate the work of a British master of black comedy</p><p>Bainbridge’s novel of the last days on RMS Titanic was acclaimed and popular (“They probably thought it was the",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+      "url": "https://www.theguardian.com/culture/2026/aug/10/sinking-ships-dark-humour-and-really-good-bad-guys-beryl-bainbridge-ranked"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1979 —",
-      "hook": "Two Aeroflot Tupolev Tu-134s collide over the Ukrainian city of Dniprodzerzhynsk and crash, killing all 178 aboard both airliners.",
-      "body": "PJSC Aeroflot – Russian Airlines, commonly known as Aeroflot, is the flag carrier and the largest airline of Russia. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Aeroflot%2C_VP-BXA%2C_Airbus_A350-941_%2851272267208%29.jpg/330px-Aeroflot%2C_VP-BXA%2C_Airbus_A350-941_%2851272267208%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Aeroflot"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "PERDaix is a novel, small and light weight magnetic spectrometer to measure the charge and mass dependent solar modulation periodically for deeper understanding of cosmic rays.",
+      "body": "For a better understanding of sources and acceleration of cosmic particles direct measurements of cosmic rays are necessary. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/PERDaix"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Louis XII, also known as Louis of Orléans, was King of France from 1498 to 1515 and King of Naples from 1501 to 1504.",
-      "body": "The son of Charles I, Duke of Orléans, and Marie of Cleves, he succeeded his second cousin once removed and brother-in-law, Charles VIII, who died childless in 1498. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ludwig_XII._von_Frankreich.jpg/330px-Ludwig_XII._von_Frankreich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Isabella Aiona Abbott was an educator, phycologist, and ethnobotanist from Hawaii.",
+      "body": "The first native Hawaiian woman to receive a PhD in science, she became a leading expert on Pacific marine algae. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/PMNM_Dr._Isabella_Abbott_%2849946278311%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Louis_XII"
+      "url": "https://en.wikipedia.org/wiki/Isabella_Abbott"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Heart surgery cured a man’s skin cancer – and gave him a bee allergy",
-      "body": "Having surgery for a heart condition is thought to have triggered an immune response that put the patient into remission for his severe skin cancer, but also caused him to develop a serious allergy to bee stings",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584182-heart-surgery-cured-a-mans-skin-cancer-and-gave-him-a-bee-allergy/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2006 —",
-      "hook": "The oil tanker MT Solar 1 sinks off the coast of Guimaras and Negros Islands in the Philippines, causing the country's worst oil spill.",
-      "body": "An oil tanker, also known as a petroleum tanker, is a ship designed for the bulk transport of oil or its products. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Supertanker_AbQaiq.jpg/330px-Supertanker_AbQaiq.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Oil_tanker"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "533 (2023), was a United States Supreme Court case.",
-      "body": "The Court decided how the Racketeer Influenced and Corrupt Organizations Act applied to extraterritorial claims of damage to intangible property. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The 1918–1920 flu pandemic, also known as the Great Influenza epidemic or by the misleading name Spanish flu, was an exceptionally deadly global influenza pandemic caused by the H1N1 subtype of the influenza A virus.",
+      "body": "The earliest probable cases were documented in March 1918 in Haskell County, Kansas, United States, with further cases recorded in France, Germany and the United Kingdom in April. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg/330px-Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Yegiazaryan_v._Smagin"
+      "url": "https://en.wikipedia.org/wiki/Spanish_flu"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The claustrum is a thin sheet of neurons and supporting glial cells in the brain that connects to the cerebral cortex and subcortical regions including the amygdala, hippocampus and thalamus.",
+      "body": "It is located between the insular cortex laterally and the putamen medially, encased by the extreme and external capsules respectively. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gray_718-emphasizing-claustrum.png/330px-Gray_718-emphasizing-claustrum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Claustrum"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "The Office actress Lucy Davis says she has 'incurable' cancer",
-      "body": "Davis played receptionist Dawn Tinsley in the hit BBC sitcom.",
+      "hook": "Taron Egerton says he is estranged from his dad after 'pushing ejector seat'",
+      "body": "The Welsh actor discussed his relationship with his father on the Armchair Expert with Dax Shepard podcast.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/crk51vk37d6o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cvgl0dd53xro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Assyrian homeland or Assyria is the homeland of the Assyrian people within which Assyrian civilisation developed, located in the Upper Mesopotamia of West Asia.",
+      "body": "The territory that forms the Assyrian homeland is, similarly to the rest of Mesopotamia, currently divided between present-day Iraq, Turkey, Iran and Syria. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_the_Assyrians_%28gold_and_blue_Assur%29.svg/330px-Flag_of_the_Assyrians_%28gold_and_blue_Assur%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Assyrian_homeland"
     }
   ]
 }
