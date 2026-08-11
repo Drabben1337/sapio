@@ -1,52 +1,73 @@
 {
-  "generated": "2026-08-11T17:45:29.560Z",
-  "count": 12,
+  "generated": "2026-08-11T18:41:31.528Z",
+  "count": 15,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "CRISPR-armed phages help treat severe superbug infection",
-      "body": "Bacteria-killing phage viruses souped up with DNA-destroying CRISPR appear to have helped clear up a very serious infection caused by antibiotic-resistant E. coli",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584196-crispr-armed-phages-help-treat-severe-superbug-infection/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "BBC Entertainment —",
+      "hook": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
+      "body": "The verdict from most theatre critics is that it's a worthy addition to the epic fantasy franchise.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/czrjkm68xlno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The 2014 Copa América Femenina was the seventh edition of the Copa América Femenina, an association football competition for women's national teams in South America affiliated with CONMEBOL.",
+      "body": "The tournament was played between 11 and 28 September 2014 in Ecuador. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7d/2014_Copa_Am%C3%A9rica_Femenina_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2014_Copa_Am%C3%A9rica_Femenina"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Sinking ships, dark humour and really good bad guys: Beryl Bainbridge – ranked!",
-      "body": "<p>From the last days of the Titanic to desperate romantics, we<em> </em>rate the work of a British master of black comedy</p><p>Bainbridge’s novel of the last days on RMS Titanic was acclaimed and popular (“They probably thought it was the",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/culture/2026/aug/10/sinking-ships-dark-humour-and-really-good-bad-guys-beryl-bainbridge-ranked"
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "PERDaix is a novel, small and light weight magnetic spectrometer to measure the charge and mass dependent solar modulation periodically for deeper understanding of cosmic rays.",
-      "body": "For a better understanding of sources and acceleration of cosmic particles direct measurements of cosmic rays are necessary. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Master and Margarita is a novel by Mikhail Bulgakov, written in the Soviet Union between 1928 and 1940.",
+      "body": "A censored version, with several chapters cut by editors, was published posthumously in Moscow magazine in 1966–1967 by his widow Elena Bulgakova. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MasterandMargaritaFirstEdition.jpg/330px-MasterandMargaritaFirstEdition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/PERDaix"
+      "url": "https://en.wikipedia.org/wiki/The_Master_and_Margarita"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Westmere is a residential suburb of Auckland, in northern New Zealand.",
+      "body": "The Auckland Council provides local governance. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Westmere_%28Auckland_%291916.png/330px-Westmere_%28Auckland_%291916.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Westmere%2C_New_Zealand"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Enrique Antônio Langue e Silvério de Bernoldi is a Brazilian former professional racing driver who raced for the Arrows Formula One team in 2001 and 2002, and was the test driver for British American Racing between 2004 and 2006.",
+      "body": "He entered IndyCar racing in 2008, and competed in the FIA GT World Championship between 2009 and 2011, in addition to entering multiple other competitions. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Enrique_Bernoldi_2007_Curitiba.jpg/330px-Enrique_Bernoldi_2007_Curitiba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Enrique_Bernoldi"
     },
     {
       "type": "card",
@@ -61,59 +82,68 @@
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Isabella Aiona Abbott was an educator, phycologist, and ethnobotanist from Hawaii.",
-      "body": "The first native Hawaiian woman to receive a PhD in science, she became a leading expert on Pacific marine algae. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/PMNM_Dr._Isabella_Abbott_%2849946278311%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Braj Basi Lal was an Indian archaeologist, Professor and author.",
+      "body": "He served as the Director General of the Archaeological Survey of India (ASI) from 1968 to 1972 and has served as Director of the Indian Institute of Advanced Studies, Shimla. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/B._B._Lal.jpg/330px-B._B._Lal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Isabella_Abbott"
+      "url": "https://en.wikipedia.org/wiki/B._B._Lal"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "The Office actor Lucy Davis says she has incurable stage four breast cancer",
+      "body": "<p>Star, 53, says disease has metastasised to her bones and it is too late for chemotherapy</p><p>Lucy Davis, the actor best known for playing Dawn Tinsley in The Office, has said she has incurable stage four breast cancer.</p><p>The 53-yea",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/11/lucy-davis-the-office-actor-stage-four-breast-cancer"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
     },
     {
       "type": "card",
-      "cat": "books",
+      "cat": "history",
       "opener": "Bet you didn't know —",
-      "hook": "The 1918–1920 flu pandemic, also known as the Great Influenza epidemic or by the misleading name Spanish flu, was an exceptionally deadly global influenza pandemic caused by the H1N1 subtype of the influenza A virus.",
-      "body": "The earliest probable cases were documented in March 1918 in Haskell County, Kansas, United States, with further cases recorded in France, Germany and the United Kingdom in April. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg/330px-Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The journal publishes original and review articles from all areas of basic, translational, and clinical cardiovascular disease.",
+      "body": "Cardiovascular Research is a medical journal published monthly by the Oxford University Press on behalf of the European Society of Cardiology. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Spanish_flu"
+      "url": "https://en.wikipedia.org/wiki/Cardiovascular_Research"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The claustrum is a thin sheet of neurons and supporting glial cells in the brain that connects to the cerebral cortex and subcortical regions including the amygdala, hippocampus and thalamus.",
-      "body": "It is located between the insular cortex laterally and the putamen medially, encased by the extreme and external capsules respectively. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gray_718-emphasizing-claustrum.png/330px-Gray_718-emphasizing-claustrum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "At most, purely Nazi parties in Sweden have collected around 27,000 votes in democratic parliamentary elections.",
+      "body": "Nazism in Sweden has been more or less fragmented and unable to form a mass movement since its beginning in the early 1920s. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Snsp_meeting_1933.jpg/330px-Snsp_meeting_1933.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Claustrum"
+      "url": "https://en.wikipedia.org/wiki/Nazism_in_Sweden"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Taron Egerton says he is estranged from his dad after 'pushing ejector seat'",
-      "body": "The Welsh actor discussed his relationship with his father on the Armchair Expert with Dax Shepard podcast.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl0dd53xro?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "Sinking ships, dark humour and really good bad guys: Beryl Bainbridge – ranked!",
+      "body": "<p>From the last days of the Titanic to desperate romantics, we<em> </em>rate the work of a British master of black comedy</p><p>Bainbridge’s novel of the last days on RMS Titanic was acclaimed and popular (“They probably thought it was the",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/culture/2026/aug/10/sinking-ships-dark-humour-and-really-good-bad-guys-beryl-bainbridge-ranked"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Assyrian homeland or Assyria is the homeland of the Assyrian people within which Assyrian civilisation developed, located in the Upper Mesopotamia of West Asia.",
-      "body": "The territory that forms the Assyrian homeland is, similarly to the rest of Mesopotamia, currently divided between present-day Iraq, Turkey, Iran and Syria. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_the_Assyrians_%28gold_and_blue_Assur%29.svg/330px-Flag_of_the_Assyrians_%28gold_and_blue_Assur%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The building has a total of 536 apartment units.",
+      "body": "Freshwater Place is a residential skyscraper in the Southbank district of Melbourne, Australia. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/PriceWaterHouseCoppers_%26_Freshwate_Place.jpg/330px-PriceWaterHouseCoppers_%26_Freshwate_Place.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Assyrian_homeland"
+      "url": "https://en.wikipedia.org/wiki/Freshwater_Place"
     }
   ]
 }

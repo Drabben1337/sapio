@@ -2,6 +2,36 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Books —",
+    "hook": "The 100 best novels of all time",
+    "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
+    "_t": 1786473691527
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "The Guardian · Culture —",
+    "hook": "The Office actor Lucy Davis says she has incurable stage four breast cancer",
+    "body": "<p>Star, 53, says disease has metastasised to her bones and it is too late for chemotherapy</p><p>Lucy Davis, the actor best known for playing Dawn Tinsley in The Office, has said she has incurable stage four breast cancer.</p><p>The 53-yea",
+    "src": "The Guardian · Culture",
+    "url": "https://www.theguardian.com/tv-and-radio/2026/aug/11/lucy-davis-the-office-actor-stage-four-breast-cancer",
+    "_t": 1786473691527
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
+    "body": "The verdict from most theatre critics is that it's a worthy addition to the epic fantasy franchise.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/czrjkm68xlno?at_medium=RSS&at_campaign=rss",
+    "_t": 1786473691527
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "The Guardian · Film —",
     "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
     "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
@@ -568,35 +598,5 @@
     "src": "BBC Entertainment",
     "url": "https://www.bbc.co.uk/news/articles/cy8mgpl27dpo?at_medium=RSS&at_campaign=rss",
     "_t": 1786387093248
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Books —",
-    "hook": "Barack Obama launches podcast about books that ‘shaped his worldview’",
-    "body": "<p>The former US president will host six episodes of A Great Book for Audible, discussing work from Toni Morrison and John le Carré to James Baldwin</p><p>Barack Obama is set to host a podcast about books that have “profoundly shaped his wo",
-    "src": "The Guardian · Books",
-    "url": "https://www.theguardian.com/books/2026/aug/10/barack-obama-launches-podcast-about-books-that-shaped-his-worldview",
-    "_t": 1786383665019
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "Screen Daily —",
-    "hook": "‘Spider-Man: Brand New Day’ sets 10-day North American box office record",
-    "body": "A24 reports best limited opening of the year for ‘Tony’. ’Teenage Sex And Death At Camp Miasma’ opens well for Mubi.",
-    "src": "Screen Daily",
-    "url": "https://www.screendaily.com/news/spider-man-brand-new-day-sets-10-day-north-american-box-office-record/5219219.article",
-    "_t": 1786383665019
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "BBC Entertainment —",
-    "hook": "30 years later, a former rival will stand trial for Tupac's murder",
-    "body": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
-    "src": "BBC Entertainment",
-    "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-    "_t": 1786383665019
   }
 ]
