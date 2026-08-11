@@ -1,7 +1,26 @@
 {
-  "generated": "2026-08-11T06:40:50.379Z",
-  "count": 19,
+  "generated": "2026-08-11T07:59:48.626Z",
+  "count": 14,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Ancestral Visions of the Future review – visceral cine-memoir is a haunting return to Lesotho",
+      "body": "<p>Lemohang Jeremiah Mosese pairs his literary-grade voiceover with propulsive, prophetic images to interrogate his identity and that of his colonialism-carved homeland</p><p>Here is a captivating stream of consciousness film about exile, r",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/10/ancestral-visions-of-the-future-review-lemohang-jeremiah-mosese-lesotho"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Philip Douglas Beidler was an American academic and author.",
+      "body": "He was a professor of American literature at the University of Alabama, and the author and editor of books on Alabama literature, the Vietnam War, and other topics. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philip_Beidler"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -10,6 +29,45 @@
       "body": "<p>Bitter Christmas, Late Fame and The Christophers all depict geniuses aware of their waning acclaim and terrified it will end</p><p>Entertainment culture is so preoccupied with nowness that last month we were inundated with speculation ab",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/aug/11/love-me-love-my-bruised-ego-what-the-narcissist-artist-film-tells-us-about-the-fear-of-ageing"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "A psychedelic replication is an image, video, or audio recreation of the sensory effects of a hallucinogen.",
+      "body": "They are most frequently recreations of the perceptual effects of serotonergic psychedelics, for instance LSD, psilocybin, mescaline, or dimethyltryptamine (DMT). The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Psychedelic_replication"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "It is included in the list of the hundred best books ever, compiled in 2002 by the Norwegian book Club.",
+      "body": "History: A Novel is a novel by Italian author Elsa Morante. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/La_Storia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Pout-Pout Fish review – Nick Offerman is best thing in kids cartoon adventure on the high seas",
+      "body": "<p>Offerman leads a talented cast, but this preschool picture book spinoff fails to inspire</p><p>Grumpy Mr Fish (Nick Offerman) has a reputation for being a sourpuss, but when he teams up with baby sea dragon Pip (Nina Oyama) to locate a w",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/11/the-pout-pout-fish-review-nick-offerman"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "She rose to fame after appearing as the traveller wedding dressmaker in My Big Fat Gypsy Wedding, a Channel 4 documentary on Irish Travellers as they prepare for marriage.",
+      "body": "Thelma Madine-Akin is a wedding dressmaker born in Liverpool. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thelma_Madine"
     },
     {
       "type": "card",
@@ -22,140 +80,41 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Sphragis is a modern term in literary theory and classical philology used to describe a literary device employed mainly in the classical world, in which an author names or otherwise identifies himself, most often at the beginning or the end of a poem or collection of poems.",
-      "body": "In the broader sense, it can refer to any technique when an author tries to hide his name or a reference to his identity in an encrypted manner. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sphragis_(literary_device)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Volcanism on the Moon is represented by the presence of volcanoes, pyroclastic deposits and vast lava plains on the lunar surface.",
-      "body": "The volcanoes are typically in the form of small domes and cones that form large volcanic complexes and isolated edifices. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/330px-FullMoon2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Volcanism_on_the_Moon"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Haplogroup K, formerly Haplogroup UK, is a human mitochondrial DNA (mtDNA) haplogroup.",
-      "body": "It is defined by the HVR1 mutations 16224C and 16311C. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Haplogroup_K_(mtDNA)"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Blaze at Full Monty club thought to be arson",
-      "body": "The fire service say a blaze at the derelict club in Sheffield was started deliberately.",
+      "hook": "KT Tunstall returns to the Fringe 30 years on with ground-breaking musical",
+      "body": "A new play The Singer brings deaf and hearing performers together in a show at this year's Fringe.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c78gx2qgqzxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2003 —",
-      "hook": "Jemaah Islamiyah leader Riduan Isamuddin, better known as Hambali, is arrested in Bangkok, Thailand.",
-      "body": "Jemaah Islamiyah was a Southeast Asian Islamist militant group based in Indonesia, which was dedicated to the establishment of an Islamic state in Southeast Asia. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jemaah_Islamiyah"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1969 —",
-      "hook": "The Apollo 11 astronauts are released from a three-week quarantine following their liftoff from the Moon.",
-      "body": "Apollo 11 was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission of NASA's Apollo program. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/330px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Apollo_11"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1813 —",
-      "hook": "In Colombia, Juan del Corral declares the independence of Antioquia.",
-      "body": "Colombia, officially the Republic of Colombia, is a country located in South America, with insular regions in North America. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/330px-Flag_of_Colombia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Colombia"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "The Odyssey becomes Christopher Nolan’s highest grossing film as it passes $1.1bn at box office",
-      "body": "<p>The film-maker’s take on Homer’s epic has beaten his previous record holder The Dark Knight Rises</p><p>The Odyssey has become the highest grossing film of Christopher Nolan’s career, having made more than US$1bn at the global box office",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/10/the-odyssey-becomes-christopher-nolans-highest-grossing-film-as-it-passes-11bn-at-box-office"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The team plays in the National Division South East Conference of BAFANL – the second tier of the BAFA National Leagues.",
-      "body": "The Ipswich Cardinals are an American football team from the United Kingdom based in Ipswich, Suffolk. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ipswich_Cardinals"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "In mathematics, a self-similar object is exactly or approximately similar to a part of itself.",
-      "body": "Many objects in the real world, such as coastlines, are statistically self-similar: parts of them show the same statistical properties at many scales. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/KochSnowGif16_800x500_2.gif/330px-KochSnowGif16_800x500_2.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Self-similarity"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2003 —",
-      "hook": "NATO takes over command of the peacekeeping force in Afghanistan, marking its first major operation outside Europe in its 54-year-history.",
-      "body": "The North Atlantic Treaty Organization (NATO) is an intergovernmental military alliance between 32 member states. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/330px-NATO_OTAN_landscape_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/NATO"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Instituto Nacional de Biodiversidad (INBio) is the national institute for biodiversity and conservation in Costa Rica.",
-      "body": "Created at the end of the 1980s, despite having national status, it is a privately run institution that works closely with various government agencies, universities, the business sector and other public and private entities inside and outside of the country. T",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vista_del_lago_INBioParque.jpg/330px-Vista_del_lago_INBioParque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Instituto_Nacional_de_Biodiversidad"
+      "url": "https://www.bbc.co.uk/news/articles/c78gle9wdx8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Ancestral Visions of the Future review – visceral cine-memoir is a haunting return to Lesotho",
-      "body": "<p>Lemohang Jeremiah Mosese pairs his literary-grade voiceover with propulsive, prophetic images to interrogate his identity and that of his colonialism-carved homeland</p><p>Here is a captivating stream of consciousness film about exile, r",
+      "hook": "‘I am left grinning’: why The Dish is my feelgood movie",
+      "body": "<p>The latest in our series of writers picking their most loved comfort films is a 2000 Australian gem featuring the late Sam Neill</p><p>After the shock of Sam Neill’s death, I was surprised just how hard the news hit me. I don’t usually t",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/10/ancestral-visions-of-the-future-review-lemohang-jeremiah-mosese-lesotho"
+      "url": "https://www.theguardian.com/film/2026/aug/10/the-dish-sam-neill-feelgood-movie"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1675 —",
-      "hook": "Franco-Dutch War: Forces of the Holy Roman Empire defeat the French in the Battle of Konzer Brücke.",
-      "body": "The Franco-Dutch War, 1672 to 1678, was primarily fought by France and the Dutch Republic, with both sides backed at different times by a variety of allies. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Franco-Dutch_War_Collave.jpg/330px-Franco-Dutch_War_Collave.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Franco-Dutch_War"
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Clopas is a figure of early Christianity.",
+      "body": "The name appears in the New Testament, specifically in John 19:25:Near the cross of Jesus stood his mother, his mother's sister, Mary the wife of Clopas, and Mary Magdalene. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clopas"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Juliane Merenciano Gamboa, better known as Juliane Gamboa is a Brazilian singer and songwriter who focuses on samba, jazz, and música popular brasileira (MPB).",
+      "body": "Gamboa was nominated as the Best New Artist at the 2025 Latin Grammy Awards. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Juliane_Gamboa"
     },
     {
       "type": "card",
@@ -168,22 +127,13 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1959 —",
-      "hook": "Sheremetyevo International Airport, the second-largest airport in Russia, opens.",
-      "body": "Alexander S. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sheremetyevo_International_Airport_by_Sentinel-2%2C_2020-05-11_%28cropped%29.jpg/330px-Sheremetyevo_International_Airport_by_Sentinel-2%2C_2020-05-11_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Pout-Pout Fish review – Nick Offerman is best thing in kids cartoon adventure on the high seas",
-      "body": "<p>Offerman leads a talented cast, but this preschool picture book spinoff fails to inspire</p><p>Grumpy Mr Fish (Nick Offerman) has a reputation for being a sourpuss, but when he teams up with baby sea dragon Pip (Nina Oyama) to locate a w",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/11/the-pout-pout-fish-review-nick-offerman"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Existentialism is a family of philosophical views and inquiry that explore the human individual's struggle to lead an authentic life despite the apparent absurdity or incomprehensibility of existence.",
+      "body": "In examining meaning, purpose, and value, existentialist thought often includes concepts such as existential crises, angst, courage, and freedom. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Existentialism"
     }
   ]
 }
