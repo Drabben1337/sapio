@@ -1,15 +1,230 @@
 {
-  "generated": "2026-08-11T09:46:23.832Z",
-  "count": 18,
+  "generated": "2026-08-11T10:39:04.122Z",
+  "count": 26,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1813 —",
+      "hook": "In Colombia, Juan del Corral declares the independence of Antioquia.",
+      "body": "Colombia, officially the Republic of Colombia, is a country located in South America, with insular regions in North America. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/330px-Flag_of_Colombia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Colombia"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1934 —",
+      "hook": "The first civilian prisoners arrive at the Federal prison on Alcatraz Island.",
+      "body": "United States Penitentiary, Alcatraz Island, also known simply as Alcatraz or The Rock, was a maximum security federal prison on Alcatraz Island, 1.25 miles (2.01 km) off the coast of San Francisco, California, United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Alcatraz_Island_photo_Don_Ramey_Logan.jpg/330px-Alcatraz_Island_photo_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Alcatraz_Federal_Penitentiary"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Killing Veerappan is a 2016 Indian Kannada-language biographical Crime film directed by Ram Gopal Varma, who co-wrote the film with K.",
+      "body": "The film is based on the events leading to Operation Cocoon to capture or kill Indian bandit Veerappan. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ef/Killing_Veerappan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Killing_Veerappan"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Uganda, Somalia and Ghana projects share top prize at Locarno’s Open Doors",
+      "body": "Locarno Pro’s co-production and talent development programme is currently focused on 42 countries in Africa.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/uganda-somalia-and-ghana-projects-share-top-prize-at-locarnos-open-doors/5219222.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Lesbians, latex and $2,000 condoms: why are this summer’s movies so obsessed with sex?",
+      "body": "<p>From One Night Only to The Invite, a wave of new movies are a raunchy antidote to gen Z celibacy</p><p>The <a href=\"https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949/\">first alarm bells</a> sounded nearly 10 y",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/10/sex-film-one-night-only-the-invite-camp-miasma"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Radio Caroline breached Ofcom rules after mistakenly announcing King's death",
+      "body": "A correction and apology wasn't aired until 30 minutes after the incident occurred.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ckge094k2k1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The International Festival of Arts & Ideas is a 15-day festival that takes place in New Haven, Connecticut.",
+      "body": "The festival presents performing arts, lectures, and conversations that celebrate influential artists and thinkers from around the world. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/NewHavenCT_Green.jpg/330px-NewHavenCT_Green.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/International_Festival_of_Arts_%26_Ideas"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2003 —",
+      "hook": "NATO takes over command of the peacekeeping force in Afghanistan, marking its first major operation outside Europe in its 54-year-history.",
+      "body": "The North Atlantic Treaty Organization (NATO) is an intergovernmental military alliance between 32 member states. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/330px-NATO_OTAN_landscape_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/NATO"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "A total solar eclipse is coming to Europe",
+      "body": "Video: 00:01:24 When the Moon passes between Earth and the Sun, it casts a shadow onto Earth's surface. For people in the darkest part of this shadow, the face of the Sun is totally blocked out, and its wispy atmosphere becomes visible. On ",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1898 —",
+      "hook": "Spanish–American War: American troops enter the city of Mayagüez, Puerto Rico.",
+      "body": "The Spanish–American War was fought between Spain and the United States in 1898. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Collage_infobox_for_Spanish-American_War.jpg/330px-Collage_infobox_for_Spanish-American_War.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War"
+    },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "RL Stine’s Pumpkinhead review – horror from Goosebumps writer has kid confined inside large fruit",
-      "body": "<p>Based on a short story by the Goosebumps author, this derivative but tautly plotted tale over-relies on Scooby-Doo-style sleuthery, and its truly unsettling turn comes too late</p><p>Adapted from a 1999 short story by Goosebumps’ RL Stin",
+      "hook": "Momo and the Time Thieves review – kids’ fantasy jaunt sticks the boot into capitalism",
+      "body": "<p>This new adaptation of Michael Ende’s 1973 novel contains some neat parables for our digitally nihilistic age, but even a mystical tortoise can’t save it it from monotony</p><p>Momo – the 1973 fantasy novel by German author Michael Ende,",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/10/rl-stines-pumpkinhead-review-goosebumps-author"
+      "url": "https://www.theguardian.com/film/2026/aug/11/momo-and-the-time-thieves-review-kids-fantasy-jaunt-sticks-the-boot-into-capitalism"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1492 —",
+      "hook": "Rodrigo de Borja is elected as Head of the Catholic Church, taking the name Pope Alexander VI.",
+      "body": "Pope Alexander VI was head of the Catholic Church and leader of the Papal States from 11 August 1492 until his death in 1503. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Portrait_of_Pope_Alexander_VI_Borgia_%28Vatican_Museums_-_Musei_Vaticani%2C_Vatican%29.jpg/330px-Portrait_of_Pope_Alexander_VI_Borgia_%28Vatican_Museums_-_Musei_Vaticani%2C_Vatican%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VI"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Ramon Llull Novel Award is an honor given annually to a novel originally written in Catalan.",
+      "body": "Conceived in 1981 by editor José Manuel Lara Hernández, it is awarded by the Planeta publishing house in conjunction with the Government of Andorra. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ramon_Llull_Novel_Award"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Windsor Castle is a novel by William Harrison Ainsworth serially published in 1842.",
+      "body": "It is a historical romance with gothic elements that depicts Henry VIII's pursuit of Anne Boleyn. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ainsworth%2C_William_Harrison_%E2%80%93_Windsor_Castle%2C_1844_%E2%80%93_BEIC_2614529.jpg/330px-Ainsworth%2C_William_Harrison_%E2%80%93_Windsor_Castle%2C_1844_%E2%80%93_BEIC_2614529.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Windsor_Castle_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Its first restaurant was established in Lahore, followed by a second restaurant a week later in Karachi, in September 1998.",
+      "body": "McDonald's Pakistan is the Pakistani franchise of the international fast food chain, McDonald's, owned and operated by SIZA Foods. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/McDonald%27s_square_2020.svg/330px-McDonald%27s_square_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/McDonald's_Pakistan"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Onmyōji (陰陽師) is a series of historical fantasy short stories and novels written by Japanese author Baku Yumemakura.",
+      "body": "It follows the story of a fictionalized version of the Heian period onmyōji Abe no Seimei, a master in onmyōdō, a traditional Japanese form of cosmology. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/15/Onmyoji_novel_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Onmy%C5%8Dji_(literary_series)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "The proton is more quantum than we thought",
+      "body": "Our understanding of the internal structure of protons is largely based on classical physics, but data compiled from accelerator experiments has uncovered quantum behaviour that has never been seen before",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583917-the-proton-is-more-quantum-than-we-thought/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1982 —",
+      "hook": "A bomb explodes on Pan Am Flight 830, en route from Tokyo, Japan to Honolulu, Hawaii, killing one passenger and injuring 15 others.",
+      "body": "Pan Am Flight 830 was a scheduled international flight from New Tokyo International Airport in Tokyo, Japan, to Los Angeles International Airport in Los Angeles, California via Honolulu International Airport in Hawaii. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Boeing_747-121%2C_Pan_American_World_Airways_-_Pan_Am_AN1937372.jpg/330px-Boeing_747-121%2C_Pan_American_World_Airways_-_Pan_Am_AN1937372.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pan_Am_Flight_830"
     },
     {
       "type": "card",
@@ -23,157 +238,22 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1965 —",
-      "hook": "Race riots (the Watts Riots) begin in the Watts area of Los Angeles, California.",
-      "body": "The Watts riots, sometimes referred to as the Watts Rebellion or Watts Uprising, took place in the Watts neighborhood and its surrounding areas of Los Angeles from August 11 to 16, 1965. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Watts_Riots_-_buildings_on_fire_on_Avalon_Blvd.jpg/330px-Watts_Riots_-_buildings_on_fire_on_Avalon_Blvd.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Watts_riots"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1991 —",
-      "hook": "Nickelodeon's first line of \"Nicktoons\" (Doug, Rugrats & Ren & Stimpy) premiere on the channel.",
-      "body": "Nickelodeon is an American pay television channel and the flagship property of the Nickelodeon Group, a sub-division of the Paramount Media Networks division of Paramount Skydance. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Nickelodeon"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "CantoMundo is an American literary organization founded in 2009 to support Latino poets and poetry.",
-      "body": "It hosts an annual poetry workshop dedicated to the creation, documentation, and critical analysis of Latinx poetry. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/CantoMundo"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Nicola Jane Milner is a British archaeologist and academic.",
-      "body": "She is head of the Department of Archaeology at the University of York. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nicky_Milner"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2012 —",
-      "hook": "At least 306 people are killed and 3,000 others injured in a pair of earthquakes near Tabriz, Iran.",
-      "body": "The 2012 East Azerbaijan earthquakes – also known as the Ahar earthquakes – occurred on 11 August 2012, at 16:53 Iran Standard Time, near the cities of Ahar and Varzaqan in Iran's East Azerbaijan province, approximately 60 kilometers from Tabriz. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "GZMB is a gene that in humans encodes the enzyme Granzyme B, a serine protease expressed by cytotoxic T lymphocytes (CTL) and natural killer (NK) cells.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Protein_GZMB_PDB_1fq3.png/330px-Protein_GZMB_PDB_1fq3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/GZMB"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1918 —",
-      "hook": "World War I: The Battle of Amiens ends.",
-      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_I"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "The 2013 season was the Buffalo Bills' 44th in the National Football League (NFL) and their first under head coach Doug Marrone.",
-      "body": "It was also their final season under the ownership of Ralph Wilson, who died on March 25, 2014, at the age of 95. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Buffalo_Bills_Uniforms_2012-2014.png/330px-Buffalo_Bills_Uniforms_2012-2014.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Owned by Oberlin College, the station services Lorain County and western parts of Greater Cleveland.",
+      "body": "WOBC-FM is a non-commercial educational radio station licensed to serve Oberlin, Ohio, carrying a mixed freeform and community format. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/WOBC-FM_logo.png/330px-WOBC-FM_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2013_Buffalo_Bills_season"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "You Won’t Get Free of It by Rachel Aviv review – a subtle study of the mother-daughter bond",
-      "body": "<p>The most complex female relationship is thrown into sharp relief in this moving series of essays</p><p>Rachel Aviv has a profound interest in the vagaries of human psychology: Strangers to Ourselves, her last book, profiled five people w",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/11/you-wont-get-free-of-it-by-rachel-aviv-review-a-subtle-study-of-the-mother-daughter-bond"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Olympic gold medallist Tabby Stoecker joins Strictly line-up",
-      "body": "The Team GB skeleton racer said she was \"over the moon\" to be joining the cast of this year's series.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1871 —",
-      "hook": "An explosion of guncotton occurs in Stowmarket, England, killing 28.",
-      "body": "The Stowmarket Guncotton Explosion happened on 11 August 1871 at the Prentices Guncotton Factory in Stowmarket, Suffolk. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Stowmarket%27s_Gun_Cotton_Explosion_Memorial_%28geograph_5157033_by_Adrian_S_Pye%29.jpg/330px-Stowmarket%27s_Gun_Cotton_Explosion_Memorial_%28geograph_5157033_by_Adrian_S_Pye%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Stowmarket_Guncotton_Explosion"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Nimrods review – Green Day’s early years inspire teenage kicks in amiable punk road movie",
-      "body": "<p>San Francisco’s pop-punk pioneers Green Day loom large in this fun, puppyish film about a scrappy band desperate to meet their idols</p><p>Inspired by their own youthful rowdy escapades – “our early days of driving around in a van, tired",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/11/nimrods-review-green-days-early-years-inspire-teenage-kicks-in-amiable-punk-road-movie"
+      "url": "https://en.wikipedia.org/wiki/WOBC-FM"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Musical quotation is the practice of directly quoting another work in a new composition.",
-      "body": "The quotation may be from the same composer's work (self-referential), or from a different composer's work (appropriation). Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Moribito: Guardian of the Spirit is a Japanese novel that was first published in July 1996.",
+      "body": "It is the first in the 12-volume Moribito (守り人) series of Japanese fantasy novels by Nahoko Uehashi. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/56/Moribito_Guardian_of_the_Spirit_novel_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Musical_quotation"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-      "body": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Uganda, Somalia and Ghana projects share top prize at Locarno’s Open Doors",
-      "body": "Locarno Pro’s co-production and talent development programme is currently focused on 42 countries in Africa.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/uganda-somalia-and-ghana-projects-share-top-prize-at-locarnos-open-doors/5219222.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1685 —",
-      "hook": "Morean War: The 49-day Siege of Coron ends with the surrender and massacre of its garrison by the Venetians.",
-      "body": "The Morean war, also known as the Sixth Ottoman–Venetian War, was fought between 1684–1699 as part of the wider conflict known as the \"Great Turkish War\", between the Republic of Venice and the Ottoman Empire. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Medal_for_the_Venetian_victories_in_the_Morean_War%2C_G._Hautsch%2C_Nuremberg%2C_1687.jpg/330px-Medal_for_the_Venetian_victories_in_the_Morean_War%2C_G._Hautsch%2C_Nuremberg%2C_1687.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Morean_War"
+      "url": "https://en.wikipedia.org/wiki/Moribito%3A_Guardian_of_the_Spirit"
     }
   ]
 }
