@@ -1,16 +1,72 @@
 {
-  "generated": "2026-08-12T08:56:32.616Z",
+  "generated": "2026-08-12T09:52:57.318Z",
   "count": 13,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Isaac Seckel ben Menahem Etthausen was a German rabbi, who served as a rabbi in various towns for a period spanning fifty-five years.",
-      "body": "He was the author of Or ne'elam, a collection of fifty-eight responsa relating to subjects he had discussed with Baruch Rapoport, Jonathan Eybeschütz, and others; and Ur lo be-Ẓiyyon, novellæ on Berakhot and Halakot Ḳeṭannot. One of those things you can't un-k",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Pacoh language is a member of the Katuic language group, a part of the Eastern Mon–Khmer linguistic branch.",
+      "body": "Most Pacoh speakers live in central Laos and central Vietnam. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Isaac_Seckel_Etthausen"
+      "url": "https://en.wikipedia.org/wiki/Pacoh_language"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I am left grinning’: why The Dish is my feelgood movie",
+      "body": "<p>The latest in our series of writers picking their most loved comfort films is a 2000 Australian gem featuring the late Sam Neill</p><p>After the shock of Sam Neill’s death, I was surprised just how hard the news hit me. I don’t usually t",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/10/the-dish-sam-neill-feelgood-movie"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Battle Masters is a miniature wargame by Milton Bradley, made in collaboration with Games Workshop in 1992.",
+      "body": "It is thematically similar to Warhammer Fantasy Battle, but with much simpler game mechanics. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battlemasters-knights.jpg/330px-Battlemasters-knights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_Masters"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Chum review – daft shark attack movie with wedding guests running gamut of toothy undersea beast",
+      "body": "<p>Producer-star Alice Eve seems to be laughing along with the audience in this deeply silly high-concept thriller</p><p>To be as clear as the crystalline waters in which the characters here frolic before their blood turns the ocean the col",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/12/chum-review-shark-attack"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Sale of Showcase’s UK cinemas to The Light in doubt",
+      "body": "Several sources indicate industry veteran Mooky Greidinger is pushing hard to take over the circuit.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/sale-of-showcases-uk-cinemas-to-the-light-in-doubt/5219269.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "South Kessock is an area of the city of Inverness in the Highland council area of Scotland.",
+      "body": "It is situated to the city's north at the mouth of the River Ness. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/South_Kessock_pier_-_geograph.org.uk_-_124266.jpg/330px-South_Kessock_pier_-_geograph.org.uk_-_124266.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/South_Kessock"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Mutants assemble: what does the future hold for the X-Men?",
+      "body": "<p>After the introduction of a key character in Spider-Man: Brand New Day, Marvel is bringing back one of its most beloved franchises – but the return comes at a precarious time</p><p>Later-period Marvel movies have resorted to more fantast",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/12/x-men-spider-man-marvel"
     },
     {
       "type": "card",
@@ -24,87 +80,22 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Rebecca Cantrell is a New York Times and USA Today bestselling author.",
-      "body": "She has published nine novels in over ten different languages. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "Okay, this one's fun —",
+      "hook": "Joseph Morse Greene was an American activist for animal rights and welfare.",
+      "body": "He was the co-founder and treasurer of the New England Anti-Vivisection Society. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Joseph_Morse_Greene.png/330px-Joseph_Morse_Greene.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rebecca_Cantrell"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Songs of Forgotten Trees review – sensitive, ambiguous drama of female intimacy in Mumbai",
-      "body": "<p>A sex worker and a call centre employee forge an ambiguous relationship in a film of strong feelings</p><p>In a tiny crumbling Mumbai apartment two women move around each other, squeezing into the kitchen to cook, or past one another in ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/12/songs-of-forgotten-trees-review"
+      "url": "https://en.wikipedia.org/wiki/Joseph_Morse_Greene"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Donal Francis Logue is a Canadian-American film and television actor.",
-      "body": "He played the starring role of Sean Finnerty on the sitcom Grounded for Life (2001–05), and Detective Harvey Bullock on the DC Comics adaptation Gotham (2014–19). The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Donal_Logue_at_NY_PaleyFest_2014_for_Gotham.jpg/330px-Donal_Logue_at_NY_PaleyFest_2014_for_Gotham.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "Edna Buckman Kearns was a suffrage activist who worked on the 1915 and 1917 New York campaigns for votes for women, as well as the National Woman's Party campaign for the passage and ratification of the 19th amendment to the US Constitution.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Edna_Kearns.jpg/330px-Edna_Kearns.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Donal_Logue"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "John Bush is an American heavy metal singer.",
-      "body": "He came to prominence in the 1980s as the lead singer and lyricist of Armored Saint, a heavy metal band from Los Angeles, California. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Armored_Saint_%E2%80%93_Waterkant_X-Mas_Bash_2015_12.jpg/330px-Armored_Saint_%E2%80%93_Waterkant_X-Mas_Bash_2015_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/John_Bush_(singer)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘Sometimes they credit the janitor. But not us’: what’s it like to be a child chaperone on a film set?",
-      "body": "<p>Safeguarding young people in films is a vital role, often remembered by their charges later in successful careers, but not always recognised. Some of the best share their tips</p><p>Linda Matthews has rarely had to stop a production in i",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/12/whats-it-like-to-support-children-on-a-film-set-chaperones"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "A History of the Novel in Britain by Philip Hensher review – a masterpiece of criticism",
-      "body": "<p>This joyous book takes readers on a literary adventure across 200 years of fiction, from Defoe to Zadie Smith</p><p></p><p>In his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story i",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Chum review – daft shark attack movie with wedding guests running gamut of toothy undersea beast",
-      "body": "<p>Producer-star Alice Eve seems to be laughing along with the audience in this deeply silly high-concept thriller</p><p>To be as clear as the crystalline waters in which the characters here frolic before their blood turns the ocean the col",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/12/chum-review-shark-attack"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Bryan Stanley Turner is a British, Australian, Singaporean, and American sociologist.",
-      "body": "He is particularly known for his work on the sociology of religion, on Max Weber, and in comparative sociology, and he is Presidential Professor emeritus at The Graduate Center, City University of New York. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bryan_Turner_(sociologist)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "I share my house with a Terminator, Kung Fu Panda and 30 other life-sized props",
-      "body": "Martin rents a one-bedroom-flat, but you would not say he lives alone.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/czjl39rk93jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Edna_Buckman_Kearns"
     },
     {
       "type": "card",
@@ -117,13 +108,22 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The franchise represents both North Carolina and South Carolina; while its Charlotte stadium was under construction, the Panthers played their inaugural 1995 season at Memorial Stadium in Clemson, South Carolina.",
-      "body": "The Carolina Panthers are a professional American football team based in Charlotte, North Carolina. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Carolina_Panthers_logo.svg/330px-Carolina_Panthers_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Dust and water spotted close to giant black hole",
+      "body": "Using the NASA/ESA/CSA James Webb Space Telescope , an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The o",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The coat of arms and flag that serve as the symbols of the Police County, in West Pomeranian Voivodeship, Poland were established on 28 June 2000.",
+      "body": "They were designed by Radosław Gaziński. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/POL_powiat_policki_COA.svg/330px-POL_powiat_policki_COA.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Carolina_Panthers"
+      "url": "https://en.wikipedia.org/wiki/Symbols_of_Police_County"
     }
   ]
 }
