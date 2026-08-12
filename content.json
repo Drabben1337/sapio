@@ -1,85 +1,54 @@
 {
-  "generated": "2026-08-12T22:27:02.594Z",
-  "count": 23,
+  "generated": "2026-08-12T23:27:17.416Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Something Like Happiness by Tom Newlands review – a tender take on hard times, anger and autism",
-      "body": "<p>A twentysomething Scottish couple care for their autistic son in the bleak follow-up to Only Here, Only Now</p><p>Frazer and Caitlin have been emotionally entwined since schooldays. Now in their mid-20s, and parents of a five-year-old, t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/12/something-like-happiness-by-tom-newlands-review-a-tender-take-on-hard-times-anger-and-autism"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
+      "opener": "New Scientist —",
+      "hook": "From the mine to the grid",
+      "body": "How Komatsu machines help build Atlassian Williams F1 Team’s FW48",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2581325-from-the-mine-to-the-grid/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1788 —",
-      "hook": "The Anjala conspiracy is signed.",
-      "body": "The Anjala League of 1788 was a scheme by disgruntled Swedish officers to end Gustav III's Russian War of 1788–1790. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Johan_Henrik_Hastesko.jpg/330px-Johan_Henrik_Hastesko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Anjala_League"
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Craig Allen Johnson is an American author who writes mystery novels.",
+      "body": "He is best known for his Sheriff Walt Longmire novel series. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Author_Craig_Johnson_at_a_book_event_-_55312747944_%28cropped%29.jpg/330px-Author_Craig_Johnson_at_a_book_event_-_55312747944_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Craig_Johnson_(author)"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Nicholas Hoult joins Harry Potter TV show - see the cast so far",
+      "body": "Hoult, known for his roles in X-Men, Superman and Mad Max: Fury Road, will play Gilderoy Lockhart.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cy742kl562ko?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The Daily Life of the Immortal King is a donghua based on the manhua, which itself is based on the Chinese novel by Kuxuan with the same name.",
-      "body": "This novel is published by Qidian in Chinese and Webnovel in English. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/93/The_Daily_Life_of_the_Immortal_King_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Roger Brand was an American cartoonist who created stories for both mainstream and underground comic books.",
+      "body": "His work showed a fascination with horror and eroticism, often combining the two. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Daily_Life_of_the_Immortal_King"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1164 —",
-      "hook": "Battle of Harim: Nur ad-Din Zangi defeats the Crusader armies of the County of Tripoli and the Principality of Antioch.",
-      "body": "The Battle of Harim (Harenc) was fought on 12 August 1164 at Harim, Syria, between the forces of Nur ad-Din, and a combined army from the County of Tripoli, the Principality of Antioch, the Byzantine Empire, and Armenia. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nur_ad-Din_Zangi.jpg/330px-Nur_ad-Din_Zangi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Harim"
+      "url": "https://en.wikipedia.org/wiki/Roger_Brand"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Leopard in the Snow is a 1978 British drama film directed by Gerry O'Hara and starring Keir Dullea, Susan Penhaligon, Kenneth More and Billie Whitelaw.",
-      "body": "It was written by Anne Mather and Jill Hyem based on Mather's 1974 novel of the same title. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Leopard_in_the_Snow_poster.jpg/330px-Leopard_in_the_Snow_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Bad City was a five-piece rock band from Chicago, Illinois.",
+      "body": "They were signed to Atlantic Records in 2010. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Leopard_in_the_Snow"
+      "url": "https://en.wikipedia.org/wiki/Bad_City"
     },
     {
       "type": "card",
@@ -89,6 +58,16 @@
       "body": "<p>After the introduction of a key character in Spider-Man: Brand New Day, Marvel is bringing back one of its most beloved franchises – but the return comes at a precarious time</p><p>Later-period Marvel movies have resorted to more fantast",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/aug/12/x-men-spider-man-marvel"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Robert John Verney, 17th Baron Willoughby de Broke and de jure 25th Baron Latimer of Compton Verney in Warwickshire, was a peer in the peerage of England.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VerneyArms.png/330px-VerneyArms.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Verney%2C_17th_Baron_Willoughby_de_Broke"
     },
     {
       "type": "card",
@@ -102,71 +81,11 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Sale of Showcase’s UK cinemas to The Light in doubt",
-      "body": "Several sources indicate industry veteran Mooky Greidinger is pushing hard to take over the circuit.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/sale-of-showcases-uk-cinemas-to-the-light-in-doubt/5219269.article"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Beggar is a 1965 novella by Naguib Mahfouz about the failure to find meaning in existence.",
-      "body": "It is set in post-revolutionary Cairo during the time of Gamal Abdel Nasser. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Beggar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Beggar_(novella)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Homeward Bounders is a fantasy novel by Diana Wynne Jones in which a vast series of parallel universes serve as the game-boards for a race of demons that delight in war-games and fantasy-games.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/The_Homeward_Bounders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Homeward_Bounders"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "World War I: France, the United Kingdom and the British Empire declare war on Austria-Hungary.",
-      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_I"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1984 —",
-      "hook": "An infamous brawl takes place at the Atlanta-Fulton County Stadium between the Atlanta Braves and San Diego Padres.",
-      "body": "On August 12, 1984, during an afternoon game at Atlanta–Fulton County Stadium, a series of brawls broke out between the San Diego Padres and the Atlanta Braves over a series of attempted beanings and retaliations. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1984_Braves%E2%80%93Padres_bean_brawl"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Teneke is a novel by the Turkish author of Kurdish origin Yaşar Kemal, appeared in 1955 by Varlık Yayınları after its first publication in 1954 as an episode in the newspaper Cumhuriyet.",
-      "body": "It is Kemal's second novel. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Teneke_(novel)"
+      "opener": "The Guardian · Film —",
+      "hook": "Chum review – daft shark attack movie with wedding guests running gamut of toothy undersea beast",
+      "body": "<p>Producer-star Alice Eve seems to be laughing along with the audience in this deeply silly high-concept thriller</p><p>To be as clear as the crystalline waters in which the characters here frolic before their blood turns the ocean the col",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/12/chum-review-shark-attack"
     },
     {
       "type": "card",
@@ -180,50 +99,41 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1952 —",
-      "hook": "The Night of the Murdered Poets: Thirteen prominent Jewish intellectuals are murdered in Moscow, Russia, Soviet Union.",
-      "body": "The Night of the Murdered Poets occurred on 12 August 1952, and it involved the execution of 13 Soviet Jews in the Lubyanka Prison in Moscow. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lozovsky-detention-order.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Night_of_the_Murdered_Poets"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1099 —",
-      "hook": "First Crusade: Battle of Ascalon: Crusaders under the command of Godfrey of Bouillon defeat Fatimid forces led by Al-Afdal Shahanshah. This is considered the last engagement of the First Crusade.",
-      "body": "The First Crusade (1096–1099) was the first of a series of religious wars, or Crusades, which were initiated, supported and at times directed by the Latin Church in the Middle Ages. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Peter_the_Hermit.jpg/330px-Peter_the_Hermit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/First_Crusade"
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The largest stone circle is the Great Circle, 113 metres (371 ft) in diameter and the second largest stone circle in Britain ; it is considered to be one of the largest Neolithic monuments to have been built.",
+      "body": "The Stanton Drew stone circles are just outside the village of Stanton Drew in the English county of Somerset. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Stanton_Drew_stone_circle%2C_Somerset.jpg/330px-Stanton_Drew_stone_circle%2C_Somerset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stanton_Drew_stone_circles"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Chum review – daft shark attack movie with wedding guests running gamut of toothy undersea beast",
-      "body": "<p>Producer-star Alice Eve seems to be laughing along with the audience in this deeply silly high-concept thriller</p><p>To be as clear as the crystalline waters in which the characters here frolic before their blood turns the ocean the col",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/12/chum-review-shark-attack"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
+      "opener": "Screen Daily —",
+      "hook": "‘The Magic Faraway Tree’ is top grossing UK indie film in first six months of 2026",
+      "body": "Market share for UK independent films falls 6.6%, down from 8.4%",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/the-magic-faraway-tree-is-top-grossing-uk-indie-film-in-first-six-months-of-2026/5219292.article"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘Sometimes they credit the janitor. But not us’: what’s it like to be a child chaperone on a film set?",
-      "body": "<p>Safeguarding young people in films is a vital role, often remembered by their charges later in successful careers, but not always recognised. Some of the best share their tips</p><p>Linda Matthews has rarely had to stop a production in i",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/12/whats-it-like-to-support-children-on-a-film-set-chaperones"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Irving Warren Jaffee was an American speed skater who won two gold medals at the 1932 Winter Olympics, becoming the most successful athlete there along with his compatriot Jack Shea.",
+      "body": "It was the first time two Americans had won medals in speed skating at a Winter Olympics. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Irving_Jaffee.jpg/330px-Irving_Jaffee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Irving_Jaffee"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "A Christmas Held Captive is an original musical with lyrics and music by Robert J.",
+      "body": "Sherman and Christopher M. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Christmas_Held_Captive"
     }
   ]
 }
