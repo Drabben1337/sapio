@@ -1,54 +1,26 @@
 {
-  "generated": "2026-08-12T03:15:21.714Z",
-  "count": 13,
+  "generated": "2026-08-12T05:20:59.867Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "In functional analysis and related areas of mathematics, an almost open map between topological spaces is a map that satisfies a condition similar to, but weaker than, the condition of being an open map.",
-      "body": "As described below, for certain broad categories of topological vector spaces, all surjective linear operators are necessarily almost open. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "Okay, this one's fun —",
+      "hook": "A Political Romance is a satirical pamphlet by Laurence Sterne, first published in 1759.",
+      "body": "The story is an allegory, translating the jockeying for paid appointments within the Church of England into a squabble for used clothing within a small country parish. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Political_Romance_Laurence_Sterne_title_page.jpg/330px-Political_Romance_Laurence_Sterne_title_page.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Almost_open_map"
+      "url": "https://en.wikipedia.org/wiki/A_Political_Romance"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Thunderiders is a fictional superhero/motorcycle team appearing in American comic books published by Marvel Comics.",
-      "body": "The characters were originally known as Team America, a property and toy line Marvel licensed from Ideal Toy Company. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/77/250px-Thunderiders_%28Earth-616%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Drawing Blood is a 1993 horror novel by American writer Poppy Z.",
+      "body": "Something of a haunted house tale, the novel was originally titled Birdland but the publisher retitled it to make a thin connection to Brite's first novel, Lost Souls, a vampire tale. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/Drawing_Blood_%28Brite_novel_-_cover_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Thunderiders"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "John Berger: From Life by Tom Overton review – a vibrant biography of the pioneering critic",
-      "body": "<p>This multi-layered portrait is a fitting tribute to the man behind Ways of Seeing</p><p>The cultural critic John Berger was still alive and kicking when he donated his literary archive – heaped boxes of letters and notepads, sketches and",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Beitou District is the northernmost of the twelve districts of Taipei City, Taiwan.",
-      "body": "The historical spelling of the district is Peitou. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%E5%8C%97%E6%8A%95%E6%A9%9F%E5%BB%A0DSC_4995.jpg/330px-%E5%8C%97%E6%8A%95%E6%A9%9F%E5%BB%A0DSC_4995.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Beitou_District"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
-      "body": "The verdict from most theatre critics is that it's a worthy addition to the epic fantasy franchise.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/czrjkm68xlno?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Drawing_Blood"
     },
     {
       "type": "card",
@@ -61,12 +33,100 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Force X was a squadron of the French Navy, assembled on 29 April 1940, after the outbreak of the Second World War, to deter Italy from striking in the Levantine Sea.",
+      "body": "It consisted of the old battleship Lorraine; the three modern heavy cruisers Duquesne, Tourville and Suffren; the light cruiser Duguay-Trouin; three destroyers Basque, Forbin, Fortuné; and the submarine Protée. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Force_X"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Geodesy or geodetics is the science of measuring and representing the geometry, gravity, and spatial orientation of the Earth in temporally varying 3D space.",
+      "body": "It is called planetary geodesy when studying other astronomical bodies, such as planets or circumplanetary systems. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Globe_Atlantic.svg/330px-Globe_Atlantic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Geodesy"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "John Berger: From Life by Tom Overton review – a vibrant biography of the pioneering critic",
+      "body": "<p>This multi-layered portrait is a fitting tribute to the man behind Ways of Seeing</p><p>The cultural critic John Berger was still alive and kicking when he donated his literary archive – heaped boxes of letters and notepads, sketches and",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1323 —",
+      "hook": "The Treaty of Nöteborg between Sweden and Novgorod Republic is signed, regulating the border between the two countries for the first time.",
+      "body": "The Treaty of Nöteborg, also known as the Treaty of Oreshek or the Treaty of Pähkinäsaari, was the peace treaty signed at Oreshek Fortress on 12 August 1323. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/P%C3%A4hkin%C3%A4saaren_rauhan_raja_1323_-_Treaty_of_N%C3%B6teborg_1323.jpg/330px-P%C3%A4hkin%C3%A4saaren_rauhan_raja_1323_-_Treaty_of_N%C3%B6teborg_1323.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_N%C3%B6teborg"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Post your questions for John Hannah",
+      "body": "<p>Your mum’s favourite star of Four Weddings and a Funeral, Sliding Doors, Spartacus and a new GoPro-filmed thriller is ready to answer your quetions</p><p>He’s your mum’s favourite, after playing the jolly nice man who is jolly nice to Gw",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/12/post-your-questions-for-john-hannah"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
       "hook": "The 100 best novels of all time",
       "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1953 —",
+      "hook": "Thermonuclear bomb testing: The Soviet atomic bomb project continues with the detonation of \"RDS-6s\" (Joe 4) using a \"layered\" scheme.",
+      "body": "Nuclear weapons tests are experiments carried out to determine the performance of nuclear weapons and the effects of their explosion. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Castle_Bravo_nuclear_test_%28cropped%29.jpg/330px-Castle_Bravo_nuclear_test_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Nuclear_weapons_testing"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1964 —",
+      "hook": "South Africa is banned from the Olympic Games due to the country's racist policies.",
+      "body": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/330px-Flag_of_South_Africa.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/South_Africa"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Girl in Landscape is a science fiction novel by Jonathan Lethem, originally published as a 280-page hardback in 1998, by Doubleday Publishing Group.",
+      "body": "It is said to evoke the classic Western film The Searchers (1956). Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/GirlinLandscape.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Girl_in_Landscape"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1898 —",
+      "hook": "The Hawaiian flag is lowered from ʻIolani Palace in an elaborate annexation ceremony and replaced with the flag of the United States to signify the transfer of sovereignty from the Republic of Hawaii to the United States where it is formally recognized as Hawaii.",
+      "body": "The flag of Hawaii, also known as the Hawaiian flag, is the official flag of the U.S. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/330px-Flag_of_Hawaii.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Hawaii"
     },
     {
       "type": "card",
@@ -80,12 +140,21 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Maria Johanna Dahl, née Grosset was a Ukrainian-born German zoologist, arachnologist, and carcinologist.",
-      "body": "Along with her husband, Friedrich Dahl, she was a co-author and editor of the zoological series Die Tierwelt Deutschlands, published between 1925 and 1968. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Maria_Dahl_%28nee_Grosset%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "The Hoodlum is a 1919 silent film comedy-drama produced by and starring Mary Pickford and released through First National.",
+      "body": "The film was directed by Sidney A. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/The_Hoodlum_%281919%29.webm/330px--The_Hoodlum_%281919%29.webm.jpg",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maria_Dahl"
+      "url": "https://en.wikipedia.org/wiki/The_Hoodlum_(1919_film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘I turned down Gandhi because I’m terrified of snakes’: the amazing movie memories of Bruce Dern",
+      "body": "<p>Famed for playing loners, cranks and wayward angels, the Hollywood star is now a wolfish 90 – but he still jogs daily. As he takes his latest film to Edinburgh, we meet the man Hitchcock called ‘the golden calf’</p><p>‘Can you take anoth",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/12/bruce-dern-northbound-hitchcock-gandhi-edinburgh"
     },
     {
       "type": "card",
@@ -98,32 +167,33 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Hababam Sınıfı is a 1975 Turkish comedy film, directed by Ertem Eğilmez based on a novel by Rıfat Ilgaz, featuring an ensemble cast including Kemal Sunal, Tarık Akan and Münir Özkul that tells the adventures of a private school class students who are challenged by the arrival of a new headmaster.",
+      "body": "The film, which went on nationwide general release on 1 April 1975 , was a success in Turkey and was followed by five direct sequels; Hababam Sınıfı Sınıfta Kaldı, Hababam Sınıfı Uyanıyor, Hababam Sınıfı Tatilde, Hababam Sınıfı Dokuz Doğuruyor and Hababam Sını",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/25/HababamClassTheatricalPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hababam_S%C4%B1n%C4%B1f%C4%B1"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "He was selected by the New York Jets in the sixth round of the 2005 NFL draft.",
-      "body": "Joel Clifford Dreessen is an American former professional football player who was a tight end in the National Football League (NFL). Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Joel_Dreessen.JPG/330px-Joel_Dreessen.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Joel_Dreessen"
+      "opener": "On this day in 1492 —",
+      "hook": "Christopher Columbus arrives in the Canary Islands on his first voyage to the New World.",
+      "body": "Christopher Columbus was an Italian explorer and navigator from the Republic of Genoa who completed four Spanish transatlantic voyages in the name of the Catholic Monarchs, opening the way for the widespread European exploration and colonization of the Americas. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/330px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Stark is a 1989 novel by comedian Ben Elton.",
-      "body": "It was commercially and critically successful in the United Kingdom and Australia. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/30/Stark-cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Stark_(novel)"
+      "cat": "history",
+      "opener": "On this day in 1984 —",
+      "hook": "An infamous brawl takes place at the Atlanta-Fulton County Stadium between the Atlanta Braves and San Diego Padres.",
+      "body": "On August 12, 1984, during an afternoon game at Atlanta–Fulton County Stadium, a series of brawls broke out between the San Diego Padres and the Atlanta Braves over a series of attempted beanings and retaliations. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1984_Braves%E2%80%93Padres_bean_brawl"
     }
   ]
 }
