@@ -1,7 +1,26 @@
 {
-  "generated": "2026-08-12T11:36:20.955Z",
-  "count": 19,
+  "generated": "2026-08-12T12:36:35.889Z",
+  "count": 18,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘A horrible nightmare’: the shocking story of the eBay harassment scandal",
+      "body": "<p>Jaw-dropping documentary Whatever It Takes details an aggressive stalking campaign targeted towards a couple whose reporting criticized the tech company</p><p>When Massachusetts husband-and-wife team Ina and David Steiner launched their ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/11/whatever-it-takes-documentary-ebay-harassment-scandal"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1953 —",
+      "hook": "The 7.2 Ms Ionian earthquake shakes the southern Ionian Islands with a maximum Mercalli intensity of X (Extreme). Between 445 and 800 people are killed.",
+      "body": "The 1953 Ionian earthquake struck the southern Ionian Islands in Greece on August 12. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/KefaloniaAerealWe.jpg/330px-KefaloniaAerealWe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1953_Ionian_earthquake"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,42 +32,70 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "Alençon is liberated by General Philippe Leclerc de Hauteclocque, the first city in France to be liberated from the Nazis by French forces.",
-      "body": "Alençon is a commune in Normandy, France, and the capital of the Orne department. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hotel_de_ville_Alencon.jpg/330px-Hotel_de_ville_Alencon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Alen%C3%A7on"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Music-evoked autobiographical memories (MEAMs) refer to the recollection of personal experiences or past events that are triggered when hearing music or some musical stimulus.",
-      "body": "While there is a degree of inter-individual variation in music listening patterns and evoked responses, MEAMs are generally triggered in response to a wide variety of music, often popular or classical genres, and are estimated to occur in the range from one to",
-      "img": null,
+      "opener": "Bet you didn't know —",
+      "hook": "The list that follows is the Frontbench Team led by Nick Clegg from 2007 to 2010, before the Liberal Democrats and Conservatives formed a coalition government following the 2010 general election, and Clegg became Deputy Prime Minister.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Clegg-portrait.png/330px-Clegg-portrait.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Music-evoked_autobiographical_memory"
+      "url": "https://en.wikipedia.org/wiki/Frontbench_team_of_Nick_Clegg"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1492 —",
-      "hook": "Christopher Columbus arrives in the Canary Islands on his first voyage to the New World.",
-      "body": "Christopher Columbus was an Italian explorer and navigator from the Republic of Genoa who completed four Spanish transatlantic voyages in the name of the Catholic Monarchs, opening the way for the widespread European exploration and colonization of the Americas. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/330px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1499 —",
+      "hook": "First engagement of the Battle of Zonchio between Venetian and Ottoman fleets.",
+      "body": "The naval Battle of Zonchio took place on four separate days: 12, 20, 22, and 25 August 1499. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Battle_of_Zonchio_1499.jpg/330px-Battle_of_Zonchio_1499.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Zonchio"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘A horrible nightmare’: the shocking story of the eBay harassment scandal",
-      "body": "<p>Jaw-dropping documentary Whatever It Takes details an aggressive stalking campaign targeted towards a couple whose reporting criticized the tech company</p><p>When Massachusetts husband-and-wife team Ina and David Steiner launched their ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/11/whatever-it-takes-documentary-ebay-harassment-scandal"
+      "opener": "New Scientist —",
+      "hook": "How to watch today&#8217;s spectacular solar eclipse",
+      "body": "A total solar eclipse is set to be visible across parts of Europe today, while a partial eclipse will sweep across about a quarter of the planet – here’s how to see it",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "I Give You My Silence by Mario Vargas Llosa review – Nobel laureate’s final novel is a love letter to Peru",
+      "body": "<p>This fascinating, eccentric book becomes a quirky primer on Peruvian music and culture</p><p>When I Give You My Silence was published in Spanish in 2023 its author, the Peruvian Nobel laureate Mario Vargas Llosa, rightly predicted that i",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/11/i-give-you-my-silence-by-mario-vargas-llosa-review-nobel-laureates-final-novel-is-a-love-letter-to-peru"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Tamara Santibañez is an American multidisciplinary visual artist, known for paintings, sculptures, and tattoos.",
+      "body": "Their work explores topics like Chicanx culture, punk aesthetics, gender, and the intersection of marginalized identities. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tamara_Santiba%C3%B1ez"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Musification of the 2026 total solar eclipse",
+      "body": "Video: 00:05:08 [English] Experience a musical simulation of the 12 August 2026 total solar eclipse as seen from the Observatorio Astrofísico de Javalambre (Spain). Click here for information about ESA’s live broadcast from this observatory",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1992 —",
+      "hook": "Canada, Mexico and the United States announce completion of negotiations for the North American Free Trade Agreement (NAFTA).",
+      "body": "The North American Free Trade Agreement, referred to colloquially in the Anglosphere as NAFTA, was an agreement signed by Canada, Mexico, and the United States that created a trilateral trade bloc in North America. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NAFTA_logo.svg/330px-NAFTA_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement"
     },
     {
       "type": "card",
@@ -61,129 +108,72 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Gödel, Escher, Bach: a daunting but captivating look at consciousness",
-      "body": "Douglas Hofstadter’s weighty tome, an exploration of mathematics, music and the mind, runs to almost 800 pages – but is worth the effort, finds Gerardo Bandera",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584248-godel-escher-bach-a-daunting-but-captivating-look-at-consciousness/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "history",
+      "opener": "On this day in 1788 —",
+      "hook": "The Anjala conspiracy is signed.",
+      "body": "The Anjala League of 1788 was a scheme by disgruntled Swedish officers to end Gustav III's Russian War of 1788–1790. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Johan_Henrik_Hastesko.jpg/330px-Johan_Henrik_Hastesko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Anjala_League"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Rancho Mirage is a city in Riverside County, California, United States.",
-      "body": "The city is a low-density desert community with resorts, golf courses, and country clubs within the Colorado Desert section of the Sonoran Desert. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rancho_mirage_overlook.jpg/330px-Rancho_mirage_overlook.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Here's one for the group chat —",
+      "hook": "The pentalobe security screw, or pentalobe screw drive, is a five-pointed tamper-resistant system used by, but not limited to, Apple in their products.",
+      "body": "Pentalobe screws were adopted by Apple starting in 2009, when they were first implemented in the 15-inch MacBook Pro. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Screw_Head_-_Pentalobular.svg/330px-Screw_Head_-_Pentalobular.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rancho_Mirage%2C_California"
+      "url": "https://en.wikipedia.org/wiki/Pentalobe_screw"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Spotify to add label for AI-generated artists and remove them from recommendations",
-      "body": "The new feature, starting from mid-September, will tell listeners if an artist is AI-generated.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "John Horatio Busst was an artist and conservationist in Queensland, Australia.",
-      "body": "He is best known for leading a successful campaign to protect Queensland's Great Barrier Reef and its tropical rainforests from development, mining pressures and exploitation. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/John_Busst"
+      "cat": "history",
+      "opener": "On this day in 2015 —",
+      "hook": "At least two massive explosions kill 173 people and injure nearly 800 more in Tianjin, China.",
+      "body": "On 12 August 2015, a series of explosions at the Port of Tianjin in Tianjin, Northern China, killed 173 people, according to official reports, and injured hundreds of others. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2015_Tianjin_explosion_-_Crop.jpg/330px-2015_Tianjin_explosion_-_Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2015_Tianjin_explosions"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Absorption is a physical or chemical phenomenon or a process in which atoms, molecules or ions enter the liquid or solid bulk phase of a material.",
-      "body": "This is a different process from adsorption, since molecules undergoing absorption are taken up by the volume, not by the surface. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Absorber.svg/330px-Absorber.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Ash vs Evil Dead is an American comedy horror television series developed by Sam Raimi, Ivan Raimi, and Tom Spezialy for Starz.",
+      "body": "The series is a sequel to the original Evil Dead trilogy created by Raimi, with Bruce Campbell reprising his role as Ash Williams. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ash_vs_Evil_Dead.svg/330px-Ash_vs_Evil_Dead.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Absorption_(chemistry)"
+      "url": "https://en.wikipedia.org/wiki/Ash_vs_Evil_Dead"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1985 —",
       "hook": "Japan Air Lines Flight 123, a Boeing 747, crashes into Osutaka ridge in Gunma Prefecture, Japan, killing 520, becoming the worst single-plane air disaster.",
-      "body": "Japan Air Lines Flight 123 was a scheduled domestic passenger flight from Tokyo to Osaka, Japan. Worth a quiet trip down the rabbit hole.",
+      "body": "Japan Air Lines Flight 123 was a scheduled domestic passenger flight from Tokyo to Osaka, Japan. Bring it up somewhere. Watch the reaction.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Japan_Airlines_123_124_The_accident_aircraft_flying_over_Okutama.png/330px-Japan_Airlines_123_124_The_accident_aircraft_flying_over_Okutama.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1793 —",
-      "hook": "The Rhône and Loire départments are created when the former département of Rhône-et-Loire is split into two.",
-      "body": "Rhône is a French department located in the east-central administrative region of Auvergne-Rhône-Alpes. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/H%C3%B4tel_du_d%C3%A9partement_du_Rh%C3%B4ne_%28Lyon%29.jpg/330px-H%C3%B4tel_du_d%C3%A9partement_du_Rh%C3%B4ne_%28Lyon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Rh%C3%B4ne_(department)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1898 —",
-      "hook": "The Hawaiian flag is lowered from ʻIolani Palace in an elaborate annexation ceremony and replaced with the flag of the United States to signify the transfer of sovereignty from the Republic of Hawaii to the United States where it is formally recognized as Hawaii.",
-      "body": "The flag of Hawaii, also known as the Hawaiian flag, is the official flag of the U.S. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/330px-Flag_of_Hawaii.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Flag_of_Hawaii"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1948 —",
-      "hook": "Between 15 and 150 unarmed members of the Khudai Khidmatgar movement are killed by Pakistani police.",
-      "body": "The Babrra Massacre was a mass shooting by state police on 12 August 1948 in the North-West Frontier Province (NWFP) of Pakistan. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Babrra_massacre"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The population was 1,528 at the 2020 census.",
-      "body": "New Marlborough is a town in Berkshire County, Massachusetts, United States. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/New_Marlborough_-_57_S.JPG/330px-New_Marlborough_-_57_S.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/New_Marlborough%2C_Massachusetts"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "A total solar eclipse is coming to Europe",
-      "body": "Video: 00:01:24 When the Moon passes between Earth and the Sun, it casts a shadow onto Earth's surface. For people in the darkest part of this shadow, the face of the Sun is totally blocked out, and its wispy atmosphere becomes visible. On ",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe"
-    },
-    {
-      "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Andy O'Mahony is an Irish broadcast journalist who worked for RTÉ from 1961 to 2013.",
-      "body": "He was one of the network's first television news anchors, and thereafter was a radio and television host of various long-running series. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "Bruce Randall Hornsby is an American singer-songwriter and pianist.",
+      "body": "His music draws from a wide range of traditions — folk, jazz, modern classical, bluegrass, rock, and jam band styles. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bruce_Hornsby_%2832703421057%29_%28cropped%29.jpg/330px-Bruce_Hornsby_%2832703421057%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Andy_O'Mahony"
+      "url": "https://en.wikipedia.org/wiki/Bruce_Hornsby"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Breast-augmentation method uses your own fat in dissolving scaffolds",
-      "body": "A new approach to breast augmentation injects fat from elsewhere in the body into dissolvable scaffolds shaped like bra cups, which may lead to a more natural look and fewer complications",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584253-breast-augmentation-method-uses-your-own-fat-in-dissolving-scaffolds/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "BBC Entertainment —",
+      "hook": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
+      "body": "The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
