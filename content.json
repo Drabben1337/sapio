@@ -1,170 +1,85 @@
 {
-  "generated": "2026-08-12T20:28:29.552Z",
-  "count": 19,
+  "generated": "2026-08-12T21:32:02.992Z",
+  "count": 25,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "A History of the Novel in Britain by Philip Hensher review – a masterpiece of criticism",
-      "body": "<p>This joyous book takes readers on a literary adventure across 300 years of fiction, from Defoe to Zadie Smith</p><p></p><p>In his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story i",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
+      "cat": "history",
+      "opener": "On this day in 1121 —",
+      "hook": "Battle of Didgori: The Georgian army under King David IV wins a decisive victory over the famous Seljuk commander Ilghazi.",
+      "body": "The Battle of Didgori was fought between the armies of the Kingdom of Georgia and the Seljuk Empire at the narrow place of Didgori, 40 km west of Tbilisi, on August 12, 1121. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Didgori"
     },
     {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The term narcotic originally referred medically to any psychoactive compound with numbing or paralyzing properties.",
-      "body": "In the United States, it has since become associated with opiates and opioids, commonly morphine and heroin, as well as derivatives of many of the compounds found within raw opium latex. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bayer_Heroin_bottle.jpg/330px-Bayer_Heroin_bottle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Narcotic"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The 1981 Southwest Conference men's basketball tournament was held March 5–7 at HemisFair Arena in San Antonio, Texas.",
-      "body": "The first round took place March 2 at the higher seeded campus sites. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "Gods of Jade and Shadow is a historical fantasy novel by Canadian-Mexican novelist Silvia Moreno-Garcia.",
+      "body": "It was first published in hardcover and ebook by Del Rey Books in July 2019, followed by a trade paperback edition from the same publisher in February 2020. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/Gods_of_Jade_and_Shadow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1981_Southwest_Conference_men's_basketball_tournament"
+      "url": "https://en.wikipedia.org/wiki/Gods_of_Jade_and_Shadow"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Volodymyr Pavlovych Naumenko was a Ukrainian pedagogue, public figure and publicist.",
-      "body": "From 1893 to 1906, he was the chief editor of the monthly historical magazine Kievskaia starina. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9D%D0%B0%D1%83%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE.jpg/330px-%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9D%D0%B0%D1%83%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Return of the Condor Heroes (神鵰俠侶), also translated as The Giant Eagle and Its Companion, is a wuxia novel by Jin Yong.",
+      "body": "It is the second part of the Condor Trilogy and was preceded by The Legend of the Condor Heroes and followed by The Heaven Sword and Dragon Saber. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/56/Ming_Pao_Return_of_Condor_Heroes_20_May_1959_issue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Volodymyr_Pavlovych_Naumenko"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1990 —",
-      "hook": "Sue, the largest and most complete Tyrannosaurus rex skeleton found to date, is discovered by Sue Hendrickson in South Dakota.",
-      "body": "Sue, officially designated FMNH PR 2081, is one of the largest, most extensive, and best preserved Tyrannosaurus rex fossils ever found, at over 90% recovered by bulk. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/FMNH_SUE_Trex.jpg/330px-FMNH_SUE_Trex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sue_(dinosaur)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Chum review – daft shark attack movie with wedding guests running gamut of toothy undersea beast",
-      "body": "<p>Producer-star Alice Eve seems to be laughing along with the audience in this deeply silly high-concept thriller</p><p>To be as clear as the crystalline waters in which the characters here frolic before their blood turns the ocean the col",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/12/chum-review-shark-attack"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1984 —",
-      "hook": "An infamous brawl takes place at the Atlanta-Fulton County Stadium between the Atlanta Braves and San Diego Padres.",
-      "body": "On August 12, 1984, during an afternoon game at Atlanta–Fulton County Stadium, a series of brawls broke out between the San Diego Padres and the Atlanta Braves over a series of attempted beanings and retaliations. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1984_Braves%E2%80%93Padres_bean_brawl"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Songs of Forgotten Trees review – sensitive, ambiguous drama of female intimacy in Mumbai",
-      "body": "<p>A sex worker and a call centre employee forge an ambiguous relationship in a film of strong feelings</p><p>In a tiny crumbling Mumbai apartment two women move around each other, squeezing into the kitchen to cook, or past one another in ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/12/songs-of-forgotten-trees-review"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Avalon is the only incorporated city on Santa Catalina Island, in the California Channel Islands, and the southernmost city in Los Angeles County.",
-      "body": "The city is a resort community with the waterfront dominated by tourism-oriented businesses. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/View_of_Avalon_Harbor_from_the_Chimes_Tower.jpg/330px-View_of_Avalon_Harbor_from_the_Chimes_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Avalon%2C_California"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1969 —",
-      "hook": "Violence erupts after the Apprentice Boys of Derry march in Derry, Northern Ireland, resulting in a three-day communal riot known as the Battle of the Bogside.",
-      "body": "The Apprentice Boys of Derry are a Protestant fraternal society founded in 1814 and based in the city of Derry, Northern Ireland. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Apprentice_Boys_of_Derry_Association_Logo.png/330px-Apprentice_Boys_of_Derry_Association_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Apprentice_Boys_of_Derry"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Something Like Happiness by Tom Newlands review – a tender take on hard times, anger and autism",
-      "body": "<p>A twentysomething Scottish couple care for their autistic son in the bleak follow-up to Only Here, Only Now</p><p>Frazer and Caitlin have been emotionally entwined since schooldays. Now in their mid-20s, and parents of a five-year-old, t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/12/something-like-happiness-by-tom-newlands-review-a-tender-take-on-hard-times-anger-and-autism"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Netflix, Sony partner on 2027 international release of ‘Charlie vs. The Chocolate Factory’",
-      "body": "Box office will be reported, as with Greta Gerwig’s ‘Narnia: The Magician’s Nephew’.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/netflix-sony-partner-on-2027-international-release-of-charlie-vs-the-chocolate-factory/5219336.article"
+      "url": "https://en.wikipedia.org/wiki/The_Return_of_the_Condor_Heroes"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The uptick rule is a trading restriction that states that short selling a stock is allowed only on an uptick.",
-      "body": "For the rule to be satisfied, the short must be either at a price above the last traded price of the security, or at the last traded price when the most recent movement between traded prices was upward. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "The Thirteen-Gun Salute is the thirteenth historical novel in the Aubrey–Maturin series by Patrick O'Brian, first published in 1989.",
+      "body": "The story is set during the Napoleonic Wars and the War of 1812. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/89/The_Thirteen_Gun_Salute_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Uptick_rule"
+      "url": "https://en.wikipedia.org/wiki/The_Thirteen-Gun_Salute"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Sale of Showcase’s UK cinemas to The Light in doubt",
-      "body": "Several sources indicate industry veteran Mooky Greidinger is pushing hard to take over the circuit.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/sale-of-showcases-uk-cinemas-to-the-light-in-doubt/5219269.article"
+      "opener": "The Guardian · Film —",
+      "hook": "Mutants assemble: what does the future hold for the X-Men?",
+      "body": "<p>After the introduction of a key character in Spider-Man: Brand New Day, Marvel is bringing back one of its most beloved franchises – but the return comes at a precarious time</p><p>Later-period Marvel movies have resorted to more fantast",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/12/x-men-spider-man-marvel"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1964 —",
+      "hook": "South Africa is banned from the Olympic Games due to the country's racist policies.",
+      "body": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/330px-Flag_of_South_Africa.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/South_Africa"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1953 —",
-      "hook": "The 7.2 Ms Ionian earthquake shakes the southern Ionian Islands with a maximum Mercalli intensity of X (Extreme). Between 445 and 800 people are killed.",
-      "body": "The 1953 Ionian earthquake struck the southern Ionian Islands in Greece on August 12. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/KefaloniaAerealWe.jpg/330px-KefaloniaAerealWe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Thermonuclear bomb testing: The Soviet atomic bomb project continues with the detonation of \"RDS-6s\" (Joe 4) using a \"layered\" scheme.",
+      "body": "Nuclear weapons tests are experiments carried out to determine the performance of nuclear weapons and the effects of their explosion. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Castle_Bravo_nuclear_test_%28cropped%29.jpg/330px-Castle_Bravo_nuclear_test_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1953_Ionian_earthquake"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Raj Bahadur Gour was a freedom fighter and trade unionist.",
-      "body": "He was active with the Comrades Association and the Communist Party of India, and at the forefront of the 1946–1947 Telangana Rebellion against the Nizam of the erstwhile Hyderabad state. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dr-Raj-Bahadur-Gour.png/330px-Dr-Raj-Bahadur-Gour.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Raj_Bahadur_Gour"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1976 —",
-      "hook": "Between 1,000 and 3,500 Palestinians are killed in the Tel al-Zaatar massacre, one of the bloodiest events of the Lebanese Civil War.",
-      "body": "Palestinians are an Arab national group native to the region of Palestine, descended from those who have inhabited the area over the millennia. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/330px-Flag_of_Palestine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Palestinians"
+      "url": "https://en.wikipedia.org/wiki/Nuclear_weapons_testing"
     },
     {
       "type": "card",
@@ -178,12 +93,157 @@
     {
       "type": "card",
       "cat": "history",
+      "opener": "On this day in 1950 —",
+      "hook": "Korean War: Bloody Gulch massacre: Seventy-five American POWs are massacred by the North Korean Army.",
+      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1992 —",
+      "hook": "Canada, Mexico and the United States announce completion of negotiations for the North American Free Trade Agreement (NAFTA).",
+      "body": "The North American Free Trade Agreement, referred to colloquially in the Anglosphere as NAFTA, was an agreement signed by Canada, Mexico, and the United States that created a trilateral trade bloc in North America. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NAFTA_logo.svg/330px-NAFTA_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Gigolo is a 1960 French romantic drama film written and directed by Jacques Deray.",
+      "body": "It is loosely based on the novel Le Gigolo written by Jacques Robert. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Affiche-Le-Gigolo-1960-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Gigolo_(1960_film)"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
       "opener": "On this day in 1948 —",
       "hook": "Between 15 and 150 unarmed members of the Khudai Khidmatgar movement are killed by Pakistani police.",
-      "body": "The Babrra Massacre was a mass shooting by state police on 12 August 1948 in the North-West Frontier Province (NWFP) of Pakistan. Worth a quiet trip down the rabbit hole.",
+      "body": "The Babrra Massacre was a mass shooting by state police on 12 August 1948 in the North-West Frontier Province (NWFP) of Pakistan. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Babrra_massacre"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Something Like Happiness by Tom Newlands review – a tender take on hard times, anger and autism",
+      "body": "<p>A twentysomething Scottish couple care for their autistic son in the bleak follow-up to Only Here, Only Now</p><p>Frazer and Caitlin have been emotionally entwined since schooldays. Now in their mid-20s, and parents of a five-year-old, t",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/12/something-like-happiness-by-tom-newlands-review-a-tender-take-on-hard-times-anger-and-autism"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Lone Drow is a 2003 Forgotten Realms novel and the second book in R.",
+      "body": "Salvatore's book series, The Hunter's Blades Trilogy. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/The_Lone_Drow_%28D%26D_novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Lone_Drow"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Chum review – daft shark attack movie with wedding guests running gamut of toothy undersea beast",
+      "body": "<p>Producer-star Alice Eve seems to be laughing along with the audience in this deeply silly high-concept thriller</p><p>To be as clear as the crystalline waters in which the characters here frolic before their blood turns the ocean the col",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/12/chum-review-shark-attack"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Songs of Forgotten Trees review – sensitive, ambiguous drama of female intimacy in Mumbai",
+      "body": "<p>A sex worker and a call centre employee forge an ambiguous relationship in a film of strong feelings</p><p>In a tiny crumbling Mumbai apartment two women move around each other, squeezing into the kitchen to cook, or past one another in ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/12/songs-of-forgotten-trees-review"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The English Spot is a breed of domestic rabbit that was developed in England in the 19th century through selective breeding.",
+      "body": "Averaging 5 to 8 pounds in weight, the English Spot is a medium-sized breed that is most noted by the distinctive colored markings on its body, including the butterfly nose marking, eye circles, cheek spots, herringbone, colored ears, and a chain of spots. Wor",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/English_Spot_Black.JPG/330px-English_Spot_Black.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/English_Spot"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "A History of the Novel in Britain by Philip Hensher review – a masterpiece of criticism",
+      "body": "<p>This joyous book takes readers on a literary adventure across 300 years of fiction, from Defoe to Zadie Smith</p><p></p><p>In his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story i",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "It is considered to be the first coup in Thailand's history, followed by the first military coup two months later by Khana Ratsadon's army officer, Phraya Phahonphonphayuhasena.",
+      "body": "The April 1933 Siamese coup d'état was an enforced change of government on 1 April 1933 by conservative and monarchist elites, led by Phraya Manopakorn Nititada, after the Draft National Economic Plan proposed by Pridi Banomyong, Khana Ratsadon's progressive l",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/April_1933_Siamese_coup_d'%C3%A9tat"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Sale of Showcase’s UK cinemas to The Light in doubt",
+      "body": "Several sources indicate industry veteran Mooky Greidinger is pushing hard to take over the circuit.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/sale-of-showcases-uk-cinemas-to-the-light-in-doubt/5219269.article"
     }
   ]
 }
