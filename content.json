@@ -1,189 +1,179 @@
 {
-  "generated": "2026-08-13T12:37:10.403Z",
-  "count": 19,
+  "generated": "2026-08-13T14:11:58.355Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Danny Garrett is an American politician who has represented District 44 in the Alabama House of Representatives since 2014.",
-      "body": "A member of the Republican Party, Garrett currently serves as the House majority whip. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Danny_Garrett.png/330px-Danny_Garrett.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Danny_Garrett"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The End of Oak Street review – suburban dino-survival romp is more turkey than T-rex",
-      "body": "<p>The director of It Follows returns after the terrible Under the Silver Lake with a sub-Spielberg pastiche of big-lizard horror and domestic unrest</p><p>David Robert Mitchell is back with his first film in eight years, this time produced",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/12/the-end-of-oak-street-review-suburban-dino-survival-romp-is-more-turkey-than-t-rex"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "body": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1792 —",
-      "hook": "King Louis XVI of France is formally arrested by the National Tribunal, and declared an enemy of the people.",
-      "body": "Louis XVI was the last king of France before the fall of the monarchy during the French Revolution. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg/330px-Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Louis_XVI"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1099 —",
-      "hook": "Election of Pope Paschal II following the death of pope Urban II in the previous month.",
-      "body": "Pope Paschal II, born Raniero Raineri di Bleda, was head of the Catholic Church and ruler of the Papal States from 13 August 1099 to his death in 1118. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pope_Paschal-II_1107.jpg/330px-Pope_Paschal-II_1107.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pope_Paschal_II"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Don’t Say Good Luck review – high-school musical weepie puts Sunny Sandler in the spotlight",
-      "body": "<p>A mother’s illness threatens to overshadow a stagestruck teen’s big break in a school production </p><p>Do you, like me, have a soft spot for both high-school angst and Broadway showtunes – and maybe Douglas Goodhart’s amusing Master It!",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/12/dont-say-good-luck-review-high-school-musical-weepie-puts-sunny-sandler-in-the-spotlight"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Feel the burn: why holidays from hell make for blistering fiction",
-      "body": "<p>Family fallouts, failing marriages, sunburn, food poisoning ... from Deborah Levy’s hypnotic and disturbing Hot Milk to All In, Claire Powell’s all-inclusive nightmare, Leon Craig looks at the best novels about vile vacations</p><p>Every",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/11/feel-the-burn-why-holidays-from-hell-make-for-blistering-fiction"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Away Game is a 2006 television documentary that follows the lives of a number of Australian football players based overseas.",
-      "body": "The documentary was based on the book of the same name by Matthew Hall. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Away_Game"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1814 —",
-      "hook": "The Convention of London, a treaty between the United Kingdom and the United Netherlands, is signed in London, England.",
-      "body": "The Anglo-Dutch Treaty of 1814 was signed by the United Kingdom and the Netherlands in London on 13 August 1814. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Anglo-Dutch_Treaty_of_1814"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Pulloxhill is a small village and civil parish in Bedfordshire, England 342 ft above sea level with a population of 850 at the 2001 Census, increasing to 985 at the 2011 Census.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Pulloxhill_-_The_Church_of_St_James_the_Apostle_-_geograph.org.uk_-_871581.jpg/330px-Pulloxhill_-_The_Church_of_St_James_the_Apostle_-_geograph.org.uk_-_871581.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pulloxhill"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The American Video Awards (1983–1987) was an annual music video award show taped for distribution to television.",
-      "body": "The First Annual American Video Awards was hosted by radio personality Casey Kasem, and Kasem continued in his role as emcee of the show in succeeding years. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/American_Video_Awards"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1704 —",
-      "hook": "War of the Spanish Succession: Battle of Blenheim: English and Imperial forces are victorious over French and Bavarian troops.",
-      "body": "The War of the Spanish Succession was a conflict between the European great powers, fought between 1701 and 1714. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Final_War_of_the_Spanish_Succession_Collage.jpg/330px-Final_War_of_the_Spanish_Succession_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The prosecutor general was one of the highest government positions in the Russian Empire, the head of the Governing Senate, who oversaw the legality of the activities of government agencies.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Prosecutor_General_of_the_Russian_Empire"
+      "opener": "The Guardian · Culture —",
+      "hook": "Hollywood encore: how ‘pro-shot’ Broadway shows became a major draw on the big screen",
+      "body": "<p>Filmed versions of hit shows such as Hadestown, Hamilton and SIX have been transformed into cinematic events for those without hundreds to spend on tickets</p><p>It’s long been a source of frustration for theater fanatics: many Broadway ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/stage/2026/aug/13/broadway-shows-on-film-pro-shot"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "Carcass Clad: stifling tank combat promises tension, terror and surprising laughs",
-      "body": "<p>After the success of space horror Mouthwashing, Swedish developer Wrong Organ has created a Battlefield-inspired co-op with a supernatural twist</p><p>‘Claustrophobic”, “oppressive”, “pretty depressing” – these are the words Jeffrey Tome",
+      "hook": "‘I feel like I’m at war’: are we losing the battle against machine-made music?",
+      "body": "<p>Despite outcry from musicians, AI slop is creeping into the charts as record labels scramble to adapt to a new normal where hits can be made at the click of a button</p><p>This year, the battle for song of the summer has been eclipsed by",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/games/2026/aug/12/carcass-clad-tank-combat-game-wrong-organ"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Nightmare fodder’: Roku’s AI slop channel is even worse than expected",
-      "body": "<p>Fairground TV is a 24/7 channel devoted to low-quality AI content for viewers sick of watching real people move in ways that won’t haunt you</p><p>The appeal of <a href=\"https://www.theguardian.com/media/2026/jun/15/fox-roku-acquisition-",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/roku-ai-slop-fairground-creator-tv-channel"
+      "url": "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The House with Closed Shutters is a 1910 American silent drama film directed by D.",
-      "body": "Griffith and released by the Biograph Company. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/The_House_with_Closed_Shutters.jpg/330px-The_House_with_Closed_Shutters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "Fatima Sharafeddine is a Lebanese writer, editor, and translator of children's and young adults' books.",
+      "body": "in Educational Theory and Practice (1993) and an M.A. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Sv%C4%9Bt_knihy_2011_-_F%C3%A1tima_%C5%A0araf_ad-D%C3%ADn.jpg/330px-Sv%C4%9Bt_knihy_2011_-_F%C3%A1tima_%C5%A0araf_ad-D%C3%ADn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_House_with_Closed_Shutters"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘The End Of Oak Street’ review: Anne Hathaway and Ewan McGregor face a prehistoric threat in fun, fast-paced creature feature",
-      "body": "David Robert Mitchell’s follow-up to ’Under The Silver Lake’ and ’It Follows’ opens in US and UK cinemas on August 14",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/the-end-of-oak-street-review-anne-hathaway-and-ewan-mcgregor-face-a-prehistoric-threat-in-fun-fast-paced-creature-feature/5219301.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1876 —",
-      "hook": "A performance of Wagner's Das Rheingold opens the first Ring cycle at the first Bayreuth Festival.",
-      "body": "Das Rheingold, WWV 86A, is the first of the four epic music dramas that constitute Richard Wagner's cycle Der Ring des Nibelungen. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1876Rhinemaidens.jpg/330px-1876Rhinemaidens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Das_Rheingold"
+      "url": "https://en.wikipedia.org/wiki/Fatima_Sharafeddine"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1942 —",
       "hook": "Major General Eugene Reybold of the U.S. Army Corps of Engineers authorizes the construction of facilities that would house the \"Development of Substitute Materials\" project, better known as the Manhattan Project.",
-      "body": "Eugene Reybold was distinguished as the World War II Chief of Engineers who directed the largest United States Army Corps of Engineers in the nation's history. The world is stranger than it lets on.",
+      "body": "Eugene Reybold was distinguished as the World War II Chief of Engineers who directed the largest United States Army Corps of Engineers in the nation's history. Worth a quiet trip down the rabbit hole.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Eugene_Reybold_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Eugene_Reybold"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "First Men to the Moon is a novella by rocketry expert Wernher von Braun, published in 1960.",
+      "body": "The book was designed and illustrated by Fred Freeman. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/32/FirstMenToTheMoon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_Men_to_the_Moon"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Universality by Natasha Brown audiobook review – a sparkling multi-voiced satire",
+      "body": "<p>A magazine article about stolen gold sparks a culture war between a cast of politically polarised characters</p><p>A stinging dissection of wealth, class and the media, Natasha Brown’s satire begins with a man named Jake gazing at a gold",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/13/universality-by-natasha-brown-audiobook-review-a-sparkling-multi-voiced-satire"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Karamoh Kabba is a Sierra Leonean author, writer, novelist and journalist.",
+      "body": "He has written several accounts about the Sierra Leone civil war, such as A Mother’s Saga: An Account of the Rebel War in Sierra Leone and the self-published work Lion Mountain and Morquee: A Political Drama of Wish over Wisdom published by Sierra Leone Writer",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karamoh_Kabba"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Trump Tower is a work of fiction by Jeffrey Robinson, originally credited to Donald Trump, and billed as Trump's \"debut novel\" by the publisher.",
+      "body": "It was first published in 2011 by Vanguard Press. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/77/Trump_Tower_-_A_Novel%2C_by_Donald_Trump.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trump_Tower_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Imelda Staunton: ‘Umbridge’s giggle needed to be short and sharp. So I just did a boom, boom’",
+      "body": "<p>The actor answers your questions on working with her dog, becoming a dame, Harry Potter, and making televisual history in The Singing Detective</p><p><strong>You and </strong><strong>Bill Nighy</strong><strong> were comrades in </strong>",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/13/imelda-staunton-interview-umbridge-harry-potter"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1967 —",
+      "hook": "Two young women became the first fatal victims of grizzly bear attacks in the 57-year history of Montana's Glacier National Park in separate incidents.",
+      "body": "Night of the Grizzlies (1969) is a book by Jack Olsen which details events surrounding the night of August 13, 1967, when two young women were separately attacked and killed in Glacier National Park, Montana, by grizzly bears. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fd/Night_of_the_Grizzlies_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Night_of_the_Grizzlies"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1779 —",
+      "hook": "American Revolutionary War: The Royal Navy defeats the Penobscot Expedition with the most significant loss of United States naval forces prior to the attack on Pearl Harbor.",
+      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Wrong Girls review – Kristen Stewart fumbles through forgettable stoner comedy",
+      "body": "<p>First time director Dylan Meyer’s female twist on the genre is let down by silly stereotypes and jokes that land with a thud</p><p>Want to feel old? <a href=\"https://www.theguardian.com/film/superbad\">Superbad</a> turns 20 next year. It’",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/12/the-wrong-girls-review-kristen-stewart-stoner-comedy"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Billion-streamers, Beyoncé and heart-bruising beauty: Frank Ocean’s 20 best songs – ranked!",
+      "body": "<p>It’s a decade since the Los Angeles musician released the seminal album Blonde. To lessen the pain of his hiatus, we count down the best of an artist who redefined R&amp;B</p><p>Frank Ocean’s pre-fame demos are hard to find – there’s a f",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/13/frank-ocean-20-best-songs-ranked"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Ömer Seyfettin, was a Turkish writer from the late 19th to early 20th century, considered to be one of the greatest modern Turkish authors.",
+      "body": "His work is much praised for simplifying the Turkish language from the Persian and Arabic words and phrases that were common at the time. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%C3%96mer_Seyfettin_Renklendirilmi%C5%9F.jpg/330px-%C3%96mer_Seyfettin_Renklendirilmi%C5%9F.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%C3%96mer_Seyfettin"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1724 —",
+      "hook": "Johann Sebastian Bach leads the first performance of Nimm von uns, Herr, du treuer Gott, BWV 101, a chorale cantata on a famous tune.",
+      "body": "Johann Sebastian Bach was a German composer and musician of the late Baroque period. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/330px-Johann_Sebastian_Bach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: German troops begin the pillage and razing of Anogeia in Crete that would continue until September 5.",
+      "body": "The Razing of Anogeia or the Holocaust of Anogeia refers to the complete destruction of the village of Anogeia in central Crete (Greece) and the murder of about 25 of its inhabitants on 13 August 1944 by German occupying forces during World War II. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Razing_of_Anogeia%2C_13-8-1944.jpg/330px-Razing_of_Anogeia%2C_13-8-1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Razing_of_Anogeia"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Agent 64: Spies Never Die review – licence to kill time like the 90s never ended",
+      "body": "<p><strong>PC; Replicant D6</strong><br>This GoldenEye 007-styled retro shooter is an agreeable set of straightahead shooting missions that hark back to a simpler time, with simpler controls</p><p>With <a href=\"https://www.theguardian.com/g",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/games/2026/aug/13/agent-64-spies-never-die-review-pc-replicant-d6"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "Bayerische Motoren Werke AG (BMW) is established as a public company in Germany.",
+      "body": "Bayerische Motoren Werke AG, trading as BMW Group, is a German multinational conglomerate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Germany. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_BMW_Group_2021.svg/330px-Logo_BMW_Group_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/BMW"
     }
   ]
 }
