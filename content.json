@@ -1,65 +1,26 @@
 {
-  "generated": "2026-08-13T17:46:17.717Z",
-  "count": 18,
+  "generated": "2026-08-13T18:43:26.981Z",
+  "count": 14,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The Airco DH.4 is a British two-seat biplane day bomber of the First World War.",
+      "body": "It was designed by Geoffrey de Havilland for Airco, and was the first British two-seat light day-bomber capable of defending itself. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/De_Havilland_DH4_ExCC.jpg/330px-De_Havilland_DH4_ExCC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airco_DH.4"
+    },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Rosemary Clare Duffield is a British politician who has been Member of Parliament (MP) for Canterbury since being elected in 2017.",
-      "body": "After resigning as a member of the Labour Party in September 2024, she is an independent. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Official_portrait_of_Rosie_Duffield_MP_crop_2%2C_2024.jpg/330px-Official_portrait_of_Rosie_Duffield_MP_crop_2%2C_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Charmed Life is a children's fantasy novel by British author Diana Wynne Jones published by Macmillan Children's Books in 1977.",
+      "body": "It was the first Chrestomanci book and it remains a recommended introduction to the series. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Charmed_Life.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rosie_Duffield"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Nightingales are a British post-punk/alternative rock band, formed in 1979 in Birmingham, England, by four members of Birmingham's punk group The Prefects.",
-      "body": "They had been part of The Clash's 'White Riot Tour', recorded a couple of Peel Sessions, released a 45 on Rough Trade and, years after splitting up, had a retrospective CD released by US indie label Acute Records. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nightingales_02.JPG/330px-Nightingales_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Nightingales"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Moby talks film investment strategy and what the music industry could teach indie film",
-      "body": "Moby and Lindsay Hicks’ Little Walnut has backed Edinburgh opener ‘The Incomer’.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/moby-talks-film-investment-strategy-and-what-the-music-industry-could-teach-indie-film/5219259.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1940 —",
-      "hook": "World War II: The German Luftwaffe launches an air operation, codenamed Adlertag, during the Battle of Britain in an attempt to destroy the British Royal Air Force.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1792 —",
-      "hook": "King Louis XVI of France is formally arrested by the National Tribunal, and declared an enemy of the people.",
-      "body": "Louis XVI was the last king of France before the fall of the monarchy during the French Revolution. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg/330px-Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Louis_XVI"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 871 —",
-      "hook": "Emperor Louis II of Italy and Empress Engelberga are captured by Prince Adelchis of Benevento.",
-      "body": "Louis II, sometimes called the Younger, was the king of Italy and emperor of the Carolingian Empire from 844, co-ruling with his father Lothair I until 855, after which he ruled alone. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Louis_II_of_Italy.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Louis_II_of_Italy"
+      "url": "https://en.wikipedia.org/wiki/Charmed_Life_(novel)"
     },
     {
       "type": "card",
@@ -72,22 +33,70 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Charlie Madigan series is a collection of urban fantasy novels by author Kelly Gay.",
+      "body": "The books present a future in which humanity has discovered two vastly different dimensions, making Atlanta a crossroads for various supernatural beings. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a2/HourDustAshes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Madigan_series"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Brian Robinson obituary",
-      "body": "<p>Throughout his many years working at the British Film Institute (BFI) and on its annual LGBTQ+ film festival, my friend and work associate Brian Robinson – who has died of brain cancer aged 67 – was celebrated as a champion of queer cine",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/13/brian-robinson-obituary"
+      "opener": "Screen Daily —",
+      "hook": "Moby talks film investment strategy and what the music industry could teach indie film",
+      "body": "Moby and Lindsay Hicks’ Little Walnut has backed Edinburgh opener ‘The Incomer’.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/features/moby-talks-film-investment-strategy-and-what-the-music-industry-could-teach-indie-film/5219259.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Something Like Happiness by Tom Newlands review – a tender take on hard times, anger and autism",
+      "body": "<p>A twentysomething Scottish couple care for their autistic son in the bleak follow-up to Only Here, Only Now</p><p>Frazer and Caitlin have been emotionally entwined since schooldays. Now in their mid-20s, and parents of a five-year-old, t",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/12/something-like-happiness-by-tom-newlands-review-a-tender-take-on-hard-times-anger-and-autism"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Aldrich played three seasons of college basketball for the Kansas Jayhawks before being drafted by the New Orleans Hornets with the 11th overall pick in the 2010 NBA draft.",
+      "body": "Cole David Aldrich is an American former professional basketball player. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cole_Aldrich.jpg/330px-Cole_Aldrich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cole_Aldrich"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "&#8216;Remarkable&#8217; discovery upends our understanding of how brains store memories",
+      "body": "Memories in mice persisted even after they lost the connections that we thought were needed for recall, expanding our knowledge of memory in the mammalian brain",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584638-remarkable-discovery-upends-our-understanding-of-how-brains-store-memories/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The blennioid family Chaenopsidae includes the pike-blennies, tube-blennies, and flagblennies, all percomorph marine fish in the order Blenniiformes.",
-      "body": "The family is strictly tropical, ranging from North to South America. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Banner_blenny_600.jpg/330px-Banner_blenny_600.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "You probably never noticed this —",
+      "hook": "Tammy and the Bachelor is a 1957 American romantic comedy film directed by Joseph Pevney and starring Debbie Reynolds as Tambrey \"Tammy\" Tyree, with Leslie Nielsen, Walter Brennan, Mala Powers, Sidney Blackmer, Mildred Natwick, Fay Wray, and Louise Beavers in supporting roles.",
+      "body": "It is the first of the four Tammy films. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0d/Tammyandthebachelor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chaenopsidae"
+      "url": "https://en.wikipedia.org/wiki/Tammy_and_the_Bachelor"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Abyssal Warriors is a fantasy novel by J.",
+      "body": "Robert King, set in the world of Planescape, and based on the Dungeons & Dragons role-playing game. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9d/Abyssal_Warriors%2C_D%26D_novel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abyssal_Warriors"
     },
     {
       "type": "card",
@@ -100,80 +109,31 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1898 —",
-      "hook": "Spanish–American War: Spanish and American forces engage in a mock battle for Manila, after which the Spanish commander surrendered in order to keep the city out of Filipino rebel hands.",
-      "body": "The Spanish–American War was fought between Spain and the United States in 1898. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Collage_infobox_for_Spanish-American_War.jpg/330px-Collage_infobox_for_Spanish-American_War.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "A History of the Novel in Britain by Philip Hensher review – a masterpiece of criticism",
-      "body": "<p>This joyous book takes readers on a literary adventure across 300 years of fiction, from Defoe to Zadie Smith</p><p></p><p>In his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story i",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in -29 —",
-      "hook": "Octavian holds the first of three consecutive triumphs in Rome to celebrate the victory over the Dalmatian tribes.",
-      "body": "Augustus, also known as Octavian, was the founder of the Roman Empire and the first Roman emperor from 27 BC until his death in AD 14. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/330px-Augustus_of_Prima_Porta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Augustus"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "A dime Western is a modern term for Western-themed dime novels, which spanned the era of the 1860s–1900s.",
-      "body": "Most would hardly be recognizable as a modern western, having more in common with James Fenimore Cooper's Leatherstocking saga, but many of the standard elements originated here: a cool detached hero, a frontiersman, a fragile heroine in danger of the despicab",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stanley_L._Wood00.jpg/330px-Stanley_L._Wood00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dime_Western"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Palpita magniferalis, the splendid palpita snout moth, ash pyralid or ash leafroller, is a moth of the family Crambidae.",
-      "body": "It is found in eastern North America. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Palpita_magniferalis_NC.jpg/330px-Palpita_magniferalis_NC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Palpita_magniferalis"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "James: Getting Away With It review – hippies, hardnuts and dreamers unite",
-      "body": "<p>Auto-hagiography it may be – most of the interviewees were in the band at some point – but this portrait of the seminal Manchester indie group is charming stuff</p><p>By the time of their first flush of success – concomitant with the tur",
+      "hook": "Brian Robinson obituary",
+      "body": "<p>Throughout his many years working at the British Film Institute (BFI) and on its annual LGBTQ+ film festival, my friend and work associate Brian Robinson – who has died of brain cancer aged 67 – was celebrated as a champion of queer cine",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/13/james-getting-away-with-it-review-hippies-hardnuts-and-dreamers-unite"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1900 —",
-      "hook": "The steamer Deutschland of Hamburg America Lines sets a new record for the eastward passage when it docks in Plymouth, England, five days, 11 hours and 45 minutes after sailing from New York, breaking by three hours, six minutes its previous mark in its maiden voyage in July.",
-      "body": "SS Deutschland was a passenger liner built in Stettin and launched on 10 January 1900 for the Hamburg America Line (HAPAG) of Germany. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/SS_Deutschland_%281900%29.jpg/330px-SS_Deutschland_%281900%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/SS_Deutschland_(1900)"
+      "url": "https://www.theguardian.com/film/2026/aug/13/brian-robinson-obituary"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Something Like Happiness by Tom Newlands review – a tender take on hard times, anger and autism",
-      "body": "<p>A twentysomething Scottish couple care for their autistic son in the bleak follow-up to Only Here, Only Now</p><p>Frazer and Caitlin have been emotionally entwined since schooldays. Now in their mid-20s, and parents of a five-year-old, t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/12/something-like-happiness-by-tom-newlands-review-a-tender-take-on-hard-times-anger-and-autism"
+      "opener": "BBC Entertainment —",
+      "hook": "Bonnie Tyler's classic hit spiked in streams during solar eclipse",
+      "body": "Bonnie Tyler's friend Mal Pope heard Total Eclipse of the Heart playing throughout Mumbles in Swansea.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Three Seconds is a dark thriller by the Swedish crime-writing team of Anders Roslund and Borge Hellström.",
+      "body": "First published in Sweden in 2009, it was translated into English in 2010. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/70/Tre_sekunder.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Three_Seconds"
     }
   ]
 }

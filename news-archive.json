@@ -2,6 +2,26 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Bonnie Tyler's classic hit spiked in streams during solar eclipse",
+    "body": "Bonnie Tyler's friend Mal Pope heard Total Eclipse of the Heart playing throughout Mumbles in Swansea.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo?at_medium=RSS&at_campaign=rss",
+    "_t": 1786646606980
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "New Scientist —",
+    "hook": "&#8216;Remarkable&#8217; discovery upends our understanding of how brains store memories",
+    "body": "Memories in mice persisted even after they lost the connections that we thought were needed for recall, expanding our knowledge of memory in the mammalian brain",
+    "src": "New Scientist",
+    "url": "https://www.newscientist.com/article/2584638-remarkable-discovery-upends-our-understanding-of-how-brains-store-memories/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
+    "_t": 1786646606980
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "The Guardian · Film —",
     "hook": "Edinburgh international film festival showcases a Scottish industry in rude health",
     "body": "<p>This year’s festival is superpowered by a strong year for Scottish cinema, showing it can thrive under the ‘four dimensional perpetual catch-22’ of global ambitions</p><p>• <a href=\"https://www.theguardian.com/film/2026/aug/13/10-must-se",
@@ -578,25 +598,5 @@
     "src": "ESA",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe",
     "_t": 1786591168594
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "Steal This Story, Please! review – Amy Goodman, stalwart of the American left, shows her teeth",
-    "body": "<p>This comprehensive documentary about the Democracy Now! radio show host and seasoned investigative reporter takes in a massacre in East Timor, the actions of oil giants and a flustered Bill Clinton as it reflects her vital work</p><p>Bef",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/aug/12/steal-this-story-please-review-amy-goodman-democracy-now-documentary",
-    "_t": 1786582218409
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Books —",
-    "hook": "You Won’t Get Free of It by Rachel Aviv review – a subtle study of the mother-daughter bond",
-    "body": "<p>The most complex of female relationships is thrown into sharp relief in this moving series of essays</p><p>Rachel Aviv has a profound interest in the vagaries of human psychology: Strangers to Ourselves, her last book, profiled five peop",
-    "src": "The Guardian · Books",
-    "url": "https://www.theguardian.com/books/2026/aug/11/you-wont-get-free-of-it-by-rachel-aviv-review-a-subtle-study-of-the-mother-daughter-bond",
-    "_t": 1786582218409
   }
 ]
