@@ -1,209 +1,109 @@
 {
-  "generated": "2026-08-13T05:24:56.485Z",
-  "count": 21,
+  "generated": "2026-08-13T07:05:42.729Z",
+  "count": 11,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘The Magic Faraway Tree’ is top grossing UK indie film in first six months of 2026",
-      "body": "Market share for UK independent films falls 6.6%, down from 8.4%",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/the-magic-faraway-tree-is-top-grossing-uk-indie-film-in-first-six-months-of-2026/5219292.article"
+      "opener": "BBC Entertainment —",
+      "hook": "BTS star V reveals hearing loss battle during livestream",
+      "body": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Can Nothing Save Us? by Irvine Welsh review – US family saga is a late-career triumph",
+      "body": "<p>The Scottish author focuses on gun culture and generational conflict in this darkly satirical tale about a great power in decline</p><p>“Why expect unconditional love from somebody you’ve brought into a fucked, dying planet, who then has",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/13/can-nothing-save-us-by-irvine-welsh-review-us-family-saga-is-a-late-career-triumph"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Goadby is a village and civil parish in the Harborough district of Leicestershire, England, about 8 miles north of Market Harborough.",
-      "body": "It had a population of 204 according to the 2011 census. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/St_John_the_Baptist_church%2C_Goadby%2C_Leics_-_geograph.org.uk_-_147921.jpg/330px-St_John_the_Baptist_church%2C_Goadby%2C_Leics_-_geograph.org.uk_-_147921.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Featherstone is a town and civil parish in the City of Wakefield, West Yorkshire, England, two miles south-west of Pontefract.",
+      "body": "Historically part of the West Riding of Yorkshire, in 2011 it had a population of 15,244. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Station_Lane%2C_Featherstone_-_geograph.org.uk_-_1197916.jpg/330px-Station_Lane%2C_Featherstone_-_geograph.org.uk_-_1197916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Goadby"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1960 —",
-      "hook": "The Central African Republic declares independence from France.",
-      "body": "The Central African Republic (CAR) is a landlocked country in Central Africa. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/330px-Flag_of_the_Central_African_Republic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Central_African_Republic"
+      "url": "https://en.wikipedia.org/wiki/Featherstone"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Golf Academy of America was a private, two-year golf college offering an associate degree in Golf Operations and Management with a curriculum of golf instruction and golf business management.",
-      "body": "A bachelor's degree was also offered via a partnership with New England College of Business. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "Lee's Lieutenants: A Study in Command is a three-volume work by Douglas Southall Freeman on Robert E.",
+      "body": "Lee's generals of the Army of Northern Virginia during the American Civil War. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2f/LeesLieutenants.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Golf_Academy_of_America"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1969 —",
-      "hook": "The Apollo 11 astronauts enjoy a ticker-tape parade in New York City. That evening, at a state dinner in Los Angeles, they are awarded the Presidential Medal of Freedom by U.S. President Richard Nixon.",
-      "body": "Apollo 11 was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission of NASA's Apollo program. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/330px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Apollo_11"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1624 —",
-      "hook": "The French king Louis XIII appoints Cardinal Richelieu as prime minister.",
-      "body": "Louis XIII was King of France from 1610 until his death in 1643 and King of Navarre from 1610 to 1620, when the crown of Navarre was merged with the French crown. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg/330px-Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Louis_XIII"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "It is the seat of the Bishop of Vicenza, and is dedicated to the Annunciation of the Virgin Mary.",
-      "body": "Vicenza Cathedral is a Roman Catholic cathedral in Vicenza, Veneto, northern Italy. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cathedral_%28Vicenza%29_-_Sud_esposizione.jpg/330px-Cathedral_%28Vicenza%29_-_Sud_esposizione.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Vicenza_Cathedral"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1954 —",
-      "hook": "Radio Pakistan broadcasts the \"Qaumī Tarāna\", the national anthem of Pakistan for the first time.",
-      "body": "The Pakistan Broadcasting Corporation ; also known as Radio Pakistan, serves as the national public broadcaster for radio in Pakistan. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_-_Pakistan_Broadcasting_Corporation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Radio_Pakistan"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2015 —",
-      "hook": "At least 76 people are killed and 212 others are wounded in a truck bombing in Baghdad, Iraq.",
-      "body": "On 13 August 2015, a truck bombing attack was launched targeting a Baghdad food market in Sadr City, a predominantly Shi'ite neighborhood. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2015_Sadr_City_market_truck_bombing"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1964 —",
-      "hook": "Peter Allen and Gwynne Evans are hanged for the murder of John Alan West becoming the last people executed in the United Kingdom.",
-      "body": "The murder of John Alan West on 7 April 1964 was the crime which led to the last death sentences being carried out in the United Kingdom. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Murder_of_John_Alan_West"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Neutral reportage is a common law defense against libel and defamation lawsuits usually involving the media republishing unproven accusations about public figures.",
-      "body": "It is a limited exception to the common law rule that one who repeats a defamatory statement is just as guilty as the first person who published it. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Neutral_reportage"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Oriri (1940) is a long poem by the birth control pioneer Marie C.",
-      "body": "Stopes, published by Heinemann as a short book. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Oriri_book_cover%2C_Marie_Stopes.jpg/330px-Oriri_book_cover%2C_Marie_Stopes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Oriri"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The girls-only organization became an associate member of the World Association of Girl Guides and Girl Scouts in 1972.",
-      "body": "The Surinaamse Padvindsters Raad is the national Guiding organization of Suriname. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Surinaamse_Padvindsters_Raad"
+      "url": "https://en.wikipedia.org/wiki/Lee's_Lieutenants"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Mammal ancestors were giving birth to live young 236 million years ago",
-      "body": "Almost all mammals give birth rather than laying eggs, and we have new clues about when they began to do so",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584319-mammal-ancestors-were-giving-birth-to-live-young-236-million-years-ago/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "BBC Entertainment —",
+      "hook": "Ayra Starr on her secret relationship and teasing Stevie Wonder",
+      "body": "The musician shares the personal stories behind her third album, and the time she teased a legend.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdxywn7y4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "New indictment alleges Nick Reiner was lying in wait before killing parents Rob and Michele Reiner",
+      "body": "The allegation makes Reiner eligible for the death penalty - which has been paused in the state. Prosecutors have not said if they will pursue it.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cx2l13p6g3vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Marcia Invernizzi is an American professor, author, and researcher in the field of reading education.",
-      "body": "At the University of Virginia School of Education and Human Development, she teaches reading education. Worth a quiet trip down the rabbit hole.",
+      "hook": "Rusyn is an East Slavic language spoken by Rusyns in parts of Central and Eastern Europe, and written in the Cyrillic script.",
+      "body": "The majority of speakers live in Carpathian Ruthenia, which includes Transcarpathia and parts of eastern Slovakia and south-eastern Poland. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/Idioma_rusino.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rusyn_language"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Hellcat review – woman imprisoned in camper van in nasty survival horror",
+      "body": "<p>A woman wakes up in a trailer as it speeds along in this effective and icky thriller, though you do end up wondering when you (and she) will ever get out</p><p>This survival thriller-horror starts in “what would you do?” mode, as a young",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/13/hellcat-review-woman-imprisoned-in-camper-van-in-nasty-survival-horror"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘A horrible nightmare’: the shocking story of the eBay harassment scandal",
+      "body": "<p>Jaw-dropping documentary Whatever It Takes details an aggressive stalking campaign targeted towards a couple whose reporting criticized the tech company</p><p>When Massachusetts husband-and-wife team Ina and David Steiner launched their ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/11/whatever-it-takes-documentary-ebay-harassment-scandal"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Montrose Community Schools is a public school district in the Flint, Michigan, area.",
+      "body": "In Genesee County, it serves Montrose and parts of the townships of Flushing and Montrose. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marcia_A._Invernizzi"
+      "url": "https://en.wikipedia.org/wiki/Montrose_Community_Schools"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘I ran away to Paris to be a writer and ended up begging’: Bill Nighy on dashed dreams, golf emojis and playing a cranky novelist",
-      "body": "<p>As his new film &amp; Sons hits the screen, the actor turned podcast agony uncle relives his ‘cliched’ ambitions, deplores working lunches – and yearns to do the splits like Prince</p><p>A dying patriarch summons his brood for a dramatic",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/13/bill-nighy-and-sons-golf-emojis-prince-ill-advised"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Released in November 1984, \"Invisible\" peaked at No.",
-      "body": "\"Invisible\" is a song by English singer Alison Moyet, written by Lamont Dozier for her debut album, Alf. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Invisible%28Alison_Moyet%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Invisible_(Alison_Moyet_song)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Steal This Story, Please! review – Amy Goodman, stalwart of the American left, shows her teeth",
-      "body": "<p>This comprehensive documentary about the Democracy Now! radio show host and seasoned investigative reporter takes in a massacre in East Timor, the actions of oil giants and a flustered Bill Clinton as it reflects her vital work</p><p>Bef",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/12/steal-this-story-please-review-amy-goodman-democracy-now-documentary"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What Happened to Liberal Democracy? by Daron Acemoglu review – how to fix the system",
-      "body": "<p>The Nobel-winning economist takes aim at elites for no longer meeting the needs of the masses</p><p>In 2009, the tech billionaire Peter Thiel published an essay with the portentous title The Education of a Libertarian, in which he announ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/07/what-happened-to-liberal-democracy-by-daron-acemoglu-review-how-to-fix-the-system"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "You Won’t Get Free of It by Rachel Aviv review – a subtle study of the mother-daughter bond",
-      "body": "<p>The most complex of female relationships is thrown into sharp relief in this moving series of essays</p><p>Rachel Aviv has a profound interest in the vagaries of human psychology: Strangers to Ourselves, her last book, profiled five peop",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/11/you-wont-get-free-of-it-by-rachel-aviv-review-a-subtle-study-of-the-mother-daughter-bond"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "A total solar eclipse is coming to Europe",
-      "body": "Video: 00:01:24 When the Moon passes between Earth and the Sun, it casts a shadow onto Earth's surface. For people in the darkest part of this shadow, the face of the Sun is totally blocked out, and its wispy atmosphere becomes visible. On ",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe"
+      "opener": "BBC Entertainment —",
+      "hook": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "body": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
