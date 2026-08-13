@@ -1,27 +1,7 @@
 {
-  "generated": "2026-08-13T20:26:11.942Z",
-  "count": 20,
+  "generated": "2026-08-13T21:32:16.251Z",
+  "count": 15,
   "items": [
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1645 —",
-      "hook": "Sweden and Denmark sign the Peace of Brömsebro.",
-      "body": "The Treaty of Brömsebro was signed on 13 August 1645, and ended the Torstenson War, a local conflict that began in 1643 between Sweden and Denmark–Norway. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Scandinavia_1645.gif/330px-Scandinavia_1645.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%B6msebro_(1645)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1918 —",
-      "hook": "Bayerische Motoren Werke AG (BMW) is established as a public company in Germany.",
-      "body": "Bayerische Motoren Werke AG, trading as BMW Group, is a German multinational conglomerate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Germany. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_BMW_Group_2021.svg/330px-Logo_BMW_Group_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/BMW"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -33,41 +13,23 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "&#8216;Remarkable&#8217; discovery upends our understanding of how brains store memories",
-      "body": "Memories in mice persisted even after they lost the connections that we thought were needed for recall, expanding our knowledge of memory in the mammalian brain",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584638-remarkable-discovery-upends-our-understanding-of-how-brains-store-memories/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Brian Robinson obituary",
-      "body": "<p>Throughout his many years working at the British Film Institute (BFI) and on its annual LGBTQ+ film festival, my friend and work associate Brian Robinson – who has died of brain cancer aged 67 – was celebrated as a champion of queer cine",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/13/brian-robinson-obituary"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The United Palace is a theater at 4140 Broadway in the Washington Heights neighborhood of Manhattan, New York City, United States.",
+      "body": "The theater, occupying a city block between Broadway, Wadsworth Avenue, and West 175th and 176th Streets, is both a house of worship and a cultural center. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/United_Palace_-_Panorama.jpg/330px-United_Palace_-_Panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/United_Palace"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Night Darkens the Street is a 1947 crime novel by the British writer Arthur La Bern.",
-      "body": "The title is taken from a line of Paradise Lost by John Milton. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cc/Night_Darkens_the_Streets.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Macroscelides micus, the Etendeka round-eared sengi or Etendeka round-eared elephant shrew, is a species of small mammal belonging to the sengi family (Macroscelididae).",
+      "body": "It is only found in gravel plains in the Etendeka formation of north-west Namibia. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ear-tagged_and_radio-collared_Macroscelides_micus.png/330px-Ear-tagged_and_radio-collared_Macroscelides_micus.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Night_Darkens_the_Street"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Father of a Murderer is the last narrative written by German author Alfred Andersch.",
-      "body": "It was published in 1980, the year that Andersch died, and describes a 1928 school lesson attended by grammar school student Franz Kien. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alfred_Andersch%2C_Der_Vater_eines_M%C3%B6rders_1980.jpg/330px-Alfred_Andersch%2C_Der_Vater_eines_M%C3%B6rders_1980.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Father_of_a_Murderer"
+      "url": "https://en.wikipedia.org/wiki/Macroscelides_micus"
     },
     {
       "type": "card",
@@ -89,13 +51,40 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "&#8216;Remarkable&#8217; discovery upends our understanding of how brains store memories",
+      "body": "Memories in mice persisted even after they lost the connections that we thought were needed for recall, expanding our knowledge of memory in the mammalian brain",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584638-remarkable-discovery-upends-our-understanding-of-how-brains-store-memories/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Brian Robinson obituary",
+      "body": "<p>Throughout his many years working at the British Film Institute (BFI) and on its annual LGBTQ+ film festival, my friend and work associate Brian Robinson – who has died of brain cancer aged 67 – was celebrated as a champion of queer cine",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/13/brian-robinson-obituary"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 2004 —",
-      "hook": "One hundred fifty-six Congolese Tutsi refugees are massacred at the Gatumba refugee camp in Burundi.",
-      "body": "The Democratic Republic of the Congo (DRC), also known as the DR Congo, Congo-Kinshasa, or simply the Congo, and formerly named Zaire, is a country in Central Africa. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/330px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Odrowąż is a Polish coat of arms of probably Moravian origin.",
+      "body": "It was used by many noble families known as szlachta in Polish in medieval Poland and later under the Polish–Lithuanian Commonwealth, branches of the original medieval Odrowążowie family as well as families connected with the Clan by adoption. Worth a quiet tr",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/HerbOdrowaz.jpg/330px-HerbOdrowaz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Odrow%C4%85%C5%BC_coat_of_arms"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Musician cancels Fringe show after theft of irreplaceable instruments",
+      "body": "Sachie Mikawa has cancelled two shows following the theft of instruments she inherited from her late father.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cjejp7d4wp9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -108,92 +97,53 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Anderson, the Panthers compiled a perfect 8–0 record, won the NESCAC championship, and outscored opponents by a total of 284 to 81.",
-      "body": "The 1972 Middlebury Panthers football team, competing in the New England Small College Athletic Conference (NESCAC), represented Middlebury College during the 1972 NCAA College Division football season. One of those things you can't un-know.",
-      "img": null,
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Three Black men were lynched in Kirvin, Texas for allegedly murdering a young girl.",
+      "body": "According to the United States Senate Committee on the Judiciary it was the 19th of 61 lynchings during 1922 in the United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Freestone_County_Kirvin_Lynching_news_coverage.jpg/330px-Freestone_County_Kirvin_Lynching_news_coverage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1972_Middlebury_Panthers_football_team"
+      "url": "https://en.wikipedia.org/wiki/Lynching_in_Kirvin%2C_Texas"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Sword Song is the fourth historical novel in The Saxon Stories by Bernard Cornwell, published in 2007.",
-      "body": "Uhtred leads battles against the Danes, as King Alfred strengthens the defences of his kingdom of Wessex. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Sword_Song_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Joshua George Beard was an Upper Canadian businessman, politician, and mayor of Toronto in 1854.",
+      "body": "He was born in England and immigrated to York, Upper Canada. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Joshua_George_Beard.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sword_Song_(Cornwell_novel)"
+      "url": "https://en.wikipedia.org/wiki/Joshua_George_Beard"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1900 —",
-      "hook": "The steamer Deutschland of Hamburg America Lines sets a new record for the eastward passage when it docks in Plymouth, England, five days, 11 hours and 45 minutes after sailing from New York, breaking by three hours, six minutes its previous mark in its maiden voyage in July.",
-      "body": "SS Deutschland was a passenger liner built in Stettin and launched on 10 January 1900 for the Hamburg America Line (HAPAG) of Germany. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/SS_Deutschland_%281900%29.jpg/330px-SS_Deutschland_%281900%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/SS_Deutschland_(1900)"
+      "opener": "Bet you didn't know —",
+      "hook": "1066 was the year of the Norman conquest of England culminating in the Battle of Hastings.",
+      "body": "1066: The Year of the Conquest is a 1977 historical nonfiction book by David Armine Howarth. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/1066_%28book%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1066_(book)"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "You probably never noticed this —",
-      "hook": "It was released on March 30 1999 as the fourth and final single from her album, If You See Him.",
-      "body": "\"One Honest Heart\" is a song written by David Malloy, Gary Baker and Frank J. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "She was one of the first women to study agriculture at an English university, graduating from the institution now known as the University of Reading.",
+      "body": "Lady Evelyn Barbara Balfour, was a British farmer, educator, organic farming pioneer, and a founding figure in the organic movement. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/31/Evelyn_Barbara_Balfour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/One_Honest_Heart"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1918 —",
-      "hook": "Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.",
-      "body": "The United States Marine Corps (USMC), also referred to as the United States Marines or simply the Marines, is the naval infantry service branch of the United States Armed Forces. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_the_United_States_Marine_Corps.svg/330px-Emblem_of_the_United_States_Marine_Corps.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/United_States_Marine_Corps"
+      "url": "https://en.wikipedia.org/wiki/Lady_Eve_Balfour"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "A Series of Unfortunate Events is a series of thirteen children's novels written by American author Daniel Handler under the pen name Lemony Snicket.",
-      "body": "The books follow the turbulent lives of orphaned siblings Violet, Klaus, and Sunny Baudelaire. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/A_Series_of_Unfortunate_Events_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "Helen Mar Kimball was one of 30 to 40 plural wives of Joseph Smith, founder of the Latter Day Saint movement.",
+      "body": "She was sealed in marriage to him when she was 14 years old. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Helen_Mar_Kimball.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Crystal City (2003) is an alternate history/fantasy novel by American writer Orson Scott Card.",
-      "body": "It is the sixth book in Card's The Tales of Alvin Maker series and is about Alvin Miller, the seventh son of a seventh son. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d1/OSCcrystalcity.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Crystal_City"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1967 —",
-      "hook": "Two young women became the first fatal victims of grizzly bear attacks in the 57-year history of Montana's Glacier National Park in separate incidents.",
-      "body": "Night of the Grizzlies (1969) is a book by Jack Olsen which details events surrounding the night of August 13, 1967, when two young women were separately attacked and killed in Glacier National Park, Montana, by grizzly bears. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/fd/Night_of_the_Grizzlies_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Night_of_the_Grizzlies"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Something Like Happiness by Tom Newlands review – a tender take on hard times, anger and autism",
-      "body": "<p>A twentysomething Scottish couple care for their autistic son in the bleak follow-up to Only Here, Only Now</p><p>Frazer and Caitlin have been emotionally entwined since schooldays. Now in their mid-20s, and parents of a five-year-old, t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/12/something-like-happiness-by-tom-newlands-review-a-tender-take-on-hard-times-anger-and-autism"
+      "url": "https://en.wikipedia.org/wiki/Helen_Mar_Kimball"
     }
   ]
 }
