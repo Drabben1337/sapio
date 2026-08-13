@@ -1,93 +1,95 @@
 {
-  "generated": "2026-08-13T15:45:16.771Z",
-  "count": 20,
+  "generated": "2026-08-13T16:41:30.158Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1940 —",
-      "hook": "World War II: The German Luftwaffe launches an air operation, codenamed Adlertag, during the Battle of Britain in an attempt to destroy the British Royal Air Force.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1521 —",
-      "hook": "After an extended siege, forces led by Spanish conquistador Hernán Cortés capture Tlatoani Cuauhtémoc and conquer the Aztec capital of Tenochtitlan.",
-      "body": "The fall of Tenochtitlan, the capital of the Mexica, was an important event in the Spanish conquest of the Mexica. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png/330px-Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "She portrayed the role of Mother Olivia Jefferson in a re-creation of the pilot episode of The Jeffersons in Live in Front of a Studio Audience: Norman Lear's All in the Family and The Jeffersons.",
-      "body": "Fran Bennett was an American actress, known for her works in theater and on television. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fran_Bennett_%22Lou_Grant%22_%28cropped%29.jpg/330px-Fran_Bennett_%22Lou_Grant%22_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Other Side of Midnight is a 1977 American drama film directed by Charles Jarrott and starring Marie-France Pisier, John Beck, and Susan Sarandon.",
+      "body": "Herman Raucher and Daniel Taradash wrote the screenplay based on Sidney Sheldon's 1973 novel of the same name. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/The_Other_Side_of_Midnight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fran_Bennett"
+      "url": "https://en.wikipedia.org/wiki/The_Other_Side_of_Midnight_(film)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Sulfolobus islandicus rod-shaped virus 2, also referred to as SIRV2, is an archaeal virus whose only known host is the archaeon Sulfolobus islandicus.",
-      "body": "This virus belongs to the family Rudiviridae. One of those things you can't un-know.",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Mushoku Tensei: Jobless Reincarnation is a Japanese light novel series written by Rifujin na Magonote and illustrated by Shirotaka.",
+      "body": "Retaining the memories from his previous life, he is determined to enjoy his new life without any regrets. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Mushoku_Tensei_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mushoku_Tensei"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Leopard's Spots: A Romance of the White Man's Burden—1865–1900 is the first novel of Thomas Dixon's Reconstruction trilogy, and was followed by The Clansman: A Historical Romance of the Ku Klux Klan (1905), and The Traitor: A Story of the Fall of the Invisible Empire (1907).",
+      "body": "In the novel, published in 1902, Dixon offers an account of Reconstruction in which he portrays a Reconstruction leader, Northern carpetbaggers, and emancipated slaves as the villains; Ku Klux Klan members are anti-heroes. The world is stranger than it lets on",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Leopard%27s_Spots.jpg/330px-The_Leopard%27s_Spots.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Leopard's_Spots"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "Between 1945 and 1952 he was chief of the State Protection Authority, and as such responsible for much brutality and many political purges.",
+      "body": "Gábor Péter was a Hungarian communist politician. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/P%C3%A9ter_G%C3%A1bor_politikus_%28crop%29.jpg/330px-P%C3%A9ter_G%C3%A1bor_politikus_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/G%C3%A1bor_P%C3%A9ter"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1898 —",
+      "hook": "Spanish–American War: Spanish and American forces engage in a mock battle for Manila, after which the Spanish commander surrendered in order to keep the city out of Filipino rebel hands.",
+      "body": "The Spanish–American War was fought between Spain and the United States in 1898. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Collage_infobox_for_Spanish-American_War.jpg/330px-Collage_infobox_for_Spanish-American_War.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Jared James Mitchell is a Canadian journalist and fiction author, currently based in Toronto, Ontario.",
+      "body": "Besides his books, he has written for numerous newspapers and magazines such as Maclean's and The Globe and Mail. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Icerudivirus_SIRV2"
+      "url": "https://en.wikipedia.org/wiki/Jared_Mitchell_(writer)"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Fartman is a fictional superhero, popularized and portrayed by American radio \"shock jock\" Howard Stern.",
-      "body": "The character first appeared in an issue of the National Lampoon humor magazine in the late 1970s. One of those things you can't un-know.",
+      "cat": "history",
+      "opener": "On this day in 900 —",
+      "hook": "Count Reginar I of Hainault rises against Zwentibold of Lotharingia and slays him near present-day Susteren.",
+      "body": "Reginar Longneck or Reginar I, Latin: Rainerus or Ragenerus Longicollus, was a leading nobleman in the kingdom of Lotharingia, variously described in contemporary sources with the titles of count, margrave, missus dominicus and duke. Worth a quiet trip down the rabbit hole.",
       "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fartman_(Howard_Stern)"
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Reginar_Longneck"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "On the Run is a 1964 children's novel by British author Nina Bawden.",
-      "body": "It was also published as Three on the Run in the United States. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/Three_on_the_Run_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/On_the_Run_(novel)"
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: German troops begin the pillage and razing of Anogeia in Crete that would continue until September 5.",
+      "body": "The Razing of Anogeia or the Holocaust of Anogeia refers to the complete destruction of the village of Anogeia in central Crete (Greece) and the murder of about 25 of its inhabitants on 13 August 1944 by German occupying forces during World War II. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Razing_of_Anogeia%2C_13-8-1944.jpg/330px-Razing_of_Anogeia%2C_13-8-1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Razing_of_Anogeia"
     },
     {
       "type": "card",
@@ -101,31 +103,88 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1898 —",
-      "hook": "Carl Gustav Witt discovers 433 Eros, the first near-Earth asteroid to be found.",
-      "body": "Carl Gustav Witt was a German astronomer and discoverer of two asteroids who worked at the Berlin Urania Observatory, a popular observatory of the Urania astronomical association of Berlin. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/GustavWitt.jpg/330px-GustavWitt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2004 —",
+      "hook": "One hundred fifty-six Congolese Tutsi refugees are massacred at the Gatumba refugee camp in Burundi.",
+      "body": "The Democratic Republic of the Congo (DRC), also known as the DR Congo, Congo-Kinshasa, or simply the Congo, and formerly named Zaire, is a country in Central Africa. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/330px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Carl_Gustav_Witt"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘It was fun to get pushed around’: Andrew Rannells on ‘razzle dazzle’, kissing co-stars and being a better friend to Lena Dunham",
-      "body": "<p>The star of Girls and The Book of Mormon talks about coming out, turning a showmance into a romance, and going toe to toe with the West Wing’s Allison Janney in new film Miss You Love You</p><p>Imagine a cute, young, gay Jim Carrey with ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/13/andrew-rannells-interview-girls-lena-dunham-miss-you-love-you"
+      "url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The treaty put an end to the state of war that existed between both states since the Chincha Islands War.",
-      "body": "The Treaty of Peace and Friendship between the Republic of Chile and Spain was a peace treaty signed between Chile and Spain in the Peruvian city of Lima, then occupied by Chile. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "Okay, this one's fun —",
+      "hook": "Buffalo Springfield Again is the second album by Buffalo Springfield, released on Atco Records in October 1967.",
+      "body": "The album features some of the group's best-known songs, including \"Mr. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/BuffaloSpringfieldBuffaloSpringfieldAgain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1883_Chilean%E2%80%93Spanish_Treaty"
+      "url": "https://en.wikipedia.org/wiki/Buffalo_Springfield_Again"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "It had a population of around 1,065 in January 2017.",
+      "body": "Oppenhuizen is a village in Súdwest-Fryslân municipality in the province of Friesland, the Netherlands. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Johanneskerk_uit_1695_in_Toppenhuzen..JPG/330px-Johanneskerk_uit_1695_in_Toppenhuzen..JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oppenhuizen"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Colour Scheme is a detective novel by Ngaio Marsh; it is the twelfth novel to feature Roderick Alleyn, and was first published in 1943 by Collins Crime Club.",
+      "body": "The novel takes place in the Northland region of New Zealand during World War II; the plot involves suspected espionage activity at a hot springs resort on the coast of New Zealand's Northland region. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/89/ColourScheme.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Colour_Scheme"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "A History of the Novel in Britain by Philip Hensher review – a masterpiece of criticism",
+      "body": "<p>This joyous book takes readers on a literary adventure across 300 years of fiction, from Defoe to Zadie Smith</p><p></p><p>In his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story i",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1792 —",
+      "hook": "King Louis XVI of France is formally arrested by the National Tribunal, and declared an enemy of the people.",
+      "body": "Louis XVI was the last king of France before the fall of the monarchy during the French Revolution. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg/330px-Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Louis_XVI"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "James: Getting Away With It review – hippies, hardnuts and dreamers unite",
+      "body": "<p>Auto-hagiography it may be – most of the interviewees were in the band at some point – but this portrait of the seminal Manchester indie group is charming stuff</p><p>By the time of their first flush of success – concomitant with the tur",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/13/james-getting-away-with-it-review-hippies-hardnuts-and-dreamers-unite"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Netflix, Sony partner on 2027 international release of ‘Charlie vs. The Chocolate Factory’",
+      "body": "Box office will be reported, as with Greta Gerwig’s ‘Narnia: The Magician’s Nephew’.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/netflix-sony-partner-on-2027-international-release-of-charlie-vs-the-chocolate-factory/5219336.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "DNA reveals a society organised around women in pre-Roman Britain",
+      "body": "Descent passed from mother to daughter rather than from father to son, a study of more than 500 Iron Age individuals from north-east England suggests",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584364-dna-reveals-a-society-organised-around-women-in-pre-roman-britain/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
@@ -139,61 +198,12 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1920 —",
-      "hook": "Polish–Soviet War: The Battle of Warsaw begins and will last till August 25. The Red Army is defeated.",
-      "body": "The Polish–Soviet War was fought primarily between the Second Polish Republic and the Russian Soviet Federative Socialist Republic, following World War I and the Russian Revolution. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Polish-soviet_war_montage.jpg/330px-Polish-soviet_war_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1645 —",
+      "hook": "Sweden and Denmark sign the Peace of Brömsebro.",
+      "body": "The Treaty of Brömsebro was signed on 13 August 1645, and ended the Torstenson War, a local conflict that began in 1643 between Sweden and Denmark–Norway. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Scandinavia_1645.gif/330px-Scandinavia_1645.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Charles Andrew Stanley is an American clergyman who is the founder and senior pastor of North Point Ministries, a nondenominational evangelical Christian church with several campuses across the north metro Atlanta areas.",
-      "body": "He is the founder and senior pastor of North Point Community Church. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Andy2018edit_%28cropped%29.jpg/330px-Andy2018edit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Andy_Stanley"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1990 —",
-      "hook": "A mainland Chinese fishing boat Min Ping Yu No. 5202 is hit by a Taiwanese naval vessel and sinks in a repatriation operation of mainland Chinese immigrants, resulting in 21 deaths. This is the second tragedy less than a month after Min Ping Yu No. 5540 incident.",
-      "body": "Min Ping Yu No. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Min_Ping_Yu_No._5202"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Ella Minnow Pea is a 2001 novel by Mark Dunn.",
-      "body": "The full title of the hardcover version is Ella Minnow Pea: a progressively lipogrammatic epistolary fable, while the paperback version is titled Ella Minnow Pea: A Novel in Letters or Ella Minnow Pea: A Novel without Letters. The world is stranger than it let",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/EllaMinnowPea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ella_Minnow_Pea"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1415 —",
-      "hook": "The English invasion of France begins when English king Henry V lands in France.",
-      "body": "The Lancastrian War was the third and final phase of the Hundred Years' War between England and France. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Siege_orleans.jpg/330px-Siege_orleans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hundred_Years'_War%2C_1415%E2%80%931453"
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%B6msebro_(1645)"
     }
   ]
 }
