@@ -1,85 +1,44 @@
 {
-  "generated": "2026-08-14T20:18:36.421Z",
-  "count": 21,
+  "generated": "2026-08-14T21:13:14.816Z",
+  "count": 25,
   "items": [
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "hook": "A History of the Novel in Britain by Philip Hensher review – a masterpiece of criticism",
+      "body": "<p>This joyous book takes readers on a literary adventure across 300 years of fiction, from Defoe to Zadie Smith</p><p></p><p>In his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story i",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1921 —",
-      "hook": "Tannu Uriankhai, later Tuvan People's Republic is established as a completely independent country (which is supported by Soviet Russia).",
-      "body": "Tannu Uriankhai was a historical region of the Mongol Empire, its principal successor, the Yuan dynasty, and later the Qing dynasty. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_China_%281889%E2%80%931912%29.svg/330px-Flag_of_China_%281889%E2%80%931912%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tannu_Uriankhai"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in -29 —",
-      "hook": "Octavian holds the second of three consecutive triumphs in Rome to celebrate the victory over the Dalmatian tribes.",
-      "body": "Augustus, also known as Octavian, was the founder of the Roman Empire and the first Roman emperor from 27 BC until his death in AD 14. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/330px-Augustus_of_Prima_Porta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Augustus"
+      "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Edward Bartlett Cormack was an American actor, playwright, screenwriter, and producer best known for his 1927 Broadway play The Racket, and for working with Howard Hughes and Cecil B.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bartlett_Cormack.jpg/330px-Bartlett_Cormack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Stevie is a discontinued clone of the vi text editor.",
+      "body": "Stevie was written by Tim Thompson for the Atari ST. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bartlett_Cormack"
+      "url": "https://en.wikipedia.org/wiki/Stevie_(text_editor)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Carbon monoxide consists of one carbon atom and one oxygen atom connected by a triple bond.",
-      "body": "Carbon monoxide is a poisonous, flammable gas that is colorless, odorless, tasteless, and slightly less dense than air. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carbon_monoxide_2D.svg/330px-Carbon_monoxide_2D.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Carbon_monoxide"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Gnomeo & Juliet is a 2011 animated musical fantasy romantic comedy film directed by Kelly Asbury.",
-      "body": "It is loosely based on the play Romeo and Juliet, and features the voices of James McAvoy, Emily Blunt, Michael Caine, Maggie Smith, Jason Statham, Patrick Stewart, Ashley Jensen, Stephen Merchant, Matt Lucas, Jim Cummings, Julie Walters, Richard Wilson, Ozzy ",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/bd/Gnomeo_%26_Juliet_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gnomeo_%26_Juliet"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in -74 —",
-      "hook": "A group of officials, led by the Western Han minister Huo Guang, present articles of impeachment against the new emperor, Liu He, to the imperial regent, Empress Dowager Shangguan.",
-      "body": "The Han dynasty was an imperial dynasty of China established by Liu Bang, and preceded by the short-lived Qin dynasty (221–206 BC) and the interregnum known as the Chu–Han Contention (206–202 BC). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Han_Dynasty_2_BC_%28cropped%29.svg/330px-Han_Dynasty_2_BC_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1784 —",
+      "hook": "Russian colonization of North America: Awa'uq Massacre: The Russian fur trader Grigory Shelikhov storms a Kodiak Island Alutiit refuge rock on Sitkalidak Island, killing 500+ Alutiit.",
+      "body": "Russian Colonization of North America describes colonies and territories claimed by the Russian Empire in the Pacific Coast region of North America from 1732 to 1867. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Russian-American_Company.svg/330px-Flag_of_Russian-American_Company.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Han_dynasty"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1974 —",
-      "hook": "Turkey launches the second phase of the invasion of Cyprus, which eventually resulted in the Turkish occupation of 37% of Cyprus.",
-      "body": "Turkey invaded Cyprus on 20 July 1974 in an operation that progressed in two phases over the following month. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cyprus_1973_ethnic_en.svg/330px-Cyprus_1973_ethnic_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Turkish_invasion_of_Cyprus"
+      "url": "https://en.wikipedia.org/wiki/Russian_colonization_of_North_America"
     },
     {
       "type": "card",
@@ -93,51 +52,121 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Indiegogo is an American crowdfunding website founded in 2008 by Danae Ringelmann, Slava Rubin, and Eric Schell.",
-      "body": "Its headquarters are in San Francisco, California. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Indiegogo_logo.png/330px-Indiegogo_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "You probably never noticed this —",
+      "hook": "Aspergillus luchuensis is a species of fungus in the genus Aspergillus.",
+      "body": "It belongs to the group of black Aspergilli which are important industrial workhorses. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Indiegogo"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1936 —",
-      "hook": "Rainey Bethea is hanged in Owensboro, Kentucky in the last known public execution in the United States.",
-      "body": "Rainey Bethea, was the last person publicly executed in the United States. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/Rainey_Bethea.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Rainey_Bethea"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+      "url": "https://en.wikipedia.org/wiki/Aspergillus_luchuensis"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Greg Olear is an American novelist, journalist, and author whose work often touches on political subjects.",
-      "body": "His novels are noted for their dark humor and frequent references to pop culture. One of those things you can't un-know.",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "\"Runaway Reptar\" is a TV movie initially released as the 24th and 25th episodes of the sixth season of the animated television series Rugrats, and the 118th and 119th episodes of the series overall.",
+      "body": "It originally aired on the television network Nickelodeon on November 27, 1999, and the plot follows the babies watching a Reptar movie and imagining themselves as part of the story. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Greg_Olear"
+      "url": "https://en.wikipedia.org/wiki/Runaway_Reptar"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Originally funded through a Kickstarter campaign in 2021 and published in 2022, the game uses a standard 52-card deck and narrative prompts to guide a player in writing a character's adventure.",
-      "body": "Colostle is a solo role-playing game designed and illustrated by Nich Angell. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/Colostle_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "On this day in 1900 —",
+      "hook": "Battle of Peking: The Eight-Nation Alliance occupies Beijing, China, in a campaign to end the bloody Boxer Rebellion in China.",
+      "body": "The Battle of Peking, or historically the Relief of Peking, was the battle fought on 14–15 August 1900 in Beijing, in which the Eight-Nation Alliance relieved the siege of the Peking Legation Quarter during the Boxer Rebellion. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_race_to_take_Peking_first.jpg/330px-The_race_to_take_Peking_first.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Peking_(1900)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Captain David Cheap was a Scottish Royal Navy officer.",
+      "body": "He is most known for being in command of HMS Wager when it was wrecked in May 1741 on the shores of Wager Island in Chilean Patagonia. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/David_Cheap%2C_Captain%2C_RN.png/330px-David_Cheap%2C_Captain%2C_RN.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Colostle"
+      "url": "https://en.wikipedia.org/wiki/David_Cheap"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "people",
+      "opener": "You probably never noticed this —",
+      "hook": "du min Moder, is one of the Swedish poet and performer Carl Michael Bellman's best-known and best-loved songs, from his 1790 collection, Fredman's Epistles, where it is No.",
+      "body": "Ack du min moder, originally written Ach! Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Epistel_23_Ach_du_min_Moder_s%C3%A4j_hvem_dig_s%C3%A4nde.jpg/330px-Epistel_23_Ach_du_min_Moder_s%C3%A4j_hvem_dig_s%C3%A4nde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ack_du_min_moder"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2015 —",
+      "hook": "The U.S. Embassy in Havana, Cuba re-opens after 54 years of being closed when Cuba–United States relations were broken off.",
+      "body": "The Embassy of the United States of America in Havana is the United States of America's diplomatic mission in Cuba. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg/330px-U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Havana"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1183 —",
+      "hook": "Taira no Munemori and the Taira clan take the young Emperor Antoku and the three sacred treasures and flee to western Japan to escape pursuit by the Minamoto clan.",
+      "body": "Taira no Munemori was heir to Taira no Kiyomori, and one of the Taira clan's chief commanders in the Genpei War. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Taira_no_Munemori_Portrait_by_Fujiwara_Tamenobu_and_Takenobu.png/330px-Taira_no_Munemori_Portrait_by_Fujiwara_Tamenobu_and_Takenobu.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Taira_no_Munemori"
+    },
+    {
+      "type": "card",
+      "cat": "people",
+      "opener": "Bet you didn't know —",
+      "hook": "Jordan Chan Siu-chun is a Hong Kong actor, singer and dancer, known for starring in the Young and Dangerous film series and for his role in the 1998 TV adaptation of Louis Cha's novel, The Duke of Mount Deer.",
+      "body": "In recent years, he received renewed attention for his appearances in the Chinese reality shows Where Are We Going, Dad? The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jordan_Chan%2C_2019-4.png/330px-Jordan_Chan%2C_2019-4.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jordan_Chan"
+    },
+    {
+      "type": "card",
+      "cat": "people",
+      "opener": "File under 'wait, really?' —",
+      "hook": "He is best known for his lead role in Zee Marathi's Kahe Diya Pardes as Shivkumar Shukla.",
+      "body": "Rishi Saxena, is an Indian actor who primarily works in Marathi and Hindi television and films. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rishi_Saxena"
+    },
+    {
+      "type": "card",
+      "cat": "people",
+      "opener": "Bet you didn't know —",
+      "hook": "Historically part of the Municipal Borough of Acton in the county of Middlesex, it has formed part of the London Borough of Ealing since 1965.",
+      "body": "North Acton is a part of Acton in west London, and is within the London Borough of Ealing. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/St.Gabriel.North.Acton.jpg/330px-St.Gabriel.North.Acton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_Acton"
     },
     {
       "type": "card",
@@ -152,58 +181,69 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "A History of the Novel in Britain by Philip Hensher review – a masterpiece of criticism",
-      "body": "<p>This joyous book takes readers on a literary adventure across 300 years of fiction, from Defoe to Zadie Smith</p><p></p><p>In his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story i",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "\"Whose Side Are You On?\" is the third single by British band Matt Bianco, released in 1984.",
-      "body": "It was written by band members Mark Reilly and Danny White, and produced by Peter Collins. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "The Liverpool and Manchester Railway (L&M) opened on 15 September 1830.",
+      "body": "Work on the L&M had begun in the 1820s, to connect the textile mills of the city of Manchester with the nearest deep water port at the Port of Liverpool, 35 miles (56 km) away. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Opening_of_the_Liverpool_and_Manchester_Railway.jpg/330px-Opening_of_the_Liverpool_and_Manchester_Railway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Whose_Side_Are_You_On%3F_(song)"
+      "url": "https://en.wikipedia.org/wiki/Opening_of_the_Liverpool_and_Manchester_Railway"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "He played all or part of ten seasons in Major League Baseball between 1977 and 1987 for the Houston Astros, Cleveland Indians (1981–85), New York Yankees (1986) and Atlanta Braves (1987), primarily as a backup shortstop and second baseman.",
-      "body": "Michael Thomas Fischlin is an American former professional baseball player. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Mike_Fischlin_-_Greenville_Braves_-_1988.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mike_Fischlin"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1264 —",
-      "hook": "After tricking the Venetian galley fleet into sailing east to the Levant, the Genoese capture an entire Venetian trade convoy at the Battle of Saseno.",
-      "body": "The Republic of Venice, officially the Most Serene Republic of Venice and traditionally known as La Serenissima, was a maritime republic with its capital in Venice, on the northeastern coast of Italy. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Variant_war_flag_of_the_Serene_Republic_of_Venice.svg/330px-Variant_war_flag_of_the_Serene_Republic_of_Venice.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1848 —",
+      "hook": "Oregon Territory is organized by act of Congress.",
+      "body": "The Territory of Oregon was an organized incorporated territory of the United States that existed from August 14, 1848, until February 14, 1859, when the southwestern portion of the territory was admitted to the Union as the State of Oregon. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Oregon_Territory_1848.svg/330px-Oregon_Territory_1848.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Republic_of_Venice"
+      "url": "https://en.wikipedia.org/wiki/Oregon_Territory"
+    },
+    {
+      "type": "card",
+      "cat": "people",
+      "opener": "Okay, this one's fun —",
+      "hook": "It aired on SBS TV from April 8 to May 28, 2022, every Friday and Saturday at 22:00 (KST).",
+      "body": "Again My Life is a 2022 South Korean television series starring Lee Joon-gi, Lee Geung-young, Kim Ji-eun and Jung Sang-hoon. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/91/Again_My_Life.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Again_My_Life"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1914 —",
+      "hook": "World War I: Start of the Battle of Lorraine, an unsuccessful French offensive.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
     }
   ]
 }
