@@ -1,53 +1,152 @@
 {
-  "generated": "2026-08-14T16:37:30.259Z",
-  "count": 13,
+  "generated": "2026-08-14T17:42:14.211Z",
+  "count": 23,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Dorothy Faye Dunaway is an American actress.",
-      "body": "She is the recipient of many accolades, including an Academy Award, a Primetime Emmy Award, three Golden Globe Awards, and a BAFTA Award. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Faye_Dunaway_2024.jpg/330px-Faye_Dunaway_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "At the 2020 census, its population was 247.",
+      "body": "Eureka is an unincorporated census-designated place in the town of Rushford, in Winnebago County, Wisconsin, United States. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/EurekaWisconsinDowntown.jpg/330px-EurekaWisconsinDowntown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Faye_Dunaway"
+      "url": "https://en.wikipedia.org/wiki/Eureka%2C_Winnebago_County%2C_Wisconsin"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Hermod and Hadvor is an Icelandic fairy tale collected and published by Jón Árnason.",
+      "body": "It tells the story of prince Hermod and his foster-sister princess Hadvor's conflicts with their evil-stepmother. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hermod_and_Hadvor"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Rondo Hatton Classic Horror Awards, often called the Rondo Award, is an annual award founded in 2002 that honors journalism, scholarship and film preservation in the horror genre, particularly of classic horror film and their modern-day counterparts.",
+      "body": "One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rondo_Hatton_Classic_Horror_Awards"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2021 —",
+      "hook": "A magnitude 7.2 earthquake strikes southwestern Haiti, killing at least 2,248 people and causing a humanitarian crisis.",
+      "body": "At 08:29:09 EDT on 14 August 2021, a magnitude 7.2 earthquake struck the Tiburon Peninsula of southern Haiti. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haiti_Earthquake_10.jpg/330px-Haiti_Earthquake_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2021_Haiti_earthquake"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Moment €9m worth of art stolen from Italy museum",
-      "body": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Film —",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Founding member of EMF dies aged 55",
-      "body": "Derry Brownson spoke candidly to the BBC about his brain tumour diagnosis in 2025.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvglv5352o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Universality by Natasha Brown audiobook review – a sparkling multi-voiced satire",
-      "body": "<p>A magazine article about stolen gold sparks a culture war between a cast of politically polarised characters</p><p>A stinging dissection of wealth, class and the media, Natasha Brown’s satire begins with a man named Jake gazing at a gold",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/13/universality-by-natasha-brown-audiobook-review-a-sparkling-multi-voiced-satire"
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Completed in 1914 and originally serving as the home to the Mellon Institute of Industrial Research, the six-story Greek Revival building designed by J.",
+      "body": "Allen Hall at the University of Pittsburgh is a Pittsburgh History and Landmarks Foundation Historic Landmark and a contributing property to the Schenley Farms National Historic District. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Allen_Hall_%28University_of_Pittsburgh%29.jpg/330px-Allen_Hall_%28University_of_Pittsburgh%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Allen_Hall_(University_of_Pittsburgh)"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Sainik Samachar is a journal about the India's Armed Forces.",
-      "body": "The journal is published every fortnight in thirteen languages including English on behalf of the Ministry of Defence. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/98/Centenary_Editon_Cover_Sainik_Samachar_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Lucille Lortel Award for Outstanding Lead Actor in a Play was an award presented annually at the Lucille Lortel Awards to honor an actor for excellence in a leading role in an Off-Broadway production.",
+      "body": "The categories were split into Outstanding Lead Actor in a Play and Outstanding Lead Actor in a Musical in 2014. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sainik_Samachar"
+      "url": "https://en.wikipedia.org/wiki/Lucille_Lortel_Award_for_Outstanding_Lead_Actor_in_a_Play"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1136 —",
+      "hook": "Abbasid Caliph al-Rashid Billah flees from Bagdhad, which had been besieged by an army of the Seljuk Turks under Sultan Ghiyath ad-Din Mas'ud for fifty days.",
+      "body": "Abu Ja'far al-Mansur ibn al-Faḍl al-Mustarshid bi'llah usually known by his regnal name Al-Rashid bi'llah was the Abbasid caliph in Baghdad from 1135 to 1136. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rashed_belah_tomb.jpg/330px-Rashed_belah_tomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Al-Rashid_Billah"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1893 —",
+      "hook": "France becomes the first country to introduce motor vehicle registration.",
+      "body": "A vehicle registration plate, also known as a number plate, license plate or licence plate, is a metal or plastic plate attached to a motor vehicle or trailer for official identification purposes. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Two_Fiat_500s_Voltio.png/330px-Two_Fiat_500s_Voltio.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Vehicle_registration_plate"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Public Security Intelligence Agency is a Japanese intelligence agency under the Ministry of Justice, which collects and analyzes information from domestic and international sources on threats to national security and works to eliminate those threats based on the Subversive Activities Prevention Act and the Act Regarding the Control of Organizations Which Committed Indiscriminate Mass Murder.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%E5%85%AC%E5%AE%89%E8%AA%BF%E6%9F%BB%E5%BA%81.svg/330px-%E5%85%AC%E5%AE%89%E8%AA%BF%E6%9F%BB%E5%BA%81.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Public_Security_Intelligence_Agency"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Mai Ghoussoub was a Lebanese writer, artist, publisher and human rights activist.",
+      "body": "She was the co-founder in London of the Saqi bookshop and publishing house. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mai_Ghoussoub"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "First Survey is 1996 supplement published under license by Imperium Games for Marc Miller's Traveller, the fourth edition of Game Designers Workshop's science fiction role-playing game Traveller.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/37/First_Survey%2C_role-playing_supplement.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_Survey"
     },
     {
       "type": "card",
@@ -60,70 +159,71 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘I feel like I’m at war’: are we losing the battle against machine-made music?",
-      "body": "<p>Despite outcry from musicians, AI slop is creeping into the charts as record labels scramble to adapt to a new normal where hits can be made at the click of a button</p><p>This year, the battle for song of the summer has been eclipsed by",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music"
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The stadium has a maximum capacity of 18,799 people and was built in 1965.",
+      "body": "Estádio Barão da Serra Negra is a multi-use stadium located in Piracicaba, Brazil. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Est%C3%A1dio_XV.jpg/330px-Est%C3%A1dio_XV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Bar%C3%A3o_da_Serra_Negra"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2006 —",
+      "hook": "Lebanon War: A ceasefire takes effect three days after the United Nations Security Council's approval of United Nations Security Council Resolution 1701, formally ending hostilities between Lebanon and Israel.",
+      "body": "The 2006 Lebanon War was a 34-day armed conflict in Lebanon, fought between Hezbollah and Israel. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tyre_air_strike.jpg/330px-Tyre_air_strike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2006_Lebanon_War"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Glastonbury festival organiser dismisses rumours that Madonna will headline in 2027",
-      "body": "Emily Eavis says the festival has booked its headliners, but the Queen of Pop is \"definitely not\" among them.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqjx1wdkn81o?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Super Troopers 3 review – misfiring cop comedy threequel",
-      "body": "<p>The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence</p><p>Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Amethyst is a fictional character from the American animated television series Steven Universe, created by Rebecca Sugar.",
-      "body": "She is voiced by Michaela Dietz. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Amethyst_%28Steven_Universe%29_Scratch_sprite.svg/330px-Amethyst_%28Steven_Universe%29_Scratch_sprite.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Amethyst_(Steven_Universe)"
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Army Transportation Command (ARTRANS) for distribution of surface cargo from storage and repair depots to military forward based units.",
-      "body": "Military Ocean Terminals are operated by the U.S. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Military_Ocean_Terminal"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Richard More was born in Corvedale, Shropshire, England, and was baptised at St James parish church in Shipton, Shropshire, on 13 November 1614.",
-      "body": "Richard and his three siblings were at the centre of a mystery in early-17th-century England that caused early genealogists to wonder why the More children's father, believed to be Samuel More, would send his very young children away to the New World on the Ma",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mayflower_in_Plymouth_Harbor%2C_by_William_Halsall.jpg/330px-Mayflower_in_Plymouth_Harbor%2C_by_William_Halsall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Eventually, the organization played a role in the midterm elections of 2010.",
+      "body": "Organizing for America (OFA) is a community organizing project of the Democratic National Committee. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/OFA-logo-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Richard_More_(Mayflower_passenger)"
+      "url": "https://en.wikipedia.org/wiki/Organizing_for_America"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Equality Federation is a social justice, advocacy and capacity building organization serving and supporting state-based lesbian, gay, bisexual and transgender (LGBTQ) advocacy organizations in the United States.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/US_Locator_Blank.svg/330px-US_Locator_Blank.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Equality_Federation"
+      "cat": "history",
+      "opener": "On this day in 1974 —",
+      "hook": "Turkey launches the second phase of the invasion of Cyprus, which eventually resulted in the Turkish occupation of 37% of Cyprus.",
+      "body": "Turkey invaded Cyprus on 20 July 1974 in an operation that progressed in two phases over the following month. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cyprus_1973_ethnic_en.svg/330px-Cyprus_1973_ethnic_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Turkish_invasion_of_Cyprus"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1885 —",
+      "hook": "Japan's first patent is issued to the inventor of a rust-proof paint.",
+      "body": "Japanese patent law is based on the first-to-file principle and is mainly given force by the Patent Act of Japan. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Japanese_patent_law"
     }
   ]
 }
