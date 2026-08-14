@@ -1,46 +1,141 @@
 {
-  "generated": "2026-08-14T17:42:14.211Z",
-  "count": 23,
+  "generated": "2026-08-14T18:36:39.711Z",
+  "count": 22,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "At the 2020 census, its population was 247.",
-      "body": "Eureka is an unincorporated census-designated place in the town of Rushford, in Winnebago County, Wisconsin, United States. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/EurekaWisconsinDowntown.jpg/330px-EurekaWisconsinDowntown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Eureka%2C_Winnebago_County%2C_Wisconsin"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Hermod and Hadvor is an Icelandic fairy tale collected and published by Jón Árnason.",
-      "body": "It tells the story of prince Hermod and his foster-sister princess Hadvor's conflicts with their evil-stepmother. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hermod_and_Hadvor"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Rondo Hatton Classic Horror Awards, often called the Rondo Award, is an annual award founded in 2002 that honors journalism, scholarship and film preservation in the horror genre, particularly of classic horror film and their modern-day counterparts.",
-      "body": "One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rondo_Hatton_Classic_Horror_Awards"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2021 —",
-      "hook": "A magnitude 7.2 earthquake strikes southwestern Haiti, killing at least 2,248 people and causing a humanitarian crisis.",
-      "body": "At 08:29:09 EDT on 14 August 2021, a magnitude 7.2 earthquake struck the Tiburon Peninsula of southern Haiti. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haiti_Earthquake_10.jpg/330px-Haiti_Earthquake_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1959 —",
+      "hook": "Founding and first official meeting of the American Football League.",
+      "body": "The American Football League (AFL) was a major professional American football league that operated for ten seasons from 1960 until 1970, when it merged with the older National Football League (NFL) and became that league's American Football Conference (AFC). The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/44/AmericanFootballLeague.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2021_Haiti_earthquake"
+      "url": "https://en.wikipedia.org/wiki/American_Football_League"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "OrthoCAD Network Research Cell is a federally funded research and development facility in the Indian Institute of Technology Bombay, Mumbai, India.",
+      "body": "The Laboratory's primary function is the design and development of reconstruction systems for orthopaedic and other applications, the current focus is on mega-implants for limb-saving surgery, mainly for children affected by bone cancer. One of those things yo",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/OrthoCAD_logo.jpg/330px-OrthoCAD_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/OrthoCAD_Network_Research_Cell"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "Ina-Hongō Station is a railway station on the Iida Line in the town of Iijma, Kamiina District Nagano Prefecture, Japan, operated by Central Japan Railway Company.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ina-hongo_sta.jpg/330px-Ina-hongo_sta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ina-Hong%C5%8D_Station"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Vicovaro is a comune (municipality) in the Metropolitan City of Rome in the Italian region Lazio, located about 45 kilometres (28 mi) northeast of Rome.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Vicovaro_San_Pietro.jpg/330px-Vicovaro_San_Pietro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vicovaro"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1948 —",
+      "hook": "An Idaho Department of Fish and Game program to relocate beavers known as Beaver drop occurred. This program relocated beavers from Northwestern Idaho to Central Idaho by airplane and then parachuting the beavers into the Chamberlain Basin.",
+      "body": "The Idaho Department of Fish and Game (IDFG) is the Idaho state department which is responsible for preserving and managing Idaho's wildlife, including mammals, fish, birds, plants, and invertebrates. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Idaho_Fish_and_Game_Logo.png/330px-Idaho_Fish_and_Game_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Idaho_Department_of_Fish_and_Game"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "A History of the Novel in Britain by Philip Hensher review – a masterpiece of criticism",
+      "body": "<p>This joyous book takes readers on a literary adventure across 300 years of fiction, from Defoe to Zadie Smith</p><p></p><p>In his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story i",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Fall of the House of Usher is an American gothic horror drama television miniseries created by Mike Flanagan, and based on the short story of the same title and other works by the author Edgar Allan Poe.",
+      "body": "All eight episodes were released on Netflix on October 12, 2023, each directed by either Flanagan or Michael Fimognari, with the latter also acting as cinematographer for the entire series. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4e/Netflix_Fall_of_House_of_Usher_series.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1592 —",
+      "hook": "The first sighting of the Falkland Islands by John Davis.",
+      "body": "The Falkland Islands, commonly referred to as the Falklands, is an archipelago in the South Atlantic Ocean on the Patagonian Shelf. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/330px-Flag_of_the_Falkland_Islands.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Falkland_Islands"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "In the Syria Central Bureau of Statistics' 2004 census, it had a population of 2,255.",
+      "body": "Atme is a town in northern Syria, administratively part of the Idlib Governorate, located north of Idlib and just east of the border with Turkey. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atme"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in -74 —",
+      "hook": "A group of officials, led by the Western Han minister Huo Guang, present articles of impeachment against the new emperor, Liu He, to the imperial regent, Empress Dowager Shangguan.",
+      "body": "The Han dynasty was an imperial dynasty of China established by Liu Bang, and preceded by the short-lived Qin dynasty (221–206 BC) and the interregnum known as the Chu–Han Contention (206–202 BC). Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Han_Dynasty_2_BC_%28cropped%29.svg/330px-Han_Dynasty_2_BC_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Han_dynasty"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
@@ -54,70 +149,12 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "Completed in 1914 and originally serving as the home to the Mellon Institute of Industrial Research, the six-story Greek Revival building designed by J.",
-      "body": "Allen Hall at the University of Pittsburgh is a Pittsburgh History and Landmarks Foundation Historic Landmark and a contributing property to the Schenley Farms National Historic District. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Allen_Hall_%28University_of_Pittsburgh%29.jpg/330px-Allen_Hall_%28University_of_Pittsburgh%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Allen_Hall_(University_of_Pittsburgh)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Lucille Lortel Award for Outstanding Lead Actor in a Play was an award presented annually at the Lucille Lortel Awards to honor an actor for excellence in a leading role in an Off-Broadway production.",
-      "body": "The categories were split into Outstanding Lead Actor in a Play and Outstanding Lead Actor in a Musical in 2014. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lucille_Lortel_Award_for_Outstanding_Lead_Actor_in_a_Play"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1136 —",
-      "hook": "Abbasid Caliph al-Rashid Billah flees from Bagdhad, which had been besieged by an army of the Seljuk Turks under Sultan Ghiyath ad-Din Mas'ud for fifty days.",
-      "body": "Abu Ja'far al-Mansur ibn al-Faḍl al-Mustarshid bi'llah usually known by his regnal name Al-Rashid bi'llah was the Abbasid caliph in Baghdad from 1135 to 1136. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rashed_belah_tomb.jpg/330px-Rashed_belah_tomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1914 —",
+      "hook": "World War I: Start of the Battle of Lorraine, an unsuccessful French offensive.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Al-Rashid_Billah"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1893 —",
-      "hook": "France becomes the first country to introduce motor vehicle registration.",
-      "body": "A vehicle registration plate, also known as a number plate, license plate or licence plate, is a metal or plastic plate attached to a motor vehicle or trailer for official identification purposes. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Two_Fiat_500s_Voltio.png/330px-Two_Fiat_500s_Voltio.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Vehicle_registration_plate"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Public Security Intelligence Agency is a Japanese intelligence agency under the Ministry of Justice, which collects and analyzes information from domestic and international sources on threats to national security and works to eliminate those threats based on the Subversive Activities Prevention Act and the Act Regarding the Control of Organizations Which Committed Indiscriminate Mass Murder.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%E5%85%AC%E5%AE%89%E8%AA%BF%E6%9F%BB%E5%BA%81.svg/330px-%E5%85%AC%E5%AE%89%E8%AA%BF%E6%9F%BB%E5%BA%81.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Public_Security_Intelligence_Agency"
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
     },
     {
       "type": "card",
@@ -130,100 +167,53 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The team's first season was 2010–11.",
+      "body": "The Oklahoma City Barons were a professional ice hockey team in the American Hockey League (AHL). Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Logo_Oklahoma_City_Barons.png/330px-Logo_Oklahoma_City_Barons.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oklahoma_City_Barons"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Mai Ghoussoub was a Lebanese writer, artist, publisher and human rights activist.",
-      "body": "She was the co-founder in London of the Saqi bookshop and publishing house. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mai_Ghoussoub"
-    },
-    {
-      "type": "card",
-      "cat": "history",
       "opener": "File under 'wait, really?' —",
-      "hook": "First Survey is 1996 supplement published under license by Imperium Games for Marc Miller's Traveller, the fourth edition of Game Designers Workshop's science fiction role-playing game Traveller.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/37/First_Survey%2C_role-playing_supplement.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Borrowers is a British television series first broadcast in 1992 on BBC2.",
+      "body": "The series is divided into six parts, and is adapted from the 1952 Carnegie Medal-winning first novel and the second novel of author Mary Norton's The Borrowers series: The Borrowers and The Borrowers Afield (1955). One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cb/The_Borrowers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/First_Survey"
+      "url": "https://en.wikipedia.org/wiki/The_Borrowers_(1992_TV_series)"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "These Violent Delights review – Scottish Ballet’s feverish Romeo and Juliet is bold and unsettling",
-      "body": "<p><strong>Edinburgh film festival</strong><br>A taut, dreamlike reimagining of Shakespeare’s tragedy strips away romance in favour of dread, creating an engrossing and fiercely physical dance film</p><p>Scottish Ballet, under the direction",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/14/these-violent-delights-review-oscar-sansom-christopher-hampson"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The stadium has a maximum capacity of 18,799 people and was built in 1965.",
-      "body": "Estádio Barão da Serra Negra is a multi-use stadium located in Piracicaba, Brazil. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Est%C3%A1dio_XV.jpg/330px-Est%C3%A1dio_XV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Bar%C3%A3o_da_Serra_Negra"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2006 —",
-      "hook": "Lebanon War: A ceasefire takes effect three days after the United Nations Security Council's approval of United Nations Security Council Resolution 1701, formally ending hostilities between Lebanon and Israel.",
-      "body": "The 2006 Lebanon War was a 34-day armed conflict in Lebanon, fought between Hezbollah and Israel. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tyre_air_strike.jpg/330px-Tyre_air_strike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2006_Lebanon_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Eventually, the organization played a role in the midterm elections of 2010.",
-      "body": "Organizing for America (OFA) is a community organizing project of the Democratic National Committee. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/OFA-logo-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Organizing_for_America"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1974 —",
-      "hook": "Turkey launches the second phase of the invasion of Cyprus, which eventually resulted in the Turkish occupation of 37% of Cyprus.",
-      "body": "Turkey invaded Cyprus on 20 July 1974 in an operation that progressed in two phases over the following month. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cyprus_1973_ethnic_en.svg/330px-Cyprus_1973_ethnic_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Turkish_invasion_of_Cyprus"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1885 —",
-      "hook": "Japan's first patent is issued to the inventor of a rust-proof paint.",
-      "body": "Japanese patent law is based on the first-to-file principle and is mainly given force by the Patent Act of Japan. One of those things you can't un-know.",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The 1925 University of Oxford election for the position of Chancellor was called upon the death of the incumbent Chancellor, George Curzon, 1st Marquess Curzon of Kedleston on 20 March 1925.",
+      "body": "Bring it up somewhere. Watch the reaction.",
       "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1925_University_of_Oxford_Chancellor_election"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Mian Ghulam Jilani also known as Kaka, Speen Dada, and Jilly, was a politician, businessman, and former two-star general in the Pakistan Army.",
+      "body": "As a British Indian Army officer during World War II, he survived a Japanese POW camp in Singapore. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/MG_Jilani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mian_Ghulam_Jilani"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2021 —",
+      "hook": "A magnitude 7.2 earthquake strikes southwestern Haiti, killing at least 2,248 people and causing a humanitarian crisis.",
+      "body": "At 08:29:09 EDT on 14 August 2021, a magnitude 7.2 earthquake struck the Tiburon Peninsula of southern Haiti. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haiti_Earthquake_10.jpg/330px-Haiti_Earthquake_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Japanese_patent_law"
+      "url": "https://en.wikipedia.org/wiki/2021_Haiti_earthquake"
     }
   ]
 }
