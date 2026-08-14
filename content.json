@@ -1,93 +1,45 @@
 {
-  "generated": "2026-08-14T21:13:14.816Z",
-  "count": 25,
+  "generated": "2026-08-14T22:09:19.952Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "A History of the Novel in Britain by Philip Hensher review – a masterpiece of criticism",
-      "body": "<p>This joyous book takes readers on a literary adventure across 300 years of fiction, from Defoe to Zadie Smith</p><p></p><p>In his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story i",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Stevie is a discontinued clone of the vi text editor.",
-      "body": "Stevie was written by Tim Thompson for the Atari ST. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Stevie_(text_editor)"
+      "cat": "history",
+      "opener": "On this day in 1936 —",
+      "hook": "Rainey Bethea is hanged in Owensboro, Kentucky in the last known public execution in the United States.",
+      "body": "Rainey Bethea, was the last person publicly executed in the United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/Rainey_Bethea.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Rainey_Bethea"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+      "opener": "Screen Daily —",
+      "hook": "Oscars best international feature 2027: Austria picks ‘Rose’, Switzerland selects ’Who Is Still Alive'",
+      "body": "Screen is profiling each contender on this page.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/oscars-best-international-feature-2027-austria-picks-rose-switzerland-selects-who-is-still-alive/5219330.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1784 —",
-      "hook": "Russian colonization of North America: Awa'uq Massacre: The Russian fur trader Grigory Shelikhov storms a Kodiak Island Alutiit refuge rock on Sitkalidak Island, killing 500+ Alutiit.",
-      "body": "Russian Colonization of North America describes colonies and territories claimed by the Russian Empire in the Pacific Coast region of North America from 1732 to 1867. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Russian-American_Company.svg/330px-Flag_of_Russian-American_Company.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1880 —",
+      "hook": "Construction of Cologne Cathedral, the most famous landmark in Cologne, Germany, is completed.",
+      "body": "Cologne Cathedral is a Catholic cathedral in Cologne, North Rhine-Westphalia. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Russian_colonization_of_North_America"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Aspergillus luchuensis is a species of fungus in the genus Aspergillus.",
-      "body": "It belongs to the group of black Aspergilli which are important industrial workhorses. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Aspergillus_luchuensis"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "\"Runaway Reptar\" is a TV movie initially released as the 24th and 25th episodes of the sixth season of the animated television series Rugrats, and the 118th and 119th episodes of the series overall.",
-      "body": "It originally aired on the television network Nickelodeon on November 27, 1999, and the plot follows the babies watching a Reptar movie and imagining themselves as part of the story. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Runaway_Reptar"
+      "url": "https://en.wikipedia.org/wiki/Cologne_Cathedral"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1900 —",
-      "hook": "Battle of Peking: The Eight-Nation Alliance occupies Beijing, China, in a campaign to end the bloody Boxer Rebellion in China.",
-      "body": "The Battle of Peking, or historically the Relief of Peking, was the battle fought on 14–15 August 1900 in Beijing, in which the Eight-Nation Alliance relieved the siege of the Peking Legation Quarter during the Boxer Rebellion. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_race_to_take_Peking_first.jpg/330px-The_race_to_take_Peking_first.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Peking_(1900)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Captain David Cheap was a Scottish Royal Navy officer.",
-      "body": "He is most known for being in command of HMS Wager when it was wrecked in May 1741 on the shores of Wager Island in Chilean Patagonia. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/David_Cheap%2C_Captain%2C_RN.png/330px-David_Cheap%2C_Captain%2C_RN.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "He was selected by the Steelers in the third round of the 1988 NFL draft after playing college football for the Notre Dame Fighting Irish.",
+      "body": "Charles Louis Lanza is an American former professional football player who was a center for two seasons with the Pittsburgh Steelers of the National Football League (NFL). The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/David_Cheap"
+      "url": "https://en.wikipedia.org/wiki/Chuck_Lanza"
     },
     {
       "type": "card",
@@ -100,73 +52,82 @@
     },
     {
       "type": "card",
-      "cat": "people",
-      "opener": "You probably never noticed this —",
-      "hook": "du min Moder, is one of the Swedish poet and performer Carl Michael Bellman's best-known and best-loved songs, from his 1790 collection, Fredman's Epistles, where it is No.",
-      "body": "Ack du min moder, originally written Ach! Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Epistel_23_Ach_du_min_Moder_s%C3%A4j_hvem_dig_s%C3%A4nde.jpg/330px-Epistel_23_Ach_du_min_Moder_s%C3%A4j_hvem_dig_s%C3%A4nde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ack_du_min_moder"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 2015 —",
-      "hook": "The U.S. Embassy in Havana, Cuba re-opens after 54 years of being closed when Cuba–United States relations were broken off.",
-      "body": "The Embassy of the United States of America in Havana is the United States of America's diplomatic mission in Cuba. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg/330px-U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Havana"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1183 —",
-      "hook": "Taira no Munemori and the Taira clan take the young Emperor Antoku and the three sacred treasures and flee to western Japan to escape pursuit by the Minamoto clan.",
-      "body": "Taira no Munemori was heir to Taira no Kiyomori, and one of the Taira clan's chief commanders in the Genpei War. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Taira_no_Munemori_Portrait_by_Fujiwara_Tamenobu_and_Takenobu.png/330px-Taira_no_Munemori_Portrait_by_Fujiwara_Tamenobu_and_Takenobu.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Taira_no_Munemori"
-    },
-    {
-      "type": "card",
-      "cat": "people",
-      "opener": "Bet you didn't know —",
-      "hook": "Jordan Chan Siu-chun is a Hong Kong actor, singer and dancer, known for starring in the Young and Dangerous film series and for his role in the 1998 TV adaptation of Louis Cha's novel, The Duke of Mount Deer.",
-      "body": "In recent years, he received renewed attention for his appearances in the Chinese reality shows Where Are We Going, Dad? The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jordan_Chan%2C_2019-4.png/330px-Jordan_Chan%2C_2019-4.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jordan_Chan"
-    },
-    {
-      "type": "card",
-      "cat": "people",
-      "opener": "File under 'wait, really?' —",
-      "hook": "He is best known for his lead role in Zee Marathi's Kahe Diya Pardes as Shivkumar Shukla.",
-      "body": "Rishi Saxena, is an Indian actor who primarily works in Marathi and Hindi television and films. Worth a quiet trip down the rabbit hole.",
+      "opener": "On this day in -70 —",
+      "hook": "Gaius Verres is found guilty of corruption after his defense lawyer Quintus Hortensius abandons the case as hopeless.",
+      "body": "Gaius Verres was a Roman magistrate, notorious for his misgovernment of Sicily. One of those things you can't un-know.",
       "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rishi_Saxena"
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Gaius_Verres"
     },
     {
       "type": "card",
-      "cat": "people",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "A History of the Novel in Britain by Philip Hensher review – a masterpiece of criticism",
+      "body": "<p>This joyous book takes readers on a literary adventure across 300 years of fiction, from Defoe to Zadie Smith</p><p></p><p>In his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story i",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Historically part of the Municipal Borough of Acton in the county of Middlesex, it has formed part of the London Borough of Ealing since 1965.",
-      "body": "North Acton is a part of Acton in west London, and is within the London Borough of Ealing. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/St.Gabriel.North.Acton.jpg/330px-St.Gabriel.North.Acton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Ram: Scion of Ikshvaku is a one to one replica of the events taking place before the epic tale \"Ramayana\" and also the fourth book of Amish Tripathi, fourth book of Amishverse, and first book of Ram Chandra Series.",
+      "body": "It was released on 22 June 2015. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/57/Scion_of_Ikshvaku_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/North_Acton"
+      "url": "https://en.wikipedia.org/wiki/Scion_of_Ikshvaku"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Myra Breckinridge is a 1968 satirical novel by Gore Vidal written in the form of a diary.",
+      "body": "Described by the critic Dennis Altman as \"part of a major cultural assault on the assumed norms of gender and sexuality which swept the western world in the late 1960s and early 1970s\", the book's major themes are feminism, transsexuality, American expressions",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/Myra_Breckinridge-Gore_Vidal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Myra_Breckinridge"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1816 —",
+      "hook": "The United Kingdom formally annexes the Tristan da Cunha archipelago, administering the islands from the Cape Colony in South Africa.",
+      "body": "Tristan da Cunha, colloquially known as Tristan, is a remote group of volcanic islands in the South Atlantic Ocean. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Tristan_da_Cunha.svg/330px-Flag_of_Tristan_da_Cunha.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Tristan_da_Cunha"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "It's Getting Later All the Time is a 2001 novel by the Italian writer Antonio Tabucchi.",
+      "body": "It has the form of an epistolary novel, and consists of letters from 17 men to former lovers, and a single letter with the response to all of them. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ef/It%27s_Getting_Later_All_the_Time.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/It's_Getting_Later_All_the_Time"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Obscure Cities, first published in English as, variously, Stories of the Fantastic and Cities of the Fantastic, is a bande dessinée series created by the Belgian artist François Schuiten and the French writer Benoît Peeters.",
+      "body": "First serialized in magazine format in 1982, the series has been published in album format by the Brussels-based publisher Casterman since 1983. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d0/Les_Cit%C3%A9s_Obscures-album_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Les_Cit%C3%A9s_obscures"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The gallery was the first to introduce abstract expressionism in France in the 1940s, exhibiting famous artists such as de Kooning, Picabia or Pollock.",
+      "body": "The Gallery of Montparnasse is a public contemporary art gallery in Paris, France. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rue_du_Montparnasse_%C3%A0_Paris_le_soir_-_P1440753.JPG/330px-Rue_du_Montparnasse_%C3%A0_Paris_le_soir_-_P1440753.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gallery_of_Montparnasse"
     },
     {
       "type": "card",
@@ -179,22 +140,22 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Innokenti Petrovich Gerasimov was a Soviet geographer and pedologist, professor, academician of the Soviet Academy of Sciences (1953).",
+      "body": "He was a creator of \"constructive geography\" – a new scientific direction, which was focused on the problems of conservation and using nature. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Innokenti_Gerasimov_1978.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Innokenti_Gerasimov"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
     },
     {
       "type": "card",
@@ -207,43 +168,42 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Liverpool and Manchester Railway (L&M) opened on 15 September 1830.",
-      "body": "Work on the L&M had begun in the 1820s, to connect the textile mills of the city of Manchester with the nearest deep water port at the Port of Liverpool, 35 miles (56 km) away. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Opening_of_the_Liverpool_and_Manchester_Railway.jpg/330px-Opening_of_the_Liverpool_and_Manchester_Railway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Boy from the North Country is the debut novel by Sam Sussman, published by Penguin Press in the United States on September 16, 2025, and by Grove Press in the United Kingdom on October 2, 2025.",
+      "body": "The autobiographical novel is based on Sussman’s Harper’s Magazine memoir, “The Silent Type: On (Possibly) Being Bob Dylan’s Son.” One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4a/Boy_From_the_North_Country.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opening_of_the_Liverpool_and_Manchester_Railway"
+      "url": "https://en.wikipedia.org/wiki/Boy_From_the_North_Country"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1848 —",
-      "hook": "Oregon Territory is organized by act of Congress.",
-      "body": "The Territory of Oregon was an organized incorporated territory of the United States that existed from August 14, 1848, until February 14, 1859, when the southwestern portion of the territory was admitted to the Union as the State of Oregon. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Oregon_Territory_1848.svg/330px-Oregon_Territory_1848.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1183 —",
+      "hook": "Taira no Munemori and the Taira clan take the young Emperor Antoku and the three sacred treasures and flee to western Japan to escape pursuit by the Minamoto clan.",
+      "body": "Taira no Munemori was heir to Taira no Kiyomori, and one of the Taira clan's chief commanders in the Genpei War. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Taira_no_Munemori_Portrait_by_Fujiwara_Tamenobu_and_Takenobu.png/330px-Taira_no_Munemori_Portrait_by_Fujiwara_Tamenobu_and_Takenobu.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Oregon_Territory"
-    },
-    {
-      "type": "card",
-      "cat": "people",
-      "opener": "Okay, this one's fun —",
-      "hook": "It aired on SBS TV from April 8 to May 28, 2022, every Friday and Saturday at 22:00 (KST).",
-      "body": "Again My Life is a 2022 South Korean television series starring Lee Joon-gi, Lee Geung-young, Kim Ji-eun and Jung Sang-hoon. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/91/Again_My_Life.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Again_My_Life"
+      "url": "https://en.wikipedia.org/wiki/Taira_no_Munemori"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "World War I: Start of the Battle of Lorraine, an unsuccessful French offensive.",
-      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1842 —",
+      "hook": "American Indian Wars: Second Seminole War ends, with the Seminoles forced from Florida.",
+      "body": "The American Indian Wars, also known as the American Frontier Wars, and the Indian Wars, were initially fought by European colonial empires, the United States, and briefly the Confederate States of America and Republic of Texas against various American Indian tribes in North America. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg/330px-U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_I"
+      "url": "https://en.wikipedia.org/wiki/American_Indian_Wars"
     }
   ]
 }
