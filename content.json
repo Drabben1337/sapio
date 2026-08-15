@@ -1,15 +1,36 @@
 {
-  "generated": "2026-08-15T21:09:14.883Z",
-  "count": 13,
+  "generated": "2026-08-15T22:06:11.240Z",
+  "count": 23,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Sadie Sink and Adam Driver to star in new X-Men movie",
-      "body": "Heartstopper's Kit Connor and Christopher Abbot are also joining the Marvel Cinematic Universe.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zndql7po?at_medium=RSS&at_campaign=rss"
+      "cat": "history",
+      "opener": "On this day in 718 —",
+      "hook": "Arab–Byzantine wars: The Arabs abandon the Second Arab Siege of Constantinople due to failure to secure enough supplies, defeat of their relief army by the Byzantines and an outbreak of plague in the camp.",
+      "body": "In 717–718, Constantinople, the capital of the Byzantine Empire, was besieged by the Muslim Arabs of the Umayyad Caliphate. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/47-cropped-manasses-chronicle.jpg/330px-47-cropped-manasses-chronicle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(717%E2%80%93718)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "County fair celebrations for Butte and Lawrence Counties have been held there annually since 1921.",
+      "body": "The Butte–Lawrence County Fairgrounds are a historic fairground complex located near Nisland, South Dakota, United States. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Butte%E2%80%93Lawrence_County_Fairgrounds"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "The 2025–26 Michigan Wolverines women's basketball team represented the University of Michigan during the 2025–26 NCAA Division I women's basketball season.",
+      "body": "The Wolverines were led by head coach Kim Barnes Arico in her fourteenth year, and played their home games at the Crisler Center in Ann Arbor, Michigan. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/330px-Michigan_Wolverines_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Michigan_Wolverines_women's_basketball_team"
     },
     {
       "type": "card",
@@ -22,23 +43,42 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Kirjatalo is a commercial building located on the corner of Pohjoisesplanadi and Keskuskatu in central Helsinki, Finland.",
-      "body": "It is notable for having been designed by Alvar Aalto. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pohjoisesplanadi_39%2C_Kirjapalatsi_%28Akateeminen_kirjakauppa%29_-_G27482_-_hkm.HKMS000005-km0000ndqe.jpg/330px-Pohjoisesplanadi_39%2C_Kirjapalatsi_%28Akateeminen_kirjakauppa%29_-_G27482_-_hkm.HKMS000005-km0000ndqe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kirjatalo"
+      "cat": "history",
+      "opener": "On this day in 1950 —",
+      "hook": "Measuring Mw 8.6, the largest earthquake on land occurs in the Assam-Tibet-Myanmar border, killing 4,800.",
+      "body": "Seismic magnitude scales are used to describe the overall strength or \"size\" of an earthquake. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Seismic_magnitude_scales"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "\"I Love Lisa\" is the fifteenth episode of the fourth season of the American animated television series The Simpsons.",
-      "body": "It originally aired on Fox in the United States on February 11, 1993. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/I_Love_Lisa_promo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/I_Love_Lisa"
+      "cat": "history",
+      "opener": "On this day in 1984 —",
+      "hook": "The Kurdistan Workers' Party in Turkey starts a campaign of armed attacks upon the Turkish Armed Forces with an attack on police and gendarmerie bases in Şemdinli and Eruh.",
+      "body": "The Kurdistan Workers' Party (PKK) is a Kurdish militant political organization and armed guerrilla group primarily based in the mountainous Kurdish-majority regions of southeastern Turkey, northern Iraq and north-eastern Syria. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Kurdistan_Workers%27_Party.svg/330px-Flag_of_Kurdistan_Workers%27_Party.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Kurdistan_Workers'_Party"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1971 —",
+      "hook": "President Richard Nixon completes the break from the gold standard by ending convertibility of the United States dollar into gold by foreign investors.",
+      "body": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Richard_Nixon"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Musification of the 2026 total solar eclipse",
+      "body": "Video: 00:05:08 [English] Experience a musical simulation of the 12 August 2026 total solar eclipse as seen from the Observatorio Astrofísico de Javalambre (Spain). Click here for information about ESA’s live broadcast from this observatory",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse"
     },
     {
       "type": "card",
@@ -52,35 +92,6 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-      "body": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Jean Mann JP was a Scottish Labour Party politician and a campaigner for better housing and planning.",
-      "body": "She was the third female Labour MP in Scotland. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Jean_Mann.jpg/330px-Jean_Mann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jean_Mann"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Swindon is a town in Wiltshire in the South West of England.",
-      "body": "People have lived in the town since the Bronze Age and the town's location, being approximately halfway between Bristol and London, made it an ideal location for the Locomotive Factories of the Great Western Railway in the 19th century. One of those things you",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Borough_of_swindon_-_historic_sites.png/330px-Borough_of_swindon_-_historic_sites.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/History_of_Swindon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "Borges and Me review – a sweetly imagined literary odyssey through the Highlands",
       "body": "<p><strong>Edinburgh film festival<br></strong>Luis Gnecco brings warmth, wit and quiet melancholy to Jorge Luis Borges in this gently enchanting adaptation of Jay Parini’s semi-fictional memoir</p><p>There is great sweetness and high-minde",
@@ -89,41 +100,130 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Secondhand book sales are booming. Is it because of AI?",
-      "body": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss"
+      "cat": "history",
+      "opener": "On this day in 1962 —",
+      "hook": "James Joseph Dresnok defects to North Korea after running across the Korean Demilitarized Zone. Dresnok died in 2016.",
+      "body": "James Joseph Dresnok was an American defector to North Korea, one of seven U.S. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/James_Joseph_Dresnok.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/James_Joseph_Dresnok"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "Musification of the 2026 total solar eclipse",
-      "body": "Video: 00:05:08 [English] Experience a musical simulation of the 12 August 2026 total solar eclipse as seen from the Observatorio Astrofísico de Javalambre (Spain). Click here for information about ESA’s live broadcast from this observatory",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse"
+      "opener": "BBC Entertainment —",
+      "hook": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+      "body": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "With a total length of 76 miles (122 km), there were 39 stations, stops and halts, the most prominent of which served Famagusta, Prastio Mesaoria, Angastina, Trachoni, Nicosia, Kokkinotrimithia, Morphou, Kalo Chorio and Evrychou.",
+      "body": "The Cyprus Government Railway (CGR) was a 2 ft 6 in narrow gauge railway network that operated in Cyprus from October 1905 to December 1951. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Map_of_Cyprus_Government_Railway.svg/330px-Map_of_Cyprus_Government_Railway.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cyprus_Government_Railway"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Sadie Sink and Adam Driver to star in new X-Men movie",
+      "body": "Heartstopper's Kit Connor and Christopher Abbot are also joining the Marvel Cinematic Universe.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zndql7po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Downright Dencey is a 1927 children's historical novel written by Caroline Dale Snedeker and illustrated by Maginel Wright Barney.",
+      "body": "The novel is set in Nantucket, Massachusetts during the immediate aftermath of the War of 1812. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/%22Downright_Dencey%22_first_edition_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Downright_Dencey"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Jawker Dhan is a Bengali action adventure film of 2017 directed by Sayantan Ghosal.",
+      "body": "This movie was based on the adventure story of Bimal-Kumar duos of Hemendra Kumar Roy in the same name. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Jawker_dhan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jawker_Dhan"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1863 —",
+      "hook": "The Anglo-Satsuma War begins between the Satsuma Domain of Japan and the United Kingdom (Traditional Japanese date: July 2, 1863).",
+      "body": "The Bombardment of Kagoshima, also known as the Anglo-Satsuma War , was a military engagement fought between Britain and the Satsuma Domain in Kagoshima from 15 to 17 August 1863. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bombardment_of_Kagoshima_1863_by_E._Roevens.jpg/330px-Bombardment_of_Kagoshima_1863_by_E._Roevens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bombardment_of_Kagoshima"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Lovely War is a young adult romance novel by Julie Berry, published March 5, 2019 by Viking Books for Young Readers.",
+      "body": "The book is a New York Times Bestseller and was well-received by critics. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/Lovely_War_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lovely_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Rachel Ray is an 1863 novel by Anthony Trollope.",
+      "body": "It recounts the story of a young woman who is forced to give up her fiancé because of baseless suspicions directed toward him by the members of her community, including her sister and the pastors of the two churches attended by her sister and mother. One of th",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rachel_Ray_1863_title_page.jpg/330px-Rachel_Ray_1863_title_page.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rachel_Ray_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Wirtschaftschule students are normally between 13 and 16 years of age and study a variety of traditional academic subjects, and receive training specifically geared towards a future career in business.",
+      "body": "The Wirtschaftsschule is one of different types of public school in the German Federal State of Bavaria. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wirtschaftsschule_(Bavaria)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
+      "body": "The Office actress thanks well-wishers for their support after she revealed she had incurable cancer.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Émile Bergerat was a French poet, playwright and essayist.",
-      "body": "He used the pseudonyms l'Homme masqué, Caliban and Ariel. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emile_Bergerat_portrait.jpg/330px-Emile_Bergerat_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Adventures of Buratino is a 1959 Soviet traditionally animated feature film directed by the \"patriarch of Russian animation\", Ivan Ivanov-Vano, along with Dmitriy Babichenko and Mikhail Botov.",
+      "body": "It was produced at the Soyuzmultfilm studio in Moscow and is based on Aleksey Nikolayevich Tolstoy’s The Golden Key, or Adventures of Buratino. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Adventuresofburatinodvd.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/%C3%89mile_Bergerat"
+      "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Buratino_(1959_film)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Little Black Book is a 2004 American satirical comedy-drama film directed by Nick Hurran and starring Brittany Murphy, Holly Hunter, Ron Livingston, Julianne Nicholson, and Kathy Bates.",
-      "body": "Carly Simon makes a cameo appearance at the end of the film. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/ce/Little_Black_Book_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It was added to the Queensland Heritage Register on 19 August 2016.",
+      "body": "Harristown State High School Buildings is a heritage-listed collection of state high school buildings at Harristown State High School at 341–367 South Street, Harristown, Toowoomba, Toowoomba Region, Queensland, Australia. One of those things you can't un-know",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/650037_Block_B%2C_north_side_%28flower_box_on_left%29%2C_looking_southwest.jpg/330px-650037_Block_B%2C_north_side_%28flower_box_on_left%29%2C_looking_southwest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Little_Black_Book_(film)"
+      "url": "https://en.wikipedia.org/wiki/Harristown_State_High_School_Buildings"
     }
   ]
 }
