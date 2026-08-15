@@ -1,25 +1,55 @@
 {
-  "generated": "2026-08-15T11:07:36.174Z",
-  "count": 19,
+  "generated": "2026-08-15T12:11:30.905Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The unrest in Shuya refers to riots that took place on 15 March 1922 in the city of Shuya in Soviet Russia in connection with the confiscation of valuables belonging to Orthodox churches, ordered by the Council of People's Commissars.",
+      "body": "The official purpose of the process was to sell the items and use the proceeds to combat famine in the Volga region. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Shuya_cathedral.jpg/330px-Shuya_cathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1922_unrest_in_Shuya"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1947 —",
-      "hook": "India gains independence from British rule after nearly 190 years of British company and crown rule and joins the Commonwealth of Nations.",
-      "body": "India, officially the Republic of India, is a country in South Asia. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/330px-Flag_of_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/India"
+      "opener": "File under 'wait, really?' —",
+      "hook": "Chovvakkaran Moosa was a wealthy Indian pepper merchant ' of southern India, who died in Thalassery in 1807.",
+      "body": "He is also known, more parochially, as 'Moosakakka Keyi'. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chovvakkaran_Moosa"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "I wish I had been a more rebellious teenager, says Bella Ramsey",
-      "body": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Film —",
+      "hook": "Post your questions for Robert Carlyle",
+      "body": "<p>Bond villain, Begbie, male stripper … the Trainspotting and Full Monty star has played everyone from Sherlock Holmes to Rumpelstiltskin. As his latest directorial project premieres in Edinburgh, he is here to answer your questions</p><p>",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/14/post-your-questions-for-robert-carlyle"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Nabīl, Nabeel, or Nabyl, rendered in some languages as Nebil, is a masculine given name of Arabic origin, meaning \"noble\".",
+      "body": "The feminine version is Nabila, Nabilah, Nabeela or Nabeelah. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nabil"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Bolling Hall is one of the oldest buildings in Bradford, West Yorkshire, England.",
+      "body": "It is currently used as a museum and education centre. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bolling_Hall%2C_Bradford.jpg/330px-Bolling_Hall%2C_Bradford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bolling_Hall%2C_Bradford"
     },
     {
       "type": "card",
@@ -29,35 +59,6 @@
       "body": "<p>More than four decades after his Holocaust story Maus transformed the graphic novel genre, Art Spiegelman discusses Trump, the shadow of 9/11 and the rise of fascism in America</p><p>When the cartoonist Art Spiegelman began dating his fu",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Man from London or The London Man is a 1943 French thriller film directed by Henri Decoin and starring Fernand Ledoux, Suzy Prim and Jules Berry.",
-      "body": "It is an adaptation of the novel of the same title by the Belgian writer Georges Simenon, which was later turned into the 1947 British film Temptation Harbour. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/03/The_Man_from_London_%281943_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Man_from_London_(1943_film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1948 —",
-      "hook": "The First Republic of Korea (South Korea) is established in the southern half of the peninsula.",
-      "body": "The First Republic of Korea, officially the Republic of Korea, was the government of South Korea from August 1948 to June 1960. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_South_Korea_%281949%E2%80%931984%29.svg/330px-Flag_of_South_Korea_%281949%E2%80%931984%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/First_Republic_of_Korea"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Beverly Hills Housewife by James Cahill review – a trip inside Hockney’s world",
-      "body": "<p>Muse Betty Freeman sits at the centre of this sun-drenched book about art, eccentricity, and the spirit of Los Angeles</p><p>David Hockney was 29 years old when he came to Betty Freeman’s house to photograph her swimming pool. Scouting l",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/14/the-beverly-hills-housewife-by-james-cahill-review-a-trip-inside-hockneys-world"
     },
     {
       "type": "card",
@@ -71,22 +72,12 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "Emperor Hirohito broadcasts his declaration of surrender following the effective surrender of Japan in World War II; Korea gains independence from the Empire of Japan.",
-      "body": "Emperor Shōwa, personal name Hirohito, was Emperor of Japan from 25 December 1926 until his death on 7 January 1989. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hirohito_in_dress_uniform_%28cropped%29.jpg/330px-Hirohito_in_dress_uniform_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hirohito"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Catch Me When I Fall (2005) is a psychological thriller novel by Nicci French, about a woman unknowingly afflicted with bipolar disorder, and how this sets her life on a spiral of self-destruction, as well as pitting her against a shadowy antagonist.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Catch_Me_When_I_Fall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "It is found in South Africa and is commonly known as the Northern Cape Lycosa wolf spider.",
+      "body": "Lycosa rimicola is a species of spider in the family Lycosidae. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Catch_Me_When_I_Fall"
+      "url": "https://en.wikipedia.org/wiki/Lycosa_rimicola"
     },
     {
       "type": "card",
@@ -99,63 +90,32 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2007 —",
-      "hook": "An 8.0-magnitude earthquake off the Pacific coast devastates Ica and various regions of Peru, killing 514 and injuring 1,090.",
-      "body": "The 2007 Peru earthquake, which measured 8.0 on the moment magnitude scale, hit the central coast of Peru on August 15 at 23:40:57 UTC and lasted two minutes. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/40_-_Tremblement_de_terre_-_Ao%C3%BBt_2007.JPG/330px-40_-_Tremblement_de_terre_-_Ao%C3%BBt_2007.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2007_Peru_earthquake"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "I wish I had been a more rebellious teenager, says Bella Ramsey",
+      "body": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Cross is an American crime thriller television series created by Ben Watkins, based on the Alex Cross novel series written by James Patterson.",
-      "body": "It stars Aldis Hodge, Isaiah Mustafa, and Juanita Jennings, and it premiered on Amazon Prime Video on November 14, 2024. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Cross_%28American_TV_series%29_Title_Card.png/330px-Cross_%28American_TV_series%29_Title_Card.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cross_(American_TV_series)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
       "opener": "File under 'wait, really?' —",
-      "hook": "Its classification is uncertain, it was originally described as a myriapod-like animal, and later considered related to the xiphosurans, or an artiopod.",
-      "body": "Maldybulakia is a genus of freshwater arthropod which lived during Late Silurian to Late Devonian. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Maldybulakia.png/330px-Maldybulakia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Oswald Hutton Parry was Bishop of Guyana from 1921 until 1936.",
+      "body": "Born into an eminent ecclesiastical family, he was educated at Charterhouse and Magdalen College, Oxford. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maldybulakia"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1684 —",
-      "hook": "Emperor Leopold I and French king Louis XIV agree to an armistice in the truce of Ratisbon.",
-      "body": "Leopold I was Holy Roman Emperor, King of Germany, King of Hungary, Croatia and Bohemia. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Benjamin_von_Block_001.jpg/330px-Benjamin_von_Block_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Leopold_I%2C_Holy_Roman_Emperor"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Mu Nianci (穆念慈), also known as Mercy Mu in the St.",
-      "body": "Martin's English translation, is a character in the wuxia novel The Legend of the Condor Heroes by Jin Yong. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/86/Mu_Nianci.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mu_Nianci"
+      "url": "https://en.wikipedia.org/wiki/Oswald_Parry"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Karoline Georges is a Canadian novelist and multidisciplinary artist from Quebec.",
-      "body": "Her work spans literature, visual arts, digital art, video and immersive installation. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karoline_Georges_%28SDLM_2017%29.jpg/330px-Karoline_Georges_%28SDLM_2017%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Woodland is a census-designated place (CDP) in the town of Baileyville, Washington County, Maine, United States.",
+      "body": "The population was 952 at the 2010 census. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Woodland%2C_Maine.jpg/330px-Woodland%2C_Maine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Karoline_Georges"
+      "url": "https://en.wikipedia.org/wiki/Woodland%2C_Washington_County%2C_Maine"
     },
     {
       "type": "card",
@@ -168,22 +128,12 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1971 —",
-      "hook": "President Richard Nixon completes the break from the gold standard by ending convertibility of the United States dollar into gold by foreign investors.",
-      "body": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Richard_Nixon"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Post your questions for Robert Carlyle",
-      "body": "<p>Bond villain, Begbie, male stripper … the Trainspotting and Full Monty star has played everyone from Sherlock Holmes to Rumpelstiltskin. As his latest directorial project premieres in Edinburgh, he is here to answer your questions</p><p>",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/14/post-your-questions-for-robert-carlyle"
+      "opener": "The Guardian · Books —",
+      "hook": "The Beverly Hills Housewife by James Cahill review – a trip inside Hockney’s world",
+      "body": "<p>Muse Betty Freeman sits at the centre of this sun-drenched book about art, eccentricity, and the spirit of Los Angeles</p><p>David Hockney was 29 years old when he came to Betty Freeman’s house to photograph her swimming pool. Scouting l",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/14/the-beverly-hills-housewife-by-james-cahill-review-a-trip-inside-hockneys-world"
     }
   ]
 }
