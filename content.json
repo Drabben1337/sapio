@@ -1,24 +1,16 @@
 {
-  "generated": "2026-08-15T00:26:44.485Z",
-  "count": 18,
+  "generated": "2026-08-15T02:06:04.282Z",
+  "count": 23,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Oscars best international feature 2027: Austria picks ‘Rose’, Switzerland selects ’Who Is Still Alive'",
-      "body": "Screen is profiling each contender on this page.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/oscars-best-international-feature-2027-austria-picks-rose-switzerland-selects-who-is-still-alive/5219330.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+      "cat": "history",
+      "opener": "On this day in 1899 —",
+      "hook": "Fratton Park football ground in Portsmouth, England is officially first opened.",
+      "body": "Fratton Park is a football ground in Portsmouth, Hampshire, and is the home of Portsmouth Football Club. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fratton_Park.jpg/330px-Fratton_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Fratton_Park"
     },
     {
       "type": "card",
@@ -31,43 +23,62 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1209 —",
-      "hook": "Albigensian Crusade: The Cathar stronghold of Carcassonne falls to the crusaders.",
-      "body": "The Albigensian Crusade, also known as the Cathar Crusade (1209–1229), was a military and ideological campaign initiated by Pope Innocent III to eliminate Catharism in Languedoc, what is now southern France. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Le_massacre_des_Albigeois.jpg/330px-Le_massacre_des_Albigeois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Albigensian_Crusade"
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "In publishing, a slush pile is a set of unsolicited query letters or manuscripts that have either been directly sent to a publisher or literary agent by an author, or which have been delivered via a literary agent representing the author who may or may not be familiar to the publisher.",
+      "body": "The responsibility of sifting through slush piles is usually reserved either to an editor's assistants or to outside contractors called publisher's readers or \"first readers\". One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slush_pile"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1939 —",
-      "hook": "The Wizard of Oz premieres at Grauman's Chinese Theater in Los Angeles, California.",
-      "body": "The Wizard of Oz is a 1939 American musical fantasy film produced by Metro-Goldwyn-Mayer. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wizard_of_oz_movie_poster.jpg/330px-Wizard_of_oz_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 747 —",
+      "hook": "Carloman, mayor of the palace of Austrasia, renounces his position as majordomo and retires to a monastery near Rome. His brother, Pepin the Short, becomes the sole ruler (de facto) of the Frankish Kingdom.",
+      "body": "Year 747 (DCCXLVII) was a common year starting on Sunday of the Julian calendar. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz"
+      "url": "https://en.wikipedia.org/wiki/AD_747"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: Operation Dragoon: Allied forces land in southern France.",
+      "body": "Operation Dragoon, known as Débarquement de Provence in French, was the code name for the landing operation of the Allied invasion of Provence on 15 August 1944. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Operation_Dragoon_invasion_fleet_1944.jpg/330px-Operation_Dragoon_invasion_fleet_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Operation_Dragoon"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Passport is a novel by Herta Müller, published in German in 1986.",
-      "body": "The German title refers to a saying in Romania. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Der_Mensch_ist_ein_gro%C3%9Fer_Fasan_auf_der_Welt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Johns Hopkins University School of Nursing is the nursing school of Johns Hopkins University, a private research university in Baltimore, Maryland.",
+      "body": "Established in 1889, it is one of the nation's oldest schools for nursing education. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Passport_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Johns_Hopkins_School_of_Nursing"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "A servant of American architect, Frank Lloyd Wright, sets fire to the living quarters of Wright's Wisconsin home, Taliesin, and murders seven people there.",
-      "body": "An architect is a person who plans, designs, and oversees the construction of buildings. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Architect.png/330px-Architect.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Architect"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Oscars best international feature 2027: Austria picks ‘Rose’, Switzerland selects ’Who Is Still Alive'",
+      "body": "Screen is profiling each contender on this page.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/oscars-best-international-feature-2027-austria-picks-rose-switzerland-selects-who-is-still-alive/5219330.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Sherman Augustus is an American actor, martial artist and former NFL player.",
+      "body": "He is best known for his roles as Nathaniel Moon in the AMC series Into the Badlands and Lt. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sherman_Augustus_on_Third_Person.jpg/330px-Sherman_Augustus_on_Third_Person.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sherman_Augustus"
     },
     {
       "type": "card",
@@ -77,64 +88,6 @@
       "body": "<p>This joyous book takes readers on a literary adventure across 300 years of fiction, from Defoe to Zadie Smith</p><p></p><p>In his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story i",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Boissière is a 1937 French war drama film directed by Fernand Rivers and starring Andrée Spinelly, Pierre Renoir and Suzanne Desprès.",
-      "body": "It is an adaptation of the 1935 novel of the same title by Pierre Benoit. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/ee/Boissi%C3%A8re_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Boissi%C3%A8re_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Lost World: Jurassic Park is a 1997 American science fiction action film directed by Steven Spielberg from a screenplay by David Koepp.",
-      "body": "It is the second film in the Jurassic Park franchise and the original Jurassic Park trilogy, and is loosely based on Michael Crichton's 1995 novel The Lost World. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cc/The_Lost_World_%E2%80%93_Jurassic_Park_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Lost_World%3A_Jurassic_Park"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1998 —",
-      "hook": "Northern Ireland: Omagh bombing takes place; 29 people (including a woman pregnant with twins) killed and some 220 others injured.",
-      "body": "Northern Ireland is a part of the United Kingdom in the north-east of the island of Ireland. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Northern_Ireland_in_the_UK_and_Europe.svg/330px-Northern_Ireland_in_the_UK_and_Europe.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Northern_Ireland"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1645 —",
-      "hook": "A Royalist army under the Marquess of Montrose defeats a Covenanter army in the battle of Kilsyth.",
-      "body": "James Graham, 1st Marquess of Montrose was a Scottish nobleman, poet, soldier and later viceroy and captain general of Scotland. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1st_Marquess_of_Montrose.jpg/330px-1st_Marquess_of_Montrose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/James_Graham%2C_1st_Marquess_of_Montrose"
     },
     {
       "type": "card",
@@ -148,32 +101,129 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1977 —",
-      "hook": "The Big Ear, a radio telescope operated by Ohio State University as part of the SETI project, receives a radio signal from deep space; the event is named the \"Wow! signal\" from the notation made by a volunteer on the project.",
-      "body": "The Ohio State University Radio Observatory was a Kraus-type radio telescope located on the grounds of the Perkins Observatory at Ohio Wesleyan University in Delaware, Ohio from 1963 to 1998. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wow_signal_profile.png/330px-Wow_signal_profile.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "He was born in a Marathi Chitpawan Brahmin family and belonged to the Social Service League.",
+      "body": "Gangadhar Nilkanth Sahasrabuddhe was an Indian social activist from Maharashtra. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gangadhar_Nilkanth_Sahasrabuddhe"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Gods Without Men is Hari Kunzru's fourth novel, first published in 2011.",
+      "body": "The title is a quotation from Honoré de Balzac. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/12/Gods_Without_Men.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gods_Without_Men"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1038 —",
+      "hook": "King Stephen I, the first king of Hungary, dies; his nephew, Peter Orseolo, succeeds him.",
+      "body": "Stephen I, also known as King Saint Stephen, was the last grand prince of the Hungarians between 997 and 1000 or 1001, and the first king of Hungary from 1000 or 1001 until his death in 1038. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Portrayal_of_Stephen_I%2C_King_of_Hungary_on_the_coronation_pall.jpg/330px-Portrayal_of_Stephen_I%2C_King_of_Hungary_on_the_coronation_pall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ohio_State_University_Radio_Observatory"
+      "url": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1969 —",
+      "hook": "The Woodstock Music & Art Fair opens in Bethel, New York, featuring some of the top rock musicians of the era.",
+      "body": "The Woodstock Music and Art Fair, commonly referred to as Woodstock, was a music festival held from August 15 to 18, 1969, on Max Yasgur's dairy farm in Bethel, New York, 60 miles (95 km) southwest of the town of Woodstock. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Woodstock_poster.jpg/330px-Woodstock_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Woodstock"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Monique Ilboudo is an author and human rights activist from Burkina Faso.",
-      "body": "As of 2012, she was Ambassador Extraordinary and Plenipotentiary of Burkina Faso to the Nordic and Baltic countries. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Monique_Ilboudo_in_Latvia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Val-Dieu Apocalypse is a richly illuminated medieval manuscript of the Book of Revelation, produced in the 1320s in Normandy, likely in the Cotentin region, possibly in or near the city of Coutances, as suggested by heraldic evidence within the book.",
+      "body": "It is now in the British Library in London, as Additional MS 17333. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Val-Dieu_Apocalypse%2C_f._34v.jpg/330px-Val-Dieu_Apocalypse%2C_f._34v.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Monique_Ilboudo"
+      "url": "https://en.wikipedia.org/wiki/Val-Dieu_Apocalypse"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Ashes, Ashes is a science fiction novel written by René Barjavel, set in 2052 France.",
-      "body": "It was first published in 1943 by Denoël. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ren%C3%A9_Barjavel_-_Ravage_%281943%29_-_first_edition.jpg/330px-Ren%C3%A9_Barjavel_-_Ravage_%281943%29_-_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ashes%2C_Ashes"
+      "cat": "history",
+      "opener": "On this day in 1947 —",
+      "hook": "India gains independence from British rule after nearly 190 years of British company and crown rule and joins the Commonwealth of Nations.",
+      "body": "India, officially the Republic of India, is a country in South Asia. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/330px-Flag_of_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/India"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
     }
   ]
 }
