@@ -1,101 +1,35 @@
 {
-  "generated": "2026-08-15T05:13:35.487Z",
-  "count": 13,
+  "generated": "2026-08-15T06:15:30.228Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "I wish I had been a more rebellious teenager, says Bella Ramsey",
-      "body": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
+      "hook": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "body": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Oscars best international feature 2027: Austria picks ‘Rose’, Switzerland selects ’Who Is Still Alive'",
-      "body": "Screen is profiling each contender on this page.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/oscars-best-international-feature-2027-austria-picks-rose-switzerland-selects-who-is-still-alive/5219330.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Trety Island or Treti Island is a relatively large island in the western shores of the Shelikhov Bay, at the northern end of the Sea of Okhotsk.",
-      "body": "It is located 4 km to the south of a peninsula that encloses a small bay in an area that is largely uninhabited. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Trety_Island"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Paramount claims merger has satisfied all regulators, would close “today” but for state AGs",
-      "body": "“This transaction is lawful, pro-competitive and raises no antitrust concerns.”",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/paramount-claims-merger-has-satisfied-all-regulators-would-close-today-but-for-state-ags/5219425.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Triplets are a pop rock band that crossed over musical boundaries from the U.S through Latin America.",
-      "body": "Composed of the triplets Diana, Sylvia, and Vicky Villegas of an American mother and a Mexican father, the group recorded in both English and Spanish. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Triplets_(band)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
-      "cat": "books",
+      "cat": "history",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "The September 11 Photo Project was a not-for-profit community based photo project in response to the September 11 attacks and their aftermath.",
-      "body": "The Project was founded in New York City by Michael Feldschuh, a former Wall Street professional and an amateur photographer, and James Austin Murray, a New York City firefighter and 9/11 responder who also ran a gallery in lower Manhattan. One of those things",
-      "img": null,
+      "hook": "The standard is maintained and supported by Profibus & Profinet International, an umbrella organization headquartered in Karlsruhe, Germany.",
+      "body": "Profinet is an industry technical standard for data communication over Industrial Ethernet, designed for collecting data from, and controlling equipment in industrial systems, with a particular strength in delivering data under tight time constraints. Worth a ",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PROFINET_rgb_2020.png/330px-PROFINET_rgb_2020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/September_11_Photo_Project"
+      "url": "https://en.wikipedia.org/wiki/Profinet"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "1921 was the 28th season of County Championship cricket in England.",
-      "body": "Australia emphasised a post-war superiority that it owed in particular to the pace duo of Gregory and McDonald. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1921_English_cricket_season"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "A knowledge organization is a management idea, describing an organization in which people use systems and processes to generate, transform, manage, use, and transfer knowledge-based products and services to achieve organizational goals.",
-      "body": "The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Knowledge_organization_(management)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+      "cat": "history",
+      "opener": "On this day in 1209 —",
+      "hook": "Albigensian Crusade: The Cathar stronghold of Carcassonne falls to the crusaders.",
+      "body": "The Albigensian Crusade, also known as the Cathar Crusade (1209–1229), was a military and ideological campaign initiated by Pope Innocent III to eliminate Catharism in Languedoc, what is now southern France. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Le_massacre_des_Albigeois.jpg/330px-Le_massacre_des_Albigeois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Albigensian_Crusade"
     },
     {
       "type": "card",
@@ -108,6 +42,92 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 982 —",
+      "hook": "Holy Roman Emperor Otto II is defeated by the Saracens in the Battle of Capo Colonna, in Calabria.",
+      "body": "The Holy Roman Emperor, originally and officially the Emperor of the Romans during the Middle Ages, and also known as the Roman-German Emperor since the early modern period, was the ruler and head of state of the Holy Roman Empire. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hans_Burgkmair_d._%C3%84._005.jpg/330px-Hans_Burgkmair_d._%C3%84._005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Holy_Roman_Emperor"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Oscars best international feature 2027: Austria picks ‘Rose’, Switzerland selects ’Who Is Still Alive'",
+      "body": "Screen is profiling each contender on this page.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/oscars-best-international-feature-2027-austria-picks-rose-switzerland-selects-who-is-still-alive/5219330.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Stephen Bear jailed over sex offender breaches",
+      "body": "The TV personality posted in Brazil \"the police will not be able to catch\" him, a court hears.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "A red diaper baby is a child of parents who were members of the Communist Party USA (CPUSA) or the Communist Party of Canada, or were close to the party or sympathetic to its aims.",
+      "body": "The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Red_diaper_baby"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 636 —",
+      "hook": "Arab–Byzantine wars: The Battle of Yarmouk between the Byzantine Empire and the Rashidun Caliphate begins.",
+      "body": "The Arab–Byzantine wars or Muslim–Byzantine wars were a series of wars from the 7th to 11th centuries between the successive Islamic caliphates and the Byzantine Empire. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/330px-Greekfire-madridskylitzes1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Paramount claims merger has satisfied all regulators, would close “today” but for state AGs",
+      "body": "“This transaction is lawful, pro-competitive and raises no antitrust concerns.”",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/paramount-claims-merger-has-satisfied-all-regulators-would-close-today-but-for-state-ags/5219425.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1534 —",
+      "hook": "Ignatius of Loyola and six classmates take initial vows, leading to the creation of the Society of Jesus in September 1540.",
+      "body": "Ignatius of Loyola, venerated as Saint Ignatius of Loyola, was a Spanish Basque Catholic priest and theologian, who, with six companions, founded the religious order of the Society of Jesus (Jesuits), and became its first Superior General, in Paris in 1541. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ignatius_Loyola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ignatius_of_Loyola"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "I wish I had been a more rebellious teenager, says Bella Ramsey",
+      "body": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Ranafast or Rinnafarset, officially only known by its Irish name Rann na Feirste, is a Gaeltacht village and townland in the Rosses district in the west of County Donegal in Ulster, the northern province in Ireland.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rinnafarset_area_-_Homes_-_geograph.org.uk_-_1174925.jpg/330px-Rinnafarset_area_-_Homes_-_geograph.org.uk_-_1174925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ranafast"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
@@ -117,13 +137,53 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "They compete in the Serbian League Vojvodina, the third tier of the national league system.",
-      "body": "FK Omladinac Novi Banovci is a football club based in Novi Banovci, Vojvodina, Serbia. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/FK_Omladinac_Novi_Banovci_crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Baker's Hawk is a 1976 American Western film directed by Lyman D.",
+      "body": "Dayton and starring Clint Walker, Burl Ives, Diane Baker, Lee H. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/Baker%27s_Hawk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/FK_Omladinac_Novi_Banovci"
+      "url": "https://en.wikipedia.org/wiki/Baker's_Hawk"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1185 —",
+      "hook": "The cave city of Vardzia is consecrated by Queen Tamar of Georgia.",
+      "body": "Vardzia is a cave monastery site in southern Georgia, excavated from the slopes of the Erusheti Mountain on the left bank of the Kura River, thirty kilometres from Aspindza. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025-05-25_Vardzia_9.jpg/330px-2025-05-25_Vardzia_9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Vardzia"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Marcia Ann Southwick is an American poet and University instructor of Creative writing who has received numerous awards and honors for her poetry and teaching.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marcia_Southwick"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 778 —",
+      "hook": "The Battle of Roncevaux Pass takes place between the army of Charlemagne and a Basque army.",
+      "body": "The Battle of Roncevaux Pass in 778 saw a large force of Basques ambush a part of Charlemagne's army in Roncevaux Pass, a high mountain pass in the Pyrenees on the present border between France and Spain, after his invasion of the Iberian Peninsula. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Batalla.roncesvalles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Roncevaux_Pass"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Liberty is a Ukrainian political party registered in 2010.",
+      "body": "In April 2017 it announced about merging with Movement of New Forces. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liberty_(political_party)"
     }
   ]
 }
