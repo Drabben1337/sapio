@@ -2,6 +2,16 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "I wish I had been a more rebellious teenager, says Bella Ramsey",
+    "body": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
+    "_t": 1786764454309
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "Screen Daily —",
     "hook": "Paramount claims merger has satisfied all regulators, would close “today” but for state AGs",
     "body": "“This transaction is lawful, pro-competitive and raises no antitrust concerns.”",
@@ -588,15 +598,5 @@
     "src": "The Guardian · Books",
     "url": "https://www.theguardian.com/books/2026/aug/11/you-wont-get-free-of-it-by-rachel-aviv-review-a-subtle-study-of-the-mother-daughter-bond",
     "_t": 1786650513156
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "BBC Entertainment —",
-    "hook": "Bonnie Tyler's classic hit spiked in streams during solar eclipse",
-    "body": "Bonnie Tyler's friend Mal Pope heard Total Eclipse of the Heart playing throughout Mumbles in Swansea.",
-    "src": "BBC Entertainment",
-    "url": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo?at_medium=RSS&at_campaign=rss",
-    "_t": 1786646606980
   }
 ]
