@@ -1,7 +1,75 @@
 {
-  "generated": "2026-08-16T04:23:11.451Z",
-  "count": 14,
+  "generated": "2026-08-16T05:16:40.405Z",
+  "count": 17,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Miguel de Vasconcelos e Brito was a Portuguese politician who served as the Secretary of State of the Kingdom of Portugal in the final years of the Iberian Union.",
+      "body": "He was assassinated during the Portuguese revolt of 1640. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Miguel_de_Vasconcellos_%28Diario_Illustrado%2C_1890%29.png/330px-Miguel_de_Vasconcellos_%28Diario_Illustrado%2C_1890%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Miguel_de_Vasconcelos"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Borges and Me review – a sweetly imagined literary odyssey through the Highlands",
+      "body": "<p><strong>Edinburgh film festival<br></strong>Luis Gnecco brings warmth, wit and quiet melancholy to Jorge Luis Borges in this gently enchanting adaptation of Jay Parini’s semi-fictional memoir</p><p>There is great sweetness and high-minde",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/15/borges-and-me-review-alan-cumming-fionn-whitehead"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1933 —",
+      "hook": "Christie Pits riot takes place in Toronto, Ontario.",
+      "body": "The Christie Pits riot occurred on 16 August 1933 at the Christie Pits playground in Toronto, Ontario, Canada. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Christie_Pits_riot.jpg/330px-Christie_Pits_riot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Christie_Pits_riot"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1792 —",
+      "hook": "Maximilien Robespierre presents the petition of the Commune of Paris to the Legislative Assembly, which demanded the formation of a revolutionary tribunal.",
+      "body": "Maximilien François Marie Isidore de Robespierre was a French lawyer and statesman, widely recognised as one of the most influential figures of the French Revolution. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Robespierre.jpg/330px-Robespierre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Maximilien_Robespierre"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1960 —",
+      "hook": "Cyprus gains its independence from the United Kingdom.",
+      "body": "Cyprus, officially the Republic of Cyprus, is an island country in the eastern Mediterranean Sea, located off the coast of the Levant mainland in West Asia. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/330px-Flag_of_Cyprus.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cyprus"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Agriculture and Agri-Food Canada is the department of the Government of Canada responsible for the federal regulation of agriculture, including policies governing the production, processing, and marketing of all farm, food, and agri-based products.",
+      "body": "Agriculture in Canada is a shared jurisdiction and the department works with the provinces and territories in the development and delivery of policies and programs. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agriculture_and_Agri-Food_Canada"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Rebecca Perry: ‘Lorca hit me like a bolt of lightning’",
+      "body": "<p>The poet and novelist on the power of fairytales, being inspired by Frank O’Hara and the joys of Doris Lessing</p><p><strong>My earliest reading memory</strong><br> Reading On the Ning Nang Nong by Spike Milligan, aged five or so, sittin",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/14/rebecca-perry-lorca-hit-me-like-a-bolt-of-lightning"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,23 +81,13 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Kripalu Center for Yoga & Health is a nonprofit organization that operates a health and yoga retreat in Stockbridge, Massachusetts.",
-      "body": "Its 160,000-square-foot (15,000 m2) facility is a former Jesuit novitiate and juniorate seminary built in 1957. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kripalu.jpg/330px-Kripalu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kripalu_Center"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The term PAF is used to refer not only to the festival itself, but also to the individual cultural performances that constitute the festival.",
-      "body": "The Performing Arts Festival, abbreviated as PAF, is the biggest inter-hostel cultural competition in the Indian Institute of Technology Bombay located at Powai in Mumbai (India). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/PAF--dastak.JPG/330px-PAF--dastak.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Performing_Arts_Festival"
+      "opener": "On this day in 1513 —",
+      "hook": "Battle of the Spurs (Battle of Guinegate): King Henry VIII of England and his Imperial allies defeat French forces who are then forced to retreat.",
+      "body": "The Battle of the Spurs or (Second) Battle of Guinegate took place on 16 August 1513. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Georg_Lemberger%2C_Battle_of_Guinegate_%281513%29%2C_Triumphzug_Kaiser_Maximilians.jpg/330px-Georg_Lemberger%2C_Battle_of_Guinegate_%281513%29%2C_Triumphzug_Kaiser_Maximilians.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Spurs"
     },
     {
       "type": "card",
@@ -43,41 +101,41 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Rebecca Perry: ‘Lorca hit me like a bolt of lightning’",
-      "body": "<p>The poet and novelist on the power of fairytales, being inspired by Frank O’Hara and the joys of Doris Lessing</p><p><strong>My earliest reading memory</strong><br> Reading On the Ning Nang Nong by Spike Milligan, aged five or so, sittin",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/14/rebecca-perry-lorca-hit-me-like-a-bolt-of-lightning"
+      "opener": "New Scientist —",
+      "hook": "How bad is the UK drought and how long will it continue?",
+      "body": "Almost three-quarters of England is now in drought conditions, resulting in restrictions on water use in many areas and severe wildfires – here's how it's affecting farming, wildlife and trees",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584619-how-bad-is-the-uk-drought-and-how-long-will-it-continue/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "It lies to the west of the Long Mynd and the nearest town is Bishop's Castle.",
-      "body": "Norbury is a small village and civil parish in Shropshire, England. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Church_of_All_Saints%2C_Norbury.jpg/330px-Church_of_All_Saints%2C_Norbury.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Norbury%2C_Shropshire"
+      "opener": "On this day in 1859 —",
+      "hook": "The Grand Duchy of Tuscany formally deposes the exiled House of Lorraine.",
+      "body": "The Grand Duchy of Tuscany was an Italian monarchy located in Central Italy that existed, with interruptions, from 1569 to 1860, replacing the Republic of Florence. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_the_Grand_Duchy_of_Tuscany_%28Medici_period%29.svg/330px-Flag_of_the_Grand_Duchy_of_Tuscany_%28Medici_period%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Tuscany"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1837 —",
+      "hook": "Three African soldiers in the 1st West India Regiment – Daaga, Edward Coffin and Maurice Ogston – are executed for their role in the St. Joseph Mutiny in the British colony of Trinidad.",
+      "body": "The West India Regiments (WIR) were a group of line infantry regiments of the British Army raised and normally stationed in the British West Indies between 1795 and 1927. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/8thWIR.jpg/330px-8thWIR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/West_India_Regiments"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "The Clay Sanskrit Library is a series of books published by New York University Press and the JJC Foundation.",
-      "body": "Each work features the text in its original language on the left-hand page, with its English translation on the right. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d2/Shakuntala_Front_Cover.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Mister X are a Belarusian street punk band formed in Grodno, West Belarus, in 2003 by Igor Bancer and Boris of Oi!",
+      "body": "They openly identify as SHARP and belong to the small, but healthy and growing anti-racist skinhead scene in Belarus. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Mister_X_live_in_Minsk_%2806.03.2020%29.png/330px-Mister_X_live_in_Minsk_%2806.03.2020%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Clay_Sanskrit_Library"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Thai Ullam is a 1952 Indian Tamil-language film directed by K.",
-      "body": "Ganesh, the film has music composed by Nagayya and A. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/31/Thai_Ullam_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Thai_Ullam"
+      "url": "https://en.wikipedia.org/wiki/Mister_X_(band)"
     },
     {
       "type": "card",
@@ -90,22 +148,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "How bad is the UK drought and how long will it continue?",
-      "body": "Almost three-quarters of England is now in drought conditions, resulting in restrictions on water use in many areas and severe wildfires – here's how it's affecting farming, wildlife and trees",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584619-how-bad-is-the-uk-drought-and-how-long-will-it-continue/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Legionville was the first formal basic training facility for the military of the United States.",
-      "body": "The camp, which was established in winter 1792 under the command of Major General Anthony Wayne, was near present-day Baden, Pennsylvania, a suburb of Pittsburgh. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Fields_at_Legionville.jpg/330px-Fields_at_Legionville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "You probably never noticed this —",
+      "hook": "Valpy Fitzgerald is a British development economist and emeritus professor of International Development Finance at the Oxford Department of International Development.",
+      "body": "His research focus has been on international finance and taxation, income inequality, Kaleckian macroeconomics, and Latin America. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Legionville"
+      "url": "https://en.wikipedia.org/wiki/Valpy_FitzGerald"
     },
     {
       "type": "card",
@@ -115,25 +164,6 @@
       "body": "The Office actress thanks well-wishers for their support after she revealed she had incurable cancer.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Nuclear ethics is a cross-disciplinary field of academic and policy-relevant study in which the problems associated with nuclear warfare, nuclear deterrence, nuclear arms control, nuclear disarmament, or nuclear energy are examined through one or more ethical or moral theories or frameworks.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Trinity_shot_color.jpg/330px-Trinity_shot_color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nuclear_ethics"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Borges and Me review – a sweetly imagined literary odyssey through the Highlands",
-      "body": "<p><strong>Edinburgh film festival<br></strong>Luis Gnecco brings warmth, wit and quiet melancholy to Jorge Luis Borges in this gently enchanting adaptation of Jay Parini’s semi-fictional memoir</p><p>There is great sweetness and high-minde",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/15/borges-and-me-review-alan-cumming-fionn-whitehead"
     }
   ]
 }
