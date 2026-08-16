@@ -1,16 +1,121 @@
 {
-  "generated": "2026-08-16T19:11:08.554Z",
-  "count": 23,
+  "generated": "2026-08-16T20:06:29.496Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "How the mob took Hollywood: the story of organized crime and the movies",
+      "body": "<p>Hollywood Crime Story: The Mob Takes Over the Movies looks back at how criminals insinuated themselves in the film business</p><p>“From the foundation of Hollywood, organized crime is there.” So claims Tom Patterson, producer and directo",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/14/hollywood-crime-story-mob"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Alien: Isolation 2 – another strong female protagonist stalked in a terrifying new world",
+      "body": "<p>Creative Assembly could strike gold again with this follow-up to their fan-favourite, film-inspired game … if you’re brave enough to venture outdoors</p><p>A<a href=\"https://www.theguardian.com/technology/2014/oct/03/alien-isolation-revi",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/games/2026/aug/14/alien-isolation-2"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1513 —",
+      "hook": "Battle of the Spurs (Battle of Guinegate): King Henry VIII of England and his Imperial allies defeat French forces who are then forced to retreat.",
+      "body": "The Battle of the Spurs or (Second) Battle of Guinegate took place on 16 August 1513. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Georg_Lemberger%2C_Battle_of_Guinegate_%281513%29%2C_Triumphzug_Kaiser_Maximilians.jpg/330px-Georg_Lemberger%2C_Battle_of_Guinegate_%281513%29%2C_Triumphzug_Kaiser_Maximilians.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Spurs"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Beast is a 1975 French erotic horror film written, edited, and directed by Walerian Borowczyk.",
-      "body": "The film was noted for its explicit sexual content, including teratophilia, upon its initial release. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/01/La_b%C3%AAte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Flying Fox Pass is a locality in the Barren Grounds Nature Reserve in New South Wales, Australia, overlooking the Kangaroo Valley.",
+      "body": "It is the site of a former flying fox cablecar which lifted valuable timber from the valley to be transported by road and rail systems. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/La_B%C3%AAte_(film)"
+      "url": "https://en.wikipedia.org/wiki/Flying_Fox_Pass"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I’ve never done anything like this in my life’: Marina Abramović on making art with balloons",
+      "body": "<p>The artist’s latest swerve sees her creating an alien inflatable landscape for New York’s Balloon Museum</p><p>Oversized inflatable blades of grass graze my face as I wind a path through the glowing white gallery space. Little papery squ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/14/marina-abramovic-balloon-museum-show-interview"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘We get 200 tourists a day’: when your house becomes a TV star",
+      "body": "<p>What’s it like to live on the set of a soap opera? Or above Ted Lasso’s favourite pub? The residents of the homes made famous by hit TV shows tell all</p><p>Half the world recognises the apartment that Carrie Bradshaw lives in.",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/14/famous-tv-show-homes-real-residents-ted-lasso-sopranos"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1550 —",
+      "hook": "Rabbi Moses Isserles issues his ruling in the Bragadin-Giustiniani dispute, one of the earliest instances of a copyright suit over any book.",
+      "body": "Moses Isserles, also known by the acronym Rema, was an eminent Polish Ashkenazi rabbi, talmudist, and posek. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Postcard_portrait_of_Moses_Isserles_by_Meir_Kunstadt%2C_early_1900s_%28cropped%29.jpg/330px-Postcard_portrait_of_Moses_Isserles_by_Meir_Kunstadt%2C_early_1900s_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Moses_Isserles"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Locust Grove is an unincorporated community in eastern Orange County, Virginia, United States.",
+      "body": "Its ZIP code is 22508, the population of the ZIP Code Tabulation Area was 14,748 at the time of the 2020 census making it the largest population center within the county. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Germanna_Visitor_Center.JPG/330px-Germanna_Visitor_Center.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Locust_Grove%2C_Virginia"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "The Battle of Lake Baikal is fought between the Czechoslovak Legion and the Red Army.",
+      "body": "The Battle of Lake Baikal was a naval battle undertaken by Czechoslovak forces during the Russian Civil War. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Trailer_boats_batteries_of_the_Czechoslovakian_ships_on_Baikal%2C_Battle_of_Baikal_Lake.png/330px-Trailer_boats_batteries_of_the_Czechoslovakian_ships_on_Baikal%2C_Battle_of_Baikal_Lake.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lake_Baikal"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Add to playlist: the heartbreak post-mortems of Cape Town’s Rowlene and the week’s best new tracks",
+      "body": "<p>The South African singer has been a memorable guest artist, but the unhurried, emotional tracks on new album Some Strings Attached show she’s ready for the spotlight</p><p><strong>From</strong> Cape Town, South Africa<br><strong>Recommen",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Figurski at Findhorn on Acid is a hypertext novel by Richard Holeton published on CD-ROM by Eastgate Systems in 2001 and republished on the open web by the Electronic Literature Lab, Washington State University, in 2021.",
+      "body": "Re-Imagined Radio presented a radio interpretation of this novel in 2022 in which Holeton made an appearance. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rosellini%27s_1737_Mechanical_Pig.png/330px-Rosellini%27s_1737_Mechanical_Pig.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Figurski_at_Findhorn_on_Acid"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "It was officially declared non-existent in 1880.",
+      "body": "Bagdad was a town established in 1848 on the south bank of the mouth of the Rio Grande, in Mexico. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Matamoros004.JPG/330px-Matamoros004.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bagdad%2C_Tamaulipas"
     },
     {
       "type": "card",
@@ -24,206 +129,71 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Tibetan Buddhist traditions view it as a Beyul, a legendary heavenly place inaccessible to ordinary mortals.",
-      "body": "Udiana, a small region in early medieval India, is ascribed importance in the development and dissemination of Vajrayāna Buddhism. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/East-Hem_100bc.jpg/330px-East-Hem_100bc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Oddiyana"
-    },
-    {
-      "type": "card",
-      "cat": "history",
       "opener": "On this day in 1929 —",
       "hook": "The 1929 Palestine riots break out in Mandatory Palestine between Palestinian Arabs and Jews and continue until the end of the month. In total, 133 Jews and 116 Arabs are killed.",
-      "body": "The 1929 Palestine riots, also known as the Western Wall Riots, the Buraq Uprising or the Events of 1929, were a series of demonstrations and riots in Mandatory Palestine in late August 1929 regarding access to the Western Wall in Jerusalem. One of those things you can't un-know.",
+      "body": "The 1929 Palestine riots, also known as the Western Wall Riots, the Buraq Uprising or the Events of 1929, were a series of demonstrations and riots in Mandatory Palestine in late August 1929 regarding access to the Western Wall in Jerusalem. The world is stranger than it lets on.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jews_flee_the_Old_City_of_Jerusalem%2C_August_1929.jpg/330px-Jews_flee_the_Old_City_of_Jerusalem%2C_August_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/1929_Palestine_riots"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1837 —",
-      "hook": "Three African soldiers in the 1st West India Regiment – Daaga, Edward Coffin and Maurice Ogston – are executed for their role in the St. Joseph Mutiny in the British colony of Trinidad.",
-      "body": "The West India Regiments (WIR) were a group of line infantry regiments of the British Army raised and normally stationed in the British West Indies between 1795 and 1927. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/8thWIR.jpg/330px-8thWIR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/West_India_Regiments"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Things That Matter: Three Decades of Passions, Pastimes and Politics is a nonfiction book by the Pulitzer Prize-winning journalist Charles Krauthammer.",
+      "body": "It was at the top on The New York Times Non-Fiction Best Sellers List for four weeks, in January 2014. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c8/Things_That_Matter_%28Krauthammer_book%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Things_That_Matter%3A_Three_Decades_of_Passions%2C_Pastimes_and_Politics"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "He served as the professor emeritus of history at Simon Fraser University in Vancouver, British Columbia, Canada.",
-      "body": "Michael Fellman was an American and Canadian historian and professor. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Michael_Fellman"
+      "opener": "On this day in 2010 —",
+      "hook": "AIRES Flight 8250 crashes at Gustavo Rojas Pinilla International Airport in San Andrés, San Andrés y Providencia, Colombia, killing two people.",
+      "body": "AIRES Flight 8250 was a domestic scheduled passenger flight that on 16 August 2010 crashed on landing at night in poor weather on the Colombian island of San Andrés, killing two of the 131 people on board. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/HK-4682_Boeing_737-73V_Aires.jpg/330px-HK-4682_Boeing_737-73V_Aires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/AIRES_Flight_8250"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "You probably never noticed this —",
-      "hook": "Ernest A Southerden (1917–1996) was an English-born New Zealand professional golfer.",
-      "body": "He won the New Zealand PGA Championship three times and represented New Zealand seven times in the Canada Cup. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ernie_Southerden_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Sir Angus Durie Miller Farquharson of Finzean was a British pioneer in sustainable rural community development, and Lord Lieutenant of Aberdeenshire from 1998 to 2010.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ernie_Southerden"
+      "url": "https://en.wikipedia.org/wiki/Angus_Farquharson_of_Finzean"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1930 —",
-      "hook": "The first British Empire Games are opened in Hamilton, Ontario, by the Governor General of Canada, the Viscount Willingdon.",
-      "body": "The Commonwealth Games is a quadrennial international multi-sport event that brings together athletes from across the Commonwealth of Nations, a political association comprising the majority of former territories of the British Empire. One of those things you can't un-know.",
-      "img": null,
+      "opener": "On this day in 1989 —",
+      "hook": "A solar particle event affects computers at the Toronto Stock Exchange, forcing a halt to trading.",
+      "body": "A solar particle event (SPE), also known as a solar energetic particle event or solar radiation storm, is a solar phenomenon that occurs when particles emitted by the Sun, mostly protons, become accelerated either in the Sun's atmosphere during a solar flare or in interplanetary space by a coronal mass ejection shock. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Solar_flare_%28TRACE%29.gif/330px-Solar_flare_%28TRACE%29.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Commonwealth_Games"
+      "url": "https://en.wikipedia.org/wiki/Solar_particle_event"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Spider-Man: Brand New Day’ vaults to number four in all-time US box office rankings",
-      "body": "‘The Odyssey’ surges past $500m in fifth session; Black Bear opens ’The Rivals Of Amziah King’.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-vaults-to-number-four-in-all-time-us-box-office-rankings/5219433.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Why is Drake barking like a dog? Six things you need to know about the rapper’s midlife pivot",
-      "body": "<p>There’s a lot to unpack as this proud son of Toronto closes in on 40 – from his gambling to his very public dates. Here goes!</p><p>Even if you can only name a handful of rappers, Drake is probably one of them. Not so many years ago, he ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/14/drake-six-things-you-need-to-know-rapper-midlife-pivot"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Molly Bawn is an 1878 novel by the Irish writer Margaret Wolfe Hungerford.",
-      "body": "In 1916 it was adapted into a silent film of the same title starring Alma Taylor. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Molly_Bawn_%28novel%29.jpg/330px-Molly_Bawn_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Molly_Bawn_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1906 —",
-      "hook": "The 8.2 Mw Valparaíso earthquake hits central Chile, killing 3,882 people.",
-      "body": "Seismic magnitude scales are used to describe the overall strength or \"size\" of an earthquake. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Seismic_magnitude_scales"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Add to playlist: the heartbreak post-mortems of Cape Town’s Rowlene and the week’s best new tracks",
-      "body": "<p>The South African singer has been a memorable guest artist, but the unhurried, emotional tracks on new album Some Strings Attached show she’s ready for the spotlight</p><p><strong>From</strong> Cape Town, South Africa<br><strong>Recommen",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘We get 200 tourists a day’: when your house becomes a TV star",
-      "body": "<p>What’s it like to live on the set of a soap opera? Or above Ted Lasso’s favourite pub? The residents of the homes made famous by hit TV shows tell all</p><p>Half the world recognises the apartment that Carrie Bradshaw lives in.",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/14/famous-tv-show-homes-real-residents-ted-lasso-sopranos"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Kenneth Branagh urges “caution and vigilance” around class representation in acting",
-      "body": "Branagh recalled working on ‘Harry Potter’ with “the entire British film industry”.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/kenneth-branagh-urges-caution-and-vigilance-around-class-representation-in-acting/5219432.article"
+      "opener": "The Guardian · Books —",
+      "hook": "The best recent crime and thrillers – review roundup",
+      "body": "<p>The Amateur by Chris Bohjalian; Claws Out! by Bella Mackie; Plant Lady by Minyoung Kang;<strong> </strong>Children of Wolves by Lawrence Osborne; Mad Mabel by Sally Hepworth</p><p><strong><a href=\"https://guardianbookshop.com/the-amateur",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/14/the-best-recent-and-thrillers-review-roundup"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Turn the Key Softly is a 1951 novel by the British writer John Brophy.",
-      "body": "It follows the lives of three women in the first dozen hours after they are released from prison. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Turn_the_Key_Softly_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Piece-rate lists were the ways of assessing a cotton operatives pay in Lancashire in the nineteenth and early twentieth centuries.",
+      "body": "They started as informal agreements made by one cotton master and their operatives then each cotton town developed their own list. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Turn_the_Key_Softly_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Test moderators use AI-generated writing to judge literacy standards",
-      "body": "To cut the cost of key stage 2 assessments, a UK government project proposes to use scripts generated by ChatGPT instead of real children's writing as examples supplied to moderators who check that grades are awarded fairly",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584776-test-moderators-use-ai-generated-writing-to-judge-literacy-standards/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The song was included on Kravitz's 2001 album, Lenny, and was released as a single on January 14, 2002.",
-      "body": "\"Stillness of Heart\" is a song written by Lenny Kravitz and Craig Ross. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e0/Stillness_of_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Stillness_of_Heart"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Une page d'amour is the eighth novel in the 'Rougon-Macquart' series by Émile Zola, set among the petite bourgeoisie in Second Empire suburban Paris.",
-      "body": "It was first serialised between December 11, 1877, and April 4, 1878, in Le Bien public, before being published in novel form by Charpentier in April 1878. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Une_page_d%27amour.png/330px-Une_page_d%27amour.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Une_page_d'amour"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "It is the fourth song on the band's third and final studio album, In Utero, released in September 1993.",
-      "body": "\"Rape Me\" is a song by the American rock band Nirvana, written by vocalist and guitarist Kurt Cobain. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f5/AllApologiesNew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rape_Me"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1927 —",
-      "hook": "The Dole Air Race begins from Oakland, California, to Honolulu, Hawaii, during which six out of the eight participating planes crash or disappear.",
-      "body": "The Dole Air Race, also known as the Dole Derby, was an air race across the Pacific Ocean from northern California to the Territory of Hawaii in August 1927. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/DoleAirR1927.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dole_Air_Race"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Desert Sheik is a 1924 American silent drama film directed by Tom Terriss and starring Wanda Hawley, Nigel Barrie and Pedro de Cordoba.",
-      "body": "British star Stewart Rome also appears in a supporting role. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/The_Desert_Sheik_%281924%29.jpg/330px-The_Desert_Sheik_%281924%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Desert_Sheik"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1876 —",
-      "hook": "Richard Wagner's Siegfried, the penultimate opera in his Ring cycle, is premiered at the Bayreuth Festspielhaus.",
-      "body": "Wilhelm Richard Wagner was a German composer, theatre director, essayist, and conductor, best known for his operas, although his mature works are often referred to as music dramas. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RichardWagner.jpg/330px-RichardWagner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Richard_Wagner"
+      "url": "https://en.wikipedia.org/wiki/Piece-rate_list"
     }
   ]
 }
