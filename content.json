@@ -1,45 +1,94 @@
 {
-  "generated": "2026-08-16T18:09:37.528Z",
-  "count": 19,
+  "generated": "2026-08-16T19:11:08.554Z",
+  "count": 23,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Beast is a 1975 French erotic horror film written, edited, and directed by Walerian Borowczyk.",
+      "body": "The film was noted for its explicit sexual content, including teratophilia, upon its initial release. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/01/La_b%C3%AAte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/La_B%C3%AAte_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I felt so inspired’: Guardian readers on trying Homer’s epics after seeing The Odyssey",
+      "body": "<p>Readers describe how Christopher Nolan’s blockbuster has ignited or reawakened their interest in classical literature</p><p>“I’m having a classics summer this year,” says Tommy Maddinson, 26, from London. He’s been inspired by Christophe",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/14/the-odyssey-readers-homer-epic-poetry-classics-christopher-nolan-film"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Tibetan Buddhist traditions view it as a Beyul, a legendary heavenly place inaccessible to ordinary mortals.",
+      "body": "Udiana, a small region in early medieval India, is ascribed importance in the development and dissemination of Vajrayāna Buddhism. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/East-Hem_100bc.jpg/330px-East-Hem_100bc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oddiyana"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1929 —",
+      "hook": "The 1929 Palestine riots break out in Mandatory Palestine between Palestinian Arabs and Jews and continue until the end of the month. In total, 133 Jews and 116 Arabs are killed.",
+      "body": "The 1929 Palestine riots, also known as the Western Wall Riots, the Buraq Uprising or the Events of 1929, were a series of demonstrations and riots in Mandatory Palestine in late August 1929 regarding access to the Western Wall in Jerusalem. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jews_flee_the_Old_City_of_Jerusalem%2C_August_1929.jpg/330px-Jews_flee_the_Old_City_of_Jerusalem%2C_August_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1929_Palestine_riots"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1837 —",
+      "hook": "Three African soldiers in the 1st West India Regiment – Daaga, Edward Coffin and Maurice Ogston – are executed for their role in the St. Joseph Mutiny in the British colony of Trinidad.",
+      "body": "The West India Regiments (WIR) were a group of line infantry regiments of the British Army raised and normally stationed in the British West Indies between 1795 and 1927. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/8thWIR.jpg/330px-8thWIR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/West_India_Regiments"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "He served as the professor emeritus of history at Simon Fraser University in Vancouver, British Columbia, Canada.",
+      "body": "Michael Fellman was an American and Canadian historian and professor. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Michael_Fellman"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "Ernest A Southerden (1917–1996) was an English-born New Zealand professional golfer.",
+      "body": "He won the New Zealand PGA Championship three times and represented New Zealand seven times in the Canada Cup. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ernie_Southerden_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ernie_Southerden"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1930 —",
+      "hook": "The first British Empire Games are opened in Hamilton, Ontario, by the Governor General of Canada, the Viscount Willingdon.",
+      "body": "The Commonwealth Games is a quadrennial international multi-sport event that brings together athletes from across the Commonwealth of Nations, a political association comprising the majority of former territories of the British Empire. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_Games"
+    },
     {
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "Kenneth Branagh urges “caution and vigilance” around class representation in acting",
-      "body": "Branagh recalled working on ‘Harry Potter’ with “the entire British film industry”.",
+      "hook": "‘Spider-Man: Brand New Day’ vaults to number four in all-time US box office rankings",
+      "body": "‘The Odyssey’ surges past $500m in fifth session; Black Bear opens ’The Rivals Of Amziah King’.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/kenneth-branagh-urges-caution-and-vigilance-around-class-representation-in-acting/5219432.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Archaeological and historical studies suggest the Guanahatabey were archaic hunter-gatherers with a distinct language and culture from their neighbors, the Taíno.",
-      "body": "The Guanahatabey were an Indigenous people of western Cuba at the time of European contact. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ta%C3%ADnos.svg/330px-Ta%C3%ADnos.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Guanahatabey"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2013 —",
-      "hook": "The ferry St. Thomas Aquinas collides with a cargo ship and sinks at Cebu, Philippines, killing 61 people with 59 others missing.",
-      "body": "MV St. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Outgoing_ferry_from_Tagbilaran%2C_Bohol_%289274600665%29.jpg/330px-Outgoing_ferry_from_Tagbilaran%2C_Bohol_%289274600665%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/MV_St._Thomas_Aquinas"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "German admiral Wilhelm Souchon hands over the two warships under his command to the Ottomans and becomes commander of the Turkish navy, leading later to the entry of the Ottoman Empire in World War I.",
-      "body": "Wilhelm Anton Souchon was a German admiral in World War I. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Vonsouchonadmiral.jpg/330px-Vonsouchonadmiral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Wilhelm_Souchon"
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-vaults-to-number-four-in-all-time-us-box-office-rankings/5219433.article"
     },
     {
       "type": "card",
@@ -53,119 +102,59 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Forger is a novel by Paul Watkins about a young American painter who comes to Paris in order to pursue a lifelong dream of the romantic life of a painter in the period prior to World War II.",
-      "body": "David Halifax, the aspiring artist, has been granted an all-expense-paid trip by a mysterious and unknown benefactor, called the Levasseur Committee, in order to study painting. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/The_Forger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Molly Bawn is an 1878 novel by the Irish writer Margaret Wolfe Hungerford.",
+      "body": "In 1916 it was adapted into a silent film of the same title starring Alma Taylor. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Molly_Bawn_%28novel%29.jpg/330px-Molly_Bawn_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Forger_(Watkins_novel)"
+      "url": "https://en.wikipedia.org/wiki/Molly_Bawn_(novel)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1717 —",
-      "hook": "Austro-Turkish War (1716–1718): An imperial coalition army under Prince Eugene of Savoy defeats an Ottoman army under Haji Halil Pasha, leading to the surrender of the Ottoman garrison of Belgrade a few days later.",
-      "body": "The Austro-Turkish War (1716–1718) was fought between the Habsburg monarchy and the Ottoman Empire. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Georg-philipp-rugendas-the-elder-1716-battle-of-petrovaradin.jpg/330px-Georg-philipp-rugendas-the-elder-1716-battle-of-petrovaradin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Austro-Turkish_War_(1716%E2%80%931718)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech",
-      "body": "<p>Amid fears for jobs, some film-makers say AI could enable them bypass studio giants and take more creative risks</p><p>Near the collonaded entrance to Sony Pictures’ historic Culver City film studio, a tech-powered rival has sprung up th",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1777 —",
-      "hook": "American Revolutionary War: The Americans led by General John Stark rout British and Brunswick troops under Friedrich Baum at the Battle of Bennington in Walloomsac, New York.",
-      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Juan de Dios Bojórquez León was a Mexican writer and politician.",
-      "body": "He was elected to the 1917 constituent congress and to both chambers of the Congress of the Union, and he served as secretary of the interior under President Lázaro Cárdenas. One of those things you can't un-know.",
+      "opener": "On this day in 1906 —",
+      "hook": "The 8.2 Mw Valparaíso earthquake hits central Chile, killing 3,882 people.",
+      "body": "Seismic magnitude scales are used to describe the overall strength or \"size\" of an earthquake. Bring it up somewhere. Watch the reaction.",
       "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Juan_de_Dios_Boj%C3%B3rquez"
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Seismic_magnitude_scales"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Fishers detonate a bomb every hour on one Indonesian coral reef",
-      "body": "The use of explosives to kill fish is widespread across the tropics, and acoustic monitoring in an Indonesian archipelago detected more than 3500 explosions in 483 days",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584701-fishers-detonate-a-bomb-every-hour-on-one-indonesian-coral-reef/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Household Ghosts is a 1961 novel by the British writer James Kennaway.",
-      "body": "It portrays the intense relationship between a brother and sister, members of a declining upper-class family in rural Perthshire. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Household_Ghosts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Household_Ghosts"
+      "opener": "The Guardian · Culture —",
+      "hook": "Add to playlist: the heartbreak post-mortems of Cape Town’s Rowlene and the week’s best new tracks",
+      "body": "<p>The South African singer has been a memorable guest artist, but the unhurried, emotional tracks on new album Some Strings Attached show she’s ready for the spotlight</p><p><strong>From</strong> Cape Town, South Africa<br><strong>Recommen",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "A look back at the 2026 total solar eclipse",
-      "body": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer atmosphe",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse"
+      "opener": "The Guardian · Culture —",
+      "hook": "‘We get 200 tourists a day’: when your house becomes a TV star",
+      "body": "<p>What’s it like to live on the set of a soap opera? Or above Ted Lasso’s favourite pub? The residents of the homes made famous by hit TV shows tell all</p><p>Half the world recognises the apartment that Carrie Bradshaw lives in.",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/14/famous-tv-show-homes-real-residents-ted-lasso-sopranos"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Kenneth Branagh urges “caution and vigilance” around class representation in acting",
+      "body": "Branagh recalled working on ‘Harry Potter’ with “the entire British film industry”.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/kenneth-branagh-urges-caution-and-vigilance-around-class-representation-in-acting/5219432.article"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Mistborn is a series of epic fantasy novels by the American author Brandon Sanderson and published by Tor Books.",
-      "body": "The books follow a series of Allomancers, who are individuals who can consume metal to wield magical powers. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "Here's one for the group chat —",
+      "hook": "Turn the Key Softly is a 1951 novel by the British writer John Brophy.",
+      "body": "It follows the lives of three women in the first dozen hours after they are released from prison. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Turn_the_Key_Softly_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mistborn"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1920 —",
-      "hook": "Polish–Soviet War: The Battle of Radzymin concludes; the Soviet Red Army is forced to turn away from Warsaw.",
-      "body": "The Polish–Soviet War was fought primarily between the Second Polish Republic and the Russian Soviet Federative Socialist Republic, following World War I and the Russian Revolution. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Polish-soviet_war_montage.jpg/330px-Polish-soviet_war_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1876 —",
-      "hook": "Richard Wagner's Siegfried, the penultimate opera in his Ring cycle, is premiered at the Bayreuth Festspielhaus.",
-      "body": "Wilhelm Richard Wagner was a German composer, theatre director, essayist, and conductor, best known for his operas, although his mature works are often referred to as music dramas. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RichardWagner.jpg/330px-RichardWagner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Richard_Wagner"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Dracula is an 1897 Gothic horror novel by Irish author Bram Stoker.",
-      "body": "The narrative is related through letters, diary entries, and newspaper articles. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dracula-First-Edition-1897.jpg/330px-Dracula-First-Edition-1897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dracula"
+      "url": "https://en.wikipedia.org/wiki/Turn_the_Key_Softly_(novel)"
     },
     {
       "type": "card",
@@ -178,12 +167,63 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "THC in cannabis may reduce nightmares in people with PTSD",
-      "body": "A drug made up of THC, the main psychoactive component of cannabis, reduced the severity and incidence of nightmares in people with PTSD",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584744-thc-in-cannabis-may-reduce-nightmares-in-people-with-ptsd/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The song was included on Kravitz's 2001 album, Lenny, and was released as a single on January 14, 2002.",
+      "body": "\"Stillness of Heart\" is a song written by Lenny Kravitz and Craig Ross. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e0/Stillness_of_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stillness_of_Heart"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Une page d'amour is the eighth novel in the 'Rougon-Macquart' series by Émile Zola, set among the petite bourgeoisie in Second Empire suburban Paris.",
+      "body": "It was first serialised between December 11, 1877, and April 4, 1878, in Le Bien public, before being published in novel form by Charpentier in April 1878. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Une_page_d%27amour.png/330px-Une_page_d%27amour.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Une_page_d'amour"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "It is the fourth song on the band's third and final studio album, In Utero, released in September 1993.",
+      "body": "\"Rape Me\" is a song by the American rock band Nirvana, written by vocalist and guitarist Kurt Cobain. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f5/AllApologiesNew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rape_Me"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1927 —",
+      "hook": "The Dole Air Race begins from Oakland, California, to Honolulu, Hawaii, during which six out of the eight participating planes crash or disappear.",
+      "body": "The Dole Air Race, also known as the Dole Derby, was an air race across the Pacific Ocean from northern California to the Territory of Hawaii in August 1927. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/DoleAirR1927.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Dole_Air_Race"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Desert Sheik is a 1924 American silent drama film directed by Tom Terriss and starring Wanda Hawley, Nigel Barrie and Pedro de Cordoba.",
+      "body": "British star Stewart Rome also appears in a supporting role. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/The_Desert_Sheik_%281924%29.jpg/330px-The_Desert_Sheik_%281924%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Desert_Sheik"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1876 —",
+      "hook": "Richard Wagner's Siegfried, the penultimate opera in his Ring cycle, is premiered at the Bayreuth Festspielhaus.",
+      "body": "Wilhelm Richard Wagner was a German composer, theatre director, essayist, and conductor, best known for his operas, although his mature works are often referred to as music dramas. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RichardWagner.jpg/330px-RichardWagner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Richard_Wagner"
     }
   ]
 }
