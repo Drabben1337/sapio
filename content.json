@@ -1,56 +1,7 @@
 {
-  "generated": "2026-08-16T06:17:17.647Z",
-  "count": 17,
+  "generated": "2026-08-16T07:20:39.992Z",
+  "count": 21,
   "items": [
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "However, the line was in operation in its full length only from November 1916 to September 1919.",
-      "body": "The Washington and Choctaw Railway was a railroad company in southwestern Alabama, first based in Yellow Pine and later in Aquilla. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Washington_and_Choctaw_Railway"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Ariana Grande leaves problems at home as her tour hits the UK",
-      "body": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Zorba is a musical with a book by Joseph Stein, lyrics by Fred Ebb, and music by John Kander.",
-      "body": "Adapted from the 1946 novel Zorba the Greek by Nikos Kazantzakis and the subsequent 1964 film of the same name, it focuses on the friendship that evolves between Zorba and Nikos, a young American who has inherited an abandoned mine on Crete, and their romantic",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/ZorbaLP1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zorba_(musical)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Soledad Sevilla Portillo is a Spanish painter, and installation artist; known for large-format paintings, featuring geometric abstraction and spatial installations.",
-      "body": "She lives in Granada, Spain. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Soledad_Sevilla_-_IVAM.jpg/330px-Soledad_Sevilla_-_IVAM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Soledad_Sevilla"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Where Angels Fear to Tread is a 1905 novel by E.",
-      "body": "The title comes from a line in Alexander Pope's poem An Essay on Criticism: \"For fools rush in where angels fear to tread\". One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8d/Where_Angels_Fear_to_Tread_%28Forster_novel%29_1st_edition_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Where_Angels_Fear_to_Tread"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -59,6 +10,16 @@
       "body": "The Office actress thanks well-wishers for their support after she revealed she had incurable cancer.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "A swivel is a connection that allows the connected object, such as a gun, chair, swivel caster, or an anchor rode to rotate horizontally or vertically.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Swivel_%28PSF%29.png/330px-Swivel_%28PSF%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Swivel"
     },
     {
       "type": "card",
@@ -71,80 +32,52 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Mission review – dangerous quest to mend a broken childhood",
-      "body": "<p><strong>Edinburgh film festival<br></strong>George MacKay plays a troubled restaurant worker embarking on bleak inner and outer journeys reflecting the pressures on young men</p><p>Paul Wright has created a moodscape of loneliness in thi",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/15/mission-review-dangerous-quest-to-mend-a-broken-childhood"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "La Part de l'autre is a 2001 alternate history novel by Éric-Emmanuel Schmitt, the plot serving to illustrate the writer's ideas of Moral Philosophy.",
-      "body": "It consists of a fictionalized biography of Adolf Hitler, sticking to the known facts of Hitler's life, in parallel with the fictional alternative biography the world-famous painter known as \"Adolf H.\" - the person which Hitler could have become. One of those ",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/La_part_de_l'autre"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Rebecca Perry: ‘Lorca hit me like a bolt of lightning’",
-      "body": "<p>The poet and novelist on the power of fairytales, being inspired by Frank O’Hara and the joys of Doris Lessing</p><p><strong>My earliest reading memory</strong><br> Reading On the Ning Nang Nong by Spike Milligan, aged five or so, sittin",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/14/rebecca-perry-lorca-hit-me-like-a-bolt-of-lightning"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "How bad is the UK drought and how long will it continue?",
-      "body": "Almost three-quarters of England is now in drought conditions, resulting in restrictions on water use in many areas and severe wildfires – here's how it's affecting farming, wildlife and trees",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584619-how-bad-is-the-uk-drought-and-how-long-will-it-continue/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Amorous Adventures of Moll Flanders is a 1965 British historical comedy film directed by Terence Young and starring Kim Novak, Richard Johnson and Angela Lansbury.",
-      "body": "It is based on the 1722 novel Moll Flanders by Daniel Defoe. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/UK_quad_of_Moll_Flanders.jpg/330px-UK_quad_of_Moll_Flanders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Amorous_Adventures_of_Moll_Flanders"
+      "cat": "history",
+      "opener": "On this day in 2012 —",
+      "hook": "South African police fatally shoot 34 miners and wound 78 more during an industrial dispute at Marikana near Rustenburg.",
+      "body": "The South African Police Service (SAPS) is the national police force of the Republic of South Africa. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SAPS_badge.svg/330px-SAPS_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/South_African_Police_Service"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "It had a 15,000-strong army composed of peasants and soldiers from the UNR army, which had been defeated by the White Army in Podolia earlier.",
-      "body": "Kholodny Yar Republic was a self-proclaimed state formation and partisan movement, which ran on part of the lands of the former Ukrainian People's Republic (UNR), in the Chyhyryn district of the Kyiv province, in the area of the Kholodnyi Yar forest tract. Bri",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9%D0%AF%D1%80_%D0%BF%D1%80%D0%B0%D0%BF%D0%BE%D1%80.svg/330px-%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9%D0%AF%D1%80_%D0%BF%D1%80%D0%B0%D0%BF%D0%BE%D1%80.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kholodny_Yar_Republic"
+      "opener": "On this day in 2015 —",
+      "hook": "Trigana Air Flight 267, an ATR 42, crashes in Oksibil, Bintang Mountains Regency, killing all 54 people on board.",
+      "body": "Trigana Air Flight 267 was a scheduled passenger flight from Sentani to Oksibil in the eastern Indonesian province of Papua. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/PK-YRN_accident_site.png/330px-PK-YRN_accident_site.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Trigana_Air_Flight_267"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "It was released on June 10, 2014, through White's own label Third Man Records in association with XL Recordings and Columbia Records.",
-      "body": "Lazaretto is the second studio album by Jack White. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/26/Jack_White_-_Lazaretto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lazaretto_(album)"
+      "opener": "On this day in 1913 —",
+      "hook": "Completion of the Royal Navy battlecruiser HMS Queen Mary.",
+      "body": "The Royal Navy (RN) is the naval warfare force of the United Kingdom, responsible for defending the country, the Crown Dependencies, and the Overseas Territories from naval attack or invasion. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Logo_of_the_Royal_Navy.svg/330px-Logo_of_the_Royal_Navy.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Royal_Navy"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Oath is an allegorical 1995 horror/fantasy novel by Frank E.",
-      "body": "The recipient of the 1996 ECPA Gold Medallion Book Award for Best Fiction, the story centers on the fictional mining town of Hyde River, the gruesome deaths of many of the townspeople, and an \"oath\" that the residents of Hyde River have taken up to hide the se",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/Peretti45.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Ariana Grande leaves problems at home as her tour hits the UK",
+      "body": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Best known as a professor of economics at the University of California, Berkeley, where he began work in 1962, he won the 1983 Nobel Memorial Prize in Economic Sciences.",
+      "body": "Gérard Debreu was a French-born economist and mathematician. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Debreu%2C_G%C3%A9rard_%281921-2004%29_%28cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Oath_(Peretti_novel)"
+      "url": "https://en.wikipedia.org/wiki/G%C3%A9rard_Debreu"
     },
     {
       "type": "card",
@@ -158,12 +91,119 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Cusick was 5 feet, 9 inches tall and weighed 190 pounds.",
-      "body": "Cusick was an Irish-born catcher in Major League Baseball from 1884 to 1887. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tony_Cusick.jpg/330px-Tony_Cusick.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "You probably never noticed this —",
+      "hook": "He played college football at Clemson and was selected by the Seattle Seahawks in the seventh round of the 2016 NFL draft.",
+      "body": "Zac Brooks is an American former football running back. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Zac_Brooks.jpg/330px-Zac_Brooks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Andy_Cusick"
+      "url": "https://en.wikipedia.org/wiki/Zac_Brooks"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1328 —",
+      "hook": "The House of Gonzaga seizes power in the Duchy of Mantua, and will rule until 1708.",
+      "body": "The House of Gonzaga is an Italian princely family that ruled Mantua in Lombardy, northern Italy from 1328 to 1708. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Arms_of_Gianfrancesco_I_Gonzaga%2C_Marquess_of_Mantua.svg/330px-Arms_of_Gianfrancesco_I_Gonzaga%2C_Marquess_of_Mantua.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/House_of_Gonzaga"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "How bad is the UK drought and how long will it continue?",
+      "body": "Almost three-quarters of England is now in drought conditions, resulting in restrictions on water use in many areas and severe wildfires – here's how it's affecting farming, wildlife and trees",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584619-how-bad-is-the-uk-drought-and-how-long-will-it-continue/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1913 —",
+      "hook": "Tōhoku Imperial University of Japan (modern day Tohoku University) becomes the first university in Japan to admit female students.",
+      "body": "Tohoku University is a public research university in Sendai, Miyagi, Japan. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aobayama_New_Campus%2C_Tohoku_University%2C_1st_Nov_2025%E2%91%A1.jpg/330px-Aobayama_New_Campus%2C_Tohoku_University%2C_1st_Nov_2025%E2%91%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Tohoku_University"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Mission review – dangerous quest to mend a broken childhood",
+      "body": "<p><strong>Edinburgh film festival<br></strong>George MacKay plays a troubled restaurant worker embarking on bleak inner and outer journeys reflecting the pressures on young men</p><p>Paul Wright has created a moodscape of loneliness in thi",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/15/mission-review-dangerous-quest-to-mend-a-broken-childhood"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Silent Corner and the Empty Stage is the third album by British singer-songwriter Peter Hammill.",
+      "body": "It was released on Charisma Records in 1974, during a hiatus in the activities of Hammill's progressive rock band Van der Graaf Generator. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/28/Hammill_Silent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Silent_Corner_and_the_Empty_Stage"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1717 —",
+      "hook": "An imperial coalition army under Prince Eugene of Savoy defeats an Ottoman army under Haji Halil Pasha, leading to the surrender of the Ottoman garrison of Belgrade a few days later.",
+      "body": "Prince Eugene Francis of Savoy-Carignano, better known as Prince Eugene, was a distinguished feldmarschall in the Army of the Holy Roman Empire and of the Austrian Habsburg dynasty during the 17th and 18th centuries. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Prinz_Eugene_of_Savoy.PNG/330px-Prinz_Eugene_of_Savoy.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Prince_Eugene_of_Savoy"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "With a length of 2.2 km, VRABAC is the shortest transit line in Belgrade.",
+      "body": "The VRABAC is an electric minibus line in the pedestrian area of downtown Belgrade, Serbia. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vrabac_GSP_V-3.jpg/330px-Vrabac_GSP_V-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vrabac_(bus)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Sandra Gould was an American actress, known for her role as Gladys Kravitz on the sitcom Bewitched.",
+      "body": "Gould was the second actress to portray the role, debuting at the start of the third season. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/Sandra_Gould_1966.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sandra_Gould"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Treaty of Turkeytown, also known as the Treaty with the Cherokee and the Treaty of Chickasaw Council House (Cherokee) was negotiated on 14 September 1816, between delegates of the former Cherokee Nation on the one part and Major General Andrew Jackson, General David Meriwether and Jesse Franklin, Esq., who served as agents of the United States in the capacity of \"commissioners plenipotentiary\", on the other part.",
+      "body": "Conducted following the Creek War, the initial meeting was held at the Chickasaw Council House and stipulated a further meeting on 28 September 1816, to be conducted at \"Turkey's Town\", on the Coosa River, near the present day town of Centre, in Cherokee Count",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Map_from_Indian_land_cessions_in_the_United_States_by_Charles_C._Royce_20.jpg/330px-Map_from_Indian_land_cessions_in_the_United_States_by_Charles_C._Royce_20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Turkeytown"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Rebecca Perry: ‘Lorca hit me like a bolt of lightning’",
+      "body": "<p>The poet and novelist on the power of fairytales, being inspired by Frank O’Hara and the joys of Doris Lessing</p><p><strong>My earliest reading memory</strong><br> Reading On the Ning Nang Nong by Spike Milligan, aged five or so, sittin",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/14/rebecca-perry-lorca-hit-me-like-a-bolt-of-lightning"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Queen's Park Cricket Club (QPCC) is a cricket club in Trinidad and Tobago, current owner of the Queen's Park Oval, having previously played at the Queen's Park Savannah since its founding in 1891.",
+      "body": "During the first decades of the twentieth century, the private Queen's Park Oval was the most exclusive cricket ground and club on the island. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Queens_Park_Oval_Trinidad.jpg/330px-Queens_Park_Oval_Trinidad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Queen's_Park_Cricket_Club"
     }
   ]
 }
