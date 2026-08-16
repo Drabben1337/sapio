@@ -1,16 +1,15 @@
 {
-  "generated": "2026-08-16T02:13:05.189Z",
-  "count": 24,
+  "generated": "2026-08-16T03:36:51.921Z",
+  "count": 13,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Saiwai Qixia Zhuan (塞外奇俠傳), literally Legend of the Gallant Hero Beyond the Frontier, is a wuxia novel by Liang Yusheng.",
-      "body": "It was first published as a serial between 1955 and 1957 in the Hong Kong newspaper Chou Mo Pao (周末報). One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Saiwai_Qixia_Zhuan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Saiwai_Qixia_Zhuan"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Borges and Me review – a sweetly imagined literary odyssey through the Highlands",
+      "body": "<p><strong>Edinburgh film festival<br></strong>Luis Gnecco brings warmth, wit and quiet melancholy to Jorge Luis Borges in this gently enchanting adaptation of Jay Parini’s semi-fictional memoir</p><p>There is great sweetness and high-minde",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/15/borges-and-me-review-alan-cumming-fionn-whitehead"
     },
     {
       "type": "card",
@@ -23,46 +22,6 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Me Before You is a romance novel written by Jojo Moyes.",
-      "body": "The book was first published on 5 January 2012 in the United Kingdom. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e0/Me_Before_You.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Me_Before_You_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "It is Ghent's largest public square and a regular venue for cultural and sporting events, such as the annual Mid-Lent Fair in March.",
-      "body": "The Sint-Pietersplein is a city square located in the south of the historic centre of Ghent, East Flanders, Belgium. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/OnzeLieveVrouwSintPieterskerk_24-06-2008_14-56-27.JPG/330px-OnzeLieveVrouwSintPieterskerk_24-06-2008_14-56-27.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sint-Pietersplein%2C_Ghent"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2012 —",
-      "hook": "South African police fatally shoot 34 miners and wound 78 more during an industrial dispute at Marikana near Rustenburg.",
-      "body": "The South African Police Service (SAPS) is the national police force of the Republic of South Africa. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SAPS_badge.svg/330px-SAPS_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/South_African_Police_Service"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "My Sister, the Serial Killer is a 2018 thriller novel by Nigerian writer Oyinkan Braithwaite.",
-      "body": "Braithwaite's debut novel was originally published in Nigeria as an e-book with the title Thicker Than Water in 2017 before being released in the United States by Doubleday Books on 20 November 2018. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/dc/My_Sister%2C_the_Serial_Killer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/My_Sister%2C_the_Serial_Killer"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
       "hook": "Can Nothing Save Us? by Irvine Welsh review – US family saga is a late-career triumph",
@@ -71,54 +30,62 @@
       "url": "https://www.theguardian.com/books/2026/aug/13/can-nothing-save-us-by-irvine-welsh-review-us-family-saga-is-a-late-career-triumph"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Shakir Bell is an American former professional football running back who played for the Edmonton Eskimos of the Canadian Football League (CFL).",
+      "body": "He played college football for the Indiana State Sycamores. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shakir_Bell"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Between 1977 and 1983, North Korean government agents abducted Japanese citizens from Japan.",
+      "body": "Although only 17 Japanese citizens are officially recognized by the Japanese government as having been abducted, it is estimated that there may have been hundreds more. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Abductedreturnhome.jpg/330px-Abductedreturnhome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_Korean_abductions_of_Japanese_citizens"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "How bad is the UK drought and how long will it continue?",
+      "body": "Almost three-quarters of England is now in drought conditions, resulting in restrictions on water use in many areas and severe wildfires – here's how it's affecting farming, wildlife and trees",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584619-how-bad-is-the-uk-drought-and-how-long-will-it-continue/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1870 —",
-      "hook": "Franco-Prussian War: The Battle of Mars-la-Tour is fought, resulting in a Prussian victory.",
-      "body": "The Franco-Prussian War, occasionally known as the Franco-German War, and sometimes referred to in France as the War of 1870, was a conflict between France and the North German Confederation led by Prussia. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_v_Werner_-_Kaiserproklamation_am_18_Januar_1871_%283._Fassung_1885%29.jpg/330px-A_v_Werner_-_Kaiserproklamation_am_18_Januar_1871_%283._Fassung_1885%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Franco-Prussian_War"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
+      "opener": "Bet you didn't know —",
+      "hook": "As per the Limca Book of Records 2018, Matunga is the first railway station in India in suburban category to be completely staffed by women.",
+      "body": "Matunga is a railway station on the Central line of the Mumbai Suburban Railway network. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Matunga_stationboard.jpg/330px-Matunga_stationboard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matunga_railway_station"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1960 —",
-      "hook": "Cyprus gains its independence from the United Kingdom.",
-      "body": "Cyprus, officially the Republic of Cyprus, is an island country in the eastern Mediterranean Sea, located off the coast of the Levant mainland in West Asia. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/330px-Flag_of_Cyprus.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Cyprus"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Mission review – dangerous quest to mend a broken childhood",
+      "body": "<p><strong>Edinburgh film festival<br></strong>George MacKay plays a troubled restaurant worker embarking on bleak inner and outer journeys reflecting the pressures on young men</p><p>Paul Wright has created a moodscape of loneliness in thi",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/15/mission-review-dangerous-quest-to-mend-a-broken-childhood"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2020 —",
-      "hook": "The August Complex fire in California burns more than one million acres of land.",
-      "body": "The August Complex fire was a massive wildfire complex that burned in the Coast Range of Northern California, in Glenn, Lake, Mendocino, Tehama, Trinity, and Shasta Counties. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/August-complex-Fire-CA_082120.png/330px-August-complex-Fire-CA_082120.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/August_Complex_fire"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Prelude and Fugue in F♯ major, BWV 882, is a keyboard composition written by Johann Sebastian Bach.",
+      "body": "It is the thirteenth prelude and fugue in the second book of The Well-Tempered Clavier, a series of 48 preludes and fugues by the composer. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_F-sharp_major%2C_BWV_882"
     },
     {
       "type": "card",
@@ -131,81 +98,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Mission review – dangerous quest to mend a broken childhood",
-      "body": "<p><strong>Edinburgh film festival<br></strong>George MacKay plays a troubled restaurant worker embarking on bleak inner and outer journeys reflecting the pressures on young men</p><p>Paul Wright has created a moodscape of loneliness in thi",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/15/mission-review-dangerous-quest-to-mend-a-broken-childhood"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Burglar is a 1987 heist comedy film directed by Hugh Wilson and distributed by Warner Bros.",
-      "body": "The film stars Whoopi Goldberg and Bobcat Goldthwait. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/Burglarposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Charles Adrian Scott Stokes was an English landscape painter.",
+      "body": "Born in Southport, Lancashire, he became a cotton broker in Liverpool, where his artistic talent was noticed by John Herbert RA, who advised him to submit his drawings to the Royal Academy. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Michael_Ancher_-_Unfinished_portrait_of_Adrian_Stokes.JPG/330px-Michael_Ancher_-_Unfinished_portrait_of_Adrian_Stokes.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Burglar_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2015 —",
-      "hook": "Trigana Air Flight 267, an ATR 42, crashes in Oksibil, Bintang Mountains Regency, killing all 54 people on board.",
-      "body": "Trigana Air Flight 267 was a scheduled passenger flight from Sentani to Oksibil in the eastern Indonesian province of Papua. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/PK-YRN_accident_site.png/330px-PK-YRN_accident_site.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Trigana_Air_Flight_267"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Borges and Me review – a sweetly imagined literary odyssey through the Highlands",
-      "body": "<p><strong>Edinburgh film festival<br></strong>Luis Gnecco brings warmth, wit and quiet melancholy to Jorge Luis Borges in this gently enchanting adaptation of Jay Parini’s semi-fictional memoir</p><p>There is great sweetness and high-minde",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/15/borges-and-me-review-alan-cumming-fionn-whitehead"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1841 —",
-      "hook": "U.S. President John Tyler vetoes a bill which called for the re-establishment of the Second Bank of the United States. Enraged Whig Party members riot outside the White House in the most violent demonstration on White House grounds in U.S. history.",
-      "body": "The president of the United States (POTUS) is the head of state and head of government of the United States. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/330px-Seal_of_the_President_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/President_of_the_United_States"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
+      "url": "https://en.wikipedia.org/wiki/Adrian_Scott_Stokes"
     },
     {
       "type": "card",
@@ -219,21 +118,12 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Facial Justice is a dystopian novel by L.",
-      "body": "Hartley, published in 1960. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/FacialJustice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Elizabeth Johnston Evans Johnston was an American philanthropist, social worker, and clubwoman.",
+      "body": "She served as president of the board of control of the Alabama boys industrial school, and was the vice-regent of the Mount Vernon Ladies' Association from Alabama. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elizabeth_Johnston_Evans_Johnston_%28Alabama_History%2C_1908%29.png/330px-Elizabeth_Johnston_Evans_Johnston_%28Alabama_History%2C_1908%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Facial_Justice"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Something Wile E this way comes: how the Looney Toons reboot movie came back from the dead",
-      "body": "<p>Cartoon royalty were lined for a live-action toon hybrid Coyote vs Acme. Then it was shelved as a tax write-off. But its cast, crew and fans fought for its release.",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/14/coyote-vs-acme-looney-tunes-reboot-film-back-from-the-dead"
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Johnston_Evans_Johnston"
     }
   ]
 }
