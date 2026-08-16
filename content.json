@@ -1,44 +1,64 @@
 {
-  "generated": "2026-08-16T16:09:23.689Z",
-  "count": 20,
+  "generated": "2026-08-16T17:09:03.975Z",
+  "count": 23,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘I thought – if I die, I’ve had a good innings’: producer James Ford on life, death and making an album from his hospital bed",
-      "body": "<p>The Arctic Monkeys, Pet Shop Boys and Pulp collaborator was at the height of his powers as Britain’s most in-demand music producer when leukaemia struck. ‘I realised life is exceptionally fragile,’ he says</p><p>There was a moment outsid",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/16/james-ellis-ford-music-producer-interview-lost-in-another-world-leukaemia-arctic-monkeys-florence-machine"
+      "opener": "New Scientist —",
+      "hook": "THC in cannabis may reduce nightmares in people with PTSD",
+      "body": "A drug made up of THC, the main psychoactive component of cannabis, reduced the severity and incidence of nightmares in people with PTSD",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584744-thc-in-cannabis-may-reduce-nightmares-in-people-with-ptsd/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Fishers detonate a bomb every hour on one Indonesian coral reef",
+      "body": "The use of explosives to kill fish is widespread across the tropics, and acoustic monitoring in an Indonesian archipelago detected more than 3500 explosions in 483 days",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584701-fishers-detonate-a-bomb-every-hour-on-one-indonesian-coral-reef/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1793 —",
+      "hook": "French Revolution: A levée en masse is decreed by the National Convention.",
+      "body": "The French Revolution was a period of political and societal change in France that began with the Estates General of 1789 and ended with the Coup of 18 Brumaire on 9 November 1799. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/330px-Anonymous_-_Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/French_Revolution"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Last Enchantment is a 1979 fantasy novel by Mary Stewart.",
-      "body": "It is the third in a quintet of novels covering the Arthurian legend, preceded by The Hollow Hills and succeeded by The Wicked Day. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/84/MaryStewart_TheLastEnchantment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Monique Wittig was a French author, philosopher, and feminist theorist who wrote about abolition of the sex-class system and coined the phrase \"heterosexual contract.\" Her groundbreaking work is titled The Straight Mind and Other Essays.",
+      "body": "She published her first novel, L'Opoponax, in 1964. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Monique_Wittig_%28ph._Colette_Geoffrey%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Last_Enchantment"
+      "url": "https://en.wikipedia.org/wiki/Monique_Wittig"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2013 —",
-      "hook": "The ferry St. Thomas Aquinas collides with a cargo ship and sinks at Cebu, Philippines, killing 61 people with 59 others missing.",
-      "body": "MV St. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Outgoing_ferry_from_Tagbilaran%2C_Bohol_%289274600665%29.jpg/330px-Outgoing_ferry_from_Tagbilaran%2C_Bohol_%289274600665%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/MV_St._Thomas_Aquinas"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Cineuropa —",
-      "hook": "Interview: Sarah Leonor • Director of D’ici là - \"I tried to adopt a minimalist approach, but I applied it to universal subjects\" - Locarno 2026 – Competition",
-      "body": "The French director sheds light on her triptych film set in natural surrounds, and her desire to plunge viewers into a sensory bath",
-      "src": "Cineuropa",
-      "url": "https://cineuropa.org/en/interview/494176/"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Universal Short Title Catalogue (USTC) brings together information on all books published in Europe and its colonies between the invention of printing and the end of the seventeenth century, creating a powerful resource for the study of the book and print culture.",
+      "body": "The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Universal_Short_Title_Catalogue"
     },
     {
       "type": "card",
@@ -50,112 +70,102 @@
       "url": "https://www.theguardian.com/culture/2026/aug/15/from-my-brilliant-career-to-chelsea-wolfe-the-week-in-rave-reviews"
     },
     {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
+    {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2010 —",
-      "hook": "AIRES Flight 8250 crashes at Gustavo Rojas Pinilla International Airport in San Andrés, San Andrés y Providencia, Colombia, killing two people.",
-      "body": "AIRES Flight 8250 was a domestic scheduled passenger flight that on 16 August 2010 crashed on landing at night in poor weather on the Colombian island of San Andrés, killing two of the 131 people on board. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/HK-4682_Boeing_737-73V_Aires.jpg/330px-HK-4682_Boeing_737-73V_Aires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1989 —",
+      "hook": "A solar particle event affects computers at the Toronto Stock Exchange, forcing a halt to trading.",
+      "body": "A solar particle event (SPE), also known as a solar energetic particle event or solar radiation storm, is a solar phenomenon that occurs when particles emitted by the Sun, mostly protons, become accelerated either in the Sun's atmosphere during a solar flare or in interplanetary space by a coronal mass ejection shock. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Solar_flare_%28TRACE%29.gif/330px-Solar_flare_%28TRACE%29.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/AIRES_Flight_8250"
+      "url": "https://en.wikipedia.org/wiki/Solar_particle_event"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Beyond Belief: A Chronicle of Murder and its Detection is a semi-fictionalized account of the Moors murderers, Ian Brady and Myra Hindley, by the Welsh author and playwright, Emlyn Williams.",
-      "body": "As such, it may be classified as a nonfiction novel. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/af/Beyond_Belief.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Beyond_Belief%3A_A_Chronicle_of_Murder_and_Its_Detection"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Indira is Bengali drama film directed by Dinen Gupta based on the same name novel of Bankim Chandra Chatterjee.",
-      "body": "This film was released on 7 October 1983 under the banner of Sanchayita Films. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Indira_(1983_film)"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I thought – if I die, I’ve had a good innings’: producer James Ford on life, death and making an album from his hospital bed",
+      "body": "<p>The Arctic Monkeys, Pet Shop Boys and Pulp collaborator was at the height of his powers as Britain’s most in-demand music producer when leukaemia struck. ‘I realised life is exceptionally fragile,’ he says</p><p>There was a moment outsid",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/16/james-ellis-ford-music-producer-interview-lost-in-another-world-leukaemia-arctic-monkeys-florence-machine"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "A member of the Republican Party, Stauber has represented the district since 2019.",
-      "body": "Peter Allen Stauber is an American politician, former minor-league hockey player, and retired law enforcement officer from Minnesota serving as the United States representative for Minnesota's 8th congressional district. Worth a quiet trip down the rabbit hole",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pete_Stauber_118th_Congress_%28cropped%29.jpeg/330px-Pete_Stauber_118th_Congress_%28cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pete_Stauber"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1900 —",
-      "hook": "The Battle of Elands River during the Second Boer War ends after a 13-day siege is lifted by the British. The battle had begun when a force of between 2,000 and 3,000 Boers had surrounded a force of 500 Australians, Rhodesians, Canadians and British soldiers at a supply dump at Brakfontein Drift.",
-      "body": "The Battle of Elands River was an engagement of the Second Boer War that took place between 4 and 16 August 1900 in western Transvaal. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/AWM_A05317_3rd_New_South_Wales_Bushmen_Elands_River_1901.jpg/330px-AWM_A05317_3rd_New_South_Wales_Bushmen_Elands_River_1901.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2020 —",
+      "hook": "The August Complex fire in California burns more than one million acres of land.",
+      "body": "The August Complex fire was a massive wildfire complex that burned in the Coast Range of Northern California, in Glenn, Lake, Mendocino, Tehama, Trinity, and Shasta Counties. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/August-complex-Fire-CA_082120.png/330px-August-complex-Fire-CA_082120.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Elands_River_(1900)"
+      "url": "https://en.wikipedia.org/wiki/August_Complex_fire"
     },
     {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1986 —",
-      "hook": "A Sudan Airways Fokker F27 Friendship is shot down near Malakal in present day South Sudan, killing 60.",
-      "body": "Sudan Airways is the flag carrier airline of Sudan, headquartered in Khartoum. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sudan_Airways"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "World War II: US Navy L-class blimp L-8 drifts in from the Pacific and eventually crashes in Daly City, California. The two-man crew cannot be found.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Beggars in Ermine is a 1934 American pre-Code drama film directed by Phil Rosen and starring Lionel Atwill, Betty Furness and Jameson Thomas.",
-      "body": "It was distributed by Monogram Pictures. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/3c/Beggars_in_Ermine.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Hypogymnia occidentalis, commonly known as the lattice tube lichen, is a species of foliose lichen in the family Parmeliaceae.",
+      "body": "It is found in North America, where it grows on the lower trunks of conifers, particularly Douglas-fir. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lattice_Tube_Lichen_%283823905828%29.jpg/330px-Lattice_Tube_Lichen_%283823905828%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Beggars_in_Ermine"
+      "url": "https://en.wikipedia.org/wiki/Hypogymnia_occidentalis"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Cineuropa —",
-      "hook": "San Sebastián’s Europe-Latin America Co-Production Forum to present 15 projects - San Sebastián 2026 - San Sebastián Industry",
-      "body": "Santiago Loza, Christopher Murray, Celina Murga, Nelson Carlo de los Santos Arias and Golden Shell winner Mariana Rondón return to the event alongside newcomers",
-      "src": "Cineuropa",
-      "url": "https://cineuropa.org/en/newsdetail/494423/"
+      "opener": "ESA —",
+      "hook": "A look back at the 2026 total solar eclipse",
+      "body": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer atmosphe",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Iwao Matsuda was a general in the Imperial Japanese Army, commanding Japanese ground forces in the Southwest Pacific during the closing months of World War II.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Iwao_Matsuda_%28general%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Iwao_Matsuda_(general)"
+      "opener": "On this day in 1891 —",
+      "hook": "The Basilica of San Sebastian, Manila, the first all-steel church in Asia, is officially inaugurated and blessed.",
+      "body": "The Minor Basilica and Parish of Saint Sebastian, also known as the Shrine of Our Lady of Mount Carmel of Saint Sebastian and commonly known as San Sebastian Church or San Sebastian Basilica, is a minor basilica of the Roman Catholic Church in Manila, Philippines. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bas%C3%ADlica_de_San_Sebasti%C3%A1n%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_06.jpg/330px-Bas%C3%ADlica_de_San_Sebasti%C3%A1n%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/San_Sebastian_Church_(Manila)"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Cineuropa —",
-      "hook": "European titles submitted for the Oscars race - Oscars 2027",
-      "body": "European countries reveal their titles submitted for the Best International Feature Film Award at the 2027 Academy Awards",
-      "src": "Cineuropa",
-      "url": "https://cineuropa.org/en/newsdetail/494046/"
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Sambatiyon, a kleynkunst company founded in Vilna, Poland in June 1926, was called by its founders a \"Jewish literary-artistic revue theater.\" Sambatiyon's founder, Yitshkhok Nozhik, wrote: \"Clumsy American produced operettas, which are mostly melodramas or complete tragedies with song and dance, no longer interest our audience.",
+      "body": "Also, our actors want to be free of the type of theater in which simultaneously act and sing and dance in the same role.\" An evening at revi-teater consisted of 10-12 one-act plays, skits, and songs, with an intermission. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sambatiyon"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
     },
     {
       "type": "card",
@@ -167,24 +177,14 @@
       "url": "https://www.theguardian.com/stage/2026/aug/16/jonno-here-comes-mr-funny-review-edinburgh"
     },
     {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2020 —",
-      "hook": "The August Complex fire in California burns more than one million acres of land.",
-      "body": "The August Complex fire was a massive wildfire complex that burned in the Coast Range of Northern California, in Glenn, Lake, Mendocino, Tehama, Trinity, and Shasta Counties. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/August-complex-Fire-CA_082120.png/330px-August-complex-Fire-CA_082120.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/August_Complex_fire"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Cure for Death by Lightning is the debut novel from Canadian author Gail Anderson-Dargatz.",
-      "body": "It was nominated for the Giller Prize, was awarded the Ethel Wilson Fiction Prize, and became a bestseller in Canada and Great Britain. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/30/TheCureForDeathByLightning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Cure_for_Death_by_Lightning"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
     },
     {
       "type": "card",
@@ -194,6 +194,36 @@
       "body": "<p>Amid fears for jobs, some film-makers say AI could enable them bypass studio giants and take more creative risks</p><p>Near the collonaded entrance to Sony Pictures’ historic Culver City film studio, a tech-powered rival has sprung up th",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1942 —",
+      "hook": "World War II: US Navy L-class blimp L-8 drifts in from the Pacific and eventually crashes in Daly City, California. The two-man crew cannot be found.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Baron Mikhail Alexandrovich Taube was a Russian international lawyer, statesman and legal historian.",
+      "body": "Being a Catholic converted from Russian Orthodoxy, Taube came from an old Swedish-German family von Taube, known from the 13th century, one of the branches of Baltic Germans in the service of the Russian throne. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/%D0%91%D0%B0%D1%80%D0%BE%D0%BD_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%A2%D0%B0%D1%83%D0%B1%D0%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikhail_Taube"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1570 —",
+      "hook": "The Principality of Transylvania is established after John II Zápolya renounces his claim as King of Hungary in the Treaty of Speyer.",
+      "body": "The Principality of Transylvania was a semi-independent state ruled by Hungarian princes. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Transylvanian_flag%2C_1601.svg/330px-Transylvanian_flag%2C_1601.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Transylvania_(1570%E2%80%931711)"
     }
   ]
 }
