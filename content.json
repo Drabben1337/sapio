@@ -1,25 +1,74 @@
 {
-  "generated": "2026-08-17T15:13:02.137Z",
-  "count": 23,
+  "generated": "2026-08-17T16:11:20.045Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1863 —",
+      "hook": "American Civil War: In Charleston, South Carolina, Union batteries and ships bombard Confederate-held Fort Sumter.",
+      "body": "Charleston is the most populous city in the U.S. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/East_Battery_Street_Charleston_Aug2010.jpg/330px-East_Battery_Street_Charleston_Aug2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Charleston%2C_South_Carolina"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Clockwork Three is a 2010 novel by American author Matthew J.",
-      "body": "Set in a fictional coastal city in the late nineteenth century, it follows three children: Giuseppe, Hannah, and Frederick who work to solve each other's problems. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e0/ClockworkThree.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "George Ellery Hale was an American astrophysicist best known for his discovery of magnetic fields in sunspots.",
+      "body": "He was also a key figure in the planning and construction of several world-leading telescopes: the 40-inch refracting telescope at Yerkes Observatory; the 60-inch Hale and 100-inch Hooker reflecting telescopes, both at Mount Wilson Observatory; and the 200-inc",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Portrait_of_George_Ellery_Hale.jpg/330px-Portrait_of_George_Ellery_Hale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Clockwork_Three"
+      "url": "https://en.wikipedia.org/wiki/George_Ellery_Hale"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Hayden Panettiere, actor in Heroes and Nashville, dies aged 36",
-      "body": "<p>Panettiere’s death was announced by her father, who called her ‘an incredible light and a force of nature who brought immeasurable love and joy’</p><ul><li><p><a href=\"https://www.theguardian.com/tv-and-radio/gallery/2026/aug/17/hayden-p",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36"
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The San Francisco Fire Department (SFFD) provides firefighting, hazardous materials response services, technical rescue services and emergency medical response services to the City and County of San Francisco, California.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Seal_of_the_San_Francisco_Fire_Department.png/330px-Seal_of_the_San_Francisco_Fire_Department.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/San_Francisco_Fire_Department"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Philology, the study of comparative and historical linguistics, especially of the medieval period, had a major influence on J.",
+      "body": "Tolkien's fantasy world of Middle-earth. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Roman_Temple_-_geograph.org.uk_-_1318760.jpg/330px-Roman_Temple_-_geograph.org.uk_-_1318760.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philology_and_Middle-earth"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1808 —",
+      "hook": "The Finnish War: The Battle of Alavus is fought.",
+      "body": "The Finnish War was fought between the Kingdom of Sweden and the Russian Empire from 21 February 1808 to 17 September 1809 as part of the Napoleonic Wars. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Finnish_War_Collage_5.png/330px-Finnish_War_Collage_5.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Finnish_War"
     },
     {
       "type": "card",
@@ -32,198 +81,99 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1585 —",
+      "hook": "Eighty Years' War: Siege of Antwerp: Antwerp is captured by Spanish forces under Alexander Farnese, Duke of Parma, who orders Protestants to leave the city and as a result over half of the 100,000 inhabitants flee to the northern provinces.",
+      "body": "The Eighty Years' War or Dutch Revolt was an armed conflict in the Habsburg Netherlands between disparate groups of rebels and the Spanish government. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Battle_of_Gibraltar_1607.jpg/330px-Battle_of_Gibraltar_1607.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Eighty_Years'_War"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "The best recent crime and thrillers – review roundup",
-      "body": "<p>The Amateur by Chris Bohjalian; Claws Out! by Bella Mackie; Plant Lady by Minyoung Kang;<strong> </strong>Children of Wolves by Lawrence Osborne; Mad Mabel by Sally Hepworth</p><p><strong><a href=\"https://guardianbookshop.com/the-amateur",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/14/the-best-recent-and-thrillers-review-roundup"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Big Bee is a 2015 Japanese thriller film directed by Yukihiko Tsutsumi and based on the novel of the same name by Keigo Higashino.",
-      "body": "It was released on September 12, 2015. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/28/The_Big_Bee_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Big_Bee"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Burning City is a fantasy novel of social and political allegory by American writers Larry Niven and Jerry Pournelle.",
-      "body": "It is set in an analogue of Southern California in an imaginary past shortly after the sinking of Atlantis about 14,000 years ago in the twilight of a civilization then struggling and now vanished for lack of a crucial natural, and essentially non-renewable re",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/BurningCity.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Burning_City"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Hubble & Gaia solve our galaxy's merger mystery",
-      "body": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery"
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1798 —",
-      "hook": "The Vietnamese Catholics report a Marian apparition in Quảng Trị, an event which is called Our Lady of La Vang.",
-      "body": "Vietnam, officially the Socialist Republic of Viet Nam (SRV), is a country at the eastern edge of Mainland Southeast Asia. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1942 —",
+      "hook": "World War II: U.S. Marines raid the Japanese-held Pacific island of Makin.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Vietnam"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1498 —",
-      "hook": "Cesare Borgia, son of Pope Alexander VI, becomes the first person in history to resign the cardinalate; later that same day, King Louis XII of France names him Duke of Valentinois.",
-      "body": "Cesare Borgia was an Italian cardinal deacon and later a condottiero, as well as a member of the Spanish House of Borgia. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cesare_Borgia%2C_Duke_of_Valentinois.jpg/330px-Cesare_Borgia%2C_Duke_of_Valentinois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Cesare_Borgia"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "World War I: Battle of Stallupönen: The German army of General Hermann von François defeats the Russian force commanded by Paul von Rennenkampf near modern-day Nesterov, Russia.",
-      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_I"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Why women with ADHD feel overwhelmingly &#8216;controlled&#8217; by their hormones",
-      "body": "People with ADHD are unusually sensitive to hormone shifts. Psychiatrists have started to pay attention, creating strategies to address the intense emotions and cognitive challenges caused by these changes",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583945-why-women-with-adhd-feel-overwhelmingly-controlled-by-their-hormones/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Slaughterman’s Daughter, Hebrew title: Tikkun Ahar Hatzot, is an “epic historical adventure novel” written in a “fabulist style” about a Jewish community in a provincial Belarusian town which “takes the reader through the corridors of power, people and history of 19th century Belarus\".",
-      "body": "Superficially it may also be described as a picaresque novel. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/The_Slaughterman%E2%80%99s_Daughter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Venom Business is Michael Crichton's seventh published novel, and the fifth under his pseudonym John Lange.",
+      "body": "It was released in 1969 by The World Publishing Company under the pseudonym of John Lange. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7a/The_Venom_Business.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Slaughterman's_Daughter"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Total solar eclipse 2026 (Official ESA broadcast)",
-      "body": "Video: 01:10:42 We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026. The path of totality swept across Greenland, Iceland, Spain and a small area of northeaste",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Dark is a 2005 folk horror film starring Sean Bean and Maria Bello and directed by John Fawcett.",
-      "body": "It is based on the 1994 novel Sheep by Simon Maginn. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6f/Thedark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Dark_(2005_film)"
+      "url": "https://en.wikipedia.org/wiki/The_Venom_Business"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "Beatles film recreates iconic Abbey Road album cover",
-      "body": "<p>Social media footage this weekend revealed the cast of Sam Mendes’ four-film band biopic on the zebra crossing near the studio, posing for the famous image</p><p>The production team behind the forthcoming four-film Beatles biopic, direct",
+      "hook": "John Oliver on fetal personhood: ‘It effectively treats women as incubators’",
+      "body": "<p>The host discussed problems with giving fetuses equivalent rights to humans after the overturning of Roe v Wade</p><p>On his HBO show on Sunday night, <a href=\"https://www.theguardian.com/tv-and-radio/john-oliver\">John Oliver</a> discuss",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes"
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/john-oliver-abortion-fetal-personhood"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Fort Washington is an unincorporated area and census-designated place in Prince George's County, Maryland, United States.",
+      "body": "It borders the Potomac River, situated 20 miles south of downtown Washington, D.C. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fort_Washington_Park_2004-10-17.jpg/330px-Fort_Washington_Park_2004-10-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fort_Washington%2C_Maryland"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2009 —",
-      "hook": "An accident at the Sayano-Shushenskaya Dam in Khakassia, Russia, kills 75 and shuts down the hydroelectric power station, leading to widespread power failure in the local area.",
-      "body": "On 17 August 2009, a turbine in the hydroelectric power station of the Sayano-Shushenskaya Dam near Sayanogorsk in Russia failed catastrophically, killing 75 people and severely damaging the plant. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Damage_to_the_Sayano-Shushinskaya_power_station.jpg/330px-Damage_to_the_Sayano-Shushinskaya_power_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1950 —",
+      "hook": "Korean War: Forty-two American prisoners of war are massacred by the Korean People's Army on a hill above Waegwan, South Korea.",
+      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sayano-Shushenskaya_power_station_accident"
+      "url": "https://en.wikipedia.org/wiki/Korean_War"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1988 —",
-      "hook": "President of Pakistan Muhammad Zia-ul-Haq and U.S. Ambassador Arnold Raphel are killed in a plane crash.",
-      "body": "Muhammad Zia-ul-Haq was a Pakistani general who ruled Pakistan from his coup in 1977 until his death in an airplane crash in 1988. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/President_Mohammad_Zia_Ul_Haq.jpg/330px-President_Mohammad_Zia_Ul_Haq.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1969 —",
+      "hook": "Category 5 Hurricane Camille hits the U.S. Gulf Coast, killing 256 and causing $1.42 billion in damage.",
+      "body": "The Saffir–Simpson hurricane wind scale (SSHWS) is a tropical cyclone intensity scale that classifies hurricanes—which in the Western Hemisphere are tropical cyclones that exceed the intensities of tropical depressions and tropical storms—into five categories distinguished by the intensities of their sustained winds. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Zia-ul-Haq"
+      "url": "https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson_scale"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1978 —",
-      "hook": "Double Eagle II becomes first balloon to cross the Atlantic Ocean when it lands in Miserey, France near Paris, 137 hours after leaving Presque Isle, Maine.",
-      "body": "Double Eagle II, piloted by Ben Abruzzo, Maxie Anderson and Larry Newman, became the first balloon to cross the Atlantic Ocean when it landed on 17 August 1978 in Miserey near Paris, 137 hours and 6 minutes after leaving Presque Isle, Maine. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/DoubleEagleIIPresqueIsleMaine.jpg/330px-DoubleEagleIIPresqueIsleMaine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Double_Eagle_II"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Venue admits scrapping Jewish comedian's Edinburgh Fringe show was discrimination",
+      "body": "Philip Simon was due to perform his stand-up show at the Banshee Labyrinth last year but it was cancelled after the venue assessed his social media.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c330k4g4r08o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Britain&#8217;s only desalination plant remains idle during drought",
+      "body": "Water flow in the river Thames has dropped low enough to warrant the use of England’s only large-scale desalination plant, but it hasn’t been switched on at all this year",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2585005-britains-only-desalination-plant-remains-idle-during-drought/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     }
   ]
 }
