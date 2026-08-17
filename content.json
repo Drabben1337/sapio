@@ -1,93 +1,36 @@
 {
-  "generated": "2026-08-17T02:10:46.898Z",
-  "count": 18,
+  "generated": "2026-08-17T03:37:33.556Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "Of Stars and Men is a 1964 American animated documentary film directed by John Hubley, based on the 1959 book of the same title by astronomer Harlow Shapley, who also narrates.",
+      "body": "It was produced by Hubley and Faith Hubley and has been cited as an example of an \"animated documentary\". Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Of_Stars_and_Men_film_Opening_titles_%281964%29.jpg/330px-Of_Stars_and_Men_film_Opening_titles_%281964%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Of_Stars_and_Men"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Operation Burning Candle is a novel by Blyden Jackson published in 1973.",
-      "body": "It describes a political conspiracy led by a group called the Black Warriors, whose leader is Vietnam War veteran and Harlem native Captain Aaron Rogers. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/07/Operation_Burning_Candle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Bill Holman was an American cartoonist who drew the classic comic strip Smokey Stover from 1935 until he retired in 1973.",
+      "body": "Distributed through the Chicago Tribune syndicate, it had the longest run of any strip in the screwball genre. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/Holmanselfportrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Operation_Burning_Candle"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Pirate Loop is a BBC Books original novel written by Simon Guerrier and based on the long-running science fiction television series Doctor Who.",
-      "body": "It features the Tenth Doctor and Martha Jones. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/Pirate_Loop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Pirate_Loop"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Vikramarkudu is a 2006 Indian Telugu-language masala film co-written and directed by S.",
-      "body": "Rajamouli, based on a story by V. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Vikramarkudu_poster.jpg/330px-Vikramarkudu_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Vikramarkudu"
+      "url": "https://en.wikipedia.org/wiki/Bill_Holman_(cartoonist)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1950 —",
-      "hook": "Korean War: Forty-two American prisoners of war were massacred by the Korean People's Army on a hill above Waegwan, South Korea.",
-      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Korean_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "BBC seeks to subpoena family members in Panorama lawsuit",
-      "body": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "These Violent Delights review – Scottish Ballet’s feverish Romeo and Juliet is bold and unsettling",
-      "body": "<p><strong>Edinburgh film festival</strong><br>A taut, dreamlike reimagining of Shakespeare’s tragedy strips away romance in favour of dread, creating an engrossing and fiercely physical dance film</p><p>Scottish Ballet, under the direction",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/14/these-violent-delights-review-oscar-sansom-christopher-hampson"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1597 —",
-      "hook": "Islands Voyage: Robert Devereux, 2nd Earl of Essex, and Sir Walter Raleigh set sail on an expedition to the Azores.",
-      "body": "The Islands Voyage, also known as the Essex-Raleigh Expedition, was an ambitious, but unsuccessful naval campaign sent by Queen Elizabeth I of England, and supported by the Dutch Republic, against the Spanish Empire and Portuguese Empire of Philip II from the House of Habsburg during the Anglo-Spanish War (1585–1604) and the Eighty Years' War. One of those things you can't un-know.",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Society for European Philosophy (SEP) is a philosophical society founded in 1996.",
+      "body": "The organization sponsors an annual conference. The world is stranger than it lets on.",
       "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Islands_Voyage"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "World War II: U.S. Marines raid the Japanese-held Pacific island of Makin.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Society_for_European_Philosophy"
     },
     {
       "type": "card",
@@ -100,62 +43,51 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The anthophytes are a grouping of plant taxa bearing flower-like reproductive structures.",
+      "body": "They were formerly thought to be a clade comprising plants bearing flower-like structures. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_flowering_plants_of_South_Africa"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "hook": "These Violent Delights review – Scottish Ballet’s feverish Romeo and Juliet is bold and unsettling",
+      "body": "<p><strong>Edinburgh film festival</strong><br>A taut, dreamlike reimagining of Shakespeare’s tragedy strips away romance in favour of dread, creating an engrossing and fiercely physical dance film</p><p>Scottish Ballet, under the direction",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2017 —",
-      "hook": "Barcelona attacks: A van is driven into pedestrians in La Rambla, killing 14 and injuring at least 100.",
-      "body": "On the afternoon of 17 August 2017, 22-year-old Younes Abouyaaqoub drove a van into pedestrians on La Rambla street in Barcelona, Catalonia, Spain, killing 13 people and injuring at least 130 others, one of whom died 10 days later on 27 August. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg/330px-Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2017_Barcelona_attacks"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1808 —",
-      "hook": "The Finnish War: The Battle of Alavus is fought.",
-      "body": "The Finnish War was fought between the Kingdom of Sweden and the Russian Empire from 21 February 1808 to 17 September 1809 as part of the Napoleonic Wars. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Finnish_War_Collage_5.png/330px-Finnish_War_Collage_5.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Finnish_War"
+      "url": "https://www.theguardian.com/film/2026/aug/14/these-violent-delights-review-oscar-sansom-christopher-hampson"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Dawn of the Planet of the Apes is a 2014 American science fiction action film directed by Matt Reeves and written by Mark Bomback and the writing team of Rick Jaffa and Amanda Silver.",
-      "body": "The sequel to Rise of the Planet of the Apes (2011), it is the second installment in the Planet of the Apes reboot film series and the eighth film overall. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/77/Dawn_of_the_Planet_of_the_Apes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Lieutenant-General Sir William Warre, was an English officer of the British Army.",
+      "body": "He saw service in the Peninsular War and was colonel of the 94th Foot. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sir_William_Warre.jpg/330px-Sir_William_Warre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes"
+      "url": "https://en.wikipedia.org/wiki/William_Warre"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "BBC seeks to subpoena family members in Panorama lawsuit",
+      "body": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Home of Dark Butterflies is a 2008 Finnish film directed by Dome Karukoski and starring Niilo Syväoja, Tommi Korpela, Kristiina Halttu and Kati Outinen.",
-      "body": "The film is an adaptation of the award-winning novel of the same name by Leena Lander. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/ed/The_Home_of_Dark_Butterflies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "The Munda languages, spoken mainly in eastern and central India, are part of the Austroasiatic family, which also includes Khmer and Vietnamese spoken in Southeast Asia.",
+      "body": "However, Munda languages as well as their reconstructed ancestral predecessor proto-Munda show significant differences from their Southeast Asian relatives, especially in phonology, morphology, and lexical inventories, likely due to prolonged language contact ",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Home_of_Dark_Butterflies"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "The novella Animal Farm by George Orwell is first published.",
-      "body": "Animal Farm is a satirical allegorical dystopian novella, in the form of a beast fable, by George Orwell, first published in England on 17 August 1945. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Animal_Farm_-_1st_edition.jpg/330px-Animal_Farm_-_1st_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Animal_Farm"
+      "url": "https://en.wikipedia.org/wiki/Substratum_in_Munda_languages"
     },
     {
       "type": "card",
@@ -165,6 +97,34 @@
       "body": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Seyed Javad Mowla is an Iranian neuroscientist and molecular biologist.",
+      "body": "degree in 2001 in the field of Neuroscience from McGill University, Montreal, Canada. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Seyed_Javad_Mowla"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
     },
     {
       "type": "card",
