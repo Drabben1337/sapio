@@ -1,15 +1,83 @@
 {
-  "generated": "2026-08-17T19:18:30.694Z",
+  "generated": "2026-08-17T20:11:34.611Z",
   "count": 19,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "\"The Dad-Feelings Limited\" is the 11th episode of the thirty-second season of the American animated television series The Simpsons, and the 695th episode overall.",
+      "body": "It aired in the United States on Fox on January 3, 2021. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Dad-Feelings_Limited"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "Bolshevik revolutionary leader Moisei Uritsky is assassinated.",
+      "body": "The Bolsheviks, led by Vladimir Lenin, were a radical faction of the Marxist Russian Social Democratic Labour Party (RSDLP) which split with the Mensheviks at the Second Party Congress in 1903. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg/330px-Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bolsheviks"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2015 —",
+      "hook": "A bomb explodes near the Erawan Shrine in Bangkok, Thailand, killing at least 19 people and injuring 123 others.",
+      "body": "On 17 August 2015, a bombing took place inside the Erawan Shrine at the Ratchaprasong intersection in Pathum Wan district, Bangkok, Thailand, killing 20 people and injuring 125. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2015_Bangkok_bombing_VOA.jpg/330px-2015_Bangkok_bombing_VOA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2015_Bangkok_bombing"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Armen Margarian is an American entrepreneur, strategist and the CEO/co-founder/CEO of, Inc.",
+      "body": "a Berkeley Skydeck accelerator company which provides litigation support to attorneys and law firms. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Armen-Margarian-AppearMe.jpg/330px-Armen-Margarian-AppearMe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Armen_Margarian"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech",
-      "body": "<p>Amid fears for jobs, some film-makers say AI could enable them to bypass studio giants and take more creative risks</p><p>Near the collonaded entrance to Sony Pictures’ historic Culver City film studio, a tech-powered rival has sprung up",
+      "hook": "Joy in Hollywood as historic Cinerama dome to reopen: ‘People still want to go to the movies’",
+      "body": "<p>Sony Pictures in July announced that the celebrated theater, built in 1963 and shuttered during Covid, will reopen in 2028</p><p>Drive down Sunset Boulevard in Los Angeles, along the Hollywood Walk of Fame, and you’ll see a movie theater",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making"
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/los-angeles-movies-cinerama-dome"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "A Russian Beauty and Other Stories is a collection of thirteen short stories by Russian author Vladimir Nabokov.",
+      "body": "The short stories in this collection were originally written in Russian between 1927 and 1940 under the pseudonym Vladimir Sirin. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/ARussianBeauty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Russian_Beauty_and_Other_Stories"
     },
     {
       "type": "card",
@@ -20,16 +88,6 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Vietnam"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Krzysztof Lenk was a Polish graphic designer known as a specialist of visual communication, and a celebrated educator.",
-      "body": "During his career, he designed numerous magazines and publications, posters and book covers, diagrams and information maps; he was a professor of graphic design at Academy of Fine Arts in Łódź, Poland, and later at Rhode Island School of Design (RISD) in the U",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Krzysztof_Lenk_2008.jpg/330px-Krzysztof_Lenk_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Krzysztof_Lenk"
     },
     {
       "type": "card",
@@ -44,54 +102,6 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Super Troopers 3 review – misfiring cop comedy threequel",
-      "body": "<p>The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence</p><p>Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "An auto-da-fé was a ritualized or public penance carried out between the 15th and 19th centuries in condemnation of heretics, apostates, and minorities such as Jews and Muslims.",
-      "body": "It was imposed by the Spanish, Portuguese, or Mexican Inquisition as punishment and enforced by civil authorities. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Pedro_Berruguete_Saint_Dominic_Presiding_over_an_Auto-da-fe_1495.jpg/330px-Pedro_Berruguete_Saint_Dominic_Presiding_over_an_Auto-da-fe_1495.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Auto-da-f%C3%A9"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1862 —",
-      "hook": "American Indian Wars: The Dakota War of 1862 begins in Minnesota as Dakota warriors attack white settlements along the Minnesota River.",
-      "body": "The American Indian Wars, also known as the American Frontier Wars, and the Indian Wars, were initially fought by European colonial empires, the United States, and briefly the Confederate States of America and Republic of Texas against various American Indian tribes in North America. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg/330px-U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Indian_Wars"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1836 —",
-      "hook": "British parliament accepts registration of births, marriages and deaths.",
-      "body": "The Parliament of the United Kingdom of Great Britain and Northern Ireland is the supreme legislative body of the United Kingdom, and may also legislate for the Crown Dependencies and the British Overseas Territories. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Parliament_at_Sunset.JPG/330px-Parliament_at_Sunset.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
       "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
       "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
       "src": "The Guardian · Film",
@@ -99,53 +109,13 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Third World Books and Crafts was an independent bookstore last located at 943 Bathurst Street, Toronto.",
-      "body": "Book columnist Philip Marchand, from the Toronto Star, regarded it as the \"nerve center for [B]lack intellectuals in Toronto.\" Carrying an assortment of literature written by people of African descent, such as C. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Third_World_Books_and_Crafts.jpg/330px-Third_World_Books_and_Crafts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Third_World_Books_and_Crafts"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1883 —",
-      "hook": "The first public performance of the Dominican Republic's national anthem, Himno Nacional.",
-      "body": "The Dominican Republic is an island country on the eastern part of the Caribbean island of Hispaniola in the Greater Antilles of the Caribbean Sea in the North Atlantic Ocean. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/330px-Flag_of_the_Dominican_Republic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dominican_Republic"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "World War II: U.S. Marines raid the Japanese-held Pacific island of Makin.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Hugh McDonald was an Australian musician.",
-      "body": "Active from the 1970s to 2016, he performed and recorded with the Bushwackers, the Sundowners, Banshee, Redgum, Des \"Animal\" McKenna, Moving Cloud and the Colonials. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "Okay, this one's fun —",
+      "hook": "is an American animated sketch comedy anthology television series that ran on Nickelodeon from October 11, 1996 to May 27, 2000, with repeats until November 2, 2001.",
+      "body": "The series was created by Robert (Bob) Mittenthal, Will McRobb, and Chris Viscardi. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/KaBlam_Logo.svg/330px-KaBlam_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hugh_McDonald_(Australian_musician)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The league was formed in 2022 and is headquartered in Shinjuku, Tokyo.",
-      "body": "The Japan Diamond Softball League (JD.League) is a Japanese women's softball league that consists of 16 teams. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/JD.League_logo.png/330px-JD.League_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Japan_Diamond_Softball_League"
+      "url": "https://en.wikipedia.org/wiki/KaBlam!"
     },
     {
       "type": "card",
@@ -159,31 +129,61 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Aachener Printen are a type of Lebkuchen originating from the city of Aachen in Germany.",
-      "body": "Similar to gingerbread, they were originally sweetened with honey, but are now generally sweetened with a syrup made from sugar beets. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kraeuterprinten_1.jpg/330px-Kraeuterprinten_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Social fascism was a theory developed by the Communist International (Comintern) in the late 1920s which saw social democracy as the \"moderate wing of fascism\", particularly on the basis of their shared interest in class collaboration.",
+      "body": "The theory was abandoned by the Comintern in 1933 after the victory of the Nazis in Germany and subsequent suppression of communists. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Soviet_propaganda_social-fascism.jpg/330px-Soviet_propaganda_social-fascism.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Aachener_Printen"
+      "url": "https://en.wikipedia.org/wiki/Social_fascism"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Frank Henry Gowen (1878–1946) was a Canadian photographer.",
+      "body": "He grew up in Wiltshire, England, and served an apprenticeship with a London photographer. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Frank_Gowen"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 986 —",
-      "hook": "Byzantine–Bulgarian wars: Battle of the Gates of Trajan: The Bulgarians under the Comitopuli Samuel and Aron defeat the Byzantine forces at the Gate of Trajan, with Byzantine Emperor Basil II barely escaping.",
-      "body": "The Byzantine–Bulgarian wars were a series of conflicts fought between the Byzantine Empire and the Bulgarian Empire which began after the Bulgars conquered parts of the Balkan Peninsula after 680 AD. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BG_BYZ.JPG/330px-BG_BYZ.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1876 —",
+      "hook": "Richard Wagner's Götterdämmerung, the last opera in his Ring cycle, premieres at the Bayreuth Festspielhaus.",
+      "body": "Wilhelm Richard Wagner was a German composer, theatre director, essayist, and conductor, best known for his operas, although his mature works are often referred to as music dramas. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RichardWagner.jpg/330px-RichardWagner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars"
+      "url": "https://en.wikipedia.org/wiki/Richard_Wagner"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1498 —",
+      "hook": "Cesare Borgia, son of Pope Alexander VI, becomes the first person in history to resign the cardinalate; later that same day, King Louis XII of France names him Duke of Valentinois.",
+      "body": "Cesare Borgia was an Italian cardinal deacon and later a condottiero, as well as a member of the Spanish House of Borgia. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cesare_Borgia%2C_Duke_of_Valentinois.jpg/330px-Cesare_Borgia%2C_Duke_of_Valentinois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cesare_Borgia"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1943 —",
+      "hook": "World War II: The Royal Air Force begins Operation Hydra, the first air raid of the Operation Crossbow strategic bombing campaign against Germany's V-weapon program.",
+      "body": "The Royal Air Force (RAF) is the air and space force of the United Kingdom, British Overseas Territories and Crown Dependencies. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/RAF-Badge.svg/330px-RAF-Badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Royal_Air_Force"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech",
+      "body": "<p>Amid fears for jobs, some film-makers say AI could enable them to bypass studio giants and take more creative risks</p><p>Near the collonaded entrance to Sony Pictures’ historic Culver City film studio, a tech-powered rival has sprung up",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making"
     }
   ]
 }
