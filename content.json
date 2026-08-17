@@ -1,15 +1,63 @@
 {
-  "generated": "2026-08-17T10:18:12.962Z",
-  "count": 19,
+  "generated": "2026-08-17T11:13:44.087Z",
+  "count": 17,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Revelstoke is a city in southeastern British Columbia, Canada, with a census population of 8,275 in 2021.",
+      "body": "Revelstoke is located 641 kilometres (398 mi) east of Vancouver, and 415 kilometres (258 mi) west of Calgary, Alberta. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Revelstoke%2C_British_Columbia_-_2013.jpg/330px-Revelstoke%2C_British_Columbia_-_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Revelstoke%2C_British_Columbia"
+    },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Borges and Me review – a sweetly imagined literary odyssey through the Highlands",
-      "body": "<p><strong>Edinburgh film festival<br></strong>Luis Gnecco brings warmth, wit and quiet melancholy to Jorge Luis Borges in this gently enchanting adaptation of Jay Parini’s semi-fictional memoir</p><p>There is great sweetness and high-minde",
+      "hook": "‘Fated to become a cult classic’: why Barcelona is my feelgood movie",
+      "body": "<p>The latest in our series of writers detailing their most pleasurable comfort films is a trip to 1980s Spain courtesy of Whit Stillman</p><p>An hour into Whit Stillman’s 1994 film, Barcelona, the protagonist, Ted Boynton (Taylor Nichols),",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/15/borges-and-me-review-alan-cumming-fionn-whitehead"
+      "url": "https://www.theguardian.com/film/2026/aug/17/my-feelgood-movie-barcelona-whit-stillman"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "BFI London Film Festival competition lineup includes world premiere of Carol Morley’s ‘7 Miles Out’",
+      "body": "Hirokazu Koreeda’s ’Look Back’ and May el-Toukhy’s ’Woman Unknown’ are also competing.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/bfi-london-film-festival-competition-lineup-includes-world-premiere-of-carol-morleys-7-miles-out/5219441.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on the library of the forbidden tomes – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/16/tom-gauld-on-the-library-of-the-forbidden-tomes-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/aug/16/tom-gauld-on-the-library-of-the-forbidden-tomes-cartoon"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1943 —",
+      "hook": "World War II: The U.S. Eighth Air Force suffers the loss of 60 bombers on the Schweinfurt–Regensburg mission.",
+      "body": "The Eighth Air Force (Air Forces Strategic) is a numbered air force (NAF) of the United States Air Force's Air Force Global Strike Command (AFGSC). The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Eighth_Air_Force_-_Emblem.png/330px-Eighth_Air_Force_-_Emblem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Eighth_Air_Force"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Cal Lutheran Kingsmen and Regals are the athletic teams that represent California Lutheran University, located in Thousand Oaks, California, in intercollegiate sports as a member of the Division III level of the National Collegiate Athletic Association (NCAA), primarily competing in the Southern California Intercollegiate Athletic Conference (SCIAC) since the 1991–92 academic year.",
+      "body": "The Kingsmen and Regals previously competed in the Golden State Athletic Conference (GSAC) of the National Association of Intercollegiate Athletics (NAIA) 1986–87 to 1988–89; and as an NAIA independent from 1989–90 to 1990–91. Worth a quiet trip down the rabbi",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cal-lutheran_logo_from_NCAA.svg/330px-Cal-lutheran_logo_from_NCAA.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cal_Lutheran_Kingsmen_and_Regals"
     },
     {
       "type": "card",
@@ -23,120 +71,61 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2017 —",
-      "hook": "Barcelona attacks: A van is driven into pedestrians in La Rambla, killing 14 and injuring at least 100.",
-      "body": "On the afternoon of 17 August 2017, 22-year-old Younes Abouyaaqoub drove a van into pedestrians on La Rambla street in Barcelona, Catalonia, Spain, killing 13 people and injuring at least 130 others, one of whom died 10 days later on 27 August. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg/330px-Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1668 —",
+      "hook": "The magnitude 8.0 North Anatolia earthquake causes 8,000 deaths in northern Anatolia, Ottoman Empire.",
+      "body": "Northern Anatolia was struck by a large earthquake on 17 August 1668 in the late morning. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2017_Barcelona_attacks"
+      "url": "https://en.wikipedia.org/wiki/1668_North_Anatolia_earthquake"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1386 —",
-      "hook": "Karl Topia, the ruler of Princedom of Albania, forges an alliance with the Republic of Venice, committing to participate in all wars of the Republic and receiving coastal protection against the Ottomans in return.",
-      "body": "Karl Thopia sometimes written as Charles Thopia, was an Albanian feudal prince and warlord who ruled Albanian domains from 1358 until the first Ottoman conquest of Albania in 1388. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Karl_Thopia.jpg/330px-Karl_Thopia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1970 —",
+      "hook": "Soviet Union Venera program: Venera 7 launched. It will become the first spacecraft to successfully transmit data from the surface of another planet (Venus).",
+      "body": "The Venera program was a series of space probes developed by the Soviet Union between 1961 and 1984 to gather information about the planet Venus. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VenusLanderTopo.png/330px-VenusLanderTopo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Karl_Thopia"
+      "url": "https://en.wikipedia.org/wiki/Venera_program"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1949 —",
-      "hook": "The 6.7 Ms Karlıova earthquake shakes eastern Turkey with a maximum Mercalli intensity of X (Extreme), leaving 320–450 dead.",
-      "body": "The 1949 Karlıova earthquake occurred at 18:44 UTC on 17 August with an epicenter near Karlıova in Bingöl Province, Eastern Anatolia region of Turkey. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Anatolian_Plate_Vectoral.svg/330px-Anatolian_Plate_Vectoral.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1945 —",
+      "hook": "Evacuation of Manchukuo: At Talitzou by the Sino-Korean border, Puyi, then the Kangde Emperor of Manchukuo, formally renounces the imperial throne, dissolves the state, and cedes its territory to the Republic of China.",
+      "body": "The evacuation of the Japanese puppet state of Manchukuo occurred during the Soviet invasion of Manchuria in August 1945, part of the last phase of World War II. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Manchukuo_map.png/330px-Manchukuo_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1949_Karl%C4%B1ova_earthquake"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The research facilities and headquarters are located at the Leiden Bio Science Park, Netherlands.",
-      "body": "HAL Allergy Group is a pharmaceutical company that develops, produces and sells products for allergy diagnostic and allergen immunotherapy (AIT). Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/J.H._Oortweg_15-17_Leiden_HAL.JPG/330px-J.H._Oortweg_15-17_Leiden_HAL.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/HAL_Allergy_Group"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1784 —",
-      "hook": "Classical composer Luigi Boccherini receives a pay rise of 12,000 reals from his employer, the Infante Luis, Count of Chinchón.",
-      "body": "Ridolfo Luigi Boccherini was an Italian composer and cellist of the Classical era whose music retained a courtly and galante style even while he matured somewhat apart from the major classical musical centers. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Portrait_de_Luigi_Boccherini%2C_1814_%28cropped%29.jpg/330px-Portrait_de_Luigi_Boccherini%2C_1814_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Luigi_Boccherini"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1862 —",
-      "hook": "American Indian Wars: The Dakota War of 1862 begins in Minnesota as Dakota warriors attack white settlements along the Minnesota River.",
-      "body": "The American Indian Wars, also known as the American Frontier Wars, and the Indian Wars, were initially fought by European colonial empires, the United States, and briefly the Confederate States of America and Republic of Texas against various American Indian tribes in North America. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg/330px-U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Indian_Wars"
+      "url": "https://en.wikipedia.org/wiki/Evacuation_of_Manchukuo"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on the library of the forbidden tomes – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/16/tom-gauld-on-the-library-of-the-forbidden-tomes-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/aug/16/tom-gauld-on-the-library-of-the-forbidden-tomes-cartoon"
+      "opener": "New Scientist —",
+      "hook": "Weightlifting makes older women leaner, stronger and more mobile",
+      "body": "Lifting at least 50 kilograms twice a week improved older women's muscle mass, mobility and balance",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584910-weightlifting-makes-older-women-leaner-stronger-and-more-mobile/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Clinton \"Dusty\" Fletcher was an African-American vaudeville performer and comedian, who was best known for the comedy routine which became a hit record in 1947, \"Open the Door, Richard\".",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dusty_Fletcher.JPG/330px-Dusty_Fletcher.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Here's one for the group chat —",
+      "hook": "From March 9 to March 28, 2026, members of the New Democratic Party of Canada (NDP) voted in a leadership election to choose a permanent leader to replace Don Davies, who became leader on an interim basis following the resignation of Jagmeet Singh.",
+      "body": "Singh announced his resignation after being defeated in the 2025 Canadian federal election. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Avi_Lewis_September_2025_Ottawa.jpg/330px-Avi_Lewis_September_2025_Ottawa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dusty_Fletcher"
+      "url": "https://en.wikipedia.org/wiki/2026_New_Democratic_Party_leadership_election"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1943 —",
-      "hook": "World War II: The Royal Air Force begins Operation Hydra, the first air raid of the Operation Crossbow strategic bombing campaign against Germany's V-weapon program.",
-      "body": "The Royal Air Force (RAF) is the air and space force of the United Kingdom, British Overseas Territories and Crown Dependencies. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/RAF-Badge.svg/330px-RAF-Badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1488 —",
+      "hook": "Konrad Bitz, the Bishop of Turku, marks the date of his preface to Missale Aboense, the oldest known book of Finland.",
+      "body": "The Archdiocese of Turku is the oldest diocese in Finland. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Royal_Air_Force"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Copper Family are a family of singers of traditional, unaccompanied English folk song.",
-      "body": "Originally from Rottingdean, near Brighton, Sussex, England, the nucleus of the family now live in the neighbouring village of Peacehaven. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Copper_Family"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "George Jesus Borjas is a Cuban-American economist and the Robert W.",
-      "body": "Scrivner Professor of Economics and Social Policy at the Harvard Kennedy School. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/George_J._Borjas"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Mission review – dangerous quest to mend a broken childhood",
-      "body": "<p><strong>Edinburgh film festival<br></strong>George MacKay plays a troubled restaurant worker embarking on bleak inner and outer journeys reflecting the pressures on young men</p><p>Paul Wright has created a moodscape of loneliness in thi",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/15/mission-review-dangerous-quest-to-mend-a-broken-childhood"
+      "url": "https://en.wikipedia.org/wiki/List_of_bishops_of_Turku"
     },
     {
       "type": "card",
@@ -151,15 +140,6 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "‘Fated to become a cult classic’: why Barcelona is my feelgood movie",
-      "body": "<p>The latest in our series of writers detailing their most pleasurable comfort films is a trip to 1980s Spain courtesy of Whit Stillman</p><p>An hour into Whit Stillman’s 1994 film, Barcelona, the protagonist, Ted Boynton (Taylor Nichols),",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/17/my-feelgood-movie-barcelona-whit-stillman"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
       "hook": "‘Can we accept what we have done or not done?’: harrowing film follows doctors in Gaza",
       "body": "<p>American Doctor follows three volunteer doctors as they try to save lives on the frontline and then return to the US to become advocates in congress</p><p>When she wanted to confront Americans about the consequences of their actions – or",
       "src": "The Guardian · Film",
@@ -167,23 +147,23 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Bingzhou, or Bing Province, was a location in ancient China.",
-      "body": "According to legend, when Yu the Great tamed the flood, he divided the land of China into the Nine Provinces. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bingzhou"
+      "cat": "history",
+      "opener": "On this day in 1999 —",
+      "hook": "The 7.6 Mw İzmit earthquake shakes northwestern Turkey with a maximum Mercalli intensity of IX (Violent), leaving 17,118–17,127 dead and 43,953–50,000 injured.",
+      "body": "An earthquake of moment magnitude 7.6 struck Kocaeli Province, Turkey on 17 August 1999. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Izmit_eart6.jpg/330px-Izmit_eart6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Weeley is a village and civil parish in the Tendring district of Essex, England.",
-      "body": "It is served by Weeley railway station on the Sunshine Coast Line. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Black_Boy_Inn%2C_Weeley%2C_Essex.jpg/330px-The_Black_Boy_Inn%2C_Weeley%2C_Essex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "Sari Wilson is an American novelist and writer.",
+      "body": "She has written prose and comics, and is the author of the novel Girl Through Glass. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Weeley"
+      "url": "https://en.wikipedia.org/wiki/Sari_Wilson"
     }
   ]
 }
