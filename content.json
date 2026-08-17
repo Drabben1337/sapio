@@ -1,93 +1,7 @@
 {
-  "generated": "2026-08-17T11:13:44.087Z",
-  "count": 17,
+  "generated": "2026-08-17T12:15:14.085Z",
+  "count": 13,
   "items": [
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Revelstoke is a city in southeastern British Columbia, Canada, with a census population of 8,275 in 2021.",
-      "body": "Revelstoke is located 641 kilometres (398 mi) east of Vancouver, and 415 kilometres (258 mi) west of Calgary, Alberta. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Revelstoke%2C_British_Columbia_-_2013.jpg/330px-Revelstoke%2C_British_Columbia_-_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Revelstoke%2C_British_Columbia"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘Fated to become a cult classic’: why Barcelona is my feelgood movie",
-      "body": "<p>The latest in our series of writers detailing their most pleasurable comfort films is a trip to 1980s Spain courtesy of Whit Stillman</p><p>An hour into Whit Stillman’s 1994 film, Barcelona, the protagonist, Ted Boynton (Taylor Nichols),",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/17/my-feelgood-movie-barcelona-whit-stillman"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "BFI London Film Festival competition lineup includes world premiere of Carol Morley’s ‘7 Miles Out’",
-      "body": "Hirokazu Koreeda’s ’Look Back’ and May el-Toukhy’s ’Woman Unknown’ are also competing.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/bfi-london-film-festival-competition-lineup-includes-world-premiere-of-carol-morleys-7-miles-out/5219441.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on the library of the forbidden tomes – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/16/tom-gauld-on-the-library-of-the-forbidden-tomes-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/aug/16/tom-gauld-on-the-library-of-the-forbidden-tomes-cartoon"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1943 —",
-      "hook": "World War II: The U.S. Eighth Air Force suffers the loss of 60 bombers on the Schweinfurt–Regensburg mission.",
-      "body": "The Eighth Air Force (Air Forces Strategic) is a numbered air force (NAF) of the United States Air Force's Air Force Global Strike Command (AFGSC). The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Eighth_Air_Force_-_Emblem.png/330px-Eighth_Air_Force_-_Emblem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Eighth_Air_Force"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Cal Lutheran Kingsmen and Regals are the athletic teams that represent California Lutheran University, located in Thousand Oaks, California, in intercollegiate sports as a member of the Division III level of the National Collegiate Athletic Association (NCAA), primarily competing in the Southern California Intercollegiate Athletic Conference (SCIAC) since the 1991–92 academic year.",
-      "body": "The Kingsmen and Regals previously competed in the Golden State Athletic Conference (GSAC) of the National Association of Intercollegiate Athletics (NAIA) 1986–87 to 1988–89; and as an NAIA independent from 1989–90 to 1990–91. Worth a quiet trip down the rabbi",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cal-lutheran_logo_from_NCAA.svg/330px-Cal-lutheran_logo_from_NCAA.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cal_Lutheran_Kingsmen_and_Regals"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Screen unveils 2026 Rising Stars Scotland lineup",
-      "body": "It features 10 up-and-coming actors, writers, writer-directors and producers.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/screen-unveils-2026-rising-stars-scotland-lineup/5219325.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1668 —",
-      "hook": "The magnitude 8.0 North Anatolia earthquake causes 8,000 deaths in northern Anatolia, Ottoman Empire.",
-      "body": "Northern Anatolia was struck by a large earthquake on 17 August 1668 in the late morning. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1668_North_Anatolia_earthquake"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1970 —",
-      "hook": "Soviet Union Venera program: Venera 7 launched. It will become the first spacecraft to successfully transmit data from the surface of another planet (Venus).",
-      "body": "The Venera program was a series of space probes developed by the Soviet Union between 1961 and 1984 to gather information about the planet Venus. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VenusLanderTopo.png/330px-VenusLanderTopo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Venera_program"
-    },
     {
       "type": "card",
       "cat": "history",
@@ -101,6 +15,82 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "BFI London Film Festival competition lineup includes world premiere of Carol Morley’s ‘7 Miles Out’",
+      "body": "Hirokazu Koreeda’s ’Look Back’ and May el-Toukhy’s ’Woman Unknown’ are also competing.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/bfi-london-film-festival-competition-lineup-includes-world-premiere-of-carol-morleys-7-miles-out/5219441.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Hayden Panettiere: A life of struggles alongside screen success",
+      "body": "The actress started as a child star but endured struggles that went along with the pressures of fame.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c629krywgw2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1827 —",
+      "hook": "Dutch King William I and Pope Leo XII sign concord.",
+      "body": "William I was King of the Netherlands and Grand Duke of Luxembourg from 1815 until his abdication in 1840. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/William_I_of_the_Netherlands.jpg/330px-William_I_of_the_Netherlands.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/William_I_of_the_Netherlands"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Mrs Brown's Boys Christmas specials cancelled after star breaks jaw",
+      "body": "The sitcom's creator says he requires \"immediate\" surgery but hopes the show will return in 2027.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cpvwen0we3yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2005 —",
+      "hook": "Over 500 bombs are set off by terrorists at 300 locations in 63 out of the 64 districts of Bangladesh.",
+      "body": "On 17 August 2005, around 500 bomb explosions occurred at 300 locations in 63 of the 64 districts of Bangladesh. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bangladesch_Bombenexplosionen_JMB_2005.svg/330px-Bangladesch_Bombenexplosionen_JMB_2005.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2005_Bangladesh_bombings"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1960 —",
+      "hook": "Aeroflot Flight 036 crashes in Soviet Ukraine, killing 34.",
+      "body": "Aeroflot Flight 036 was a regularly scheduled passenger flight operated by Aeroflot from Cairo International Airport in Cairo, Egypt, to Bykovo Airport in Moscow, Soviet Union. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ilyushin_Il-18D_AN1788516.jpg/330px-Ilyushin_Il-18D_AN1788516.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_036"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Douglas Gordon by Douglas Gordon review – a brave glimpse inside the mind of the Scottish artist",
+      "body": "<p>Director Finlay Pretsell captures Gordon setting things alight with a miniature blowtorch, smearing himself with silver paint and throwing shapes with a bullwhip</p><p>Here is a brave and not entirely orthodox artist documentary; not so ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/17/douglas-gordon-by-douglas-gordon-review-a-brave-glimpse-inside-the-mind-of-the-scottish-film-maker"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "Bolshevik revolutionary leader Moisei Uritsky is assassinated.",
+      "body": "The Bolsheviks, led by Vladimir Lenin, were a radical faction of the Marxist Russian Social Democratic Labour Party (RSDLP) which split with the Mensheviks at the Second Party Congress in 1903. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg/330px-Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bolsheviks"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "New Scientist —",
       "hook": "Weightlifting makes older women leaner, stronger and more mobile",
       "body": "Lifting at least 50 kilograms twice a week improved older women's muscle mass, mobility and balance",
@@ -109,61 +99,31 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "From March 9 to March 28, 2026, members of the New Democratic Party of Canada (NDP) voted in a leadership election to choose a permanent leader to replace Don Davies, who became leader on an interim basis following the resignation of Jagmeet Singh.",
-      "body": "Singh announced his resignation after being defeated in the 2025 Canadian federal election. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Avi_Lewis_September_2025_Ottawa.jpg/330px-Avi_Lewis_September_2025_Ottawa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2026_New_Democratic_Party_leadership_election"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1488 —",
-      "hook": "Konrad Bitz, the Bishop of Turku, marks the date of his preface to Missale Aboense, the oldest known book of Finland.",
-      "body": "The Archdiocese of Turku is the oldest diocese in Finland. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "On this day in 1942 —",
+      "hook": "World War II: U.S. Marines raid the Japanese-held Pacific island of Makin.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/List_of_bishops_of_Turku"
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Hounds Gate Haunting review – a ghostly critic lurks in the stalls in this suspenseful spooker",
-      "body": "<p>This mockumentary from low-budget horror veteran Richard Mansfield isn’t the most subtle take on the artist-critic relationship but it has a certain sprightliness</p><p>Where Quentin Dupieux’s 2023 theatre hostage-taking comedy <a href=\"",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/17/the-hounds-gate-haunting-review-richard-mansfield"
+      "opener": "BBC Entertainment —",
+      "hook": "What really goes on in the MasterChef kitchen",
+      "body": "The 21st series was filmed at Birmingham's Digbeth Loc Studios.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cedjpvep6j3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘Can we accept what we have done or not done?’: harrowing film follows doctors in Gaza",
-      "body": "<p>American Doctor follows three volunteer doctors as they try to save lives on the frontline and then return to the US to become advocates in congress</p><p>When she wanted to confront Americans about the consequences of their actions – or",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/17/gaza-doctor-documentary"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1999 —",
-      "hook": "The 7.6 Mw İzmit earthquake shakes northwestern Turkey with a maximum Mercalli intensity of IX (Violent), leaving 17,118–17,127 dead and 43,953–50,000 injured.",
-      "body": "An earthquake of moment magnitude 7.6 struck Kocaeli Province, Turkey on 17 August 1999. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Izmit_eart6.jpg/330px-Izmit_eart6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Sari Wilson is an American novelist and writer.",
-      "body": "She has written prose and comics, and is the author of the novel Girl Through Glass. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sari_Wilson"
+      "opener": "Screen Daily —",
+      "hook": "‘The End Of Oak Street’ opens with £2m at UK-Ireland box office; ‘Spider-Man’, ‘Odyssey’ lead",
+      "body": "‘Spider-Man: Brand New Day’, ‘The Odyssey’ both enter all-time UK-Ireland top 20.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/the-end-of-oak-street-opens-with-2m-at-uk-ireland-box-office-spider-man-odyssey-lead/5219447.article"
     }
   ]
 }
