@@ -1,16 +1,53 @@
 {
-  "generated": "2026-08-17T06:25:49.938Z",
-  "count": 19,
+  "generated": "2026-08-17T07:40:30.771Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Skintown review – Northern Irish scamps rave their Troubles away",
+      "body": "<p>Catholics and Protestants find E-fuelled common ground at a hallowed Portrush club in Ciarán McMenamin’s adaptation of his own 2018 novel</p><p>Derry Girls meets Human Traffic in this spirited, larky and at times poignant period piece ab",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/17/skintown-review-northern-ireland-troubles-youth-rave"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘It is not only a future certainty – the disaster is already here’: why we need climate fiction",
+      "body": "<p>As wildfires rage across Europe and Britain swelters through its hottest summer on record, literary fiction has a vital role to play in capturing the severe consequences of climate crisis</p><p>Earlier this summer, I travelled through Eu",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/16/it-is-not-only-a-future-certainty-the-disaster-is-already-here-why-we-need-climate-fiction"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1977 —",
+      "hook": "The Soviet icebreaker Arktika becomes the first surface ship to reach the North Pole.",
+      "body": "Arktika is a retired nuclear-powered icebreaker of the Soviet Arktika class. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RIAN_archive_186141_Nuclear_icebreaker_Arktika_%28cropped%29.jpg/330px-RIAN_archive_186141_Nuclear_icebreaker_Arktika_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Arktika_(1972_icebreaker)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Rogue hacking AIs have changed the cybersecurity landscape",
+      "body": "Attackers with no technical skills can now use AI models to find and exploit loopholes quickly and they can deploy them on a massive scale, raising fears that organisations without large budgets for cyber defence will be much more vulnerabl",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583927-rogue-hacking-ais-have-changed-the-cybersecurity-landscape/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Multi-barrier approach is a key paradigm for ensuring safe drinking water in jurisdictions such as Ontario, elsewhere in Canada, and New Zealand.",
-      "body": "It is defined as,An integrated system of procedures, processes and tools that collectively prevent or reduce the contamination of drinking water from source to tap in order to reduce risks to public health. One of those things you can't un-know.",
-      "img": null,
+      "opener": "Here's one for the group chat —",
+      "hook": "The Croatian National Theatre in Zagreb, commonly referred to as HNK Zagreb, is a theatre, opera, and ballet house in Zagreb.",
+      "body": "Located on the centre of Republic of Croatia Square, it is the oldest Croatian theatre institution, officially opening on 24 November 1860. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Teatro_Nacional%2C_Zagreb%2C_Croacia%2C_2014-04-20%2C_DD_01.JPG/330px-Teatro_Nacional%2C_Zagreb%2C_Croacia%2C_2014-04-20%2C_DD_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Multi-barrier_approach"
+      "url": "https://en.wikipedia.org/wiki/Croatian_National_Theatre%2C_Zagreb"
     },
     {
       "type": "card",
@@ -24,166 +61,119 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
-      "body": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Elizabeth Lindsay Davis (1855-1944) was an African-American teacher, writer, and activist.",
+      "body": "She was responsible for forming the Phyllis Wheatley Women's Club in Chicago, Illinois in 1900. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/ELDavis.PNG/330px-ELDavis.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Lindsay_Davis"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Keith Lazelle is a photographer based in Quilcene, Washington, United States.",
-      "body": "The Olympic Medical Center in Port Angeles owns the largest collection of his work. Bring it up somewhere. Watch the reaction.",
+      "cat": "history",
+      "opener": "On this day in 1723 —",
+      "hook": "Ioan Giurgiu Patachi becomes Bishop of Făgăraș and is festively installed in his position at the St. Nicolas Cathedral in Făgăraș, after being formally confirmed earlier by Pope Clement XI.",
+      "body": "Ioan Giurgiu Patachi was Bishop of Fogaras and Primate of the Romanian Greek Catholic Church from 1721 to his death in 1727. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ioan_Giurgiu_Patachi.jpg/330px-Ioan_Giurgiu_Patachi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ioan_Giurgiu_Patachi"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1862 —",
+      "hook": "American Indian Wars: The Dakota War of 1862 begins in Minnesota as Dakota warriors attack white settlements along the Minnesota River.",
+      "body": "The American Indian Wars, also known as the American Frontier Wars, and the Indian Wars, were initially fought by European colonial empires, the United States, and briefly the Confederate States of America and Republic of Texas against various American Indian tribes in North America. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg/330px-U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Indian_Wars"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1969 —",
+      "hook": "Category 5 Hurricane Camille hits the U.S. Gulf Coast, killing 256 and causing $1.42 billion in damage.",
+      "body": "The Saffir–Simpson hurricane wind scale (SSHWS) is a tropical cyclone intensity scale that classifies hurricanes—which in the Western Hemisphere are tropical cyclones that exceed the intensities of tropical depressions and tropical storms—into five categories distinguished by the intensities of their sustained winds. One of those things you can't un-know.",
       "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Keith_Lazelle"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "I wish I had been a more rebellious teenager, says Bella Ramsey",
-      "body": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1549 —",
-      "hook": "Battle of Sampford Courtenay: The Prayer Book Rebellion is quashed in England.",
-      "body": "The Battle of Sampford Courtenay was one of the chief military engagements in the Western Rebellion of 1549. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Prayer_Book_Rebellion%2C_Sampford_Courtenay_-_geograph.org.uk_-_1192787.jpg/330px-Prayer_Book_Rebellion%2C_Sampford_Courtenay_-_geograph.org.uk_-_1192787.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Sampford_Courtenay"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1896 —",
-      "hook": "Bridget Driscoll became the first recorded case of a pedestrian killed in a collision with a motor car in the United Kingdom.",
-      "body": "The death of Bridget Driscoll was the first recorded case of a pedestrian killed in a collision with a motor car in Great Britain. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/BDriscoll.jpeg/330px-BDriscoll.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Death_of_Bridget_Driscoll"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "\"I Need a Doctor\" is a song by American rapper Dr.",
-      "body": "Dre featuring fellow American rapper Eminem and American singer Skylar Grey. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/I_Need_a_Doctor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/I_Need_a_Doctor"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Dandruff is a skin condition of the scalp.",
-      "body": "Symptoms include heavy flaking and sometimes mild itchiness. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dandruff01.jpg/330px-Dandruff01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dandruff"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1943 —",
-      "hook": "World War II: The Royal Air Force begins Operation Hydra, the first air raid of the Operation Crossbow strategic bombing campaign against Germany's V-weapon program.",
-      "body": "The Royal Air Force (RAF) is the air and space force of the United Kingdom, British Overseas Territories and Crown Dependencies. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/RAF-Badge.svg/330px-RAF-Badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Royal_Air_Force"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "BBC seeks to subpoena family members in Panorama lawsuit",
-      "body": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1827 —",
-      "hook": "Dutch King William I and Pope Leo XII sign concord.",
-      "body": "William I was King of the Netherlands and Grand Duke of Luxembourg from 1815 until his abdication in 1840. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/William_I_of_the_Netherlands.jpg/330px-William_I_of_the_Netherlands.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/William_I_of_the_Netherlands"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Since 2003 however there has been a greater push from the government to impose stricter rules.",
-      "body": "Smoking in Iraq is a widespread and culturally accepted behavior in Iraqi society. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mosul-Iraq_1914.jpg/330px-Mosul-Iraq_1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Smoking_in_Iraq"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Thousands of Bonnie Tyler fans set to gather in singer's hometown for funeral",
-      "body": "A service will be held in Swansea before the cortege goes to Skewen, where the singer grew up.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nn2nlg1lo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson_scale"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Ruby Wilson was an American blues and gospel singer.",
-      "body": "She was known as \"The Queen of Beale Street\" as she sang in clubs on Beale Street, Memphis, Tennessee, for over 40 years. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ms._Ruby_Wilson_Performs_at_Shiloh_%28cropped%29.jpg/330px-Ms._Ruby_Wilson_Performs_at_Shiloh_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "World Break: Aria of Curse for a Holy Swordsman is a Japanese light novel series written by Akamitsu Awamura and illustrated by Refeia.",
+      "body": "SB Creative has published twenty-two volumes from November 2012 to June 2018 under their GA Bunko imprint. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Seiken_Tsukai_no_World_Break_light_novel_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ruby_Wilson"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1488 —",
-      "hook": "Konrad Bitz, the Bishop of Turku, marks the date of his preface to Missale Aboense, the oldest known book of Finland.",
-      "body": "The Archdiocese of Turku is the oldest diocese in Finland. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/List_of_bishops_of_Turku"
+      "url": "https://en.wikipedia.org/wiki/World_Break%3A_Aria_of_Curse_for_a_Holy_Swordsman"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Stephen Bear jailed over sex offender breaches",
-      "body": "The TV personality posted in Brazil \"the police will not be able to catch\" him, a court hears.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss"
+      "opener": "Screen Daily —",
+      "hook": "Florin Serban’s ‘You Don’t Belong Here’ wins Golden Leopard at Locarno 2026",
+      "body": "Romanian filmmaker takes top prize at festival, with other prizes for South Korean director Hong Sangsoo as well as actor Monica Bellucci.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/florin-serbans-you-dont-belong-here-wins-golden-leopard-at-locarno-2026/5219422.article"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Agrippa by Robert Harris review – persuasive portrait of rivalry in ancient Rome",
-      "body": "<p>This fictional memoir by Octavius’s right-hand man shows us bloodshed, betrayal and hectic jockeying for power</p><p>If you’re one of those people who thinks about the Roman empire several times a week, Robert Harris has you covered. He ",
+      "hook": "Art Spiegelman: ‘The US needs a counter-revolution’",
+      "body": "<p>More than four decades after his Holocaust story Maus transformed the graphic novel genre, Art Spiegelman discusses Trump, the shadow of 9/11 and the rise of fascism in America</p><p>When the cartoonist Art Spiegelman began dating his fu",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/17/agrippa-by-robert-harris-review-persuasive-portrait-of-rivalry-in-ancient-rome"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "49 Miles More review – screwball East Anglian road caper makes a smart left turn",
-      "body": "<p>When sobersided Max agrees to chaperone zany childhood pal Doug to a big night with the lads, everything goes predictably wrong, but some real surprises await</p><p>Doug, the incessant funster played by Gregory Fung in this jaunty but fi",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/17/49-miles-more-review-screwball-east-anglian-road-caper-makes-a-smart-left-turn"
+      "opener": "The Guardian · Books —",
+      "hook": "The Beverly Hills Housewife by James Cahill review – a trip inside Hockney’s world",
+      "body": "<p>Muse Betty Freeman sits at the centre of this sun-drenched book about art, eccentricity, and the spirit of Los Angeles</p><p>David Hockney was 29 years old when he came to Betty Freeman’s house to photograph her swimming pool. Scouting l",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/14/the-beverly-hills-housewife-by-james-cahill-review-a-trip-inside-hockneys-world"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2005 —",
+      "hook": "Over 500 bombs are set off by terrorists at 300 locations in 63 out of the 64 districts of Bangladesh.",
+      "body": "On 17 August 2005, around 500 bomb explosions occurred at 300 locations in 63 of the 64 districts of Bangladesh. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bangladesch_Bombenexplosionen_JMB_2005.svg/330px-Bangladesch_Bombenexplosionen_JMB_2005.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2005_Bangladesh_bombings"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Coast Valley League is a high school athletic conference that is affiliated with the CIF Southern Section (CIF-SS).",
+      "body": "As of the 2020–21 school year, members are small schools located in San Luis Obispo, Santa Barbara, and Kern counties. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coast_Valley_League"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Seathwaite is a small hamlet in the Borrowdale civil parish of Cumberland, Cumbria, North West England.",
+      "body": "It is in the Lake District near Scafell Pike and 8 miles (13 km) southwest of Keswick at the end of a minor road that heads southwest from the hamlet of Seatoller, which is where the B5289 road begins its steep climb up the pass to Honister Hause on the bounda",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Seathwaite.jpg/330px-Seathwaite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Seathwaite%2C_Cumberland"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Musification of the 2026 total solar eclipse",
+      "body": "Video: 00:05:08 [English] Experience a musical simulation of the 12 August 2026 total solar eclipse as seen from the Observatorio Astrofísico de Javalambre (Spain). Click here for information about ESA’s live broadcast from this observatory",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse"
     }
   ]
 }
