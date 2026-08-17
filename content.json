@@ -1,16 +1,54 @@
 {
-  "generated": "2026-08-17T05:24:04.169Z",
-  "count": 23,
+  "generated": "2026-08-17T06:25:49.938Z",
+  "count": 19,
   "items": [
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Multi-barrier approach is a key paradigm for ensuring safe drinking water in jurisdictions such as Ontario, elsewhere in Canada, and New Zealand.",
+      "body": "It is defined as,An integrated system of procedures, processes and tools that collectively prevent or reduce the contamination of drinking water from source to tap in order to reduce risks to public health. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Multi-barrier_approach"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1186 —",
+      "hook": "Georgenberg Pact: Ottokar IV, Duke of Styria and Leopold V, Duke of Austria sign a heritage agreement in which Ottokar gives his duchy to Leopold and to his son Frederick under the stipulation that Austria and Styria would henceforth remain undivided.",
+      "body": "The Georgenberg Pact was a treaty signed between Duke Leopold V of Austria and Duke Ottokar IV of Styria on 17 August 1186 at Enns Castle on the Georgenberg mountain. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Duchy_of_Austria_locator_map_%281250%29.svg/330px-Duchy_of_Austria_locator_map_%281250%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Georgenberg_Pact"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
+      "body": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Keith Lazelle is a photographer based in Quilcene, Washington, United States.",
+      "body": "The Olympic Medical Center in Port Angeles owns the largest collection of his work. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Keith_Lazelle"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "I wish I had been a more rebellious teenager, says Bella Ramsey",
+      "body": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -25,187 +63,42 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1808 —",
-      "hook": "The Finnish War: The Battle of Alavus is fought.",
-      "body": "The Finnish War was fought between the Kingdom of Sweden and the Russian Empire from 21 February 1808 to 17 September 1809 as part of the Napoleonic Wars. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Finnish_War_Collage_5.png/330px-Finnish_War_Collage_5.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1896 —",
+      "hook": "Bridget Driscoll became the first recorded case of a pedestrian killed in a collision with a motor car in the United Kingdom.",
+      "body": "The death of Bridget Driscoll was the first recorded case of a pedestrian killed in a collision with a motor car in Great Britain. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/BDriscoll.jpeg/330px-BDriscoll.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Finnish_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Super Troopers 3 review – misfiring cop comedy threequel",
-      "body": "<p>The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence</p><p>Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "These Violent Delights review – Scottish Ballet’s feverish Romeo and Juliet is bold and unsettling",
-      "body": "<p><strong>Edinburgh film festival</strong><br>A taut, dreamlike reimagining of Shakespeare’s tragedy strips away romance in favour of dread, creating an engrossing and fiercely physical dance film</p><p>Scottish Ballet, under the direction",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/14/these-violent-delights-review-oscar-sansom-christopher-hampson"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Japan Academy Film Prize , often called the Japan Academy Prize, the Japan Academy Awards, and the Japanese Academy Awards, is a series of awards given annually since 1978 by the Japan Academy Film Prize Association for excellence in Japanese film.",
-      "body": "Award categories are similar to the Academy Awards. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/201211_Twenty-four_eyes17s5.jpg/330px-201211_Twenty-four_eyes17s5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Japan_Academy_Film_Prize"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1864 —",
-      "hook": "American Civil War: Battle of Gainesville: Confederate forces defeat Union troops near Gainesville, Florida.",
-      "body": "The Battle of Gainesville was an American Civil War engagement fought on August 17, 1864, when a Confederate force defeated Union detachments from Jacksonville, Florida. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gainesville_FL_city_hall_plaque03.jpg/330px-Gainesville_FL_city_hall_plaque03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Gainesville"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "World War I: Battle of Stallupönen: The German army of General Hermann von François defeats the Russian force commanded by Paul von Rennenkampf near modern-day Nesterov, Russia.",
-      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_I"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1585 —",
-      "hook": "A first group of colonists sent by Sir Walter Raleigh under the charge of Ralph Lane lands in the New World to create Roanoke Colony on Roanoke Island, off the coast of present-day North Carolina.",
-      "body": "Sir Walter Raleigh was an English statesman, soldier, writer and explorer. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sir_Walter_Ralegh_by_%27H%27_monogrammist.jpg/330px-Sir_Walter_Ralegh_by_%27H%27_monogrammist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Walter_Raleigh"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
+      "url": "https://en.wikipedia.org/wiki/Death_of_Bridget_Driscoll"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Manhattan House is a 21-story residential condominium building at 200 East 66th Street on the Upper East Side of Manhattan in New York City, New York, United States.",
-      "body": "The building was designed in the modern style by Gordon Bunshaft of Skidmore, Owings & Merrill (SOM), in partnership with the firm of Albert Mayer and Julian Whittlesey. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Manhattan_House_65_jeh.JPG/330px-Manhattan_House_65_jeh.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "\"I Need a Doctor\" is a song by American rapper Dr.",
+      "body": "Dre featuring fellow American rapper Eminem and American singer Skylar Grey. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/I_Need_a_Doctor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Manhattan_House"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
+      "url": "https://en.wikipedia.org/wiki/I_Need_a_Doctor"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Blackburn Primary School is a public co-educational primary school located in the Melbourne suburb of Blackburn, Victoria, Australia.",
-      "body": "Founded in 1889, the school was the first in Blackburn and the 2923rd state school in the country. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Dandruff is a skin condition of the scalp.",
+      "body": "Symptoms include heavy flaking and sometimes mild itchiness. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dandruff01.jpg/330px-Dandruff01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Blackburn_Primary_School"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Chryseobacterium taichungense is a Gram-negative, rod-shaped and non-spore-forming bacteria from the genusChryseobacterium which has been isolated from soil which was contaminated with tar in Taichung in Taiwan.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chryseobacterium_taichungense"
+      "url": "https://en.wikipedia.org/wiki/Dandruff"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1883 —",
-      "hook": "The first public performance of the Dominican Republic's national anthem, Himno Nacional.",
-      "body": "The Dominican Republic is an island country on the eastern part of the Caribbean island of Hispaniola in the Greater Antilles of the Caribbean Sea in the North Atlantic Ocean. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/330px-Flag_of_the_Dominican_Republic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1943 —",
+      "hook": "World War II: The Royal Air Force begins Operation Hydra, the first air raid of the Operation Crossbow strategic bombing campaign against Germany's V-weapon program.",
+      "body": "The Royal Air Force (RAF) is the air and space force of the United Kingdom, British Overseas Territories and Crown Dependencies. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/RAF-Badge.svg/330px-RAF-Badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dominican_Republic"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Tommy Europe is a Canadian actor, stunt man, professional trainer and former professional football defensive back who played eleven seasons in the Canadian Football League (CFL).",
-      "body": "He played college football at Bishop's University. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tom_Europe"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
+      "url": "https://en.wikipedia.org/wiki/Royal_Air_Force"
     },
     {
       "type": "card",
@@ -218,12 +111,79 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1827 —",
+      "hook": "Dutch King William I and Pope Leo XII sign concord.",
+      "body": "William I was King of the Netherlands and Grand Duke of Luxembourg from 1815 until his abdication in 1840. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/William_I_of_the_Netherlands.jpg/330px-William_I_of_the_Netherlands.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/William_I_of_the_Netherlands"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Since 2003 however there has been a greater push from the government to impose stricter rules.",
+      "body": "Smoking in Iraq is a widespread and culturally accepted behavior in Iraqi society. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mosul-Iraq_1914.jpg/330px-Mosul-Iraq_1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smoking_in_Iraq"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "I wish I had been a more rebellious teenager, says Bella Ramsey",
-      "body": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
+      "hook": "Thousands of Bonnie Tyler fans set to gather in singer's hometown for funeral",
+      "body": "A service will be held in Swansea before the cortege goes to Skewen, where the singer grew up.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cn8nn2nlg1lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Ruby Wilson was an American blues and gospel singer.",
+      "body": "She was known as \"The Queen of Beale Street\" as she sang in clubs on Beale Street, Memphis, Tennessee, for over 40 years. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ms._Ruby_Wilson_Performs_at_Shiloh_%28cropped%29.jpg/330px-Ms._Ruby_Wilson_Performs_at_Shiloh_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ruby_Wilson"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1488 —",
+      "hook": "Konrad Bitz, the Bishop of Turku, marks the date of his preface to Missale Aboense, the oldest known book of Finland.",
+      "body": "The Archdiocese of Turku is the oldest diocese in Finland. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/List_of_bishops_of_Turku"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Stephen Bear jailed over sex offender breaches",
+      "body": "The TV personality posted in Brazil \"the police will not be able to catch\" him, a court hears.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Agrippa by Robert Harris review – persuasive portrait of rivalry in ancient Rome",
+      "body": "<p>This fictional memoir by Octavius’s right-hand man shows us bloodshed, betrayal and hectic jockeying for power</p><p>If you’re one of those people who thinks about the Roman empire several times a week, Robert Harris has you covered. He ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/17/agrippa-by-robert-harris-review-persuasive-portrait-of-rivalry-in-ancient-rome"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "49 Miles More review – screwball East Anglian road caper makes a smart left turn",
+      "body": "<p>When sobersided Max agrees to chaperone zany childhood pal Doug to a big night with the lads, everything goes predictably wrong, but some real surprises await</p><p>Doug, the incessant funster played by Gregory Fung in this jaunty but fi",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/17/49-miles-more-review-screwball-east-anglian-road-caper-makes-a-smart-left-turn"
     }
   ]
 }
