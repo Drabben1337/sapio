@@ -1,26 +1,46 @@
 {
-  "generated": "2026-08-18T10:14:49.185Z",
-  "count": 18,
+  "generated": "2026-08-18T11:13:10.015Z",
+  "count": 24,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1877 —",
-      "hook": "American astronomer Asaph Hall discovers Phobos, one of Mars's moons.",
-      "body": "An astronomer is a scientist in the field of astronomy who focuses on a specific question or field outside the scope of Earth. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/IAU_2006_General_Assembly-_Result_of_the_IAU_Resolution_Votes_%28iau0603g%29.jpg/330px-IAU_2006_General_Assembly-_Result_of_the_IAU_Resolution_Votes_%28iau0603g%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Astronomer"
+      "cat": "geography",
+      "opener": "Here's one for the group chat —",
+      "hook": "It was given this name on July 31, 1820.",
+      "body": "Mount Adams, elevation 5,793 feet (1,766 m) above sea level, is a mountain in New Hampshire, the second highest peak in the Northeast United States after its nearby neighbor, Mount Washington. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mount_Adams_NH_from_Madison.jpg/330px-Mount_Adams_NH_from_Madison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mount_Adams_(New_Hampshire)"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2005 —",
-      "hook": "A massive power blackout hits the Indonesian island of Java; affecting almost 100 million people, it is one of the largest and most widespread power outages in history.",
-      "body": "The 2005 Java–Bali Blackout was a power outage across Java and Bali on 18 August 2005, affecting some 100 million people. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2005_Java%E2%80%93Bali_blackout.png/330px-2005_Java%E2%80%93Bali_blackout.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2005_Java%E2%80%93Bali_blackout"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "No Tomorrow is a 1957 Swedish drama film directed by Arne Mattsson and starring Jarl Kulle, Margit Carlqvist and Kolbjörn Knudsen.",
+      "body": "It was shot at the Centrumateljéerna Studios in Stockholm and on location in Helsinki and Porkkalanniemi on the Gulf of Finland. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/No_Tomorrow_(1957_film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "God Emperor of Dune is a science fiction novel by American writer Frank Herbert, published in 1981.",
+      "body": "The fourth in his Dune series of six novels, it was ranked as the No. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a7/God_Emperor_of_Dune-Frank_Herbert_%281981%29_First_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/God_Emperor_of_Dune"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Ten Seconds To Hell is a 1959 British and West German film directed by Robert Aldrich, based on Lawrence P.",
+      "body": "Bachmann's novel The Phoenix. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ten_Seconds_to_Hell"
     },
     {
       "type": "card",
@@ -33,147 +53,187 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-      "body": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss"
+      "cat": "history",
+      "opener": "On this day in 1933 —",
+      "hook": "The Volksempfänger is first presented to the German public at a radio exhibition; the presiding Nazi Minister of Propaganda, Joseph Goebbels, delivers an accompanying speech heralding the radio as the 'eighth great power'.",
+      "body": "The Volksempfänger was a range of low-cost vacuum tube radio receivers produced in Germany during the 1930s. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ve301w.jpg/330px-Ve301w.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Volksempf%C3%A4nger"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The ILO estimates that of the 20.9 million victims of human trafficking in 2012, 1.8 million were from Latin America.",
+      "body": "Human Trafficking or \"trafficking in persons\" is the recruiting, harboring, transporting, providing, or obtaining a person for mainly the purposes of forced labor or prostitution. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Human_trafficking_in_South_America"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1838 —",
+      "hook": "The Wilkes Expedition, which would explore the Puget Sound and Antarctica, weighs anchor at Hampton Roads.",
+      "body": "The United States Exploring Expedition of 1838–1842 was an exploring and surveying expedition of the Pacific Ocean and surrounding lands conducted by the United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vincennes_%28color%29.jpg/330px-Vincennes_%28color%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/United_States_Exploring_Expedition"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Servants is a young adult contemporary fantasy novel by British author Michael Marshall Smith, writing under the name M.",
-      "body": "It tells the story of an eleven-year-old boy named Mark who, against his wishes, moves away from his home town of London to the wintry Brighton seaside, and the resulting misadventures. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/4a/The_Servants_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Death on Credit is a novel by author Louis-Ferdinand Céline, published in 1936.",
+      "body": "The most common, and generally most respected English translation is Ralph Manheim's. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Death_on_Credit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Servants_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Waves Turn review – the exhausting, joyful, boring, wondrous realities of new motherhood",
-      "body": "<p>Josephine Ahnelt’s gentle but truthful documentary has home-movie intimacy and some incredibly touching moments</p><p>As a piece of art depicting motherhood, Judith Rohrmoser’s self-portrait of breastfeeding sticks two fingers up at the ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/18/waves-turn-review-wellen-wende-motherhood"
+      "url": "https://en.wikipedia.org/wiki/Death_on_Credit"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1983 —",
-      "hook": "Hurricane Alicia hits the Texas coast, killing 21 people and causing over US$1 billion in damage (1983 dollars).",
-      "body": "Hurricane Alicia was a small but powerful tropical cyclone that caused significant destruction in the Greater Houston area of Southeast Texas in August 1983. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Alicia_1983-08-17_2330Z.png/330px-Alicia_1983-08-17_2330Z.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1920 —",
+      "hook": "The Nineteenth Amendment to the United States Constitution is ratified, guaranteeing women's suffrage.",
+      "body": "The Nineteenth Amendment to the United States Constitution prohibits the United States and its states from denying the right to vote to citizens of the United States on the basis of sex, in effect recognizing the right of women to vote. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/330px-Greater_coat_of_arms_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hurricane_Alicia"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Chocolates for Breakfast is a 1956 American novel written by Pamela Moore.",
-      "body": "Originally published in 1956 when Moore was eighteen years old, the novel gained notoriety from readers and critics for its frank depiction of teenage sexuality, and its discussion of the taboo topics of homosexuality and gender roles. Worth a quiet trip down ",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Chocolates_for_Breakfast_First_Ed_Rhinehart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chocolates_for_Breakfast"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1973 —",
-      "hook": "Aeroflot Flight A-13 crashes after takeoff from Baku-Bina International Airport in Azerbaijan, killing 56 people and injuring eight.",
-      "body": "Aeroflot Flight A-13 was a scheduled Soviet domestic passenger flight from Baku, Azerbaijan to Fort-Shevchenko in Kazakhstan that crashed on 18 August 1973 shortly after takeoff, killing 56 of the 64 passengers and crew aboard. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aeroflot_Antonov_An-24B_Goetting-1.jpg/330px-Aeroflot_Antonov_An-24B_Goetting-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_A-13"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1976 —",
-      "hook": "The Korean axe murder incident in Panmunjom results in the deaths of two US Army officers.",
-      "body": "The Panmunjom axe murder incident, also known as the Korean axe atrocity incident, was the killing of two United Nations Command officers, Captain Arthur Bonifas and First Lieutenant Mark Barrett, by North Korean soldiers on August 18, 1976, in the Joint Security Area (JSA) in the Korean Demilitarized Zone (DMZ). Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/DMZ_incident_tree.jpg/330px-DMZ_incident_tree.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Panmunjom_axe_murder_incident"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2017 —",
-      "hook": "The Turku terror attack occurs in Finland when a knifeman kills two and injures eight.",
-      "body": "On 18 August 2017, a mass stabbing took place in Turku, Finland. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/2017_Turku_stabbing_news_photo_of_the_year.jpg/330px-2017_Turku_stabbing_news_photo_of_the_year.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2017_Turku_attack"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "After Midnight is a 1948 thriller novel by the German writer Martha Albrand, who had been living in the United States since 1937.",
-      "body": "It was initially serialized in a slightly different version under the title Dishonored in The Saturday Evening Post. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/57/After_Midnight_%281948_novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/After_Midnight_(Albrand_novel)"
+      "url": "https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘There was a certain hostility’: how Wet Hot American Summer went from miss to hit",
-      "body": "<p>Critics might have been sniffy back in 2001 but the silly summer camp comedy has endured and director David Wain has been enjoying the ‘slow-burn’ appreciation</p><p>In the summer of 2001, the film critic Roger Ebert <a href=\"https://www",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/18/wet-hot-american-summer-film"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Riley-Bolten House, known locally as Uncle Tom's Cabin, is a historic home located at North Bethesda, Montgomery County, Maryland, United States.",
-      "body": "It is a 1+1⁄2-story early-19th century frame house with a mid-19th century log wing, formerly located on the Riley plantation along with much of the suburb that presently surrounds it. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Riley-Bolten_House_02.JPG/330px-Riley-Bolten_House_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Riley-Bolten_House"
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on the library of the forbidden tomes – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/16/tom-gauld-on-the-library-of-the-forbidden-tomes-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/aug/16/tom-gauld-on-the-library-of-the-forbidden-tomes-cartoon"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "Screen unveils 2026 Rising Stars Scotland lineup",
-      "body": "It features 10 up-and-coming actors, writers, writer-directors and producers.",
+      "hook": "HBO, BFI, Mubi executives join France’s Lumière summit as programme is unveiled",
+      "body": "EXCLUSIVE: Event in Saint-Paul de Vence will examine the challenges facing the global screen industries against a backdrop of profound disruption",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/screen-unveils-2026-rising-stars-scotland-lineup/5219325.article"
+      "url": "https://www.screendaily.com/news/hbo-bfi-mubi-executives-join-frances-lumiere-summit-as-programme-is-unveiled/5219469.article"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Running Fight is a 1915 silent film drama, directed by James Durkin and distributed by Paramount Pictures.",
-      "body": "The film is based on a novel by William Hamilton Osborne, and stars Violet Heming. Bring it up somewhere. Watch the reaction.",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "It is part of the Niagara Catholic District School Board, and competes with students from communities in Fort Erie, Wainfleet, Dunnville, Dain city, and Port Colborne.",
+      "body": "Lakeshore Catholic High School is a high school located in Port Colborne, just north of the eastern edge of Lake Erie, in Ontario, Canada. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Running_Fight"
+      "url": "https://en.wikipedia.org/wiki/Lakeshore_Catholic_High_School"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "Within Australia, the black swan is nomadic, with erratic migration patterns dependent on climatic conditions.",
+      "body": "The black swan is a large waterbird, a species of swan which breeds mainly in the southeast and southwest regions of Australia. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Black_swan_%28Cygnus_atratus%29_Scottsdale.jpg/330px-Black_swan_%28Cygnus_atratus%29_Scottsdale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_swan"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Match review – gory and slyly satirical catfishing horror for the age of Hinge",
+      "body": "<p>Online dating’s eternal bugbear reaches a horrific apotheosis in this funny, grimy and impishly directed shocker</p><p>Paola (Humberly González) is a pretty young woman about to turn 30 who hasn’t found herself a steady boyfriend – so, l",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/18/match-review-gory-and-slyly-satirical-catfishing-horror-for-the-age-of-hinge"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘Can we accept what we have done or not done?’: harrowing film follows doctors in Gaza",
+      "body": "<p>American Doctor follows three volunteer doctors as they try to save lives on the frontline and then return to the US to become advocates in congress</p><p>When she wanted to confront Americans about the consequences of their actions – or",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/17/gaza-doctor-documentary"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1864 —",
+      "hook": "American Civil War: Battle of Globe Tavern: Union forces try to cut a vital Confederate supply-line into Petersburg, Virginia, by attacking the Wilmington and Weldon Railroad.",
+      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1917 —",
+      "hook": "A Great Fire in Thessaloniki, Greece, destroys 32% of the city leaving 70,000 individuals homeless.",
+      "body": "The Great Thessaloniki Fire of 1917 destroyed two thirds of the city of Thessaloniki, the second-largest city in Greece, leaving more than 70,000 homeless. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Aftermath_of_the_Thessaloniki_Fire_of_1917.jpg/330px-Aftermath_of_the_Thessaloniki_Fire_of_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Great_Thessaloniki_Fire_of_1917"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1966 —",
+      "hook": "Vietnam War: The Battle of Long Tan ensues after a patrol from the 6th Battalion, Royal Australian Regiment clashes with a Viet Cong force in Phước Tuy Province.",
+      "body": "The Battle of Long Tan took place in a rubber plantation near Long Tân, in Phước Tuy Province, South Vietnam, during the Vietnam War. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Battle_of_Long_Tan_18_August_1966.png/330px-Battle_of_Long_Tan_18_August_1966.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Long_Tan"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "New Scientist —",
-      "hook": "Planes flying over the Atlantic will be re-routed to avoid contrails",
-      "body": "Operation Blue Skies is the world’s first trial to deploy contrail avoidance measures across an entire airspace, aiming to lower the climate impact of flights on a large scale",
+      "hook": "Did humans evolve to be active throughout the day and night?",
+      "body": "Evidence from hunter-gatherers suggests humans aren't diurnal but cathemeral, with bouts of activity at nighttime – a sleep pattern similar to some lemurs",
       "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585091-planes-flying-over-the-atlantic-will-be-re-routed-to-avoid-contrails/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://www.newscientist.com/article/2584951-did-humans-evolve-to-be-active-throughout-the-day-and-night/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Kanye West announces tour dates in Russia",
-      "body": "The musician would be the first major Western artist to play Russia since the invasion of Ukraine.",
+      "hook": "Gillian Anderson felt 'betrayed' by The Salt Path allegations after appearing in adaptation",
+      "body": "The Salt Path film will be released in the United States by Rialto Distribution in September.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w4v1nx93o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cj9dxe2kejeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The station is only accessible through the Tower City Center shopping complex, and, for this reason, the public concourse of the shopping mall is open at all times that the RTA Rapid Transit is in operation.",
+      "body": "Tower City station, known alternatively as Tower City–Public Square and Tower City Center is a rapid transit station in Cleveland, Ohio, part of Tower City Center. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Westbound_Red_Line_platform_at_Tower_City.jpg/330px-Westbound_Red_Line_platform_at_Tower_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tower_City_station"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Atlas Shrugged is a 1957 novel by Ayn Rand.",
+      "body": "It is her longest novel, the fourth and final one published during her lifetime, and the one she considered her magnum opus in the realm of fiction writing. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Atlas_Shrugged_%281957_1st_ed%29_-_Ayn_Rand.jpg/330px-Atlas_Shrugged_%281957_1st_ed%29_-_Ayn_Rand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atlas_Shrugged"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "she ruled as regent to a dissolute husband.",
+      "body": "Amage was a Sarmatian queen. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amage"
     }
   ]
 }
