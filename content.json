@@ -1,7 +1,46 @@
 {
-  "generated": "2026-08-18T04:21:56.094Z",
-  "count": 13,
+  "generated": "2026-08-18T05:17:42.855Z",
+  "count": 18,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Shewanella frigidimarina is a species of bacteria, notable for being an Antarctic species with the ability to produce eicosapentaenoic acid.",
+      "body": "It grows anaerobically by dissimilatory Fe (III) reduction. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shewanella_frigidimarina"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘It is not only a future certainty – the disaster is already here’: why we need climate fiction",
+      "body": "<p>As wildfires rage across Europe and Britain swelters through its hottest summer on record, literary fiction has a vital role to play in capturing the severe consequences of climate crisis</p><p>Earlier this summer, I travelled through Eu",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/16/it-is-not-only-a-future-certainty-the-disaster-is-already-here-why-we-need-climate-fiction"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "In Greek mythology, the Taraxippos was a presence, variously identified as a ghost or dangerous site, blamed for frightening horses at hippodromes throughout Greece.",
+      "body": "Pausanias, the ancient source offering the greatest number of explanations, regards it as an epithet rather than a single entity. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taraxippus"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1945 —",
+      "hook": "Soviet-Japanese War: Battle of Shumshu: Soviet forces land at Takeda Beach on Shumshu Island and launch the Battle of Shumshu; the Soviet Union's Invasion of the Kuril Islands commences.",
+      "body": "The Soviet–Japanese War was a campaign of the Second World War that began with the Soviet invasion of Manchuria following the Soviet declaration of war against Japan on 8 August 1945. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RIAN_archive_834147_Hoisting_the_banner_in_Port-Artur._WWII_%281941-1945%29.jpg/330px-RIAN_archive_834147_Hoisting_the_banner_in_Port-Artur._WWII_%281941-1945%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Japanese_War"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -14,21 +53,41 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Romeyn Beck Hough (1857–1924) was an American physician and botanist, who is best known for creating The American Woods, a 14-volume collection of wood samples from forest species across North America.",
-      "body": "His botanical work was widely acclaimed at his time. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/RomeynHough.jpg/330px-RomeynHough.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Belden Tunnel, also known as the Belden Hill Tunnel, is a 2,240-foot (680 m) active railroad tunnel located in the town of Colesville in Broome County, New York.",
+      "body": "The tunnel's west portal is located in the hamlet of Tunnel, a community which was settled by workers building the tunnel. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Heading_into_Belden_Hill_Tunnel_%285697309625%29.jpg/330px-Heading_into_Belden_Hill_Tunnel_%285697309625%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Romeyn_Beck_Hough"
+      "url": "https://en.wikipedia.org/wiki/Belden_Tunnel"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Route 74 was a proposed limited-access state highway in Middlesex County and Monmouth County of the U.S.",
+      "body": "The route was to be a four-lane divided highway from Route 18 in East Brunswick eastward to an interchange with Route 35 in the Laurence Harbor section of Old Bridge Township. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Elongated_circle_74.svg/330px-Elongated_circle_74.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/New_Jersey_Route_74"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Movie that went viral for terrible animation becomes China box office hit",
-      "body": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "Art Spiegelman: ‘The US needs a counter-revolution’",
+      "body": "<p>More than four decades after his Holocaust story Maus transformed the graphic novel genre, Art Spiegelman discusses Trump, the shadow of 9/11 and the rise of fascism in America</p><p>When the cartoonist Art Spiegelman began dating his fu",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1634 —",
+      "hook": "Father Urbain Grandier, accused and convicted of sorcery, is burned alive in Loudun, France.",
+      "body": "Urbain Grandier was a French Catholic priest who was burned at the stake after being convicted of witchcraft, following the events of the so-called \"Loudun possessions\". Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Urbain_Grandier.jpg/330px-Urbain_Grandier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Urbain_Grandier"
     },
     {
       "type": "card",
@@ -43,31 +102,30 @@
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The 1991–92 Southwest Missouri State Lady Bears basketball team represented Southwest Missouri State University during the 1991–92 NCAA Division I women's basketball season.",
-      "body": "The Lady Bears, led by fifth-year head coach Cheryl Burnett, played their home games at Hammons Student Center and were members of the Gateway Collegiate Athletic Conference. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "The Loire is the longest river in France and the 171st-longest in the world.",
+      "body": "With a length of 1,006 kilometres (625 mi), it drains 117,054 km2 (45,195 sq mi), more than a fifth of France's land, while its average discharge is only half that of the Rhône. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/La_Loire_%C3%A0_La_Bohalle_par_Cramos.JPG/330px-La_Loire_%C3%A0_La_Bohalle_par_Cramos.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1991%E2%80%9392_Southwest_Missouri_State_Lady_Bears_basketball_team"
+      "url": "https://en.wikipedia.org/wiki/Loire"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The God Makers is a book and film highlighting the inner workings and perceived negative aspects of the Church of Jesus Christ of Latter-day Saints.",
-      "body": "Ed Decker and Dave Hunt co-authored the book and film. One of those things you can't un-know.",
+      "cat": "history",
+      "opener": "On this day in 1923 —",
+      "hook": "The first British Track and Field championships for women are held in London, Great Britain.",
+      "body": "The 1923 WAAA Championships were the first national track and field championships for women in the United Kingdom. The world is stranger than it lets on.",
       "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_God_Makers"
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1923_WAAA_Championships"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Million Student March is a day-of-action student protest movement in the United States of America involving 110 college campuses and high school students, undergraduate students, graduate students, and college campus workers, from campuses across the country marching in protest against high tuition fees and student debt.",
-      "body": "The movement also demands the minimum wage for college campus workers be $15 an hour. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Million_Student_March"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Movie that went viral for terrible animation becomes China box office hit",
+      "body": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -81,49 +139,41 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "It lies to the east of the crater Birmingham, and south-southwest of Barrow.",
-      "body": "Bond is an irregularly shaped walled plain that is located in the northern part of the Moon, to the north of the Mare Frigoris. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/W_Bond_crater_4116_h1_h2.jpg/330px-W_Bond_crater_4116_h1_h2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/W._Bond_(crater)"
+      "opener": "On this day in 1966 —",
+      "hook": "Vietnam War: The Battle of Long Tan ensues after a patrol from the 6th Battalion, Royal Australian Regiment clashes with a Viet Cong force in Phước Tuy Province.",
+      "body": "The Battle of Long Tan took place in a rubber plantation near Long Tân, in Phước Tuy Province, South Vietnam, during the Vietnam War. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Battle_of_Long_Tan_18_August_1966.png/330px-Battle_of_Long_Tan_18_August_1966.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Long_Tan"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘It is not only a future certainty – the disaster is already here’: why we need climate fiction",
-      "body": "<p>As wildfires rage across Europe and Britain swelters through its hottest summer on record, literary fiction has a vital role to play in capturing the severe consequences of climate crisis</p><p>Earlier this summer, I travelled through Eu",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/16/it-is-not-only-a-future-certainty-the-disaster-is-already-here-why-we-need-climate-fiction"
+      "cat": "history",
+      "opener": "On this day in 2017 —",
+      "hook": "The Turku terror attack occurs in Finland when a knifeman kills two and injures eight.",
+      "body": "On 18 August 2017, a mass stabbing took place in Turku, Finland. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/2017_Turku_stabbing_news_photo_of_the_year.jpg/330px-2017_Turku_stabbing_news_photo_of_the_year.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2017_Turku_attack"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Helen Corke (1882–1978) was an English writer and schoolteacher.",
-      "body": "She wrote economic and political histories, poetry and several biographies of writer D. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Helen_Corke"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Art Spiegelman: ‘The US needs a counter-revolution’",
-      "body": "<p>More than four decades after his Holocaust story Maus transformed the graphic novel genre, Art Spiegelman discusses Trump, the shadow of 9/11 and the rise of fascism in America</p><p>When the cartoonist Art Spiegelman began dating his fu",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution"
+      "cat": "history",
+      "opener": "On this day in 1950 —",
+      "hook": "Julien Lahaut, the chairman of the Communist Party of Belgium, is assassinated. The Party newspaper blames royalists and Rexists.",
+      "body": "Julien-Victor Lahaut was a Belgian politician and trade unionist who served as chairman of the Communist Party of Belgium from 1945 to 1950. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Julien_Lahaut_%28PCB%29.jpg/330px-Julien_Lahaut_%28PCB%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Julien_Lahaut"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Mark Rydell obituary",
-      "body": "<p>Actor and director whose movies notched up more than 20 Oscar nominations between them</p><p>Stars flocked to work with the director Mark Rydell, who has died aged 97, and no wonder: he had trained as a performer alongside <a href=\"https",
+      "hook": "‘I’ve always been fond of hairy creatures!’ Visual effects maestro Rick Baker on a monstrously good career",
+      "body": "<p>Rick Baker helped define Hollywood’s creature features with his wild makeup effects skills. From Locarno, he talks Gremlins, his love of simians– and why AI will never replace expert design</p><p>When Rick Baker was 22 years old and layi",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/17/mark-rydell-obituary"
+      "url": "https://www.theguardian.com/film/2026/aug/18/rick-baker-interview-visual-effects-makeup-gremlins-thriller"
     }
   ]
 }
