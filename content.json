@@ -1,36 +1,85 @@
 {
-  "generated": "2026-08-18T15:18:47.367Z",
+  "generated": "2026-08-18T16:15:32.819Z",
   "count": 19,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Rodney was an iron-hulled clipper ship that was built in Sunderland in 1874 and wrecked on the Cornish coast in 1901.",
-      "body": "She was one of the last ships built for the Australian migration trade. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/StateLibQld_1_169087_Rodney_%28ship%29.jpg/330px-StateLibQld_1_169087_Rodney_%28ship%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rodney_(clipper)"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1966 —",
-      "hook": "Vietnam War: The Battle of Long Tan ensues after a patrol from the 6th Battalion, Royal Australian Regiment clashes with a Viet Cong force in Phước Tuy Province.",
-      "body": "The Battle of Long Tan took place in a rubber plantation near Long Tân, in Phước Tuy Province, South Vietnam, during the Vietnam War. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Battle_of_Long_Tan_18_August_1966.png/330px-Battle_of_Long_Tan_18_August_1966.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1976 —",
+      "hook": "The Soviet Union's robotic probe Luna 24 successfully lands on the Moon.",
+      "body": "The Soviet Union, officially the Union of Soviet Socialist Republics (USSR), was a transcontinental country that spanned much of Eurasia from its formation in 1922 until its dissolution in 1991. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Long_Tan"
+      "url": "https://en.wikipedia.org/wiki/Soviet_Union"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1917 —",
+      "hook": "A Great Fire in Thessaloniki, Greece, destroys 32% of the city leaving 70,000 individuals homeless.",
+      "body": "The Great Thessaloniki Fire of 1917 destroyed two thirds of the city of Thessaloniki, the second-largest city in Greece, leaving more than 70,000 homeless. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Aftermath_of_the_Thessaloniki_Fire_of_1917.jpg/330px-Aftermath_of_the_Thessaloniki_Fire_of_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Great_Thessaloniki_Fire_of_1917"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 707 —",
+      "hook": "Princess Abe accedes to the imperial Japanese throne as Empress Genmei.",
+      "body": "Year 707 (DCCVII) was a common year starting on Saturday of the Julian calendar. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Arab-Byzantine_frontier_zone.svg/330px-Arab-Byzantine_frontier_zone.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/AD_707"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1963 —",
+      "hook": "Civil rights movement: James Meredith becomes the first African American to graduate from the University of Mississippi.",
+      "body": "The civil rights movement was a social movement in the United States from 1954 to 1968 which aimed to abolish legalized racial segregation, discrimination, and disenfranchisement in the country, which most commonly affected African Americans. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/330px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Civil_rights_movement"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1136 —",
+      "hook": "Following the surrender of Baghdad, Seljuk Sultan Mas'ud replaces Abbasid caliph Al-Rashid Billah with his uncle Al-Muqtafi.",
+      "body": "The Siege of Baghdad was a fifty-day blockade of Baghdad, the seat of the Abbasid caliphs, in 1136. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iraq_physical_map.svg/330px-Iraq_physical_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1136)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Eighteen Springs is a 1997 romantic drama directed by Ann Hui and starring Jacklyn Wu, Leon Lai, Anita Mui, Huang Lei and Ge You.",
-      "body": "It is a China-Hong Kong co-production, based on the novel of the same name by Eileen Chang. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/45/Eighteen_Springs_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Hole is a 2001 British psychological thriller film directed by Nick Hamm, based on the 1993 novel After the Hole by Guy Burt.",
+      "body": "The film stars Thora Birch, Desmond Harrington, Daniel Brocklebank, Laurence Fox, Keira Knightley, and Embeth Davidtz. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/Poster_of_the_movie_The_Hole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Eighteen_Springs_(film)"
+      "url": "https://en.wikipedia.org/wiki/The_Hole_(2001_film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Space Opera is a 2018 science fiction novel by Catherynne M.",
+      "body": "Valente, about a galactic version of the Eurovision Song Contest. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/48/Space_Opera_%28Valente_novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Space_Opera_(Valente_novel)"
     },
     {
       "type": "card",
@@ -43,50 +92,51 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "A Case of Exploding Mangoes is a 2008 comic novel by the Pakistani writer Mohammed Hanif.",
-      "body": "It is based on the 1988 aircraft crash that killed Muhammad Zia-ul-Haq, the sixth president of Pakistan. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/60/Case_of_Exploding_Mangoes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Case_of_Exploding_Mangoes"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Beatles film recreates iconic Abbey Road album cover",
-      "body": "<p>Social media footage this weekend revealed the cast of Sam Mendes’ four-film band biopic on the zebra crossing near the studio, posing for the famous image</p><p>The production team behind the forthcoming four-film Beatles biopic, direct",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Shōnen is a Japanese novel by Yasunari Kawabata.",
+      "body": "It was first published in a serialized form between 1948 and 1949 and later as a book in 1952. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sh%C5%8Dnen_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "For Us, the Living: A Comedy of Customs is a science fiction novel by American writer Robert A.",
+      "body": "It was written in 1938 and published for the first time in 2003. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/de/RobertAHeinlein_ForUsTheLiving.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/For_Us%2C_the_Living"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1304 —",
-      "hook": "The Battle of Mons-en-Pévèle is fought to a draw between the French army and the Flemish militias.",
-      "body": "The Battle of Mons-en-Pévèle was fought on 18 August 1304 between the French and the Flemish. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bataille-de-Mons-en-P%C3%A9v%C3%A8le.jpg/330px-Bataille-de-Mons-en-P%C3%A9v%C3%A8le.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1572 —",
+      "hook": "The Huguenot King Henry III of Navarre marries the Catholic Margaret of Valois, ostensibly to reconcile the feuding Protestants and Catholics of France.",
+      "body": "The Huguenots are a religious group of French Protestants who held to the Reformed (Calvinist) tradition of Protestantism. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ReformationsdenkmalGenf1.jpg/330px-ReformationsdenkmalGenf1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Mons-en-P%C3%A9v%C3%A8le"
+      "url": "https://en.wikipedia.org/wiki/Huguenots"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Ithaca: a scintillating eco-thriller RPG that aims to confront our violent moment",
-      "body": "<p>The latest game from ‘reality-inspired’ studio the Pixel Hunt sees you transporting precious human cargo – and deciding what to do with it</p><p>Ithaca has one hell of an opening: Penelope, a disillusioned environmental lawyer, stops her",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/games/2026/aug/17/ithaca-pixel-hunt"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Johnny Depp in talks to return to Pirates of the Caribbean franchise",
-      "body": "<p>The actor, who previously said he would not play Captain Jack Sparrow again for ‘$300m and a million alpacas’, is being lined up for sixth film in the series according to producer Jerry Bruckheimer</p><p>Johnny Depp is in talks to return",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/17/johnny-depp-in-talks-pirates-of-the-caribbean-return"
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
     },
     {
       "type": "card",
@@ -99,91 +149,41 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Als die Götter starben is a 1963 science fiction novel by German author Günther Krupkat about contact between humans and an alien race from the distant planet \"Meju.\" After the discovery of alien diaries on the Martian moon Phobos in the 21st century, a frame narrative tells the interconnected stories of human power struggles in ancient Mesopotamia and alien flight from a distant planet following a cataclysm.",
-      "body": "A 1989 poll ranked it as the seventh most popular East German science fiction novel. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/27/Als_die_G%C3%B6tter_starben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Als_die_G%C3%B6tter_starben"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Emily Watson joins cast of Mackenzie Crook’s directorial debut ‘Mars Express’",
+      "body": "Watson was speaking at Sarajevo Film Festival, where she heads the jury and has received an honorary award.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/emily-watson-joins-cast-of-mackenzie-crooks-directorial-debut-mars-express/5219496.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1920 —",
-      "hook": "The Nineteenth Amendment to the United States Constitution is ratified, guaranteeing women's suffrage.",
-      "body": "The Nineteenth Amendment to the United States Constitution prohibits the United States and its states from denying the right to vote to citizens of the United States on the basis of sex, in effect recognizing the right of women to vote. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/330px-Greater_coat_of_arms_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Heart of Darkness is a chamber opera in one act by Tarik O'Regan, with an English-language libretto by artist Tom Phillips, based on the 1899 novella of the same name by Joseph Conrad.",
-      "body": "It was first performed in a co-production by Opera East and ROH2 at the Linbury Theatre of the Royal Opera House in London on 1 November 2011 directed by Edward Dick. Bring it up somewhere. Watch the reaction.",
+      "opener": "Bet you didn't know —",
+      "hook": "It was designated as a Class 1 Protection Forest by the Sabah Forestry Department in 1984.",
+      "body": "Mandamai Forest Reserve is a protected forest reserve in Pitas District of Kudat Division in Sabah, Malaysia. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Heart_of_Darkness_(opera)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1983 —",
-      "hook": "Hurricane Alicia hits the Texas coast, killing 21 people and causing over US$1 billion in damage (1983 dollars).",
-      "body": "Hurricane Alicia was a small but powerful tropical cyclone that caused significant destruction in the Greater Houston area of Southeast Texas in August 1983. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Alicia_1983-08-17_2330Z.png/330px-Alicia_1983-08-17_2330Z.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hurricane_Alicia"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "The surprising upsides of living in a reality that repeats for eternity",
-      "body": "Having faced the prospect that our minds are random fluctuations in a dead universe, quantum cosmologist Sean Carroll suggests that we may be stuck in an eternally repeating reality",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2582556-the-surprising-upsides-of-living-in-a-reality-that-repeats-for-eternity/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1721 —",
-      "hook": "The city of Shamakhi in Safavid Shirvan is sacked.",
-      "body": "Shamakhi is a city in Azerbaijan and the administrative centre of the Shamakhi District. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Montage_of_%C5%9Eamax%C4%B1_2019.jpg/330px-Montage_of_%C5%9Eamax%C4%B1_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Shamakhi"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Hubble & Gaia solve our galaxy's merger mystery",
-      "body": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery"
+      "url": "https://en.wikipedia.org/wiki/Mandamai_Forest_Reserve"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Scrivener's Moon is the third and final book in the Fever Crumb series, the prequel series to the Mortal Engines Quartet.",
-      "body": "It was released on 4 April 2011. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/14/Scrivener%27s_Moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "Trapped is a science fiction novel written by the Canadian author James Alan Gardner and published in 2002 by HarperCollins Publishers under its various imprints.",
+      "body": "The book is the sixth installment in Gardner's \"League of Peoples\" series of novels, set in the mid-25th century. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2e/Trapped_%28Gardner_novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Scrivener's_Moon"
+      "url": "https://en.wikipedia.org/wiki/Trapped_(Gardner_novel)"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1891 —",
-      "hook": "A major hurricane strikes Martinique, leaving 700 dead.",
-      "body": "The 1891 Martinique hurricane, also known as Hurricane San Magín, was an intense major hurricane that struck the island of Martinique and caused massive damage. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Martinique_hurricane_weather_map%2C_August_24%2C_1891.jpg/330px-Martinique_hurricane_weather_map%2C_August_24%2C_1891.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1891_Martinique_hurricane"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Actress Phyllida Law, mother of Emma and Sophie Thompson, dies at 94",
+      "body": "Law appeared in films alongside both of her daughters, Dame Emma and Sophie, including 1996's Emma.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kddmn97do?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
