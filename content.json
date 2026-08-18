@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-17T23:10:26.160Z",
-  "count": 19,
+  "generated": "2026-08-18T00:25:59.573Z",
+  "count": 13,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘It is not only a future certainty – the disaster is already here’: why we need climate fiction",
+      "body": "<p>As wildfires rage across Europe and Britain swelters through its hottest summer on record, literary fiction has a vital role to play in capturing the severe consequences of climate crisis</p><p>Earlier this summer, I travelled through Eu",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/16/it-is-not-only-a-future-certainty-the-disaster-is-already-here-why-we-need-climate-fiction"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,23 +22,21 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1740 —",
-      "hook": "Pope Benedict XIV, previously known as Prospero Lambertini, succeeds Clement XII as the 247th Pope.",
-      "body": "Pope Benedict XIV, born Prospero Lorenzo Lambertini, was head of the Catholic Church and ruler of the Papal States from 17 August 1740 to his death on 3 May 1758. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pierre_Subleyras_Portrait_of_Benedict_XIV_1746._Metropolitan_Museum_of_Art.jpg/330px-Pierre_Subleyras_Portrait_of_Benedict_XIV_1746._Metropolitan_Museum_of_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pope_Benedict_XIV"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Paramount seeks $1.9bn bond from plaintiffs in WBD merger antitrust case",
+      "body": "”Here, every month of delay carries substantial and quantifiable financial consequences.”",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/paramount-seeks-19bn-bond-from-plaintiffs-in-wbd-merger-antitrust-case/5219461.article"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Alonso Cueto Caballero is a Peruvian novelist, short story writer, essayist, university professor and newspaper columnist.",
-      "body": "His writing career has spanned more than four decades, during which he has produced dozens of works of fiction, articles and essays. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cueto%2C_Alonso_-FILSA_20171029_fRF09.jpg/330px-Cueto%2C_Alonso_-FILSA_20171029_fRF09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Alonso_Cueto"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Movie that went viral for terrible animation becomes China box office hit",
+      "body": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -39,46 +46,6 @@
       "body": "<p>Shakur’s entourage was filmed beating Orlando ‘Baby Lane’ Anderson, Davis’s nephew, in September 1996</p><ul><li><p><a href=\"https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-explained\">What we know about Tupac Shak",
       "src": "The Guardian · Culture",
       "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1947 —",
-      "hook": "The Radcliffe Line, the border between the Dominions of India and Pakistan, is revealed.",
-      "body": "The Radcliffe Line was the boundary demarcated by the two boundary commissions for the provinces of Punjab and Bengal during the Partition of India. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Partition_of_India_1947_en.svg/330px-Partition_of_India_1947_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Radcliffe_Line"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1386 —",
-      "hook": "Karl Topia, the ruler of Princedom of Albania, forges an alliance with the Republic of Venice, committing to participate in all wars of the Republic and receiving coastal protection against the Ottomans in return.",
-      "body": "Karl Thopia sometimes written as Charles Thopia, was an Albanian feudal prince and warlord who ruled Albanian domains from 1358 until the first Ottoman conquest of Albania in 1388. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Karl_Thopia.jpg/330px-Karl_Thopia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Karl_Thopia"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Green Knowe is a series of six children's novels written by Lucy M.",
-      "body": "Boston, illustrated by her son Peter Boston, and published from 1954 to 1976. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Manor_House_at_Hemingford_Grey_%28Green_Knowe%29.jpg/330px-The_Manor_House_at_Hemingford_Grey_%28Green_Knowe%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Green_Knowe"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Birds' Christmas Carol is a novel by American writer Kate Douglas Wiggin, printed privately in 1886 and published in 1888 with illustrations by Katharine R.",
-      "body": "Wiggin published the book to help fund the Silver Street Free Kindergarten in San Francisco, which she founded in 1878. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mother_and_Child_by_Katharine_R._Wireman.jpg/330px-Mother_and_Child_by_Katharine_R._Wireman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Birds'_Christmas_Carol"
     },
     {
       "type": "card",
@@ -93,60 +60,61 @@
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "James Augustine Aloysius Joyce was an Irish novelist, poet, and literary critic.",
-      "body": "He contributed to the modernist movement and is regarded among the most influential and important writers of the 20th century. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Revolutionary_Joyce_Better_Contrast.jpg/330px-Revolutionary_Joyce_Better_Contrast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Western Monmouthshire was a parliamentary constituency in Monmouthshire, Wales.",
+      "body": "It returned one Member of Parliament (MP) to the House of Commons of the Parliament of the United Kingdom. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/James_Joyce"
+      "url": "https://en.wikipedia.org/wiki/West_Monmouthshire_(UK_Parliament_constituency)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Collyhurst is an inner city area of Manchester, England, 1.5 miles (2.4 km) northeast of the city centre on Rochdale Road (A664) and Oldham Road (A62), bounded by Smedley, Harpurhey and Monsall to the north, Miles Platting to the east, Ancoats to the south, and the River Irk to the west.",
+      "body": "Prominent buildings include two Roman Catholic churches, St Patrick's and St Malachy's. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/High_rises_at_Collyhurst.jpg/330px-High_rises_at_Collyhurst.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Collyhurst"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "The Power of Sympathy: or, The Triumph of Nature is a 1789 American sentimental novel written in epistolary form by William Hill Brown and is widely considered to be the first American novel.",
-      "body": "The Power of Sympathy was Brown's first novel. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Power_of_Sympathy.jpg/330px-The_Power_of_Sympathy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Ian Douglas Smith was a Rhodesian and Zimbabwean politician, farmer, and former fighter pilot who served as Prime Minister of Rhodesia from 1964 to 1979.",
+      "body": "He led the predominantly white-minority government that unilaterally declared independence from the United Kingdom in November 1965 after rejecting British demands for a transition to majority rule. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ian_Smith_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Power_of_Sympathy"
+      "url": "https://en.wikipedia.org/wiki/Ian_Smith"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The first section was opened 1889, the last in 1929.",
-      "body": "The North Australia Railway was a 509 km (316 mi) 1,067 mm narrow gauge railway in the Northern Territory of Australia which ran from the territory capital of Darwin, once known as Palmerston, to Birdum, just south of Larrimah. The world is stranger than it le",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Commonwealth_Railways_leaflet_on_Central_Australia_Railway_and_North_Australia_Railway_--_map_cropped_to_NAR_%28in_north%29.png/330px-Commonwealth_Railways_leaflet_on_Central_Australia_Railway_and_North_Australia_Railway_--_map_cropped_to_NAR_%28in_north%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Farida Nana Efua Bedwei is a Ghanaian software engineer and co-founder of Logiciel, a fin-tech company in Ghana.",
+      "body": "Farida Bedwei has built mobile and enterprise applications, and is also known for her knowledge of software architecture, and deploying mobile services, particularly for banking applications. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Farida_Bedwei_2.jpg/330px-Farida_Bedwei_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/North_Australia_Railway"
+      "url": "https://en.wikipedia.org/wiki/Farida_Bedwei"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Snowdrift at Bleath Gill is a 1955 British Transport Film documentary directed by Kenneth Fairbairn.",
+      "body": "The 10-minute-long film presents a first-hand account of a team of British Railways workmen freeing a goods train stuck in a snowdrift on the South Durham and Lancashire Union Railway at Bleath Gill in the Pennines on the border between County Durham, Yorkshir",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Snowdrift_at_Bleath_Gill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Snowdrift_at_Bleath_Gill"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1949 —",
-      "hook": "The 6.7 Ms Karlıova earthquake shakes eastern Turkey with a maximum Mercalli intensity of X (Extreme), leaving 320–450 dead.",
-      "body": "The 1949 Karlıova earthquake occurred at 18:44 UTC on 17 August with an epicenter near Karlıova in Bingöl Province, Eastern Anatolia region of Turkey. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Anatolian_Plate_Vectoral.svg/330px-Anatolian_Plate_Vectoral.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1949_Karl%C4%B1ova_earthquake"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "Sukarno and Mohammad Hatta proclaim the independence of Indonesia, igniting the Indonesian National Revolution against the Dutch Empire.",
-      "body": "Sukarno was an Indonesian statesman, activist, and revolutionary who served as the first president of Indonesia from 1945 to 1967. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Presiden_Sukarno.jpg/330px-Presiden_Sukarno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sukarno"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Movie that went viral for terrible animation becomes China box office hit",
-      "body": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss"
+      "opener": "You probably never noticed this —",
+      "hook": "He was a founding member of the Headhunters and played on several of Herbie Hancock's albums, including Head Hunters and Thrust.",
+      "body": "was an American jazz electric bassist and composer. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paul_Jackson_(bassist)"
     },
     {
       "type": "card",
@@ -156,34 +124,6 @@
       "body": "<p>More than four decades after his Holocaust story Maus transformed the graphic novel genre, Art Spiegelman discusses Trump, the shadow of 9/11 and the rise of fascism in America</p><p>When the cartoonist Art Spiegelman began dating his fu",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘It is not only a future certainty – the disaster is already here’: why we need climate fiction",
-      "body": "<p>As wildfires rage across Europe and Britain swelters through its hottest summer on record, literary fiction has a vital role to play in capturing the severe consequences of climate crisis</p><p>Earlier this summer, I travelled through Eu",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/16/it-is-not-only-a-future-certainty-the-disaster-is-already-here-why-we-need-climate-fiction"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1585 —",
-      "hook": "Eighty Years' War: Siege of Antwerp: Antwerp is captured by Spanish forces under Alexander Farnese, Duke of Parma, who orders Protestants to leave the city and as a result over half of the 100,000 inhabitants flee to the northern provinces.",
-      "body": "The Eighty Years' War or Dutch Revolt was an armed conflict in the Habsburg Netherlands between disparate groups of rebels and the Spanish government. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Battle_of_Gibraltar_1607.jpg/330px-Battle_of_Gibraltar_1607.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Eighty_Years'_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Paramount seeks $1.9bn bond from plaintiffs in WBD merger antitrust case",
-      "body": "”Here, every month of delay carries substantial and quantifiable financial consequences.”",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/paramount-seeks-19bn-bond-from-plaintiffs-in-wbd-merger-antitrust-case/5219461.article"
     }
   ]
 }
