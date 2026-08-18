@@ -1,15 +1,74 @@
 {
-  "generated": "2026-08-18T14:19:52.771Z",
-  "count": 12,
+  "generated": "2026-08-18T15:18:47.367Z",
+  "count": 19,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "Rodney was an iron-hulled clipper ship that was built in Sunderland in 1874 and wrecked on the Cornish coast in 1901.",
+      "body": "She was one of the last ships built for the Australian migration trade. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/StateLibQld_1_169087_Rodney_%28ship%29.jpg/330px-StateLibQld_1_169087_Rodney_%28ship%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rodney_(clipper)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1966 —",
+      "hook": "Vietnam War: The Battle of Long Tan ensues after a patrol from the 6th Battalion, Royal Australian Regiment clashes with a Viet Cong force in Phước Tuy Province.",
+      "body": "The Battle of Long Tan took place in a rubber plantation near Long Tân, in Phước Tuy Province, South Vietnam, during the Vietnam War. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Battle_of_Long_Tan_18_August_1966.png/330px-Battle_of_Long_Tan_18_August_1966.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Long_Tan"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Eighteen Springs is a 1997 romantic drama directed by Ann Hui and starring Jacklyn Wu, Leon Lai, Anita Mui, Huang Lei and Ge You.",
+      "body": "It is a China-Hong Kong co-production, based on the novel of the same name by Eileen Chang. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/45/Eighteen_Springs_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eighteen_Springs_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Earl Spencer to 'tell the truth' about his sister Princess Diana in new book",
+      "body": "Swan Song: Diana, My Sister is due to be released in the UK next month, nearly 30 years after she died.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "A Case of Exploding Mangoes is a 2008 comic novel by the Pakistani writer Mohammed Hanif.",
+      "body": "It is based on the 1988 aircraft crash that killed Muhammad Zia-ul-Haq, the sixth president of Pakistan. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/60/Case_of_Exploding_Mangoes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Case_of_Exploding_Mangoes"
+    },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Johnny Depp in talks to return to Pirates of the Caribbean franchise",
-      "body": "<p>The actor, who previously said he would not play Captain Jack Sparrow again for ‘$300m and a million alpacas’, is being lined up for sixth film in the series according to producer Jerry Bruckheimer</p><p>Johnny Depp is in talks to return",
+      "hook": "Beatles film recreates iconic Abbey Road album cover",
+      "body": "<p>Social media footage this weekend revealed the cast of Sam Mendes’ four-film band biopic on the zebra crossing near the studio, posing for the famous image</p><p>The production team behind the forthcoming four-film Beatles biopic, direct",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/17/johnny-depp-in-talks-pirates-of-the-caribbean-return"
+      "url": "https://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1304 —",
+      "hook": "The Battle of Mons-en-Pévèle is fought to a draw between the French army and the Flemish militias.",
+      "body": "The Battle of Mons-en-Pévèle was fought on 18 August 1304 between the French and the Flemish. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bataille-de-Mons-en-P%C3%A9v%C3%A8le.jpg/330px-Bataille-de-Mons-en-P%C3%A9v%C3%A8le.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mons-en-P%C3%A9v%C3%A8le"
     },
     {
       "type": "card",
@@ -23,97 +82,108 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "Total solar eclipse 2026 (Official ESA broadcast)",
-      "body": "Video: 01:10:42 We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026. The path of totality swept across Greenland, Iceland, Spain and a small area of northeaste",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Cell-based vaccines are developed from mammalian or more rarely avian or insect cell lines rather than the more common method which uses the cells in embryonic chicken eggs to develop the antigens.",
-      "body": "The potential use of cell culture techniques in developing viral vaccines has been widely investigated in the 2000s as a complementary and alternative platform to the current egg-based strategies. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cell-based_vaccine"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Judith Briles is an author of fiction and nonfiction.",
-      "body": "She is the CEO of Mile High Press, a book publishing consultant known as The Book Shepherd, podcaster, and professional speaker focused in the fields of book publishing, conflict resolution, and personal finance. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/JB_photo-EX.jpg/330px-JB_photo-EX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Judith_Briles"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Female clones created from the blood of male mice",
-      "body": "A CRISPR-based tool can perform sex reversal on male mouse embryos, reliably turning them into healthy females – a feat that could be valuable for conservation",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585076-female-clones-created-from-the-blood-of-male-mice/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Beatles film recreates iconic Abbey Road album cover",
-      "body": "<p>Social media footage this weekend revealed the cast of Sam Mendes’ four-film band biopic on the zebra crossing near the studio, posing for the famous image</p><p>The production team behind the forthcoming four-film Beatles biopic, direct",
+      "hook": "Johnny Depp in talks to return to Pirates of the Caribbean franchise",
+      "body": "<p>The actor, who previously said he would not play Captain Jack Sparrow again for ‘$300m and a million alpacas’, is being lined up for sixth film in the series according to producer Jerry Bruckheimer</p><p>Johnny Depp is in talks to return",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes"
+      "url": "https://www.theguardian.com/film/2026/aug/17/johnny-depp-in-talks-pirates-of-the-caribbean-return"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Phyllida Law, prolific performer across stage and screen, dies aged 94",
-      "body": "<p>As adept at comedy and musicals as she was drama, Law acted alongside daughters Emma and Sophie in a career spanning eight decades</p><p>Phyllida Law, whose prolific acting career encompassed a wide range of stage, TV and film roles – a ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/18/phyllida-law-performer-stage-screen-dies"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘The truth about Diana’: Charles Spencer to publish book about late sister",
-      "body": "<p>Earl says he wanted to ‘write down my own thoughts and memories’ with 30th anniversary of Diana’s death ‘on the skyline’</p><p>Charles Spencer is to publish about a book about his sister Diana in September.</p><p>In the book – titled Swa",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/18/charles-spencer-diana-book-swan-song"
+      "opener": "BBC Entertainment —",
+      "hook": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
+      "body": "Fans, friends and family travel to Swansea to pay tribute to Total Eclipse of the Heart singer.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c171j051gejo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "\"Crying Over You\" is a song written by Al Peshoff and Mark Dee, sung by Webb Pierce, and released on the Decca label.",
-      "body": "In May 1958, it peaked at No. One of those things you can't un-know.",
-      "img": null,
+      "hook": "Als die Götter starben is a 1963 science fiction novel by German author Günther Krupkat about contact between humans and an alien race from the distant planet \"Meju.\" After the discovery of alien diaries on the Martian moon Phobos in the 21st century, a frame narrative tells the interconnected stories of human power struggles in ancient Mesopotamia and alien flight from a distant planet following a cataclysm.",
+      "body": "A 1989 poll ranked it as the seventh most popular East German science fiction novel. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/27/Als_die_G%C3%B6tter_starben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Crying_Over_You_(Webb_Pierce_song)"
+      "url": "https://en.wikipedia.org/wiki/Als_die_G%C3%B6tter_starben"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1920 —",
+      "hook": "The Nineteenth Amendment to the United States Constitution is ratified, guaranteeing women's suffrage.",
+      "body": "The Nineteenth Amendment to the United States Constitution prohibits the United States and its states from denying the right to vote to citizens of the United States on the basis of sex, in effect recognizing the right of women to vote. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/330px-Greater_coat_of_arms_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Tikaria Bhat is a village in Salon block of Rae Bareli district, Uttar Pradesh, India.",
-      "body": "It is located 40 km from Raebareli, the district headquarters. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Salon_block_map.png/330px-Salon_block_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "Heart of Darkness is a chamber opera in one act by Tarik O'Regan, with an English-language libretto by artist Tom Phillips, based on the 1899 novella of the same name by Joseph Conrad.",
+      "body": "It was first performed in a co-production by Opera East and ROH2 at the Linbury Theatre of the Royal Opera House in London on 1 November 2011 directed by Edward Dick. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tikaria_Bhat"
+      "url": "https://en.wikipedia.org/wiki/Heart_of_Darkness_(opera)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1983 —",
+      "hook": "Hurricane Alicia hits the Texas coast, killing 21 people and causing over US$1 billion in damage (1983 dollars).",
+      "body": "Hurricane Alicia was a small but powerful tropical cyclone that caused significant destruction in the Greater Houston area of Southeast Texas in August 1983. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Alicia_1983-08-17_2330Z.png/330px-Alicia_1983-08-17_2330Z.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hurricane_Alicia"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "The surprising upsides of living in a reality that repeats for eternity",
+      "body": "Having faced the prospect that our minds are random fluctuations in a dead universe, quantum cosmologist Sean Carroll suggests that we may be stuck in an eternally repeating reality",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2582556-the-surprising-upsides-of-living-in-a-reality-that-repeats-for-eternity/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1721 —",
+      "hook": "The city of Shamakhi in Safavid Shirvan is sacked.",
+      "body": "Shamakhi is a city in Azerbaijan and the administrative centre of the Shamakhi District. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Montage_of_%C5%9Eamax%C4%B1_2019.jpg/330px-Montage_of_%C5%9Eamax%C4%B1_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Shamakhi"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Hubble & Gaia solve our galaxy's merger mystery",
+      "body": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Education in Alabama consists of public and private schools in Alabama, including the University of Alabama, private colleges, and secondary and primary schools.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "You probably never noticed this —",
+      "hook": "Scrivener's Moon is the third and final book in the Fever Crumb series, the prequel series to the Mortal Engines Quartet.",
+      "body": "It was released on 4 April 2011. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/14/Scrivener%27s_Moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Education_in_Alabama"
+      "url": "https://en.wikipedia.org/wiki/Scrivener's_Moon"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1891 —",
+      "hook": "A major hurricane strikes Martinique, leaving 700 dead.",
+      "body": "The 1891 Martinique hurricane, also known as Hurricane San Magín, was an intense major hurricane that struck the island of Martinique and caused massive damage. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Martinique_hurricane_weather_map%2C_August_24%2C_1891.jpg/330px-Martinique_hurricane_weather_map%2C_August_24%2C_1891.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1891_Martinique_hurricane"
     }
   ]
 }
