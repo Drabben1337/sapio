@@ -1,15 +1,25 @@
 {
-  "generated": "2026-08-18T03:33:18.044Z",
+  "generated": "2026-08-18T04:21:56.094Z",
   "count": 13,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Paramount seeks $1.9bn bond from plaintiffs in WBD merger antitrust case",
-      "body": "”Here, every month of delay carries substantial and quantifiable financial consequences.”",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/paramount-seeks-19bn-bond-from-plaintiffs-in-wbd-merger-antitrust-case/5219461.article"
+      "opener": "The Guardian · Culture —",
+      "hook": "Tupac Shakur murder trial: prosecutors allege Duane Davis plotted killing to avenge nephew",
+      "body": "<p>Shakur’s entourage was filmed beating Orlando ‘Baby Lane’ Anderson, Davis’s nephew, in September 1996</p><ul><li><p><a href=\"https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-explained\">What we know about Tupac Shak",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Romeyn Beck Hough (1857–1924) was an American physician and botanist, who is best known for creating The American Woods, a 14-volume collection of wood samples from forest species across North America.",
+      "body": "His botanical work was widely acclaimed at his time. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/RomeynHough.jpg/330px-RomeynHough.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Romeyn_Beck_Hough"
     },
     {
       "type": "card",
@@ -22,62 +32,42 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "Thomas Collegiate Professor of Psychology at the University of Michigan.",
-      "body": "Vonnie Cile McLoyd is an American developmental psychologist known for her research on how poverty, parental job loss, unemployment, and work characteristics affect children's social emotional development. Bring it up somewhere. Watch the reaction.",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Paramount seeks $1.9bn bond from plaintiffs in WBD merger antitrust case",
+      "body": "”Here, every month of delay carries substantial and quantifiable financial consequences.”",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/paramount-seeks-19bn-bond-from-plaintiffs-in-wbd-merger-antitrust-case/5219461.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The 1991–92 Southwest Missouri State Lady Bears basketball team represented Southwest Missouri State University during the 1991–92 NCAA Division I women's basketball season.",
+      "body": "The Lady Bears, led by fifth-year head coach Cheryl Burnett, played their home games at Hammons Student Center and were members of the Gateway Collegiate Athletic Conference. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Vonnie_McLoyd"
+      "url": "https://en.wikipedia.org/wiki/1991%E2%80%9392_Southwest_Missouri_State_Lady_Bears_basketball_team"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Hans Vaihinger was a German philosopher, best known as a Kant scholar and for his Die Philosophie des Als Ob, published in 1911 although its statement of basic principles had been written more than thirty years earlier.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Vaihinger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The God Makers is a book and film highlighting the inner workings and perceived negative aspects of the Church of Jesus Christ of Latter-day Saints.",
+      "body": "Ed Decker and Dave Hunt co-authored the book and film. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hans_Vaihinger"
+      "url": "https://en.wikipedia.org/wiki/The_God_Makers"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Rosa Rosà was a writer and author associated with the inter-war Italian Futurist movement.",
-      "body": "She is renowned for her first short novel, Una donna con tre anime. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Rosa_Ros%C3%A0_alias_Edith_von_Haynau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Million Student March is a day-of-action student protest movement in the United States of America involving 110 college campuses and high school students, undergraduate students, graduate students, and college campus workers, from campuses across the country marching in protest against high tuition fees and student debt.",
+      "body": "The movement also demands the minimum wage for college campus workers be $15 an hour. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rosa_Ros%C3%A0"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Museo Ideale Leonardo da Vinci is located in Vinci, Leonardo da Vinci's birthplace, in the province of Florence, Italy.",
-      "body": "It is part of the Museo leonardiano di Vinci. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Vinci%2C_museo_leonardiano_%28sede_dell%27ex-museo_ideale%29_05..JPG/330px-Vinci%2C_museo_leonardiano_%28sede_dell%27ex-museo_ideale%29_05..JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Museo_Ideale_Leonardo_da_Vinci"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Power, Sex, Suicide: Mitochondria and the Meaning of Life is a 2005 popular science book by the biochemist Nick Lane, in which he argues that mitochondria are central to questions of the evolution of multicellularity, the evolution of sexual reproduction, and to the process of senescence.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6b/PowerSexSuicide.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Power%2C_Sex%2C_Suicide"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘It is not only a future certainty – the disaster is already here’: why we need climate fiction",
-      "body": "<p>As wildfires rage across Europe and Britain swelters through its hottest summer on record, literary fiction has a vital role to play in capturing the severe consequences of climate crisis</p><p>Earlier this summer, I travelled through Eu",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/16/it-is-not-only-a-future-certainty-the-disaster-is-already-here-why-we-need-climate-fiction"
+      "url": "https://en.wikipedia.org/wiki/Million_Student_March"
     },
     {
       "type": "card",
@@ -90,31 +80,32 @@
     },
     {
       "type": "card",
-      "cat": "books",
+      "cat": "history",
       "opener": "You probably never noticed this —",
-      "hook": "Pizza quattro stagioni, also known as pizza 4 stagioni, pizza alle quattro stagioni, or la quattro stagioni, is a style of pizza in Italian cuisine that is prepared in four sections with diverse ingredients, with each section representing one season of the year.",
-      "body": "Artichokes represent spring, tomatoes and basil represent summer, mushrooms represent autumn, and prosciutto and olives represent winter. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pizza_Quattro_Stagioni_transparent.png/330px-Pizza_Quattro_Stagioni_transparent.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "It lies to the east of the crater Birmingham, and south-southwest of Barrow.",
+      "body": "Bond is an irregularly shaped walled plain that is located in the northern part of the Moon, to the north of the Mare Frigoris. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/W_Bond_crater_4116_h1_h2.jpg/330px-W_Bond_crater_4116_h1_h2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pizza_quattro_stagioni"
+      "url": "https://en.wikipedia.org/wiki/W._Bond_(crater)"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Tupac Shakur murder trial: prosecutors allege Duane Davis plotted killing to avenge nephew",
-      "body": "<p>Shakur’s entourage was filmed beating Orlando ‘Baby Lane’ Anderson, Davis’s nephew, in September 1996</p><ul><li><p><a href=\"https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-explained\">What we know about Tupac Shak",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis"
+      "opener": "The Guardian · Books —",
+      "hook": "‘It is not only a future certainty – the disaster is already here’: why we need climate fiction",
+      "body": "<p>As wildfires rage across Europe and Britain swelters through its hottest summer on record, literary fiction has a vital role to play in capturing the severe consequences of climate crisis</p><p>Earlier this summer, I travelled through Eu",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/16/it-is-not-only-a-future-certainty-the-disaster-is-already-here-why-we-need-climate-fiction"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Mark Rydell obituary",
-      "body": "<p>Actor and director whose movies notched up more than 20 Oscar nominations between them</p><p>Stars flocked to work with the director Mark Rydell, who has died aged 97, and no wonder: he had trained as a performer alongside <a href=\"https",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/17/mark-rydell-obituary"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Helen Corke (1882–1978) was an English writer and schoolteacher.",
+      "body": "She wrote economic and political histories, poetry and several biographies of writer D. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Helen_Corke"
     },
     {
       "type": "card",
@@ -124,6 +115,15 @@
       "body": "<p>More than four decades after his Holocaust story Maus transformed the graphic novel genre, Art Spiegelman discusses Trump, the shadow of 9/11 and the rise of fascism in America</p><p>When the cartoonist Art Spiegelman began dating his fu",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Mark Rydell obituary",
+      "body": "<p>Actor and director whose movies notched up more than 20 Oscar nominations between them</p><p>Stars flocked to work with the director Mark Rydell, who has died aged 97, and no wonder: he had trained as a performer alongside <a href=\"https",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/17/mark-rydell-obituary"
     }
   ]
 }
