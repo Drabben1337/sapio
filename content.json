@@ -1,34 +1,46 @@
 {
-  "generated": "2026-08-18T17:14:47.279Z",
-  "count": 12,
+  "generated": "2026-08-18T18:17:20.362Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+      "cat": "history",
+      "opener": "On this day in 1965 —",
+      "hook": "Vietnam War: Operation Starlite begins: United States Marines destroy a Viet Cong stronghold on the Van Tuong peninsula in the first major American ground battle of the war.",
+      "body": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Vietnam_War"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "A personal digital assistant (PDA) is a multi-purpose mobile device which functioned as a personal information manager.",
-      "body": "Following a boom in the 1990s and 2000s, PDAs were mostly displaced in the early 2010s by the widespread adoption of smartphones and tablet computers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/PalmTX.jpg/330px-PalmTX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "Victor de Broglie, 3rd Duke of Broglie, briefly Victor de Broglie, was a French peer, statesman, and diplomat.",
+      "body": "He was the third duke of Broglie and served as president of the Council during the July Monarchy, from August 1830 to November 1830 and from March 1835 to February 1836. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/De_Broglie_%28BM_1874%2C1114.657%29.jpg/330px-De_Broglie_%28BM_1874%2C1114.657%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Personal_digital_assistant"
+      "url": "https://en.wikipedia.org/wiki/Victor_de_Broglie_(1785%E2%80%931870)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1963 —",
+      "hook": "Civil rights movement: James Meredith becomes the first African American to graduate from the University of Mississippi.",
+      "body": "The civil rights movement was a social movement in the United States from 1954 to 1968 which aimed to abolish legalized racial segregation, discrimination, and disenfranchisement in the country, which most commonly affected African Americans. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/330px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Civil_rights_movement"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Missionaries of the Sacred Hearts of Jesus and Mary, abbreviated as MSSCC, was founded by Saint Gaetano Errico in 1836 in Secondigliano, Italy.",
+      "body": "It is a religious congregation of priests and brothers. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Missionaries_of_the_Sacred_Hearts_of_Jesus_and_Mary"
     },
     {
       "type": "card",
@@ -43,58 +55,68 @@
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Timothy Wayne Krajcir (pronounced /ˈkraɪtʃər/) is a convicted American serial killer from West Mahanoy Township, Pennsylvania who has confessed to killing nine women: five in Missouri and four others in Illinois, Kentucky, and Pennsylvania.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Timothy_Krajcir.jpg/330px-Timothy_Krajcir.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Timothy_Krajcir"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Diseworth is a village and former civil parish, now in the parish of Long Whatton and Diseworth, in the North West Leicestershire district, in the English county of Leicestershire.",
-      "body": "It is south of East Midlands Airport and off Junction 23A of the M1 motorway. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Diseworth_Village_-_geograph.org.uk_-_1343922.jpg/330px-Diseworth_Village_-_geograph.org.uk_-_1343922.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Diseworth"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Chembur is an upmarket large suburb in central Mumbai, India.",
-      "body": "It belongs on the harbour line of suburban railways and offers the best connectivity with Mumbai Monorail, Santacruz- Chembur Link Road, Airport, Jeejamata Bhosle Marg, Eastern Freeway, Eastern Express Highway, BKC connector, and Mumbai Satara highway (Sion-Pa",
+      "hook": "Fluorescence guided surgery (FGS), also called fluorescence image-guided surgery, or in the specific case of tumor resection, fluorescence guided resection, is a medical imaging technique used to detect fluorescently labelled structures during surgery.",
+      "body": "Similarly to standard image-guided surgery, FGS has the purpose of guiding the surgical procedure and providing the surgeon with real time visualization of the operating field. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chembur"
+      "url": "https://en.wikipedia.org/wiki/Fluorescence_image-guided_surgery"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Agrippa by Robert Harris review – persuasive portrait of rivalry in ancient Rome",
+      "body": "<p>This fictional memoir by Octavius’s right-hand man shows us bloodshed, betrayal and hectic jockeying for power</p><p>If you’re one of those people who thinks about the Roman empire several times a week, Robert Harris has you covered. He ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/17/agrippa-by-robert-harris-review-persuasive-portrait-of-rivalry-in-ancient-rome"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1826 —",
+      "hook": "Major Gordon Laing becomes the first European to enter Timbuktu.",
+      "body": "Major Alexander Gordon Laing was a Scottish explorer and the first European to reach Timbuktu, arriving there via the north-to-south route in August 1826. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alexander_Gordon_Laing.jpg/330px-Alexander_Gordon_Laing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Gordon_Laing"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Laurie May stepping down as Elevation Pictures co-president ahead of TIFF",
+      "body": "“I am excited to now move forward and pursue my other passions.”",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/laurie-may-stepping-down-as-elevation-pictures-co-president-ahead-of-tiff/5219500.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1759 —",
+      "hook": "Beginning of the battle of Lagos, in which a British fleet defeats a French fleet trying to slip through Gibraltar.",
+      "body": "The Battle of Lagos took place between a British fleet commanded by Edward Boscawen and a French fleet under Jean-François de La Clue-Sabran over two days in 1759 during the Seven Years' War. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_battle_off_Lagos%2C_August_18%2C_1759.jpg/330px-The_battle_off_Lagos%2C_August_18%2C_1759.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lagos"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Controversy and Other Essays in Journalism (1976) is a book of essays by American historian William Manchester.",
+      "body": "The Kennedy family, which had originally cooperated with Manchester, demanded that the author make changes in the manuscript prior to publication. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/ControversyEssays.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Controversy_and_Other_Essays_in_Journalism"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Philip Pullman and Maggie O’Farrell among authors urging Burnham to cut business rates on bookshops",
+      "body": "<p>After pubs and clubs get rates relief, authors back open letter calling for similar support for bookshops, described as the ‘beating hearts’ of high streets</p><p>Maggie O’Farrell, Philip Pullman, Katherine Rundell and Elif Shafak are am",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/18/philip-pullman-and-maggie-ofarrell-among-authors-urging-burnham-to-cut-business-rates-on-bookshops"
     },
     {
       "type": "card",
@@ -108,12 +130,50 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Charles Simonyi is a Hungarian-American software architect, businessman, and space tourist.",
-      "body": "He led the development of Microsoft's first application software, including early versions of Microsoft Office, and later co-founded Intentional Software, a company focused on his concept of intentional programming. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Charles_simonyi.jpg/330px-Charles_simonyi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "You probably never noticed this —",
+      "hook": "Marcus Dods was a Scottish divine and controversial biblical scholar.",
+      "body": "He was a minister of the Free Church of Scotland. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/19_to_25_Great_King_Street%2C_Edinburgh.JPG/330px-19_to_25_Great_King_Street%2C_Edinburgh.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Charles_Simonyi"
+      "url": "https://en.wikipedia.org/wiki/Marcus_Dods_(theologian_born_1834)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1966 —",
+      "hook": "Vietnam War: The Battle of Long Tan ensues after a patrol from the 6th Battalion, Royal Australian Regiment clashes with a Viet Cong force in Phước Tuy Province.",
+      "body": "The Battle of Long Tan took place in a rubber plantation near Long Tân, in Phước Tuy Province, South Vietnam, during the Vietnam War. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Battle_of_Long_Tan_18_August_1966.png/330px-Battle_of_Long_Tan_18_August_1966.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Long_Tan"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1937 —",
+      "hook": "A lightning strike starts the Blackwater Fire of 1937 in Shoshone National Forest, killing 15 firefighters within three days and prompting the United States Forest Service to develop their smokejumper program.",
+      "body": "On August 18, 1937, a lightning strike started the Blackwater Fire in Shoshone National Forest, approximately 35 miles (56 km) west of Cody, Wyoming, United States. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Blackwater_fire_1.jpg/330px-Blackwater_fire_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Blackwater_Fire_of_1937"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
     }
   ]
 }
