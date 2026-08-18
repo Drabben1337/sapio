@@ -1,133 +1,15 @@
 {
-  "generated": "2026-08-18T16:15:32.819Z",
-  "count": 19,
+  "generated": "2026-08-18T17:14:47.279Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1976 —",
-      "hook": "The Soviet Union's robotic probe Luna 24 successfully lands on the Moon.",
-      "body": "The Soviet Union, officially the Union of Soviet Socialist Republics (USSR), was a transcontinental country that spanned much of Eurasia from its formation in 1922 until its dissolution in 1991. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Soviet_Union"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1917 —",
-      "hook": "A Great Fire in Thessaloniki, Greece, destroys 32% of the city leaving 70,000 individuals homeless.",
-      "body": "The Great Thessaloniki Fire of 1917 destroyed two thirds of the city of Thessaloniki, the second-largest city in Greece, leaving more than 70,000 homeless. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Aftermath_of_the_Thessaloniki_Fire_of_1917.jpg/330px-Aftermath_of_the_Thessaloniki_Fire_of_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Great_Thessaloniki_Fire_of_1917"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 707 —",
-      "hook": "Princess Abe accedes to the imperial Japanese throne as Empress Genmei.",
-      "body": "Year 707 (DCCVII) was a common year starting on Saturday of the Julian calendar. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Arab-Byzantine_frontier_zone.svg/330px-Arab-Byzantine_frontier_zone.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/AD_707"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1963 —",
-      "hook": "Civil rights movement: James Meredith becomes the first African American to graduate from the University of Mississippi.",
-      "body": "The civil rights movement was a social movement in the United States from 1954 to 1968 which aimed to abolish legalized racial segregation, discrimination, and disenfranchisement in the country, which most commonly affected African Americans. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/330px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Civil_rights_movement"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1136 —",
-      "hook": "Following the surrender of Baghdad, Seljuk Sultan Mas'ud replaces Abbasid caliph Al-Rashid Billah with his uncle Al-Muqtafi.",
-      "body": "The Siege of Baghdad was a fifty-day blockade of Baghdad, the seat of the Abbasid caliphs, in 1136. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iraq_physical_map.svg/330px-Iraq_physical_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1136)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Hole is a 2001 British psychological thriller film directed by Nick Hamm, based on the 1993 novel After the Hole by Guy Burt.",
-      "body": "The film stars Thora Birch, Desmond Harrington, Daniel Brocklebank, Laurence Fox, Keira Knightley, and Embeth Davidtz. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/Poster_of_the_movie_The_Hole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Hole_(2001_film)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Space Opera is a 2018 science fiction novel by Catherynne M.",
-      "body": "Valente, about a galactic version of the Eurovision Song Contest. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/48/Space_Opera_%28Valente_novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Space_Opera_(Valente_novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Earl Spencer to 'tell the truth' about his sister Princess Diana in new book",
-      "body": "Swan Song: Diana, My Sister is due to be released in the UK next month, nearly 30 years after she died.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Shōnen is a Japanese novel by Yasunari Kawabata.",
-      "body": "It was first published in a serialized form between 1948 and 1949 and later as a book in 1952. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sh%C5%8Dnen_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "For Us, the Living: A Comedy of Customs is a science fiction novel by American writer Robert A.",
-      "body": "It was written in 1938 and published for the first time in 2003. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/de/RobertAHeinlein_ForUsTheLiving.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/For_Us%2C_the_Living"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1572 —",
-      "hook": "The Huguenot King Henry III of Navarre marries the Catholic Margaret of Valois, ostensibly to reconcile the feuding Protestants and Catholics of France.",
-      "body": "The Huguenots are a religious group of French Protestants who held to the Reformed (Calvinist) tradition of Protestantism. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ReformationsdenkmalGenf1.jpg/330px-ReformationsdenkmalGenf1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Huguenots"
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
     },
     {
       "type": "card",
@@ -140,50 +22,98 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
-      "body": "Fans, friends and family travel to Swansea to pay tribute to Total Eclipse of the Heart singer.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c171j051gejo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Emily Watson joins cast of Mackenzie Crook’s directorial debut ‘Mars Express’",
-      "body": "Watson was speaking at Sarajevo Film Festival, where she heads the jury and has received an honorary award.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/emily-watson-joins-cast-of-mackenzie-crooks-directorial-debut-mars-express/5219496.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "It was designated as a Class 1 Protection Forest by the Sabah Forestry Department in 1984.",
-      "body": "Mandamai Forest Reserve is a protected forest reserve in Pitas District of Kudat Division in Sabah, Malaysia. The world is stranger than it lets on.",
-      "img": null,
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "A personal digital assistant (PDA) is a multi-purpose mobile device which functioned as a personal information manager.",
+      "body": "Following a boom in the 1990s and 2000s, PDAs were mostly displaced in the early 2010s by the widespread adoption of smartphones and tablet computers. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/PalmTX.jpg/330px-PalmTX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mandamai_Forest_Reserve"
+      "url": "https://en.wikipedia.org/wiki/Personal_digital_assistant"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Christopher Berry-Dee dropped by publisher after allegations of abuse made against him",
+      "body": "<p>Bonnier Books will no longer publish UK’s top-selling true crime author following Guardian investigation</p><p>The main publisher of the bestselling true crime writer Christopher Berry-Dee has dropped the author after a <a href=\"https://",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/18/christopher-berry-dee-dropped-publisher-allegations-abuse"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Trapped is a science fiction novel written by the Canadian author James Alan Gardner and published in 2002 by HarperCollins Publishers under its various imprints.",
-      "body": "The book is the sixth installment in Gardner's \"League of Peoples\" series of novels, set in the mid-25th century. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/2e/Trapped_%28Gardner_novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Timothy Wayne Krajcir (pronounced /ˈkraɪtʃər/) is a convicted American serial killer from West Mahanoy Township, Pennsylvania who has confessed to killing nine women: five in Missouri and four others in Illinois, Kentucky, and Pennsylvania.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Timothy_Krajcir.jpg/330px-Timothy_Krajcir.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Trapped_(Gardner_novel)"
+      "url": "https://en.wikipedia.org/wiki/Timothy_Krajcir"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Diseworth is a village and former civil parish, now in the parish of Long Whatton and Diseworth, in the North West Leicestershire district, in the English county of Leicestershire.",
+      "body": "It is south of East Midlands Airport and off Junction 23A of the M1 motorway. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Diseworth_Village_-_geograph.org.uk_-_1343922.jpg/330px-Diseworth_Village_-_geograph.org.uk_-_1343922.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diseworth"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Actress Phyllida Law, mother of Emma and Sophie Thompson, dies at 94",
-      "body": "Law appeared in films alongside both of her daughters, Dame Emma and Sophie, including 1996's Emma.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kddmn97do?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
+      "body": "<p>Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interacti",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Chembur is an upmarket large suburb in central Mumbai, India.",
+      "body": "It belongs on the harbour line of suburban railways and offers the best connectivity with Mumbai Monorail, Santacruz- Chembur Link Road, Airport, Jeejamata Bhosle Marg, Eastern Freeway, Eastern Express Highway, BKC connector, and Mumbai Satara highway (Sion-Pa",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chembur"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p><strong>Cannes film festival: </strong>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transf",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Charles Simonyi is a Hungarian-American software architect, businessman, and space tourist.",
+      "body": "He led the development of Microsoft's first application software, including early versions of Microsoft Office, and later co-founded Intentional Software, a company focused on his concept of intentional programming. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Charles_simonyi.jpg/330px-Charles_simonyi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Simonyi"
     }
   ]
 }
