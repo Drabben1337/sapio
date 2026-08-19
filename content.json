@@ -1,43 +1,66 @@
 {
-  "generated": "2026-08-19T22:11:14.929Z",
-  "count": 13,
+  "generated": "2026-08-19T23:11:04.092Z",
+  "count": 24,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Mutiny’ review: Jason Statham finds himself all at sea in uninspired cargo ship thriller",
-      "body": "Jean-Francois Richet’s muscular feature fails to make the most of its action star",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/mutiny-review-jason-statham-finds-himself-all-at-sea-in-uninspired-cargo-ship-thriller/5219429.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Over/Under review – beautiful coming of age story of female best friends set across five summers",
-      "body": "<p>There’s an astonishing naturalism about the two leads, navigating the ups and downs of adolescence, bodily changes and learning to use tampons</p><p>Practically any woman who had a best female friend in early adolescence will be able to ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/19/over-under-review-beautiful-coming-of-age-story-set-across-five-summers"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Alphonse-Marie-Adolphe de Neuville was a French academic painter who studied under Eugène Delacroix.",
+      "body": "His dramatic and intensely patriotic subjects illustrated episodes from the Franco-Prussian War, the Crimean War, the Zulu War, and portraits of soldiers. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alphonse-Marie-Adolphe_de_Neuville.jpg/330px-Alphonse-Marie-Adolphe_de_Neuville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alphonse_de_Neuville"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Satyanweshi also spelled Satyanveshi, is a detective story written by Sharadindu Bandyopadhyay featuring the Bengali detective Byomkesh Bakshi and his friend, assistant, and narrator Ajit Bandyopadhyay.",
-      "body": "It is the first Byomkesh adventure written by Sharadindu Bandyopadhyay. The world is stranger than it lets on.",
+      "opener": "Here's one for the group chat —",
+      "hook": "Jane Tapsubei Creider is a Kenyan writer of memoir, fiction, and non-fiction, including articles and books co-authored with her husband Chet.",
+      "body": "Creider on the Nandi language. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Satyanweshi_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Jane_Tapsubei_Creider"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘There was a certain hostility’: how Wet Hot American Summer went from miss to hit",
-      "body": "<p>Critics might have been sniffy back in 2001 but the silly summer camp comedy has endured and director David Wain has been enjoying the ‘slow-burn’ appreciation</p><p>In the summer of 2001, the film critic Roger Ebert <a href=\"https://www",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/18/wet-hot-american-summer-film"
+      "cat": "history",
+      "opener": "On this day in 1965 —",
+      "hook": "Japanese prime minister Eisaku Satō becomes the first post-World War II sitting prime minister to visit Okinawa Prefecture.",
+      "body": "The prime minister of Japan is the head of government of Japan. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gosichigirimon.svg/330px-Gosichigirimon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Japan"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The 1909 Nobel Prize in Literature was awarded to the Swedish author Selma Lagerlöf (1858–1940) \"in appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings.\" She became the first woman and first Swede to be awarded the prize.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Atelje_Jaeger_-_Selma_Lagerl%C3%B6f_1928.jpeg/330px-Atelje_Jaeger_-_Selma_Lagerl%C3%B6f_1928.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1909_Nobel_Prize_in_Literature"
     },
     {
       "type": "card",
@@ -50,36 +73,6 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Courtship of Eddie's Father is a 1963 American romantic comedy-drama film directed by Vincente Minnelli, starring Glenn Ford as Tom Corbett, a widowed father, and Ronny Howard as the titular son.",
-      "body": "The film is based on the 1961 novel of the same name by Mark Toby. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Courtship_of_Eddie%27s_Father_%281963_film_poster%29.png/330px-The_Courtship_of_Eddie%27s_Father_%281963_film_poster%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Courtship_of_Eddie's_Father_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Zły is a 1955 Polish novel by Leopold Tyrmand.",
-      "body": "Set in post-war Warsaw, it follows a mysterious vigilante who wages a campaign against the city's criminal underworld. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Z%C5%82y_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "It is the longest running program in the history of television in Spain as it has been broadcast daily since 15 September 1957.",
-      "body": "Telediario (Tele-journal) is the flagship television newscast produced by Televisión Española (TVE), the television division of Spanish state-owned public broadcaster Radiotelevisión Española (RTVE). One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Telediario"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "John Irvin, British film-maker who directed Tinker Tailor Soldier Spy, dies aged 86",
@@ -89,22 +82,110 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "(Matthew) Edward McNulty (1856–1943) was an Irish playwright and novelist, known for his penned portrayals of Irish peasant life.",
-      "body": "Two of McNulty's plays, the 1914 comedy The Lord Mayor and the 1921 comedy The Courting of Mary Doyle, were successfully produced at the Abbey Theatre. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Edward_McNulty"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘There was a certain hostility’: how Wet Hot American Summer went from miss to hit",
+      "body": "<p>Critics might have been sniffy back in 2001 but the silly summer camp comedy has endured and director David Wain has been enjoying the ‘slow-burn’ appreciation</p><p>In the summer of 2001, the film critic Roger Ebert <a href=\"https://www",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/18/wet-hot-american-summer-film"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1839 —",
+      "hook": "The French government announces that Louis Daguerre's photographic process is a gift \"free to the world\".",
+      "body": "Louis-Jacques-Mandé Daguerre was a French scientist, artist and photographer. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Louis_Daguerre_2.jpg/330px-Louis_Daguerre_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Louis_Daguerre"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Sunrise by Téa Obreht review – secrets and myths in the American west",
-      "body": "<p>Set across three interwoven timelines, this absorbing tale of an abandoned mining town explores courage, cowardice and how history is recorded</p><p>Téa Obreht’s novels teem with conflicting narratives, treacherous landscapes and specula",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/18/sunrise-by-tea-obreht-review-secrets-and-myths-in-the-american-west"
+      "opener": "The Guardian · Film —",
+      "hook": "Over/Under review – beautiful coming of age story of female best friends set across five summers",
+      "body": "<p>There’s an astonishing naturalism about the two leads, navigating the ups and downs of adolescence, bodily changes and learning to use tampons</p><p>Practically any woman who had a best female friend in early adolescence will be able to ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/19/over-under-review-beautiful-coming-of-age-story-set-across-five-summers"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2004 —",
+      "hook": "Google Inc. has its initial public offering on Nasdaq.",
+      "body": "Google LLC is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1964 —",
+      "hook": "Syncom 3, the first geostationary communication satellite, is launched. Two months later, it would enable live coverage of the 1964 Summer Olympics.",
+      "body": "Syncom started as a 1961 NASA program for active geosynchronous communication satellites, all of which were developed and manufactured by the Space and Communications division of Hughes Aircraft Company. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Syncom_colour.jpg/330px-Syncom_colour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Syncom"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify",
+      "body": "<p>Murder trial of Duane ‘Keffe D’ Davis, 63, former South Side Compton Crips gang leader, opens in Las Vegas</p><p>For nearly 30 years, the unsolved murder of 25-year-old rapper Tupac Shakur has sparked <a href=\"https://www.latimes.com/loc",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/18/tupac-shakur-trial-day-one"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "It was previously the 54th Air Defence Corps, a corps both of the Soviet Air Defence Forces and later the Russian Aerospace Forces.",
+      "body": "The 2nd Air Defense Division is an air defence military formation of the Russian Aerospace Forces. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/54th_Corps_PVO_Insignia.png/330px-54th_Corps_PVO_Insignia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2nd_Air_Defence_Division_(Russia)"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Web of Everywhere is a science fiction novel by British writer John Brunner, originally published in 1974 by Bantam Books in A Frederik Pohl Selection.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/Web_of_Everywhere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Web_of_Everywhere"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Mount Huaguo is a mountain located in Haizhou District, Lianyungang, Jiangsu, China.",
+      "body": "It forms a part of the Yuntai Mountains. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mount_Huaguo_(Jiangsu)"
     },
     {
       "type": "card",
@@ -117,13 +198,42 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "One Morning in Maine is a picture book by Robert McCloskey set in Brooksville, Maine.",
-      "body": "It was awarded the Caldecott Honor in 1953. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/74/One_Morning_in_Maine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/One_Morning_in_Maine"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Mutiny’ review: Jason Statham finds himself all at sea in uninspired cargo ship thriller",
+      "body": "Jean-Francois Richet’s muscular feature fails to make the most of its action star",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/reviews/mutiny-review-jason-statham-finds-himself-all-at-sea-in-uninspired-cargo-ship-thriller/5219429.article"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1725 —",
+      "hook": "J. S. Bach leads the first performance of Lobe den Herren, den mächtigen König der Ehren, BWV 137, a cantata setting the unchanged text of Neander's hymn.",
+      "body": "Johann Sebastian Bach was a German composer and musician of the late Baroque period. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/330px-Johann_Sebastian_Bach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Dissolution of the Soviet Union: The August Coup begins when Soviet President Mikhail Gorbachev is placed under house arrest while on holiday in the town of Foros, Ukraine.",
+      "body": "The Soviet Union was formally dissolved and ceased to exist as a sovereign state and subject of international law on December 26, 1991. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_USSR_with_SSR_names.svg/330px-Map_of_USSR_with_SSR_names.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
     }
   ]
 }
