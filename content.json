@@ -1,151 +1,94 @@
 {
-  "generated": "2026-08-19T15:17:53.213Z",
-  "count": 18,
+  "generated": "2026-08-19T16:15:32.171Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1909 —",
-      "hook": "The Indianapolis Motor Speedway opens for automobile racing. William Bourque and his mechanic are killed during the first day's events.",
-      "body": "The Indianapolis Motor Speedway is a motor racing circuit located in Speedway, Indiana, United States, an enclave suburb of Indianapolis, Indiana. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Indianapolis_Motor_Speedway_logo.svg/330px-Indianapolis_Motor_Speedway_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1458 —",
-      "hook": "Pope Pius II is elected the 211th Pope.",
-      "body": "Pope Pius II, born Enea Silvio Bartolomeo Piccolomini, was head of the Catholic Church and ruler of the Papal States from 19 August 1458 to his death in 1464. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pintoricchio_014.jpg/330px-Pintoricchio_014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pope_Pius_II"
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Hubble & Gaia solve our galaxy's merger mystery",
+      "body": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1812 —",
-      "hook": "War of 1812: American frigate USS Constitution defeats the British frigate HMS Guerriere off the coast of Nova Scotia, Canada earning the nickname \"Old Ironsides\".",
-      "body": "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/War_of_1812_Montage.jpg/330px-War_of_1812_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/War_of_1812"
+      "opener": "Okay, this one's fun —",
+      "hook": "At the 2010 general election parts formed the new seats of Hornchurch and Upminster; and Dagenham and Rainham.",
+      "body": "Hornchurch was a borough constituency represented in the House of Commons of the Parliament of the United Kingdom. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HornchurchConstituency.svg/330px-HornchurchConstituency.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hornchurch_(constituency)"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Phyllida Law, prolific performer across stage and screen, dies aged 94",
-      "body": "<p>As adept at comedy and musicals as she was drama, Law also acted alongside daughters Sophie and Emma Thompson in a career spanning eight decades</p><p>Phyllida Law, whose prolific acting career encompassed a wide range of stage, TV and f",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/18/phyllida-law-performer-stage-screen-dies"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1861 —",
-      "hook": "First ascent of Weisshorn, fifth highest summit in the Alps.",
-      "body": "The Weisshorn is a major peak of Switzerland and the Alps, culminating at 4,505 metres above sea level. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Alps.jpg/330px-Alps.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Weisshorn"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Brain-breaking sex, bad boys in leather and queer glory: why TV vampires are so intoxicating",
-      "body": "<p>The Vampire Lestat has seduced fans around the world with his eye-popping antics. But this obsession with hot vamps goes way beyond forbidden love, bare chests and a taste for LSD-laced blood</p><p>If you want TV audiences to forgive a f",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/18/why-tv-vampires-are-so-intoxicating-vampire-lestat-lsd-blood"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Angélique Kidjo makes history for Africa with star on Hollywood Walk of Fame",
-      "body": "Without Africans, no music is possible on this planet, says the 66-year-old musical icon from Benin.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Heyday Films, Amazon MGM Studios sign multi-year first-look deal",
-      "body": "Amazon MGM Studios will have first look at scripted and unscripted Heyday projects.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/heyday-films-amazon-mgm-studios-sign-multi-year-first-look-deal/5219529.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "5-year-old brain organoids can sense the passing of time",
-      "body": "Brain organoids have been grown and studied for five years, the longest time to date, and their activity suggests they had a sense of time going by",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585540-5-year-old-brain-organoids-can-sense-the-passing-of-time/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Golden Rendezvous is a novel written by Scottish author Alistair MacLean, and was first published in 1962.",
+      "body": "One of MacLean's most popular works, it combines mystery, suspense, action, clever bluffs and double bluffs, with MacLean's trademark self-deprecating wit. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/72/TheGoldenRendezvous.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Golden_Rendezvous"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1692 —",
-      "hook": "Salem witch trials: In Salem, province of Massachusetts Bay, Martha Carrier, George Jacobs Sr., John Proctor, John Willard, and clergyman George Burroughs are executed after being convicted of witchcraft.",
-      "body": "The Salem witch trials were a series of hearings and prosecutions of people accused of witchcraft in colonial Massachusetts between February 1692 and May 1693. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salem_witch2.jpg/330px-Salem_witch2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1659 —",
+      "hook": "Parliamentarian forces under John Lambert defeat Royalist forces under George Booth in the battle of Winnington Bridge, ending Booth's Uprising.",
+      "body": "Major-General John Lambert was an English army officer and politician. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Portrait_of_John_Lambert_%28cropped%29.jpg/330px-Portrait_of_John_Lambert_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Salem_witch_trials"
+      "url": "https://en.wikipedia.org/wiki/John_Lambert_(general)"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Jacques Guérin was a French industrialist and book collector.",
-      "body": "For 46 years, he presided over Maison D'Orsay, a Paris perfumery. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Photographie_Jacques_Gu%C3%A9rin.jpg/330px-Photographie_Jacques_Gu%C3%A9rin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Keepers of the House is the debut novel of Lisa St Aubin de Terán, published as The Long Way Home in the US.",
+      "body": "The novel is autobiographical and set in a Venezuelan valley beset by drought. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/KeepersOfTheHouseTeran.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jacques_Gu%C3%A9rin"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "White Shark is a 1994 novel by author Peter Benchley, famous for Jaws, The Island, Beast, and The Deep.",
-      "body": "White Shark is similar to Jaws but does not feature a shark, let alone a white shark, despite what the title suggests; the phrase is the codename of a weapon. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/WhiteShark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/White_Shark_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Gulliver's Travels Beyond the Moon , also known as Space Gulliver, is a 1965 Japanese animated feature that was released in Japan on March 20, 1965, and in the United States on July 23, 1966.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/ef/Gullivers_Travels_Beyond_the_Moon_%281965%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gulliver's_Travels_Beyond_the_Moon"
+      "url": "https://en.wikipedia.org/wiki/Keepers_of_the_House"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in -43 —",
-      "hook": "In the wake of the murder of Julius Caesar, his nephew and heir, Octavian, uses the threat of military force to compel the Roman Senate to elect him Consul.",
-      "body": "Gaius Julius Caesar was a Roman general, statesman, and author who was the dictator of the Roman Republic almost continuously from 49 BC until his assassination in 44 BC. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/330px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1960 —",
+      "hook": "Cold War: In Moscow, Russia, Soviet Union, downed American U-2 pilot Francis Gary Powers is sentenced to ten years imprisonment by the Soviet Union for espionage.",
+      "body": "The Lockheed U-2, nicknamed the \"Dragon Lady\", is an American single-engine, high–altitude reconnaissance aircraft operated by the United States Air Force (USAF) and the Central Intelligence Agency (CIA) since the 1950s. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Usaf.u2.750pix.jpg/330px-Usaf.u2.750pix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+      "url": "https://en.wikipedia.org/wiki/Lockheed_U-2"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Tenderenda the Fantast is a novella by the German writer Hugo Ball.",
-      "body": "Set in fantastical locations, it consists of episodic chapters and functions as an allegorical story about the creation of the Dada movement in Zurich and Ball's eventual disillusionment with it. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/Tenderenda_der_Phantast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Newly discovered immune hubs in our skull may keep our brain healthy",
+      "body": "We may have clusters of immune cells at the back of our skull that help ward off conditions like brain cancer",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2585558-newly-discovered-immune-hubs-in-our-skull-may-keep-our-brain-healthy/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "As a result of these findings, three excavation areas at Igbo-Ukwu were opened in 1959 and 1964 by Charles Thurstan Shaw: Igbo Richard, Igbo Isaiah, and Igbo Jonah.",
+      "body": "The archaeology of Igbo-Ukwu is the study of an archaeological site located in a town of the same name: Igbo-Ukwu, an Igbo town in Anambra State in southeastern Nigeria. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Igbo_ukwu_face_pendant.png/330px-Igbo_ukwu_face_pendant.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tenderenda_the_Fantast"
+      "url": "https://en.wikipedia.org/wiki/Archaeology_of_Igbo-Ukwu"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1936 —",
+      "hook": "The Great Purge of the Soviet Union begins when the first of the Moscow Trials is convened.",
+      "body": "The Great Purge or Great Terror, also known as the Year of '37 and the Yezhovshchina, was a political purge in the Soviet Union from 1936 to 1938. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Vinnycia16.jpg/330px-Vinnycia16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Great_Purge"
     },
     {
       "type": "card",
@@ -158,22 +101,109 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1964 —",
+      "hook": "Syncom 3, the first geostationary communication satellite, is launched. Two months later, it would enable live coverage of the 1964 Summer Olympics.",
+      "body": "Syncom started as a 1961 NASA program for active geosynchronous communication satellites, all of which were developed and manufactured by the Space and Communications division of Hughes Aircraft Company. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Syncom_colour.jpg/330px-Syncom_colour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Syncom"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1782 —",
+      "hook": "American Revolutionary War: Battle of Blue Licks: The last major engagement of the war, almost ten months after the surrender of the British commander Charles Cornwallis following the Siege of Yorktown.",
+      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Kanyakumari Express is a 2010 Indian Malayalam-language police procedural thriller film directed by T.",
-      "body": "Suresh Babu and written by Dennis Joseph. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/24/Kanyakumari-express.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Pathfinder (2010) is a science fiction novel by American author Orson Scott Card.",
+      "body": "The novel tells the story of Rigg and his unusual ability to perceive the \"paths\" of living things throughout time. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/Pathfinder_cover_ISBN_1416991794.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kanyakumari_Express_(film)"
+      "url": "https://en.wikipedia.org/wiki/Pathfinder_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "It hosted local sporting events, concerts and the Ringling Brothers Circus until the Bon Secours Wellness Arena opened in 1998.",
+      "body": "Greenville Memorial Auditorium was a 7,500-seat multi-purpose arena built in 1958 that was located in Greenville, South Carolina. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Memorial_Auditorium_-_Greenville.jpg/330px-Memorial_Auditorium_-_Greenville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Greenville_Memorial_Auditorium"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "We may now know which neurons dictate when it is time to go to sleep",
-      "body": "Two clusters of neurons in the mouse brain seem to create the drive to get some shut-eye, potentially hinting at a new target for sleep disorder treatments",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585546-we-may-now-know-which-neurons-dictate-when-it-is-time-to-go-to-sleep/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "The Guardian · Film —",
+      "hook": "Christian metal band sues Netflix over KPop Demon Hunters name",
+      "body": "<p>25-year-old band Demon Hunter says name of streamer’s hit movie creates ‘substantial confusion’ among consumers</p><p>Christian metal band Demon Hunter is suing <a href=\"https://www.theguardian.com/media/netflix\">Netflix</a>, accusing th",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/19/kpop-demon-hunters-netflix-lawsuit"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Forever is a 1978 American made-for-television romantic drama film starring Stephanie Zimbalist and Dean Butler.",
+      "body": "It is based on the Judy Blume novel Forever... The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Forever_(1978_film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Phyllida Law, prolific performer across stage and screen, dies aged 94",
+      "body": "<p>As adept at comedy and musicals as she was drama, Law also acted alongside daughters Sophie and Emma Thompson in a career spanning eight decades</p><p>Phyllida Law, whose prolific acting career encompassed a wide range of stage, TV and f",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/18/phyllida-law-performer-stage-screen-dies"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "In Big Walk, players just walk and talk – and find joy along the way: ‘Some stories we’ve heard are punch-in-the-gut beautiful’",
+      "body": "<p>After their hit Untitled Goose Game, Australian studio House House is back with a new game where your only goal is to go exploring with friends – so we took them on a big walk inside Big Walk</p><p>When I arrive to meet with the tiny tea",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/games/2026/aug/20/in-big-walk-players-just-walk-and-talk-and-find-joy-along-the-way-some-stories-weve-heard-are-punch-in-the-gut-beautiful"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Bella Donna is a 1934 British drama film directed by Robert Milton and starring Conrad Veidt, Mary Ellis and Cedric Hardwicke.",
+      "body": "The film is based on the 1909 novel Bella Donna by Robert Hichens which had previously been made into a 1923 American silent film Bella Donna starring Pola Negri. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bella_Donna_%281934_film%29.jpg/330px-Bella_Donna_%281934_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bella_Donna_(1934_film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Post your questions for kd lang",
+      "body": "<p>As her supergroup with Neko Case and Laura Veirs celebrates the 10th anniversary of its sublime album, the Ingénue herself will answer your questions</p><p>A decade ago, three of the finest voices in Americana got together to make a subl",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/culture/2026/aug/19/post-your-questions-for-kd-lang"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1955 —",
+      "hook": "In the Northeast United States, severe flooding caused by Hurricane Diane, claims 200 lives.",
+      "body": "The Northeastern United States form one of the four census regions defined by the United States Census Bureau. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bostonstraight.jpg/330px-Bostonstraight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Northeastern_United_States"
     }
   ]
 }
