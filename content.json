@@ -1,7 +1,64 @@
 {
-  "generated": "2026-08-19T00:26:22.971Z",
-  "count": 17,
+  "generated": "2026-08-19T02:09:47.724Z",
+  "count": 12,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Hunter is the sixth studio album by American rock band Blondie, released on May 24, 1982, by Chrysalis Records.",
+      "body": "It was Blondie's last album of new material until 1999's No Exit. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ce/Blondie_-_The_Hunter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Hunter_(Blondie_album)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘I’ve always been fond of hairy creatures!’ Visual effects maestro Rick Baker on a monstrously good career",
+      "body": "<p>Rick Baker helped define Hollywood’s creature features with his wild makeup effects skills. From Locarno, he talks Gremlins, his love of simians– and why AI will never replace expert design</p><p>When Rick Baker was 22 years old and layi",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/18/rick-baker-interview-visual-effects-makeup-gremlins-thriller"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Henry Mayer, often seen as Hy Mayer in signatures, using the traditional abbreviation for Henry, was a German-American editorial cartoonist, comic artist, children's book illustrator and animator.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Henry_Mayer_-_Mar_1922_EH.jpg/330px-Henry_Mayer_-_Mar_1922_EH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henry_Mayer_(cartoonist)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Tupac Shakur murder trial: gang leader plotted killing to avenge beating of nephew, court hears",
+      "body": "<p>Prosecutors accuse Duane Davis of orchestrating 1996 shooting in retaliation for attack by rapper’s entourage</p><p>The trial of a former gang leader accused of orchestrating the 1996 killing of rap star <a href=\"https://www.theguardian.",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Machine Gun McCain is a 1969 English-language Italian crime film directed by Giuliano Montaldo and starring John Cassavetes, Britt Ekland, Peter Falk, Gabriele Ferzetti, and Florinda Bolkan.",
+      "body": "Cassavetes' spouse and regular collaborator Gena Rowlands appears in a supporting role. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/09/Gli-intoccabili-italian-movie-poster-md.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Machine_Gun_McCain"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "ZZ Top drummer Frank Beard dies aged 77",
+      "body": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,33 +70,22 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2002 —",
-      "hook": "Khankala Mi-26 crash: A Russian Mil Mi-26 helicopter carrying troops is hit by a Chechen missile outside Grozny, killing 118 soldiers.",
-      "body": "On 19 August 2002, a group of Chechen fighters armed with a man-portable air-defense system brought down a Russian Mil Mi-26 helicopter in a minefield, which resulted in the death of 127 Russian soldiers in the greatest loss of life in the history of helicopter aviation. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/VVS_Mil_Mi-26_Ryabtsev.jpg/330px-VVS_Mil_Mi-26_Ryabtsev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2002_Khankala_Mi-26_crash"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1759 —",
-      "hook": "Battle of Lagos: Naval battle during the Seven Years' War between Great Britain and France.",
-      "body": "The Battle of Lagos took place between a British fleet commanded by Edward Boscawen and a French fleet under Jean-François de La Clue-Sabran over two days in 1759 during the Seven Years' War. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_battle_off_Lagos%2C_August_18%2C_1759.jpg/330px-The_battle_off_Lagos%2C_August_18%2C_1759.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Lagos"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "ZZ Top drummer Frank Beard dies aged 77",
+      "body": "<p>Tributes paid to ‘great friend and collaborator’ who played with band for 56 years and died in hospice care in Texas</p><p>The <a href=\"https://www.theguardian.com/music/zz-top\">ZZ Top</a> drummer Frank Beard has died at the age of 77.</",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/18/frank-beard-dies-zz-top"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Ander Mirambell Viñas is a Spanish skeleton racer who has competed since 2005.",
-      "body": "He is Spain's first skeleton athlete. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2020-02-26_Training_Men%27s_Skeleton_%28Bobsleigh_%26_Skeleton_World_Championships_Altenberg_2020%29_by_Sandro_Halank%E2%80%93088.jpg/330px-2020-02-26_Training_Men%27s_Skeleton_%28Bobsleigh_%26_Skeleton_World_Championships_Altenberg_2020%29_by_Sandro_Halank%E2%80%93088.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Nightline is ABC News' late-night television news program broadcast on ABC in the United States with a franchised formula to other networks and stations elsewhere in the world.",
+      "body": "Created by Roone Arledge, the program featured Ted Koppel as its main anchor from March 1980 until his retirement in November 2005. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ander_Mirambell"
+      "url": "https://en.wikipedia.org/wiki/Nightline"
     },
     {
       "type": "card",
@@ -62,108 +108,12 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Seven resolutions have been approved by the United Nations Security Council (UNSC) relating to the nuclear program of Iran, although the only one currently in force is Resolution 2231, passed on 20 July 2015 endorsing the Joint Comprehensive Plan of Action on the Iranian nuclear program.",
-      "body": "It sets out an inspection process and schedule while also preparing for the removal of United Nations arms sanctions against Iran. One of those things you can't un-know.",
-      "img": null,
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Johanna van Ammers-Küller was a Dutch writer.",
+      "body": "She was one of the most successful European female writers in the interwar period, though her reputation suffered as a result of her collaboration during World War II. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jo_van_Ammers-K%C3%BCller_%281937%29.jpg/330px-Jo_van_Ammers-K%C3%BCller_%281937%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_resolutions_concerning_the_nuclear_program_of_Iran"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1955 —",
-      "hook": "In the Northeast United States, severe flooding caused by Hurricane Diane, claims 200 lives.",
-      "body": "The Northeastern United States form one of the four census regions defined by the United States Census Bureau. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bostonstraight.jpg/330px-Bostonstraight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Northeastern_United_States"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1458 —",
-      "hook": "Pope Pius II is elected the 211th Pope.",
-      "body": "Pope Pius II, born Enea Silvio Bartolomeo Piccolomini, was head of the Catholic Church and ruler of the Papal States from 19 August 1458 to his death in 1464. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pintoricchio_014.jpg/330px-Pintoricchio_014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pope_Pius_II"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘I’ve always been fond of hairy creatures!’ Visual effects maestro Rick Baker on a monstrously good career",
-      "body": "<p>Rick Baker helped define Hollywood’s creature features with his wild makeup effects skills. From Locarno, he talks Gremlins, his love of simians– and why AI will never replace expert design</p><p>When Rick Baker was 22 years old and layi",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/18/rick-baker-interview-visual-effects-makeup-gremlins-thriller"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The promotion of Bump Elliott to head coach in 1959 defined a historical era of the University of Michigan Wolverines football through 1968 when he resigned after that season.",
-      "body": "Michigan was a member of the Big Ten Conference and played its home games at Michigan Stadium during the Elliott years. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bump_Elliott_%281961%29.png/330px-Bump_Elliott_%281961%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/History_of_Michigan_Wolverines_football_in_the_Elliott_years"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "ZZ Top drummer Frank Beard dies aged 77",
-      "body": "<p>Tributes paid to ‘great friend and collaborator’ who played with band for 56 years and died in hospice care in Texas</p><p>The <a href=\"https://www.theguardian.com/music/zz-top\">ZZ Top</a> drummer Frank Beard has died at the age of 77.</",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/18/frank-beard-dies-zz-top"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "ZZ Top drummer Frank Beard dies aged 77",
-      "body": "A statement on the blues-rock band's website said he died on Monday in hospice",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Lippincott Williams & Wilkins (LWW) is an American imprint of the American Dutch publishing conglomerate Wolters Kluwer.",
-      "body": "It was established by the acquisition of Williams & Wilkins and its merger with J.B. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lippincott_Williams_%26_Wilkins"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in -43 —",
-      "hook": "In the wake of the murder of Julius Caesar, his nephew and heir, Octavian, uses the threat of military force to compel the Roman Senate to elect him Consul.",
-      "body": "Gaius Julius Caesar was a Roman general, statesman, and author who was the dictator of the Roman Republic almost continuously from 49 BC until his assassination in 44 BC. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/330px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Tupac Shakur murder trial: gang leader plotted killing to avenge beating of nephew, court hears",
-      "body": "<p>Prosecutors accuse Duane Davis of orchestrating 1996 shooting in retaliation for attack by rapper’s entourage</p><p>The trial of a former gang leader accused of orchestrating the 1996 killing of rap star <a href=\"https://www.theguardian.",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1965 —",
-      "hook": "Japanese prime minister Eisaku Satō becomes the first post-World War II sitting prime minister to visit Okinawa Prefecture.",
-      "body": "The prime minister of Japan is the head of government of Japan. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gosichigirimon.svg/330px-Gosichigirimon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Japan"
+      "url": "https://en.wikipedia.org/wiki/Jo_van_Ammers-K%C3%BCller"
     }
   ]
 }
