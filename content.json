@@ -1,15 +1,15 @@
 {
-  "generated": "2026-08-19T05:18:30.640Z",
-  "count": 13,
+  "generated": "2026-08-19T06:20:21.815Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
+      "opener": "The Guardian · Culture —",
       "hook": "ZZ Top drummer Frank Beard dies aged 77",
-      "body": "A statement on the blues-rock band's website said he died on Monday in hospice",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss"
+      "body": "<p>Tributes paid to ‘great friend and collaborator’ who played with band for 56 years and died in hospice care in Texas</p><p>The <a href=\"https://www.theguardian.com/music/zz-top\">ZZ Top</a> drummer Frank Beard has died at the age of 77.</",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/18/frank-beard-dies-zz-top"
     },
     {
       "type": "card",
@@ -22,13 +22,13 @@
     },
     {
       "type": "card",
-      "cat": "history",
+      "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Built on an artificial island in 1829 in response to the War of 1812, which had exposed the inadequacy of American coastal defenses, it remained unfinished on April 12, 1861, when it was attacked by Confederate Forces and greatly damaged.",
-      "body": "Fort Sumter is an incomplete sea fort at the mouth of Charleston Harbor, South Carolina, where the battle that sparked the American Civil War took place. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/FortSumter2009.jpg/330px-FortSumter2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Thomas Jefferson Clayton was an American lawyer from Pennsylvania who served as the first elected President Judge of the Thirty-Second Judicial District of Pennsylvania from 1874 to 1900.",
+      "body": "Clayton was an author of several letters to the Delaware County Republican newspaper based on his travels throughout Europe, Asia and Africa which were turned into a book. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Thomas_J_Clayton.png/330px-Thomas_J_Clayton.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fort_Sumter"
+      "url": "https://en.wikipedia.org/wiki/Thomas_J._Clayton"
     },
     {
       "type": "card",
@@ -41,6 +41,45 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Len Deighton's London Dossier is a guide book to London, edited by British author Len Deighton and published in 1967.",
+      "body": "It consists of a \"collection of personal guides to the hidden gems and sites of London by a range of writers and raconteurs, many of them Len Deighton’s friends.\" Deighton himself contributes two of the 14 essays. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Len_Deighton%27s_London_Dossier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Len_Deighton's_London_Dossier"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Katorah Kasanova Marrero, better known by her stage name Young M.A, is an American rapper.",
+      "body": "She is best known for her 2016 single \"Ooouuu\", which peaked at number 16 on the Billboard Hot 100 and received quadruple platinum certification by the Recording Industry Association of America (RIAA). Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Young_M.A._%282018%29.jpg/330px-Young_M.A._%282018%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Young_M.A"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Leucostethus siapida, also called the haunted cuilane, is a species of frog in the family Dendrobatidae.",
+      "body": "It was formally described in 2021 and is named after the Siapida indigenous group, who are native to the southern Chocó region of Colombia. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Leucostethus_siapida_holotype.jpg/330px-Leucostethus_siapida_holotype.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leucostethus_siapida"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "ZZ Top drummer Frank Beard dies aged 77",
+      "body": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
       "hook": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
@@ -50,80 +89,51 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "Moccasin has a post office with the ZIP code 59462.",
+      "body": "Moccasin is an unincorporated community in Judith Basin County, Montana, United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Moccasin_MT.jpg/330px-Moccasin_MT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moccasin%2C_Montana"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Where Are the Kings by Donal Ryan review – a timeless tale of family sorrows and joys",
+      "body": "<p>A teenage boy navigates adolescence and the traumatic loss of his mother in this poignant coming-of-age novel set in rural Ireland</p><p>Something is happening to literary time. In the last fortnight I’ve read new or forthcoming novels a",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/19/where-are-the-kings-by-donal-ryan-review-a-timeless-tale-of-family-sorrows-and-joys"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "David review – biblical Goliath-slayer animation offers upbeat boybandish worship musical",
+      "body": "<p>Christian kids’ movie is entertaining during the big battle, but the older bouffant hero’s lack of depth is distracting and the worship songs a weak link</p><p>U2’s Bono once described King David as “the Elvis of the Bible” – but in this",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/19/david-review-biblical-goliath-slayer-animation-offers-upbeat-boybandish-worship-musical"
+    },
+    {
+      "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Fumiya Imai is a Japanese voice actor from Hirosaki, Aomori Prefecture, affiliated with Rush Style.",
-      "body": "He is known for starring as Akito Shinonome in Hatsune Miku: Colorful Stage!, Yuya Niyodo in Phantom of the Idol, and Musashi in Hanabi-chan Is Often Late. The world is stranger than it lets on.",
+      "hook": "Neural Network Quantum States is a general class of variational quantum states parameterized in terms of an artificial neural network.",
+      "body": "It was first introduced in 2017 by the physicists Giuseppe Carleo and Matthias Troyer to approximate wave functions of many-body quantum systems. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fumiya_Imai"
+      "url": "https://en.wikipedia.org/wiki/Neural_network_quantum_states"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "George William Longenecker, usually known as Bill Longenecker, was an American landscape architect, educator, and executive director and co-creator of the University of Wisconsin–Madison Arboretum.",
-      "body": "His career lasted from 1926 to 1965. One of those things you can't un-know.",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "She has also been used as a character in stories by other writers.",
+      "body": "Una Persson is a recurring character in many of Michael Moorcock's 'multiverse' novels. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/G._William_Longenecker"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Tupac Shakur murder trial: gang leader plotted killing to avenge beating of nephew, court hears",
-      "body": "<p>Prosecutors accuse Duane Davis of orchestrating 1996 shooting in retaliation for attack by rapper’s entourage</p><p>The trial of a former gang leader accused of orchestrating the 1996 killing of rap star <a href=\"https://www.theguardian.",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Penthouse is a 1989 American-Canadian television film directed by David Greene and starring Robin Givens.",
-      "body": "It is based on the 1983 novel by Trevor Dudley-Smith. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Penthouse_(1989_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "ZZ Top drummer Frank Beard dies aged 77",
-      "body": "<p>Tributes paid to ‘great friend and collaborator’ who played with band for 56 years and died in hospice care in Texas</p><p>The <a href=\"https://www.theguardian.com/music/zz-top\">ZZ Top</a> drummer Frank Beard has died at the age of 77.</",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/18/frank-beard-dies-zz-top"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Benaloh Cryptosystem is an extension of the Goldwasser-Micali cryptosystem (GM) created in 1985 by Josh (Cohen) Benaloh.",
-      "body": "The main improvement of the Benaloh Cryptosystem over GM is that longer blocks of data can be encrypted at once, whereas in GM each bit is encrypted individually. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Benaloh_cryptosystem"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Wladimir Klitschko pays tribute to ex-partner Hayden Panettiere: ‘She left this world too soon’",
-      "body": "<p>Boxing champion says he will raise their daughter, Kaya, to remember the late actor’s ‘immense talent’ </p><p><a href=\"https://www.theguardian.com/film/2026/aug/17/hayden-panettiere-obituary\">Hayden Panettiere</a>’s daughter will be rais",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/18/hayden-panettiere-wladimir-klitschko-daughter-tribute"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Immunity Related Guanosine Triphosphatases or IRGs are proteins activated as part of an early immune response.",
-      "body": "IRGs have been described in various mammals but are most well characterized in mice. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mouse_IRG.png/330px-Mouse_IRG.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/IRGs"
+      "url": "https://en.wikipedia.org/wiki/Una_Persson"
     }
   ]
 }
