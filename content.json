@@ -1,25 +1,71 @@
 {
-  "generated": "2026-08-20T18:18:30.668Z",
-  "count": 19,
+  "generated": "2026-08-20T19:21:28.743Z",
+  "count": 18,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Demosthenes Philalethes was an ancient Greek physician of Asia Minor who was one of the pupils of Alexander Philalethes, a contemporary of Aristoxenus, and a follower of the teachings of Herophilos.",
+      "body": "He succeeded Alexander as the head of the Herophilean school of medicine in Carura. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Demosthenes_Philalethes"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Skintown’ wins £50,000 Edinburgh top prize",
+      "body": "Sindha Agha’s Grief Room won the £15,000 Thelma Schoonmaker short film prize.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/skintown-wins-50000-edinburgh-top-prize/5219538.article"
+    },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Mutiny review – Jason Statham’s fight-by-numbers action thriller just about stays above water",
-      "body": "<p>The hard-working action hero gives us exactly what we expect, and often want, in this sturdy cargo ship-set caper</p><p>The dog days of August have already seen the trotting out of some usual suspects from <a href=\"https://www.theguardia",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/19/mutiny-movie-review"
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Lycopodiaceae are an old family of vascular plants, including all of the core clubmosses and firmosses, comprising 17 accepted genera and about 500 known species.",
-      "body": "This family originated about 380 million years ago in the early Devonian, though the diversity within the family has been much more recent. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lycopodium_annotinum1.jpg/330px-Lycopodium_annotinum1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lycopodiaceae"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘I love provocative stories’: producer Christine Vachon on fighting for her ‘offensive’ movies",
+      "body": "<p>The maker of indie classics Kids, Swoon and Poison on daring to have a temper in the 90s, what some producer credits mean – and what happened between her and Joaquin Phoenix</p><p>Trailblazing producer Christine Vachon bestrides the worl",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/19/producer-christine-vachon-offensive-movies-kids-poison-swoon"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1882 —",
+      "hook": "Tchaikovsky's 1812 Overture debuts in Moscow, Russia.",
+      "body": "Pyotr Ilyich Tchaikovsky was a Russian composer of the Romantic period. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg/330px-Tchaikovsky_by_Reutlinger_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Strange gamma-ray signal could unlock dark matter’s secrets",
+      "body": "Researchers spotted an unusual gamma-ray signal in three galaxy clusters, which may be a telltale sign of dark matter – or some even more exotic phenomenon",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2585656-strange-gamma-ray-signal-could-unlock-dark-matters-secrets/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
     },
     {
       "type": "card",
@@ -33,69 +79,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Strange gamma-ray signal could unlock dark matter’s secrets",
-      "body": "Researchers spotted an unusual gamma-ray signal in three galaxy clusters, which may be a telltale sign of dark matter – or some even more exotic phenomenon",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585656-strange-gamma-ray-signal-could-unlock-dark-matters-secrets/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Dovber Schneuri was the second Rebbe of the Chabad Lubavitch Chasidic movement.",
-      "body": "Rabbi Dovber was the first Chabad rebbe to live in the town of Lyubavichi, the town for which this Hasidic dynasty is named. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dovber_Schneuri"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1926 —",
-      "hook": "Japan's public broadcasting company, Nippon Hōsō Kyōkai (NHK) is established.",
-      "body": "Public broadcasting is radio, television, and other electronic media whose primary mission is public service with a commitment to avoiding political and commercial influence. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "On this day in 1960 —",
+      "hook": "Senegal breaks from the Mali Federation, declaring its independence.",
+      "body": "Senegal, officially the Republic of Senegal, is the westernmost country of mainland West Africa, situated along the Atlantic Ocean coast. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/330px-Flag_of_Senegal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Public_broadcasting"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘I love provocative stories’: producer Christine Vachon on fighting for her ‘offensive’ movies",
-      "body": "<p>The maker of indie classics Kids, Swoon and Poison on daring to have a temper in the 90s, what some producer credits mean – and what happened between her and Joaquin Phoenix</p><p>Trailblazing producer Christine Vachon bestrides the worl",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/19/producer-christine-vachon-offensive-movies-kids-poison-swoon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Skintown’ wins £50,000 Edinburgh top prize",
-      "body": "Sindha Agha’s Grief Room won the £15,000 Thelma Schoonmaker short film prize.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/skintown-wins-50000-edinburgh-top-prize/5219538.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Eliza Ellen Melville was a New Zealand lawyer and politician.",
-      "body": "She was New Zealand's second female lawyer, and the first woman elected to a city council in New Zealand. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ellen_Melville.JPG/330px-Ellen_Melville.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ellen_Melville"
+      "url": "https://en.wikipedia.org/wiki/Senegal"
     },
     {
       "type": "card",
@@ -109,81 +99,81 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2012 —",
-      "hook": "A prison riot in the Venezuelan capital, Caracas, kills at least 20 people.",
-      "body": "On 20 August 2012, armed prisoners in the Yare I prison complex, an overcrowded prison in Miranda state near Caracas, Venezuela, rioted. Bring it up somewhere. Watch the reaction.",
+      "opener": "On this day in 1864 —",
+      "hook": "Bakumatsu: Kinmon incident: The Chōshū Domain attempts to expel the Satsuma and Aizu Domains from Japan's imperial court.",
+      "body": "Bakumatsu were the final years of the Edo period when the Tokugawa shogunate ended. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2012_Yare_prison_riot"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Miyar Valley is a remote and scenic valley located in the Western Himalayas.",
-      "body": "It is a part of the Lahaul Range, located between Pir Panjal and Zanskar Range. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Miyar_Valley"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1977 —",
-      "hook": "Voyager program: NASA launches the Voyager 2 spacecraft.",
-      "body": "The Voyager program is an American scientific program that employs two interstellar probes, Voyager 1 and Voyager 2. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Voyager_probes_with_the_outer_worlds.jpg/330px-Voyager_probes_with_the_outer_worlds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Voyager_program"
+      "url": "https://en.wikipedia.org/wiki/Bakumatsu"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "The Forge of God is a 1987 science fiction novel by American writer Greg Bear.",
-      "body": "Earth faces destruction when an inscrutable and overwhelming alien form of life attacks. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cd/TheForgeOfGod%281stEd%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Maze Runner is a 2014 American dystopian science fiction film directed by Wes Ball, in his feature directorial debut, based on James Dashner's 2009 novel.",
+      "body": "It is the first installment in The Maze Runner film series and was written by Noah Oppenheim, Grant Pierce Myers and T. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/be/The_Maze_Runner_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Forge_of_God"
+      "url": "https://en.wikipedia.org/wiki/The_Maze_Runner_(film)"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1998 —",
-      "hook": "U.S. embassy bombings: The United States launches cruise missile attacks against alleged al-Qaeda camps in Afghanistan and a suspected chemical weapons plant in Sudan in retaliation for the August 7 bombings of American embassies in Kenya and Tanzania.",
-      "body": "The 1998 United States embassy bombings were a series of terrorist attacks that occurred on August 7, 1998. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg/330px-1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1998_United_States_embassy_bombings"
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "AB-001 (1-pentyl-3-(1-adamantoyl)indole) is a designer drug that was found as an ingredient in synthetic cannabis smoking blends in Ireland in 2010 and Hungary and Germany in 2011.",
+      "body": "It is unclear who AB-001 was originally developed by, but it is structurally related to compounds such as AM-1248 and its corresponding 1-(tetrahydropyran-4-ylmethyl) analogue, which are known to be potent cannabinoid agonists with moderate to a high selectivi",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/AB-001_structure.svg/330px-AB-001_structure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AB-001"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "opener": "The Guardian · Film —",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "East Calais has a post office with ZIP code 05650, which opened on April 12, 1830.",
-      "body": "East Calais is an unincorporated village in the town of Calais, Washington County, Vermont, United States. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/East_Calais%2C_Vermont"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1968 —",
-      "hook": "Cold War: Warsaw Pact troops invade Czechoslovakia, crushing the Prague Spring. East German participation is limited to a few specialists due to memories of the recent war. Only Albania and Romania refuse to participate.",
-      "body": "The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1794 —",
+      "hook": "Northwest Indian War: United States troops force a confederacy of Shawnee, Mingo, Delaware, Wyandot, Miami, Ottawa, Chippewa, and Potawatomi warriors into a disorganized retreat at the Battle of Fallen Timbers.",
+      "body": "The Northwest Indian War was an armed conflict for control of the Northwest Territory between the United States and a loose confederation of Native American peoples who called themselves the United Indian Nations but are better known today as the Northwestern Confederacy. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Treaty_of_Greenville.jpg/330px-Treaty_of_Greenville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Cold_War"
+      "url": "https://en.wikipedia.org/wiki/Northwest_Indian_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Karen Margaret Andresen, better known as Karen Hermeston, was a Canadian photographer who served as the Canadian Army's first female war photographer during the Second World War.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sergeant_Karen_M._Hermiston_of_the_Canadian_Women%27s_Army_Corps%2C_holding_a_Rolleiflex_camera._Le_sergent_Karen_M._Hermiston%2C_du_Service_f%C3%A9minin_de_l%27Arm%C3%A9e_canadienne%2C_tient_un_appareil-photo_Rolleiflex_%284679191346%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karen_Hermeston"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2008 —",
+      "hook": "Spanair Flight 5022, from Madrid, Spain to Gran Canaria, skids off the runway and crashes at Barajas Airport. Of the 172 people on board, 146 die immediately, and eight more later die of injuries sustained in the crash.",
+      "body": "Spanair Flight 5022 was a scheduled domestic passenger flight from Barcelona–El Prat Airport to Gran Canaria Airport, Spain, with a stopover in Madrid–Barajas Airport that crashed just after take-off from runway 36L at Madrid-Barajas Airport at 14:24 CEST (12:24 UTC) on 20 August 2008. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Spanair_Flight_5022_overview.jpg/330px-Spanair_Flight_5022_overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Spanair_Flight_5022"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "In the Lonely Hour is the debut studio album by English singer and songwriter Sam Smith.",
+      "body": "It was released in the United Kingdom on 26 May 2014 via Capitol UK and Method Records. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/99/Sam_Smith_-_In_the_Lonely_Hour_%28Official_Album_Cover%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/In_the_Lonely_Hour"
     }
   ]
 }
