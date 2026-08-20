@@ -1,26 +1,151 @@
 {
-  "generated": "2026-08-20T11:14:22.689Z",
-  "count": 19,
+  "generated": "2026-08-20T12:18:39.611Z",
+  "count": 20,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1968 —",
+      "hook": "Cold War: Warsaw Pact troops invade Czechoslovakia, crushing the Prague Spring. East German participation is limited to a few specialists due to memories of the recent war. Only Albania and Romania refuse to participate.",
+      "body": "The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cold_War"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "AI firms are watermarking generated text – here&#8217;s why it won&#8217;t work",
+      "body": "AI companies have begun embedding watermarks in the output of their models to improve transparency and help crack down on misinformation, disinformation and cheating on homework, but there are limitations to this approach",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584736-ai-firms-are-watermarking-generated-text-heres-why-it-wont-work/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "NASA calls off rescue effort to save doomed telescope",
+      "body": "The Swift observatory will now re-enter Earth’s atmosphere in a few months, after a mission to boost it higher failed",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2585668-nasa-calls-off-rescue-effort-to-save-doomed-telescope/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "He was succeeded by his eldest son Jagat Singh II.",
+      "body": "Maharana Sangram Singh II was the Sisodia Rajput ruler of Kingdom of Mewar. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Maharana_Sangram_Singh_Riding_a_Prize_Stallion.jpg/330px-Maharana_Sangram_Singh_Riding_a_Prize_Stallion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sangram_Singh_II"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Ardashes Hovsepian better known by his penname Malkhas was an Armenian writer and revolutionary, best known for his four-volume novel Awakening (Zartonk).",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Malkhas_Hovsepyan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Malkhas"
+    },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "WCIV is a television station in Charleston, South Carolina, United States.",
-      "body": "Its primary channel is programmed as an independent station with a secondary affiliation with MyNetworkTV, while its second subchannel is affiliated with ABC. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/WMMP-WCIV_MyTV_Charleston_flat.svg/330px-WMMP-WCIV_MyTV_Charleston_flat.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Dime Store Magic is a fantasy novel by Canadian writer Kelley Armstrong.",
+      "body": "It is the third in the Women of the Otherworld series featuring Paige Winterbourne. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/dd/Dime_Store_Magic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/WCIV"
+      "url": "https://en.wikipedia.org/wiki/Dime_Store_Magic"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "How I’ve Tried to Change the World by Alexei Sayle review – does protest make a difference?",
+      "body": "<p>The comedian charts his life in demos from 1960s Liverpool to 2020s London in this fiery and addictive book</p><p>At 74, the comedian Alexei Sayle is approaching a dangerous phase for veteran British leftists: becoming a national treasur",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/stage/2026/aug/20/how-ive-tried-to-change-the-world-by-alexei-sayle-review-does-protest-make-a-difference"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Could other festivals emulate Edinburgh’s ‘Trainspotting’ club night? - The Screen Podcast",
+      "body": "We round up the key industry talking points from the late summer film festivals.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/could-other-festivals-emulate-edinburghs-trainspotting-club-night-the-screen-podcast/5219528.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Friendswood is a 2014 novel by René Steinke.",
+      "body": "It is about an incident of dumping toxic waste in Friendswood, Texas. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d4/Friendswood_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Friendswood_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 636 —",
+      "hook": "Battle of the Yarmuk: Marking the first great wave of Muslim conquests and the rapid advance of Islam outside Arabia, Arab forces led by Khalid ibn al-Walid defeat the Byzantine Empire and take control of the Levant.",
+      "body": "The Battle of the Yarmuk was a major battle between the Byzantine Empire and the Rashidun Caliphate near the Yarmouk River in Byzantine Syria that marked a crucial point in the Muslim conquest of Syria. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hayton_BNF886_9v.jpg/330px-Hayton_BNF886_9v.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Yarmuk"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘I was born without self-esteem’: Hannah Einbinder on Hacks, her buzzy queer horror – and being Hollywood’s most outspoken star",
+      "body": "<p>The Hacks lead was cast in meta-slasher sensation Teenage Sex and Death at Camp Miasma for her ‘deranged physicality’ – but it’s a fitting role for an actor who has made a point of confronting shame and speaking her mind</p><p>‘God is go",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "Hunt, a metallurgist in charge of the Pittsburgh Testing Laboratory, raising $20,000 with the help of investors and eventually forming the Pittsburgh Reduction Company which would later come to be known as ALCOA.",
+      "body": "Aluminum Company of America (ALCOA) - WearEver Cookware can trace its origins back to 1888 when Charles Martin Hall, a young inventor from Oberlin, Ohio discovered an inexpensive way to smelt aluminum by perfecting the electrochemical reduction process that ex",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/WearEver_Cookware_Jeffersontown_Historical_Museum.jpg/330px-WearEver_Cookware_Jeffersontown_Historical_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/WearEver_Cookware"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Charles Francis Keary was an English scholar and historian.",
+      "body": "His later work as a novelist influenced the modernist writer James Joyce. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Francis_Keary_%281848%E2%80%931917%29.png/330px-Charles_Francis_Keary_%281848%E2%80%931917%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Francis_Keary"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The West Coast Conference (WCC) Women's Basketball Player of the Year is a basketball award given to the most outstanding women's basketball player in the West Coast Conference.",
-      "body": "The award has been given ever since the conference first sponsored women's basketball in the 1985–86 season, when it was known as the West Coast Athletic Conference. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "Open City is a 2011 novel by Nigerian-American writer Teju Cole.",
+      "body": "The novel is primarily set in New York City, and concerns a Nigerian immigrant, Julius, who has recently broken up with his girlfriend. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/70/Open_City_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/West_Coast_Conference_Women's_Basketball_Player_of_the_Year"
+      "url": "https://en.wikipedia.org/wiki/Open_City_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1083 —",
+      "hook": "The first King of Hungary, Stephen I, and his son, Prince Emeric, are canonized, a date now celebrated as a National Day in Hungary.",
+      "body": "The King of Hungary was the ruling head of state of the Kingdom of Hungary from 1000 to 1918. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Royal_coat_of_arms_of_the_Kingdom_of_Hungary_%281915-1918%3B_angels%29.svg/330px-Royal_coat_of_arms_of_the_Kingdom_of_Hungary_%281915-1918%3B_angels%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/King_of_Hungary"
     },
     {
       "type": "card",
@@ -43,147 +168,32 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 917 —",
-      "hook": "Battle of Acheloos: Tsar Simeon I of Bulgaria decisively defeats a Byzantine army.",
-      "body": "The Battle of Achelous or Acheloos, also known as the Battle of Anchialus, took place on 20 August 917, on the Achelous river near the Bulgarian Black Sea coast, close to the fortress Tuthom between Bulgarian and Byzantine forces. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Simeon_the_Great_anonymous_seal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Achelous_(917)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Long John Silver is a French comics series written by Xavier Dorison, illustrated by Mathieu Laufray and published by Dargaud in French and Cinebook in English.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/15/Long_low_res.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Long_John_Silver_(comics)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "NASA calls off rescue effort to save doomed telescope",
-      "body": "The Swift observatory will now re-enter Earth’s atmosphere in a few months, after a mission to boost it higher failed",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585668-nasa-calls-off-rescue-effort-to-save-doomed-telescope/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The River Wye is the fourth-longest river in the UK, stretching some 250 kilometres from its source on Plynlimon in Mid Wales to the Severn Estuary.",
-      "body": "The lower reaches of the river form part of the border between England and Wales. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/River_Wye_at_Hay-on-Wye.jpg/330px-River_Wye_at_Hay-on-Wye.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/River_Wye"
-    },
-    {
-      "type": "card",
-      "cat": "history",
       "opener": "On this day in 1988 —",
       "hook": "Iran–Iraq War: A ceasefire is agreed after almost eight years of war.",
-      "body": "The Iran–Iraq War, also called the First Imposed War by Iran, began with the Iraqi invasion of Iran in September 1980. Worth a quiet trip down the rabbit hole.",
+      "body": "The Iran–Iraq War, also called the First Imposed War by Iran, began with the Iraqi invasion of Iran in September 1980. Bring it up somewhere. Watch the reaction.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chemical_weapon1.jpg/330px-Chemical_weapon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "How I’ve Tried to Change the World by Alexei Sayle review – does protest make a difference?",
-      "body": "<p>The comedian charts his life in demos from 1960s Liverpool to 2020s London in this fiery and addictive book</p><p>At 74, the comedian Alexei Sayle is approaching a dangerous phase for veteran British leftists: becoming a national treasur",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/stage/2026/aug/20/how-ive-tried-to-change-the-world-by-alexei-sayle-review-does-protest-make-a-difference"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1949 —",
-      "hook": "Hungary adopts the Hungarian Constitution of 1949 and becomes a People's Republic.",
-      "body": "Hungary is a landlocked country in Central Europe. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/330px-Flag_of_Hungary.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2007 —",
+      "hook": "China Airlines Flight 120 catches fire and explodes after landing at Naha Airport in Okinawa, Japan.",
+      "body": "China Airlines Flight 120 was a regularly scheduled international flight from Taoyuan International Airport in Taoyuan County, Taiwan to Naha Airport in Okinawa Prefecture, Japan. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/China_airlines_B-18616_hiroshima.jpg/330px-China_airlines_B-18616_hiroshima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hungary"
+      "url": "https://en.wikipedia.org/wiki/China_Airlines_Flight_120"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1467 —",
-      "hook": "The Second Battle of Olmedo takes places as part of a succession conflict between Henry IV of Castile and his half-brother Alfonso, Prince of Asturias.",
-      "body": "The Second Battle of Olmedo was fought on 20 August 1467 near Olmedo in Castile as part of the War of the Castilian Succession between Henry IV of Castile and his half-brother Alfonso, Prince of Asturias. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "On this day in 1648 —",
+      "hook": "The Battle of Lens is the last major military confrontation of the Thirty Years' War, contributing to the signing of the Peace of Westphalia in October that year.",
+      "body": "The Battle of Lens was the last major battle of the Thirty Years' War (1618–1648). One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pierre_Franque_-_Bataille_de_Lens_-_1648.jpg/330px-Pierre_Franque_-_Bataille_de_Lens_-_1648.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Olmedo"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "AI firms are watermarking generated text – here&#8217;s why it won&#8217;t work",
-      "body": "AI companies have begun embedding watermarks in the output of their models to improve transparency and help crack down on misinformation, disinformation and cheating on homework, but there are limitations to this approach",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584736-ai-firms-are-watermarking-generated-text-heres-why-it-wont-work/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "George Nelson Allen was an American composer and geologist who was associated with Oberlin College, where he taught for 34 years.",
-      "body": "He is primarily known today for writing the melody to the hymn Precious Lord, Take My Hand. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/George_Nelson_Allen.jpg/330px-George_Nelson_Allen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/George_Nelson_Allen"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "World War I: Brussels is captured during the German invasion of Belgium.",
-      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_I"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Could other festivals emulate Edinburgh’s ‘Trainspotting’ club night? - The Screen Podcast",
-      "body": "We round up the key industry talking points from the late summer film festivals.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/could-other-festivals-emulate-edinburghs-trainspotting-club-night-the-screen-podcast/5219528.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "He has been described as \"one of Swedish-America's foremost literary figures\".",
-      "body": "Ernst Wilhelm (William) Olson was a Swedish-American journalist, publicist, writer, and translator. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Olson_Ernst_18700316_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ernst_Olson"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1960 —",
-      "hook": "Senegal breaks from the Mali Federation, declaring its independence.",
-      "body": "Senegal, officially the Republic of Senegal, is the westernmost country of mainland West Africa, situated along the Atlantic Ocean coast. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/330px-Flag_of_Senegal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Senegal"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘I was born without self-esteem’: Hannah Einbinder on Hacks, her buzzy queer horror – and being Hollywood’s most outspoken star",
-      "body": "<p>The Hacks lead was cast in meta-slasher sensation Teenage Sex and Death at Camp Miasma for her ‘deranged physicality’ – but it’s a fitting role for an actor who has made a point of confronting shame and speaking her mind</p><p>‘God is go",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lens"
     }
   ]
 }
