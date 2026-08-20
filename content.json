@@ -1,26 +1,81 @@
 {
-  "generated": "2026-08-20T05:19:39.882Z",
-  "count": 13,
+  "generated": "2026-08-20T06:21:28.914Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Susan Elizabeth Steiner was an English novelist and journalist best known for her three crime thriller novels set in Cambridgeshire, and whose central character is DS Manon Bradshaw.",
-      "body": "The first novel in the series was Missing, Presumed and was published in 2016. Bring it up somewhere. Watch the reaction.",
+      "opener": "Bet you didn't know —",
+      "hook": "Eric Shusta is the Howard Curler Distinguished Professor of Chemical and Biological Engineering at the University of Wisconsin–Madison.",
+      "body": "Byron Bird Department Chair from the summer of 2021 to the spring of 2024. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Susie_Steiner"
+      "url": "https://en.wikipedia.org/wiki/Eric_Shusta"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "After 25 years, I’m breaking up with The Sims. Here’s why you should, too | Jordan Erica Webber",
+      "body": "<p>Now that Jared Kushner and the Saudi Investment Fund have bought The Sims’ publisher, EA, it’s unlikely to remain a game celebrating diversity and inclusivity</p><p>Sometimes it feels as though horrific world events and the malicious ent",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/19/the-sims-jared-kushner-saudi-investment-fund-ea-diversity-inclusivity"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "How I’ve Tried to Change the World by Alexei Sayle review – does protest make a difference?",
+      "body": "<p>The comedian charts his life in demos from 1960s Liverpool to 2020s London in this fiery and addictive book</p><p>At 74, the comedian Alexei Sayle is approaching a dangerous phase for veteran British leftists: becoming a national treasur",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/stage/2026/aug/20/how-ive-tried-to-change-the-world-by-alexei-sayle-review-does-protest-make-a-difference"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "LA County could lose 4,500 film and TV jobs if Paramount-WBD merger closes, study claims",
+      "body": "Direct jobs at risk account for nearly 9% of 52,016 film and TV jobs California has lost since 2022.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/la-county-could-lose-4500-film-and-tv-jobs-if-paramount-wbd-merger-closes-study-claims/5219539.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Coyote Vs Acme review – quirky comedy returns from the dead to flip Wile E Coyote’s slapstick-violent world",
+      "body": "<p>After being shelved as a tax-writeoff, this Looney Tunes reboot redraws the hapless hunter as the Erin Brockovich of the cartoon world</p><p>Here is a quirky, peculiar, yet strangely diverting live-action-toon hybrid of the kind that has",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/19/coyote-vs-acme-review-wile-e-coyote-roadrunner"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Sky Wizards Academy is a Japanese light novel series written by Yū Moroboshi and illustrated by Mikihiro Amami.",
-      "body": "Fujimi Shobo has published fourteen volumes since July 2013 under their Fujimi Fantasia Bunko imprint. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/K%C5%ABsen_Mad%C5%8Dshi_K%C5%8Dhosei_no_Ky%C5%8Dkan_light_novel_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Massachusetts Commission for the Blind is a state agency of Massachusetts, serving citizens who are blind or low vision.",
+      "body": "Established in 1906, MCB is the first state agency for blindness in the history of the United States. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Seal_of_Massachusetts.svg/330px-Seal_of_Massachusetts.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sky_Wizards_Academy"
+      "url": "https://en.wikipedia.org/wiki/Massachusetts_Commission_for_the_Blind"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Freefall: A Reckoning for Boeing review – like a horror movie … only this is real life",
+      "body": "<p>In 2022, Rory Kennedy exposed the aviation safety scandal in which 346 people died – but since then, a plane door has blown out mid-flight and more whistleblowers have come to the fore. Will anyone pay for this?</p><p>It is unfortunate t",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/19/freefall-a-reckoning-for-boeing-review-like-a-horror-movie-movie"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Spider is a type of solitaire, and is one of the more popular two-deck solitaire games.",
+      "body": "The game originated in 1949, and its name comes from a spider's eight legs, referencing the eight foundation piles that must be filled in order to win. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Spider_%28solitaire%29.jpg/330px-Spider_%28solitaire%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spider_(solitaire)"
     },
     {
       "type": "card",
@@ -42,88 +97,23 @@
     },
     {
       "type": "card",
-      "cat": "history",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The five precepts or five rules of training is the most important system of morality for Buddhist lay people.",
+      "body": "They constitute the basic code of ethics to be respected by lay followers of Buddhism. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Plaque_with_the_five_precepts_engraved%2C_Lumbini_Park%2C_Nepal.jpg/330px-Plaque_with_the_five_precepts_engraved%2C_Lumbini_Park%2C_Nepal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Five_precepts"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "It also served the Montreal–Gaspé train until Via Rail suspended service in August 2013 due to poor track conditions.",
-      "body": "Montmagny station is a Via Rail station in Montmagny, Quebec, Canada. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gare_Montmagny.jpg/330px-Gare_Montmagny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Gandhi: Behind the Mask of Divinity is a biographical book about Mahatma Gandhi by United States Army officer G.",
+      "body": "It claims to challenge his image as a saintly, benevolent, and pacifistic leader of Indian independence, told through Gandhi's own writings and actions over the course of his life. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/GandhiBehindTheMaskOfDivinity.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Montmagny_station"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "My Sister's Keeper is the eleventh novel by the American author Jodi Picoult.",
-      "body": "It is based upon Anissa and Marissa Ayala. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/33/Sisterskeeper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/My_Sister's_Keeper_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "LA County could lose 4,500 film and TV jobs if Paramount-WBD merger closes, study claims",
-      "body": "Direct jobs at risk account for nearly 9% of 52,016 film and TV jobs California has lost since 2022.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/la-county-could-lose-4500-film-and-tv-jobs-if-paramount-wbd-merger-closes-study-claims/5219539.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "After 25 years, I’m breaking up with The Sims. Here’s why you should, too | Jordan Erica Webber",
-      "body": "<p>Now that Jared Kushner and the Saudi Investment Fund have bought The Sims’ publisher, EA, it’s unlikely to remain a game celebrating diversity and inclusivity</p><p>Sometimes it feels as though horrific world events and the malicious ent",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/19/the-sims-jared-kushner-saudi-investment-fund-ea-diversity-inclusivity"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "A Chorus Ending is a 1951 crime novel by the British writer Ernest Raymond.",
-      "body": "Like his most celebrated work We, the Accused it was inspired by the Doctor Crippen case. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b9/A_Chorus_Ending.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Chorus_Ending"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Coyote Vs Acme review – quirky comedy returns from the dead to flip Wile E Coyote’s slapstick-violent world",
-      "body": "<p>After being shelved as a tax-writeoff, this Looney Tunes reboot redraws the hapless hunter as the Erin Brockovich of the cartoon world</p><p>Here is a quirky, peculiar, yet strangely diverting live-action-toon hybrid of the kind that has",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/19/coyote-vs-acme-review-wile-e-coyote-roadrunner"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Mutiny’ review: Jason Statham finds himself all at sea in uninspired cargo ship thriller",
-      "body": "Jean-Francois Richet’s muscular feature fails to make the most of its action star",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/mutiny-review-jason-statham-finds-himself-all-at-sea-in-uninspired-cargo-ship-thriller/5219429.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Buratino, also known as Pinocchio is a 2026 Russian musical fantasy film that is a remake of Leonid Nechayev's 1975 Soviet television film The Adventures of Buratino.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/Buratino_2025_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Buratino_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Freefall: A Reckoning for Boeing review – like a horror movie … only this is real life",
-      "body": "<p>In 2022, Rory Kennedy exposed the aviation safety scandal in which 346 people died – but since then, a plane door has blown out mid-flight and more whistleblowers have come to the fore. Will anyone pay for this?</p><p>It is unfortunate t",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/19/freefall-a-reckoning-for-boeing-review-like-a-horror-movie-movie"
+      "url": "https://en.wikipedia.org/wiki/Gandhi%3A_Behind_the_Mask_of_Divinity"
     }
   ]
 }
