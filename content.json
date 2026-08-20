@@ -1,35 +1,172 @@
 {
-  "generated": "2026-08-20T20:14:11.885Z",
-  "count": 19,
+  "generated": "2026-08-20T21:15:39.129Z",
+  "count": 20,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2011 —",
+      "hook": "First Air Flight 6560 crashes 1 mile (1.6 km) from the Resolute Bay runway, killing 12 of the 15 aboard.",
+      "body": "First Air Flight 6560 was a domestic charter flight that crashed on landing at Resolute, Nunavut, Canada, on 20 August 2011. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/First_Air_Flight_6560_wreckage_-_Resolute_Bay_-_August_2011.jpg/330px-First_Air_Flight_6560_wreckage_-_Resolute_Bay_-_August_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/First_Air_Flight_6560"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "A Countess Below Stairs is a 1981 British historical romance novel by Eva Ibbotson.",
+      "body": "It follows the story of Anna Grazinsky, a Russian countess, after World War I. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/A_Countess_Below_Stairs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Countess_Below_Stairs"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The term masochism is derived from his name, invented by his contemporary, the Austrian psychiatrist Richard von Krafft-Ebing.",
+      "body": "Leopold Ritter von Sacher-Masoch was an Austrian nobleman, writer and journalist, who gained renown for his romantic stories of Galician life. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Leopold_von_Sacher-Masoch%2C_portrait_3.jpg/330px-Leopold_von_Sacher-Masoch%2C_portrait_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leopold_von_Sacher-Masoch"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1998 —",
+      "hook": "The Supreme Court of Canada rules that Quebec cannot legally secede from Canada without the federal government's approval.",
+      "body": "The Supreme Court of Canada is the highest court in the judicial system of Canada. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/db/Supreme_Court_of_Canada_Coat_of_Arms.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Canada"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "In 1977, the Indian government issued a postage stamp to commemorate him.",
+      "body": "Pandurang Mahadev Bapat, popularly known as Senapati Bapat, was a figure in the Indian independence movement. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pandurang_Mahadev_Bapat.jpg/330px-Pandurang_Mahadev_Bapat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pandurang_Mahadev_Bapat"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Danny Boyle, Seth Rogen, Perspectives panels on Academy, global sales join TIFF: The Market roster",
+      "body": "Inaugural market runs September 10-16.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/danny-boyle-seth-rogen-perspectives-panels-on-academy-global-sales-join-tiff-the-market-roster/5219581.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "ADHD charity complains about Channel 4 documentary",
+      "body": "One newspaper calls Channel 4’s The Great ADHD Myth? \"the most controversial show of the year\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2014 —",
+      "hook": "Seventy-two people are killed in Japan's Hiroshima Prefecture by a series of landslides caused by a month's worth of rain that fell in one day.",
+      "body": "Hiroshima Prefecture is a prefecture of Japan located in the Chūgoku region of Honshu. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Peace_Memorial_Park_and_Cenotaph%2C_Hiroshima%2C_South_view_20190417_1.jpg/330px-Peace_Memorial_Park_and_Cenotaph%2C_Hiroshima%2C_South_view_20190417_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hiroshima_Prefecture"
+    },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Philip Pullman and Maggie O’Farrell among authors urging Burnham to cut business rates on bookshops",
-      "body": "<p>After pubs and clubs get rates relief, authors back open letter calling for similar support for bookshops, described as the ‘beating hearts’ of high streets</p><p>Maggie O’Farrell, Philip Pullman, Katherine Rundell and Elif Shafak are am",
+      "hook": "The Rise and Fall of the Artificial State by Jill Lepore review – an ominous warning of tech takeover",
+      "body": "<p>A historian charts the emergence of a democracy-crushing dystopia that is – in some ways – already with us</p><p>Pulitzer prize-winning US historian Jill Lepore’s new book addresses the threat posed to liberal democracy by artificial int",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/18/philip-pullman-and-maggie-ofarrell-among-authors-urging-burnham-to-cut-business-rates-on-bookshops"
+      "url": "https://www.theguardian.com/books/2026/aug/19/the-rise-and-fall-of-the-artificial-state-by-jill-lepore-review-an-ominous-warning-of-tech-takeover"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Fabián Dobles Rodríguez was a Costa Rican writer and left-wing political activist.",
+      "body": "An author of novels, short stories, poems, and essays, he earned international recognition as an author dealing with the plight of the poor and with social protest. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Dobles"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1308 —",
+      "hook": "At the conclusion of the interrogation of the leaders of the Knights Templar, the three papal investigators, Cardinals Bérenger Frédol, Etienne de Suisy and Landolfo Brancacci, write the \"Chinon Parchment\", in which they affirm that the accused Templars had confessed, done penance, and were absolved of heresy.",
+      "body": "The Poor Fellow-Soldiers of Christ and of the Temple of Solomon, mainly known as the Knights Templar, was a military order of the Catholic faith, and one of the most important military orders in Western Christianity. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandeira_Templ%C3%A1ria.svg/330px-Bandeira_Templ%C3%A1ria.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Knights_Templar"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Incredible Shrinking Man is a 1957 American science fiction film directed by Jack Arnold, based on Richard Matheson's 1956 novel, The Shrinking Man.",
+      "body": "The film stars Grant Williams as Scott and Randy Stuart as Scott's wife, Louise. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/IncredibleShrinkingMan-poster.jpg/330px-IncredibleShrinkingMan-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Incredible_Shrinking_Man"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1988 —",
-      "hook": "Iran–Iraq War: A ceasefire is agreed after almost eight years of war.",
-      "body": "The Iran–Iraq War, also called the First Imposed War by Iran, began with the Iraqi invasion of Iran in September 1980. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chemical_weapon1.jpg/330px-Chemical_weapon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "\"Black Saturday\" of the Yellowstone fire in Yellowstone National Park.",
+      "body": "The Yellowstone fires of 1988 collectively formed the largest wildfire in the recorded history of Yellowstone National Park in the United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fire_near_Old_Faithful_Complex_2.jpg/330px-Fire_near_Old_Faithful_Complex_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      "url": "https://en.wikipedia.org/wiki/Yellowstone_fires_of_1988"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Heritage of Hastur is a science fantasy novel by American writer Marion Zimmer Bradley, part of the Darkover series.",
+      "body": "It was nominated for the Nebula Award for Best Novel in 1975. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/TheHeritageOfHastur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Heritage_of_Hastur"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Mat Johnson is an American fiction writer who works in both prose and the comics format.",
+      "body": "In 2007, he was named the first USA James Baldwin Fellow by United States Artists. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mat_johnson_2011.jpg/330px-Mat_johnson_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mat_Johnson"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1991 —",
-      "hook": "Dissolution of the Soviet Union, August Coup: More than 100,000 people rally outside the Soviet Union's parliament building protesting the coup aiming to depose President Mikhail Gorbachev.",
-      "body": "The Soviet Union was formally dissolved and ceased to exist as a sovereign state and subject of international law on December 26, 1991. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_USSR_with_SSR_names.svg/330px-Map_of_USSR_with_SSR_names.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1989 —",
+      "hook": "The pleasure boat Marchioness sinks on the River Thames following a collision. Fifty-one people are killed.",
+      "body": "The Marchioness disaster was a collision between two vessels on the River Thames in London in the early hours of 20 August 1989, which resulted in the deaths of 51 people. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Marchioness%2C_damaged_and_beached.png/330px-Marchioness%2C_damaged_and_beached.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
+      "url": "https://en.wikipedia.org/wiki/Marchioness_disaster"
     },
     {
       "type": "card",
@@ -44,73 +181,6 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "ADHD charity complains about Channel 4 documentary",
-      "body": "One newspaper calls Channel 4’s The Great ADHD Myth? \"the most controversial show of the year\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Gosainpur Sargaram is a detective story written by Satyajit Ray starring his famous characters Feluda and Topshe.",
-      "body": "It was first published in Sandesh in 1976. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gosainpur_Sargaram"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1864 —",
-      "hook": "Bakumatsu: Kinmon incident: The Chōshū Domain attempts to expel the Satsuma and Aizu Domains from Japan's imperial court.",
-      "body": "Bakumatsu were the final years of the Edo period when the Tokugawa shogunate ended. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bakumatsu"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1998 —",
-      "hook": "The Supreme Court of Canada rules that Quebec cannot legally secede from Canada without the federal government's approval.",
-      "body": "The Supreme Court of Canada is the highest court in the judicial system of Canada. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/db/Supreme_Court_of_Canada_Coat_of_Arms.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Canada"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "\"The Brothers\" is a fantasy novella by American writer C.",
-      "body": "It was first published by DAW Books in 1986 in Visible Light, a collection of her short fiction, and was republished in 2004 in The Collected Short Fiction of C. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/17/CherryhVisibleLightCover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Brothers_(novella)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
       "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
       "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
       "src": "The Guardian · Film",
@@ -119,71 +189,11 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Skintown’ wins £50,000 Edinburgh top prize",
-      "body": "Sindha Agha’s Grief Room won the £15,000 Thelma Schoonmaker short film prize.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/skintown-wins-50000-edinburgh-top-prize/5219538.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Hot Zone: A Terrifying True Story is a best-selling 1994 nonfiction thriller by Richard Preston about the origins and incidents involving viral hemorrhagic fevers, particularly ebolaviruses and marburgviruses.",
-      "body": "The basis of the book was Preston's 1992 New Yorker article \"Crisis in the Hot Zone\". Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/9d/The_Hot_Zone_%28cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Hot_Zone"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1948 —",
-      "hook": "Soviet Consul General in New York, Jacob M. Lomakin is expelled by the United States, due to the Kasenkina Case.",
-      "body": "New York, often called New York City (NYC), is the most populous city in the United States. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/New_York_City"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Record of Grancrest War is a Japanese light novel series and tabletop role-playing game written by Ryo Mizuno and illustrated by Miyū.",
-      "body": "Fujimi Shobo have published it in ten volumes from 2013 to 2018 under their Fujimi Fantasia Bunko imprint. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6d/Record_of_Grancrest_War_light_novel_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Record_of_Grancrest_War"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Clue in the Old Stagecoach is the thirty-seventh volume in the Nancy Drew Mystery Stories series.",
-      "body": "It was first published in 1960 under the pseudonym Carolyn Keene. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/dc/TheClueInTheOldStagecoach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Clue_in_the_Old_Stagecoach"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Following the Roman withdrawal, there was a substantial migration of Germanics, specifically, the Angles, the Saxons, and the Jutes, spanning from the 5th to the 7th centuries AD, leading to the formation of England by 12 July 927.",
-      "body": "Modern humans inhabited Great Britain long before the arrival of the Romans in the first century BC, an era for which no written historical records exist. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Historical_immigration_to_Great_Britain"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2016 —",
-      "hook": "Fifty-four people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.",
-      "body": "On 20 August 2016, a suicide bomber targeted a Kurdish wedding in Gaziantep, Turkey. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Suru%C3%A7_bombing_in_Turkey.jpg/330px-2015_Suru%C3%A7_bombing_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/August_2016_Gaziantep_bombing"
+      "opener": "The Guardian · Books —",
+      "hook": "Where Are the Kings by Donal Ryan review – a timeless tale of family sorrows and joys",
+      "body": "<p>A teenage boy navigates adolescence and the traumatic loss of his mother in this poignant coming-of-age novel set in rural Ireland</p><p>Something is happening to literary time. In the last fortnight I’ve read new or forthcoming novels a",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/19/where-are-the-kings-by-donal-ryan-review-a-timeless-tale-of-family-sorrows-and-joys"
     }
   ]
 }
