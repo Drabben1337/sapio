@@ -1,7 +1,26 @@
 {
-  "generated": "2026-08-20T09:21:15.881Z",
-  "count": 22,
+  "generated": "2026-08-20T10:16:36.634Z",
+  "count": 12,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Coyote Vs Acme review – quirky comedy returns from the dead to flip Wile E Coyote’s slapstick-violent world",
+      "body": "<p>After being shelved as a tax-writeoff, this Looney Tunes reboot redraws the hapless hunter as the Erin Brockovich of the cartoon world</p><p>Here is a quirky, peculiar, yet strangely diverting live-action-toon hybrid of the kind that has",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/19/coyote-vs-acme-review-wile-e-coyote-roadrunner"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "William Sitgreaves Cox (1790–1874) was an American sailor during the War of 1812.",
+      "body": "He was serving as acting lieutenant aboard the USS Chesapeake at the time of its capture by HMS Shannon. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/William_Sitgreaves_Cox.jpg/330px-William_Sitgreaves_Cox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Sitgreaves_Cox"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -14,128 +33,22 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Soldier of Fortune is a 1955 DeLuxe Color adventure film in CinemaScope about the rescue of an American prisoner in the People's Republic of China in the 1950s.",
-      "body": "It was directed by Edward Dmytryk, starred Clark Gable and Susan Hayward, and was written by Ernest K. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/Soldier_of_Fortune_%281955_film%29_%28DVD_box_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Soldier_of_Fortune_(1955_film)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Tales of Marielle Clarac is a Japanese light novel series written by Haruka Momo and illustrated by Maro.",
-      "body": "It began irregular serialization on the user-generated novel publishing website Shōsetsuka ni Narō in August 2015. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/The_Tales_of_Marielle_Clarac_light_novel_volume_1_cover.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Tales_of_Marielle_Clarac"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "LA County could lose 4,500 film and TV jobs if Paramount-WBD merger closes, study claims",
-      "body": "Direct jobs at risk account for nearly 9% of 52,016 film and TV jobs California has lost since 2022.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/la-county-could-lose-4500-film-and-tv-jobs-if-paramount-wbd-merger-closes-study-claims/5219539.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "It is accessible only by one road, Highland Rd.: however, a formerly washed out dirt road has been refilled allowing emergency access to the Rose Hill area.",
-      "body": "Juniper Ridge is a community located in the city of Kamloops, British Columbia. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Juniper_Ridge"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Yehuda Elberg was a Canadian Yiddish novelist and journalist.",
-      "body": "His works have been translated into English, Spanish, Hebrew, French, German, and Hungarian. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Yehuda_Elberg"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
       "opener": "Here's one for the group chat —",
-      "hook": "It is a demersal fish that lives on sandy, muddy bottoms at depths of up to 900 metres (3,000 ft).",
-      "body": "The barfin flounder is a flatfish of the family Pleuronectidae. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Verasper_moseri.jpg/330px-Verasper_moseri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Barfin_flounder"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "AI firms are watermarking generated text – here&#8217;s why it won&#8217;t work",
-      "body": "AI companies have begun embedding watermarks in the output of their models to improve transparency and help crack down on misinformation, disinformation and cheating on homework, but there are limitations to this approach",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2584736-ai-firms-are-watermarking-generated-text-heres-why-it-wont-work/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "He served as a minister for over 50 years, and wrote over 20 books.",
-      "body": "Stephen Michael Crotts was an American Presbyterian minister and author during the Fourth Great American Awakening, and throughout the subsequent decades. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Stephencrotts.png/330px-Stephencrotts.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Stephen_Crotts"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Freefall: A Reckoning for Boeing review – like a horror movie … only this is real life",
-      "body": "<p>In 2022, Rory Kennedy exposed the aviation safety scandal in which 346 people died – but since then, a plane door has blown out mid-flight and more whistleblowers have come to the fore. Will anyone pay for this?</p><p>It is unfortunate t",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/19/freefall-a-reckoning-for-boeing-review-like-a-horror-movie-movie"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Originally located in Tri-Valley, the club joined the Pacific Southwest Hockey League in 1981 and remained active until 1995.",
-      "body": "The California Hawks were a semi-professional ice hockey team from Anaheim, California. Worth a quiet trip down the rabbit hole.",
+      "hook": "Apple DOS is the disk operating system for the Apple II computers from late 1978 through early 1983.",
+      "body": "It was superseded by ProDOS in 1983. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/California_Hawks"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "NASA calls off rescue effort to save doomed telescope",
-      "body": "The Swift observatory will now re-enter Earth’s atmosphere in a few months, after a mission to boost it higher failed",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585668-nasa-calls-off-rescue-effort-to-save-doomed-telescope/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://en.wikipedia.org/wiki/Apple_DOS"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "House of the Black Death is a 1965 American horror film directed by Harold Daniels, Reginald LeBorg and Jerry Warren, and starring Lon Chaney Jr.",
-      "body": "and John Carradine – although the two actors shared no scenes in the film. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/Blood_of_the_Man_Beast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "You probably never noticed this —",
+      "hook": "Merrymount Press is a book publishing house in Boston, Massachusetts, founded by Daniel Berkeley Updike in 1893.",
+      "body": "Upon his death in 1941, the Press was taken over by his partner John Bianchi. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/81/Merrymount_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/House_of_the_Black_Death"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Okay, this one's fun —",
-      "hook": "It is situated about 10 km (6.2 mi) northwest of Ajmer and about 150 km southwest of Jaipur.",
-      "body": "Pushkar is an ancient temple town located on the shore of Pushkar Lake near Ajmer City and headquarters of Pushkar tehsil in the Ajmer district in the Indian state of Rajasthan. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pushkar.jpg/330px-Pushkar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pushkar"
+      "url": "https://en.wikipedia.org/wiki/Merrymount_Press"
     },
     {
       "type": "card",
@@ -148,72 +61,59 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "It is the eighth-most populous country in the world with a population of almost 176 million people within an area of 148,461 square kilometres (57,321 sq mi).",
-      "body": "Bangladesh, officially the People's Republic of Bangladesh, is a country in South Asia. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/330px-Flag_of_Bangladesh.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bangladesh"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Calls to plan ahead for Reading Festival impact",
+      "body": "The music festival begins on Thursday 27 August and runs until Sunday 30 August.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cx2m8x44gdpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
-      "cat": "geography",
-      "opener": "Okay, this one's fun —",
-      "hook": "Sabotin is 609-metre-high (1,998 ft) mountain ridge overlooking Gorizia, Nova Gorica, and Solkan on the border between Slovenia and Italy.",
-      "body": "At its foot stands the Solkan Bridge spanning the Soča River. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sabotin_hill%2C_Slovenia.jpg/330px-Sabotin_hill%2C_Slovenia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sabotin"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Darbhanga Public School is an Indian CBSE affiliated English medium co-educational school of the district (Darbhanga) and Mithila, established on 5 January 2000.",
-      "body": "The region has been an ancient seat of learning. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Darbhanga_Public_School.jpg/330px-Darbhanga_Public_School.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Darbhanga_Public_School"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Hearts in Exile is a 1929 American pre-Code romance film produced and distributed by Warner Bros.",
-      "body": "Pictures and directed by Michael Curtiz. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hearts_in_Exile_%281929%29_poster.jpg/330px-Hearts_in_Exile_%281929%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hearts_in_Exile_(1929_film)"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "It extends north and south, and is one of the discontinuous ranges and peaks parallel and to the east of the Cordillera Real or Cordillera Central, one of the Andes' two main chains through Ecuador.",
-      "body": "The Cordillera de Cutucú is a mountain range in Ecuador. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cordillera_de_Cutuc%C3%BA"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "It is located approximately 25 km west of the narrowest section of the Strait of Gibraltar and 20 km east of the Espartel Sill, at 35°56′N 5°45′W, at a depth of 280 m.",
-      "body": "The Camarinal Sill is the sill separating the Mediterranean Sea and the Atlantic Ocean. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/STS059-238-074_Strait_of_Gibraltar.jpg/330px-STS059-238-074_Strait_of_Gibraltar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Camarinal_Sill"
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "NASA calls off rescue effort to save doomed telescope",
+      "body": "The Swift observatory will now re-enter Earth’s atmosphere in a few months, after a mission to boost it higher failed",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2585668-nasa-calls-off-rescue-effort-to-save-doomed-telescope/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Coyote Vs Acme review – quirky comedy returns from the dead to flip Wile E Coyote’s slapstick-violent world",
-      "body": "<p>After being shelved as a tax-writeoff, this Looney Tunes reboot redraws the hapless hunter as the Erin Brockovich of the cartoon world</p><p>Here is a quirky, peculiar, yet strangely diverting live-action-toon hybrid of the kind that has",
+      "hook": "‘I was born without self-esteem’: Hannah Einbinder on Hacks, her buzzy queer horror – and being Hollywood’s most outspoken star",
+      "body": "<p>The Hacks lead was cast in meta-slasher sensation Teenage Sex and Death at Camp Miasma for her ‘deranged physicality’ – but it’s a fitting role for an actor who has made a point of confronting shame and speaking her mind</p><p>‘God is go",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/19/coyote-vs-acme-review-wile-e-coyote-roadrunner"
+      "url": "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Lion of Flanders, or the Battle of the Golden Spurs is a major novel first published in 1838 by the Belgian writer Hendrik Conscience (1812–1883)—an early example of historical fiction.",
+      "body": "The book focuses on the medieval Franco-Flemish War and the Battle of the Golden Spurs of 1302 in particular. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Leeuwvanvlaenderen.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Lion_of_Flanders_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Witness Lee was a Chinese Christian preacher and hymnist belonging to the Christian group known as the local churches in Taiwan and the United States.",
+      "body": "He was also the founder of Living Stream Ministry. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/29/Witness-lee-bw-small.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Witness_Lee"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "AI firms are watermarking generated text – here&#8217;s why it won&#8217;t work",
+      "body": "AI companies have begun embedding watermarks in the output of their models to improve transparency and help crack down on misinformation, disinformation and cheating on homework, but there are limitations to this approach",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584736-ai-firms-are-watermarking-generated-text-heres-why-it-wont-work/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     }
   ]
 }
