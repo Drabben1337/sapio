@@ -1,112 +1,36 @@
 {
-  "generated": "2026-08-20T22:13:10.594Z",
-  "count": 18,
+  "generated": "2026-08-20T23:13:15.570Z",
+  "count": 12,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Danny Boyle, Seth Rogen, Perspectives panels on Academy, global sales join TIFF: The Market Summit",
-      "body": "Inaugural market runs September 10-16.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/danny-boyle-seth-rogen-perspectives-panels-on-academy-global-sales-join-tiff-the-market-summit/5219581.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Danny Boyle, Seth Rogen, Perspectives panels on Academy, global sales join TIFF: The Market roster",
-      "body": "Inaugural market runs September 10-16.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/danny-boyle-seth-rogen-perspectives-panels-on-academy-global-sales-join-tiff-the-market-roster/5219581.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1949 —",
-      "hook": "Hungary adopts the Hungarian Constitution of 1949 and becomes a People's Republic.",
-      "body": "Hungary is a landlocked country in Central Europe. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/330px-Flag_of_Hungary.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hungary"
-    },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Progress in Aerospace Sciences is a monthly peer-reviewed scientific journal covering all areas of aerospace and aerospace engineering.",
-      "body": "It covers all areas of aerospace and aerospace engineering, particularly with respect to new theoretical and experimental developments and their applications in research, industry, and university. One of those things you can't un-know.",
+      "hook": "Water Baby is a 2024 novel by Nigerian author Chioma Okereke, published by Quercus.",
+      "body": "The novel tells the story of a 19-year-old girl called Baby, who struggles to meet her dream in a rural community Makoko in Lagos, Nigeria. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Progress_in_Aerospace_Sciences"
+      "url": "https://en.wikipedia.org/wiki/Water_Baby_(novel)"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Metallogeny is the study of the genesis and regional-to-global distribution of mineral deposits, with emphasis on their relationship in space and time to regional petrologic and tectonic features of the Earth's crust.",
-      "body": "The term metallogeny (métallogénie) was created by Louis de Launay, a professor at the Ecole des Mines de Paris, in his 1913 book. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "Psycho-Pass is a Japanese cyberpunk psychological thriller anime television series produced by Production I.G.",
+      "body": "It was co-directed by Naoyoshi Shiotani and Katsuyuki Motohiro and written by Gen Urobuchi, with character designs by Akira Amano and featuring music by Yugo Kanno. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/88/Psycho-Pass_key_visual.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Metallogeny"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "ADHD charity complains about Channel 4 documentary",
-      "body": "One newspaper calls Channel 4’s The Great ADHD Myth? \"the most controversial show of the year\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1986 —",
-      "hook": "In Edmond, Oklahoma, U.S. Postal employee Patrick Sherrill shoots and kills 14 of his co-workers and then commits suicide.",
-      "body": "Edmond is a city in Oklahoma County, Oklahoma, United States. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Oklahoma_County_Oklahoma_Incorporated_and_Unincorporated_areas_Edmond_highlighted.svg/330px-Oklahoma_County_Oklahoma_Incorporated_and_Unincorporated_areas_Edmond_highlighted.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Edmond%2C_Oklahoma"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Sheep River Provincial Park is a provincial park located in Alberta, Canada, 23 kilometres (14 mi) west of Diamond Valley on highway 546.",
-      "body": "It is part of the Kananaskis Country park system and encompasses a portion of the Sheep River valley. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sheep_River_Falls_Dwayne_Reilander-1.jpg/330px-Sheep_River_Falls_Dwayne_Reilander-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sheep_River_Provincial_Park"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1998 —",
-      "hook": "The Supreme Court of Canada rules that Quebec cannot legally secede from Canada without the federal government's approval.",
-      "body": "The Supreme Court of Canada is the highest court in the judicial system of Canada. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/db/Supreme_Court_of_Canada_Coat_of_Arms.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Canada"
+      "url": "https://en.wikipedia.org/wiki/Psycho-Pass"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Rocking Moon is a 1926 American silent drama film directed by George Melford and starring Lilyan Tashman and John Bowers.",
-      "body": "It was released by Producers Distributing Corporation. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rocking_Moon_poster.jpg/330px-Rocking_Moon_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Flanagan Boy is a 1949 crime thriller novel by the British author Max Catto.",
+      "body": "The plot has some similarities that of The Postman Always Rings Twice and its 1946 Hollywood film adaptation. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/04/The_Flanagan_Boy_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rocking_Moon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Rise and Fall of the Artificial State by Jill Lepore review – an ominous warning of tech takeover",
-      "body": "<p>A historian charts the emergence of a democracy-crushing dystopia that is – in some ways – already with us</p><p>Pulitzer prize-winning US historian Jill Lepore’s new book addresses the threat posed to liberal democracy by artificial int",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/19/the-rise-and-fall-of-the-artificial-state-by-jill-lepore-review-an-ominous-warning-of-tech-takeover"
+      "url": "https://en.wikipedia.org/wiki/The_Flanagan_Boy_(novel)"
     },
     {
       "type": "card",
@@ -119,23 +43,13 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1960 —",
-      "hook": "Senegal breaks from the Mali Federation, declaring its independence.",
-      "body": "Senegal, officially the Republic of Senegal, is the westernmost country of mainland West Africa, situated along the Atlantic Ocean coast. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/330px-Flag_of_Senegal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Senegal"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2014 —",
-      "hook": "Seventy-two people are killed in Japan's Hiroshima Prefecture by a series of landslides caused by a month's worth of rain that fell in one day.",
-      "body": "Hiroshima Prefecture is a prefecture of Japan located in the Chūgoku region of Honshu. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Peace_Memorial_Park_and_Cenotaph%2C_Hiroshima%2C_South_view_20190417_1.jpg/330px-Peace_Memorial_Park_and_Cenotaph%2C_Hiroshima%2C_South_view_20190417_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hiroshima_Prefecture"
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Devdas is a 1935 Bengali film directed by Pramathesh Barua and based on the 1917 Sharat Chandra Chattopadhyay novel, Devdas.",
+      "body": "It stars Barua as Devdas, Jamuna Barua as Parvati (Paro) and Chandrabati Devi as Chandramukhi. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/P.C._Barua_and_Jamuna_-_Bengali_version_of_Devdas_%281935%29.jpg/330px-P.C._Barua_and_Jamuna_-_Bengali_version_of_Devdas_%281935%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Devdas_(1935_film)"
     },
     {
       "type": "card",
@@ -149,6 +63,42 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Danny Boyle, Seth Rogen, Perspectives panels on Academy, global sales join TIFF: The Market Summit",
+      "body": "Inaugural market runs September 10-16.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/danny-boyle-seth-rogen-perspectives-panels-on-academy-global-sales-join-tiff-the-market-summit/5219581.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "French Girls review – scrappy Australian film made for $28,000 reveals refreshing new talents",
+      "body": "<p>Low-fi, aesthetically austere work set in Sydney’s modelling scene makes you wonder what writer-director Hyun Lee might do with more resources</p><p>The debut feature of writer-director Hyun Lee is a slightly scrappy drama set in Sydney’",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/21/french-girls-review-scrappy-australian-film-made-for-28000-reveals-refreshing-new-talents"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "San Sebastian selects opening film for 2026 festival",
+      "body": "Film will play in competition, and completes the section with 17 titles.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/san-sebastian-selects-opening-film-for-2026-festival/5219513.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Rise and Fall of the Artificial State by Jill Lepore review – an ominous warning of tech takeover",
+      "body": "<p>A historian charts the emergence of a democracy-crushing dystopia that is – in some ways – already with us</p><p>Pulitzer prize-winning US historian Jill Lepore’s new book addresses the threat posed to liberal democracy by artificial int",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/19/the-rise-and-fall-of-the-artificial-state-by-jill-lepore-review-an-ominous-warning-of-tech-takeover"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "ESA —",
       "hook": "Fly around Schiaparelli Crater with Mars Express",
       "body": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been ",
@@ -158,22 +108,12 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Gwilym Arthur Edwards was a Welsh Presbyterian minister and writer on theological topics.",
-      "body": "He was Principal of the United Theological College Aberystwyth from 1939 to 1949. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Parchedig_Gwilym_Arthur_Edwards%2C_MA%2C_DD%2C_Athro_yng_Ngholeg_y_Bala_%281929%E2%80%931939%29%2C_Prifathro_yng_Ngholeg_Diwinyddol_Aberystwyth_%281939%E2%80%931949%29_%28gcf10121%29.jpg/330px-Parchedig_Gwilym_Arthur_Edwards%2C_MA%2C_DD%2C_Athro_yng_Ngholeg_y_Bala_%281929%E2%80%931939%29%2C_Prifathro_yng_Ngholeg_Diwinyddol_Aberystwyth_%281939%E2%80%931949%29_%28gcf10121%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "First Love is a novella by Ivan Turgenev, first published in 1860.",
+      "body": "It is one of his most popular pieces of short fiction. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gwilym_Edwards"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2008 —",
-      "hook": "Spanair Flight 5022, from Madrid, Spain to Gran Canaria, skids off the runway and crashes at Barajas Airport. Of the 172 people on board, 146 die immediately, and eight more later die of injuries sustained in the crash.",
-      "body": "Spanair Flight 5022 was a scheduled domestic passenger flight from Barcelona–El Prat Airport to Gran Canaria Airport, Spain, with a stopover in Madrid–Barajas Airport that crashed just after take-off from runway 36L at Madrid-Barajas Airport at 14:24 CEST (12:24 UTC) on 20 August 2008. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Spanair_Flight_5022_overview.jpg/330px-Spanair_Flight_5022_overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Spanair_Flight_5022"
+      "url": "https://en.wikipedia.org/wiki/First_Love_(Turgenev_novella)"
     }
   ]
 }
