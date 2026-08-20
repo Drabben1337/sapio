@@ -1,43 +1,113 @@
 {
-  "generated": "2026-08-20T13:36:18.210Z",
-  "count": 14,
+  "generated": "2026-08-20T14:22:31.970Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Amy Lee of Evanescence: ‘I could happily do an entire album of nothing but Portishead covers’",
-      "body": "<p>As her band hits the road, the metal trailblazer answers your questions on sexualisation in show business, finding inspiration in dreams and Spinal Tap moments on tour</p><p><strong>You wrote Bring Me to Life </strong><strong>when you we",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/20/amy-lee-of-evanescence-i-could-happily-do-an-entire-album-of-nothing-but-portishead-covers"
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
+      "body": "<p>Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/aug",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Robert \"Bob\" Walter Childress was a Presbyterian minister who was born in \"The Hollow,\" now Ararat, Virginia, and grew up surrounded by the Primitive Baptist tradition.",
-      "body": "He became known throughout the Southern Appalachian region for his work to transform the region's culture of violence and promote basic education. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Childress_grave_at_Buffalo_Mountain_cemetery.jpg/330px-Childress_grave_at_Buffalo_Mountain_cemetery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Ys IX: Monstrum Nox is a 2019 action role-playing game developed by Nihon Falcom.",
+      "body": "The ninth numbered installment in the Ys series, it was first released for the PlayStation 4 in Japan in September 2019. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/28/Ys_IX_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bob_Childress"
+      "url": "https://en.wikipedia.org/wiki/Ys_IX%3A_Monstrum_Nox"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Dissolution of the Soviet Union, August Coup: More than 100,000 people rally outside the Soviet Union's parliament building protesting the coup aiming to depose President Mikhail Gorbachev.",
+      "body": "The Soviet Union was formally dissolved and ceased to exist as a sovereign state and subject of international law on December 26, 1991. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_USSR_with_SSR_names.svg/330px-Map_of_USSR_with_SSR_names.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Virgin New Adventures are a series of novels from Virgin Publishing based on the British science-fiction television series Doctor Who.",
+      "body": "They continued the story of the Doctor from the point at which the television programme went into hiatus from television in 1989. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Doctor_Who_New_Adventures_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Virgin_New_Adventures"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Lambchop: Punching the Clown review – spectral, spellbindingly ambiguous stirring of US history",
-      "body": "<p><strong>(City Slang)</strong><br>Sounding weathered but undimmed, Kurt Wagner feels as if he’s standing right in front of you as he sings superb, choir-swathed songs that invite and unsettle</p><p>Thirty-two years on from their debut alb",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/20/lambchop-punching-the-clown-review"
+      "opener": "New Scientist —",
+      "hook": "Depression doesn&#8217;t shrink the brain like we thought it did",
+      "body": "For the past decade, depression has been linked to a shrunken hippocampus, which has a vital role in memory. But a large study using up-to-date scanning techniques suggests this may not be the case",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2585479-depression-doesnt-shrink-the-brain-like-we-thought-it-did/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Farewell Waltz is a Czech-language novel by Milan Kundera published in 1972.",
+      "body": "A French edition was published in 1976 and an English version entitled The Farewell Party. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/FarewellParty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Farewell_Waltz"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘It was a damn unicorn’: the pioneering, divisive power of Paul Simon’s Graceland at 40",
-      "body": "<p>On its anniversary, the author of a new book about the album explains the complex legacy and masterful musicianship of the 1986 classic</p><p>It was the summer of 1984 and things weren’t going well for <a href=\"https://www.theguardian.co",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/20/paul-simon-graceland-anniversary"
+      "opener": "BBC Entertainment —",
+      "hook": "Angélique Kidjo makes history for Africa with star on Hollywood Walk of Fame",
+      "body": "Without Africans, no music is possible on this planet, says the 66-year-old musical icon from Benin.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The only contents found in a grimoire are information on spells, rituals, the preparation of magical tools, and lists of ingredients and their magical correspondences.",
+      "body": "A grimoire, also known as a book of spells, magic book, or a spellbook, is a textbook of magic, typically including instructions on how to create magical objects like talismans and amulets; how to perform magical spells, charms, and divination; and how to summ",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kat_nr_062_Svartkonstbok%2C_fr%C3%A5n_Island_-_KMB_-_16000300015519_%28cropped%29.jpg/330px-Kat_nr_062_Svartkonstbok%2C_fr%C3%A5n_Island_-_KMB_-_16000300015519_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grimoire"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1992 —",
+      "hook": "In India, Meitei language (officially known as Manipuri language) is included in the scheduled languages' list and made one of the official languages of the Indian Government.",
+      "body": "Meitei, also known as Manipuri, is a Tibeto-Burman language of northeast India. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Meitei_language_distribution.png/330px-Meitei_language_distribution.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Meitei_language"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2016 —",
+      "hook": "Fifty-four people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.",
+      "body": "On 20 August 2016, a suicide bomber targeted a Kurdish wedding in Gaziantep, Turkey. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Suru%C3%A7_bombing_in_Turkey.jpg/330px-2015_Suru%C3%A7_bombing_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/August_2016_Gaziantep_bombing"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Estonia, occupied by and incorporated into the Soviet Union in 1940, issues a decision on the re-establishment of independence on the basis of legal continuity of its pre-occupation statehood.",
+      "body": "Estonia, officially the Republic of Estonia, is a country in the Baltic region of Northern Europe. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/330px-Flag_of_Estonia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Estonia"
     },
     {
       "type": "card",
@@ -51,89 +121,79 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Blizzards, nuclear anxiety and a fragile bond: two sisters in Japan – in pictures",
-      "body": "<p>Sayuri Ichida and her sister used to be distant – until their mother died. This exhibition traces their close relationship through sun, wind and snow</p> <a href=\"https://www.theguardian.com/artanddesign/gallery/2026/aug/20/sayuri-ichida",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/20/sayuri-ichida-two-sisters-japan-exhibition"
+      "opener": "The Guardian · Books —",
+      "hook": "All of Us Atoms by Holly Dawson audiobook review – an extraordinary self-portrait",
+      "body": "<p>Helena Bonham Carter narrates the playwright’s impressionistic memoir, written as she was experiencing the loss of her memory</p><p>Playwright Holly Dawson’s memoir tells of memory lapses and a series of seizures that signal something is",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/20/all-of-us-atoms-by-holly-dawson-audiobook-review-an-extraordinary-self-portrait"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Post your questions for Beck",
-      "body": "<p>The genre-hopping hitmaker’s new album fingerpicks the same melancholy heartstrings as Sea Change. You can ask him anything in our upcoming reader interview</p><p>News of a Beck album is always cause for celebration, especially when it’s",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/20/post-your-questions-for-beck"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The Canadian Pavilion at Expo 67 in Montreal featured an inverted pyramid structure as well as a walk through an attraction called the \"People Tree.\" The pavilion had its highest single-day attendance on Canada Day, 1967.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Expo_67%2C_pavillon_du_Canada_et_sa_pyramide_invers%C3%A9e_%28_le_Katimavik%29.jpg/330px-Expo_67%2C_pavillon_du_Canada_et_sa_pyramide_invers%C3%A9e_%28_le_Katimavik%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Canadian_Pavilion"
+      "opener": "The Guardian · Books —",
+      "hook": "The Ego Trip by Kimon de Greef review – a bizarre tale of psychedelic toads and hair-raising treatments",
+      "body": "<p>A journalist investigates the unsettling world of a charismatic shaman and the people who trusted him</p><p>Which, in your opinion, is the worst current cultural trend: social media influencers; unregulated wellness practitioners; macho ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/17/the-ego-trip-by-kimon-de-greef-review-a-bizarre-tale-of-psychedelic-toads-and-hair-raising-treatments"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Denis Wojcik is an American author from Flower Mound, Texas.",
-      "body": "Denis has written four novels including CrossRoads (2005), TurnBack (2006), Linked (2009), and Evil Behind the Smile (2010). Worth a quiet trip down the rabbit hole.",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Sea Wolf is a comic book by the French writer and artist Riff Reb's.",
+      "body": "It is based on Jack London's novel The Sea-Wolf and was published by Soleil on 31 October 2012. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Denis_Wojcik"
+      "url": "https://en.wikipedia.org/wiki/The_Sea_Wolf_(comic_book)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Nellore district, officially known as Sri Potti Sriramulu Nellore district in Coastal Andhra Region, is one of the 28 districts in the Indian state of Andhra Pradesh.",
-      "body": "According to the 2011 Census, the district's population was 2,963,557 of which 29.07% was urban. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sri_Ranganathaswamy_Temple%2C_Galigopuram%2C_Nellore_%288%29.jpg/330px-Sri_Ranganathaswamy_Temple%2C_Galigopuram%2C_Nellore_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "Thalavattam is a 1986 Indian Malayalam-language drama film written and directed by Priyadarshan, starring Mohanlal, Lizy, M.",
+      "body": "The film is very loosely based on the 1975 movie One Flew Over the Cuckoo's Nest which was an adaptation of the 1962 novel of the same name by Ken Kesey. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/95/Thalavattam1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nellore_district"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The history of fluid mechanics is a fundamental strand of the history of physics and engineering.",
-      "body": "The study of the movement of fluids and the forces that act upon them dates back to pre-history. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/330px-Blaise_Pascal_Versailles.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/History_of_fluid_mechanics"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "André Warnod (1885–1960) was a French writer, goguettier, art critic, and illustrator, who witnessed the artistic scenes of Montmartre and Montparnasse during the 1910s-1930s.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Andr%C3%A9_Warnod_1923.jpg/330px-Andr%C3%A9_Warnod_1923.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Warnod"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘All the watering places are crammed with hot people’: on holiday with Dickens",
-      "body": "<p>Exhibition at Charles Dickens Museum in London looks at writer’s holiday pursuits, from Kent to the Isle of Wight</p><p>It’s summer in the city, the pubs are crowded, and the coast beckons. In a year that has so far brought <a href=\"http",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/books/2026/aug/20/holiday-charles-dickens-exhibition"
+      "url": "https://en.wikipedia.org/wiki/Thalavattam"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "It is now used mainly in private settings by older adults who attended the only Swedish school for the deaf in Finland, which was established in the mid-19th century by Carl Oscar Malm but closed in 1993.",
-      "body": "Finland-Swedish Sign Language is a moribund sign language in Finland. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Finland-Swedish_Sign_Language.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Thousand Autumns of Jacob de Zoet is an historical fiction novel by English author David Mitchell published by Sceptre in 2010.",
+      "body": "It is set during the Dutch trading concession with Japan in the late 18th century, during the period of Japanese history known as Sakoku. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f7/The_Thousand_Autumns_of_Jacob_de_Zoet_%28cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Finland-Swedish_Sign_Language"
+      "url": "https://en.wikipedia.org/wiki/The_Thousand_Autumns_of_Jacob_de_Zoet"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1914 —",
+      "hook": "World War I: Brussels is captured during the German invasion of Belgium.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1864 —",
+      "hook": "Bakumatsu: Kinmon incident: The Chōshū Domain attempts to expel the Satsuma and Aizu Domains from Japan's imperial court.",
+      "body": "Bakumatsu were the final years of the Edo period when the Tokugawa shogunate ended. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bakumatsu"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Hubble & Gaia solve our galaxy's merger mystery",
+      "body": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery"
     }
   ]
 }
