@@ -1,62 +1,26 @@
 {
-  "generated": "2026-08-20T04:23:29.800Z",
-  "count": 9,
+  "generated": "2026-08-20T05:19:39.882Z",
+  "count": 13,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "After 25 years, I’m breaking up with The Sims. Here’s why you should, too | Jordan Erica Webber",
-      "body": "<p>Now that Jared Kushner and the Saudi Investment Fund have bought The Sims’ publisher, EA, it’s unlikely to remain a game celebrating diversity and inclusivity</p><p>Sometimes it feels as though horrific world events and the malicious ent",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/19/the-sims-jared-kushner-saudi-investment-fund-ea-diversity-inclusivity"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify",
-      "body": "<p>Murder trial of Duane ‘Keffe D’ Davis, 63, former South Side Compton Crips gang leader, opens in Las Vegas</p><p>For nearly 30 years, the unsolved murder of 25-year-old rapper Tupac Shakur has sparked <a href=\"https://www.latimes.com/loc",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/18/tupac-shakur-trial-day-one"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Mutiny’ review: Jason Statham finds himself all at sea in uninspired cargo ship thriller",
-      "body": "Jean-Francois Richet’s muscular feature fails to make the most of its action star",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/mutiny-review-jason-statham-finds-himself-all-at-sea-in-uninspired-cargo-ship-thriller/5219429.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
-      "body": "The BBC Radio 4 Today programme presenter explained her recent absence on her return on Wednesday.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ce346v4l17yo?at_medium=RSS&at_campaign=rss"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Susan Elizabeth Steiner was an English novelist and journalist best known for her three crime thriller novels set in Cambridgeshire, and whose central character is DS Manon Bradshaw.",
+      "body": "The first novel in the series was Missing, Presumed and was published in 2016. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Susie_Steiner"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Owen and Mzee are a hippopotamus and an Aldabra giant tortoise duo, respectively, that attracted media attention after forming an unusual bond of friendship.",
-      "body": "They live in Haller Park, Bamburi, Kenya. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Owen_and_Mzee.jpg/330px-Owen_and_Mzee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Sky Wizards Academy is a Japanese light novel series written by Yū Moroboshi and illustrated by Mikihiro Amami.",
+      "body": "Fujimi Shobo has published fourteen volumes since July 2013 under their Fujimi Fantasia Bunko imprint. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/K%C5%ABsen_Mad%C5%8Dshi_K%C5%8Dhosei_no_Ky%C5%8Dkan_light_novel_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Owen_and_Mzee"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Emmeline Halse was a British sculptor known for her depiction of mythological subjects.",
-      "body": "She was a frequent exhibitor of such works at both the Royal Academy and in Paris during the late nineteenth century. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Emmeline_Halse"
+      "url": "https://en.wikipedia.org/wiki/Sky_Wizards_Academy"
     },
     {
       "type": "card",
@@ -70,11 +34,87 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify",
+      "body": "<p>Murder trial of Duane ‘Keffe D’ Davis, 63, former South Side Compton Crips gang leader, opens in Las Vegas</p><p>For nearly 30 years, the unsolved murder of 25-year-old rapper Tupac Shakur has sparked <a href=\"https://www.latimes.com/loc",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/18/tupac-shakur-trial-day-one"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "It also served the Montreal–Gaspé train until Via Rail suspended service in August 2013 due to poor track conditions.",
+      "body": "Montmagny station is a Via Rail station in Montmagny, Quebec, Canada. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gare_Montmagny.jpg/330px-Gare_Montmagny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Montmagny_station"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "My Sister's Keeper is the eleventh novel by the American author Jodi Picoult.",
+      "body": "It is based upon Anissa and Marissa Ayala. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/33/Sisterskeeper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/My_Sister's_Keeper_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "Screen Daily —",
       "hook": "LA County could lose 4,500 film and TV jobs if Paramount-WBD merger closes, study claims",
       "body": "Direct jobs at risk account for nearly 9% of 52,016 film and TV jobs California has lost since 2022.",
       "src": "Screen Daily",
       "url": "https://www.screendaily.com/news/la-county-could-lose-4500-film-and-tv-jobs-if-paramount-wbd-merger-closes-study-claims/5219539.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "After 25 years, I’m breaking up with The Sims. Here’s why you should, too | Jordan Erica Webber",
+      "body": "<p>Now that Jared Kushner and the Saudi Investment Fund have bought The Sims’ publisher, EA, it’s unlikely to remain a game celebrating diversity and inclusivity</p><p>Sometimes it feels as though horrific world events and the malicious ent",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/19/the-sims-jared-kushner-saudi-investment-fund-ea-diversity-inclusivity"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "A Chorus Ending is a 1951 crime novel by the British writer Ernest Raymond.",
+      "body": "Like his most celebrated work We, the Accused it was inspired by the Doctor Crippen case. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b9/A_Chorus_Ending.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Chorus_Ending"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Coyote Vs Acme review – quirky comedy returns from the dead to flip Wile E Coyote’s slapstick-violent world",
+      "body": "<p>After being shelved as a tax-writeoff, this Looney Tunes reboot redraws the hapless hunter as the Erin Brockovich of the cartoon world</p><p>Here is a quirky, peculiar, yet strangely diverting live-action-toon hybrid of the kind that has",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/19/coyote-vs-acme-review-wile-e-coyote-roadrunner"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Mutiny’ review: Jason Statham finds himself all at sea in uninspired cargo ship thriller",
+      "body": "Jean-Francois Richet’s muscular feature fails to make the most of its action star",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/reviews/mutiny-review-jason-statham-finds-himself-all-at-sea-in-uninspired-cargo-ship-thriller/5219429.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Buratino, also known as Pinocchio is a 2026 Russian musical fantasy film that is a remake of Leonid Nechayev's 1975 Soviet television film The Adventures of Buratino.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/Buratino_2025_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Buratino_(film)"
     },
     {
       "type": "card",
