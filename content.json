@@ -1,15 +1,152 @@
 {
-  "generated": "2026-08-20T07:30:32.507Z",
-  "count": 13,
+  "generated": "2026-08-20T08:21:27.449Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1672 —",
+      "hook": "Former Grand Pensionary Johan de Witt and his brother Cornelis are lynched by a mob in The Hague.",
+      "body": "The grand pensionary was the most important government official during the time of the Dutch Republic. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Grand_pensionary"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "LA County could lose 4,500 film and TV jobs if Paramount-WBD merger closes, study claims",
-      "body": "Direct jobs at risk account for nearly 9% of 52,016 film and TV jobs California has lost since 2022.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/la-county-could-lose-4500-film-and-tv-jobs-if-paramount-wbd-merger-closes-study-claims/5219539.article"
+      "opener": "The Guardian · Culture —",
+      "hook": "Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify",
+      "body": "<p>Murder trial of Duane ‘Keffe D’ Davis, 63, former South Side Compton Crips gang leader, opens in Las Vegas</p><p>For nearly 30 years, the unsolved murder of 25-year-old rapper Tupac Shakur has sparked <a href=\"https://www.latimes.com/loc",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/18/tupac-shakur-trial-day-one"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Dissolution of the Soviet Union, August Coup: More than 100,000 people rally outside the Soviet Union's parliament building protesting the coup aiming to depose President Mikhail Gorbachev.",
+      "body": "The Soviet Union was formally dissolved and ceased to exist as a sovereign state and subject of international law on December 26, 1991. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_USSR_with_SSR_names.svg/330px-Map_of_USSR_with_SSR_names.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Signature in the Cell: DNA and the Evidence for Intelligent Design is a 2009 book about intelligent design by philosopher and intelligent design advocate Stephen C.",
+      "body": "The book was well received by some within the conservative, intelligent design and evangelical communities, but several other reviewers were critical and wrote that Meyer's claims are incorrect. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Signature_in_the_Cell.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Signature_in_the_Cell"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Earl of Jersey is a title in the Peerage of England.",
+      "body": "It is held by a branch of the Villiers family, which since 1819 has been the Child Villiers family. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Coronet_of_a_British_Earl.svg/330px-Coronet_of_a_British_Earl.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Earl_of_Jersey"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The Vedda minority in Sri Lanka may become completely assimilated.",
+      "body": "The Vedda, or Wanniyalaeto, are a minority indigenous group of people in Sri Lanka who, among other sub-communities such as Coast Veddas, Anuradhapura Veddas and Bintenne Veddas, are accorded indigenous status. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Vedda_man_and_child%2C_Sri_Lanka.jpg/330px-Vedda_man_and_child%2C_Sri_Lanka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vedda"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1852 —",
+      "hook": "Steamboat Atlantic sinks on Lake Erie after a collision, with the loss of at least 150 lives.",
+      "body": "Atlantic was a steamboat that sank in Lake Erie after a collision with the steamer Ogdensburg on 20 August 1852, with the loss of at least 150 but perhaps as many as 300 lives. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Atlantic_%28steamboat_1848%29_01.jpg/330px-Atlantic_%28steamboat_1848%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Atlantic_(1848_ship)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Víctor Vázquez is a photographer and a contemporary conceptual artist born in San Juan, Puerto Rico.",
+      "body": "Víctor Vázquez has been working as an artist for more than 20 years, creating photographs, three-dimensional objects, videos and installation works in which the human body figures both conceptually and formally. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Victorvazquez_autoretrato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/V%C3%ADctor_V%C3%A1zquez_(artist)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Journal of Special Education is a peer-reviewed academic journal that publishes papers in the field of Education.",
+      "body": "The journal's editors are Bob Algozzine and Fred Spooner. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Journal_of_Special_Education"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Zayed bin Sultan Al Nahyan's Mosque, commonly known as the Stockholm Mosque or the Stockholm Grand Mosque, is the largest mosque in Stockholm, Sweden.",
+      "body": "It is located at Kapellgränd 10, adjacent to the small park Björns trädgård, in the Södermalm district of Stockholm. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stockholms_mosk%C3%A9_%28gabbe%29.jpg/330px-Stockholms_mosk%C3%A9_%28gabbe%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stockholm_Mosque"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "How I’ve Tried to Change the World by Alexei Sayle review – does protest make a difference?",
+      "body": "<p>The comedian charts his life in demos from 1960s Liverpool to 2020s London in this fiery and addictive book</p><p>At 74, the comedian Alexei Sayle is approaching a dangerous phase for veteran British leftists: becoming a national treasur",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/stage/2026/aug/20/how-ive-tried-to-change-the-world-by-alexei-sayle-review-does-protest-make-a-difference"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2008 —",
+      "hook": "Spanair Flight 5022, from Madrid, Spain to Gran Canaria, skids off the runway and crashes at Barajas Airport. Of the 172 people on board, 146 die immediately, and eight more later die of injuries sustained in the crash.",
+      "body": "Spanair Flight 5022 was a scheduled domestic passenger flight from Barcelona–El Prat Airport to Gran Canaria Airport, Spain, with a stopover in Madrid–Barajas Airport that crashed just after take-off from runway 36L at Madrid-Barajas Airport at 14:24 CEST (12:24 UTC) on 20 August 2008. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Spanair_Flight_5022_overview.jpg/330px-Spanair_Flight_5022_overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Spanair_Flight_5022"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Coyote Vs Acme review – quirky comedy returns from the dead to flip Wile E Coyote’s slapstick-violent world",
+      "body": "<p>After being shelved as a tax-writeoff, this Looney Tunes reboot redraws the hapless hunter as the Erin Brockovich of the cartoon world</p><p>Here is a quirky, peculiar, yet strangely diverting live-action-toon hybrid of the kind that has",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/19/coyote-vs-acme-review-wile-e-coyote-roadrunner"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Freefall: A Reckoning for Boeing review – like a horror movie … only this is real life",
+      "body": "<p>In 2022, Rory Kennedy exposed the aviation safety scandal in which 346 people died – but since then, a plane door has blown out mid-flight and more whistleblowers have come to the fore. Will anyone pay for this?</p><p>It is unfortunate t",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/19/freefall-a-reckoning-for-boeing-review-like-a-horror-movie-movie"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1992 —",
+      "hook": "In India, Meitei language (officially known as Manipuri language) is included in the scheduled languages' list and made one of the official languages of the Indian Government.",
+      "body": "Meitei, also known as Manipuri, is a Tibeto-Burman language of northeast India. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Meitei_language_distribution.png/330px-Meitei_language_distribution.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Meitei_language"
     },
     {
       "type": "card",
@@ -23,41 +160,21 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Coyote Vs Acme review – quirky comedy returns from the dead to flip Wile E Coyote’s slapstick-violent world",
-      "body": "<p>After being shelved as a tax-writeoff, this Looney Tunes reboot redraws the hapless hunter as the Erin Brockovich of the cartoon world</p><p>Here is a quirky, peculiar, yet strangely diverting live-action-toon hybrid of the kind that has",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/19/coyote-vs-acme-review-wile-e-coyote-roadrunner"
+      "opener": "Screen Daily —",
+      "hook": "LA County could lose 4,500 film and TV jobs if Paramount-WBD merger closes, study claims",
+      "body": "Direct jobs at risk account for nearly 9% of 52,016 film and TV jobs California has lost since 2022.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/la-county-could-lose-4500-film-and-tv-jobs-if-paramount-wbd-merger-closes-study-claims/5219539.article"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Man on the Box is a 1914 American silent comedy-drama film directed by Oscar Apfel and co-directed by Cecil B.",
-      "body": "It was based on the 1904 novel of the same name by Harold MacGrath and stars Horace B. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Themanonthebox_1915_newspaperad.jpg/330px-Themanonthebox_1915_newspaperad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Man_on_the_Box"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The House on Lily Street is a novel by American author Jack Vance.",
-      "body": "It was published in the United States by Underwood-Miller in 1979 and again in 2002 as part of the Vance Integral Edition (VIE). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b8/TheHouseOnLilyStreet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_House_on_Lily_Street"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Treasures of the Snow is a children's novel by Patricia St.",
-      "body": "Originally published by CSSM in 1950, it has been reprinted over a dozen times by various publishers, including braille versions published by the Royal National Institute for the Blind in 1959 and by the Queensland Braille Writing Association in 1996. Bring it",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/Treasures_of_the_Snow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Treasures_of_the_Snow"
+      "cat": "history",
+      "opener": "On this day in 1940 —",
+      "hook": "In Mexico City, exiled Russian revolutionary Leon Trotsky is fatally wounded with an ice axe by Ramón Mercader. He dies the next day.",
+      "body": "Lev Davidovich Trotsky, better known as Leon Trotsky, was a Russian revolutionary, Soviet politician and political theorist. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg/330px-Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Leon_Trotsky"
     },
     {
       "type": "card",
@@ -67,63 +184,6 @@
       "body": "<p>Now that Jared Kushner and the Saudi Investment Fund have bought The Sims’ publisher, EA, it’s unlikely to remain a game celebrating diversity and inclusivity</p><p>Sometimes it feels as though horrific world events and the malicious ent",
       "src": "The Guardian · Culture",
       "url": "https://www.theguardian.com/commentisfree/2026/aug/19/the-sims-jared-kushner-saudi-investment-fund-ea-diversity-inclusivity"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify",
-      "body": "<p>Murder trial of Duane ‘Keffe D’ Davis, 63, former South Side Compton Crips gang leader, opens in Las Vegas</p><p>For nearly 30 years, the unsolved murder of 25-year-old rapper Tupac Shakur has sparked <a href=\"https://www.latimes.com/loc",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/18/tupac-shakur-trial-day-one"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Dogs of War is a 1974 war novel by British writer Frederick Forsyth, featuring a small group of European mercenary soldiers hired by a British industrialist to depose the government of the fictional African country of Zangaro.",
-      "body": "The story details a geologist's mineral discovery, and the preparations for the attack: soldier recruitment, training, reconnaissance, and the logistics of the coup d'état. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/48/TheDogsOfWarBookCover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Dogs_of_War_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Freefall: A Reckoning for Boeing review – like a horror movie … only this is real life",
-      "body": "<p>In 2022, Rory Kennedy exposed the aviation safety scandal in which 346 people died – but since then, a plane door has blown out mid-flight and more whistleblowers have come to the fore. Will anyone pay for this?</p><p>It is unfortunate t",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/19/freefall-a-reckoning-for-boeing-review-like-a-horror-movie-movie"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "How I’ve Tried to Change the World by Alexei Sayle review – does protest make a difference?",
-      "body": "<p>The comedian charts his life in demos from 1960s Liverpool to 2020s London in this fiery and addictive book</p><p>At 74, the comedian Alexei Sayle is approaching a dangerous phase for veteran British leftists: becoming a national treasur",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/stage/2026/aug/20/how-ive-tried-to-change-the-world-by-alexei-sayle-review-does-protest-make-a-difference"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Murder by Proxy is a 1954 British 'B' film noir crime drama film directed by Terence Fisher for Hammer Films and starring Dane Clark, Belinda Lee and Betty Ann Davies.",
-      "body": "The film was first released in the United States by Lippert Pictures on May 21, 1954, and later released in the UK by Exclusive on March 29, 1955. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Murder_by_Proxy_poster.jpg/330px-Murder_by_Proxy_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Murder_by_Proxy"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "WACM's programming is also simulcasted on W261DD, an FM translator station broadcasting on 100.1 MHz.",
-      "body": "WACM is an AM radio station licensed to serve Springfield, Massachusetts, United States. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/WACM_Jammin_100.1_logo.png/330px-WACM_Jammin_100.1_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/WACM_(AM)"
     }
   ]
 }
