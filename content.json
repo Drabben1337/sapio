@@ -1,65 +1,15 @@
 {
-  "generated": "2026-08-20T21:15:39.129Z",
-  "count": 20,
+  "generated": "2026-08-20T22:13:10.594Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2011 —",
-      "hook": "First Air Flight 6560 crashes 1 mile (1.6 km) from the Resolute Bay runway, killing 12 of the 15 aboard.",
-      "body": "First Air Flight 6560 was a domestic charter flight that crashed on landing at Resolute, Nunavut, Canada, on 20 August 2011. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/First_Air_Flight_6560_wreckage_-_Resolute_Bay_-_August_2011.jpg/330px-First_Air_Flight_6560_wreckage_-_Resolute_Bay_-_August_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/First_Air_Flight_6560"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "A Countess Below Stairs is a 1981 British historical romance novel by Eva Ibbotson.",
-      "body": "It follows the story of Anna Grazinsky, a Russian countess, after World War I. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/A_Countess_Below_Stairs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Countess_Below_Stairs"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The term masochism is derived from his name, invented by his contemporary, the Austrian psychiatrist Richard von Krafft-Ebing.",
-      "body": "Leopold Ritter von Sacher-Masoch was an Austrian nobleman, writer and journalist, who gained renown for his romantic stories of Galician life. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Leopold_von_Sacher-Masoch%2C_portrait_3.jpg/330px-Leopold_von_Sacher-Masoch%2C_portrait_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Leopold_von_Sacher-Masoch"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1998 —",
-      "hook": "The Supreme Court of Canada rules that Quebec cannot legally secede from Canada without the federal government's approval.",
-      "body": "The Supreme Court of Canada is the highest court in the judicial system of Canada. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/db/Supreme_Court_of_Canada_Coat_of_Arms.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Canada"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "In 1977, the Indian government issued a postage stamp to commemorate him.",
-      "body": "Pandurang Mahadev Bapat, popularly known as Senapati Bapat, was a figure in the Indian independence movement. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pandurang_Mahadev_Bapat.jpg/330px-Pandurang_Mahadev_Bapat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pandurang_Mahadev_Bapat"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+      "opener": "Screen Daily —",
+      "hook": "Danny Boyle, Seth Rogen, Perspectives panels on Academy, global sales join TIFF: The Market Summit",
+      "body": "Inaugural market runs September 10-16.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/danny-boyle-seth-rogen-perspectives-panels-on-academy-global-sales-join-tiff-the-market-summit/5219581.article"
     },
     {
       "type": "card",
@@ -69,6 +19,36 @@
       "body": "Inaugural market runs September 10-16.",
       "src": "Screen Daily",
       "url": "https://www.screendaily.com/news/danny-boyle-seth-rogen-perspectives-panels-on-academy-global-sales-join-tiff-the-market-roster/5219581.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1949 —",
+      "hook": "Hungary adopts the Hungarian Constitution of 1949 and becomes a People's Republic.",
+      "body": "Hungary is a landlocked country in Central Europe. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/330px-Flag_of_Hungary.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hungary"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Progress in Aerospace Sciences is a monthly peer-reviewed scientific journal covering all areas of aerospace and aerospace engineering.",
+      "body": "It covers all areas of aerospace and aerospace engineering, particularly with respect to new theoretical and experimental developments and their applications in research, industry, and university. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Progress_in_Aerospace_Sciences"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Metallogeny is the study of the genesis and regional-to-global distribution of mineral deposits, with emphasis on their relationship in space and time to regional petrologic and tectonic features of the Earth's crust.",
+      "body": "The term metallogeny (métallogénie) was created by Louis de Launay, a professor at the Ecole des Mines de Paris, in his 1913 book. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Metallogeny"
     },
     {
       "type": "card",
@@ -82,12 +62,42 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2014 —",
-      "hook": "Seventy-two people are killed in Japan's Hiroshima Prefecture by a series of landslides caused by a month's worth of rain that fell in one day.",
-      "body": "Hiroshima Prefecture is a prefecture of Japan located in the Chūgoku region of Honshu. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Peace_Memorial_Park_and_Cenotaph%2C_Hiroshima%2C_South_view_20190417_1.jpg/330px-Peace_Memorial_Park_and_Cenotaph%2C_Hiroshima%2C_South_view_20190417_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1986 —",
+      "hook": "In Edmond, Oklahoma, U.S. Postal employee Patrick Sherrill shoots and kills 14 of his co-workers and then commits suicide.",
+      "body": "Edmond is a city in Oklahoma County, Oklahoma, United States. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Oklahoma_County_Oklahoma_Incorporated_and_Unincorporated_areas_Edmond_highlighted.svg/330px-Oklahoma_County_Oklahoma_Incorporated_and_Unincorporated_areas_Edmond_highlighted.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hiroshima_Prefecture"
+      "url": "https://en.wikipedia.org/wiki/Edmond%2C_Oklahoma"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Sheep River Provincial Park is a provincial park located in Alberta, Canada, 23 kilometres (14 mi) west of Diamond Valley on highway 546.",
+      "body": "It is part of the Kananaskis Country park system and encompasses a portion of the Sheep River valley. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sheep_River_Falls_Dwayne_Reilander-1.jpg/330px-Sheep_River_Falls_Dwayne_Reilander-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sheep_River_Provincial_Park"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1998 —",
+      "hook": "The Supreme Court of Canada rules that Quebec cannot legally secede from Canada without the federal government's approval.",
+      "body": "The Supreme Court of Canada is the highest court in the judicial system of Canada. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/db/Supreme_Court_of_Canada_Coat_of_Arms.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Canada"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Rocking Moon is a 1926 American silent drama film directed by George Melford and starring Lilyan Tashman and John Bowers.",
+      "body": "It was released by Producers Distributing Corporation. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rocking_Moon_poster.jpg/330px-Rocking_Moon_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rocking_Moon"
     },
     {
       "type": "card",
@@ -100,100 +110,70 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Fabián Dobles Rodríguez was a Costa Rican writer and left-wing political activist.",
-      "body": "An author of novels, short stories, poems, and essays, he earned international recognition as an author dealing with the plight of the poor and with social protest. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Dobles"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1308 —",
-      "hook": "At the conclusion of the interrogation of the leaders of the Knights Templar, the three papal investigators, Cardinals Bérenger Frédol, Etienne de Suisy and Landolfo Brancacci, write the \"Chinon Parchment\", in which they affirm that the accused Templars had confessed, done penance, and were absolved of heresy.",
-      "body": "The Poor Fellow-Soldiers of Christ and of the Temple of Solomon, mainly known as the Knights Templar, was a military order of the Catholic faith, and one of the most important military orders in Western Christianity. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandeira_Templ%C3%A1ria.svg/330px-Bandeira_Templ%C3%A1ria.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Knights_Templar"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Incredible Shrinking Man is a 1957 American science fiction film directed by Jack Arnold, based on Richard Matheson's 1956 novel, The Shrinking Man.",
-      "body": "The film stars Grant Williams as Scott and Randy Stuart as Scott's wife, Louise. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/IncredibleShrinkingMan-poster.jpg/330px-IncredibleShrinkingMan-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Incredible_Shrinking_Man"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1988 —",
-      "hook": "\"Black Saturday\" of the Yellowstone fire in Yellowstone National Park.",
-      "body": "The Yellowstone fires of 1988 collectively formed the largest wildfire in the recorded history of Yellowstone National Park in the United States. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fire_near_Old_Faithful_Complex_2.jpg/330px-Fire_near_Old_Faithful_Complex_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Yellowstone_fires_of_1988"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Heritage of Hastur is a science fantasy novel by American writer Marion Zimmer Bradley, part of the Darkover series.",
-      "body": "It was nominated for the Nebula Award for Best Novel in 1975. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/TheHeritageOfHastur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Heritage_of_Hastur"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Mat Johnson is an American fiction writer who works in both prose and the comics format.",
-      "body": "In 2007, he was named the first USA James Baldwin Fellow by United States Artists. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mat_johnson_2011.jpg/330px-Mat_johnson_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mat_Johnson"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1989 —",
-      "hook": "The pleasure boat Marchioness sinks on the River Thames following a collision. Fifty-one people are killed.",
-      "body": "The Marchioness disaster was a collision between two vessels on the River Thames in London in the early hours of 20 August 1989, which resulted in the deaths of 51 people. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Marchioness%2C_damaged_and_beached.png/330px-Marchioness%2C_damaged_and_beached.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Marchioness_disaster"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-      "body": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
       "hook": "Where Are the Kings by Donal Ryan review – a timeless tale of family sorrows and joys",
       "body": "<p>A teenage boy navigates adolescence and the traumatic loss of his mother in this poignant coming-of-age novel set in rural Ireland</p><p>Something is happening to literary time. In the last fortnight I’ve read new or forthcoming novels a",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/2026/aug/19/where-are-the-kings-by-donal-ryan-review-a-timeless-tale-of-family-sorrows-and-joys"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1960 —",
+      "hook": "Senegal breaks from the Mali Federation, declaring its independence.",
+      "body": "Senegal, officially the Republic of Senegal, is the westernmost country of mainland West Africa, situated along the Atlantic Ocean coast. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/330px-Flag_of_Senegal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Senegal"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2014 —",
+      "hook": "Seventy-two people are killed in Japan's Hiroshima Prefecture by a series of landslides caused by a month's worth of rain that fell in one day.",
+      "body": "Hiroshima Prefecture is a prefecture of Japan located in the Chūgoku region of Honshu. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Peace_Memorial_Park_and_Cenotaph%2C_Hiroshima%2C_South_view_20190417_1.jpg/330px-Peace_Memorial_Park_and_Cenotaph%2C_Hiroshima%2C_South_view_20190417_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hiroshima_Prefecture"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "body": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Fly around Schiaparelli Crater with Mars Express",
+      "body": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been ",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Gwilym Arthur Edwards was a Welsh Presbyterian minister and writer on theological topics.",
+      "body": "He was Principal of the United Theological College Aberystwyth from 1939 to 1949. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Parchedig_Gwilym_Arthur_Edwards%2C_MA%2C_DD%2C_Athro_yng_Ngholeg_y_Bala_%281929%E2%80%931939%29%2C_Prifathro_yng_Ngholeg_Diwinyddol_Aberystwyth_%281939%E2%80%931949%29_%28gcf10121%29.jpg/330px-Parchedig_Gwilym_Arthur_Edwards%2C_MA%2C_DD%2C_Athro_yng_Ngholeg_y_Bala_%281929%E2%80%931939%29%2C_Prifathro_yng_Ngholeg_Diwinyddol_Aberystwyth_%281939%E2%80%931949%29_%28gcf10121%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gwilym_Edwards"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2008 —",
+      "hook": "Spanair Flight 5022, from Madrid, Spain to Gran Canaria, skids off the runway and crashes at Barajas Airport. Of the 172 people on board, 146 die immediately, and eight more later die of injuries sustained in the crash.",
+      "body": "Spanair Flight 5022 was a scheduled domestic passenger flight from Barcelona–El Prat Airport to Gran Canaria Airport, Spain, with a stopover in Madrid–Barajas Airport that crashed just after take-off from runway 36L at Madrid-Barajas Airport at 14:24 CEST (12:24 UTC) on 20 August 2008. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Spanair_Flight_5022_overview.jpg/330px-Spanair_Flight_5022_overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Spanair_Flight_5022"
     }
   ]
 }
