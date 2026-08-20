@@ -1,25 +1,111 @@
 {
-  "generated": "2026-08-20T19:21:28.743Z",
-  "count": 18,
+  "generated": "2026-08-20T20:14:11.885Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Demosthenes Philalethes was an ancient Greek physician of Asia Minor who was one of the pupils of Alexander Philalethes, a contemporary of Aristoxenus, and a follower of the teachings of Herophilos.",
-      "body": "He succeeded Alexander as the head of the Herophilean school of medicine in Carura. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Demosthenes_Philalethes"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Philip Pullman and Maggie O’Farrell among authors urging Burnham to cut business rates on bookshops",
+      "body": "<p>After pubs and clubs get rates relief, authors back open letter calling for similar support for bookshops, described as the ‘beating hearts’ of high streets</p><p>Maggie O’Farrell, Philip Pullman, Katherine Rundell and Elif Shafak are am",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/18/philip-pullman-and-maggie-ofarrell-among-authors-urging-burnham-to-cut-business-rates-on-bookshops"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1988 —",
+      "hook": "Iran–Iraq War: A ceasefire is agreed after almost eight years of war.",
+      "body": "The Iran–Iraq War, also called the First Imposed War by Iran, began with the Iraqi invasion of Iran in September 1980. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chemical_weapon1.jpg/330px-Chemical_weapon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Dissolution of the Soviet Union, August Coup: More than 100,000 people rally outside the Soviet Union's parliament building protesting the coup aiming to depose President Mikhail Gorbachev.",
+      "body": "The Soviet Union was formally dissolved and ceased to exist as a sovereign state and subject of international law on December 26, 1991. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_USSR_with_SSR_names.svg/330px-Map_of_USSR_with_SSR_names.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Skintown’ wins £50,000 Edinburgh top prize",
-      "body": "Sindha Agha’s Grief Room won the £15,000 Thelma Schoonmaker short film prize.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/skintown-wins-50000-edinburgh-top-prize/5219538.article"
+      "opener": "BBC Entertainment —",
+      "hook": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
+      "body": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "ADHD charity complains about Channel 4 documentary",
+      "body": "One newspaper calls Channel 4’s The Great ADHD Myth? \"the most controversial show of the year\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Gosainpur Sargaram is a detective story written by Satyajit Ray starring his famous characters Feluda and Topshe.",
+      "body": "It was first published in Sandesh in 1976. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gosainpur_Sargaram"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1864 —",
+      "hook": "Bakumatsu: Kinmon incident: The Chōshū Domain attempts to expel the Satsuma and Aizu Domains from Japan's imperial court.",
+      "body": "Bakumatsu were the final years of the Edo period when the Tokugawa shogunate ended. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bakumatsu"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1998 —",
+      "hook": "The Supreme Court of Canada rules that Quebec cannot legally secede from Canada without the federal government's approval.",
+      "body": "The Supreme Court of Canada is the highest court in the judicial system of Canada. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/db/Supreme_Court_of_Canada_Coat_of_Arms.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Canada"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "\"The Brothers\" is a fantasy novella by American writer C.",
+      "body": "It was first published by DAW Books in 1986 in Visible Light, a collection of her short fiction, and was republished in 2004 in The Collected Short Fiction of C. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/17/CherryhVisibleLightCover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Brothers_(novella)"
     },
     {
       "type": "card",
@@ -33,147 +119,71 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘I love provocative stories’: producer Christine Vachon on fighting for her ‘offensive’ movies",
-      "body": "<p>The maker of indie classics Kids, Swoon and Poison on daring to have a temper in the 90s, what some producer credits mean – and what happened between her and Joaquin Phoenix</p><p>Trailblazing producer Christine Vachon bestrides the worl",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/19/producer-christine-vachon-offensive-movies-kids-poison-swoon"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1882 —",
-      "hook": "Tchaikovsky's 1812 Overture debuts in Moscow, Russia.",
-      "body": "Pyotr Ilyich Tchaikovsky was a Russian composer of the Romantic period. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg/330px-Tchaikovsky_by_Reutlinger_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Strange gamma-ray signal could unlock dark matter’s secrets",
-      "body": "Researchers spotted an unusual gamma-ray signal in three galaxy clusters, which may be a telltale sign of dark matter – or some even more exotic phenomenon",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585656-strange-gamma-ray-signal-could-unlock-dark-matters-secrets/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1975 —",
-      "hook": "ČSA Flight 540 crashes on approach to Damascus International Airport in Damascus, Syria, killing 126 people.",
-      "body": "ČSA Flight 540 was a regularly scheduled international flight from Prague, Czechoslovakia to Tehran, Iran via Damascus, Syria and Baghdad, Iraq. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Il-62_OK-DBF_Heathrow_1974.jpg/330px-Il-62_OK-DBF_Heathrow_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/%C4%8CSA_Flight_540"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1960 —",
-      "hook": "Senegal breaks from the Mali Federation, declaring its independence.",
-      "body": "Senegal, officially the Republic of Senegal, is the westernmost country of mainland West Africa, situated along the Atlantic Ocean coast. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/330px-Flag_of_Senegal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Senegal"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Philip Pullman and Maggie O’Farrell among authors urging Burnham to cut business rates on bookshops",
-      "body": "<p>After pubs and clubs get rates relief, authors back open letter calling for similar support for bookshops, described as the ‘beating hearts’ of high streets</p><p>Maggie O’Farrell, Philip Pullman, Katherine Rundell and Elif Shafak are am",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/18/philip-pullman-and-maggie-ofarrell-among-authors-urging-burnham-to-cut-business-rates-on-bookshops"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1864 —",
-      "hook": "Bakumatsu: Kinmon incident: The Chōshū Domain attempts to expel the Satsuma and Aizu Domains from Japan's imperial court.",
-      "body": "Bakumatsu were the final years of the Edo period when the Tokugawa shogunate ended. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bakumatsu"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Maze Runner is a 2014 American dystopian science fiction film directed by Wes Ball, in his feature directorial debut, based on James Dashner's 2009 novel.",
-      "body": "It is the first installment in The Maze Runner film series and was written by Noah Oppenheim, Grant Pierce Myers and T. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/be/The_Maze_Runner_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Maze_Runner_(film)"
+      "opener": "Screen Daily —",
+      "hook": "‘Skintown’ wins £50,000 Edinburgh top prize",
+      "body": "Sindha Agha’s Grief Room won the £15,000 Thelma Schoonmaker short film prize.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/skintown-wins-50000-edinburgh-top-prize/5219538.article"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "AB-001 (1-pentyl-3-(1-adamantoyl)indole) is a designer drug that was found as an ingredient in synthetic cannabis smoking blends in Ireland in 2010 and Hungary and Germany in 2011.",
-      "body": "It is unclear who AB-001 was originally developed by, but it is structurally related to compounds such as AM-1248 and its corresponding 1-(tetrahydropyran-4-ylmethyl) analogue, which are known to be potent cannabinoid agonists with moderate to a high selectivi",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/AB-001_structure.svg/330px-AB-001_structure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Hot Zone: A Terrifying True Story is a best-selling 1994 nonfiction thriller by Richard Preston about the origins and incidents involving viral hemorrhagic fevers, particularly ebolaviruses and marburgviruses.",
+      "body": "The basis of the book was Preston's 1992 New Yorker article \"Crisis in the Hot Zone\". Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9d/The_Hot_Zone_%28cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/AB-001"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+      "url": "https://en.wikipedia.org/wiki/The_Hot_Zone"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1794 —",
-      "hook": "Northwest Indian War: United States troops force a confederacy of Shawnee, Mingo, Delaware, Wyandot, Miami, Ottawa, Chippewa, and Potawatomi warriors into a disorganized retreat at the Battle of Fallen Timbers.",
-      "body": "The Northwest Indian War was an armed conflict for control of the Northwest Territory between the United States and a loose confederation of Native American peoples who called themselves the United Indian Nations but are better known today as the Northwestern Confederacy. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Treaty_of_Greenville.jpg/330px-Treaty_of_Greenville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1948 —",
+      "hook": "Soviet Consul General in New York, Jacob M. Lomakin is expelled by the United States, due to the Kasenkina Case.",
+      "body": "New York, often called New York City (NYC), is the most populous city in the United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Northwest_Indian_War"
+      "url": "https://en.wikipedia.org/wiki/New_York_City"
     },
     {
       "type": "card",
       "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Record of Grancrest War is a Japanese light novel series and tabletop role-playing game written by Ryo Mizuno and illustrated by Miyū.",
+      "body": "Fujimi Shobo have published it in ten volumes from 2013 to 2018 under their Fujimi Fantasia Bunko imprint. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6d/Record_of_Grancrest_War_light_novel_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Record_of_Grancrest_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Clue in the Old Stagecoach is the thirty-seventh volume in the Nancy Drew Mystery Stories series.",
+      "body": "It was first published in 1960 under the pseudonym Carolyn Keene. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/dc/TheClueInTheOldStagecoach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Clue_in_the_Old_Stagecoach"
+    },
+    {
+      "type": "card",
+      "cat": "history",
       "opener": "Here's one for the group chat —",
-      "hook": "Karen Margaret Andresen, better known as Karen Hermeston, was a Canadian photographer who served as the Canadian Army's first female war photographer during the Second World War.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sergeant_Karen_M._Hermiston_of_the_Canadian_Women%27s_Army_Corps%2C_holding_a_Rolleiflex_camera._Le_sergent_Karen_M._Hermiston%2C_du_Service_f%C3%A9minin_de_l%27Arm%C3%A9e_canadienne%2C_tient_un_appareil-photo_Rolleiflex_%284679191346%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Following the Roman withdrawal, there was a substantial migration of Germanics, specifically, the Angles, the Saxons, and the Jutes, spanning from the 5th to the 7th centuries AD, leading to the formation of England by 12 July 927.",
+      "body": "Modern humans inhabited Great Britain long before the arrival of the Romans in the first century BC, an era for which no written historical records exist. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Karen_Hermeston"
+      "url": "https://en.wikipedia.org/wiki/Historical_immigration_to_Great_Britain"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2008 —",
-      "hook": "Spanair Flight 5022, from Madrid, Spain to Gran Canaria, skids off the runway and crashes at Barajas Airport. Of the 172 people on board, 146 die immediately, and eight more later die of injuries sustained in the crash.",
-      "body": "Spanair Flight 5022 was a scheduled domestic passenger flight from Barcelona–El Prat Airport to Gran Canaria Airport, Spain, with a stopover in Madrid–Barajas Airport that crashed just after take-off from runway 36L at Madrid-Barajas Airport at 14:24 CEST (12:24 UTC) on 20 August 2008. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Spanair_Flight_5022_overview.jpg/330px-Spanair_Flight_5022_overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2016 —",
+      "hook": "Fifty-four people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.",
+      "body": "On 20 August 2016, a suicide bomber targeted a Kurdish wedding in Gaziantep, Turkey. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Suru%C3%A7_bombing_in_Turkey.jpg/330px-2015_Suru%C3%A7_bombing_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Spanair_Flight_5022"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "In the Lonely Hour is the debut studio album by English singer and songwriter Sam Smith.",
-      "body": "It was released in the United Kingdom on 26 May 2014 via Capitol UK and Method Records. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/99/Sam_Smith_-_In_the_Lonely_Hour_%28Official_Album_Cover%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/In_the_Lonely_Hour"
+      "url": "https://en.wikipedia.org/wiki/August_2016_Gaziantep_bombing"
     }
   ]
 }
