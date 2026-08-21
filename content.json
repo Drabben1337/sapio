@@ -1,44 +1,36 @@
 {
-  "generated": "2026-08-21T10:16:35.647Z",
-  "count": 13,
+  "generated": "2026-08-21T11:13:46.743Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Starmer donates biography of himself to Downing Street library",
-      "body": "The former PM and seven of his ministers have added to the collection, which began in 1931.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/czdm6m939edo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "How I’ve Tried to Change the World by Alexei Sayle review – does protest make a difference?",
-      "body": "<p>The comedian charts his life in demos from 1960s Liverpool to 2020s London in this fiery and addictive book</p><p>At 74, the comedian Alexei Sayle is approaching a dangerous phase for veteran British leftists: becoming a national treasur",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/stage/2026/aug/20/how-ive-tried-to-change-the-world-by-alexei-sayle-review-does-protest-make-a-difference"
+      "cat": "history",
+      "opener": "On this day in 1680 —",
+      "hook": "Pueblo Indians capture Santa Fe from the Spanish during the Pueblo Revolt.",
+      "body": "The Pueblo peoples, sometimes referred to as Puebloans, are Native Americans in the Southwestern United States who share common agricultural, material, and religious practices. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Secretary_Deb_Haaland%2C_official_headshot.jpg/330px-Secretary_Deb_Haaland%2C_official_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pueblo_peoples"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Elric: Battle at the End of Time is a board wargame published by Chaosium in 1982, an update of the 1977 game simply titled Elric.",
-      "body": "It is based on the Elric of Melniboné books by Michael Moorcock. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/CHA1003_Elric-_Battle_at_the_End_of_Time_board_game_cover_1982.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Elric%3A_Battle_at_the_End_of_Time"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "\"The Bare Necessities\" is a jazz song, written by Terry Gilkyson, from Disney's 1967 animated feature film The Jungle Book, sung by Phil Harris as Baloo and Bruce Reitherman as Mowgli.",
-      "body": "Bill Murray and Neel Sethi in the same respective roles performed the song in the 2016 remake. Worth a quiet trip down the rabbit hole.",
+      "opener": "You probably never noticed this —",
+      "hook": "Freezing Point is the debut novel of Japanese novelist Ayako Miura, first serialized on Asahi Shimbun between 1964 and 1965.",
+      "body": "The novel won Asahi Shimbun's Ten Million Yen Award. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Bare_Necessities"
+      "url": "https://en.wikipedia.org/wiki/Freezing_Point_(Miura_novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Gravity's Rainbow is a 1973 postmodern novel by Thomas Pynchon.",
+      "body": "The narrative is set primarily in Europe at the end of World War II and centers on the design, production and dispatch of V-2 rockets by the German military. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gravity%27s_Rainbow_%281973_1st_ed_cover%29.jpg/330px-Gravity%27s_Rainbow_%281973_1st_ed_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gravity's_Rainbow"
     },
     {
       "type": "card",
@@ -51,22 +43,72 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Meghan could return to acting once back in UK",
-      "body": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss"
+      "cat": "history",
+      "opener": "On this day in 1808 —",
+      "hook": "Battle of Vimeiro: British and Portuguese forces led by General Arthur Wellesley defeat French force under Major-General Jean-Andoche Junot near the village of Vimeiro, Portugal, the first Anglo-Portuguese victory of the Peninsular War.",
+      "body": "In the Battle of Vimeiro on 21 August 1808, the British under General Arthur Wellesley defeated the French under Major-General Jean-Andoche Junot near the village of Vimeiro, near Lisbon, Portugal, during the Peninsular War. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_20th_Light_Dragoons_at_the_Battle_of_Vimeiro%2C_21st_August_1808.jpg/330px-The_20th_Light_Dragoons_at_the_Battle_of_Vimeiro%2C_21st_August_1808.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Vimeiro"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1863 —",
+      "hook": "Lawrence, Kansas is destroyed by pro-Confederate guerrillas known as Quantrill's Raiders.",
+      "body": "Lawrence is a city in and the county seat of Douglas County, Kansas, United States, and the sixth-largest city in the state. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lawrence%2C_KS_August_2025.jpg/330px-Lawrence%2C_KS_August_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Lawrence%2C_Kansas"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Emmanuelle is a 2024 French erotic drama film directed, co-written and produced by Audrey Diwan.",
-      "body": "Based on the 1967 novel by Emmanuelle Arsan, it is the eighth theatrical film in the series of the same name, and the fifteenth film overall, and serves as a reboot. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/ce/Emmanuelle_%282024%2C_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "What Maisie Knew is a 2012 drama film directed by Scott McGehee and David Siegel and written by Carroll Cartwright and Nancy Doyne.",
+      "body": "Starring Julianne Moore, Alexander Skarsgård, Onata Aprile, Joanna Vanderham and Steve Coogan, it is a modern adaptation of Henry James' 1897 novel What Maisie Knew. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/What_Maisie_Knew_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Emmanuelle_(2024_film)"
+      "url": "https://en.wikipedia.org/wiki/What_Maisie_Knew_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Aspazija is the Latvian transliteration of Aspasia.",
+      "body": "Elza Johanna Emilija Lizete Pliekšāne, known by her pen name Aspazija, was a Latvian poet and playwright. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Aspazija_3.jpg/330px-Aspazija_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aspazija"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "How I’ve Tried to Change the World by Alexei Sayle review – does protest make a difference?",
+      "body": "<p>The comedian charts his life in demos from 1960s Liverpool to 2020s London in this fiery and addictive book</p><p>At 74, the comedian Alexei Sayle is approaching a dangerous phase for veteran British leftists: becoming a national treasur",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/stage/2026/aug/20/how-ive-tried-to-change-the-world-by-alexei-sayle-review-does-protest-make-a-difference"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "Dumbarton Oaks Conference, prelude to the United Nations, begins.",
+      "body": "The Dumbarton Oaks Conference, or, more formally, the Washington Conversations on International Peace and Security Organization, was an international conference at which proposals for the establishment of a \"general international organization\", which was to become the United Nations, were formulated and negotiated. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Washington_conversations_on_international_organization%2C_Dumbarton_Oaks%2C_Washington%2C_D.C.%2C_USA_%28August_1944%29.jpg/330px-Washington_conversations_on_international_organization%2C_Dumbarton_Oaks%2C_Washington%2C_D.C.%2C_USA_%28August_1944%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Dumbarton_Oaks_Conference"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Toper's End is a 1942 detective novel by the British authors G.D.H.",
+      "body": "It was the final entry in their series of over twenty books dating back to 1923 featuring Superintendent Wilson, a former officer of Scotland Yard turned Private Detective. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/Toper%27s_End.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Toper's_End"
     },
     {
       "type": "card",
@@ -88,33 +130,42 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Donkey Punch is a crime novel by Scottish author Ray Banks.",
-      "body": "It was first published in the United Kingdom by Edinburgh-based company Birlinn Ltd in 2007, and again by the same publisher in 2008. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/2007_Donkey_Punch_by_Ray_Banks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Donkey_Punch_(novel)"
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Coup attempt against Mikhail Gorbachev collapses.",
+      "body": "In August 1991, hardliners of the Communist Party of the Soviet Union (CPSU) attempted to forcibly seize control of the country from Mikhail Gorbachev, who was Soviet president and General Secretary of the CPSU at the time. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boris_Yeltsin_22_August_1991-1.jpg/330px-Boris_Yeltsin_22_August_1991-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1991_Soviet_coup_attempt"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Sidney Kilner Levett-Yeats, an English novelist known professionally as S.",
-      "body": "Levett-Yeats, was the descendant of an old English trading family with connections to British India. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Sidney_Kilner_Levett-Yeats.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Wonderland, formerly called Wonderland: Alice's New Musical Adventure or Wonderland: A New Alice, is a musical play with a book by Jack Murphy and Gregory Boyd, lyrics by Murphy, and music by Frank Wildhorn.",
+      "body": "The story, a contemporary version of the novels Alice's Adventures in Wonderland (1865) and Through the Looking-Glass (1871) by Lewis Carroll, is set in New York City and focuses on writer Alice Cornwinkle and her 10-year-old daughter Chloe. Worth a quiet trip",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/WonderlandAlice%27sNewMusicalAdventureLogo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sidney_Kilner_Levett-Yeats"
+      "url": "https://en.wikipedia.org/wiki/Wonderland_(musical)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "According to the Syria Central Bureau of Statistics, Sa'sa' had a population of 9,945 in the 2004 census.",
-      "body": "Sa'sa' is a town in southwestern Syria, administratively part of the Rif Dimashq Governorate, located southwest of Damascus near the Golan Heights, in the portion of the province under Syrian control. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sa'sa'%2C_Syria"
+      "opener": "On this day in 2000 —",
+      "hook": "American golfer Tiger Woods wins the 82nd PGA Championship and becomes the first golfer since Ben Hogan in 1953 to win three majors in a calendar year.",
+      "body": "Eldrick Tont \"Tiger\" Woods is an American professional golfer. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg/330px-President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Tiger_Woods"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Meghan could return to acting once back in UK",
+      "body": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -124,6 +175,15 @@
       "body": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘I was born without self-esteem’: Hannah Einbinder on Hacks, her buzzy queer horror – and being Hollywood’s most outspoken star",
+      "body": "<p>The Hacks lead was cast in meta-slasher sensation Teenage Sex and Death at Camp Miasma for her ‘deranged physicality’ – but it’s a fitting role for an actor who has made a point of confronting shame and speaking her mind</p><p>‘God is go",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
     }
   ]
 }
