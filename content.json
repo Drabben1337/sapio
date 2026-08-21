@@ -1,7 +1,27 @@
 {
-  "generated": "2026-08-21T03:39:10.129Z",
-  "count": 17,
+  "generated": "2026-08-21T04:25:26.851Z",
+  "count": 13,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Barbara Faith de Covarrubias, was an American writer of more than 40 romance novels as Barbara Faith from 1978 until the day of her death.",
+      "body": "Her book, The Sun Dancers, received a Golden Medallion from Romance Writers of America in 1982. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Barbara_Faith"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Descriptio Cambriae or Descriptio Kambriae is a geographical and ethnographic treatise on Wales and its people dating from 1193 or 1194.",
+      "body": "The Descriptio’s author Gerald of Wales was a prominent churchman of Welsh birth and mixed Norman-Welsh ancestry. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/St.David%27s_Cathedral_-_Dreieinigkeitskapelle_5_Giraldus_Cambrensis.jpg/330px-St.David%27s_Cathedral_-_Dreieinigkeitskapelle_5_Giraldus_Cambrensis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Descriptio_Cambriae"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,42 +33,31 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Reiley, AIA, (1878–1961) was an American architect practicing in New York City in the early and mid twentieth century.",
-      "body": "He was particularly known as a designer of Catholic churches, schools, and hospitals in the Northeast USA. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Sonya Barlow is a British technology entrepreneur, author, and broadcaster.",
+      "body": "She is the founder and chief executive officer of the Like Minded Females (LMF) Network, a careers platform and diversity, equity and inclusion consultancy. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sonya_Barlow_Author_Holding_Unprepared_To_Entrepreneur_Business_Book.jpg/330px-Sonya_Barlow_Author_Holding_Unprepared_To_Entrepreneur_Business_Book.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Robert_J._Reiley"
+      "url": "https://en.wikipedia.org/wiki/Sonya_Barlow"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Driftless Area is a 2015 Canadian-American neo-noir dramedy film directed by Zachary Sluser and starring Anton Yelchin, Zooey Deschanel, and John Hawkes.",
-      "body": "Alia Shawkat, Aubrey Plaza, Frank Langella, and Ciarán Hinds also appear in supporting roles. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/be/The_Driftless_Area_---_Teaser_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Driftless_Area"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Super Troopers 3 review – misfiring cop comedy threequel",
+      "body": "<p>The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence</p><p>Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Brandon Flowers: Is fame worth it? I'm not sure anymore",
-      "body": "The Killers frontman asks big questions on his third solo album, which takes a detour into country.",
+      "hook": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+      "body": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgple783go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "On 15 September 1936, the Royal Italian Army formed the 2nd Tank Infantry Regiment, which on 1 December 1938, was renamed 32nd Tank Infantry Regiment and assigned to the II Armored Brigade.",
-      "body": "The 32nd Tank Regiment is a tank regiment of the Italian Army based in Tauriano in Friuli-Venezia Giulia. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/CoA_mil_ITA_rgt_carri_032.png/330px-CoA_mil_ITA_rgt_carri_032.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/32nd_Tank_Regiment_(Italy)"
+      "url": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -62,61 +71,50 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Voice from the Stone is a 2017 American supernatural gothic psychological horror film directed by Eric D.",
-      "body": "Howell from a screenplay by Andrew Shaw, based on the 1996 novel of the same name by Silvio Raffo. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/96/Voice_from_the_Stone_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "Lila Oliver Asher was an American artist and printmaker.",
+      "body": "She is best known for her printmaking, primarily with linocut and woodcut, and her subjects spanned from religious themes, myths, musicians, and mothers. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Voice_from_the_Stone"
+      "url": "https://en.wikipedia.org/wiki/Lila_Oliver_Asher"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Spa Weekend review – female answer to The Hangover spreads the slush with the massage oil",
+      "body": "<p>Despite stars Leslie Mann, Anna Faris and Isla Fisher and the writers behind The Hangover, this tale of friends at a luxury hotel is a dud</p><p>Jon Lucas and Scott Moore are the screenwriters who struck gold nearly 20 years ago with The",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/21/spa-weekend-review-comedy"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "File under 'wait, really?' —",
-      "hook": "Horaga viola, the brown onyx, a small lycaenid or hairstreak butterfly found in Asia.(Sikkim, Assam, India, Ceylon, Burma) It is sometimes treated as a subspecies of Horaga albimacula,",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HoragaViola_707_5_Fitch.png/330px-HoragaViola_707_5_Fitch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Constance was suo jure Viscountess of Marsan as well as titular Countess of Bigorre, daughter of Gaston VII, Viscount of Béarn and his first wife Martha of Marsan.",
+      "body": "Constance inherited all of her titles from her mother and contended to inherit her father's Viscounty of Béarn. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Horaga_viola"
+      "url": "https://en.wikipedia.org/wiki/Constance_of_B%C3%A9arn"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Reliquary is the 1997 New York Times best-selling sequel to Relic, by American authors Douglas Preston and Lincoln Child.",
+      "body": "The legacy of the blood-maddened Mbwun lives on in Reliquary, but the focus is shifted from the original museum setting to the tunnels beneath the streets of New York City. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Book-reliquary.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reliquary_(novel)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-      "body": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+      "hook": "Brandon Flowers: Is fame worth it? I'm not sure anymore",
+      "body": "The Killers frontman asks big questions on his third solo album, which takes a detour into country.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Remnant Population is a 1996 science fiction novel by American writer Elizabeth Moon.",
-      "body": "The protagonist, Ofelia, is an old woman who decides to remain behind on a colony world after the company who sent her there pulls out. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/70/RemnantPopulation%281stEd%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Remnant_Population"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Matched, by Ally Condie, is the first novel in the Matched trilogy.",
-      "body": "The novel is a dystopian young adult novel about a tightly controlled society in which young people are \"matched\" with their life partners at the age of 17. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/88/Matched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Matched_(book)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "As of early 2026, $62.4 billion in aggregate funding has been disclosed, making Qatar the largest foreign funder of U.S.",
-      "body": "Qatari involvement in U.S. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Qatari_involvement_in_US_higher_education"
+      "url": "https://www.bbc.co.uk/news/articles/c7vgple783go?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -126,44 +124,6 @@
       "body": "<p>Low-fi, aesthetically austere work set in Sydney’s modelling scene makes you wonder what writer-director Hyun Lee might do with more resources</p><p>The debut feature of writer-director Hyun Lee is a slightly scrappy drama set in Sydney’",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/aug/21/french-girls-review-scrappy-australian-film-made-for-28000-reveals-refreshing-new-talents"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
-      "body": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "was an American cargo airline based at Miami, Florida.",
-      "body": "Florida West International Airways, Inc. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/ed/Florida_West_International_Airways_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Florida_West_International_Airways"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Blood of Amber is a fantasy novel by American writer Roger Zelazny, published in 1986.",
-      "body": "It is the second book in the second Chronicles of Amber series, and the seventh book in the Amber series overall. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/31/Blood_of_Amber.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Blood_of_Amber"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Danny Boyle, Seth Rogen, Perspectives panels on Academy, global sales join TIFF: The Market Summit",
-      "body": "Inaugural market runs September 10-16.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/danny-boyle-seth-rogen-perspectives-panels-on-academy-global-sales-join-tiff-the-market-summit/5219581.article"
     }
   ]
 }
