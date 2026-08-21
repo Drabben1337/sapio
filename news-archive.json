@@ -2,6 +2,26 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "What happened to Harry and Meghan's American dream?",
+    "body": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+    "_t": 1787297568304
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Starmer donates biography of himself to Downing Street library",
+    "body": "The former PM and seven of his ministers have added to the collection, which began in 1931.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/czdm6m939edo?at_medium=RSS&at_campaign=rss",
+    "_t": 1787297568304
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "The Guardian · Books —",
     "hook": "Life of M by Rachel Cusk review – is this story of a film star based on Natalie Portman?",
     "body": "<p>A teasing tale of the friendship between a writer and an actor explores the fallout from fame, and the blurring between pretence and reality</p><p>M<strong> </strong>is a celebrated film actor. A star since childhood, now the face of a m",
@@ -578,25 +598,5 @@
     "src": "The Guardian · Books",
     "url": "https://www.theguardian.com/stage/2026/aug/20/how-ive-tried-to-change-the-world-by-alexei-sayle-review-does-protest-make-a-difference",
     "_t": 1787206888913
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "Coyote Vs Acme review – quirky comedy returns from the dead to flip Wile E Coyote’s slapstick-violent world",
-    "body": "<p>After being shelved as a tax-writeoff, this Looney Tunes reboot redraws the hapless hunter as the Erin Brockovich of the cartoon world</p><p>Here is a quirky, peculiar, yet strangely diverting live-action-toon hybrid of the kind that has",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/aug/19/coyote-vs-acme-review-wile-e-coyote-roadrunner",
-    "_t": 1787203179881
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "Tom Holland set to earn $100m from Spider-Man: Brand New Day",
-    "body": "<p>In a year that’s seen the British actor star in the season’s two biggest blockbusters – and marry his co-star from both – he is reportedly earning a huge pay packet thanks to box-office bonuses</p><p>The British actor Tom Holland is expe",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/aug/19/tom-holland-pay-100m-spider-man-brand-new-day",
-    "_t": 1787199809798
   }
 ]
