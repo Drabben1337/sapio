@@ -1,54 +1,15 @@
 {
-  "generated": "2026-08-21T04:25:26.851Z",
-  "count": 13,
+  "generated": "2026-08-21T05:20:32.506Z",
+  "count": 12,
   "items": [
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Barbara Faith de Covarrubias, was an American writer of more than 40 romance novels as Barbara Faith from 1978 until the day of her death.",
-      "body": "Her book, The Sun Dancers, received a Golden Medallion from Romance Writers of America in 1982. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Barbara_Faith"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Descriptio Cambriae or Descriptio Kambriae is a geographical and ethnographic treatise on Wales and its people dating from 1193 or 1194.",
-      "body": "The Descriptio’s author Gerald of Wales was a prominent churchman of Welsh birth and mixed Norman-Welsh ancestry. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/St.David%27s_Cathedral_-_Dreieinigkeitskapelle_5_Giraldus_Cambrensis.jpg/330px-St.David%27s_Cathedral_-_Dreieinigkeitskapelle_5_Giraldus_Cambrensis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Descriptio_Cambriae"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "San Sebastian selects opening film for 2026 festival",
-      "body": "Film will play in competition, and completes the section with 17 titles.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/san-sebastian-selects-opening-film-for-2026-festival/5219513.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Sonya Barlow is a British technology entrepreneur, author, and broadcaster.",
-      "body": "She is the founder and chief executive officer of the Like Minded Females (LMF) Network, a careers platform and diversity, equity and inclusion consultancy. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sonya_Barlow_Author_Holding_Unprepared_To_Entrepreneur_Business_Book.jpg/330px-Sonya_Barlow_Author_Holding_Unprepared_To_Entrepreneur_Business_Book.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sonya_Barlow"
-    },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Super Troopers 3 review – misfiring cop comedy threequel",
-      "body": "<p>The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence</p><p>Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless",
+      "hook": "French Girls review – scrappy Australian film made for $28,000 reveals refreshing new talents",
+      "body": "<p>Low-fi, aesthetically austere work set in Sydney’s modelling scene makes you wonder what writer-director Hyun Lee might do with more resources</p><p>The debut feature of writer-director Hyun Lee is a slightly scrappy drama set in Sydney’",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel"
+      "url": "https://www.theguardian.com/film/2026/aug/21/french-girls-review-scrappy-australian-film-made-for-28000-reveals-refreshing-new-talents"
     },
     {
       "type": "card",
@@ -61,51 +22,50 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Dear Edward is a 2020 novel by American writer Ann Napolitano.",
+      "body": "It tells the story of a 12-year-old boy who is the sole survivor of a plane crash that kills all of the other 191 passengers, including the protagonist's family. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Dear_Edward_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dear_Edward"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Super Troopers 3 review – misfiring cop comedy threequel",
+      "body": "<p>The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence</p><p>Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Jonathan Goldstein is an American-Canadian author, humorist and radio producer.",
+      "body": "Goldstein has worked on radio programs and podcasts such as Heavyweight, This American Life, and WireTap. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jonathan_Goldstein.jpg/330px-Jonathan_Goldstein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jonathan_Goldstein_(author)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "San Sebastian selects opening film for 2026 festival",
+      "body": "Film will play in competition, and completes the section with 17 titles.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/san-sebastian-selects-opening-film-for-2026-festival/5219513.article"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
       "hook": "Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
       "body": "The BBC Radio 4 Today programme presenter explained her recent absence on her return on Wednesday.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/ce346v4l17yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Lila Oliver Asher was an American artist and printmaker.",
-      "body": "She is best known for her printmaking, primarily with linocut and woodcut, and her subjects spanned from religious themes, myths, musicians, and mothers. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lila_Oliver_Asher"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Spa Weekend review – female answer to The Hangover spreads the slush with the massage oil",
-      "body": "<p>Despite stars Leslie Mann, Anna Faris and Isla Fisher and the writers behind The Hangover, this tale of friends at a luxury hotel is a dud</p><p>Jon Lucas and Scott Moore are the screenwriters who struck gold nearly 20 years ago with The",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/21/spa-weekend-review-comedy"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Constance was suo jure Viscountess of Marsan as well as titular Countess of Bigorre, daughter of Gaston VII, Viscount of Béarn and his first wife Martha of Marsan.",
-      "body": "Constance inherited all of her titles from her mother and contended to inherit her father's Viscounty of Béarn. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Constance_of_B%C3%A9arn"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Reliquary is the 1997 New York Times best-selling sequel to Relic, by American authors Douglas Preston and Lincoln Child.",
-      "body": "The legacy of the blood-maddened Mbwun lives on in Reliquary, but the focus is shifted from the original museum setting to the tunnels beneath the streets of New York City. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Book-reliquary.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Reliquary_(novel)"
     },
     {
       "type": "card",
@@ -120,10 +80,40 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "French Girls review – scrappy Australian film made for $28,000 reveals refreshing new talents",
-      "body": "<p>Low-fi, aesthetically austere work set in Sydney’s modelling scene makes you wonder what writer-director Hyun Lee might do with more resources</p><p>The debut feature of writer-director Hyun Lee is a slightly scrappy drama set in Sydney’",
+      "hook": "Spa Weekend review – female answer to The Hangover spreads the slush with the massage oil",
+      "body": "<p>Despite stars Leslie Mann, Anna Faris and Isla Fisher and the writers behind The Hangover, this tale of friends at a luxury hotel is a dud</p><p>Jon Lucas and Scott Moore are the screenwriters who struck gold nearly 20 years ago with The",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/21/french-girls-review-scrappy-australian-film-made-for-28000-reveals-refreshing-new-talents"
+      "url": "https://www.theguardian.com/film/2026/aug/21/spa-weekend-review-comedy"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Home Fire (2017) is the seventh novel by Kamila Shamsie.",
+      "body": "It reimagines Sophocles's play Antigone unfolding among British Muslims. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Cover_picture_of_Home_Fire.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Home_Fire_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Bellini and the Sphinx is 2001 Brazilian crime film directed by Roberto Santucci.",
+      "body": "Based on Tony Bellotto's homonymous novel, it stars Fabio Assunção as Remo Bellini, a São Paulo-based detective who investigates mysterious murders. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a5/Bellini_and_the_Sphynx_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bellini_and_the_Sphinx"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Nikos Georgiou Nikolaidis was a Greek film director, screenwriter, film producer, writer, theatre director, assistant director, record producer, television director, and commercial director.",
+      "body": "He is usually considered a representative of European avant-garde and experimental art film. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Nikos_G._Nikolaidis.jpg/330px-Nikos_G._Nikolaidis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nikos_Nikolaidis"
     }
   ]
 }
