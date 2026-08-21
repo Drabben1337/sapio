@@ -1,26 +1,84 @@
 {
-  "generated": "2026-08-21T16:16:57.072Z",
+  "generated": "2026-08-21T17:16:55.746Z",
   "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The politics of Poland takes the form of a unitary parliamentary representative democratic republic, whereby the president is the head of state and the prime minister is the head of government.",
-      "body": "One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Politics_of_Poland"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Marvel’s Wolverine: Spider-Man developers turn to a more cutthroat character",
+      "body": "<p>Even film-makers have been inspired by Insomniac’s take on Spidey. But the studio’s tried and tested format might not fit a superhero with such sharp claws</p><p>The recent Marvel’s Spider-Man games have become so tightly interwoven with",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/games/2026/aug/20/marvel-wolverine-spider-man-developers-turn-more-cutthroat-character"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Observations & Reflections is a studio album by jazz fusion drummer Billy Cobham, released in 1982 on the Elektra/Musician label.",
-      "body": "25 on the Billboard Top Jazz LPs chart. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cb/Observations_%26_Reflections.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "The Spanish Bride is a historical novel by English writer Georgette Heyer.",
+      "body": "Written during 1939, it was published in the UK by Heinemann in April 1940, and in the US by Doubleday in October 1940. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/78/TheSpanishBride.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Observations_%26_Reflections"
+      "url": "https://en.wikipedia.org/wiki/The_Spanish_Bride"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1140 —",
+      "hook": "Song dynasty general Yue Fei defeats an army led by Jin dynasty general Wuzhu at the Battle of Yancheng during the Jin–Song Wars.",
+      "body": "The Song dynasty was an imperial dynasty of China that ruled from 960 to 1279. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/China_-_Song_Dynasty-en.svg/330px-China_-_Song_Dynasty-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Song_dynasty"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Hei no Naka no Biyōshitsu , also known as The Depth of the Sky, is a Japanese manga series written by Mina Sakurai and illustrated by Marco Kohinata.",
+      "body": "It is based on Sakurai's novel of the same title, published in 2018. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a6/Hei_no_Naka_no_Biy%C5%8Dshitsu_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hei_no_Naka_no_Biy%C5%8Dshitsu"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "World War I: The Second Battle of the Somme begins.",
+      "body": "The Second Battle of the Somme of 1918 was fought during the First World War on the Western Front from late August to early September, in the basin of the River Somme. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Who_said_that_the_Canadian_Service_Corps_have_%27cushy_jobs%27%3F_%282958783710%29.jpg/330px-Who_said_that_the_Canadian_Service_Corps_have_%27cushy_jobs%27%3F_%282958783710%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_the_Somme"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Last Ditch is a detective novel by Ngaio Marsh; it is the twenty-ninth novel to feature Roderick Alleyn, and was first published in 1977.",
+      "body": "The plot concerns drug smuggling in the Channel Islands, and features Alleyn's son, Ricky, in a central role. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/LastDitch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Last_Ditch"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1831 —",
+      "hook": "Nat Turner leads black slaves and free blacks in a rebellion in Southampton County, Virginia, which will claim the lives of 55 to 65 whites and about twice that number of blacks.",
+      "body": "Nat Turner was an enslaved Black carpenter and preacher who led a four-day rebellion of both slave and free Black people in Southampton County, Virginia, in August 1831. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nat_Turner_captured.jpg/330px-Nat_Turner_captured.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Nat_Turner"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
     },
     {
       "type": "card",
@@ -33,99 +91,32 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1971 —",
-      "hook": "A bomb exploded in the Liberal Party campaign rally in Plaza Miranda, Manila, Philippines with several anti-Marcos political candidates injured.",
-      "body": "The Liberal Party of the Philippines is a liberal political party in the Philippines. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Liberal_Party_of_the_Philippines_%28LP%29.svg/330px-Liberal_Party_of_the_Philippines_%28LP%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Philippines)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘It was a damn unicorn’: the pioneering, divisive power of Paul Simon’s Graceland at 40",
-      "body": "<p>On its anniversary, the author of a new book about the album explains the complex legacy and masterful musicianship of the 1986 classic</p><p>It was the summer of 1984 and things weren’t going well for <a href=\"https://www.theguardian.co",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/20/paul-simon-graceland-anniversary"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
-      "body": "<p>The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers</p><p>The Ukrainian Book Institute has <a href=\"https://ubi.org.ua/en/news/kategoriya-2/zverne",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Marvel’s Wolverine: Spider-Man developers turn to a more cutthroat character",
-      "body": "<p>Even film-makers have been inspired by Insomniac’s take on Spidey. But the studio’s tried and tested format might not fit a superhero with such sharp claws</p><p>The recent Marvel’s Spider-Man games have become so tightly interwoven with",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/games/2026/aug/20/marvel-wolverine-spider-man-developers-turn-more-cutthroat-character"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1968 —",
-      "hook": "James Anderson Jr. posthumously receives the first Medal of Honor to be awarded to an African American U.S. Marine.",
-      "body": "Private First Class James Anderson Jr. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/James_Anderson%2C_Jr.jpg/330px-James_Anderson%2C_Jr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/James_Anderson_Jr."
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Unnatural Exposure is a crime fiction novel by Patricia Cornwell.",
+      "body": "It is the eighth book in the Dr. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/Patricia_Cornwell_-_Unnatural_Exposure.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Unnatural_Exposure"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Thomas Stanislaus MacDonagh was an Irish political activist, poet, playwright, educationalist and revolutionary leader.",
-      "body": "He was one of the seven leaders of the Easter Rising of 1916, a signatory of the Proclamation of the Irish Republic and Commandant of the 2nd Battalion, Dublin Brigade of the Irish Volunteers, which fought in Jacob's biscuit factory. Worth a quiet trip down th",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Thomas_MacDonagh.png/330px-Thomas_MacDonagh.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Day Zero is a science fiction novel by American writer C.",
+      "body": "Robert Cargill, published by Harper Voyager on May 25, 2021. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2f/Day_Zero_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Thomas_MacDonagh"
+      "url": "https://en.wikipedia.org/wiki/Day_Zero_(novel)"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "World War II: The Guadalcanal campaign: American forces defeat an attack by Imperial Japanese Army soldiers in the Battle of the Tenaru.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1988 —",
-      "hook": "The 6.9 Mw Nepal earthquake shakes the Nepal–India border with a maximum Mercalli intensity of VIII (Severe), leaving 709–1,450 people killed and thousands injured.",
-      "body": "The 1988 Nepal earthquake occurred near the Nepal–India border on 20 August 1988 at 23:09:09 UTC. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1988_Nepal_earthquake"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Icosagen is an Estonian biotechnology company providing custom research programs and services to the Biopharmaceutical industry, including antibody discovery, protein production, and GMP manufacturing.",
-      "body": "Formed in 1999 as Quattromed AS, it was renamed Icosagen in 2009. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Icosagen_GMP_facility.jpg/330px-Icosagen_GMP_facility.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Icosagen_(company)"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
     },
     {
       "type": "card",
@@ -138,42 +129,51 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 2013 —",
-      "hook": "Hundreds of people are reported killed by chemical attacks in the Ghouta region of Syria.",
-      "body": "The Ghouta chemical attack was a chemical attack carried out by the forces of Syrian President Bashar al-Assad, in the early hours of 21 August 2013 in Ghouta, Syria during the Syrian civil war. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Syria_-_Damascus_Areas_of_Influence_and_Areas_Reportedly_Affected_by_21_August_Chemical_Attack.jpg/330px-Syria_-_Damascus_Areas_of_Influence_and_Areas_Reportedly_Affected_by_21_August_Chemical_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1901 —",
+      "hook": "Six hundred American school teachers, Thomasites, arrived in Manila on the USAT Thomas.",
+      "body": "The Thomasites were a group of 600 American teachers who traveled from the United States to the newly occupied territory of the Philippines on the US Army Transport Thomas. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/WTMP_Foodtrippings_D19.JPG/330px-WTMP_Foodtrippings_D19.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ghouta_chemical_attack"
+      "url": "https://en.wikipedia.org/wiki/Thomasites"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "New Scientist —",
-      "hook": "Greenland meltwater is intensifying European heatwaves",
-      "body": "The cooling of the North Atlantic is creating waviness in the jet stream and high-pressure ridging over Europe, a study finds",
+      "hook": "&#8216;Off the charts&#8217; El Niño is already the strongest since records began",
+      "body": "Renowned climate scientist James Hansen says the developing super El Niño has already \"blown past\" previous events with months to go before it peaks",
       "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585659-greenland-meltwater-is-intensifying-european-heatwaves/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://www.newscientist.com/article/2586031-off-the-charts-el-nino-is-already-the-strongest-since-records-began/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1415 —",
-      "hook": "Henry the Navigator leads Portuguese forces to victory over the Marinids at the Conquest of Ceuta.",
-      "body": "Prince Henry the Navigator, was a Portuguese prince, a central figure in the early days of the Portuguese Empire and often credited as one of the main initiators of the Age of Discovery. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Henry_the_Navigator1.jpg/330px-Henry_the_Navigator1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1863 —",
+      "hook": "Lawrence, Kansas is destroyed by pro-Confederate guerrillas known as Quantrill's Raiders.",
+      "body": "Lawrence is a city in and the county seat of Douglas County, Kansas, United States, and the sixth-largest city in the state. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lawrence%2C_KS_August_2025.jpg/330px-Lawrence%2C_KS_August_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Prince_Henry_the_Navigator"
+      "url": "https://en.wikipedia.org/wiki/Lawrence%2C_Kansas"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Sylvanus Épiphanio Olympio was a Togolese politician who was prime minister, and then president, of Togo from 1958 until his assassination in 1963.",
-      "body": "He came from the important Olympio family, which included his uncle Octaviano Olympio, one of the richest people in Togo in the 1900s. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sylvanus_Olympio.jpg/330px-Sylvanus_Olympio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sylvanus_Olympio"
+      "cat": "history",
+      "opener": "On this day in 2000 —",
+      "hook": "American golfer Tiger Woods wins the 82nd PGA Championship and becomes the first golfer since Ben Hogan in 1953 to win three majors in a calendar year.",
+      "body": "Eldrick Tont \"Tiger\" Woods is an American professional golfer. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg/330px-President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Tiger_Woods"
     }
   ]
 }
