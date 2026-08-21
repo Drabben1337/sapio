@@ -1,34 +1,16 @@
 {
-  "generated": "2026-08-21T05:20:32.506Z",
-  "count": 12,
+  "generated": "2026-08-21T06:21:20.725Z",
+  "count": 13,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "French Girls review – scrappy Australian film made for $28,000 reveals refreshing new talents",
-      "body": "<p>Low-fi, aesthetically austere work set in Sydney’s modelling scene makes you wonder what writer-director Hyun Lee might do with more resources</p><p>The debut feature of writer-director Hyun Lee is a slightly scrappy drama set in Sydney’",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/21/french-girls-review-scrappy-australian-film-made-for-28000-reveals-refreshing-new-talents"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
-      "body": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Dear Edward is a 2020 novel by American writer Ann Napolitano.",
-      "body": "It tells the story of a 12-year-old boy who is the sole survivor of a plane crash that kills all of the other 191 passengers, including the protagonist's family. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Dear_Edward_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Wizard of Lemuria is a fantasy novel by American writer Lin Carter, the first book of his Thongor series set on the fictional ancient lost continent of Lemuria.",
+      "body": "The author's first published novel, it was initially issued in paperback by Ace Books in 1965. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/The_Wizard_of_Lemuria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dear_Edward"
+      "url": "https://en.wikipedia.org/wiki/The_Wizard_of_Lemuria"
     },
     {
       "type": "card",
@@ -42,21 +24,32 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Jonathan Goldstein is an American-Canadian author, humorist and radio producer.",
-      "body": "Goldstein has worked on radio programs and podcasts such as Heavyweight, This American Life, and WireTap. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jonathan_Goldstein.jpg/330px-Jonathan_Goldstein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "You probably never noticed this —",
+      "hook": "Zero Day is a thriller novel written by David Baldacci.",
+      "body": "It is the first installment in the John Puller book series. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/68/Zero_day_-_baldacci_-_bookcover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jonathan_Goldstein_(author)"
+      "url": "https://en.wikipedia.org/wiki/Zero_Day_(novel)"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "San Sebastian selects opening film for 2026 festival",
-      "body": "Film will play in competition, and completes the section with 17 titles.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/san-sebastian-selects-opening-film-for-2026-festival/5219513.article"
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Zoomlion is China's largest and world's fifth largest construction machinery enterprise.",
+      "body": "Zoomlion Heavy Industry Science and Technology Co., Ltd. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zoomlion"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "New Mobile Report Gundam Wing: Frozen Teardrop is a serial novel written by Katsuyuki Sumisawa.",
+      "body": "The illustrations were done by Sakura Asagi, who also provided artwork for the novel version of New Mobile Report Gundam Wing: Endless Waltz and the manga version of New Mobile Report Gundam Wing: Blind Target. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Frozen_Teardrop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/New_Mobile_Report_Gundam_Wing%3A_Frozen_Teardrop"
     },
     {
       "type": "card",
@@ -70,15 +63,6 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Brandon Flowers: Is fame worth it? I'm not sure anymore",
-      "body": "The Killers frontman asks big questions on his third solo album, which takes a detour into country.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgple783go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "Spa Weekend review – female answer to The Hangover spreads the slush with the massage oil",
       "body": "<p>Despite stars Leslie Mann, Anna Faris and Isla Fisher and the writers behind The Hangover, this tale of friends at a luxury hotel is a dud</p><p>Jon Lucas and Scott Moore are the screenwriters who struck gold nearly 20 years ago with The",
@@ -87,33 +71,59 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Home Fire (2017) is the seventh novel by Kamila Shamsie.",
-      "body": "It reimagines Sophocles's play Antigone unfolding among British Muslims. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Cover_picture_of_Home_Fire.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Home_Fire_(novel)"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Life of M by Rachel Cusk review – is this story of a film star based on Natalie Portman?",
+      "body": "<p>A teasing tale of the friendship between a writer and an actor explores the fallout from fame, and the blurring between pretence and reality</p><p>M<strong> </strong>is a celebrated film actor. A star since childhood, now the face of a m",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/21/life-of-m-by-rachel-cusk-review-is-this-story-of-a-film-star-based-on-natalie-portman"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "body": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Bellini and the Sphinx is 2001 Brazilian crime film directed by Roberto Santucci.",
-      "body": "Based on Tony Bellotto's homonymous novel, it stars Fabio Assunção as Remo Bellini, a São Paulo-based detective who investigates mysterious murders. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a5/Bellini_and_the_Sphynx_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Villa Amalia is a 2009 French drama film adapted from the novel Villa Amalia by Pascal Quignard.",
+      "body": "It is directed by Benoît Jacquot and stars Isabelle Huppert. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Villa-amalia_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bellini_and_the_Sphinx"
+      "url": "https://en.wikipedia.org/wiki/Villa_Amalia_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Brandon Flowers: Is fame worth it? I'm not sure anymore",
+      "body": "The Killers frontman asks big questions on his third solo album, which takes a detour into country.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgple783go?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Nikos Georgiou Nikolaidis was a Greek film director, screenwriter, film producer, writer, theatre director, assistant director, record producer, television director, and commercial director.",
-      "body": "He is usually considered a representative of European avant-garde and experimental art film. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Nikos_G._Nikolaidis.jpg/330px-Nikos_G._Nikolaidis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The World Swappers is a science fiction novel by British writer John Brunner.",
+      "body": "It was first published in the United States in 1959, as one half of Ace Double D-391. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/World_swappers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nikos_Nikolaidis"
+      "url": "https://en.wikipedia.org/wiki/The_World_Swappers"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+      "body": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
