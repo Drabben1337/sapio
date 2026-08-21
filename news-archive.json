@@ -2,6 +2,26 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Culture —",
+    "hook": "Meghan reportedly in talks to join Guy Ritchie’s TV series The Gentlemen",
+    "body": "<p>The Duchess of Sussex is said to be discussing a return to acting in the third season of Netflix’s hit crime series</p><p>The Duchess of Sussex is in talks to make her acting return in Netflix’s hit series The Gentlemen.</p><p>According ",
+    "src": "The Guardian · Culture",
+    "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/meghan-duchess-of-sussex-guy-ritchie-the-gentlemen",
+    "_t": 1787339848356
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+    "body": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+    "_t": 1787339848356
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "The Guardian · Film —",
     "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
     "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
@@ -578,25 +598,5 @@
     "src": "BBC Entertainment",
     "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
     "_t": 1787263990593
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "ESA —",
-    "hook": "Fly around Schiaparelli Crater with Mars Express",
-    "body": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been ",
-    "src": "ESA",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express",
-    "_t": 1787263990593
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Books —",
-    "hook": "Where Are the Kings by Donal Ryan review – a timeless tale of family sorrows and joys",
-    "body": "<p>A teenage boy navigates adolescence and the traumatic loss of his mother in this poignant coming-of-age novel set in rural Ireland</p><p>Something is happening to literary time. In the last fortnight I’ve read new or forthcoming novels a",
-    "src": "The Guardian · Books",
-    "url": "https://www.theguardian.com/books/2026/aug/19/where-are-the-kings-by-donal-ryan-review-a-timeless-tale-of-family-sorrows-and-joys",
-    "_t": 1787260539128
   }
 ]
