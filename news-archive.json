@@ -2,6 +2,26 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Books —",
+    "hook": "Alice Roberts: ‘By the time I’d finished Richard Dawkins I’d left faith behind’",
+    "body": "<p>The TV presenter and author on the evolutionary biologists who inspired her, the genius of George Eliot – and fun with Frog and Toad</p><p><strong>My earliest reading memory<br></strong>The first books I remember were from The Village wi",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/books/2026/aug/21/alice-roberts-by-the-time-id-finished-richard-dawkins-id-left-faith-behind",
+    "_t": 1787304166538
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "The Guardian · Books —",
+    "hook": "How I’ve Tried to Change the World by Alexei Sayle review – does protest make a difference?",
+    "body": "<p>The comedian charts his life in demos from 1960s Liverpool to 2020s London in this fiery and addictive book</p><p>At 74, the comedian Alexei Sayle is approaching a dangerous phase for veteran British leftists: becoming a national treasur",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/stage/2026/aug/20/how-ive-tried-to-change-the-world-by-alexei-sayle-review-does-protest-make-a-difference",
+    "_t": 1787304166538
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "New Scientist —",
     "hook": "How long could we possibly live? A new estimate is mind-boggling",
     "body": "Biogerontologists are exploring the upper limit for human life. A recent study has it verging on two centuries – but columnist Graham Lawton finds reason to be sceptical",
@@ -578,25 +598,5 @@
     "src": "BBC Entertainment",
     "url": "https://www.bbc.co.uk/news/articles/cx2m8x44gdpo?at_medium=RSS&at_campaign=rss",
     "_t": 1787220996632
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "New Scientist —",
-    "hook": "NASA calls off rescue effort to save doomed telescope",
-    "body": "The Swift observatory will now re-enter Earth’s atmosphere in a few months, after a mission to boost it higher failed",
-    "src": "New Scientist",
-    "url": "https://www.newscientist.com/article/2585668-nasa-calls-off-rescue-effort-to-save-doomed-telescope/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
-    "_t": 1787217675879
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "New Scientist —",
-    "hook": "AI firms are watermarking generated text – here&#8217;s why it won&#8217;t work",
-    "body": "AI companies have begun embedding watermarks in the output of their models to improve transparency and help crack down on misinformation, disinformation and cheating on homework, but there are limitations to this approach",
-    "src": "New Scientist",
-    "url": "https://www.newscientist.com/article/2584736-ai-firms-are-watermarking-generated-text-heres-why-it-wont-work/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
-    "_t": 1787217675879
   }
 ]
