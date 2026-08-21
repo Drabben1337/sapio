@@ -1,16 +1,7 @@
 {
-  "generated": "2026-08-21T00:29:14.771Z",
-  "count": 12,
+  "generated": "2026-08-21T02:15:07.747Z",
+  "count": 23,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "French Girls review – scrappy Australian film made for $28,000 reveals refreshing new talents",
-      "body": "<p>Low-fi, aesthetically austere work set in Sydney’s modelling scene makes you wonder what writer-director Hyun Lee might do with more resources</p><p>The debut feature of writer-director Hyun Lee is a slightly scrappy drama set in Sydney’",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/21/french-girls-review-scrappy-australian-film-made-for-28000-reveals-refreshing-new-talents"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -19,6 +10,46 @@
       "body": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Doctor in Charge is a British television comedy series, the third of seven series in a franchise that began with Doctor in the House and was inspired by the \"Doctor\" books by Richard Gordon.",
+      "body": "The series follows directly from its predecessor Doctor at Large and depicts the former medical students now working as staff doctors at their alma mater St. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Doctor_in_Charge.jpg/330px-Doctor_in_Charge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doctor_in_Charge"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "He split with the Communist Party of the Philippines in 1991 due to ideological disagreements to form the Bukluran ng Manggagawang Pilipino (BMP) and Sanlakas.",
+      "body": "Filemon Castelar Lagman, also known by the aliases Ka Popoy and Carlos Forte, was a Filipino revolutionary socialist and labor leader who supported Marxism-Leninism. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/67/Ka_Popoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Filemon_Lagman"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The island is recognised as one of the leading luxury private islands and conservation projects in East Africa and the Indian Ocean.",
+      "body": "Vamizi Island is situated in the far north of Mozambique in the Quirimbas Archipelago. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Imagem_de_sat%C3%A9lite_da_Ilha_Vamizi_em_2011.jpg/330px-Imagem_de_sat%C3%A9lite_da_Ilha_Vamizi_em_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vamizi_Island"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1994 —",
+      "hook": "Royal Air Maroc Flight 630 crashes in Douar Izounine, Morocco, killing all 44 people on board.",
+      "body": "Royal Air Maroc Flight 630 was a passenger flight on 21 August 1994 which crashed approximately ten minutes after takeoff from Agadir–Al Massira Airport in Morocco. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CN-CDT.jpg/330px-CN-CDT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Royal_Air_Maroc_Flight_630"
     },
     {
       "type": "card",
@@ -41,31 +72,42 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Nethanel ben Isaiah was a Yemenite Jewish rabbi, Biblical commentator and poet of the fourteenth century.",
-      "body": "He is best known as the author of a homiletic commentary on the Torah entitled Nur al-Zulm wa-Mashbah al-Hikm, translated into Hebrew as Sefer Me'or ha-Afelah. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "You probably never noticed this —",
+      "hook": "A Dandy in Aspic is a 1968 British spy film directed by Anthony Mann and starring Laurence Harvey, Tom Courtenay and Mia Farrow, with costumes by Pierre Cardin.",
+      "body": "It was written by Derek Marlowe based on his 1966 novel of the same title. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/A_Dandy_in_Aspic_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nethanel_ben_Isaiah"
+      "url": "https://en.wikipedia.org/wiki/A_Dandy_in_Aspic"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The school was established in 2009 and moved to a new campus in the Maastricht neighbourhood of Amby in 2013.",
+      "body": "The United World College Maastricht (UWCM) is a United World College located in Maastricht, the Netherlands. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/United_World_College_Maastricht_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/United_World_College_Maastricht"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Cool Cat is a 2009 Children's picture book by Nonny Hogrogian.",
-      "body": "In this wordless book, a cat is joined by other animals to colourfully paint a ruined brown landscape. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Cool_Cat_%28Hogrogian_book%29.jpg/330px-Cool_Cat_%28Hogrogian_book%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "Maan Gaye Mughal-E-Azam is a 2008 Indian Hindi-language crime comedy film about a group of actors who attempt to prevent an underworld conspiracy from destabilizing the Indian government.",
+      "body": "The film is set in 1993 after the communal riots that followed the demolition of the Babri Masjid. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3c/Maan_Gaye_Mughal-e-Azam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cool_Cat_(book)"
+      "url": "https://en.wikipedia.org/wiki/Maan_Gaye_Mughal-e-Azam"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Fly around Schiaparelli Crater with Mars Express",
-      "body": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been ",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
+      "cat": "history",
+      "opener": "On this day in 1914 —",
+      "hook": "World War I: The Battle of Charleroi, a successful German attack across the River Sambre that pre-empted a French offensive in the same area.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
     },
     {
       "type": "card",
@@ -79,41 +121,109 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The 2016 Montana Democratic presidential primary was held on June 7 in the U.S.",
-      "body": "state of Montana as one of the Democratic Party's primaries ahead of the 2016 presidential election. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/2016_Montana_Democratic_Presidential_Primary_election_by_county.svg/330px-2016_Montana_Democratic_Presidential_Primary_election_by_county.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "Le Lit à colonnes is a French drama film from 1942, directed by Roland Tual, written by Charles Spaak, starring Fernand Ledoux and Jean Marais.",
+      "body": "The scenario was based on a novel of Louise de Vilmorin. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2016_Montana_Democratic_presidential_primary"
+      "url": "https://en.wikipedia.org/wiki/Le_Lit_%C3%A0_colonnes"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Citadel of the Autarch is a science fantasy novel by American writer Gene Wolfe, first released in 1983.",
+      "body": "It is the fourth and final volume in the four-volume series The Book of the New Sun. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/62/TheCitadelOfTheAutarch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Citadel_of_the_Autarch"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1680 —",
+      "hook": "Pueblo Indians capture Santa Fe from the Spanish during the Pueblo Revolt.",
+      "body": "The Pueblo peoples, sometimes referred to as Puebloans, are Native Americans in the Southwestern United States who share common agricultural, material, and religious practices. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Secretary_Deb_Haaland%2C_official_headshot.jpg/330px-Secretary_Deb_Haaland%2C_official_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pueblo_peoples"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "World War I: The Second Battle of the Somme begins.",
+      "body": "The Second Battle of the Somme of 1918 was fought during the First World War on the Western Front from late August to early September, in the basin of the River Somme. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Who_said_that_the_Canadian_Service_Corps_have_%27cushy_jobs%27%3F_%282958783710%29.jpg/330px-Who_said_that_the_Canadian_Service_Corps_have_%27cushy_jobs%27%3F_%282958783710%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_the_Somme"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Where Are the Kings by Donal Ryan review – a timeless tale of family sorrows and joys",
-      "body": "<p>A teenage boy navigates adolescence and the traumatic loss of his mother in this poignant coming-of-age novel set in rural Ireland</p><p>Something is happening to literary time. In the last fortnight I’ve read new or forthcoming novels a",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/19/where-are-the-kings-by-donal-ryan-review-a-timeless-tale-of-family-sorrows-and-joys"
+      "opener": "ESA —",
+      "hook": "Fly around Schiaparelli Crater with Mars Express",
+      "body": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been ",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
     },
     {
       "type": "card",
-      "cat": "books",
+      "cat": "history",
+      "opener": "On this day in 1888 —",
+      "hook": "The first successful adding machine in the United States is patented by William Seward Burroughs.",
+      "body": "An adding machine is a class of mechanical calculator, usually specialized for bookkeeping calculations. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Remington_Adding_Machine_Model_102_a.jpg/330px-Remington_Adding_Machine_Model_102_a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Adding_machine"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Brandon Flowers: Is fame worth it? I'm not sure anymore",
+      "body": "The Killers frontman asks big questions on his third solo album, which takes a detour into country.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgple783go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "French Girls review – scrappy Australian film made for $28,000 reveals refreshing new talents",
+      "body": "<p>Low-fi, aesthetically austere work set in Sydney’s modelling scene makes you wonder what writer-director Hyun Lee might do with more resources</p><p>The debut feature of writer-director Hyun Lee is a slightly scrappy drama set in Sydney’",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/21/french-girls-review-scrappy-australian-film-made-for-28000-reveals-refreshing-new-talents"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The flight was formed in March 1945 but the first of its modified B-24 Liberator heavy bombers was not ready until July that year.",
+      "body": "201 Flight was a Royal Australian Air Force experimental electronic intelligence flight of World War II. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/201_Flight_RAAF_B-24.jpg/330px-201_Flight_RAAF_B-24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/No._201_Flight_RAAF"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1968 —",
+      "hook": "James Anderson Jr. posthumously receives the first Medal of Honor to be awarded to an African American U.S. Marine.",
+      "body": "Private First Class James Anderson Jr. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/James_Anderson%2C_Jr.jpg/330px-James_Anderson%2C_Jr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/James_Anderson_Jr."
+    },
+    {
+      "type": "card",
+      "cat": "history",
       "opener": "Here's one for the group chat —",
-      "hook": "Adrián Eduardo Barilari is an Argentine singer best known as the vocalist of the heavy metal and hard rock band Rata Blanca.",
-      "body": "He also has his own solo band. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Adrian_Barilari.JPG/330px-Adrian_Barilari.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Battle of Bum La Pass, also known as Battle of Bum La, was fought on 23 October 1962 between Indian forces led by Subedar Joginder Singh and Chinese forces.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bumla-Pass.jpg/330px-Bumla-Pass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Adri%C3%A1n_Barilari"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Solid is a state of matter in which atoms are closely packed and are difficult to move past each other.",
-      "body": "Solids resist compression, expansion, or external forces that would alter its shape, with the degree of resistance being dependent upon the specific material under consideration. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Insulincrystals.jpg/330px-Insulincrystals.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Solid"
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bum_La_Pass"
     }
   ]
 }
