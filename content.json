@@ -1,44 +1,35 @@
 {
-  "generated": "2026-08-21T07:32:48.305Z",
-  "count": 11,
+  "generated": "2026-08-21T08:23:16.335Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "books",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "body": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The achlis was one of a number of strange creatures listed in Roman mythology by Pliny the Elder in the 1st century BC.",
+      "body": "He described it as saying it looked somewhat like an elk, though it bore some very strange characteristics. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Achlis"
+    },
+    {
+      "type": "card",
+      "cat": "history",
       "opener": "Bet you didn't know —",
-      "hook": "Dharmanatha was the fifteenth Jain Tirthankara of the present age (Avasarpini).",
-      "body": "According to Jain beliefs, he became a siddha, a liberated soul which has destroyed all of its karma. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dharmanath.jpg/330px-Dharmanath.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Cretan expedition of 826 was the first of many Cretan expeditions launched by the Byzantine Empire to retake the island of Crete from the Andalusian fugitives.",
+      "body": "The expedition ended in failure. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/The_Cretan_Saracens_defeat_the_Byzantines_under_Damianos.jpg/330px-The_Cretan_Saracens_defeat_the_Byzantines_under_Damianos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dharmanatha"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Starmer donates biography of himself to Downing Street library",
-      "body": "The former PM and seven of his ministers have added to the collection, which began in 1931.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/czdm6m939edo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Deinacrida tibiospina, also known as the Mt Arthur giant wētā or the Nelson alpine giant wētā, is a species of wētā in the family Anostostomatidae.",
-      "body": "It is endemic to the South Island of New Zealand. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Deinacrida_tibiospina_180871032.jpg/330px-Deinacrida_tibiospina_180871032.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Deinacrida_tibiospina"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
-      "body": "The BBC Radio 4 Today programme presenter explained her recent absence on her return on Wednesday.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ce346v4l17yo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Cretan_expedition_(826)"
     },
     {
       "type": "card",
@@ -51,22 +42,100 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Something Borrowed is a 2011 American romantic comedy film based on Emily Giffin's 2005 novel, directed by Luke Greenfield, starring Ginnifer Goodwin, Kate Hudson, Colin Egglesfield, and John Krasinski and distributed by Warner Bros.",
+      "body": "Released on May 6, 2011, the film received negative reviews from critics and grossed $60 million. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cf/Something_borrowed_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Something_Borrowed_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "All the World is a 2009 children's picture book written by Liz Garton Scanlon, and illustrated by Marla Frazee.",
+      "body": "Scanlon's second book, it was critically acclaimed and won a Caldecott Honor in 2010. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/83/All_the_World_%28Scanlon_book%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/All_the_World"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "One Hundred Years of Solitude is a 1967 novel by Colombian author Gabriel García Márquez that tells the multi-generational story of the Buendía family, whose patriarch, José Arcadio Buendía, founded the fictitious town of Macondo.",
+      "body": "The novel is often cited as one of the supreme achievements in world literature. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Cien_a%C3%B1os_de_soledad_%28book_cover%2C_1967%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Starmer donates biography of himself to Downing Street library",
+      "body": "The former PM and seven of his ministers have added to the collection, which began in 1931.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/czdm6m939edo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "How long could we possibly live? A new estimate is mind-boggling",
+      "body": "Biogerontologists are exploring the upper limit for human life. A recent study has it verging on two centuries – but columnist Graham Lawton finds reason to be sceptical",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2585285-how-long-could-we-possibly-live-a-new-estimate-is-mind-boggling/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "Albert Abramovitz (1879–1963) was an American woodcut artist and painter.",
+      "body": "His work is in the permanent collections of the Metropolitan Museum of Art, the National Gallery of Art, and the Smithsonian American Art Museum. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Albert_Abramovitz"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "She was the main informant for ethnographer William Anderson Taylor's work on Kāi Tahu history, and is credited as one of the midwives who paved the way for the creation of the Plunket Society of New Zealand.",
+      "body": "Mere (Mary) Harper, born Mary Apes / Mere Hipi and also known as Big Mary or Mere Hapa was a porter, cultural informant, and midwife of Kāi Tahu and Kāti Huirapa descent. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mere_Harper_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mere_Harper"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Since the territorial reform of 2015, the country has been divided into 12 regions, including one located entirely within the disputed territory of Western Sahara, and two located partially within it.",
+      "body": "Regions are the highest administrative divisions of Morocco. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Morocco_Regions_2015_numbered.svg/330px-Morocco_Regions_2015_numbered.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Regions_of_Morocco"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Fortress Besieged is a Chinese satirical novel written by Qian Zhongshu, first published in 1947, and widely considered one of the masterpieces of twentieth century Chinese literature.",
+      "body": "The novel is a humorous tale about middle-class Chinese society in the late 1930s. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/dd/Wei_Cheng_1947_1st_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fortress_Besieged"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
       "hook": "Life of M by Rachel Cusk review – is this story of a film star based on Natalie Portman?",
       "body": "<p>A teasing tale of the friendship between a writer and an actor explores the fallout from fame, and the blurring between pretence and reality</p><p>M<strong> </strong>is a celebrated film actor. A star since childhood, now the face of a m",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/2026/aug/21/life-of-m-by-rachel-cusk-review-is-this-story-of-a-film-star-based-on-natalie-portman"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Modern Apizza is an American pizza restaurant in New Haven, Connecticut.",
-      "body": "Along with Frank Pepe Pizzeria Napoletana and Sally's Apizza, Modern forms what is informally referred to by locals as the \"Holy Trinity\" of New Haven-style pizza; the three pizza parlors are consistently ranked by food critics as some of the best pizza places",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Modern_Apizza%27s_Entrance.jpg/330px-Modern_Apizza%27s_Entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Modern_Apizza"
     },
     {
       "type": "card",
@@ -79,31 +148,32 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Future Leaders is a 1973 novel by Kenyan novelist Mwangi Ruheni.",
+      "body": "It was published as part of the important African Writers Series. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Future_Leaders"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "It was released on November 3, 2003 on the Hip-O Records label.",
+      "body": "Drunk in Public is the first CD released by American comedian Ron White. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/29/Drunkinpublic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Drunk_in_Public"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
       "hook": "Spa Weekend review – female answer to The Hangover spreads the slush with the massage oil",
       "body": "<p>Despite stars Leslie Mann, Anna Faris and Isla Fisher and the writers behind The Hangover, this tale of friends at a luxury hotel is a dud</p><p>Jon Lucas and Scott Moore are the screenwriters who struck gold nearly 20 years ago with The",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/aug/21/spa-weekend-review-comedy"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Zhang Liang, courtesy name Zifang (子房), was a Chinese military strategist and politician who lived in the early Western Han dynasty.",
-      "body": "He is also known as one of the \"Three prominences of the early Han dynasty\" (漢初三傑), along with Han Xin (韓信) and Xiao He. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/%E5%BC%A0%E8%89%AF%E5%83%8F.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zhang_Liang_(Western_Han)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "British rapper Yung Filly to face retrial on rape charges in Australia",
-      "body": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
