@@ -1,112 +1,36 @@
 {
-  "generated": "2026-08-22T13:22:29.838Z",
-  "count": 18,
+  "generated": "2026-08-22T14:08:42.717Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "A Game for the Living (1958) is a psychological thriller novel by Patricia Highsmith.",
-      "body": "It is the sixth of her 22 novels and the only one set in Mexico. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/47/AGameForTheLiving.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Game_for_the_Living"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Meghan reportedly in talks to join Guy Ritchie’s TV series The Gentlemen",
-      "body": "<p>The Duchess of Sussex is said to be discussing a return to acting in the third season of Netflix’s hit crime series</p><p>The Duchess of Sussex is in talks to make her acting return in Netflix’s hit series The Gentlemen.</p><p>According ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/meghan-duchess-of-sussex-guy-ritchie-the-gentlemen"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1968 —",
-      "hook": "Pope Paul VI arrives in Bogotá, Colombia. It is the first visit of a pope to Latin America.",
-      "body": "Pope Paul VI was head of the Catholic Church and sovereign of Vatican City from 21 June 1963 until his death on 6 August 1978. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pope_Paul_VI_1969_Portrait_%284x5_cropped%29.jpg/330px-Pope_Paul_VI_1969_Portrait_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1703 —",
+      "hook": "A janissary revolt forces the deposition of Ottoman sultan Mustafa II.",
+      "body": "The Edirne Incident was a janissary revolt that began in Constantinople in 1703. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mustafa_II_dressed_in_full_armour.JPG/330px-Mustafa_II_dressed_in_full_armour.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pope_Paul_VI"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1962 —",
-      "hook": "The OAS attempts to assassinate French president Charles de Gaulle.",
-      "body": "The Organisation armée secrète was a far-right dissident French paramilitary organisation during the Algerian War, founded in 1961 by Raoul Salan, Pierre Lagaillarde and Jean-Jacques Susini. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Embl%C3%A8me_de_l%27OAS.svg/330px-Embl%C3%A8me_de_l%27OAS.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Organisation_arm%C3%A9e_secr%C3%A8te"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Nick Carter is a fictional character who began as a dime novel private detective in 1886 and has appeared in a variety of formats over more than a century.",
-      "body": "The character was first conceived by Ormond G. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Nickcarter0436.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nick_Carter_(character)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "From Booker-listed Marlon James to a memoir by Michael Douglas – the biggest books this autumn",
-      "body": "<p>Midlife meditations from Barbara Kingsolver; musical portraits by Jonathan Coe and Yiyun Li; plus memoirs from Dustin Hoffman and Judi Dench – all among the coming season’s highlights</p><p><strong><a href=\"https://guardianbookshop.com/t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/22/new-autumn-fiction-nonfiction-marlon-james-emma-cline-michael-douglas-dustin-hoffman-judi-dench-yiyun-li"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Fly around Schiaparelli Crater with Mars Express",
-      "body": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been ",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Stand By Me at 40: Rob Reiner’s seminal coming-of-age saga remains a bittersweet triumph",
-      "body": "<p>The late director’s sensitive and detailed adaptation of Stephen King’s novella has an authenticity that so many imitators could never replicate</p><p>Coming-of-age metaphors don’t get any blunter than a group of preteen boys following a",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1973 —",
-      "hook": "The Congress of Chile votes in favour of a resolution condemning President Salvador Allende's government and demands that he resign or else be unseated through force and new elections.",
-      "body": "The National Congress of Chile is the legislative branch of the Republic of Chile. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Coat_of_arms_of_Chile_%28c%29.svg/330px-Coat_of_arms_of_Chile_%28c%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/National_Congress_of_Chile"
+      "url": "https://en.wikipedia.org/wiki/Edirne_Incident"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "The Skin I Live In is a 2011 Spanish psychological thriller film written and directed by Pedro Almodóvar, starring Antonio Banderas, Elena Anaya, Marisa Paredes, Jan Cornet and Roberto Álamo.",
-      "body": "It is based on Thierry Jonquet's 1984 novel Mygale, first published in French and then in English under the title Tarantula. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/28/Theskinilivein-poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Hemang Dixit is a Nepalese educator, author, and consultant paediatrician.",
+      "body": "He uses the pseudonyms Mani Acharya and Mani Dixit for his written works. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Skin_I_Live_In"
+      "url": "https://en.wikipedia.org/wiki/Hemang_Dixit"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Celestial Triad is a set of fantasy novels by Traci Harding.",
-      "body": "The story follows a 20th-century Australian woman who is transported to 5th century Wales in an attempt to change the future. The world is stranger than it lets on.",
+      "opener": "Bet you didn't know —",
+      "hook": "A Sparrow from the East is a novel written by Egyptian author Tawfiq al-Hakim in 1938.",
+      "body": "It narrates the life of Muhasin, an Arab, in Paris, France, and his encounter with the Western modernity. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Celestial_Triad"
+      "url": "https://en.wikipedia.org/wiki/A_Sparrow_from_the_East"
     },
     {
       "type": "card",
@@ -121,10 +45,39 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
+      "hook": "Stand By Me at 40: Rob Reiner’s seminal coming-of-age saga remains a bittersweet triumph",
+      "body": "<p>The late director’s sensitive and detailed adaptation of Stephen King’s novella has an authenticity that so many imitators could never replicate</p><p>Coming-of-age metaphors don’t get any blunter than a group of preteen boys following a",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Immolation is the second novel by Goh Poh Seng, a playwright, poet and novelist who was also a practising doctor.",
+      "body": "The book was first published by Heinemann Educational Books (Asia) in 1977 under the Writing in Asia Series and republished by Epigram Books in 2011 under the Singapore Classics Series. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/53/The_Immolation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Immolation"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
       "hook": "‘Embryonic’: lost novel by French film-maker Éric Rohmer is republished",
       "body": "<p>English translation of Élisabeth, the New Wave director’s 1946 book about young lovers in prewar Paris, receives rave reviews as precursor to auteur’s cinematic work</p><p>In the dog days of the second world war, 24-year-old Maurice Sché",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/aug/22/elisabeth-lost-novel-by-french-film-maker-eric-rohmer-is-republished"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1791 —",
+      "hook": "The Haitian slave revolution begins in Saint-Domingue, Haiti.",
+      "body": "Haiti, officially the Republic of Haiti, is a country in the Caribbean on the island of Hispaniola in the Caribbean Sea, east of Cuba and Jamaica and south of The Bahamas. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/330px-Flag_of_Haiti.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Haiti"
     },
     {
       "type": "card",
@@ -137,43 +90,100 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Fly around Schiaparelli Crater with Mars Express",
+      "body": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been ",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "Ruskin Hall recently underwent a $19.4 million conversion and renovation from medical student housing into undergraduate apartment-style housing that opened in 2008.",
+      "body": "Ruskin Hall is a residence hall at the University of Pittsburgh and a contributing property to the Schenley Farms National Historic District. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/RuskinHallPitt.jpg/330px-RuskinHallPitt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ruskin_Hall"
+    },
+    {
+      "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Casanova Brown is a 1944 American comedy romantic film directed by Sam Wood, written by Nunnally Johnson, and starring Gary Cooper, Teresa Wright, and Frank Morgan.",
-      "body": "The film had its world premiere in western France after the Allies had liberated those territories following the D-Day Invasion. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/37/Casanova_Brown_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Enola Holmes Mysteries is a young adult fiction series of detective novels by American author Nancy Springer, starring Enola Holmes as the 14-year-old sister of an already famous Sherlock Holmes, twenty years her senior.",
+      "body": "There are ten books in the series, and one short story all written from 2006–2023. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/TheCaseOfTheMissingMarquess.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Casanova_Brown"
+      "url": "https://en.wikipedia.org/wiki/The_Enola_Holmes_Mysteries"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1972 —",
-      "hook": "Rhodesia is expelled by the IOC for its racist policies.",
-      "body": "Rhodesia, officially the Republic of Rhodesia from 1970 onwards, was an unrecognised state in Southern Africa that existed from 1965 to 1979. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/330px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1978 —",
+      "hook": "Nicaraguan Revolution: The FSLN seizes the National Congress of Nicaragua, along with over a thousand hostages.",
+      "body": "The Nicaraguan Revolution, or Sandinista Revolution was an armed conflict that took place in the Central American country of Nicaragua between 1961 and 1990. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Revoluci%C3%B3n_sandinista.png/330px-Revoluci%C3%B3n_sandinista.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Rhodesia"
+      "url": "https://en.wikipedia.org/wiki/Nicaraguan_Revolution"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1934 —",
-      "hook": "Bill Woodfull of Australia becomes the only test cricket captain to twice regain The Ashes.",
-      "body": "William Maldon Woodfull was an Australian cricketer of the 1920s and 1930s. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bill_Woodfull_1934.jpg/330px-Bill_Woodfull_1934.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1902 —",
+      "hook": "The Cadillac Motor Company is founded.",
+      "body": "Cadillac Motor Car Division, or simply Cadillac, is the luxury vehicle division of the American automobile manufacturer General Motors (GM). One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cadillac_logo_BW.svg/330px-Cadillac_logo_BW.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bill_Woodfull"
+      "url": "https://en.wikipedia.org/wiki/Cadillac"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Meghan reportedly in talks to join Guy Ritchie’s TV series The Gentlemen",
+      "body": "<p>The Duchess of Sussex is said to be discussing a return to acting in the third season of Netflix’s hit crime series</p><p>The Duchess of Sussex is in talks to make her acting return in Netflix’s hit series The Gentlemen.</p><p>According ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/meghan-duchess-of-sussex-guy-ritchie-the-gentlemen"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "From Booker-listed Marlon James to a memoir by Michael Douglas – the biggest books this autumn",
+      "body": "<p>Midlife meditations from Barbara Kingsolver; musical portraits by Jonathan Coe and Yiyun Li; plus memoirs from Dustin Hoffman and Judi Dench – all among the coming season’s highlights</p><p><strong><a href=\"https://guardianbookshop.com/t",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/22/new-autumn-fiction-nonfiction-marlon-james-emma-cline-michael-douglas-dustin-hoffman-judi-dench-yiyun-li"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Mapp and Lucia is a 1931 comic novel written by E.",
+      "body": "It is the fourth of six novels in the popular Mapp and Lucia series, about idle women in the 1920s and their struggle for social dominance over their small communities. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/25/Mapp_and_Lucia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mapp_and_Lucia"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1827 —",
-      "hook": "José de La Mar becomes President of Peru.",
-      "body": "José Domingo de la Merced de La Mar y Cortázar was a Peruvian military leader and politician who served as the third President of Peru. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gran_Mariscal_Jos%C3%A9_de_La_Mar.jpg/330px-Gran_Mariscal_Jos%C3%A9_de_La_Mar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1849 —",
+      "hook": "Passaleão incident: João Maria Ferreira do Amaral, the governor of Portuguese Macau, is assassinated by a group of Chinese locals, triggering a military confrontation between China and Portugal at the Battle of Passaleão three days later.",
+      "body": "The Passaleão incident, also known as the Battle of Passaleão or Baishaling incident, was a conflict between Portugal and China over Macau in August 1849. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chinese_encampment_near_Macao.jpg/330px-Chinese_encampment_near_Macao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_la_Mar"
+      "url": "https://en.wikipedia.org/wiki/Passale%C3%A3o_incident"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1949 —",
+      "hook": "The Queen Charlotte earthquake is Canada's strongest since the 1700 Cascadia earthquake.",
+      "body": "The 1949 Queen Charlotte Islands earthquake struck Haida Gwaii and the Pacific Northwest coast at 8:01 p.m. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1949_Queen_Charlotte_Islands_earthquake"
     }
   ]
 }
