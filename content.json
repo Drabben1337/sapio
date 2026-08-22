@@ -1,35 +1,56 @@
 {
-  "generated": "2026-08-22T02:06:42.930Z",
-  "count": 18,
+  "generated": "2026-08-22T03:30:47.194Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Meghan reportedly in talks to join Guy Ritchie’s TV series The Gentlemen",
-      "body": "<p>The Duchess of Sussex is said to be discussing a return to acting in the third season of Netflix’s hit crime series</p><p>The Duchess of Sussex is in talks to make her acting return in Netflix’s hit series The Gentlemen.</p><p>According ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/meghan-duchess-of-sussex-guy-ritchie-the-gentlemen"
+      "cat": "history",
+      "opener": "On this day in 1978 —",
+      "hook": "The District of Columbia Voting Rights Amendment is passed by the U.S. Congress, although it is never ratified by a sufficient number of states.",
+      "body": "The District of Columbia Voting Rights Amendment was a proposed amendment to the United States Constitution that would have given the District of Columbia full representation in the United States Congress, full representation in the Electoral College system, and full participation in the process by which the Constitution is amended. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/330px-Greater_coat_of_arms_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/District_of_Columbia_Voting_Rights_Amendment"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1827 —",
-      "hook": "José de La Mar becomes President of Peru.",
-      "body": "José Domingo de la Merced de La Mar y Cortázar was a Peruvian military leader and politician who served as the third President of Peru. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gran_Mariscal_Jos%C3%A9_de_La_Mar.jpg/330px-Gran_Mariscal_Jos%C3%A9_de_La_Mar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1962 —",
+      "hook": "The OAS attempts to assassinate French president Charles de Gaulle.",
+      "body": "The Organisation armée secrète was a far-right dissident French paramilitary organisation during the Algerian War, founded in 1961 by Raoul Salan, Pierre Lagaillarde and Jean-Jacques Susini. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Embl%C3%A8me_de_l%27OAS.svg/330px-Embl%C3%A8me_de_l%27OAS.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_la_Mar"
+      "url": "https://en.wikipedia.org/wiki/Organisation_arm%C3%A9e_secr%C3%A8te"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1777 —",
+      "hook": "British forces abandon the Siege of Fort Stanwix after hearing rumors of Continental Army reinforcements.",
+      "body": "The siege of Fort Stanwix began on August 2, 1777, and ended on August 22, 1777. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fost_areal_image007.jpg/330px-Fost_areal_image007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Fort_Stanwix"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "USS Greer (DD–145) was a Wickes-class destroyer in the United States Navy, the first ship named for Rear Admiral James A.",
-      "body": "In what became known as the \"Greer incident,\" she became the first US Navy ship to fire on a German ship, three months before the United States officially entered World War II. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/USS_Greer%3B0514502.jpg/330px-USS_Greer%3B0514502.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "You probably never noticed this —",
+      "hook": "Thiruvellakkulam is a Hindu temple dedicated to Vishnu located in Thirunangur, a village in the outskirts of Sirkazhi in the South Indian state of Tamil Nadu.",
+      "body": "Constructed in the Dravidian style of architecture, the temple is glorified in the Nalayira Divya Prabandham, the early medieval Tamil canon of the Alvar saints from the 6th–9th centuries CE. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Annan_koil.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/USS_Greer"
+      "url": "https://en.wikipedia.org/wiki/Thiruvellakkulam"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1972 —",
+      "hook": "Rhodesia is expelled by the IOC for its racist policies.",
+      "body": "Rhodesia, officially the Republic of Rhodesia from 1970 onwards, was an unrecognised state in Southern Africa that existed from 1965 to 1979. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/330px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Rhodesia"
     },
     {
       "type": "card",
@@ -39,36 +60,6 @@
       "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "A capital asset is defined as property of any kind held by an assessee.",
-      "body": "It need not be connected to the assesse's business or profession. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Capital_asset"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1989 —",
-      "hook": "Nolan Ryan strikes out Rickey Henderson to become the first Major League Baseball pitcher to record 5,000 strikeouts.",
-      "body": "Lynn Nolan Ryan Jr., nicknamed \"the Ryan Express\", is an American former professional baseball pitcher and sports executive. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nolan_Ryan_Tiger_Stadium_1990_CROP.jpg/330px-Nolan_Ryan_Tiger_Stadium_1990_CROP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Nolan_Ryan"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1992 —",
-      "hook": "FBI sniper Lon Horiuchi shoots and kills Vicki Weaver during an 11-day siege at her home at Ruby Ridge, Idaho.",
-      "body": "The Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the United States and its principal federal law enforcement agency. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/New_seal_of_the_Federal_Bureau_of_Investigation.svg/330px-New_seal_of_the_Federal_Bureau_of_Investigation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation"
     },
     {
       "type": "card",
@@ -82,21 +73,62 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Sylvia Fine Kaye was an American lyricist, composer, and producer.",
-      "body": "Many of her compositions and productions were performed by her husband, comedian Danny Kaye. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Sylvia_Fine_in_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Terminal City was the name of a free independent weekly magazine created by Darren Atwater and Dave Holden from the ashes of AF Magazine.",
+      "body": "The magazine was started in 1992. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sylvia_Fine"
+      "url": "https://en.wikipedia.org/wiki/Terminal_City_(magazine)"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+      "cat": "history",
+      "opener": "On this day in 1949 —",
+      "hook": "The Queen Charlotte earthquake is Canada's strongest since the 1700 Cascadia earthquake.",
+      "body": "The 1949 Queen Charlotte Islands earthquake struck Haida Gwaii and the Pacific Northwest coast at 8:01 p.m. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1949_Queen_Charlotte_Islands_earthquake"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2006 —",
+      "hook": "Pulkovo Aviation Enterprise Flight 612 crashes near the Russian border over eastern Ukraine, killing all 170 people on board.",
+      "body": "Pulkovo Aviation Enterprise Flight 612 was a scheduled passenger flight operated by Saint Petersburg–based airline Pulkovo Aviation Enterprise, flying from Anapa Airport to Pulkovo Airport in Saint Petersburg. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tupolev_Tu-154M%2C_Pulkovo_Airlines_AN0494483.jpg/330px-Tupolev_Tu-154M%2C_Pulkovo_Airlines_AN0494483.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Aviation_Enterprise_Flight_612"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Tales of The Smiths is a graphic novel biography about the early years of the seminal indie band The Smiths by multidisciplinary creator Con Chrisoulis.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/Tales_of_The_Smiths.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tales_of_The_Smiths"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Balázs Pándi is a Hungarian drummer and journalist.",
+      "body": "He has worked and toured with various acts from all around the world including Venetian Snares, Otto von Schirach, To Live and Shave in L.A., The Kilimanjaro Darkjazz Ensemble and Zu. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Merzbow_%26_P%C3%A1ndi_Bal%C3%A1zs.jpg/330px-Merzbow_%26_P%C3%A1ndi_Bal%C3%A1zs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bal%C3%A1zs_P%C3%A1ndi"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It contains a pipe organ built in 1731 to the designs of Gottfried Silbermann.",
+      "body": "The Church of Reinhardtsgrimma is a Lutheran parish church in Reinhardtsgrimma, a part of Glashütte in Sächsische Schweiz-Osterzgebirge in Saxony, Germany. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/20130314240MDR_Reinhardtsgrimma_Dorfkirche.jpg/330px-20130314240MDR_Reinhardtsgrimma_Dorfkirche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Church_of_Reinhardtsgrimma"
     },
     {
       "type": "card",
@@ -110,61 +142,11 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "body": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The O'Reilly Factor for Kids: A Survival Guide for America's Youth is a book written by Fox News Channel commentator Bill O'Reilly.",
-      "body": "It was published in 2004 and covers issues that kids face in their teenage years, such as drugs, sexual intercourse, money, smoking, alcohol and friends. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/75/The_O%27Reilly_Factor_for_Kids.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_O'Reilly_Factor_for_Kids"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Naugatuck River Review (NRR) is an American national literary magazine named after the Naugatuck River in Connecticut.",
-      "body": "Founded in 2008, it publishes narrative poetry. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Naugatuck_River_Review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1902 —",
-      "hook": "The Cadillac Motor Company is founded.",
-      "body": "Cadillac Motor Car Division, or simply Cadillac, is the luxury vehicle division of the American automobile manufacturer General Motors (GM). The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cadillac_logo_BW.svg/330px-Cadillac_logo_BW.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Cadillac"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2003 —",
-      "hook": "Chief Justice of the Supreme Court of Alabama Roy Moore is suspended after refusing to comply with a federal court order to remove a rock inscribed with the Ten Commandments from the lobby of the Alabama Supreme Court building.",
-      "body": "Following is a list of the justices of the Supreme Court of Alabama. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/List_of_justices_of_the_Supreme_Court_of_Alabama"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1770 —",
-      "hook": "James Cook names and lands on Possession Island, and claims the east coast of Australia for Britain as New South Wales.",
-      "body": "Captain James Cook was a British Royal Navy officer, explorer, and cartographer who led three voyages of exploration to the Pacific and Southern Oceans between 1768 and 1779. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/330px-Captainjamescookportrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/James_Cook"
+      "opener": "The Guardian · Culture —",
+      "hook": "Meghan reportedly in talks to join Guy Ritchie’s TV series The Gentlemen",
+      "body": "<p>The Duchess of Sussex is said to be discussing a return to acting in the third season of Netflix’s hit crime series</p><p>The Duchess of Sussex is in talks to make her acting return in Netflix’s hit series The Gentlemen.</p><p>According ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/meghan-duchess-of-sussex-guy-ritchie-the-gentlemen"
     },
     {
       "type": "card",
@@ -174,6 +156,34 @@
       "body": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been ",
       "src": "ESA",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Hans-Joachim Queisser was a German solid-state physicist.",
+      "body": "He was best known for co-authoring the 1961 work on solar cells that detailed what is today known as the Shockley–Queisser limit, now considered the key contribution in this field. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hans-JoachimQueisser1995.jpg/330px-Hans-JoachimQueisser1995.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hans-Joachim_Queisser"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Paramount reps, California AG reportedly schedule talks",
+      "body": "Rob Bonta is one of 12 state attorneys general that are seeking to block the $111bn merger with Warner Bros Discovery.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/paramount-reps-california-ag-reportedly-schedule-talks/5219615.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "body": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
