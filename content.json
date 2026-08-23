@@ -1,84 +1,7 @@
 {
-  "generated": "2026-08-22T23:08:01.907Z",
-  "count": 26,
+  "generated": "2026-08-23T00:28:32.719Z",
+  "count": 19,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Spa Weekend review – female answer to The Hangover spreads the slush with the massage oil",
-      "body": "<p>Despite stars Leslie Mann, Anna Faris and Isla Fisher and the writers behind The Hangover, this tale of friends at a luxury hotel is a dud</p><p>Jon Lucas and Scott Moore are the screenwriters who struck gold nearly 20 years ago with The",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/21/spa-weekend-review-comedy"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1963 —",
-      "hook": "X-15 Flight 91 reaches the highest altitude of the X-15 program (107.96 km (67.08 mi) (354,200 feet)).",
-      "body": "X-15 Flight 91 was an August 22, 1963 American crewed sub-orbital spaceflight, and the second and final flight in the program to fly above the Kármán line, which was previously achieved during Flight 90 a month earlier by the same pilot, Joseph A. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Joseph_Albert_Walker.jpg/330px-Joseph_Albert_Walker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/X-15_Flight_91"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Davis 'grateful' for support over cancer diagnosis",
-      "body": "The Office star was appearing at convention in London, less than two weeks after announcing her condition.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "There are 3 drums, each one divided into three sections, giving players a maximum of nine places to hit.",
-      "body": "Mambo a Go Go, is a music video game produced by Konami as part of their BEMANI franchise of games. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%E3%83%9E%E3%83%B3%E3%83%9C%E3%83%BB%E3%82%A2%E3%83%BBGOGO.JPG/330px-%E3%83%9E%E3%83%B3%E3%83%9C%E3%83%BB%E3%82%A2%E3%83%BBGOGO.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mambo_a_Go_Go"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Amphidromus xiengensis is a species of land snail in the family Camaenidae.",
-      "body": "It is endemic to Southeast Asia with records from Thailand, Cambodia, and Laos. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Amphidromus_xiengensis.png/330px-Amphidromus_xiengensis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Amphidromus_xiengensis"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Olfert Fischers Gade is a street in the Nyboder Quarter of central Copenhagen, Denmark and is named after the naval officer Olfert Fischer who commanded the Danish fleet in the Battle of Copenhagen in 1801.",
-      "body": "It runs from Store Kongensgade in the east to Rigensgade in the west, intersecting the streets Borgergade, Adelgade/Sankt Pauls Plads, Gammelvagt and Kronprinsessegade on the way. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Olfert_Fischers_Gade_%28Copenhagen%29.jpg/330px-Olfert_Fischers_Gade_%28Copenhagen%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Olfert_Fischers_Gade"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Super Troopers 3 review – misfiring cop comedy threequel",
-      "body": "<p>The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence</p><p>Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -87,46 +10,6 @@
       "body": "<p>A teasing tale of the friendship between a writer and an actor explores the fallout from fame, and the blurring between pretence and reality</p><p>M<strong> </strong>is a celebrated film actor. A star since childhood, now the face of a m",
       "src": "The Guardian · Books",
       "url": "https://www.theguardian.com/books/2026/aug/21/life-of-m-by-rachel-cusk-review-is-this-story-of-a-film-star-based-on-natalie-portman"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1654 —",
-      "hook": "Jacob Barsimson arrives in New Amsterdam. He is the first known Jewish immigrant to America.",
-      "body": "Jacob Barsimson was one of the earliest Jewish settlers at New Amsterdam and the earliest identified Jewish settler within the present limits of the state of New York. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jacob_Barsimson"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1485 —",
-      "hook": "The Battle of Bosworth Field occurs; King Richard III of England's death in battle marks the end of the reigning Plantagenet dynasty and the beginning of the Tudors under Henry VII.",
-      "body": "The Battle of Bosworth or Bosworth Field was the last significant battle of the Wars of the Roses, the civil war between the houses of Lancaster and York that extended across England and Wales in the latter half of the 15th century. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Battle_of_Bosworth_by_Philip_James_de_Loutherbourg.jpg/330px-Battle_of_Bosworth_by_Philip_James_de_Loutherbourg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
     },
     {
       "type": "card",
@@ -139,33 +22,149 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Jesse Richman is an associate professor of political science and geography at Old Dominion University.",
-      "body": "His research has focused on legislative politics, public opinion, electoral politics, and intellectual property. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jesse_Richman_(academic)"
+      "cat": "history",
+      "opener": "On this day in 2011 —",
+      "hook": "Libyan leader Muammar Gaddafi is overthrown after the National Transitional Council forces take control of Bab al-Azizia compound during the Libyan Civil War.",
+      "body": "Muammar Muhammad Abu Minyar al-Gaddafi was a Libyan military officer, revolutionary, politician, and political theorist who ruled Libya as a dictator from 1969 until his overthrow by Libyan rebel forces in 2011 during the First Libyan Civil War. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/330px-Muammar_al-Gaddafi_at_the_AU_summit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Muammar_Gaddafi"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Super Troopers 3 review – misfiring cop comedy threequel",
+      "body": "<p>The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence</p><p>Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1827 —",
-      "hook": "José de La Mar becomes President of Peru.",
-      "body": "José Domingo de la Merced de La Mar y Cortázar was a Peruvian military leader and politician who served as the third President of Peru. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gran_Mariscal_Jos%C3%A9_de_La_Mar.jpg/330px-Gran_Mariscal_Jos%C3%A9_de_La_Mar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1975 —",
+      "hook": "The Pontiac Silverdome opens in Pontiac, Michigan, 30 miles (48 km) northwest of Detroit, Michigan",
+      "body": "The Pontiac Silverdome was a multi-purpose stadium in Pontiac, Michigan, United States. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Silverdome_2.jpg/330px-Silverdome_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_la_Mar"
+      "url": "https://en.wikipedia.org/wiki/Pontiac_Silverdome"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1914 —",
+      "hook": "World War I: Japan declares war on Germany.",
+      "body": "Japan participated in World War I from 1914 to 1918 as a member of the Allies/Entente and played an important role against the Imperial German Navy. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Japan_during_World_War_I"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1775 —",
+      "hook": "American Revolutionary War: King George III delivers his Proclamation of Rebellion to the Court of St James's stating that the American colonies have proceeded to a state of open and avowed rebellion.",
+      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Camelot is a musical with music by Frederick Loewe and lyrics and a book by Alan Jay Lerner.",
+      "body": "It is based on the legend of King Arthur as adapted from the 1958 novel The Once and Future King by T. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Camelot_Original_Cast_Recording.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Camelot_(musical)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Spa Weekend review – female answer to The Hangover spreads the slush with the massage oil",
+      "body": "<p>Despite stars Leslie Mann, Anna Faris and Isla Fisher and the writers behind The Hangover, this tale of friends at a luxury hotel is a dud</p><p>Jon Lucas and Scott Moore are the screenwriters who struck gold nearly 20 years ago with The",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/21/spa-weekend-review-comedy"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Widow’s Children is a novel by American writer Paula Fox, first published in 1976.",
+      "body": "The book evoked bewilderment as well as praise when first published. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/91/Widows_Children_book_jacket.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Widow's_Children"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 79 —",
+      "hook": "Mount Vesuvius begins stirring, on the feast day of Vulcan, the Roman god of fire.",
+      "body": "AD 79 (LXXIX) was a common year starting on Friday of the Julian calendar. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Agricola.Campaigns.78.84.jpg/330px-Agricola.Campaigns.78.84.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/AD_79"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The transmitter for KWIN is off California State Route 99 at Cora Post Road in Lodi.",
+      "body": "KWIN and KWNN (98.3 FM) is a pair of commercial radio stations serving the Stockton and Modesto sections of California's Central Valley. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/KWIN_logo.png/330px-KWIN_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/KWIN"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Emperor of Nihon-Ja is the tenth installment of the Ranger's Apprentice book series by Australian author John Flanagan.",
+      "body": "The book was released in Australia on 1 November 2010, in New Zealand on 5 November 2010, and in the United States on 16 April 2011. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e8/The_Emperor_of_Nihon-Ja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Emperor_of_Nihon-Ja"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Drive-in cinemas are rare these days. But the last one in Melbourne’s north still draws a faithful crowd",
+      "body": "<p>The drive-in demands little of its audience. You can lie down, bring your dog and talk without fear of being hushed. <strong>Mridula Amin </strong>spent a night at one of the last of a dying breed</p><p>Between a funeral parlour and a si",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/23/australia-drive-in-cinemas-melbourne-coburg"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Westward Passage is a 1932 American pre-Code drama film directed by Robert Milton and starring Ann Harding, Laurence Olivier, ZaSu Pitts and Irving Pichel.",
+      "body": "The screenplay concerns a woman who falls in love and marries, but soon discovers how unpleasant her new husband is. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b3/Westward_Passage_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Westward_Passage"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Davis 'grateful' for support over cancer diagnosis",
+      "body": "The Office star was appearing at convention in London, less than two weeks after announcing her condition.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Awkward is a 2015 children's graphic novel written by Svetlana Chmakova.",
+      "body": "The book tells the story of Penelope \"Peppi\" Torres, a new student at Berrybrook Middle School, whose first encounter with a boy from the science club leads to much awkwardness between them, and their sparring clubs. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/Awkward_%28Chmakova%2C_2015%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Awkward_(graphic_novel)"
     },
     {
       "type": "card",
@@ -178,82 +177,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Hidden museum gallery to reopen after 83 years",
-      "body": "The gallery, which has been closed since 1943, will reopen from 16 September.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cr59grpzqgeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Fieldsboro is a borough in Burlington County, in the U.S.",
-      "body": "As of the 2020 United States census, the borough's population was 526, a decrease of 14 (−2.6%) from the 2010 census count of 540, which in turn reflected an increase of 18 (+3.4%) from the 522 counted in the 2000 census. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fieldsboro%2C_NJ.jpg/330px-Fieldsboro%2C_NJ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fieldsboro%2C_New_Jersey"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Alva Revista Fitch was a lieutenant general in the United States Army and was deputy director of Defense Intelligence Agency from 1964 to 1966.",
-      "body": "He commanded an artillery battalion during the Battle of Bataan and was a prisoner of war from 1942 to 1945. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AR_Fitch_1966.JPG/330px-AR_Fitch_1966.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Alva_R._Fitch"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "In 2022, the first part of the motorway was open for public traffic, from Smokovac near Podgorica to Mateševo near Kolašin.",
-      "body": "The A-1 motorway, called Princess Xenia motorway, named after the Princess Xenia of Montenegro, first female driver in the Balkans, is a motorway in Montenegro. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wegschild_Montenegro_A-1.svg/330px-Wegschild_Montenegro_A-1.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A-1_motorway_(Montenegro)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1985 —",
-      "hook": "British Airtours Flight 28M suffers an engine fire during takeoff at Manchester Airport. The pilots abort but due to inefficient evacuation procedures 55 people are killed, mostly from smoke inhalation.",
-      "body": "The 1985 Manchester Airport disaster occurred when British Airtours Flight 28M, an international passenger flight, was en route from Manchester Airport to Corfu International Airport. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/BrAirtours_28M_8-1988_B.jpg/330px-BrAirtours_28M_8-1988_B.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1994 —",
+      "hook": "Eugene Bullard, the only African American pilot in World War I, is posthumously commissioned as Second Lieutenant in the United States Air Force.",
+      "body": "Eugene Jacques Bullard was one of the first African-American military pilots, although Bullard flew for France, not the United States. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eugene_Jacques_Bullard%2C_first_African_American_combat_pilot_in_uniform%2C_First_World_War.jpg/330px-Eugene_Jacques_Bullard%2C_first_African_American_combat_pilot_in_uniform%2C_First_World_War.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1985_Manchester_Airport_disaster"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "'Dr Marcus Conyers' is an author and developer of graduate degree programs focused on improving leading and learning by bridging mind, brain, and implementation research to practice.",
-      "body": "Conyers is the coauthor, with Donna Wilson, of 20 books in this field, including Smarter Teacher Leadership: Neuroscience and the Power of Purposeful Collaboration, Teaching Students to Drive Their Brains: Metacognitive Strategies, Activities and Lesson Ideas,",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marcus_Conyers"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1846 —",
-      "hook": "The Second Federal Republic of Mexico is established.",
-      "body": "The Second Federal Republic of Mexico refers to the period of Mexican history involving a second attempt to establish a federal government in Mexico after the fall of the unitary Centralist Republic of Mexico in 1846 at the start of the Mexican–American War. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Segunda_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg/330px-Bandera_de_la_Segunda_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Second_Federal_Republic_of_Mexico"
+      "url": "https://en.wikipedia.org/wiki/Eugene_Bullard"
     }
   ]
 }
