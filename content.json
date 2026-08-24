@@ -1,160 +1,76 @@
 {
-  "generated": "2026-08-24T14:29:08.328Z",
-  "count": 18,
+  "generated": "2026-08-24T15:26:29.386Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
-      "body": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The 453d Electronic Warfare Squadron is a United States Air Force unit.",
+      "body": "It is assigned to the 850th Spectrum Warfare Group and is stationed at Joint Base Lackland-San Antonio, Texas. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Last_flight_of_T-43.jpg/330px-Last_flight_of_T-43.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/453d_Electronic_Warfare_Squadron"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Paduka Sri Sultan Mudzaffar Shah I, styled Phra Ong Mahawangsa was a legendary king and was said to be the first sultan of Kedah, according to the Hikayat Merong Mahawangsa.",
+      "body": "He was the last Hindu king of Langkasuka, styled Sri Paduka Maharaja Durbar Raja before his accession. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mudzaffar_Shah_I_of_Kedah"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1608 —",
+      "hook": "The first official English representative to India lands in Surat.",
+      "body": "Surat is a city in the western Indian state of Gujarat. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bharthana_Althan_area.jpg/330px-Bharthana_Althan_area.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Surat"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Mikhail Gorbachev resigns as head of the Communist Party of the Soviet Union.",
+      "body": "Mikhail Sergeyevich Gorbachev was a Soviet and Russian politician who was the last leader of the Soviet Union from 1985 until the country's dissolution in 1991. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg/330px-RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "The Verdendorps is a satirical roman à clef novel about the Vanderbilt family, told from the point of view of Basil Verdendorp, a stand-in for Cornelius Jeremiah Vanderbilt.",
-      "body": "Written by Charles Marshal Hertig, a former secretary for Cornelius Vanderbilt II, the novel was published in May 1880, with the author listed as Basil Verdendorp himself. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "Danny Sanderson is an Israeli musician, singer-songwriter and guitarist.",
+      "body": "In 2005, Sanderson received a lifetime achievement award for his contribution to Israeli music. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Danny_Sanderson.jpg/330px-Danny_Sanderson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Verdendorps"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1911 —",
-      "hook": "Manuel de Arriaga is elected and sworn in as the first President of Portugal.",
-      "body": "Manuel José de Arriaga Brum da Silveira e Peyrelongue was a Portuguese lawyer who served as the first president of Portugal from 1911 to 1915. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Manuel_de_Arriaga._1912.jpg/330px-Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Manuel_de_Arriaga._1912.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Manuel_de_Arriaga"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Hidden museum gallery to reopen after 83 years",
-      "body": "The gallery, which has been closed since 1943, will reopen from 16 September.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cr59grpzqgeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Johnny Reb and Billy Yank is a novel first published in 1905 by Alexander Hunter, a Confederate soldier who served in the 17th Virginia Infantry and the 4th Virginia Cavalry from 1861 to 1865.",
-      "body": "The novel is noted for encapsulating most of the major events of the American Civil War, due to Hunter's involvement in the war. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Johnny_Reb_and_Billy_Yank_%281905%29_%2814576243627%29.jpg/330px-Johnny_Reb_and_Billy_Yank_%281905%29_%2814576243627%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Johnny_Reb_and_Billy_Yank_(book)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Fly around Schiaparelli Crater with Mars Express",
-      "body": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been ",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Raymond Abrashkin was an American writer and filmmaker.",
-      "body": "He is known for writing, co-producing, and co-directing Little Fugitive and for co-creating and co-writing with Jay Williams the Danny Dunn series of science fiction books for children. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Raymond_Abrashkin"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1950 —",
-      "hook": "Edith Sampson becomes the first black U.S. delegate to the United Nations.",
-      "body": "Edith Spurlock Sampson was an American lawyer, diplomat and civil rights advocate known for being the first African American to officially represent the United States at the United Nations, appointed in 1950. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Edith_Sampson.jpg/330px-Edith_Sampson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Edith_S._Sampson"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "From Booker-listed Marlon James to a memoir by Michael Douglas – the biggest books this autumn",
-      "body": "<p>Midlife meditations from Barbara Kingsolver; musical portraits by Jonathan Coe and Yiyun Li; plus memoirs from Dustin Hoffman and Judi Dench – all among the coming season’s highlights</p><p><strong><a href=\"https://guardianbookshop.com/t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/22/new-autumn-fiction-nonfiction-marlon-james-emma-cline-michael-douglas-dustin-hoffman-judi-dench-yiyun-li"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
-      "body": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Danny_Sanderson"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Ancestor is a science fiction thriller novel by American writer Scott Sigler.",
-      "body": "The novel was released in podcast format in 2006, with it also being released in print via Dragon Moon Press in 2007. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/AncestorCoverSigler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Anas Alam Faizli, known as Anas, is one of the most prominent leaders in the COVID-19 vaccination program in Malaysia, a Malaysian healthcare and pharmaceutical business leader, a construction and oil and gas professional, and an author.",
+      "body": "He also co-founded several non-governmental organisations and an economic research think tank. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/NrgTalk_Interview.jpg/330px-NrgTalk_Interview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ancestor_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Anas_Alam_Faizli"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1743 —",
-      "hook": "The War of the Hats: The Swedish army surrenders to the Russians in Helsinki, ending the war and starting Lesser Wrath.",
-      "body": "The Russo-Swedish War of 1741–1743 was instigated by the Hats, a Swedish political party that aspired to regain the territories lost to Russia during the Great Northern War, and by French diplomacy, which sought to divert Russia's attention from supporting its long-standing ally the Habsburg monarchy in the War of the Austrian Succession. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Th%C3%A9atre_de_la_Guerre_en_Finlande_-_1742.jpg/330px-Th%C3%A9atre_de_la_Guerre_en_Finlande_-_1742.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1781 —",
+      "hook": "American Revolutionary War: A small force of Pennsylvania militia is ambushed and overwhelmed by an American Indian group, which forces George Rogers Clark to abandon his attempt to attack Detroit.",
+      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Russo-Swedish_War_(1741%E2%80%931743)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Noli Me Tangere is an opera in 3 acts by Felipe Padilla de León with libretto by Guillermo Tolentino.",
-      "body": "The opera was closely based on a novel by José Rizal by the same name. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Felipe_Padilla_de_Leon_2012_stamp_of_the_Philippines.jpg/330px-Felipe_Padilla_de_Leon_2012_stamp_of_the_Philippines.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Noli_Me_Tangere_(opera)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "World War I: The Battle of Cer ends as the first Allied victory in the war.",
-      "body": "The Battle of Cer was a military campaign fought between Austria-Hungary and Serbia in August 1914, starting three weeks into the Serbian Campaign of 1914, the initial military action of the First World War. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Battle_of_Cer.jpg/330px-Battle_of_Cer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Cer"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2010 —",
-      "hook": "In San Fernando, Tamaulipas, Mexico, 72 illegal immigrants are killed by Los Zetas and eventually found dead by Mexican authorities.",
-      "body": "San Fernando is a city located in the Mexican state of Tamaulipas; it serves as the seat of the surrounding municipality of the same name. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Presidensia_Municipal_San_Fernando%2C_Tamaulipas.jpg/330px-Presidensia_Municipal_San_Fernando%2C_Tamaulipas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/San_Fernando%2C_Tamaulipas"
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
     },
     {
       "type": "card",
@@ -167,13 +83,117 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Why banishing irrational numbers could trigger a revolution in quantum theory",
+      "body": "Irrational numbers have underpinned quantum mechanics for a century. Removing them could eliminate its strangest features and trigger the biggest upheaval in physics since quantum theory began",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2584541-why-banishing-irrational-numbers-could-trigger-a-revolution-in-quantum-theory/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1482 —",
-      "hook": "The town and castle of Berwick-upon-Tweed is captured from Scotland by an English army.",
-      "body": "In July 1482, an English army invaded Scotland during the Anglo-Scottish Wars. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "On this day in 1950 —",
+      "hook": "Edith Sampson becomes the first black U.S. delegate to the United Nations.",
+      "body": "Edith Spurlock Sampson was an American lawyer, diplomat and civil rights advocate known for being the first African American to officially represent the United States at the United Nations, appointed in 1950. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Edith_Sampson.jpg/330px-Edith_Sampson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/English_invasion_of_Scotland_(1482)"
+      "url": "https://en.wikipedia.org/wiki/Edith_S._Sampson"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Alice Roberts: ‘By the time I’d finished Richard Dawkins I’d left faith behind’",
+      "body": "<p>The TV presenter and author on the evolutionary biologists who inspired her, the genius of George Eliot – and fun with Frog and Toad</p><p><strong>My earliest reading memory<br></strong>The first books I remember were from The Village wi",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/21/alice-roberts-by-the-time-id-finished-richard-dawkins-id-left-faith-behind"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Clifford Donald Simak was an American science fiction writer and journalist.",
+      "body": "He won three Hugo Awards and one Nebula Award. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ef/Clifford_Simak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clifford_D._Simak"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Gréco Casadesus is a French composer who composes film scores.",
+      "body": "Born in Paris to a large family of artists, he has composed over a hundred musical creations for television, cinema, performances, and theatre. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Casadesus_Portrait_NoiretBlanc_large.jpg/330px-Casadesus_Portrait_NoiretBlanc_large.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gr%C3%A9co_Casadesus"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Davis 'grateful' for support over cancer diagnosis",
+      "body": "The Office star was appearing at convention in London, less than two weeks after announcing her condition.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Life of M by Rachel Cusk review – is this story of a film star based on Natalie Portman?",
+      "body": "<p>A teasing tale of the friendship between a writer and an actor explores the fallout from fame, and the blurring between pretence and reality</p><p>M<strong> </strong>is a celebrated film actor. A star since childhood, now the face of a m",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/21/life-of-m-by-rachel-cusk-review-is-this-story-of-a-film-star-based-on-natalie-portman"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1898 —",
+      "hook": "Count Muravyov, Foreign Minister of Russia presents a rescript that convoked the First Hague Peace Conference.",
+      "body": "Count Mikhail Nikolayevich Muravyov was a Russian statesman who advocated transferring the attention of Russian foreign policy from Europe to the Far East. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Muraviov_Mikhail_%281845-1900%29.jpg/330px-Muraviov_Mikhail_%281845-1900%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mikhail_Nikolayevich_Muravyov"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "However, according to the American Meteorological Society, there are \"conflicting conventions as to whether all three [...] are referred to as light, or whether that term should only be applied to the visible portion of the spectrum\".",
+      "body": "Sunlight is the portion of the electromagnetic radiation which is emitted by the Sun and received by the Earth, in particular the visible light perceptible to the human eye as well as invisible infrared and ultraviolet lights. Worth a quiet trip down the rabbi",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/STS-134_EVA4_view_to_the_Russian_Orbital_Segment.jpg/330px-STS-134_EVA4_view_to_the_Russian_Orbital_Segment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sunlight"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "From Booker-listed Marlon James to a memoir by Michael Douglas – the biggest books this autumn",
+      "body": "<p>Midlife meditations from Barbara Kingsolver; musical portraits by Jonathan Coe and Yiyun Li; plus memoirs from Dustin Hoffman and Judi Dench – all among the coming season’s highlights</p><p><strong><a href=\"https://guardianbookshop.com/t",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/22/new-autumn-fiction-nonfiction-marlon-james-emma-cline-michael-douglas-dustin-hoffman-judi-dench-yiyun-li"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: Allied troops begin the attack on Paris.",
+      "body": "The Liberation of Paris was a battle that took place during World War II from 19 August 1944 until the German garrison surrendered the French capital on 25 August 1944. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg/330px-Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Liberation_of_Paris"
     }
   ]
 }
