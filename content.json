@@ -1,24 +1,65 @@
 {
-  "generated": "2026-08-24T20:14:44.950Z",
-  "count": 10,
+  "generated": "2026-08-24T21:16:22.090Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
-      "body": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Sylvia Casares is a Mexican-American chef, restaurateur, and cookbook author based in Houston, Texas.",
+      "body": "She is recognized for her focus on the regional cuisines of South Texas, particularly Tex-Mex, and has documented these traditions through her restaurants and published works. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Chef_Sylvia_Casares_%28cropped%29.jpg/330px-Chef_Sylvia_Casares_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sylvia_Casares"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1981 —",
+      "hook": "Mark David Chapman is sentenced to 20 years to life in prison for murdering John Lennon.",
+      "body": "Mark David Chapman is an American man who murdered musician John Lennon in New York City on December 8, 1980. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mark_David_Chapman%2C_NYPD_mugshot.jpg/330px-Mark_David_Chapman%2C_NYPD_mugshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mark_David_Chapman"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "In the 1856 Chicago mayoral election, Thomas Dyer defeated former mayor Francis Cornwall Sherman.",
+      "body": "The race was shaped by the divisive national political debate surrounding the issue of slavery, particularly debate surrounding the controversial Kansas–Nebraska Act, and the election was treated by many as a referendum on it. Bring it up somewhere. Watch the ",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Seal_of_Illinois.svg/330px-Seal_of_Illinois.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1856_Chicago_mayoral_election"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Disappearers by Marlon James review – a scorching exposé of homophobia in Jamaica",
-      "body": "<p>This Booker-listed epic set in Aids-era Kingston is a triumph – bitter, bawdy and ravishingly queer</p><p>“A sense of sweep,” replied Marlon James, when asked what moves him most in literature. “Sweep isn’t just about external journeys, ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/24/the-disappearers-by-marlon-james-review-a-scorching-expose-of-homophobia-in-jamaica"
+      "opener": "Screen Daily —",
+      "hook": "Paramount, California attorney general cancel settlement talks",
+      "body": "Rob Bonta said Paramount were ”demonstrating a lack of good faith”.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/paramount-california-attorney-general-cancel-settlement-talks/5219624.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1929 —",
+      "hook": "Second day of two-day Hebron massacre during the 1929 Palestine riots: Arab attacks on the Jewish community in Hebron in the British Mandate of Palestine, result in the death of 65–68 Jews; the remaining Jews are forced to flee the city.",
+      "body": "Sixty-seven or sixty-nine Jews were massacred on 24 August 1929 in Hebron, Mandatory Palestine. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1929_Hebron_massacre_infobox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1929_Hebron_massacre"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1989 —",
+      "hook": "Colombian drug barons declare \"total war\" on the Colombian government.",
+      "body": "Colombia, officially the Republic of Colombia, is a country located in South America, with insular regions in North America. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/330px-Flag_of_Colombia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Colombia"
     },
     {
       "type": "card",
@@ -32,39 +73,11 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "On Different Grounds review – Cupid’s-conspiracy romcom brings Nollywood and Bollywood together",
-      "body": "<p>Mildred Okwo’s earnest film about the conflicting romantic wishes in a Nigerian family struggles to connect with its promising premise</p><p>It’s a stretch for this Nigerian romcom to bill itself “the first Nollywood-Bollywood collaborat",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/24/on-different-grounds-review-nollywood-bollywood"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Betrayal by Luke Harding review – could Donald Trump be a Russian asset?",
-      "body": "<p>A Guardian correspondent’s sobering account of the US betrayal of Ukraine – and the possible reasons behind it</p><p>American presidents have struggled to get the measure of Vladimir Putin. When George W Bush met him in 2001, he reported",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/24/betrayal-by-luke-harding-review-is-donald-trump-a-russian-asset"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Mark Ruffalo fires back at Paramount Skydance after it accuses him of using ‘antisemitic tropes’",
-      "body": "<p>Actor says highlighting role of Oracle CEO Larry Ellison in media company’s merger with Warner Bros Discovery has been ‘dishonestly framed as being anti-Israel’</p><p>Mark Ruffalo has fired back at Paramount Skydance after the media comp",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/24/mark-ruffalo-fires-back-paramount-oracle-accused-antisemitic-tropes-israel"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Paishachi or Paisaci is a largely unattested literary language of the middle kingdoms of India mentioned in Prakrit and Sanskrit grammars of antiquity.",
-      "body": "It is generally grouped with the Prakrits, with which it shares some linguistic similarities, but is still not considered a spoken Prakrit by the grammarians because it was purely a literary language, and because of its archaicism. Bring it up somewhere. Watch",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Paishachi"
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ flies past $2.2bn at worldwide box office; ‘The Odyssey’ sails towards $1.5bn",
+      "body": "‘Brand New Day’ is now the sixth-biggest film of all time.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-flies-past-22bn-at-worldwide-box-office-the-odyssey-sails-towards-15bn/5219618.article"
     },
     {
       "type": "card",
@@ -77,23 +90,90 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Son of Fury: The Story of Benjamin Blake is a 1942 American south seas adventure film directed by John Cromwell and starring Tyrone Power.",
-      "body": "The film was adapted from Edison Marshall's 1941 historical novel Benjamin Blake. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/SonofFuryposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Son_of_Fury%3A_The_Story_of_Benjamin_Blake"
+      "cat": "history",
+      "opener": "On this day in 1215 —",
+      "hook": "Pope Innocent III issues a bull declaring Magna Carta invalid.",
+      "body": "Pope Innocent III was the head of the Catholic Church and sovereign of the Papal States from 8 January 1198 until his death in 1216. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pope_Innocent_III_%28Monastery_of_Subiaco%29.jpg/330px-Pope_Innocent_III_%28Monastery_of_Subiaco%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pope_Innocent_III"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Last Human is the title of a 1995 science fiction comedy novel written by Doug Naylor.",
-      "body": "It is part of the Red Dwarf series of novels, based on the popular television show created by Naylor and his partner Rob Grant. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Last_Human_novel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Hollow Men is a 2006 book written by Nicky Hager about the election strategies used by the New Zealand National Party during New Zealand's 2005 general election.",
+      "body": "The book has been adapted into a stage play, and filmed as a documentary. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/The_Hollow_Men_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Last_Human"
+      "url": "https://en.wikipedia.org/wiki/The_Hollow_Men_(book)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "On Different Grounds review – Cupid’s-conspiracy romcom brings Nollywood and Bollywood together",
+      "body": "<p>Mildred Okwo’s earnest film about the conflicting romantic wishes in a Nigerian family struggles to connect with its promising premise</p><p>It’s a stretch for this Nigerian romcom to bill itself “the first Nollywood-Bollywood collaborat",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/24/on-different-grounds-review-nollywood-bollywood"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1911 —",
+      "hook": "Manuel de Arriaga is elected and sworn in as the first President of Portugal.",
+      "body": "Manuel José de Arriaga Brum da Silveira e Peyrelongue was a Portuguese lawyer who served as the first president of Portugal from 1911 to 1915. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Manuel_de_Arriaga._1912.jpg/330px-Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Manuel_de_Arriaga._1912.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Manuel_de_Arriaga"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Lismore Crozier is an Irish Insular-type crozier dated to between 1100 and 1113 AD.",
+      "body": "It consists of a wooden tubular staff lined with copper-alloy plates; embellished with silver, gold, niello and glass; and capped by a crook with a decorative openwork crest. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lismore_Crozier%2C_c._1100.jpg/330px-Lismore_Crozier%2C_c._1100.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lismore_Crozier"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Betrayal by Luke Harding review – could Donald Trump be a Russian asset?",
+      "body": "<p>A Guardian correspondent’s sobering account of the US betrayal of Ukraine – and the possible reasons behind it</p><p>American presidents have struggled to get the measure of Vladimir Putin. When George W Bush met him in 2001, he reported",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/24/betrayal-by-luke-harding-review-is-donald-trump-a-russian-asset"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Alison Sampson is a British artist, illustrator and architect.",
+      "body": "She is known for her work with Marvel Comics, DC Comics, Image Comics, and Dark Horse. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alison_Sampson"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1814 —",
+      "hook": "British troops capture Washington, D.C. and set the Presidential Mansion, Capitol, Navy Yard and many other public buildings ablaze.",
+      "body": "The Burning of Washington, also known as the Capture of Washington, was a successful British amphibious attack conducted by Rear Admiral George Cockburn during Admiral John Warren's Chesapeake campaign. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Capture_of_the_city_of_Washington_LCCN2007683564_%28cropped%29.tif/lossy-page1-330px-Capture_of_the_city_of_Washington_LCCN2007683564_%28cropped%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Burning_of_Washington"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
+      "body": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
