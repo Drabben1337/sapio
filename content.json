@@ -1,72 +1,45 @@
 {
-  "generated": "2026-08-24T10:24:45.697Z",
-  "count": 12,
+  "generated": "2026-08-24T11:15:54.150Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Marie von Kleist (1761–1831) was a German courtier.",
-      "body": "She served as lady-in-waiting to Queen Louise of Mecklenburg-Strelitz the Queen of Prussia. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marie_von_Kleist"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘A bit like meditation’: why Saw is my feelgood movie",
-      "body": "<p>The latest in our series of writers picking their go-to comfort films is a grimy and gory trip back to the start of a surprisingly uplifting torture porn franchise</p><p>I was petsitting recently for a white suburban family, with the typ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/24/my-feelgood-movie-saw"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Hubble & Gaia solve our galaxy's merger mystery",
-      "body": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "When TV turns sour: the shows we simply can’t stomach any more",
-      "body": "<p>They were once the hottest shows on television – gripping, sexy, hilarious, zeitgeisty. But for our writers, the likes of America’s Next Top Model, House of Cards and The Office are now part of their viewing history they feel tainted by<",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/when-tv-turns-sour-the-shows-we-simply-cannot-stomach-any-more"
+      "opener": "New Scientist —",
+      "hook": "From back pain to cancer, how the interstitium could transform medicine",
+      "body": "For centuries, we’ve ignored the interstitium, but research is now revealing that this body-wide network of fluid is instrumental to our health and points the way to new treatments",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2583939-from-back-pain-to-cancer-how-the-interstitium-could-transform-medicine/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Reservoir Pups is the first novel of the Eddie & the Gang with No Name trilogy by Northern Irish author, Colin Bateman, published on 13 November 2003 through Hodder Children's Books.",
-      "body": "It is Bateman's first young adult novel. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/85/Reservoir_Pups.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Moloch: or, This Gentile World is a semi-autobiographical novel written by Henry Miller in 1927–28, initially under the guise of a novel written by his wife, June.",
+      "body": "The book went unpublished until 1992, 65 years after it was written and 12 years after Miller's death. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/85/Moloch_Henry_Miller_Book_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Reservoir_Pups"
+      "url": "https://en.wikipedia.org/wiki/Moloch%3A_or%2C_This_Gentile_World"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘She had this divine calling’: the incredible and transporting art of Minnie Evans",
-      "body": "<p>Just over 50 years after she was one of the first Black artists to have a solo show at the Whitney, the museum gathers some of her most remarkable paintings for a new exhibition</p><p>Surprisingly, the term “outsider art” was coined fair",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/21/minnie-evans-whitney-museum-outsider-artist"
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: Allied troops begin the attack on Paris.",
+      "body": "The Liberation of Paris was a battle that took place during World War II from 19 August 1944 until the German garrison surrendered the French capital on 25 August 1944. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg/330px-Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Liberation_of_Paris"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Best Little Girl in the World is a 1979 American young adult coming of age novel by Steven Levenkron, telling the story of Kessa, a teen who has an eating disorder.",
-      "body": "The book was originally published by Warner Books in 1979. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/48/The_Best_Little_Girl_in_the_World_Book_Cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Best_Little_Girl_in_the_World_(novel)"
+      "cat": "history",
+      "opener": "On this day in 1561 —",
+      "hook": "Willem of Orange marries duchess Anna of Saxony.",
+      "body": "William the Silent or William the Taciturn, more commonly known in the Netherlands as William of Orange and in the Dutch national anthem as William of Nassau, was the leader of the Dutch revolt against the Spanish Habsburgs that set off the Eighty Years' War (1568–1648) and resulted in the formal independence of the United Provinces in 1648. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/William_I%2C_Prince_of_Orange_by_Adriaen_Thomasz._Key_Rijksmuseum_Amsterdam_SK-A-3148.jpg/330px-William_I%2C_Prince_of_Orange_by_Adriaen_Thomasz._Key_Rijksmuseum_Amsterdam_SK-A-3148.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/William_the_Silent"
     },
     {
       "type": "card",
@@ -79,13 +52,90 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 367 —",
+      "hook": "Gratian, son of Roman Emperor Valentinian I, is named co-Augustus at the age of eight by his father.",
+      "body": "Gratian was emperor of the Western Roman Empire from 367 to 383. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gratian_Trier_enhanced.jpg/330px-Gratian_Trier_enhanced.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Gratian"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2001 —",
+      "hook": "Air Transat Flight 236 loses all engine power over the Atlantic Ocean, forcing the pilots to conduct an emergency landing in the Azores.",
+      "body": "Air Transat Flight 236 was a transatlantic flight bound for Lisbon, Portugal, from Toronto, Canada, that lost all engine power while flying over the Atlantic Ocean in the dark on August 24, 2001. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Air_Transat_Flight_236_after_emergency_landing.jpg/330px-Air_Transat_Flight_236_after_emergency_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Air_Transat_Flight_236"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Bill Konigsberg is an American author, best known for his LGBT novels.",
+      "body": "He wrote Out of the Pocket, Openly Straight, The Porcupine of Truth, Honestly Ben, The Music of What Happens, and The Bridge. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bill_Konigsberg_2015.jpg/330px-Bill_Konigsberg_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bill_Konigsberg"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Venice completes Competition lineup with Gaza war documentary from Israeli ‘No Other Land’ duo",
+      "body": "Film is produced by UK publication The Guardian and James Wilson.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/venice-completes-competition-lineup-with-gaza-war-documentary-from-israeli-no-other-land-duo/5219626.article"
+    },
+    {
+      "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Dokuzuncu Hariciye Koğuşu is a 1967 Turkish romantic drama film directed by Nejat Saydam based on a novel by Peyami Safa.",
-      "body": "The film stars Kartal Tibet and Hülya Koçyiğit. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Dokuzuncu%271967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Stars of Eger is a 1968 Hungarian-Bulgarian historical film directed by Zoltán Várkonyi and starring Imre Sinkovits, György Bárdy and István Kovács.",
+      "body": "It is an adaptation of the 1899 novel Eclipse of the Crescent Moon by Géza Gárdonyi. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dokuzuncu_Hariciye_Ko%C4%9Fu%C5%9Fu"
+      "url": "https://en.wikipedia.org/wiki/Stars_of_Eger_(1968_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1743 —",
+      "hook": "The War of the Hats: The Swedish army surrenders to the Russians in Helsinki, ending the war and starting Lesser Wrath.",
+      "body": "The Russo-Swedish War of 1741–1743 was instigated by the Hats, a Swedish political party that aspired to regain the territories lost to Russia during the Great Northern War, and by French diplomacy, which sought to divert Russia's attention from supporting its long-standing ally the Habsburg monarchy in the War of the Austrian Succession. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Th%C3%A9atre_de_la_Guerre_en_Finlande_-_1742.jpg/330px-Th%C3%A9atre_de_la_Guerre_en_Finlande_-_1742.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Russo-Swedish_War_(1741%E2%80%931743)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Dutch broadcaster Avrotros pulls out of 2027 Eurovision Song Contest",
+      "body": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1989 —",
+      "hook": "Tadeusz Mazowiecki is chosen as the first non-communist prime minister in Central and Eastern Europe.",
+      "body": "Tadeusz Mazowiecki was a Polish author, journalist, philanthropist and politician, formerly one of the leaders of the Solidarity movement, and the first non-communist Polish prime minister since 1946, having held the post from 1989 to 1991. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tadeusz_Mazowiecki_1990_%28cropped4%29.jpg/330px-Tadeusz_Mazowiecki_1990_%28cropped4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Tadeusz_Mazowiecki"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
+      "body": "<p>This portrait by Vytautas Katkus of a man contemplating his recent fatherhood and his own father is steeped in ennui and ends up drifting</p><p>At one point in this Nordic-Baltic homecoming film, Danielius (Darius Šilėnas) refuses an inv",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/24/the-visitor-review-existential-lithuania-set-homecoming-drama-leaves-everything-in-limbo"
     },
     {
       "type": "card",
@@ -98,22 +148,52 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Paul William Gallico was an American novelist and short story and sports writer.",
+      "body": "Many of his works were adapted for motion pictures. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Gallico.paul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paul_Gallico"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "The team played in Primera División during the 1920s and 1930s before merging with Club Atlético Temperley.",
+      "body": "Argentino Football Club de Banfield mostly known as Argentino de Banfield was an Argentine football club from the Banfield district of Greater Buenos Aires. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Argentino_de_Banfield"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Race Across the World star dies year after son",
-      "body": "Former TV contestant, Jo Gardiner, 61, dies of cancer one year after her son's death in a crash.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Culture —",
+      "hook": "‘We’re barely above porn’: why would a film-maker choose to make a deliberately bad ‘mockbuster’?",
+      "body": "<p>With a tiny budget and six days, Anthony Frith directed a film for the studio behind Sharknado – and then made Mockbuster, a documentary about the experience</p><p>Directors don’t tend to appreciate having their films eviscerated by crit",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/22/anthony-frith-documentary-mockbuster-the-land-that-time-forgot"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The village lies away from main roads, some 5 miles (8 km) northeast of Louth.",
+      "body": "St John the Baptist's Church is a redundant Anglican church in the village of Yarburgh, Lincolnshire, England. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/St.John_the_Baptist%27s_church%2C_Yarburgh%2C_Lincs._-_geograph.org.uk_-_71126.jpg/330px-St.John_the_Baptist%27s_church%2C_Yarburgh%2C_Lincs._-_geograph.org.uk_-_71126.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/St_John_the_Baptist's_Church%2C_Yarburgh"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Carmen Suite is a one-act ballet created in 1967 by Cuban choreographer Alberto Alonso to music by Russian composer Rodion Shchedrin for his wife, prima ballerina assoluta Maya Plisetskaya.",
-      "body": "The premiere took place on 20 April 1967 at the Bolshoi Theatre, Moscow. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Maya_Plisetskaya_-_1974.jpg/330px-Maya_Plisetskaya_-_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "Pandora's Boy is a historical crime novel by British writer Lindsey Davis, the sixth in her Flavia Albia series.",
+      "body": "It was published by Hodder & Stoughton in the UK on 5 April 2018, (ISBN 9781473658745) and in the United States in 2018 by St. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c7/Pandora%27s_Boy_cover_2018_UK_hbk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Carmen_Suite_(ballet)"
+      "url": "https://en.wikipedia.org/wiki/Pandora's_Boy"
     }
   ]
 }
