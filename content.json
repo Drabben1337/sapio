@@ -1,209 +1,249 @@
 {
-  "generated": "2026-08-24T12:19:26.479Z",
-  "count": 21,
+  "generated": "2026-08-24T13:40:05.054Z",
+  "count": 25,
   "items": [
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1998 —",
-      "hook": "First radio-frequency identification (RFID) human implantation tested in the United Kingdom.",
-      "body": "Radio-frequency identification (RFID) uses electromagnetic fields to automatically identify and track tags attached to objects. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/RFID_-_Tag_laverie_avec_EPC_imprim%C3%A9.png/330px-RFID_-_Tag_laverie_avec_EPC_imprim%C3%A9.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1938 —",
+      "hook": "Kweilin incident: A Japanese warplane shoots down the Kweilin, a Chinese civilian airliner, killing 14. It is the first recorded instance of a civilian airliner being shot down.",
+      "body": "The Kweilin incident occurred on 24 August 1938 when a Douglas DC-2 airliner named Kweilin carrying 18 passengers and crew was shot down by Japanese aircraft in China. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Douglas_DC-2.jpg/330px-Douglas_DC-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Radio-frequency_identification"
+      "url": "https://en.wikipedia.org/wiki/Kweilin_incident"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The House of the Dead is a semi-autobiographical novel published in 1860 to 1862 in the journal Vremya by Russian author Fyodor Dostoevsky.",
+      "body": "It has also been published in English under the titles Notes from the House of the Dead, Memoirs from the House of the Dead and Notes from a Dead House, which are more literal translations of the Russian title. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Notes_from_a_Dead_House.jpg/330px-Notes_from_a_Dead_House.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "My Arms Are Longer Now – comedy stealth game sends lawlessness into new territory",
+      "body": "<p>Developers who met through Australia’s improv scene and publishers of comedic party games have united for this slithering challenge in which you play as one extended limb</p><p>Most stealth games cast you as a spy, an assassin or a maste",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/games/2026/aug/24/my-arms-are-longer-now-comedy-stealth-game-preview"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2010 —",
-      "hook": "In San Fernando, Tamaulipas, Mexico, 72 illegal immigrants are killed by Los Zetas and eventually found dead by Mexican authorities.",
-      "body": "San Fernando is a city located in the Mexican state of Tamaulipas; it serves as the seat of the surrounding municipality of the same name. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Presidensia_Municipal_San_Fernando%2C_Tamaulipas.jpg/330px-Presidensia_Municipal_San_Fernando%2C_Tamaulipas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2001 —",
+      "hook": "Microsoft makes the RTM release of Windows XP.",
+      "body": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/San_Fernando%2C_Tamaulipas"
+      "url": "https://en.wikipedia.org/wiki/Microsoft"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Bowling Tunnel is a railway Tunnel on the Calder Valley line, south of Bradford in West Yorkshire, England.",
+      "body": "The Tunnel was completed in 1850 after some difficulty in construction, and allowed trains from the south to access the second railway terminus in the town of Bradford. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bowling_Tunnel_-_geograph.org.uk_-_399627.jpg/330px-Bowling_Tunnel_-_geograph.org.uk_-_399627.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bowling_Tunnel"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1675 —",
+      "hook": "A Polish-Lithuanian army under John III Sobieski defeats an Ottoman-Tartar army in the battle of Lwow.",
+      "body": "The Polish–Lithuanian Commonwealth, also referred to as Poland–Lithuania or the First Polish Republic, was a federative real union between the Kingdom of Poland and the Grand Duchy of Lithuania, existing from 1569 to 1795. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Banner_of_Poland-Lithuania.svg/330px-Banner_of_Poland-Lithuania.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Women Photograph announces 2026 grant recipients – in pictures",
+      "body": "<p>Women Photograph, a non-profit launched in 2017 to amplify the voices of women and non-binary visual journalists, has announced three recipients of its 2026 grants. Grants of $10,000 have been awarded to <a href=\"https://www.fatmafahmy.c",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/24/women-photograph-leica-grantees-for-2026-in-pictures"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "The Ocean, previously known as the Ocean Limited, is a passenger train operated by Via Rail in Canada on its Atlantic Canada route between Montreal, Quebec, and Halifax, Nova Scotia.",
-      "body": "It is the oldest continuously operated named passenger train in North America. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ocean_%28Passenger_Train%29.jpg/330px-Ocean_%28Passenger_Train%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Ojos azules is a historical short story by Arturo Pérez-Reverte, set in Mexico during the Spanish conquest of the Aztec Empire.",
+      "body": "It was published in 2009 by Seix Barral as part of its Únicos collection. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ocean_(train)"
+      "url": "https://en.wikipedia.org/wiki/Ojos_azules_(novel)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "It is served by the S-Bahn lines S3, S41, S42, S46, S5, S7 and S9 and so represents a major interchange point on the Berlin S-Bahn network.",
-      "body": "Berlin Westkreuz is a station in the Charlottenburg district of Berlin. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bahnhof_Westkreuz.JPG/330px-Bahnhof_Westkreuz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Berlin_Westkreuz_station"
+      "opener": "On this day in 410 —",
+      "hook": "The Visigoths under King Alaric I begin to pillage Rome.",
+      "body": "The Visigoths were a Gothic people who emerged in the Balkans during late antiquity. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Visigothic_-_Pair_of_Eagle_Fibula_-_Walters_54421%2C_54422_-_Group.jpg/330px-Visigothic_-_Pair_of_Eagle_Fibula_-_Walters_54421%2C_54422_-_Group.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Visigoths"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Guild of the Brave Poor Things was a British charity for disabled children.",
-      "body": "It was established in 1894 by Dame Grace Kimmins (1871–1954) et al. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ada_Vachell_with_children_and_sheep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "You probably never noticed this —",
+      "hook": "Died in the Wool is a detective novel by Ngaio Marsh; it is the thirteenth novel to feature Roderick Alleyn, and was first published in 1945.",
+      "body": "The novel is set in New Zealand, and involves death on a sheep farm. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/59/DiedInTheWool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Guild_of_the_Brave_Poor_Things"
+      "url": "https://en.wikipedia.org/wiki/Died_in_the_Wool"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1936 —",
       "hook": "The Australian Antarctic Territory is created.",
-      "body": "The Australian Antarctic Territory (AAT) is a region of East Antarctica claimed by Australia as an external territory. Bring it up somewhere. Watch the reaction.",
+      "body": "The Australian Antarctic Territory (AAT) is a region of East Antarctica claimed by Australia as an external territory. One of those things you can't un-know.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Antarctica%2C_Australia_territorial_claim.svg/330px-Antarctica%2C_Australia_territorial_claim.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Australian_Antarctic_Territory"
     },
     {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1857 —",
-      "hook": "The Panic of 1857 begins, setting off one of the most severe economic crises in United States history.",
-      "body": "The Panic of 1857 was a financial crisis in the United States caused by the declining international economy and over-expansion of the domestic economy. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/1857_panic.jpeg/330px-1857_panic.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Panic_of_1857"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2010 —",
-      "hook": "Agni Air Flight 101 crashes near Shikharpur, Makwanpur, Nepal, killing all 14 people on board.",
-      "body": "Agni Air Flight 101 was a regional flight between Kathmandu and Lukla, Nepal, that crashed on 24 August 2010, killing all 14 people on board. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dornier_Do_228-101_%289N-AHE%29_%28cropped%29.jpg/330px-Dornier_Do_228-101_%289N-AHE%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Agni_Air_Flight_101"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Céline Sciamma, Teona Strugar Mitevska among filmmakers calling for gender overhaul of the European film industry",
-      "body": "Teona Strugar Mitevska, Céline Sciamma, Blerta Basholli and Jelena Maksimović were in discussion at Sarajevo.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/celine-sciamma-teona-strugar-mitevska-among-filmmakers-calling-for-gender-overhaul-of-the-european-film-industry/5219611.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Giant Powder Company was an explosives manufacturing company which operated from the mid 19th century through the first half of the 20th century, located in the San Francisco Bay Area of California.",
-      "body": "The Giant Powder Company was the first company in the United States to produce dynamite under an exclusive license from Alfred Nobel. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Giant_Powder_Company"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Greenland meltwater is intensifying European heatwaves",
-      "body": "The cooling of the North Atlantic is creating waviness in the jet stream and high-pressure ridging over Europe, a study finds",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585659-greenland-meltwater-is-intensifying-european-heatwaves/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1662 —",
-      "hook": "The 1662 Book of Common Prayer is legally enforced as the liturgy of the Church of England, precipitating the Great Ejection of Dissenter ministers from their benefices.",
-      "body": "The 1662 Book of Common Prayer is an authorised liturgical book of the Church of England and other Anglican bodies around the world. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Book_of_common_prayer_1662.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1662)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Julius Reinhold Friedlander (1803–1839) was a German-American educator.",
-      "body": "He was the founder of the Pennsylvania Institution for the Instruction of the Blind in Philadelphia, which later became the Overbrook School for the Blind. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Julius_Reinhold_Friedlander_-_John_Neagle_%28page_32_crop%29.jpg/330px-Julius_Reinhold_Friedlander_-_John_Neagle_%28page_32_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Julius_Reinhold_Friedlander"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "‘We’re barely above porn’: why would a film-maker choose to make a deliberately bad ‘mockbuster’?",
-      "body": "<p>With a tiny budget and six days, Anthony Frith directed a film for the studio behind Sharknado – and then made Mockbuster, a documentary about the experience</p><p>Directors don’t tend to appreciate having their films eviscerated by crit",
+      "hook": "‘A cognitive cacophony’: hands-on with the Call of Duty Modern Warfare 4 beta test",
+      "body": "<p>Players will get what they expect from the new CoD title: boots-on-the-ground military action with a slight tactical edge. But what’s with all the distractions?</p><p>There’s a lot riding on this year’s Call of Duty, the inescapable firs",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/22/anthony-frith-documentary-mockbuster-the-land-that-time-forgot"
+      "url": "https://www.theguardian.com/games/2026/aug/24/a-cognitive-cacophony-hands-on-with-the-call-of-duty-modern-warfare-4-beta-test"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The building was destroyed by fire in 1912.",
-      "body": "Revere House (1847–1912) was an upscale hotel in 19th-century Boston, Massachusetts, located on Bowdoin Square in the West End. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2350761079_RevereHotel_Boston.jpg/330px-2350761079_RevereHotel_Boston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Revere_House"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Insidious 6’, ‘Spa Weekend’ land in UK-Ireland box office top five; ‘Spider-Man 4’ passes £87m",
-      "body": "Mubi’s ‘Teenage Sex And Death At Camp Miasma’ makes healthy start.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/insidious-6-spa-weekend-land-in-uk-ireland-box-office-top-five-spider-man-4-passes-87m/5219636.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+      "opener": "On this day in 1995 —",
+      "hook": "Microsoft releases Windows 95 to the public in North America.",
+      "body": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Microsoft"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Sir William Napier Shaw was a British meteorologist and academic.",
-      "body": "He introduced the tephigram, a diagram for evaluating convective instability in the atmosphere. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pencil_sketch_of_William_Napier_Shaw_by_Stehen_C_Dickson.jpg/330px-Pencil_sketch_of_William_Napier_Shaw_by_Stehen_C_Dickson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Dennis Wayne Johnson, nicknamed \"DJ\", was an American professional basketball player for the National Basketball Association's (NBA) Seattle SuperSonics, Phoenix Suns, and Boston Celtics.",
+      "body": "He was a coach of the Los Angeles Clippers and an alumnus of Dominguez High School, Los Angeles Harbor College and Pepperdine University. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dennis_Johnson_Lipofsky.jpg/330px-Dennis_Johnson_Lipofsky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Napier_Shaw"
+      "url": "https://en.wikipedia.org/wiki/Dennis_Johnson"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
-      "body": "<p>This portrait by Vytautas Katkus of a man contemplating his recent fatherhood and his own father is steeped in ennui and ends up drifting</p><p>At one point in this Nordic-Baltic homecoming film, Danielius (Darius Šilėnas) refuses an inv",
+      "hook": "Gaza documentary produced by the Guardian to receive world premiere at Venice film festival",
+      "body": "<p>Film directed by Yuval Abraham and Rachel Szor, the two Israeli co-directors of No Other Land, investigates ‘Israel’s calculated mass killing of Palestinian civilians’ during the war</p><p><br> A new documentary about Israel’s bombing ca",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/24/the-visitor-review-existential-lithuania-set-homecoming-drama-leaves-everything-in-limbo"
+      "url": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Polidoro Caldara, usually known as Polidoro da Caravaggio, was an Italian painter of the Mannerist period, \"arguably the most gifted and certainly the least conventional of Raphael's pupils\", who was best known for his now-vanished paintings on the facades of Roman houses.",
-      "body": "He was unrelated to the later painter Michelangelo Merisi da Caravaggio, usually known just as Caravaggio, but both came from the town of Caravaggio. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/PolidoroCaldara.jpg/330px-PolidoroCaldara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Post your questions for Alex Winter",
+      "body": "<p>The 80s icon and star of The Lost Boys and Bill &amp; Ted has also had a storied career behind the camera and on stage. Now, he’ll answer your (non-bogus) questions </p><p>You probably still think of Alex Winter as Kiefer Sutherland’s bl",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/24/post-your-questions-for-alex-winter-the-lost-boys-and-bill-and-ted"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Faraway Hill is the first soap opera broadcast on an American television network, airing on the DuMont Television Network on Wednesday nights at 9:00 PM between October 2 and December 18, 1946.",
+      "body": "A Variety article stated the Caples advertising agency bought time on DuMont for \"experimentation purposes,\" and had \"walked where other video programmers feared to tread,\" moving soap operas from radio to the \"infant medium television.\" Worth a quiet trip dow",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Faraway_Hill.jpg/330px-Faraway_Hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Polidoro_da_Caravaggio"
+      "url": "https://en.wikipedia.org/wiki/Faraway_Hill"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Narbonne lies 849 km (528 mi) from Paris in the Aude department, of which it is an arrondissement.",
+      "body": "Narbonne is a commune and subprefecture in Southern France, located in the Occitania region. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Narbonne_Cathedrale_Saint_Just_et_Saint_Pasteur.jpg/330px-Narbonne_Cathedrale_Saint_Just_et_Saint_Pasteur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Narbonne"
     }
   ]
 }
