@@ -1,34 +1,45 @@
 {
-  "generated": "2026-08-24T16:20:32.631Z",
+  "generated": "2026-08-24T17:19:43.534Z",
   "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
-      "body": "The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "EsDeeKid mystery no problem for fans after 'insane' All Points East set",
-      "body": "We still don't know the Scouse rapper's true identity, but do music lovers really care who he is?",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cp8012ejyr6o?at_medium=RSS&at_campaign=rss"
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Liberty: Deception is a dystopian science fiction graphic novel comic book series by Travis Vengroff, self-published in 2016 under the American publishing company John Dossinger Publishing.",
+      "body": "It is part of Vengroff's Liberty fictional universe. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Comic_Liberty_Deception_Cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liberty%3A_Deception"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1929 —",
-      "hook": "Second day of two-day Hebron massacre during the 1929 Palestine riots: Arab attacks on the Jewish community in Hebron in the British Mandate of Palestine, result in the death of 65–68 Jews; the remaining Jews are forced to flee the city.",
-      "body": "Sixty-seven or sixty-nine Jews were massacred on 24 August 1929 in Hebron, Mandatory Palestine. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1929_Hebron_massacre_infobox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "On this day in 1815 —",
+      "hook": "The modern Constitution of the Netherlands is signed.",
+      "body": "The Constitution of the Kingdom of the Netherlands of 24 August 1815 is one of two fundamental documents governing the Kingdom of the Netherlands as well as the fundamental law of the Netherlands proper. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1929_Hebron_massacre"
+      "url": "https://en.wikipedia.org/wiki/Constitution_of_the_Netherlands"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Ukraine declares itself independent from the Soviet Union.",
+      "body": "Ukraine is a country in Eastern Europe. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ukraine"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best recent translated fiction – review roundup",
+      "body": "<p>The Red Book of Farewells by Pirkko Saisio; Short Circuit by Wolf Haas; Cosmos by Lucia Odoom; The Fallen Trees Are Also the Forest by Alejandra Kamiya</p><p><strong><a href=\"https://guardianbookshop.com/the-red-book-of-farewells-9780241",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/21/the-best-recent-translated-fiction-review-roundup"
     },
     {
       "type": "card",
@@ -42,79 +53,88 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1949 —",
-      "hook": "The treaty creating the North Atlantic Treaty Organization goes into effect.",
-      "body": "The North Atlantic Treaty Organization (NATO) is an intergovernmental military alliance between 32 member states. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/330px-NATO_OTAN_landscape_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2006 —",
+      "hook": "The International Astronomical Union (IAU) redefines the term \"planet\" such that Pluto is now considered a dwarf planet.",
+      "body": "The International Astronomical Union is an international non-governmental organization (INGO) with the objective of advancing astronomy in all aspects, including promoting astronomical research, outreach, education, and development through global cooperation. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/IAU_logo.svg/330px-IAU_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/NATO"
+      "url": "https://en.wikipedia.org/wiki/International_Astronomical_Union"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1200 —",
+      "hook": "King John of England, signer of the first Magna Carta, marries Isabella of Angoulême in Angoulême Cathedral.",
+      "body": "John was King of England from 1199 until his death in 1216. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Jan_tomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/John%2C_King_of_England"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "At Swim-Two-Birds is a 1939 novel by Irish writer Brian O'Nolan, writing under the pseudonym Flann O'Brien.",
-      "body": "It is widely considered to be O'Brien's masterpiece, and one of the most sophisticated examples of metafiction. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/ef/FlannO%27BrianAtSwimTwoBirds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Drift is a 2023 drama film directed by Anthony Chen from a screenplay by Susanne Farrell and Alexander Maksik.",
+      "body": "It is based on the novel A Marker to Measure Drift by Maksik. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Drift_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/At_Swim-Two-Birds"
+      "url": "https://en.wikipedia.org/wiki/Drift_(2023_film)"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Lack of sleep may cause anxiety by making us less adaptable to threats",
-      "body": "People who were deprived of sleep overnight didn't seem to adapt to being in a potentially threatening space, which may help explain the link between a lack of shuteye and anxiety",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2586177-lack-of-sleep-may-cause-anxiety-by-making-us-less-adaptable-to-threats/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "The Guardian · Culture —",
+      "hook": "Slayyyter live review – raucous show announces a new princess of sleaze-pop",
+      "body": "<p><strong>Shrine Auditorium, Los Angeles</strong></p><p>The cult star proves she is ready for pop’s big leagues in a show that blends chaotic punk energy with technical finesse</p><p>The last time <a href=\"https://www.theguardian.com/music",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/24/slayyyter-live-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘A rock star on her own terms’: why we’re still so fascinated by Meg White",
+      "body": "<p>Recent incorrect attempts to reveal the White Stripes star’s whereabouts reflect how much we’re still obsessed with the one-of-a-kind drummer</p><p>In February 2011, the White Stripes <a href=\"https://web.archive.org/web/20110202192447/h",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/24/meg-white-white-stripes-fascination"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "John Oliver on ‘smart’ appliances: ‘Spying on you through the washing machine’",
+      "body": "<p>The host also discussed the rise of forgotten monthly subscriptions for anything from dishwashers to litter boxes</p><p>On the Sunday night episode of his HBO show, <a href=\"https://www.theguardian.com/tv-and-radio/john-oliver\">John Oliv",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/24/john-oliver-subscriptions-smart-appliances"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Swordbird is a children's fantasy novel written by Nancy Yi Fan.",
+      "body": "A prequel, Sword Quest, was released January 22, 2008. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Swordbird-cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Swordbird"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Ring of Fire III is an anthology created by editor-author-historian Eric Flint, first published in hardcover by Baen Books in July 2011.",
+      "body": "It is the third anthology in the 1632 series, after Ring of Fire II (2008). Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Ring_of_Fire_III_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ring_of_Fire_III"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Wicker Man director's sons complete their late father's film trilogy",
-      "body": "The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years.",
+      "hook": "EsDeeKid mystery no problem for fans after 'insane' All Points East set",
+      "body": "We still don't know the Scouse rapper's true identity, but do music lovers really care who he is?",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1941 —",
-      "hook": "The Holocaust: Adolf Hitler orders the cessation of Nazi Germany's systematic T4 euthanasia program of the mentally ill and the handicapped due to protests, although killings continue for the remainder of the war.",
-      "body": "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg/330px-Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/The_Holocaust"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Wind on the Moon: A story for children is a fantasy novel by Eric Linklater, published by Macmillan in 1944 with illustrations by Nicolas Bentley.",
-      "body": "The American division Macmillan US published an edition in the same year. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/00/The_wind_on_the_moon_cover_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Wind_on_the_Moon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Alice Roberts: ‘By the time I’d finished Richard Dawkins I’d left faith behind’",
-      "body": "<p>The TV presenter and author on the evolutionary biologists who inspired her, the genius of George Eliot – and fun with Frog and Toad</p><p><strong>My earliest reading memory<br></strong>The first books I remember were from The Village wi",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/21/alice-roberts-by-the-time-id-finished-richard-dawkins-id-left-faith-behind"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1217 —",
-      "hook": "An English fleet defeats a French fleet in the battle of Sandwich, cutting off Prince Louis of France from supplies and diminishing his hopes to gain the English throne during the First Barons' War.",
-      "body": "The Battle of Sandwich, also called the Battle of Dover took place on 24 August 1217 as part of the First Barons' War. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Sandwich_(1217)"
+      "url": "https://www.bbc.co.uk/news/articles/cp8012ejyr6o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -127,53 +147,33 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Berts första betraktelser is a diary novel, written by Anders Jacobsson and Sören Olsson and originally published in 1990.",
-      "body": "It tells the story of Bert Ljung from 1 January to 30 April during the calendar year he turns 13. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/86/Berts_f%C3%B6rsta_betraktelser_book_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Berts_f%C3%B6rsta_betraktelser"
+      "cat": "history",
+      "opener": "On this day in 2010 —",
+      "hook": "In San Fernando, Tamaulipas, Mexico, 72 illegal immigrants are killed by Los Zetas and eventually found dead by Mexican authorities.",
+      "body": "San Fernando is a city located in the Mexican state of Tamaulipas; it serves as the seat of the surrounding municipality of the same name. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Presidensia_Municipal_San_Fernando%2C_Tamaulipas.jpg/330px-Presidensia_Municipal_San_Fernando%2C_Tamaulipas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/San_Fernando%2C_Tamaulipas"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1812 —",
-      "hook": "Peninsular War: A coalition of Spanish, British, and Portuguese forces succeed in lifting the two-and-a-half-year-long Siege of Cádiz.",
-      "body": "The Peninsular War (1808–1814) was fought in the Iberian Peninsula by the Iberian nations Spain and Portugal, along with the United Kingdom, against the invading and occupying forces of the First French Empire during the Napoleonic Wars. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Peninsular_war_collage.jpg/330px-Peninsular_war_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2001 —",
+      "hook": "Air Transat Flight 236 loses all engine power over the Atlantic Ocean, forcing the pilots to conduct an emergency landing in the Azores.",
+      "body": "Air Transat Flight 236 was a transatlantic flight bound for Lisbon, Portugal, from Toronto, Canada, that lost all engine power while flying over the Atlantic Ocean in the dark on August 24, 2001. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Air_Transat_Flight_236_after_emergency_landing.jpg/330px-Air_Transat_Flight_236_after_emergency_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Peninsular_War"
+      "url": "https://en.wikipedia.org/wiki/Air_Transat_Flight_236"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Wreck Of The Zanzibar is a children's novel written by Michael Morpurgo.",
-      "body": "It was first published in Great Britain by William Heinemann Publishers in 1995. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/98/The_Wreck_of_the_Zanzibar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "Eagle in the Snow (ISBN 1-59071-011-8) is a 1970 historical fiction novel written by Wallace Breem, which was reprinted in 2003 following the success of the film Gladiator.",
+      "body": "A commercial success, the critically acclaimed novel is Breem's best known work. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Eagle_in_the_Snow.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Wreck_of_the_Zanzibar"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Deep Water is a 2022 erotic psychological thriller film directed by Adrian Lyne, from a screenplay by Zach Helm and Sam Levinson, based on the 1957 novel of the same name by Patricia Highsmith.",
-      "body": "The film stars Ben Affleck and Ana de Armas, with Tracy Letts, Lil Rel Howery, Dash Mihok, Finn Wittrock, Kristen Connolly, and Jacob Elordi appearing in supporting roles. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/37/Deep_Water_%282022_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Deep_Water_(2022_film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1200 —",
-      "hook": "King John of England, signer of the first Magna Carta, marries Isabella of Angoulême in Angoulême Cathedral.",
-      "body": "John was King of England from 1199 until his death in 1216. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Jan_tomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/John%2C_King_of_England"
+      "url": "https://en.wikipedia.org/wiki/Eagle_in_the_Snow"
     }
   ]
 }
