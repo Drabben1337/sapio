@@ -1,63 +1,104 @@
 {
-  "generated": "2026-08-24T04:32:25.830Z",
+  "generated": "2026-08-24T05:26:59.995Z",
   "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best recent translated fiction – review roundup",
-      "body": "<p>The Red Book of Farewells by Pirkko Saisio; Short Circuit by Wolf Haas; Cosmos by Lucia Odoom; The Fallen Trees Are Also the Forest by Alejandra Kamiya</p><p><strong><a href=\"https://guardianbookshop.com/the-red-book-of-farewells-9780241",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/21/the-best-recent-translated-fiction-review-roundup"
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Ukraine declares itself independent from the Soviet Union.",
+      "body": "Ukraine is a country in Eastern Europe. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ukraine"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Lectionary 329 (Gregory-Aland), designated by siglum ℓ 329 is a Greek manuscript of the New Testament, on parchment.",
-      "body": "Palaeographically it has been assigned to the 11th century. One of those things you can't un-know.",
-      "img": null,
+      "opener": "File under 'wait, really?' —",
+      "hook": "New York State Route 317 (NY 317) is a 3.12-mile (5.02 km) long state highway within the town of Elbridge in Onondaga County, New York, in the United States.",
+      "body": "It begins at an intersection with NY 5 in the village of Elbridge and ends at a junction with NY 31 in the village of Jordan. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/NY-317.svg/330px-NY-317.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lectionary_329"
+      "url": "https://en.wikipedia.org/wiki/New_York_State_Route_317"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Most Honourable Order of the Bath is a British order of chivalry founded by King George I on 18 May 1725.",
+      "body": "Recipients of the Order are usually senior military officers or senior civil servants, and the monarch awards it on the advice of His Majesty's Government. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Order_of_bath_star.jpg/330px-Order_of_bath_star.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Order_of_the_Bath"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1970 —",
+      "hook": "Vietnam War protesters bomb Sterling Hall at the University of Wisconsin–Madison, leading to an international manhunt for the perpetrators.",
+      "body": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Vietnam_War"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "Sky Studios Elstree, Warner Bros Leavesden, Garden Studios execs join Screen Summit 2026 speaker lineup",
-      "body": "The ‘Financing the future of UK film’ summit is taking place at the BFI Southbank in London on September 29.",
+      "hook": "Fresh zones, night shoots and on-set medics: how French producers adapted to the scorching summer",
+      "body": "“We used giant umbrellas with UV protection to shield both our actors and the camera equipment.”",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/sky-studios-elstree-warner-bros-leavesden-garden-studios-execs-join-screen-summit-2026-speaker-lineup/5219560.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Super El Niño could lead to mega CO2 emissions from fires in Indonesia",
-      "body": "Intense fires are already burning in Indonesia, and there could be much worse to come as the Super El Niño ramps up",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585948-super-el-nino-could-lead-to-mega-co2-emissions-from-indonesian-fires/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://www.screendaily.com/features/fresh-zones-night-shoots-and-on-set-medics-how-french-producers-adapted-to-the-scorching-summer/5219574.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1814 —",
-      "hook": "British troops capture Washington, D.C. and set the Presidential Mansion, Capitol, Navy Yard and many other public buildings ablaze.",
-      "body": "The Burning of Washington, also known as the Capture of Washington, was a successful British amphibious attack conducted by Rear Admiral George Cockburn during Admiral John Warren's Chesapeake campaign. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Capture_of_the_city_of_Washington_LCCN2007683564_%28cropped%29.tif/lossy-page1-330px-Capture_of_the_city_of_Washington_LCCN2007683564_%28cropped%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1929 —",
+      "hook": "Second day of two-day Hebron massacre during the 1929 Palestine riots: Arab attacks on the Jewish community in Hebron in the British Mandate of Palestine, result in the death of 65–68 Jews; the remaining Jews are forced to flee the city.",
+      "body": "Sixty-seven or sixty-nine Jews were massacred on 24 August 1929 in Hebron, Mandatory Palestine. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1929_Hebron_massacre_infobox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Burning_of_Washington"
+      "url": "https://en.wikipedia.org/wiki/1929_Hebron_massacre"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Benjamin Robert Rich was an American engineer and the second director of Lockheed's Skunk Works from 1975 to 1991, succeeding its founder, Kelly Johnson.",
-      "body": "Regarded as the \"father of stealth\", Rich was responsible for leading the development of the F-117, the first production stealth aircraft. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Ben_Rich_pic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Barbara Nawratowicz-Stuart was a Polish actress and radio journalist.",
+      "body": "She was one of the first stars of Piwnica pod Baranami cabaret and a long-time presenter at Polish section of Radio Free Europe. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ben_Rich_(engineer)"
+      "url": "https://en.wikipedia.org/wiki/Barbara_Nawratowicz"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Model of Poesy (1599), by William Scott, is a Renaissance-era, English literary treatise about the art of poetry, which presents a theoretical description of what is poetry, and practical guidelines about how to write well.",
+      "body": "Proceeding from An Apology for Poetry (1595), by Philip Sidney, The Model of Poesy develops Scott's poetics in the classical and continental traditions, using examples from Geoffrey Chaucer and Edmund Spenser, William Shakespeare and quotations from Scott's pa",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Model_of_Poesy"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "UK-Ireland box office preview: ‘Insidious: Out Of The Further’ and ‘Spa Weekend’ head up new releases",
+      "body": "‘Teenage Sex And Death At Camp Miasma’ and Jason Statham action ‘Munity’ are also out.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-insidious-out-of-the-further-and-spa-weekend-head-up-new-releases/5219597.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1911 —",
+      "hook": "Manuel de Arriaga is elected and sworn in as the first President of Portugal.",
+      "body": "Manuel José de Arriaga Brum da Silveira e Peyrelongue was a Portuguese lawyer who served as the first president of Portugal from 1911 to 1915. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Manuel_de_Arriaga._1912.jpg/330px-Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Manuel_de_Arriaga._1912.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Manuel_de_Arriaga"
     },
     {
       "type": "card",
@@ -72,79 +113,49 @@
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "UK-Ireland box office preview: ‘Insidious: Out Of The Further’ and ‘Spa Weekend’ head up new releases",
-      "body": "‘Teenage Sex And Death At Camp Miasma’ and Jason Statham action ‘Munity’ are also out.",
+      "hook": "Sky Studios Elstree, Warner Bros Leavesden, Garden Studios execs join Screen Summit 2026 speaker lineup",
+      "body": "The ‘Financing the future of UK film’ summit is taking place at the BFI Southbank in London on September 29.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-insidious-out-of-the-further-and-spa-weekend-head-up-new-releases/5219597.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Lin Boqu was a Chinese politician and poet.",
-      "body": "An early supporter of Sun Yat-sen and member of the Tongmenghui, as well as a later participant in the Nanchang Uprising and the Long March, Lin came to be seen as one of the elder statesmen of the Chinese Communist Party. Worth a quiet trip down the rabbit ho",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lin_Boqu2.jpg/330px-Lin_Boqu2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lin_Boqu"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "HMS Rosario was an 11-gun Rosario-class screw sloop of the Royal Navy, launched in 1860 at Deptford Dockyard.",
-      "body": "She served two commissions, including eight years on the Australia Station during which she fought to reduce illegal kidnappings of South Sea Islanders for the Queensland labour market. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/The_boy_travellers_in_Australasia_-_adventures_of_two_youths_in_a_journey_to_the_Sandwich%2C_Marquesas%2C_Society%2C_Samoan_and_Feejee_islands%2C_and_through_the_colonies_of_New_Zealand%2C_New_South_Wales%2C_%2814598210890%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/HMS_Rosario_(1860)"
+      "url": "https://www.screendaily.com/news/sky-studios-elstree-warner-bros-leavesden-garden-studios-execs-join-screen-summit-2026-speaker-lineup/5219560.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2010 —",
-      "hook": "Henan Airlines Flight 8387 crashes at Yichun Lindu Airport in Yichun, Heilongjiang, China, killing 44 out of the 96 people on board.",
-      "body": "Henan Airlines Flight 8387 was a domestic flight operated by Henan Airlines from Harbin to Yichun, Heilongjiang. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kunpeng_Airlines_Embraer_190AR_B-3130.jpg/330px-Kunpeng_Airlines_Embraer_190AR_B-3130.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1941 —",
+      "hook": "The Holocaust: Adolf Hitler orders the cessation of Nazi Germany's systematic T4 euthanasia program of the mentally ill and the handicapped due to protests, although killings continue for the remainder of the war.",
+      "body": "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg/330px-Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Henan_Airlines_Flight_8387"
+      "url": "https://en.wikipedia.org/wiki/The_Holocaust"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1682 —",
-      "hook": "William Penn receives the area that is now the state of Delaware, and adds it to his colony of Pennsylvania.",
-      "body": "William Penn was an English writer, theologian, religious thinker, and influential Quaker who founded the Province of Pennsylvania. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/William_Penn.png/330px-William_Penn.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1820 —",
+      "hook": "Constitutionalist insurrection at Oporto, Portugal.",
+      "body": "Constitutionalism is \"a compound of ideas, attitudes, and patterns of behavior elaborating the principle that the authority of government derives from and is limited by a body of fundamental law\". Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/William_Penn"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1936 —",
-      "hook": "The Australian Antarctic Territory is created.",
-      "body": "The Australian Antarctic Territory (AAT) is a region of East Antarctica claimed by Australia as an external territory. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Antarctica%2C_Australia_territorial_claim.svg/330px-Antarctica%2C_Australia_territorial_claim.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Australian_Antarctic_Territory"
+      "url": "https://en.wikipedia.org/wiki/Constitutionalism"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
-      "body": "The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "The best recent translated fiction – review roundup",
+      "body": "<p>The Red Book of Farewells by Pirkko Saisio; Short Circuit by Wolf Haas; Cosmos by Lucia Odoom; The Fallen Trees Are Also the Forest by Alejandra Kamiya</p><p><strong><a href=\"https://guardianbookshop.com/the-red-book-of-farewells-9780241",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/21/the-best-recent-translated-fiction-review-roundup"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1931 —",
-      "hook": "Resignation of the United Kingdom's Second Labour Government. Formation of the UK National Government.",
-      "body": "The second MacDonald ministry was formed by Ramsay MacDonald on his reappointment as prime minister of the United Kingdom by King George V on 5 June 1929. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_Labour_Cabinet%2C_1929_%28cropped%29.jpg/330px-The_Labour_Cabinet%2C_1929_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Second_MacDonald_ministry"
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The cabinet of General Cavaignac was the government of France from 28 June 1848 to 20 December 1848.",
+      "body": "It replaced the Executive Commission of 1848 after the June Days Uprising of 23 June to 26 June 1848. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Le_G%C3%A9n%C3%A9ral_Cavaignac%2C_Chef_du_pouvoir_ex%C3%A9cutif%2C_Pr%C3%A9sident_du_conseil_des_Ministres.jpg/330px-Le_G%C3%A9n%C3%A9ral_Cavaignac%2C_Chef_du_pouvoir_ex%C3%A9cutif%2C_Pr%C3%A9sident_du_conseil_des_Ministres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cabinet_of_General_Cavaignac"
     },
     {
       "type": "card",
@@ -157,23 +168,12 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2001 —",
-      "hook": "Air Transat Flight 236 loses all engine power over the Atlantic Ocean, forcing the pilots to conduct an emergency landing in the Azores.",
-      "body": "Air Transat Flight 236 was a transatlantic flight bound for Lisbon, Portugal, from Toronto, Canada, that lost all engine power while flying over the Atlantic Ocean in the dark on August 24, 2001. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Air_Transat_Flight_236_after_emergency_landing.jpg/330px-Air_Transat_Flight_236_after_emergency_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Air_Transat_Flight_236"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Ljiljana Trajković is Professor with the School of Engineering Science, Simon Fraser University in Canada.",
-      "body": "She graduated from University of Pristina in 1974, got her master's degrees in electrical engineering (1979) and computer engineering (1981) from Syracuse University and PhD in electrical engineering from University of California, Los Angeles in 1986. One of t",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ljiljana_Trajkovi%C4%87"
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Super El Niño could lead to mega CO2 emissions from fires in Indonesia",
+      "body": "Intense fires are already burning in Indonesia, and there could be much worse to come as the Super El Niño ramps up",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2585948-super-el-nino-could-lead-to-mega-co2-emissions-from-indonesian-fires/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     }
   ]
 }
