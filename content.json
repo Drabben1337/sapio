@@ -1,170 +1,143 @@
 {
-  "generated": "2026-08-24T11:15:54.150Z",
-  "count": 20,
+  "generated": "2026-08-24T12:19:26.479Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "From back pain to cancer, how the interstitium could transform medicine",
-      "body": "For centuries, we’ve ignored the interstitium, but research is now revealing that this body-wide network of fluid is instrumental to our health and points the way to new treatments",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2583939-from-back-pain-to-cancer-how-the-interstitium-could-transform-medicine/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Moloch: or, This Gentile World is a semi-autobiographical novel written by Henry Miller in 1927–28, initially under the guise of a novel written by his wife, June.",
-      "body": "The book went unpublished until 1992, 65 years after it was written and 12 years after Miller's death. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/85/Moloch_Henry_Miller_Book_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Moloch%3A_or%2C_This_Gentile_World"
+      "cat": "history",
+      "opener": "On this day in 1998 —",
+      "hook": "First radio-frequency identification (RFID) human implantation tested in the United Kingdom.",
+      "body": "Radio-frequency identification (RFID) uses electromagnetic fields to automatically identify and track tags attached to objects. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/RFID_-_Tag_laverie_avec_EPC_imprim%C3%A9.png/330px-RFID_-_Tag_laverie_avec_EPC_imprim%C3%A9.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Radio-frequency_identification"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "World War II: Allied troops begin the attack on Paris.",
-      "body": "The Liberation of Paris was a battle that took place during World War II from 19 August 1944 until the German garrison surrendered the French capital on 25 August 1944. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg/330px-Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2010 —",
+      "hook": "In San Fernando, Tamaulipas, Mexico, 72 illegal immigrants are killed by Los Zetas and eventually found dead by Mexican authorities.",
+      "body": "San Fernando is a city located in the Mexican state of Tamaulipas; it serves as the seat of the surrounding municipality of the same name. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Presidensia_Municipal_San_Fernando%2C_Tamaulipas.jpg/330px-Presidensia_Municipal_San_Fernando%2C_Tamaulipas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Liberation_of_Paris"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1561 —",
-      "hook": "Willem of Orange marries duchess Anna of Saxony.",
-      "body": "William the Silent or William the Taciturn, more commonly known in the Netherlands as William of Orange and in the Dutch national anthem as William of Nassau, was the leader of the Dutch revolt against the Spanish Habsburgs that set off the Eighty Years' War (1568–1648) and resulted in the formal independence of the United Provinces in 1648. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/William_I%2C_Prince_of_Orange_by_Adriaen_Thomasz._Key_Rijksmuseum_Amsterdam_SK-A-3148.jpg/330px-William_I%2C_Prince_of_Orange_by_Adriaen_Thomasz._Key_Rijksmuseum_Amsterdam_SK-A-3148.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/William_the_Silent"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
-      "body": "<p>Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/aug",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 367 —",
-      "hook": "Gratian, son of Roman Emperor Valentinian I, is named co-Augustus at the age of eight by his father.",
-      "body": "Gratian was emperor of the Western Roman Empire from 367 to 383. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gratian_Trier_enhanced.jpg/330px-Gratian_Trier_enhanced.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Gratian"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2001 —",
-      "hook": "Air Transat Flight 236 loses all engine power over the Atlantic Ocean, forcing the pilots to conduct an emergency landing in the Azores.",
-      "body": "Air Transat Flight 236 was a transatlantic flight bound for Lisbon, Portugal, from Toronto, Canada, that lost all engine power while flying over the Atlantic Ocean in the dark on August 24, 2001. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Air_Transat_Flight_236_after_emergency_landing.jpg/330px-Air_Transat_Flight_236_after_emergency_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Air_Transat_Flight_236"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Bill Konigsberg is an American author, best known for his LGBT novels.",
-      "body": "He wrote Out of the Pocket, Openly Straight, The Porcupine of Truth, Honestly Ben, The Music of What Happens, and The Bridge. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bill_Konigsberg_2015.jpg/330px-Bill_Konigsberg_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bill_Konigsberg"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Venice completes Competition lineup with Gaza war documentary from Israeli ‘No Other Land’ duo",
-      "body": "Film is produced by UK publication The Guardian and James Wilson.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/venice-completes-competition-lineup-with-gaza-war-documentary-from-israeli-no-other-land-duo/5219626.article"
+      "url": "https://en.wikipedia.org/wiki/San_Fernando%2C_Tamaulipas"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Stars of Eger is a 1968 Hungarian-Bulgarian historical film directed by Zoltán Várkonyi and starring Imre Sinkovits, György Bárdy and István Kovács.",
-      "body": "It is an adaptation of the 1899 novel Eclipse of the Crescent Moon by Géza Gárdonyi. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "The Ocean, previously known as the Ocean Limited, is a passenger train operated by Via Rail in Canada on its Atlantic Canada route between Montreal, Quebec, and Halifax, Nova Scotia.",
+      "body": "It is the oldest continuously operated named passenger train in North America. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ocean_%28Passenger_Train%29.jpg/330px-Ocean_%28Passenger_Train%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Stars_of_Eger_(1968_film)"
+      "url": "https://en.wikipedia.org/wiki/Ocean_(train)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1743 —",
-      "hook": "The War of the Hats: The Swedish army surrenders to the Russians in Helsinki, ending the war and starting Lesser Wrath.",
-      "body": "The Russo-Swedish War of 1741–1743 was instigated by the Hats, a Swedish political party that aspired to regain the territories lost to Russia during the Great Northern War, and by French diplomacy, which sought to divert Russia's attention from supporting its long-standing ally the Habsburg monarchy in the War of the Austrian Succession. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Th%C3%A9atre_de_la_Guerre_en_Finlande_-_1742.jpg/330px-Th%C3%A9atre_de_la_Guerre_en_Finlande_-_1742.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Russo-Swedish_War_(1741%E2%80%931743)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Dutch broadcaster Avrotros pulls out of 2027 Eurovision Song Contest",
-      "body": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1989 —",
-      "hook": "Tadeusz Mazowiecki is chosen as the first non-communist prime minister in Central and Eastern Europe.",
-      "body": "Tadeusz Mazowiecki was a Polish author, journalist, philanthropist and politician, formerly one of the leaders of the Solidarity movement, and the first non-communist Polish prime minister since 1946, having held the post from 1989 to 1991. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tadeusz_Mazowiecki_1990_%28cropped4%29.jpg/330px-Tadeusz_Mazowiecki_1990_%28cropped4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tadeusz_Mazowiecki"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
-      "body": "<p>This portrait by Vytautas Katkus of a man contemplating his recent fatherhood and his own father is steeped in ennui and ends up drifting</p><p>At one point in this Nordic-Baltic homecoming film, Danielius (Darius Šilėnas) refuses an inv",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/24/the-visitor-review-existential-lithuania-set-homecoming-drama-leaves-everything-in-limbo"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Marching in the Dark review – rural Indian widows show stunning resilience as they battle poverty and taboos",
-      "body": "<p>Kinshuk Surjan’s documentary follows women in dire financial straits whose bereavement compounds their social plight, which they confront together</p><p>Out in rural India, a crisis casts a dark cloud over the seemingly tranquil vistas o",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/24/marching-in-the-dark-review"
+      "opener": "File under 'wait, really?' —",
+      "hook": "It is served by the S-Bahn lines S3, S41, S42, S46, S5, S7 and S9 and so represents a major interchange point on the Berlin S-Bahn network.",
+      "body": "Berlin Westkreuz is a station in the Charlottenburg district of Berlin. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bahnhof_Westkreuz.JPG/330px-Bahnhof_Westkreuz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Berlin_Westkreuz_station"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Paul William Gallico was an American novelist and short story and sports writer.",
-      "body": "Many of his works were adapted for motion pictures. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Gallico.paul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Guild of the Brave Poor Things was a British charity for disabled children.",
+      "body": "It was established in 1894 by Dame Grace Kimmins (1871–1954) et al. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ada_Vachell_with_children_and_sheep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Paul_Gallico"
+      "url": "https://en.wikipedia.org/wiki/Guild_of_the_Brave_Poor_Things"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The team played in Primera División during the 1920s and 1930s before merging with Club Atlético Temperley.",
-      "body": "Argentino Football Club de Banfield mostly known as Argentino de Banfield was an Argentine football club from the Banfield district of Greater Buenos Aires. Bring it up somewhere. Watch the reaction.",
+      "opener": "On this day in 1936 —",
+      "hook": "The Australian Antarctic Territory is created.",
+      "body": "The Australian Antarctic Territory (AAT) is a region of East Antarctica claimed by Australia as an external territory. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Antarctica%2C_Australia_territorial_claim.svg/330px-Antarctica%2C_Australia_territorial_claim.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Australian_Antarctic_Territory"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1857 —",
+      "hook": "The Panic of 1857 begins, setting off one of the most severe economic crises in United States history.",
+      "body": "The Panic of 1857 was a financial crisis in the United States caused by the declining international economy and over-expansion of the domestic economy. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/1857_panic.jpeg/330px-1857_panic.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Panic_of_1857"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2010 —",
+      "hook": "Agni Air Flight 101 crashes near Shikharpur, Makwanpur, Nepal, killing all 14 people on board.",
+      "body": "Agni Air Flight 101 was a regional flight between Kathmandu and Lukla, Nepal, that crashed on 24 August 2010, killing all 14 people on board. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dornier_Do_228-101_%289N-AHE%29_%28cropped%29.jpg/330px-Dornier_Do_228-101_%289N-AHE%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Agni_Air_Flight_101"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Céline Sciamma, Teona Strugar Mitevska among filmmakers calling for gender overhaul of the European film industry",
+      "body": "Teona Strugar Mitevska, Céline Sciamma, Blerta Basholli and Jelena Maksimović were in discussion at Sarajevo.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/celine-sciamma-teona-strugar-mitevska-among-filmmakers-calling-for-gender-overhaul-of-the-european-film-industry/5219611.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Giant Powder Company was an explosives manufacturing company which operated from the mid 19th century through the first half of the 20th century, located in the San Francisco Bay Area of California.",
+      "body": "The Giant Powder Company was the first company in the United States to produce dynamite under an exclusive license from Alfred Nobel. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Argentino_de_Banfield"
+      "url": "https://en.wikipedia.org/wiki/Giant_Powder_Company"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Greenland meltwater is intensifying European heatwaves",
+      "body": "The cooling of the North Atlantic is creating waviness in the jet stream and high-pressure ridging over Europe, a study finds",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2585659-greenland-meltwater-is-intensifying-european-heatwaves/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1662 —",
+      "hook": "The 1662 Book of Common Prayer is legally enforced as the liturgy of the Church of England, precipitating the Great Ejection of Dissenter ministers from their benefices.",
+      "body": "The 1662 Book of Common Prayer is an authorised liturgical book of the Church of England and other Anglican bodies around the world. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Book_of_common_prayer_1662.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1662)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Julius Reinhold Friedlander (1803–1839) was a German-American educator.",
+      "body": "He was the founder of the Pennsylvania Institution for the Instruction of the Blind in Philadelphia, which later became the Overbrook School for the Blind. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Julius_Reinhold_Friedlander_-_John_Neagle_%28page_32_crop%29.jpg/330px-Julius_Reinhold_Friedlander_-_John_Neagle_%28page_32_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Julius_Reinhold_Friedlander"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
@@ -178,22 +151,59 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The village lies away from main roads, some 5 miles (8 km) northeast of Louth.",
-      "body": "St John the Baptist's Church is a redundant Anglican church in the village of Yarburgh, Lincolnshire, England. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/St.John_the_Baptist%27s_church%2C_Yarburgh%2C_Lincs._-_geograph.org.uk_-_71126.jpg/330px-St.John_the_Baptist%27s_church%2C_Yarburgh%2C_Lincs._-_geograph.org.uk_-_71126.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The building was destroyed by fire in 1912.",
+      "body": "Revere House (1847–1912) was an upscale hotel in 19th-century Boston, Massachusetts, located on Bowdoin Square in the West End. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2350761079_RevereHotel_Boston.jpg/330px-2350761079_RevereHotel_Boston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/St_John_the_Baptist's_Church%2C_Yarburgh"
+      "url": "https://en.wikipedia.org/wiki/Revere_House"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Insidious 6’, ‘Spa Weekend’ land in UK-Ireland box office top five; ‘Spider-Man 4’ passes £87m",
+      "body": "Mubi’s ‘Teenage Sex And Death At Camp Miasma’ makes healthy start.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/insidious-6-spa-weekend-land-in-uk-ireland-box-office-top-five-spider-man-4-passes-87m/5219636.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Pandora's Boy is a historical crime novel by British writer Lindsey Davis, the sixth in her Flavia Albia series.",
-      "body": "It was published by Hodder & Stoughton in the UK on 5 April 2018, (ISBN 9781473658745) and in the United States in 2018 by St. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c7/Pandora%27s_Boy_cover_2018_UK_hbk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "Sir William Napier Shaw was a British meteorologist and academic.",
+      "body": "He introduced the tephigram, a diagram for evaluating convective instability in the atmosphere. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pencil_sketch_of_William_Napier_Shaw_by_Stehen_C_Dickson.jpg/330px-Pencil_sketch_of_William_Napier_Shaw_by_Stehen_C_Dickson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pandora's_Boy"
+      "url": "https://en.wikipedia.org/wiki/Napier_Shaw"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
+      "body": "<p>This portrait by Vytautas Katkus of a man contemplating his recent fatherhood and his own father is steeped in ennui and ends up drifting</p><p>At one point in this Nordic-Baltic homecoming film, Danielius (Darius Šilėnas) refuses an inv",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/24/the-visitor-review-existential-lithuania-set-homecoming-drama-leaves-everything-in-limbo"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Polidoro Caldara, usually known as Polidoro da Caravaggio, was an Italian painter of the Mannerist period, \"arguably the most gifted and certainly the least conventional of Raphael's pupils\", who was best known for his now-vanished paintings on the facades of Roman houses.",
+      "body": "He was unrelated to the later painter Michelangelo Merisi da Caravaggio, usually known just as Caravaggio, but both came from the town of Caravaggio. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/PolidoroCaldara.jpg/330px-PolidoroCaldara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Polidoro_da_Caravaggio"
     }
   ]
 }
