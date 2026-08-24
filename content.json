@@ -1,74 +1,36 @@
 {
-  "generated": "2026-08-24T21:16:22.090Z",
-  "count": 18,
+  "generated": "2026-08-24T22:12:14.641Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Sylvia Casares is a Mexican-American chef, restaurateur, and cookbook author based in Houston, Texas.",
-      "body": "She is recognized for her focus on the regional cuisines of South Texas, particularly Tex-Mex, and has documented these traditions through her restaurants and published works. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Chef_Sylvia_Casares_%28cropped%29.jpg/330px-Chef_Sylvia_Casares_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "geography",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Its nearest town is Whitchurch, which lies approximately 1.8 miles (3.1 km) north-east from the village.",
+      "body": "Hurstbourne Priors is a small village and civil parish in the Basingstoke and Deane district of Hampshire, England. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/St_Andrews_Parish_Church%2C_Hurstbourne_Priors%2C_Hampshire%2C_UK.jpg/330px-St_Andrews_Parish_Church%2C_Hurstbourne_Priors%2C_Hampshire%2C_UK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sylvia_Casares"
+      "url": "https://en.wikipedia.org/wiki/Hurstbourne_Priors"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1981 —",
-      "hook": "Mark David Chapman is sentenced to 20 years to life in prison for murdering John Lennon.",
-      "body": "Mark David Chapman is an American man who murdered musician John Lennon in New York City on December 8, 1980. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mark_David_Chapman%2C_NYPD_mugshot.jpg/330px-Mark_David_Chapman%2C_NYPD_mugshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mark_David_Chapman"
+      "cat": "geography",
+      "opener": "Here's one for the group chat —",
+      "hook": "It was based on sketches Turner had produced during a visit to the county in 1811.",
+      "body": "Teignmouth is an 1812 landscape painting by the British artist J. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Joseph_Mallord_William_Turner_%281775-1851%29_-_Teignmouth_-_T03882_-_Tate.jpg/330px-Joseph_Mallord_William_Turner_%281775-1851%29_-_Teignmouth_-_T03882_-_Tate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Teignmouth_(painting)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "In the 1856 Chicago mayoral election, Thomas Dyer defeated former mayor Francis Cornwall Sherman.",
-      "body": "The race was shaped by the divisive national political debate surrounding the issue of slavery, particularly debate surrounding the controversial Kansas–Nebraska Act, and the election was treated by many as a referendum on it. Bring it up somewhere. Watch the ",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Seal_of_Illinois.svg/330px-Seal_of_Illinois.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "White Zombie is a 1932 pre-Code horror movie produced independently by Edward Halperin and directed by Victor Halperin.",
+      "body": "The screenplay by Garnett Weston, based on The Magic Island, a non-fiction travel book by William Seabrook, is about a young woman's transformation into a zombie by a voodoo master. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Poster_-_White_Zombie_01_Crisco_restoration.jpg/330px-Poster_-_White_Zombie_01_Crisco_restoration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1856_Chicago_mayoral_election"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Paramount, California attorney general cancel settlement talks",
-      "body": "Rob Bonta said Paramount were ”demonstrating a lack of good faith”.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/paramount-california-attorney-general-cancel-settlement-talks/5219624.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1929 —",
-      "hook": "Second day of two-day Hebron massacre during the 1929 Palestine riots: Arab attacks on the Jewish community in Hebron in the British Mandate of Palestine, result in the death of 65–68 Jews; the remaining Jews are forced to flee the city.",
-      "body": "Sixty-seven or sixty-nine Jews were massacred on 24 August 1929 in Hebron, Mandatory Palestine. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1929_Hebron_massacre_infobox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1929_Hebron_massacre"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1989 —",
-      "hook": "Colombian drug barons declare \"total war\" on the Colombian government.",
-      "body": "Colombia, officially the Republic of Colombia, is a country located in South America, with insular regions in North America. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/330px-Flag_of_Colombia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Colombia"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Disciples review – fresh-faced boys are sucked into a nightmare of extremism in India",
-      "body": "<p>A prestigious school in the holy city of Varanasi and its controversial, dogmatic teachings are the subject of this shocking documentary</p><p>The effect of political and religious indoctrination on young minds resembles a slow-release p",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/24/disciples-review-india"
+      "url": "https://en.wikipedia.org/wiki/White_Zombie_(film)"
     },
     {
       "type": "card",
@@ -83,88 +45,39 @@
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
+      "hook": "Drugs dug up at Creamfields site ahead of festival",
+      "body": "Police urge anyone who buried a rucksack or holdall to get in touch if they want it back.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c1mv0e9nm3mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Chang Hsiu-ya was a female writer from Taiwan, also known by her baptismal name Cecilia (則濟利亞) and pen names such as Chen Lan (陳藍), Chang Ya-lan (張亞藍), Hsin-ching, and others.",
+      "body": "Born in Cang County, Hebei Province, China, her family moved to Tianjin when she was seven years old. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chang_Hsiu-ya"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Gringos is a 1991 book by Charles Portis and the author's fifth novel.",
+      "body": "It follows Jimmy Burns, an expatriate American, who during his adventures in Mexico encounters a female stalker, tomb-robbing archaeologists, UFO hunters, and a group of hippies. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cc/Gringos_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gringos_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
       "hook": "Manga-inspired theme park to be built near Paris",
       "body": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1215 —",
-      "hook": "Pope Innocent III issues a bull declaring Magna Carta invalid.",
-      "body": "Pope Innocent III was the head of the Catholic Church and sovereign of the Papal States from 8 January 1198 until his death in 1216. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pope_Innocent_III_%28Monastery_of_Subiaco%29.jpg/330px-Pope_Innocent_III_%28Monastery_of_Subiaco%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pope_Innocent_III"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Hollow Men is a 2006 book written by Nicky Hager about the election strategies used by the New Zealand National Party during New Zealand's 2005 general election.",
-      "body": "The book has been adapted into a stage play, and filmed as a documentary. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/The_Hollow_Men_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Hollow_Men_(book)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "On Different Grounds review – Cupid’s-conspiracy romcom brings Nollywood and Bollywood together",
-      "body": "<p>Mildred Okwo’s earnest film about the conflicting romantic wishes in a Nigerian family struggles to connect with its promising premise</p><p>It’s a stretch for this Nigerian romcom to bill itself “the first Nollywood-Bollywood collaborat",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/24/on-different-grounds-review-nollywood-bollywood"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1911 —",
-      "hook": "Manuel de Arriaga is elected and sworn in as the first President of Portugal.",
-      "body": "Manuel José de Arriaga Brum da Silveira e Peyrelongue was a Portuguese lawyer who served as the first president of Portugal from 1911 to 1915. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Manuel_de_Arriaga._1912.jpg/330px-Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Manuel_de_Arriaga._1912.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Manuel_de_Arriaga"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Lismore Crozier is an Irish Insular-type crozier dated to between 1100 and 1113 AD.",
-      "body": "It consists of a wooden tubular staff lined with copper-alloy plates; embellished with silver, gold, niello and glass; and capped by a crook with a decorative openwork crest. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lismore_Crozier%2C_c._1100.jpg/330px-Lismore_Crozier%2C_c._1100.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lismore_Crozier"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Betrayal by Luke Harding review – could Donald Trump be a Russian asset?",
-      "body": "<p>A Guardian correspondent’s sobering account of the US betrayal of Ukraine – and the possible reasons behind it</p><p>American presidents have struggled to get the measure of Vladimir Putin. When George W Bush met him in 2001, he reported",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/24/betrayal-by-luke-harding-review-is-donald-trump-a-russian-asset"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Alison Sampson is a British artist, illustrator and architect.",
-      "body": "She is known for her work with Marvel Comics, DC Comics, Image Comics, and Dark Horse. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Alison_Sampson"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1814 —",
-      "hook": "British troops capture Washington, D.C. and set the Presidential Mansion, Capitol, Navy Yard and many other public buildings ablaze.",
-      "body": "The Burning of Washington, also known as the Capture of Washington, was a successful British amphibious attack conducted by Rear Admiral George Cockburn during Admiral John Warren's Chesapeake campaign. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Capture_of_the_city_of_Washington_LCCN2007683564_%28cropped%29.tif/lossy-page1-330px-Capture_of_the_city_of_Washington_LCCN2007683564_%28cropped%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Burning_of_Washington"
     },
     {
       "type": "card",
@@ -174,6 +87,113 @@
       "body": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+      "body": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "When used, an abstract always appears at the beginning of a manuscript or typescript, acting as the point-of-entry for any given academic paper or patent application.",
+      "body": "An abstract is a brief summary of a research article, thesis, review, conference proceeding, or any in-depth analysis of a particular subject and is often used to help the reader quickly ascertain the paper's purpose. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abstract_(summary)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "On July 9 2013 a car bomb exploded in the southern suburb of Beirut, Bir el-Abed.",
+      "body": "The bombing injured at least 53 people, but no one was killed. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/July_2013_Beirut_bombing"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "He studied and painted in Budapest and Western Europe.",
+      "body": "Ferenc Joachim was a Hungarian painter of portraits and landscapes in oil, watercolors and pastels on canvas, board and paper. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ferenc_JOACHIM_%281882-1964%29_self_portrait%2C_oil-on-canvas%2C_1958%2C_Budapest%2C_Hungary.JPG/330px-Ferenc_JOACHIM_%281882-1964%29_self_portrait%2C_oil-on-canvas%2C_1958%2C_Budapest%2C_Hungary.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ferenc_Joachim"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "It has a population of 663, increasing to 680 at the 2011 Census.",
+      "body": "Sandleheath is a village and civil parish about 1.8 miles (2.9 km) west of Fordingbridge in the New Forest District of Hampshire, England. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sandle_Grange_-_geograph.org.uk_-_1462694.jpg/330px-Sandle_Grange_-_geograph.org.uk_-_1462694.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sandleheath"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "It is one of two international airports in Montenegro, the other being Tivat Airport.",
+      "body": "Podgorica Airport is an international airport serving the Montenegrin capital of Podgorica and the surrounding region. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Podgorica_airport.jpg/330px-Podgorica_airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Podgorica_Airport"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Disciples review – fresh-faced boys are sucked into a nightmare of extremism in India",
+      "body": "<p>A prestigious school in the holy city of Varanasi and its controversial, dogmatic teachings are the subject of this shocking documentary</p><p>The effect of political and religious indoctrination on young minds resembles a slow-release p",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/24/disciples-review-india"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Paramount, California attorney general cancel settlement talks",
+      "body": "Rob Bonta said Paramount were ”demonstrating a lack of good faith”.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/paramount-california-attorney-general-cancel-settlement-talks/5219624.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Family Album is a 1985 romance novel by American Danielle Steel.",
+      "body": "It was adapted into a 1994 TV miniseries starring Jaclyn Smith. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5c/Family_Album_%28Danielle_Steel_novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Family_Album_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Vermillion River is a tributary of the Missouri River, 96 miles (154 km) long, in eastern South Dakota in the United States.",
+      "body": "The origin of the river name is Waséoyuze, Lakota for \"place where vermilion is obtained\". The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Vermillion_River_South_Dakota_5.jpg/330px-Vermillion_River_South_Dakota_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vermillion_River_(South_Dakota)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Less than Zero is the debut novel of Bret Easton Ellis, published in 1985.",
+      "body": "It was his first published effort, released when he was a 21-year-old student at Bennington College. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/14/Lessthan01st1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Less_than_Zero_(novel)"
     }
   ]
 }
