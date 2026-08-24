@@ -1,36 +1,45 @@
 {
-  "generated": "2026-08-24T17:19:43.534Z",
-  "count": 18,
+  "generated": "2026-08-24T18:19:43.315Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Liberty: Deception is a dystopian science fiction graphic novel comic book series by Travis Vengroff, self-published in 2016 under the American publishing company John Dossinger Publishing.",
-      "body": "It is part of Vengroff's Liberty fictional universe. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Comic_Liberty_Deception_Cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Originally co-founded as a band with Darren King in 2002, Meany decided to continue Mutemath as a solo project following King's departure in 2017.",
+      "body": "Mutemath is an American alternative rock project founded by singer-songwriter, multi-instrumentalist, and record producer Paul Meany. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mutemath_12_%286898931361%29.jpg/330px-Mutemath_12_%286898931361%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Liberty%3A_Deception"
+      "url": "https://en.wikipedia.org/wiki/Mutemath"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1815 —",
-      "hook": "The modern Constitution of the Netherlands is signed.",
-      "body": "The Constitution of the Kingdom of the Netherlands of 24 August 1815 is one of two fundamental documents governing the Kingdom of the Netherlands as well as the fundamental law of the Netherlands proper. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Constitution_of_the_Netherlands"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "On Different Grounds review – Cupid’s-conspiracy romcom brings Nollywood and Bollywood together",
+      "body": "<p>Mildred Okwo’s earnest film about the conflicting romantic wishes in a Nigerian family struggles to connect with its promising premise</p><p>It’s a stretch for this Nigerian romcom to bill itself “the first Nollywood-Bollywood collaborat",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/24/on-different-grounds-review-nollywood-bollywood"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1991 —",
-      "hook": "Ukraine declares itself independent from the Soviet Union.",
-      "body": "Ukraine is a country in Eastern Europe. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ukraine"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Titti Maria Christina Schultz is a Swedish radio presenter, compere, and moderator.",
+      "body": "She is currently working as a radio presenter at Swedish Radio's talk show P4 Extra. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Titti_Schultz.jpg/330px-Titti_Schultz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Titti_Schultz"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Christina Krüsi is a Swiss author, artist, consultant on mediation and conflict resolution, and advocate for preventing child abuse.",
+      "body": "She was a missionary kid who was sexually abused for five years as a child while her parents worked in Bolivia, translating the Bible into local languages. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Christina_Krusi_Speaker_2014_wiki.jpg/330px-Christina_Krusi_Speaker_2014_wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Christina_Kr%C3%BCsi"
     },
     {
       "type": "card",
@@ -44,50 +53,21 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Esports World Cup ends with surprise win for China-based team",
-      "body": "AG.AL claim the overall title and $7m (£5.1m) top prize at the third Esports World Cup in Paris.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cew9lxpjjq2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2006 —",
-      "hook": "The International Astronomical Union (IAU) redefines the term \"planet\" such that Pluto is now considered a dwarf planet.",
-      "body": "The International Astronomical Union is an international non-governmental organization (INGO) with the objective of advancing astronomy in all aspects, including promoting astronomical research, outreach, education, and development through global cooperation. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/IAU_logo.svg/330px-IAU_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/International_Astronomical_Union"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1200 —",
-      "hook": "King John of England, signer of the first Magna Carta, marries Isabella of Angoulême in Angoulême Cathedral.",
-      "body": "John was King of England from 1199 until his death in 1216. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Jan_tomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/John%2C_King_of_England"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Drift is a 2023 drama film directed by Anthony Chen from a screenplay by Susanne Farrell and Alexander Maksik.",
-      "body": "It is based on the novel A Marker to Measure Drift by Maksik. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Drift_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Drift_(2023_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "The Guardian · Culture —",
       "hook": "Slayyyter live review – raucous show announces a new princess of sleaze-pop",
       "body": "<p><strong>Shrine Auditorium, Los Angeles</strong></p><p>The cult star proves she is ready for pop’s big leagues in a show that blends chaotic punk energy with technical finesse</p><p>The last time <a href=\"https://www.theguardian.com/music",
       "src": "The Guardian · Culture",
       "url": "https://www.theguardian.com/music/2026/aug/24/slayyyter-live-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Francis V, Duke of Modena, Reggio and Guastalla, Archduke of Austria-Este, Royal Prince of Hungary and Bohemia, Duke of Mirandola and of Massa, Prince of Carrara was a reigning prince.",
+      "body": "He was Duke of Modena, Reggio, and Mirandola, Duke of Guastalla from 1847 and Duke of Massa and Prince of Carrara from 1846 to 1859. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Francesco_V_d%27austria_este_Duca_Modena_young.jpg/330px-Francesco_V_d%27austria_este_Duca_Modena_young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Francis_V%2C_Duke_of_Modena"
     },
     {
       "type": "card",
@@ -97,6 +77,16 @@
       "body": "<p>Recent incorrect attempts to reveal the White Stripes star’s whereabouts reflect how much we’re still obsessed with the one-of-a-kind drummer</p><p>In February 2011, the White Stripes <a href=\"https://web.archive.org/web/20110202192447/h",
       "src": "The Guardian · Culture",
       "url": "https://www.theguardian.com/music/2026/aug/24/meg-white-white-stripes-fascination"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Aloysius Martin Thesz, known by the ring name Lou Thesz, was an American professional wrestler and wrestling coach.",
+      "body": "Considered to be one of the last true shooters in professional wrestling and described as the \"quintessential athlete\" and a \"polished warrior who could break a man in two if pushed the wrong way\", Thesz is widely regarded as one of the greatest wrestlers and ",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/1953_St.Paul_Armory_Wrestling_Program_-_Lou_Thesz.jpg/330px-1953_St.Paul_Armory_Wrestling_Program_-_Lou_Thesz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lou_Thesz"
     },
     {
       "type": "card",
@@ -110,70 +100,40 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Swordbird is a children's fantasy novel written by Nancy Yi Fan.",
-      "body": "A prequel, Sword Quest, was released January 22, 2008. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Swordbird-cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Sir Henry William Primrose was a Scottish civil servant.",
+      "body": "He joined the Treasury in 1869, served as private secretary to the Viceroy of India from 1880 to 1884 and to Gladstone in 1886. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Swordbird"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Ring of Fire III is an anthology created by editor-author-historian Eric Flint, first published in hardcover by Baen Books in July 2011.",
-      "body": "It is the third anthology in the 1632 series, after Ring of Fire II (2008). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Ring_of_Fire_III_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ring_of_Fire_III"
+      "url": "https://en.wikipedia.org/wiki/Henry_Primrose"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "EsDeeKid mystery no problem for fans after 'insane' All Points East set",
-      "body": "We still don't know the Scouse rapper's true identity, but do music lovers really care who he is?",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cp8012ejyr6o?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Culture —",
+      "hook": "Mark Ruffalo fires back at Paramount Skydance after it accuses him of using ‘antisemitic tropes’",
+      "body": "<p>Actor says highlighting role of Oracle CEO Larry Ellison in media company’s merger with Warner Bros Discovery has been ‘dishonestly framed as being anti-Israel’</p><p>Mark Ruffalo has fired back at Paramount Skydance after the media comp",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/24/mark-ruffalo-fires-back-paramount-oracle-accused-antisemitic-tropes-israel"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "John Lewley Cornforth CBE was a British architectural historian with a particular interest in the history of English country houses.",
+      "body": "He was the author of many books and articles, and architectural editor of Country Life from 1967 to 1977. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Cornforth_(historian)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "‘I was scared I was going mad’: Meg Mason speaks to fellow authors about the parasocial relationships that begin on the page",
-      "body": "<p>As a lonely teenager, the novels of Nancy Mitford offered the Sorrow and Bliss author a lifeline - and an imaginary friend. She explores why reading can create a particularly intense bond with a favourite writer</p><p>In the summer befor",
+      "hook": "The Disappearers by Marlon James review – a scorching exposé of homophobia in Jamaica",
+      "body": "<p>This Booker-listed epic set in Aids-era Kingston is a triumph – bitter, bawdy and ravishingly queer</p><p>“A sense of sweep,” replied Marlon James, when asked what moves him most in literature. “Sweep isn’t just about external journeys, ",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/23/meg-mason-author-literary-parasocial-relationships-sorrow-bliss-books-nancy-mitford"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2010 —",
-      "hook": "In San Fernando, Tamaulipas, Mexico, 72 illegal immigrants are killed by Los Zetas and eventually found dead by Mexican authorities.",
-      "body": "San Fernando is a city located in the Mexican state of Tamaulipas; it serves as the seat of the surrounding municipality of the same name. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Presidensia_Municipal_San_Fernando%2C_Tamaulipas.jpg/330px-Presidensia_Municipal_San_Fernando%2C_Tamaulipas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/San_Fernando%2C_Tamaulipas"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2001 —",
-      "hook": "Air Transat Flight 236 loses all engine power over the Atlantic Ocean, forcing the pilots to conduct an emergency landing in the Azores.",
-      "body": "Air Transat Flight 236 was a transatlantic flight bound for Lisbon, Portugal, from Toronto, Canada, that lost all engine power while flying over the Atlantic Ocean in the dark on August 24, 2001. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Air_Transat_Flight_236_after_emergency_landing.jpg/330px-Air_Transat_Flight_236_after_emergency_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Air_Transat_Flight_236"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Eagle in the Snow (ISBN 1-59071-011-8) is a 1970 historical fiction novel written by Wallace Breem, which was reprinted in 2003 following the success of the film Gladiator.",
-      "body": "A commercial success, the critically acclaimed novel is Breem's best known work. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Eagle_in_the_Snow.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Eagle_in_the_Snow"
+      "url": "https://www.theguardian.com/books/2026/aug/24/the-disappearers-by-marlon-james-review-a-scorching-expose-of-homophobia-in-jamaica"
     }
   ]
 }
