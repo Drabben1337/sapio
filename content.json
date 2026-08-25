@@ -1,33 +1,46 @@
 {
-  "generated": "2026-08-25T21:14:34.954Z",
-  "count": 13,
+  "generated": "2026-08-25T22:12:18.579Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Great Dictator by Matthew Sweet review – the fabulous life of Barbara Cartland",
-      "body": "<p>A brilliant new biography that does it subject the favour of taking her seriously – even if few else did</p><p>Barbara Cartland was famous for dictating her novels. With a pekingese clamped to her hot pink bosom she would lie back on a l",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/25/the-great-dictator-by-matthew-sweet-review-the-life-of-barbara-cartland"
+      "cat": "history",
+      "opener": "On this day in 1248 —",
+      "hook": "The Dutch city of Ommen receives city rights and fortification rights from Otto III, the Archbishop of Utrecht.",
+      "body": "Ommen is a municipality and a Hanseatic city in the eastern Netherlands. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Old_cityhall_Ommen.jpg/330px-Old_cityhall_Ommen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ommen"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "John Irvin obituary",
-      "body": "<p>British film-maker and director of Tinker Tailor Soldier Spy who was described by Alec Guinness as having ‘balls behind the camera’</p><p>Bouncing from war zone reportage to cold war espionage, Hollywood horror to Sherwood Forest swashbu",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/25/john-irvin-obituary"
+      "cat": "history",
+      "opener": "On this day in 1967 —",
+      "hook": "George Lincoln Rockwell, founder of the American Nazi Party, is assassinated by a former member of his group.",
+      "body": "George Lincoln Rockwell was an American neo-Nazi activist and politician who founded the American Nazi Party (ANP) and became one of the most notorious white supremacists in the United States until his assassination in 1967. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/George_Lincoln_Rockwell_in_1963_%283x4_cropped%29.jpg/330px-George_Lincoln_Rockwell_in_1963_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/George_Lincoln_Rockwell"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-      "body": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Devil Wears Prada is a musical based on the 2003 novel of the same name by Lauren Weisberger as well as the 2006 film of the same name with a screenplay by Aline Brosh McKenna.",
+      "body": "The musical has music by Elton John, lyrics by Shaina Taub and Mark Sonnenblick, and a book by Kate Wetherhead. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5d/DevilWearsPradaMusicalPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(musical)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "It is legally protected under the Sindh Cultural Heritage (Preservation) Act.",
+      "body": "St Andrew's Church, also known as Scotch Church, is a gothic-style building of a presbyterian church located in Saddar, Karachi, Pakistan. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/St._Andrews_Church-4.jpg/330px-St._Andrews_Church-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/St._Andrew's_Church%2C_Karachi"
     },
     {
       "type": "card",
@@ -40,52 +53,90 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "War and Peace in the Global Village is a 1968 book by Marshall McLuhan and Quentin Fiore.",
-      "body": "It contains a collage of images and text that illustrates the effects of electronic media and new technology on man. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/War_and_Peace_in_the_Global_Village.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/War_and_Peace_in_the_Global_Village"
+      "cat": "history",
+      "opener": "On this day in 1939 —",
+      "hook": "The Irish Republican Army carries out the 1939 Coventry bombing in which five civilians were killed.",
+      "body": "The Irish Republican Army (IRA) is a name used by various militant organisations in Ireland throughout the 20th and 21st centuries. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hogan%27s_Flying_Column.gif/330px-Hogan%27s_Flying_Column.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Irish_Republican_Army"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Pierre Clementi, real name Francis Anthony Clementi, was a French politician active during the 1930s and the occupation of France during the Second World War.",
-      "body": "He was the founder and leader of the French National-Collectivist Party, which espoused a platform of National Communism, a combination of Fascism, French nationalism and to a certain extent Communism. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pierre_Cl%C3%A9menti_%281910-1982%29%2C_homme_politique_fran%C3%A7ais_%281941%29.jpg/330px-Pierre_Cl%C3%A9menti_%281910-1982%29%2C_homme_politique_fran%C3%A7ais_%281941%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pierre_Cl%C3%A9menti_(politician)"
+      "opener": "On this day in 1823 —",
+      "hook": "American fur trapper Hugh Glass is mauled by a grizzly bear while on an expedition in South Dakota.",
+      "body": "Hugh Glass was an American frontiersman, fur trapper, trader, hunter and explorer. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hugh_Glass_News_Article_%28cropped%29.jpg/330px-Hugh_Glass_News_Article_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hugh_Glass"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Towelhead is a novel written by American novelist Alicia Erian and first published April 6, 2005.",
-      "body": "Alicia Erian is the first holder of the Newhouse Visiting Professorship of Creative Writing at Wellesley College in Massachusetts. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Towelhead_(novel)"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Great Dictator by Matthew Sweet review – the fabulous life of Barbara Cartland",
+      "body": "<p>A brilliant new biography that does it subject the favour of taking her seriously – even if few else did</p><p>Barbara Cartland was famous for dictating her novels. With a pekingese clamped to her hot pink bosom she would lie back on a l",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/25/the-great-dictator-by-matthew-sweet-review-the-life-of-barbara-cartland"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Tiger Rising is a 2022 American drama film written and directed by Ray Giarratana and starring Christian Convery, Madalen Mills, Katharine McPhee, Sam Trammell, Dennis Quaid and Queen Latifah.",
-      "body": "It is based on the 2001 book of the same name by Kate DiCamillo. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f5/The_Tiger_Rising_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Tiger_Rising_(film)"
+      "cat": "history",
+      "opener": "On this day in 1989 —",
+      "hook": "Voyager 2 spacecraft makes its closest approach to Neptune, the last planet in the Solar System at the time, due to Pluto being within Neptune's orbit from 1979 to 1999.",
+      "body": "Voyager 2 is a space probe launched by NASA on August 20, 1977, as a part of the Voyager program. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Voyager_2"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Triage by Claudia Rankine review – how should we respond to the world’s atrocities?",
+      "body": "<p>The American poet and essayist weaves memoir, fiction, criticism and lyrical lament into a tale of friendship in an age of existential crisis</p><p>“Any resemblance to actual persons, living or dead, or actual events is purely coincident",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/25/triage-by-claudia-rankine-review-how-should-we-respond-to-the-worlds-atrocities"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Songs created by AI banned from Australia's music charts",
-      "body": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+      "hook": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "body": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Liminal is an upcoming American science fiction action thriller film directed by Louis Leterrier, from a screenplay by Justin Rhodes, and based on the 2022 graphic novel Telepaths by J.",
+      "body": "Michael Straczynski, Steve Epting, and Brian Reber. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liminal_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Caravan to Vaccarès is a 1974 British-French action film directed by Geoffrey Reeve and starring David Birney, Charlotte Rampling and Michael Lonsdale.",
+      "body": "It was loosely based on the 1970 novel Caravan to Vaccarès by Alistair MacLean. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ee/Caravan_to_Vaccares_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Caravan_to_Vaccar%C3%A8s_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "El vuelo de los avestruces is the debut novel by Venezuelan writer Boris Izaguirre, published in 1991, starring a homosexual dwarf in Caracas in the late eighties and early nineties.",
+      "body": "One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/El_vuelo_de_los_avestruces"
     },
     {
       "type": "card",
@@ -98,6 +149,25 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Rules of Attraction is a 2010 young adult novel written by Simone Elkeles as the second installment of the Perfect Chemistry series.",
+      "body": "It spent three weeks on the New York Times Children's Best Seller List in 2010. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/RulesOfAttraction.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rules_of_Attraction_(Elkeles_novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Penny Lane Is Dead review – Aussie slasher comedy zips from Neighbours to nasty",
+      "body": "<p>Mia’Kate Russell’s 80s-set Ozsploitation horror is a tad slapdash, but the grungy gore and seething catfights save it from dud status </p><p>Here is a muddled if energetic effort from Australian writer-director Mia’Kate Russell. There’s ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/25/penny-lane-is-dead-review-aussie-slasher-comedy-zips-from-neighbours-to-nasty"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
       "hook": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
@@ -107,23 +177,13 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Remains of the Day is a 1993 drama film adapted from the Booker Prize–winning 1989 novel by Kazuo Ishiguro.",
-      "body": "The film was directed by James Ivory, produced by Ismail Merchant, Mike Nichols, and John Calley and adapted by Ruth Prawer Jhabvala. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Remains_of_the_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Remains_of_the_Day_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Robert Louis Stevenson was a Scottish novelist, essayist, poet and travel writer.",
-      "body": "He is best known for the novels Treasure Island (1883), Strange Case of Dr Jekyll and Mr Hyde (1886), and Kidnapped (1886) and for the poetry collection A Child's Garden of Verses (1885). One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg/330px-Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "The Battle of Vukovar begins. An 87-day siege of Vukovar by the Yugoslav People's Army (JNA), supported by various Serb paramilitary forces, between August and November 1991 (during the Croatian War of Independence).",
+      "body": "The Battle of Vukovar was an 87-day siege of Vukovar in eastern Croatia by the Yugoslav People's Army (JNA), supported by various paramilitary forces from Serbia, between August and November 1991. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vukovar-watertower-after-war.jpg/330px-Vukovar-watertower-after-war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Vukovar"
     }
   ]
 }
