@@ -1,151 +1,55 @@
 {
-  "generated": "2026-08-25T17:20:21.768Z",
-  "count": 20,
+  "generated": "2026-08-25T18:19:58.759Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Germany selects Sandra Wollner’s ‘Everytime’ as Oscar submission",
-      "body": "Drama won the Un Certain Regard prize after its Cannes world premiere in May.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/germany-selects-sandra-wollners-everytime-as-oscar-submission/5219712.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Wandering Inn is a LitRPG fantasy web series started in 2016, written by the pseudonymous \"Pirateaba\".",
-      "body": "The series is known in part for its length. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Wandering_Inn"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1912 —",
-      "hook": "The Kuomintang is founded for the first time in Peking.",
-      "body": "The Kuomintang (KMT) is a major political party in the Republic of China (Taiwan). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Emblem_of_the_Kuomintang.svg/330px-Emblem_of_the_Kuomintang.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1991 —",
+      "hook": "Linus Torvalds announces the first version of what will become Linux.",
+      "body": "Linus Benedict Torvalds is a Finnish and American software engineer who is the creator and lead developer of the Linux kernel since 1991. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/330px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Kuomintang"
+      "url": "https://en.wikipedia.org/wiki/Linus_Torvalds"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Founded in June 1979 by Motoji Koumei, originally from Amami Ōshima, the company operates separate shops for women’s kimono and the industry’s first dedicated men’s kimono outlet, opened in 2002.",
-      "body": "Ginza Motoji (銀座もとじ) is a kimono retailer based in the Ginza district of Tokyo, Japan. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ginza_Motoji"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Mysterious Benedict Society and the Prisoner's Dilemma is a 2009 children's novel written by Trenton Lee Stewart and illustrated by Diana Sudyka.",
-      "body": "For a decade it remained the third and final book in the Mysterious Benedict Society series; however, a new adventure followed in 2019. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/71/The_Mysterious_Benedict_Society_and_the_Prisoner%27s_Dilemma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Mysterious_Benedict_Society_and_the_Prisoner's_Dilemma"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1940 —",
-      "hook": "World War II: The first Bombing of Berlin by the British Royal Air Force.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1985 —",
+      "hook": "Bar Harbor Airlines Flight 1808 crashes near Auburn/Lewiston Municipal Airport in Auburn, Maine, killing all eight people on board including peace activist and child actress Samantha Smith.",
+      "body": "Bar Harbor Airlines Flight 1808 was a scheduled flight from Logan International Airport to Bangor International Airport in the United States on August 25, 1985. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/N4381Y_Beech_99_Aerodynamics_Worldwide_Inc_%2839564952325%29.jpg/330px-N4381Y_Beech_99_Aerodynamics_Worldwide_Inc_%2839564952325%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
+      "url": "https://en.wikipedia.org/wiki/Bar_Harbor_Airlines_Flight_1808"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Designer's diamond watch cut off wrist, court told",
-      "body": "Three men allegedly stole the Richard Mille watch straight from Catalin Botezatu's wrist.",
+      "hook": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
+      "body": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cn8e70jd17zo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Disappearers by Marlon James review – a scorching exposé of homophobia in Jamaica",
-      "body": "<p>This Booker-listed epic set in Aids-era Kingston is a triumph – bitter, bawdy and ravishingly queer</p><p>“A sense of sweep,” replied Marlon James, when asked what moves him most in literature. “Sweep isn’t just about external journeys, ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/24/the-disappearers-by-marlon-james-review-a-scorching-expose-of-homophobia-in-jamaica"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Slayyyter live review – raucous show announces a new princess of sleaze-pop",
-      "body": "<p><strong>Shrine Auditorium, Los Angeles</strong></p><p>The cult star proves she is ready for pop’s big leagues in a show that blends chaotic punk energy with technical finesse</p><p>The last time <a href=\"https://www.theguardian.com/music",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/24/slayyyter-live-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The subsequent inquiries into her death led to the publication of the first Asbestos Industry Regulations in 1931.",
-      "body": "Nellie Kershaw was an English textile worker from Rochdale, Lancashire. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/Nellie_Kershaw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Till We Have Faces: A Myth Retold is a 1956 novel by C.",
+      "body": "It is a retelling of Cupid and Psyche, based on the version in The Golden Ass by Apuleius. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/66/Till_We_Have_Faces%28C.S_Lewis_book%29_1st_edition_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nellie_Kershaw"
+      "url": "https://en.wikipedia.org/wiki/Till_We_Have_Faces"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1939 —",
-      "hook": "The United Kingdom and Poland form a military alliance in which the UK promises to defend Poland in case of invasion by a foreign power.",
-      "body": "The Second Polish Republic, officially known at the time as the Republic of Poland, was the Polish state that existed between 7 October 1918 and 6 October 1939 after being established in the final stage of World War I. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Poland_%281928%E2%80%931980%29.svg/330px-Flag_of_Poland_%281928%E2%80%931980%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Second_Polish_Republic"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘I was scared I was going mad’: Meg Mason speaks to fellow authors about the parasocial relationships that begin on the page",
-      "body": "<p>As a lonely teenager, the novels of Nancy Mitford offered the Sorrow and Bliss author a lifeline - and an imaginary friend. She explores why reading can create a particularly intense bond with a favourite writer</p><p>In the summer befor",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/23/meg-mason-author-literary-parasocial-relationships-sorrow-bliss-books-nancy-mitford"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1904 —",
-      "hook": "Russo-Japanese War: The Battle of Liaoyang begins.",
-      "body": "The Russo-Japanese War was fought between the Russian Empire and the Empire of Japan over rival imperial ambitions in Manchuria and the Korean Empire. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RUSSOJAPANESEWARIMAGE.jpg/330px-RUSSOJAPANESEWARIMAGE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Russo-Japanese_War"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1933 —",
-      "hook": "Nazi Germany and the Zionist Federation of Germany signed the Haavara Agreement. The agreement was a major factor in breaking the anti-Nazi boycott of 1933 and facilitated Jewish emigration from Germany and into British Mandate of Palestine.",
-      "body": "Nazi Germany, officially the German Reich and later the Greater German Reich, was the German state between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country, transforming it into a totalitarian dictatorship. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/330px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Nazi_Germany"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "World War II: Second day of the Battle of the Eastern Solomons; a Japanese naval transport convoy headed towards Guadalcanal is turned back by an Allied air attack.",
-      "body": "The naval Battle of the Eastern Solomons took place on 24–25 August 1942 and was the third carrier battle of the Pacific campaign of World War II and the second major engagement fought between the United States Navy and the Imperial Japanese Navy (IJN) during the Guadalcanal campaign. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/USS_Enterprise_%28CV-6%29_under_attack_and_burning_during_the_Battle_of_the_Eastern_Solomons_on_24_August_1942_%28NH_97778%29.jpg/330px-USS_Enterprise_%28CV-6%29_under_attack_and_burning_during_the_Battle_of_the_Eastern_Solomons_on_24_August_1942_%28NH_97778%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Eastern_Solomons"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Shane Ó hEochagáin, known mononymously as Hector, is an Irish television and radio presenter born in Drogheda, County Louth, and raised in Navan, County Meath.",
+      "body": "He is best known for travel shows on TG4, the Irish language television station in Ireland. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hector_%C3%93_hEochag%C3%A1in"
     },
     {
       "type": "card",
@@ -158,42 +62,118 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1997 —",
+      "hook": "Egon Krenz, the former East German leader, is convicted of a shoot-to-kill policy at the Berlin Wall.",
+      "body": "Egon Rudi Ernst Krenz is a German former politician who was the last Communist leader of the German Democratic Republic during the Revolutions of 1989. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bundesarchiv_Bild_183-1984-0704-400%2C_Egon_Krenz_%28cropped%29.jpg/330px-Bundesarchiv_Bild_183-1984-0704-400%2C_Egon_Krenz_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Egon_Krenz"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1258 —",
+      "hook": "Regent George Mouzalon and his brothers are killed during a coup headed by the aristocratic faction under Michael VIII Palaiologos, paving the way for its leader to ultimately usurp the throne of the Empire of Nicaea.",
+      "body": "George Mouzalon was a high official of the Empire of Nicaea under Theodore II Laskaris. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/George_Mouzalon"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Medici giraffe was a giraffe presented to Lorenzo de' Medici in Florence on November 18, 1487, by al-Ashraf Qaitbay, the Burji Mamluk Sultan of Egypt, in an attempt to win the support of the Medici.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Giraffe.medici.ghirlandaio.detail.jpg/330px-Giraffe.medici.ghirlandaio.detail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Medici_giraffe"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Wyndham is a historic apartment building located at Indianapolis, Indiana.",
+      "body": "It was built in 1929, and is a seven-story, four bay wide, Tudor Revival style multicolor brick building. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Wyndham%2C_Indianapolis.jpg/330px-The_Wyndham%2C_Indianapolis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Wyndham"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Germany selects Sandra Wollner’s ‘Everytime’ as Oscar submission",
+      "body": "Drama won the Un Certain Regard prize after its Cannes world premiere in May.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/germany-selects-sandra-wollners-everytime-as-oscar-submission/5219712.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Dolly Parton: The country legend who sang from the heart",
+      "body": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Betrayal by Luke Harding review – could Donald Trump be a Russian asset?",
+      "body": "<p>A Guardian correspondent’s sobering account of the US betrayal of Ukraine – and the possible reasons behind it</p><p>American presidents have struggled to get the measure of Vladimir Putin. When George W Bush met him in 2001, he reported",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/24/betrayal-by-luke-harding-review-is-donald-trump-a-russian-asset"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1942 —",
+      "hook": "World War II: Battle of Milne Bay: Japanese marines assault Allied airfields at Milne Bay, New Guinea, initiating the Battle of Milne Bay.",
+      "body": "The Battle of Milne Bay, also known as Operation RE or the Battle of Rabi (ラビの戦い) by the Japanese, was a battle of the Pacific campaign of World War II. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Australian_troops_at_Milne_Bay.jpg/330px-Australian_troops_at_Milne_Bay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Milne_Bay"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Disappearers by Marlon James review – a scorching exposé of homophobia in Jamaica",
+      "body": "<p>This Booker-listed epic set in Aids-era Kingston is a triumph – bitter, bawdy and ravishingly queer</p><p>“A sense of sweep,” replied Marlon James, when asked what moves him most in literature. “Sweep isn’t just about external journeys, ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/24/the-disappearers-by-marlon-james-review-a-scorching-expose-of-homophobia-in-jamaica"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Adrift: How Our World Lost Its Way is a 2019 book by the French-Lebanese writer Amin Maalouf.",
+      "body": "It is a personal analysis of post-war international politics, covering geopolitics relating to the Middle East, increased social fragmentisation in Europe and changing political credibility in the United States. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/35/Adrift%2C_How_Our_World_Lost_Its_Way_book_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adrift%3A_How_Our_World_Lost_Its_Way"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "John Oliver on ‘smart’ appliances: ‘Spying on you through the washing machine’",
-      "body": "<p>The host also discussed the rise of forgotten monthly subscriptions for anything from dishwashers to litter boxes</p><p>On the Sunday night episode of his HBO show, <a href=\"https://www.theguardian.com/tv-and-radio/john-oliver\">John Oliv",
+      "hook": "Dolly Parton, country star, actor and philanthropist, dies aged 80",
+      "body": "<p>Songwriter of I Will Always Love You, Jolene and 9 to 5 also invested millions in child literacy, Covid-19 vaccine development and other causes</p><p>Dolly Parton, one of the greatest singer-songwriters in country music who was also much",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/24/john-oliver-subscriptions-smart-appliances"
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Mister Buddwing is a 1966 American film drama starring James Garner, Jean Simmons, Suzanne Pleshette, Katharine Ross, and Angela Lansbury.",
-      "body": "Directed by Delbert Mann, the film depicts a well-dressed man who wakes up on a bench in Central Park with no idea who he is. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Mister_Buddwing_poster.jpg/330px-Mister_Buddwing_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mister_Buddwing"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Lives of the Saints is a novel by Canadian writer Nino Ricci.",
-      "body": "The author's first book, it forms the first part of a trilogy. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6b/Lives_of_the_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lives_of_the_Saints_(Ricci_novel)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Colour of Magic is a 1983 fantasy comedy novel by Terry Pratchett, and is the first book of the Discworld series.",
-      "body": "The first printing of the British edition consisted of only 506 copies. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/The_Colour_of_Magic_%28cover_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Colour_of_Magic"
+      "cat": "history",
+      "opener": "On this day in 1609 —",
+      "hook": "Galileo Galilei demonstrates his first telescope to Venetian lawmakers.",
+      "body": "Galileo di Vincenzo Bonaiuti de' Galilei, commonly referred to as Galileo Galilei or mononymously as Galileo, was an Italian astronomer, physicist, engineer and polymath. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-330px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Galileo_Galilei"
     }
   ]
 }
