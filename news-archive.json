@@ -2,6 +2,16 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Books —",
+    "hook": "The Great Dictator by Matthew Sweet review – the life of Barbara Cartland",
+    "body": "<p>An excellent, compassionate biography of the wildly prolific romantic novelist</p><p>Barbara Cartland was famous for dictating her novels. With a pekingese clamped to her hot pink bosom she would lie back on a library couch and exhale a ",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/books/2026/aug/25/the-great-dictator-by-matthew-sweet-review-the-life-of-barbara-cartland",
+    "_t": 1787638899831
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "BBC Entertainment —",
     "hook": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
     "body": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
@@ -588,15 +598,5 @@
     "src": "ESA",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery",
     "_t": 1787567085696
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "‘A bit like meditation’: why Saw is my feelgood movie",
-    "body": "<p>The latest in our series of writers picking their go-to comfort films is a grimy and gory trip back to the start of a surprisingly uplifting torture porn franchise</p><p>I was petsitting recently for a white suburban family, with the typ",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/aug/24/my-feelgood-movie-saw",
-    "_t": 1787563988821
   }
 ]

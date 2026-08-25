@@ -1,73 +1,36 @@
 {
-  "generated": "2026-08-25T05:21:30.776Z",
-  "count": 13,
+  "generated": "2026-08-25T06:21:39.832Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Lazar Poptraykov was a Bulgarian revolutionary (komitadji).",
-      "body": "He was also a Bulgarian Exarchate teacher and poet from Ottoman Macedonia. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lazo_poptrajkov.jpg/330px-Lazo_poptrajkov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lazar_Poptraykov"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The University of Tennessee, Knoxville is a public land-grant research university in Knoxville, Tennessee, United States.",
-      "body": "Founded in 1794, two years before Tennessee became the 16th state, it is the flagship campus of the University of Tennessee system, with 14 colleges. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Seal_of_the_University_of_Tennessee.svg/330px-Seal_of_the_University_of_Tennessee.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/University_of_Tennessee"
+      "cat": "history",
+      "opener": "On this day in 1989 —",
+      "hook": "Pakistan International Airlines Flight 404, carrying 54 people, disappears over the Himalayas after takeoff from Gilgit Airport in Pakistan. The aircraft was never found.",
+      "body": "Pakistan International Airlines Flight 404 was a Fokker F27 Friendship that disappeared shortly after takeoff on 25 August 1989. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/AP-BBF_-_PIA_F27.jpg/330px-AP-BBF_-_PIA_F27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pakistan_International_Airlines_Flight_404"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Its territory stretches along the Gulf of Saint Lawrence, whereas the settlement itself is located on a peninsula in the Saint Augustin Bay at the mouth of the Saint-Augustin River.",
-      "body": "Saint-Augustin is a municipality and settlement in Le Golfe-du-Saint-Laurent Regional County Municipality in the Côte-Nord region of Quebec, Canada, known by its large English-speaking population as St. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/St-Augustin.jpg/330px-St-Augustin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Saint-Augustin%2C_C%C3%B4te-Nord%2C_Quebec"
+      "opener": "On this day in 1942 —",
+      "hook": "World War II: Battle of Milne Bay: Japanese marines assault Allied airfields at Milne Bay, New Guinea, initiating the Battle of Milne Bay.",
+      "body": "The Battle of Milne Bay, also known as Operation RE or the Battle of Rabi (ラビの戦い) by the Japanese, was a battle of the Pacific campaign of World War II. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Australian_troops_at_Milne_Bay.jpg/330px-Australian_troops_at_Milne_Bay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Milne_Bay"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "The 1992 Tour de France was the 79th edition of the Tour de France, taking place from 4 to 26 July.",
-      "body": "The total race distance was 21 stages and a prologue over 3,978 km (2,472 mi). The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Route_of_the_1992_Tour_de_France.png/330px-Route_of_the_1992_Tour_de_France.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Robert Anton Wilson was an American writer, futurist, psychologist, and self-described agnostic mystic.",
+      "body": "Recognized within Discordianism as an Episkopos, pope and saint, Wilson helped publicize Discordianism through his writings and interviews. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Robert_Anton_Wilson.jpg/330px-Robert_Anton_Wilson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1992_Tour_de_France"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
-      "body": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Spider-Man: Brand New Day’ flies past $2.2bn at worldwide box office; ‘The Odyssey’ sails towards $1.5bn",
-      "body": "‘Brand New Day’ is now the sixth-biggest film of all time.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-flies-past-22bn-at-worldwide-box-office-the-odyssey-sails-towards-15bn/5219618.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Manga-inspired theme park to be built near Paris",
-      "body": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Robert_Anton_Wilson"
     },
     {
       "type": "card",
@@ -82,20 +45,30 @@
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
-      "body": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
+      "hook": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
+      "body": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Józef Hecht, also known as Joseph Hecht, was a printmaker and painter.",
-      "body": "Born and educated in Poland, he made Paris his base from 1920. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "Here's one for the group chat —",
+      "hook": "The Adventures of Hajji Baba of Ispahan is a satirical Oriental novel in English.",
+      "body": "It was written in 1824 by James Justinian Morier, a former British envoy who lived in Qajar Iran in 1808–1809 and 1810–1814, amidst the diplomatic difficulties that the country had with European nations. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hajji_Baba_of_Ispahan_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/J%C3%B3zef_Hecht"
+      "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Hajji_Baba_of_Ispahan"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1950 —",
+      "hook": "To avert a threatened strike during the Korean War, President Truman orders Secretary of the Army Frank Pace to seize control of the nation's railroads.",
+      "body": "Frank Pace Jr. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Portrait_of_Frank_Pace%2C_Jr.jpg/330px-Portrait_of_Frank_Pace%2C_Jr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Frank_Pace"
     },
     {
       "type": "card",
@@ -108,13 +81,81 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1270 —",
+      "hook": "Philip III, although suffering from dysentery, becomes King of France following the death of his father Louis IX, during the Eighth Crusade. His uncle, Charles I of Naples, is forced to begin peace negotiations with Muhammad I al-Mustansir, Hafsid Sultan of Tunis.",
+      "body": "Philip III, called the Bold, was King of France from 1270 until his death in 1285. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Philip_III_of_France.jpg/330px-Philip_III_of_France.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Philip_III_of_France"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1933 —",
+      "hook": "The Diexi earthquake strikes Mao County, Sichuan, China and kills 9,000 people.",
+      "body": "The 1933 Diexi earthquake occurred in Diexi, Mao County, Sichuan, Republic of China on August 25 with a moment magnitude of 7.3 and a maximum Mercalli intensity of X (Extreme). Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1933_Diexi_earthquake"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+      "body": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Leadership is the ability of an individual, group, or organization to influence, or guide other individuals, teams, or organizations.",
-      "body": "Leadership is a contested term. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wishnu_Wardhana_-_Opening_APEC_CEO_Summit_2013.jpg/330px-Wishnu_Wardhana_-_Opening_APEC_CEO_Summit_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Don't Leave Me is a 2009 novel by the Norwegian writer Stig Sæterbakken.",
+      "body": "It tells the story of a 17-year-old boy with a dark personality who falls in love with a woman for the first time, but his fear that she will leave him destroys the relationship. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d3/Stig_Saeterbakken_Ikke_forlat_meg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Leadership"
+      "url": "https://en.wikipedia.org/wiki/Don't_Leave_Me_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "André François-Poncet was a French politician and diplomat whose post as ambassador to Germany allowed him to witness first-hand the rise to power of Adolf Hitler and the Nazi Party, and the Nazi regime's preparations for World War II.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Andr%C3%A9_Fran%C3%A7ois-Poncet_1931b.jpg/330px-Andr%C3%A9_Fran%C3%A7ois-Poncet_1931b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Fran%C3%A7ois-Poncet"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Great Dictator by Matthew Sweet review – the life of Barbara Cartland",
+      "body": "<p>An excellent, compassionate biography of the wildly prolific romantic novelist</p><p>Barbara Cartland was famous for dictating her novels. With a pekingese clamped to her hot pink bosom she would lie back on a library couch and exhale a ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/25/the-great-dictator-by-matthew-sweet-review-the-life-of-barbara-cartland"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Black Ajax is a historical novel by George MacDonald Fraser based on the career of Tom Molineaux.",
+      "body": "It is set during the Regency era. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/Black_Ajax.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_Ajax"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2012 —",
+      "hook": "Voyager 1 spacecraft enters interstellar space, becoming the first man-made object to do so.",
+      "body": "Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program, to study the outer Solar System and the interstellar space beyond the Sun's heliosphere. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Voyager_1"
     },
     {
       "type": "card",
@@ -124,6 +165,25 @@
       "body": "<p>A prestigious school in the holy city of Varanasi and its controversial, dogmatic teachings are the subject of this shocking documentary</p><p>The effect of political and religious indoctrination on young minds resembles a slow-release p",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/aug/24/disciples-review-india"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ flies past $2.2bn at worldwide box office; ‘The Odyssey’ sails towards $1.5bn",
+      "body": "‘Brand New Day’ is now the sixth-biggest film of all time.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-flies-past-22bn-at-worldwide-box-office-the-odyssey-sails-towards-15bn/5219618.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Underland Chronicles is a series of five epic fantasy novels by Suzanne Collins, first published between 2003 and 2007.",
+      "body": "It tells the story of a boy named Gregor and his adventures in the \"Underland\", a subterranean world located under New York City. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/95/The_Underland_Chronicles_-_Gregor_the_Overlander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Underland_Chronicles"
     }
   ]
 }
