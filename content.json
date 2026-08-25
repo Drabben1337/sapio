@@ -1,17 +1,7 @@
 {
-  "generated": "2026-08-25T20:13:29.092Z",
-  "count": 11,
+  "generated": "2026-08-25T21:14:34.954Z",
+  "count": 13,
   "items": [
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Water Orton is a village and civil parish in the North Warwickshire borough of Warwickshire in the West Midlands, England near the River Tame.",
-      "body": "It is located between Castle Bromwich and Coleshill, and borders the West Midlands metropolitan county boundary to the north, west and south. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Water_Orton_SS_Peter_and_Paul.JPG/330px-Water_Orton_SS_Peter_and_Paul.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Water_Orton"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -24,6 +14,15 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "John Irvin obituary",
+      "body": "<p>British film-maker and director of Tinker Tailor Soldier Spy who was described by Alec Guinness as having ‘balls behind the camera’</p><p>Bouncing from war zone reportage to cold war espionage, Hollywood horror to Sherwood Forest swashbu",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/25/john-irvin-obituary"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "BBC Entertainment —",
       "hook": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
       "body": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
@@ -32,32 +31,52 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Night Traveler is a multimedia adventure series produced in the United States by Lunar Moth Entertainment.",
-      "body": "Originally intended as a single issue comic book, the series began to take shape in a larger more in-depth format. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Night_Traveler"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Dolly Parton: A life in pictures",
-      "body": "The singer rose from humble beginnings to become one of the most beloved entertainers in the world.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Culture —",
+      "hook": "‘A bit like meditation’: why Saw is my feelgood movie",
+      "body": "<p>The latest in our series of writers picking their go-to comfort films is a grimy and gory trip back to the start of a surprisingly uplifting torture porn franchise</p><p>I was petsitting recently for a white suburban family, with the typ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/aug/24/my-feelgood-movie-saw"
     },
     {
       "type": "card",
       "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "War and Peace in the Global Village is a 1968 book by Marshall McLuhan and Quentin Fiore.",
+      "body": "It contains a collage of images and text that illustrates the effects of electronic media and new technology on man. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/War_and_Peace_in_the_Global_Village.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/War_and_Peace_in_the_Global_Village"
+    },
+    {
+      "type": "card",
+      "cat": "history",
       "opener": "You probably never noticed this —",
-      "hook": "The pole vault has been held at the NCAA Division I Indoor Track and Field Championships annually since 1965.",
-      "body": "The women's competition began in 1998, 15 years after the start of the NCAA Division I Women's Indoor Track and Field Championships. One of those things you can't un-know.",
+      "hook": "Pierre Clementi, real name Francis Anthony Clementi, was a French politician active during the 1930s and the occupation of France during the Second World War.",
+      "body": "He was the founder and leader of the French National-Collectivist Party, which espoused a platform of National Communism, a combination of Fascism, French nationalism and to a certain extent Communism. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pierre_Cl%C3%A9menti_%281910-1982%29%2C_homme_politique_fran%C3%A7ais_%281941%29.jpg/330px-Pierre_Cl%C3%A9menti_%281910-1982%29%2C_homme_politique_fran%C3%A7ais_%281941%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Cl%C3%A9menti_(politician)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Towelhead is a novel written by American novelist Alicia Erian and first published April 6, 2005.",
+      "body": "Alicia Erian is the first holder of the Newhouse Visiting Professorship of Creative Writing at Wellesley College in Massachusetts. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pole_vault_at_the_NCAA_Division_I_Indoor_Track_and_Field_Championships"
+      "url": "https://en.wikipedia.org/wiki/Towelhead_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Tiger Rising is a 2022 American drama film written and directed by Ray Giarratana and starring Christian Convery, Madalen Mills, Katharine McPhee, Sam Trammell, Dennis Quaid and Queen Latifah.",
+      "body": "It is based on the 2001 book of the same name by Kate DiCamillo. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f5/The_Tiger_Rising_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Tiger_Rising_(film)"
     },
     {
       "type": "card",
@@ -72,38 +91,39 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "John Irvin obituary",
-      "body": "<p>British film-maker and director of Tinker Tailor Soldier Spy who was described by Alec Guinness as having ‘balls behind the camera’</p><p>Bouncing from war zone reportage to cold war espionage, Hollywood horror to Sherwood Forest swashbu",
+      "hook": "Zip Wire review – cancer-curing scientist is on the hook for cable-dangle thriller",
+      "body": "<p>This nonsensical film sees an OCD-afflicted scientist fending off assassins while hanging from an aerial wire, and fails to get pulses racing for even a minute</p><p>In this silly, low-adrenaline thriller, the title star is a rickety old",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/25/john-irvin-obituary"
+      "url": "https://www.theguardian.com/film/2026/aug/25/zip-wire-review-cable-dangle-thriller-is-seriously-slack"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Dolly Parton, country music legend and star of ‘9 To 5’, dies aged 80",
-      "body": "Beloved performer earned 11 Grammys and two Oscar nominations.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/dolly-parton-country-music-legend-and-star-of-9-to-5-dies-aged-80/5219714.article"
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
+      "body": "<p>Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/aug",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘A bit like meditation’: why Saw is my feelgood movie",
-      "body": "<p>The latest in our series of writers picking their go-to comfort films is a grimy and gory trip back to the start of a surprisingly uplifting torture porn franchise</p><p>I was petsitting recently for a white suburban family, with the typ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/24/my-feelgood-movie-saw"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Remains of the Day is a 1993 drama film adapted from the Booker Prize–winning 1989 novel by Kazuo Ishiguro.",
+      "body": "The film was directed by James Ivory, produced by Ismail Merchant, Mike Nichols, and John Calley and adapted by Ruth Prawer Jhabvala. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Remains_of_the_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Remains_of_the_Day_(film)"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Raoul Duke is the partially fictionalized author surrogate character and sometimes pseudonym used by Hunter S.",
-      "body": "Thompson as the main character and antihero for many of his works. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Duke_depp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Robert Louis Stevenson was a Scottish novelist, essayist, poet and travel writer.",
+      "body": "He is best known for the novels Treasure Island (1883), Strange Case of Dr Jekyll and Mr Hyde (1886), and Kidnapped (1886) and for the poetry collection A Child's Garden of Verses (1885). One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg/330px-Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Raoul_Duke"
+      "url": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"
     }
   ]
 }
