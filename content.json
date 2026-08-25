@@ -1,25 +1,55 @@
 {
-  "generated": "2026-08-25T10:18:05.872Z",
-  "count": 22,
+  "generated": "2026-08-25T11:15:12.532Z",
+  "count": 17,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Anthony Club founded immediately after the defeat of equal suffrage in California in 1896.",
+      "body": "Eliza Douglas Keith was an American educator, author, and journalist; she was also a social reformer and activist. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ELIZA_D._KEITH_A_woman_of_the_century_%28page_440_crop%29.jpg/330px-ELIZA_D._KEITH_A_woman_of_the_century_%28page_440_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eliza_D._Keith"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Knowledge of fish age characteristics is necessary for stock assessments, and to develop management or conservation plans.",
+      "body": "Size is generally associated with age; however, there are variations in size at any particular age for most fish species making it difficult to estimate one from the other with precision. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Removing_a_red_snapper_otolith.jpg/330px-Removing_a_red_snapper_otolith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Age_determination_in_fish"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Ruth Suckow was an American regionalist writer from Iowa.",
+      "body": "She wrote novels and stories. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ruth_Suckow"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
-      "body": "<p>This portrait by Vytautas Katkus of a man contemplating his recent fatherhood and his own father is steeped in ennui and ends up drifting</p><p>At one point in this Nordic-Baltic homecoming film, Danielius (Darius Šilėnas) refuses an inv",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/24/the-visitor-review-existential-lithuania-set-homecoming-drama-leaves-everything-in-limbo"
+      "opener": "Screen Daily —",
+      "hook": "WME, BFI, DDA executives join Screen Summit 2026 speakers lineup",
+      "body": "The Screen Summit takes place at the BFI Southbank on September 29.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/wme-bfi-dda-executives-join-screen-summit-2026-speakers-lineup/5219645.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1609 —",
-      "hook": "Galileo Galilei demonstrates his first telescope to Venetian lawmakers.",
-      "body": "Galileo di Vincenzo Bonaiuti de' Galilei, commonly referred to as Galileo Galilei or mononymously as Galileo, was an Italian astronomer, physicist, engineer and polymath. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-330px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+      "opener": "You probably never noticed this —",
+      "hook": "It is the only zoonotic hookworm species that is able to produce symptomatic infections in humans, with the majority of cases being in Southeast Asia.",
+      "body": "Ancylostoma ceylanicum is a parasitic roundworm belonging to the genus Ancylostoma. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ancylostoma_ceylanicum"
     },
     {
       "type": "card",
@@ -34,186 +64,106 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "hook": "Feminism for a World on Fire by Natasha Walter review – hope amid the hopelessness",
+      "body": "<p>A writer and activist links the climate crisis to battles for justice around the world in this vital book</p><p>It has become increasingly difficult to change our minds, to question our own views or to find common ground with people we d",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+      "url": "https://www.theguardian.com/books/2026/aug/25/feminism-for-a-world-on-fire-by-natasha-walter-review-hope-amid-the-hopelessness"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "Venice Competition title ‘NAZA’, about Gaza war, boarded for sales",
-      "body": "Film is directed by the two Israeli filmmakers behind ‘No Other Land’.",
+      "hook": "Hilary Strong steps down as CEO of John Gore Studios",
+      "body": "Departure comes amid a restructuring of theatre impresario John Gore’s business.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/venice-competition-title-naza-about-gaza-war-boarded-for-sales/5219667.article"
+      "url": "https://www.screendaily.com/news/hilary-strong-steps-down-as-ceo-of-john-gore-studios/5219672.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Yuval Abraham and Rachel Szor’s Venice title ‘NAZA’ boarded for sales",
+      "body": "The documentary is directed by the two Israeli filmmakers behind ‘No Other Land’.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/yuval-abraham-and-rachel-szors-venice-title-naza-boarded-for-sales/5219667.article"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Fur Country or Seventy Degrees North Latitude is an adventure novel by Jules Verne in The Extraordinary Voyages series, first published in 1873.",
-      "body": "The novel was serialized in Magasin d’Éducation et de Récréation from 20 September 1872 to 15 December 1873. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fur_Country_%28title%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "The 38th Cannes Film Festival took place from 8 to 20 May 1985.",
+      "body": "Czechoslovak filmmaker Miloš Forman served as jury president for the main competition. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/CFF85poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Fur_Country"
+      "url": "https://en.wikipedia.org/wiki/1985_Cannes_Film_Festival"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Risk of dementia could be halved with use of metformin",
+      "body": "Taking metformin, a type 2 diabetes drug, has been linked to a lower risk of dementia over the following decades, but the association isn't conclusive",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2586113-diabetes-drug-metformin-may-halve-the-risk-of-dementia/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "libATA is a library used inside the Linux kernel to support ATA host controllers and devices.",
+      "body": "libATA provides an ATA driver API, class transports for ATA and ATAPI devices, and SCSI / ATA Translation for ATA devices according to the T10 SAT specification. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/LibATA"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1985 —",
-      "hook": "Bar Harbor Airlines Flight 1808 crashes near Auburn/Lewiston Municipal Airport in Auburn, Maine, killing all eight people on board including peace activist and child actress Samantha Smith.",
-      "body": "Bar Harbor Airlines Flight 1808 was a scheduled flight from Logan International Airport to Bangor International Airport in the United States on August 25, 1985. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/N4381Y_Beech_99_Aerodynamics_Worldwide_Inc_%2839564952325%29.jpg/330px-N4381Y_Beech_99_Aerodynamics_Worldwide_Inc_%2839564952325%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bar_Harbor_Airlines_Flight_1808"
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Battle of Buckland Mills, also known as The Buckland Races or Chestnut Hill, was fought on October 19, 1863, between Union and Confederate forces in the American Civil War.",
+      "body": "Union cavalry led by Brig. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Buckland_from_Mr._Huntons_house_LCCN2004660438.tif/lossy-page1-330px-Buckland_from_Mr._Huntons_house_LCCN2004660438.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Buckland_Mills"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The club is affiliated to the Duhallow Board and the Cork County Board and fields teams in both hurling and Gaelic football.",
+      "body": "Newmarket GAA is a Gaelic Athletic Association club located in Newmarket, County Cork, Ireland. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/Newmarketbadge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Newmarket_GAA"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "Bet you didn't know —",
-      "hook": "A Bridge Too Far is a 1977 epic war film directed by Richard Attenborough.",
-      "body": "It depicts Operation Market Garden, a failed Allied operation in the Nazi-occupied Netherlands during World War II; the film's screenplay, by William Goldman, is based on a book of the same title by historian Cornelius Ryan. The world is stranger than it lets ",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Bridge_too_far_movieposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Entombment is an unfinished oil-on-panel painting of the burial of Jesus, now generally attributed to the Italian Renaissance master Michelangelo Buonarroti and dated to around 1500 or 1501.",
+      "body": "It is in the National Gallery in London, which purchased the work in 1868 from Robert Macpherson, a Scottish photographer resident in Rome, who, according to various conflicting accounts, had acquired the painting there some 20 years earlier. Bring it up somew",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Entombment_Michelangelo.jpg/330px-Entombment_Michelangelo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Bridge_Too_Far_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1967 —",
-      "hook": "George Lincoln Rockwell, founder of the American Nazi Party, is assassinated by a former member of his group.",
-      "body": "George Lincoln Rockwell was an American neo-Nazi activist and politician who founded the American Nazi Party (ANP) and became one of the most notorious white supremacists in the United States until his assassination in 1967. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/George_Lincoln_Rockwell_in_1963_%283x4_cropped%29.jpg/330px-George_Lincoln_Rockwell_in_1963_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/George_Lincoln_Rockwell"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Maria the Virgin Witch , subtitled Sorcière de gré, pucelle de force, is a Japanese manga series written and illustrated by Masayuki Ishikawa.",
-      "body": "Kodansha USA licensed the manga and released the series and its spin-off Exhibition from February 24 to August 25, 2015. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/89/Maria_the_Virgin_Witch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maria_the_Virgin_Witch"
+      "url": "https://en.wikipedia.org/wiki/The_Entombment_(Michelangelo)"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Insidious 6’, ‘Spa Weekend’ land in UK-Ireland box office top five; ‘Spider-Man 4’ passes £87m",
-      "body": "Mubi’s ‘Teenage Sex And Death At Camp Miasma’ makes healthy start.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/insidious-6-spa-weekend-land-in-uk-ireland-box-office-top-five-spider-man-4-passes-87m/5219636.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1933 —",
-      "hook": "Nazi Germany and the Zionist Federation of Germany signed the Haavara Agreement. The agreement was a major factor in breaking the anti-Nazi boycott of 1933 and facilitated Jewish emigration from Germany and into British Mandate of Palestine.",
-      "body": "Nazi Germany, officially the German Reich and later the Greater German Reich, was the German state between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country, transforming it into a totalitarian dictatorship. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/330px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Nazi_Germany"
+      "opener": "The Guardian · Culture —",
+      "hook": "Russian stadium says it will not host Kanye concerts – but promoter says shows have not been cancelled",
+      "body": "<p>The controversial rapper now known as Ye was due to play two huge shows at St Petersburg’s Gazprom Arena, which now states it cannot host performances for contractual reasons</p><p>The St Petersburg stadium that was set to host two conce",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/25/kanye-west-ye-russia-concert-st-petersburg-gazprom-arena"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Beautiful You is a novel by Chuck Palahniuk, released October 21, 2014.",
-      "body": "It is set in New York City and follows the main character, Penny, who finds herself the object of affection of a Digital Age tycoon named C. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/10/Beautiful_You_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Kara Anne Swisher is an American journalist.",
+      "body": "She has covered the business of the internet since 1994. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kara_Swisher_crop.jpg/330px-Kara_Swisher_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Beautiful_You_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "She was the first of three ships of her class succeeding the Shōkai Maru class of high-powered tugboats.",
-      "body": "Hokkai Maru was a rescue tug of the Imperial Japanese Army during World War II. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Japanese_tugboat_Hokkai_Maru"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The series of games are organised by the Camogie Association and are played during the summer months with the All-Ireland Camogie Final being played in Croke Park, Dublin.",
-      "body": "The All-Ireland Senior Camogie Championship is a competition for inter-county teams in the women's field sport of game of camogie played in Ireland. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/The_O%27Duffy_Cup.jpg/330px-The_O%27Duffy_Cup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/All-Ireland_Senior_Camogie_Championship"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2003 —",
-      "hook": "NASA successfully launches the Spitzer Space Telescope into space.",
-      "body": "The National Aeronautics and Space Administration is an independent agency of the U.S. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/NASA"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Triptih Agate Schwarzkobler is a novel by Slovenian author Rudi Šeligo.",
-      "body": "It was first published in 1968. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Triptih_Agate_Schwarzkobler"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1961 —",
-      "hook": "President Jânio Quadros of Brazil resigns after just seven months in power, initiating a political crisis that culminates in a military coup in 1964.",
-      "body": "Jânio da Silva Quadros was a Brazilian lawyer and politician who served as the 22nd president of Brazil from 31 January to 25 August 1961, when he resigned from office. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/J%C3%A2nio_Quadros%2C_presidente_do_Brasil_em_1961_%28foto_oficial%29.jpg/330px-J%C3%A2nio_Quadros%2C_presidente_do_Brasil_em_1961_%28foto_oficial%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/J%C3%A2nio_Quadros"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Sir Edward John Russell was a British soil chemist, agriculture scientist, and director of Rothamsted Experimental Station from 1912 to 1943.",
-      "body": "He was responsible for hiring R. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/E_J_Russell.jpg/330px-E_J_Russell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/E._John_Russell"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Christie Malry's Own Double-Entry is a 2000 film directed by Paul Tickell from a screenplay by Simon Bent, based on the 1973 novel of the same name by B.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Christie_Malry's_Own_Double-Entry_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dumping ground",
-      "body": "<p>New documentary To Use a Mountain spotlights the pain and triumph of resisting government efforts to turn parts of rural US into disposal sites</p><p><a href=\"https://www.theguardian.com/environment/nuclearpower+energy\">Nuclear energy</a",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/25/to-use-a-mountain-documentary-interview"
+      "url": "https://en.wikipedia.org/wiki/Kara_Swisher"
     }
   ]
 }
