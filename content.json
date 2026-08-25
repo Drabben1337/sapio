@@ -1,104 +1,16 @@
 {
-  "generated": "2026-08-25T15:30:37.250Z",
-  "count": 18,
+  "generated": "2026-08-25T16:21:30.293Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Chinese animation refers to animation made in China.",
-      "body": "In Chinese, donghua describes all animated works, regardless of style or origin. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Tomcat in Love is a novel by Tim O'Brien, about the misadventures of a womanizing linguistics Professor, Thomas H.",
+      "body": "Chippering, originally published in hardcover by Broadway Books, in 1998. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/TomcatinLove.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chinese_animation"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "World War I: The library of the Catholic University of Leuven is deliberately destroyed by the German Army. Hundreds of thousands of irreplaceable volumes and Gothic and Renaissance manuscripts are lost.",
-      "body": "The Sack of Louvain was the German assault on the Belgian town of Louvain, part of the events collectively known as the Rape of Belgium, taking place during the First World War. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Louvain1915.jpg/330px-Louvain1915.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sack_of_Louvain"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1916 —",
-      "hook": "The United States National Park Service is created.",
-      "body": "The National Park Service (NPS) is an agency of the United States Department of the Interior. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/330px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/National_Park_Service"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1823 —",
-      "hook": "American fur trapper Hugh Glass is mauled by a grizzly bear while on an expedition in South Dakota.",
-      "body": "Hugh Glass was an American frontiersman, fur trapper, trader, hunter and explorer. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hugh_Glass_News_Article_%28cropped%29.jpg/330px-Hugh_Glass_News_Article_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hugh_Glass"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1940 —",
-      "hook": "World War II: The first Bombing of Berlin by the British Royal Air Force.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Capitulation of Dornbirn saw the French VII Corps under Marshal Pierre Augereau face an Austrian force led by Feldmarschall-Leutnant (FML) Franz Jellacic.",
-      "body": "Isolated near Lake Constance (Bodensee) by superior numbers of French troops, Jellacic surrendered the infantry and artillery under his command. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dornbirner_Ache.svg/330px-Dornbirner_Ache.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Capitulation_of_Dornbirn"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Wienerberger AG is an Austrian building solutions and infrastructure systems company which is Europe's leading manufacturer of roof tiles and the world’s largest producer of bricks.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wienerberger_AG_Headquarter.jpg/330px-Wienerberger_AG_Headquarter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wienerberger"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Kit Harington to replace Nicholas Hoult in HBO’s Harry Potter TV series",
-      "body": "<p>Actor best known as Jon Snow in Game of Thrones will now play Gilderoy Lockhart in show’s second season</p><p>Kit Harington will replace Nicholas Hoult in HBO’s Harry Potter television series, after the Skins actor left the production be",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/25/kit-harington-nicholas-hoult-hbo-harry-potter-tv-series"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1258 —",
-      "hook": "Regent George Mouzalon and his brothers are killed during a coup headed by the aristocratic faction under Michael VIII Palaiologos, paving the way for its leader to ultimately usurp the throne of the Empire of Nicaea.",
-      "body": "George Mouzalon was a high official of the Empire of Nicaea under Theodore II Laskaris. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/George_Mouzalon"
+      "url": "https://en.wikipedia.org/wiki/Tomcat_in_Love"
     },
     {
       "type": "card",
@@ -112,21 +24,12 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "The August Revolution ends as Emperor Bảo Đại abdicates, ending the Nguyễn dynasty.",
-      "body": "The August Revolution, at the time known as the General Uprising, was a revolution led by the Viet Minh against the Japanese occupation of Vietnam and the Empire of Vietnam from 16 to 30 August 1945. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/C%C3%A1ch_m%E1%BA%A1ng_th%C3%A1ng_8_b.jpg/330px-C%C3%A1ch_m%E1%BA%A1ng_th%C3%A1ng_8_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/August_Revolution"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "How will new festival winners clause impact the Oscars’ international feature race?",
-      "body": "“It is an opportunity for more good films to be nominated.”",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/how-will-new-festival-winners-clause-impact-the-oscars-international-feature-race/5219687.article"
+      "opener": "Okay, this one's fun —",
+      "hook": "The name refers to a group of artists, Malkasten, founded in 1848.",
+      "body": "The Malkastenpark is a historic private park, now in the centre of Düsseldorf, North Rhine-Westphalia, Germany. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Alfred_Sohn-Rethel_Gouache_Jacobigarten_1892.jpg/330px-Alfred_Sohn-Rethel_Gouache_Jacobigarten_1892.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Malkastenpark"
     },
     {
       "type": "card",
@@ -139,41 +42,168 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Scarab Club is an artists' club, gallery, and studio in the Cultural Center Historic District of Detroit, Michigan, located at 217 Farnsworth Street, near the Detroit Institute of Arts and the Detroit Science Center.",
-      "body": "It was designated a Michigan State Historic Site in 1974 and listed on the National Register of Historic Places in 1979. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Scarab_Club.JPG/330px-The_Scarab_Club.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Scarab_Club"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "John Oliver on ‘smart’ appliances: ‘Spying on you through the washing machine’",
+      "body": "<p>The host also discussed the rise of forgotten monthly subscriptions for anything from dishwashers to litter boxes</p><p>On the Sunday night episode of his HBO show, <a href=\"https://www.theguardian.com/tv-and-radio/john-oliver\">John Oliv",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/24/john-oliver-subscriptions-smart-appliances"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Lack of sleep may cause anxiety by making us less adaptable to threats",
-      "body": "People who were deprived of sleep overnight didn't seem to adapt to being in a potentially threatening space, which may help explain the link between a lack of shuteye and anxiety",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2586177-lack-of-sleep-may-cause-anxiety-by-making-us-less-adaptable-to-threats/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "history",
+      "opener": "On this day in 1989 —",
+      "hook": "Pakistan International Airlines Flight 404, carrying 54 people, disappears over the Himalayas after takeoff from Gilgit Airport in Pakistan. The aircraft was never found.",
+      "body": "Pakistan International Airlines Flight 404 was a Fokker F27 Friendship that disappeared shortly after takeoff on 25 August 1989. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/AP-BBF_-_PIA_F27.jpg/330px-AP-BBF_-_PIA_F27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pakistan_International_Airlines_Flight_404"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 450 —",
+      "hook": "Marcian is proclaimed Eastern Roman emperor at Hebdomon and marries empress Pulcheria.",
+      "body": "Marcian was Roman emperor of the East from 450 to 457. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Solidus_of_Marcian.png/330px-Solidus_of_Marcian.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Marcian"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Sabyasachi is a 1977 Bengali language period political action thriller film directed by Pijush Basu.",
+      "body": "Based on the novel Pather Dabi written by Sarat Chandra Chattopadhyay, the film produced by Asim Sarkar under the banner of Usha Films. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Sabyasachi_%281977%29_film_poster.jpeg/330px-Sabyasachi_%281977%29_film_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sabyasachi_(1977_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1916 —",
+      "hook": "The United States National Park Service is created.",
+      "body": "The National Park Service (NPS) is an agency of the United States Department of the Interior. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/330px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/National_Park_Service"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The City of Masks is a lost 1920 silent film comedy drama produced by Famous Players–Lasky and distributed by Paramount Pictures.",
+      "body": "The film was directed by Thomas N. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Thecityofmasks1920-newspaperad.jpg/330px-Thecityofmasks1920-newspaperad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_City_of_Masks"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "From Booker-listed Marlon James to a memoir by Michael Douglas – the biggest books this autumn",
-      "body": "<p>Midlife meditations from Barbara Kingsolver; musical portraits by Jonathan Coe and Yiyun Li; plus memoirs from Dustin Hoffman and Judi Dench – all among the coming season’s highlights</p><p><strong><a href=\"https://guardianbookshop.com/t",
+      "hook": "‘I was scared I was going mad’: Meg Mason speaks to fellow authors about the parasocial relationships that begin on the page",
+      "body": "<p>As a lonely teenager, the novels of Nancy Mitford offered the Sorrow and Bliss author a lifeline - and an imaginary friend. She explores why reading can create a particularly intense bond with a favourite writer</p><p>In the summer befor",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/22/new-autumn-fiction-nonfiction-marlon-james-emma-cline-michael-douglas-dustin-hoffman-judi-dench-yiyun-li"
+      "url": "https://www.theguardian.com/books/2026/aug/23/meg-mason-author-literary-parasocial-relationships-sorrow-bliss-books-nancy-mitford"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Slayyyter live review – raucous show announces a new princess of sleaze-pop",
+      "body": "<p><strong>Shrine Auditorium, Los Angeles</strong></p><p>The cult star proves she is ready for pop’s big leagues in a show that blends chaotic punk energy with technical finesse</p><p>The last time <a href=\"https://www.theguardian.com/music",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/24/slayyyter-live-review"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Isaiah 6 is the sixth chapter of the Book of Isaiah in the Hebrew Bible or the Old Testament of the Christian Bible.",
-      "body": "This book contains the prophecies attributed to the prophet Isaiah, and is one of the Books of the Prophets. Worth a quiet trip down the rabbit hole.",
+      "opener": "You probably never noticed this —",
+      "hook": "The Great Indian Novel is a satirical novel by Shashi Tharoor, first published by Viking Press in 1989.",
+      "body": "It is a fictional work that takes the story of the Mahabharata, the Indian epic, and recasts and resets it in the context of the Indian independence movement and the first three decades post-independence. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/da/The_Great_Indian_Novel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Great_Indian_Novel"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1823 —",
+      "hook": "American fur trapper Hugh Glass is mauled by a grizzly bear while on an expedition in South Dakota.",
+      "body": "Hugh Glass was an American frontiersman, fur trapper, trader, hunter and explorer. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hugh_Glass_News_Article_%28cropped%29.jpg/330px-Hugh_Glass_News_Article_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hugh_Glass"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "How will new festival winners clause impact the Oscars’ international feature race?",
+      "body": "“It is an opportunity for more good films to be nominated.”",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/features/how-will-new-festival-winners-clause-impact-the-oscars-international-feature-race/5219687.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "Keolis Amey Operations, trading as Transport for Wales Rail Services was a Welsh train operating company owned by KeolisAmey that operated the Wales & Borders franchise between October 2018 and February 2021.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hereford_-_Keolis_Amey_175003_Carmarthen_service.JPG/330px-Hereford_-_Keolis_Amey_175003_Carmarthen_service.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/KeolisAmey_Wales"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Scripps-Howard Broadcasting Co., 433 U.S.",
+      "body": "562 (1977), was an important U.S. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Isaiah_6"
+      "url": "https://en.wikipedia.org/wiki/Zacchini_v._Scripps-Howard_Broadcasting_Co."
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Henry Archibald Hertzberg Lawson was an Australian writer and bush poet.",
+      "body": "Along with his contemporary Banjo Paterson, Lawson is among the best-known Australian poets and fiction writers of the colonial period and is often called Australia's \"greatest short story writer\". Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Henry_Lawson_May_Moore_c_1915.jpg/330px-Henry_Lawson_May_Moore_c_1915.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henry_Lawson"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "'Obsessive' Billie Piper stalker jailed for 12 months",
+      "body": "Philip Jerome admits breaching a stalking prevention order designed to protect the ex-Doctor Who star.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e0kypk66o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: Paris is liberated by the Allies.",
+      "body": "The Liberation of Paris was a battle that took place during World War II from 19 August 1944 until the German garrison surrendered the French capital on 25 August 1944. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg/330px-Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Liberation_of_Paris"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1939 —",
+      "hook": "The Irish Republican Army carries out the 1939 Coventry bombing in which five civilians were killed.",
+      "body": "The Irish Republican Army (IRA) is a name used by various militant organisations in Ireland throughout the 20th and 21st centuries. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hogan%27s_Flying_Column.gif/330px-Hogan%27s_Flying_Column.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Irish_Republican_Army"
     }
   ]
 }
