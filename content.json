@@ -1,56 +1,113 @@
 {
-  "generated": "2026-08-24T23:11:31.984Z",
-  "count": 19,
+  "generated": "2026-08-25T00:27:31.047Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1248 —",
+      "hook": "The Dutch city of Ommen receives city rights and fortification rights from Otto III, the Archbishop of Utrecht.",
+      "body": "Ommen is a municipality and a Hanseatic city in the eastern Netherlands. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Old_cityhall_Ommen.jpg/330px-Old_cityhall_Ommen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ommen"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "A smart object is an object that enhances the interaction with not only people but also with other smart objects.",
-      "body": "Also known as smart connected products or smart connected things (SCoT), they are products, assets and other things embedded with processors, sensors, software and connectivity that allow data to be exchanged between the product and its environment, manufactur",
+      "opener": "You probably never noticed this —",
+      "hook": "Taranath Tantrik is a fictional character of Bengali literature created by the legendary Bengali novelist Bibhutibhushan Bandyopadhyay.",
+      "body": "Later his son Taradas Bandyopadhyay wrote several more stories featuring the character. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Smart_object"
+      "url": "https://en.wikipedia.org/wiki/Taranath_Tantrik"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Winster is a village in the English Derbyshire Dales about 5 miles (8 km) from Matlock and 6 miles (10 km) from Bakewell at an altitude of approximately 820 feet (250 m).",
-      "body": "It was formerly a centre for the lead mining industry. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Winster_028530_9c349def.jpg/330px-Winster_028530_9c349def.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Winston's War is a 2002 novel by Michael Dobbs that presents a fictional account of the struggle of Winston Churchill to combat the appeasement policies of Prime Minister Neville Chamberlain.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Winstons_War_by_Michael_Dobbs_cover_art.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Winster"
+      "url": "https://en.wikipedia.org/wiki/Winston's_War"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Camp Reynolds was a World War II United States Army facility from 1942 to '46.",
-      "body": "Its original name was Shenango Personnel Replacement Depot. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Camp_Reynolds"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ flies past $2.2bn at worldwide box office; ‘The Odyssey’ sails towards $1.5bn",
+      "body": "‘Brand New Day’ is now the sixth-biggest film of all time.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-flies-past-22bn-at-worldwide-box-office-the-odyssey-sails-towards-15bn/5219618.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "As of the start of 1891, the Gregorian calendar was 12 days ahead of the Julian calendar, which remained in localized use until 1923.",
-      "body": "1891 (MDCCCXCI) was a common year starting on Thursday of the Gregorian calendar and a common year starting on Tuesday of the Julian calendar, the 1891st year of the Common Era (CE) and Anno Domini (AD) designations, the 891st year of the 2nd millennium, the 9",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1891"
+      "opener": "On this day in 1939 —",
+      "hook": "The United Kingdom and Poland form a military alliance in which the UK promises to defend Poland in case of invasion by a foreign power.",
+      "body": "The Second Polish Republic, officially known at the time as the Republic of Poland, was the Polish state that existed between 7 October 1918 and 6 October 1939 after being established in the final stage of World War I. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Poland_%281928%E2%80%931980%29.svg/330px-Flag_of_Poland_%281928%E2%80%931980%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Second_Polish_Republic"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Disciples review – fresh-faced boys are sucked into a nightmare of extremism in India",
+      "body": "<p>A prestigious school in the holy city of Varanasi and its controversial, dogmatic teachings are the subject of this shocking documentary</p><p>The effect of political and religious indoctrination on young minds resembles a slow-release p",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/24/disciples-review-india"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1914 —",
+      "hook": "World War I: Japan declares war on Austria-Hungary.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "If That's What It Takes is the debut studio album by American musician Michael McDonald, released on August 3, 1982, by Warner Bros.",
-      "body": "The album peaked at #6 on Billboard 200, while singles \"I Keep Forgettin' \" and \"I Gotta Try\" went to #4 and #44 on the Billboard Hot 100, respectively. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/60/If_That%27s_What_It_Takes_%28Michael_McDonald_album%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "You probably never noticed this —",
+      "hook": "Hard Times is a 1915 British silent drama film directed by Thomas Bentley and starring Bransby Williams, Leon M.",
+      "body": "It is based on the 1854 novel Hard Times by Charles Dickens. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/If_That's_What_It_Takes_(album)"
+      "url": "https://en.wikipedia.org/wiki/Hard_Times_(1915_film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Papi is a 2020 Dominican surrealist drama film written and directed by Noelia Quintero in her directorial debut.",
+      "body": "Based on the novel of the same name by Rita Indiana, the film stars Avril Alcántara, Hony Estrella, Amauris Pérez and Olga Bucarelli. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3f/Papi_%282020_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Papi_(2020_film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Paramount, California attorney general cancel settlement talks",
+      "body": "Rob Bonta said Paramount were ”demonstrating a lack of good faith”.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/paramount-california-attorney-general-cancel-settlement-talks/5219624.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Scouting America was inspired by and modeled on The Boy Scouts Association, established by Robert Baden-Powell in Britain in 1908.",
+      "body": "In the early 1900s, several youth organizations were active, and many became part of Scouting America. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Scouting_America_corporate_logo.png/330px-Scouting_America_corporate_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Scouting_America"
     },
     {
       "type": "card",
@@ -65,40 +122,21 @@
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1991 —",
-      "hook": "Ukraine declares itself independent from the Soviet Union.",
-      "body": "Ukraine is a country in Eastern Europe. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Battle of Vukovar begins. An 87-day siege of Vukovar by the Yugoslav People's Army (JNA), supported by various Serb paramilitary forces, between August and November 1991 (during the Croatian War of Independence).",
+      "body": "The Battle of Vukovar was an 87-day siege of Vukovar in eastern Croatia by the Yugoslav People's Army (JNA), supported by various paramilitary forces from Serbia, between August and November 1991. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vukovar-watertower-after-war.jpg/330px-Vukovar-watertower-after-war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ukraine"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Spider-Man: Brand New Day’ flies past $2.2bn at worldwide box office; ‘The Odyssey’ sails towards $1.5bn",
-      "body": "‘Brand New Day’ is now the sixth-biggest film of all time.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-flies-past-22bn-at-worldwide-box-office-the-odyssey-sails-towards-15bn/5219618.article"
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Vukovar"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1992 —",
-      "hook": "Hurricane Andrew makes landfall in Homestead, Florida as a Category 5 hurricane, causing up to $25 billion (1992 USD) in damages.",
-      "body": "Hurricane Andrew was the most destructive hurricane to ever hit Florida in terms of structures damaged or destroyed, and remained the costliest in financial terms until Hurricane Irma surpassed it 25 years later. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Andrew_1992-08-23_1801Z.png/330px-Andrew_1992-08-23_1801Z.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hurricane_Andrew"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1933 —",
-      "hook": "The Crescent Limited train derails in Washington, D.C., after the bridge it is crossing is washed out by the 1933 Chesapeake–Potomac hurricane.",
-      "body": "The Crescent is a daily long-distance passenger train operated by Amtrak between New York City and New Orleans. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amtrak_20_Cook_Springs%2C_AL_3-14-15_%2816826581145%29.jpg/330px-Amtrak_20_Cook_Springs%2C_AL_3-14-15_%2816826581145%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Crescent_(train)"
+      "opener": "Okay, this one's fun —",
+      "hook": "It officially premiered on March 1, 2016, at the YouTube channel Broad Strokes Productions.",
+      "body": "Severus Snape and the Marauders is a 2016 American short film written by director Justin Zagri, based on Harry Potter characters by J. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/73/Severus_Snape_and_the_Marauders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Severus_Snape_and_the_Marauders"
     },
     {
       "type": "card",
@@ -112,59 +150,12 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1954 —",
-      "hook": "Vice president João Café Filho takes office as president of Brazil, following the suicide of Getúlio Vargas.",
-      "body": "João Fernandes Campos Café Filho was a Brazilian politician who served as the 18th president of Brazil, taking office upon the suicide of President Getúlio Vargas. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Caf%C3%A9_Filho.jpg/330px-Caf%C3%A9_Filho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1933 —",
+      "hook": "Nazi Germany and the Zionist Federation of Germany signed the Haavara Agreement. The agreement was a major factor in breaking the anti-Nazi boycott of 1933 and facilitated Jewish emigration from Germany and into British Mandate of Palestine.",
+      "body": "Nazi Germany, officially the German Reich and later the Greater German Reich, was the German state between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country, transforming it into a totalitarian dictatorship. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/330px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Filho"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
-      "body": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Paramount, California attorney general cancel settlement talks",
-      "body": "Rob Bonta said Paramount were ”demonstrating a lack of good faith”.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/paramount-california-attorney-general-cancel-settlement-talks/5219624.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1967 —",
-      "hook": "Led by Abbie Hoffman, the Youth International Party temporarily disrupts trading at the New York Stock Exchange by throwing dollar bills from the viewing gallery, causing trading to cease as brokers scramble to grab them.",
-      "body": "Abbot Howard Hoffman was an American political and social activist who co-founded the Youth International Party (\"Yippies\") and was a member of the Chicago Seven. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Abbie_Hoffman_visiting_the_University_of_Oklahoma_circa_1969_%28cropped%29.jpg/330px-Abbie_Hoffman_visiting_the_University_of_Oklahoma_circa_1969_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Abbie_Hoffman"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "spell #7, or spell #7: geechee jibara quik magic trance manual for technologically stressed third world people, is a choreopoem written for the stage by Ntozake Shange and first performed in 1979.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/Three_Pieces_by_Ntozake_Shange_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Spell_No._7"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Disciples review – fresh-faced boys are sucked into a nightmare of extremism in India",
-      "body": "<p>A prestigious school in the holy city of Varanasi and its controversial, dogmatic teachings are the subject of this shocking documentary</p><p>The effect of political and religious indoctrination on young minds resembles a slow-release p",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/24/disciples-review-india"
+      "url": "https://en.wikipedia.org/wiki/Nazi_Germany"
     },
     {
       "type": "card",
@@ -178,12 +169,31 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "World War II: Allied troops begin the attack on Paris.",
-      "body": "The Liberation of Paris was a battle that took place during World War II from 19 August 1944 until the German garrison surrendered the French capital on 25 August 1944. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg/330px-Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1933 —",
+      "hook": "The Diexi earthquake strikes Mao County, Sichuan, China and kills 9,000 people.",
+      "body": "The 1933 Diexi earthquake occurred in Diexi, Mao County, Sichuan, Republic of China on August 25 with a moment magnitude of 7.3 and a maximum Mercalli intensity of X (Extreme). Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Liberation_of_Paris"
+      "url": "https://en.wikipedia.org/wiki/1933_Diexi_earthquake"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+      "body": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Outsiders is a 1983 American coming-of-age crime drama film directed by Francis Ford Coppola, based on the 1967 novel by S.",
+      "body": "Jo Ellen Misakian, a librarian at Lone Star Elementary School in Fresno, California, and her students were responsible for inspiring Coppola to make the film. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/Outsidersposter.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Outsiders_(film)"
     }
   ]
 }
