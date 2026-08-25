@@ -1,7 +1,74 @@
 {
-  "generated": "2026-08-25T04:25:44.073Z",
-  "count": 12,
+  "generated": "2026-08-25T05:21:30.776Z",
+  "count": 13,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Lazar Poptraykov was a Bulgarian revolutionary (komitadji).",
+      "body": "He was also a Bulgarian Exarchate teacher and poet from Ottoman Macedonia. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lazo_poptrajkov.jpg/330px-Lazo_poptrajkov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lazar_Poptraykov"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The University of Tennessee, Knoxville is a public land-grant research university in Knoxville, Tennessee, United States.",
+      "body": "Founded in 1794, two years before Tennessee became the 16th state, it is the flagship campus of the University of Tennessee system, with 14 colleges. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Seal_of_the_University_of_Tennessee.svg/330px-Seal_of_the_University_of_Tennessee.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/University_of_Tennessee"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Its territory stretches along the Gulf of Saint Lawrence, whereas the settlement itself is located on a peninsula in the Saint Augustin Bay at the mouth of the Saint-Augustin River.",
+      "body": "Saint-Augustin is a municipality and settlement in Le Golfe-du-Saint-Laurent Regional County Municipality in the Côte-Nord region of Quebec, Canada, known by its large English-speaking population as St. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/St-Augustin.jpg/330px-St-Augustin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saint-Augustin%2C_C%C3%B4te-Nord%2C_Quebec"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The 1992 Tour de France was the 79th edition of the Tour de France, taking place from 4 to 26 July.",
+      "body": "The total race distance was 21 stages and a prologue over 3,978 km (2,472 mi). The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Route_of_the_1992_Tour_de_France.png/330px-Route_of_the_1992_Tour_de_France.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1992_Tour_de_France"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
+      "body": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ flies past $2.2bn at worldwide box office; ‘The Odyssey’ sails towards $1.5bn",
+      "body": "‘Brand New Day’ is now the sixth-biggest film of all time.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-flies-past-22bn-at-worldwide-box-office-the-odyssey-sails-towards-15bn/5219618.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Manga-inspired theme park to be built near Paris",
+      "body": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -10,16 +77,6 @@
       "body": "Rob Bonta said Paramount were ”demonstrating a lack of good faith”.",
       "src": "Screen Daily",
       "url": "https://www.screendaily.com/news/paramount-california-attorney-general-cancel-settlement-talks/5219624.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Test of Word Reading Efficiency, commonly abbreviated as TOWRE–2 for its second edition, is a kind of reading test developed to test the efficiency of reading ability of children from age 6–24 years.",
-      "body": "It generally seeks to measure an individual's accuracy and fluency regarding two efficiencies; Sight Word Efficiency (SWE) and Phonemic Decoding Efficiency (PDE). The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Test_of_Word_Reading_Efficiency"
     },
     {
       "type": "card",
@@ -34,48 +91,11 @@
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Demetrios Christodoulou is a Greek mathematician and physicist, who first became well known for his proof, together with Sergiu Klainerman, of the nonlinear stability of the Minkowski spacetime of special relativity in the framework of general relativity.",
-      "body": "Christodoulou is a 1993 MacArthur Fellow. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Demetrios_Christodoulou.jpeg/330px-Demetrios_Christodoulou.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Józef Hecht, also known as Joseph Hecht, was a printmaker and painter.",
+      "body": "Born and educated in Poland, he made Paris his base from 1920. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Demetrios_Christodoulou"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Spider-Man: Brand New Day’ flies past $2.2bn at worldwide box office; ‘The Odyssey’ sails towards $1.5bn",
-      "body": "‘Brand New Day’ is now the sixth-biggest film of all time.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-flies-past-22bn-at-worldwide-box-office-the-odyssey-sails-towards-15bn/5219618.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Disciples review – fresh-faced boys are sucked into a nightmare of extremism in India",
-      "body": "<p>A prestigious school in the holy city of Varanasi and its controversial, dogmatic teachings are the subject of this shocking documentary</p><p>The effect of political and religious indoctrination on young minds resembles a slow-release p",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/24/disciples-review-india"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Cabin Fever is a 2002 American comedy horror film, co-written and directed by Eli Roth in his directorial debut.",
-      "body": "It follows a group of college students who rent a cabin in the woods, where they unwittingly come in contact with an unknown flesh-eating disease. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/71/Movie_poster_cabin_fever.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cabin_Fever_(2002_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Manga-inspired theme park to be built near Paris",
-      "body": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/J%C3%B3zef_Hecht"
     },
     {
       "type": "card",
@@ -89,31 +109,21 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "High Voltage is the first internationally released album by Australian hard rock band AC/DC.",
-      "body": "It contains tracks compiled from their first two previous Australia-only issued albums: High Voltage and T.N.T.. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/Acdc_high_voltage_international_album.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "You probably never noticed this —",
+      "hook": "Leadership is the ability of an individual, group, or organization to influence, or guide other individuals, teams, or organizations.",
+      "body": "Leadership is a contested term. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wishnu_Wardhana_-_Opening_APEC_CEO_Summit_2013.jpg/330px-Wishnu_Wardhana_-_Opening_APEC_CEO_Summit_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/High_Voltage_(1976_album)"
+      "url": "https://en.wikipedia.org/wiki/Leadership"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
-      "body": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Cup of Solid Gold was the first official national anthem of China, adopted by the Qing dynasty (1644–1912) on 4 October 1911.",
-      "body": "The title references the \"golden cup,\" a ritual instrument that symbolized the empire. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Daqingguoyue.svg/330px-Daqingguoyue.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cup_of_Solid_Gold"
+      "opener": "The Guardian · Film —",
+      "hook": "Disciples review – fresh-faced boys are sucked into a nightmare of extremism in India",
+      "body": "<p>A prestigious school in the holy city of Varanasi and its controversial, dogmatic teachings are the subject of this shocking documentary</p><p>The effect of political and religious indoctrination on young minds resembles a slow-release p",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/24/disciples-review-india"
     }
   ]
 }
