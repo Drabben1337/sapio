@@ -1,110 +1,210 @@
 {
-  "generated": "2026-08-25T09:22:33.689Z",
-  "count": 14,
+  "generated": "2026-08-25T10:18:05.872Z",
+  "count": 22,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Russian stadium says it won't host Kanye West gigs",
-      "body": "Two planned concerts are thrown into doubt, but Russian promoters insist they will go ahead.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4gmvyzj5dgo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Film —",
+      "hook": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
+      "body": "<p>This portrait by Vytautas Katkus of a man contemplating his recent fatherhood and his own father is steeped in ennui and ends up drifting</p><p>At one point in this Nordic-Baltic homecoming film, Danielius (Darius Šilėnas) refuses an inv",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/24/the-visitor-review-existential-lithuania-set-homecoming-drama-leaves-everything-in-limbo"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "A Daughter of the Congo is a 1930 American race film directed, written and produced by Oscar Micheaux.",
-      "body": "The film is loosely based on the novel The American Cavalryman (1917), by African-American novelist and playwright Henry Francis Downing. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/DaughterCongo.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Daughter_of_the_Congo"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Dutch broadcaster pulls out of 2027 Eurovision Song Contest",
-      "body": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Seam me up, Scotty! After 60 years, Star Trek has had a muppet takeover. About time too",
-      "body": "<p>Star Wars has embraced the magic of puppetry since the 70s, but Trekkers have been starved of any muppet action … until now. The creators of Strange New Worlds talk about boldly sewing where no one has sewn before</p><p>It’s life, Jim – ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/25/star-trek-strange-new-worlds-muppets-jim-henson-paramount"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Layla Baalbaki was a Lebanese novelist, journalist, activist and feminist.",
-      "body": "Among her most notable works is Ana Ahya (1958) which tells the story of a woman's protest against parental authority and community leaders. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Layla_Baalbaki"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Once Upon a Time in America is a 1984 epic crime film based on Harry Grey's semi-autobiographical 1952 novel The Hoods.",
-      "body": "Directed by Sergio Leone from a screenplay he co-wrote with Leonardo Benvenuti, Piero De Bernardi, Enrico Medioli, Franco Arcalli and Franco Ferrini, the film stars Robert De Niro, James Woods, Elizabeth McGovern, Joe Pesci, Burt Young, Tuesday Weld and Treat ",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/Once_Upon_a_Time_in_America.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_America"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Girl, the Gold Watch & Everything is a 1980 American science fiction comedy television film based on the 1962 novel by John D.",
-      "body": "MacDonald, starring Robert Hays and Pam Dawber and directed by William Wiard. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/88/The_Girl%2C_the_Gold_Watch_%26_Everything_movie_tie-in_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Girl%2C_the_Gold_Watch_%26_Everything_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "South Korea selects Lee Chang-dong’s ‘Possible Love’ for Oscars",
-      "body": "The drama is set to premiere at Venice and Toronto film festivals.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/south-korea-selects-lee-chang-dongs-possible-love-for-oscars/5219669.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Venice completes Competition lineup with Gaza war documentary from Israeli ‘No Other Land’ duo",
-      "body": "Film is produced by UK publication The Guardian and James Wilson.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/venice-completes-competition-lineup-with-gaza-war-documentary-from-israeli-no-other-land-duo/5219626.article"
+      "cat": "history",
+      "opener": "On this day in 1609 —",
+      "hook": "Galileo Galilei demonstrates his first telescope to Venetian lawmakers.",
+      "body": "Galileo di Vincenzo Bonaiuti de' Galilei, commonly referred to as Galileo Galilei or mononymously as Galileo, was an Italian astronomer, physicist, engineer and polymath. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-330px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Galileo_Galilei"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Marching in the Dark review – rural Indian widows show stunning resilience as they battle poverty and taboos",
-      "body": "<p>Kinshuk Surjan’s documentary follows women in dire financial straits whose bereavement compounds their social plight, which they confront together</p><p>Out in rural India, a crisis casts a dark cloud over the seemingly tranquil vistas o",
+      "hook": "Rise of the Footsoldier: Retribution review – never-ending hardman-on-a-mission franchise heads to Ibiza",
+      "body": "<p>The seventh in the series takes longstanding lead gangster Tate, played to the hilt as always by Craig Fairbrass, to the White Isle to knock some heads together</p><p>The seventh instalment in this seemingly never-ending series opens wit",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/24/marching-in-the-dark-review"
+      "url": "https://www.theguardian.com/film/2026/aug/25/rise-of-the-footsoldier-retribution-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Venice Competition title ‘NAZA’, about Gaza war, boarded for sales",
+      "body": "Film is directed by the two Israeli filmmakers behind ‘No Other Land’.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/venice-competition-title-naza-about-gaza-war-boarded-for-sales/5219667.article"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Henry Stanislaus Spalding, S.J.",
-      "body": "(1865–1934) was the author of several books about medical ethics but was best known for his series of adventure books for boys. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Henry_S._Spalding.jpg/330px-Henry_S._Spalding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Fur Country or Seventy Degrees North Latitude is an adventure novel by Jules Verne in The Extraordinary Voyages series, first published in 1873.",
+      "body": "The novel was serialized in Magasin d’Éducation et de Récréation from 20 September 1872 to 15 December 1873. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fur_Country_%28title%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Henry_S._Spalding"
+      "url": "https://en.wikipedia.org/wiki/The_Fur_Country"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1985 —",
+      "hook": "Bar Harbor Airlines Flight 1808 crashes near Auburn/Lewiston Municipal Airport in Auburn, Maine, killing all eight people on board including peace activist and child actress Samantha Smith.",
+      "body": "Bar Harbor Airlines Flight 1808 was a scheduled flight from Logan International Airport to Bangor International Airport in the United States on August 25, 1985. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/N4381Y_Beech_99_Aerodynamics_Worldwide_Inc_%2839564952325%29.jpg/330px-N4381Y_Beech_99_Aerodynamics_Worldwide_Inc_%2839564952325%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bar_Harbor_Airlines_Flight_1808"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "A Bridge Too Far is a 1977 epic war film directed by Richard Attenborough.",
+      "body": "It depicts Operation Market Garden, a failed Allied operation in the Nazi-occupied Netherlands during World War II; the film's screenplay, by William Goldman, is based on a book of the same title by historian Cornelius Ryan. The world is stranger than it lets ",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Bridge_too_far_movieposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Bridge_Too_Far_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1967 —",
+      "hook": "George Lincoln Rockwell, founder of the American Nazi Party, is assassinated by a former member of his group.",
+      "body": "George Lincoln Rockwell was an American neo-Nazi activist and politician who founded the American Nazi Party (ANP) and became one of the most notorious white supremacists in the United States until his assassination in 1967. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/George_Lincoln_Rockwell_in_1963_%283x4_cropped%29.jpg/330px-George_Lincoln_Rockwell_in_1963_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/George_Lincoln_Rockwell"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Maria the Virgin Witch , subtitled Sorcière de gré, pucelle de force, is a Japanese manga series written and illustrated by Masayuki Ishikawa.",
+      "body": "Kodansha USA licensed the manga and released the series and its spin-off Exhibition from February 24 to August 25, 2015. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/89/Maria_the_Virgin_Witch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maria_the_Virgin_Witch"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Insidious 6’, ‘Spa Weekend’ land in UK-Ireland box office top five; ‘Spider-Man 4’ passes £87m",
+      "body": "Mubi’s ‘Teenage Sex And Death At Camp Miasma’ makes healthy start.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/insidious-6-spa-weekend-land-in-uk-ireland-box-office-top-five-spider-man-4-passes-87m/5219636.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1933 —",
+      "hook": "Nazi Germany and the Zionist Federation of Germany signed the Haavara Agreement. The agreement was a major factor in breaking the anti-Nazi boycott of 1933 and facilitated Jewish emigration from Germany and into British Mandate of Palestine.",
+      "body": "Nazi Germany, officially the German Reich and later the Greater German Reich, was the German state between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country, transforming it into a totalitarian dictatorship. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/330px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Nazi_Germany"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Beautiful You is a novel by Chuck Palahniuk, released October 21, 2014.",
+      "body": "It is set in New York City and follows the main character, Penny, who finds herself the object of affection of a Digital Age tycoon named C. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/10/Beautiful_You_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beautiful_You_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "She was the first of three ships of her class succeeding the Shōkai Maru class of high-powered tugboats.",
+      "body": "Hokkai Maru was a rescue tug of the Imperial Japanese Army during World War II. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Japanese_tugboat_Hokkai_Maru"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "The series of games are organised by the Camogie Association and are played during the summer months with the All-Ireland Camogie Final being played in Croke Park, Dublin.",
+      "body": "The All-Ireland Senior Camogie Championship is a competition for inter-county teams in the women's field sport of game of camogie played in Ireland. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/The_O%27Duffy_Cup.jpg/330px-The_O%27Duffy_Cup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/All-Ireland_Senior_Camogie_Championship"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2003 —",
+      "hook": "NASA successfully launches the Spitzer Space Telescope into space.",
+      "body": "The National Aeronautics and Space Administration is an independent agency of the U.S. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/NASA"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Triptih Agate Schwarzkobler is a novel by Slovenian author Rudi Šeligo.",
+      "body": "It was first published in 1968. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Triptih_Agate_Schwarzkobler"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1961 —",
+      "hook": "President Jânio Quadros of Brazil resigns after just seven months in power, initiating a political crisis that culminates in a military coup in 1964.",
+      "body": "Jânio da Silva Quadros was a Brazilian lawyer and politician who served as the 22nd president of Brazil from 31 January to 25 August 1961, when he resigned from office. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/J%C3%A2nio_Quadros%2C_presidente_do_Brasil_em_1961_%28foto_oficial%29.jpg/330px-J%C3%A2nio_Quadros%2C_presidente_do_Brasil_em_1961_%28foto_oficial%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/J%C3%A2nio_Quadros"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Sir Edward John Russell was a British soil chemist, agriculture scientist, and director of Rothamsted Experimental Station from 1912 to 1943.",
+      "body": "He was responsible for hiring R. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/E_J_Russell.jpg/330px-E_J_Russell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/E._John_Russell"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Christie Malry's Own Double-Entry is a 2000 film directed by Paul Tickell from a screenplay by Simon Bent, based on the 1973 novel of the same name by B.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Christie_Malry's_Own_Double-Entry_(film)"
     },
     {
       "type": "card",
@@ -114,26 +214,6 @@
       "body": "<p>New documentary To Use a Mountain spotlights the pain and triumph of resisting government efforts to turn parts of rural US into disposal sites</p><p><a href=\"https://www.theguardian.com/environment/nuclearpower+energy\">Nuclear energy</a",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/aug/25/to-use-a-mountain-documentary-interview"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "It is the second single to his second major-label album Experiment.",
-      "body": "\"Good as You\" is a song recorded by American country music singer Kane Brown. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/39/Good_as_You.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Good_as_You"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Also known as Traveler's Rest, it was completed in 1890 by William Henry Purcell (1845–1910), a prominent Columbia businessman and politician.",
-      "body": "The Purcell–Killingsworth House, now the Garden Path Inn bed and breakfast, is a historic residence in Columbia, Alabama, United States. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Purcell-Killingsworth_House.JPG/330px-Purcell-Killingsworth_House.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Purcell%E2%80%93Killingsworth_House"
     }
   ]
 }
