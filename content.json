@@ -1,111 +1,15 @@
 {
-  "generated": "2026-08-26T05:20:35.653Z",
-  "count": 13,
+  "generated": "2026-08-26T06:23:50.028Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Russian stadium says it won't host Kanye West gigs",
-      "body": "Two planned concerts are thrown into doubt, but Russian promoters insist they will go ahead.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4gmvyzj5dgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Danganronpa Another Episode: Ultra Despair Girls is an action-adventure and third-person shooter video game developed by Spike Chunsoft.",
-      "body": "It is a spin-off in the Danganronpa series, set in between the events of Danganronpa: Trigger Happy Havoc and Danganronpa 2: Goodbye Despair. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/57/Danganronpa_AnotherEpisode_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Danganronpa_Another_Episode%3A_Ultra_Despair_Girls"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Second Generation of Postwar Writers is a classification in modern Japanese literature used for writers who appeared on the postwar literary scene between 1948 and 1949.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Second_Generation_of_Postwar_Writers"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Concordia Research Station, which opened in 2005, is a French–Italian research facility managed by l'Institut polaire français Paul-Émile Victor and Programma Nazionale di Ricerche in Antartide, that was built 3,233 m (10,607 ft) above sea level on a geographical formation known as dôme C, on the Antarctic Plateau, Antarctica.",
-      "body": "It is located 1,100 km (680 mi) inland from the French research station at Dumont D'Urville, 1,100 km (680 mi) inland from Australia's Casey Station and 1,200 km (750 mi) inland from the Italian Zucchelli Station at Terra Nova Bay. Bring it up somewhere. Watch",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ConcordiaFromTower.jpg/330px-ConcordiaFromTower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Concordia_Station"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Izumi Shikibu was a mid-Heian period Japanese poet.",
-      "body": "She is a member of the Thirty-six Medieval Poetry Immortals . Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Izumi_Shikibu.png/330px-Izumi_Shikibu.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Izumi_Shikibu"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘The Dog Stars’ review: Jacob Elordi and Margaret Qualley navigate the apocalypse in muted, tender Ridley Scott drama",
-      "body": "Josh Brolin and Guy Pearce also star in the director’s near-future set adaptation of the novel by Peter Heller",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/the-dog-stars-review-jacob-elordi-and-margaret-qualley-navigate-the-apocalypse-in-muted-tender-ridley-scott-drama/5219711.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Seam me up, Scotty! After 60 years, Star Trek has had a muppet takeover. About time too",
-      "body": "<p>Star Wars has embraced the magic of puppetry since the 70s, but Trekkers have been starved of any muppet action … until now. The creators of Strange New Worlds talk about boldly sewing where no one has sewn before</p><p>It’s life, Jim – ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/25/star-trek-strange-new-worlds-muppets-jim-henson-paramount"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dumping ground",
-      "body": "<p>New documentary To Use a Mountain spotlights the pain and triumph of resisting government efforts to turn parts of rural US into disposal sites</p><p><a href=\"https://www.theguardian.com/environment/nuclearpower+energy\">Nuclear energy</a",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/25/to-use-a-mountain-documentary-interview"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "South Korea selects Lee Chang-dong’s ‘Possible Love’ for Oscars",
-      "body": "The drama is set to premiere at Venice and Toronto film festivals.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/south-korea-selects-lee-chang-dongs-possible-love-for-oscars/5219669.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Max Neuhaus was an American musician, sound artist, and noted interpreter of contemporary and experimental percussion music in the 1960s.",
-      "body": "He created dozens of permanent and short-term sound installations during his career, which spanned four decades. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Max_Neuhaus.jpg/330px-Max_Neuhaus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Max_Neuhaus"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Mónica Macías is an Equatoguinean author.",
-      "body": "She is the daughter of the country's first president, Francisco Macías Nguema and cousin of incumbent president Teodoro Obiang Nguema Mbasogo. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/M%C3%B3nica_Mac%C3%ADas"
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
     },
     {
       "type": "card",
@@ -120,10 +24,156 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "The Dog Stars review – Ridley Scott’s lethargic postapocalyptic drama is a misfire",
-      "body": "<p>An adaptation of Peter Heller’s 2012 novel never finds its footing with overly familiar survival beats and a glum lack of energy</p><p>Looking towards the end of an August movie<strong> </strong>dumping ground littered with more unwanted",
+      "hook": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dumping ground",
+      "body": "<p>New documentary To Use a Mountain spotlights the pain and triumph of resisting government efforts to turn parts of rural US into disposal sites</p><p><a href=\"https://www.theguardian.com/environment/nuclearpower+energy\">Nuclear energy</a",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/25/the-dog-stars-ridley-scott-review"
+      "url": "https://www.theguardian.com/film/2026/aug/25/to-use-a-mountain-documentary-interview"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Passage by Colin Thubron review – mortality and memory in a gem of a novel",
+      "body": "<p>A terminally ill woman makes a final trip to Egypt in an exquisitely wrought portrait of end-of-life reckoning</p><p>Virginia Woolf said of Middlemarch that it is one of the few English novels written for grown-up people. In the shallow ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/26/passage-by-colin-thubron-review-mortality-and-memory-in-a-gem-of-a-novel"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Metropolis light transport (MLT) is a global illumination application of a Monte Carlo method called the Metropolis–Hastings algorithm to the rendering equation for generating images from detailed physical descriptions of three-dimensional scenes.",
+      "body": "One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Metropolis_light_transport"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "South Korea selects Lee Chang-dong’s ‘Possible Love’ for Oscars",
+      "body": "The drama is set to premiere at Venice and Toronto film festivals.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/south-korea-selects-lee-chang-dongs-possible-love-for-oscars/5219669.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Southeast Michigan, also called southeastern Michigan, is a region in the Lower Peninsula of Michigan that is home to a majority of the state's businesses and industries as well as slightly over half of the state's population, most of whom are concentrated in Metro Detroit.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Map_of_Michigan_highlighting_Southeast_Michigan.png/330px-Map_of_Michigan_highlighting_Southeast_Michigan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Southeast_Michigan"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Cyclopyrimorate is a selective pyridazine herbicide, used to control broadleaf weeds and grassy weeds, on cereals and rice.",
+      "body": "It was launched in 2019 in Japan, and is also used in China. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cyclopyrimorate.svg/330px-Cyclopyrimorate.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cyclopyrimorate"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Cirsium fontinale, the fountain thistle, is a flowering perennial herb in the family Asteraceae.",
+      "body": "It is endemic to California. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cirsium_fontinale_var._obispoense.jpg/330px-Cirsium_fontinale_var._obispoense.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cirsium_fontinale"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Fernando López Tuero (1857–1907) was a Spanish agronomist who worked for several years in Puerto Rico during the final decade of Spanish colonial rule.",
+      "body": "He is best known for identifying the white grub, larvae of scarab beetles of the genus Phyllophaga, as the cause of the 1890s sugarcane epidemic on the island. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fernando_L%C3%B3pez_Tuero"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1940 —",
+      "hook": "World War II: Chad becomes the first French colony to join the Allies under the administration of Félix Éboué, France's first black colonial governor.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2015 —",
+      "hook": "Two U.S. journalists are shot and killed by a disgruntled former coworker while conducting a live report in Moneta, Virginia.",
+      "body": "On the morning of August 26, 2015, news reporter Alison Parker and photojournalist Adam Ward, both employees of CBS affiliate WDBJ in Roanoke, Virginia, United States, were fatally shot while conducting a live television interview near Smith Mountain Lake in Moneta. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Murders_of_Alison_Parker_and_Adam_Ward"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1914 —",
+      "hook": "World War I: The German colony of Togoland surrenders to French and British forces after a 20-day campaign. Togoland is the first German colony to fall to Allied hands in World War I.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2014 —",
+      "hook": "The Jay Report into the Rotherham child sexual exploitation scandal is published.",
+      "body": "From the late 1980s until 2013, group-based child sexual exploitation affected an estimated 1,400 girls, generally from care home backgrounds, in the town of Rotherham, South Yorkshire, England. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rotherham_town_centre%2C_May_2010.jpg/330px-Rotherham_town_centre%2C_May_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Rotherham_child_sexual_exploitation_scandal"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Seam me up, Scotty! After 60 years, Star Trek has had a muppet takeover. About time too",
+      "body": "<p>Star Wars has embraced the magic of puppetry since the 70s, but Trekkers have been starved of any muppet action … until now. The creators of Strange New Worlds talk about boldly sewing where no one has sewn before</p><p>It’s life, Jim – ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/25/star-trek-strange-new-worlds-muppets-jim-henson-paramount"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Hanging By a Wire review – cable car rescue documentary dangles viewers on the edge of disaster",
+      "body": "<p>The extraordinary fate of eight people trapped above a chasm in Pakistan makes for a tense, skilfully assembled survival story with unexpected flashes of comedy</p><p>Survival documentaries are a weird little genre of nonfiction film-mak",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/26/hanging-by-a-wire-review-mohammed-ali-naqvi"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1972 —",
+      "hook": "The Games of the XX Olympiad open in Munich, West Germany.",
+      "body": "The 1972 Summer Olympics, officially known as the Games of the XX Olympiad and officially branded as Munich 1972, were an international multi-sport event held in Munich, West Germany, from 26 August to 11 September 1972. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/1972_Summer_Olympics_logo.svg/330px-1972_Summer_Olympics_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1972_Summer_Olympics"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1778 —",
+      "hook": "The first recorded ascent of Triglav, the highest mountain in Slovenia.",
+      "body": "Triglav, with an elevation of 2,863.65 metres, is the highest mountain in Slovenia and the highest peak of the Julian Alps. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Triglav.jpg/330px-Triglav.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Triglav"
     }
   ]
 }
