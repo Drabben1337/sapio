@@ -1,131 +1,7 @@
 {
-  "generated": "2026-08-26T09:27:46.466Z",
+  "generated": "2026-08-26T10:21:45.721Z",
   "count": 18,
   "items": [
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Liturgy of Saint John Chrysostom is the most celebrated divine liturgy in the Byzantine Rite.",
-      "body": "It is named after its core part, the anaphora attributed to Saint John Chrysostom, Archbishop of Constantinople in the 5th century. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Liturgy_of_Saint_John_Chrysostom"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "WME, BFI, DDA executives join Screen Summit 2026 speakers lineup",
-      "body": "The Screen Summit takes place at the BFI Southbank on September 29.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/wme-bfi-dda-executives-join-screen-summit-2026-speakers-lineup/5219645.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Last Sunrise review – Amazon’s soapy YA romance is thankless and bland",
-      "body": "<p>Another familiar concoction fails to make use of its sunny location and chooses cheap melodrama over romantic charm</p><p>A titular sunrise, a summer fling fantasy, exorbitant wealth, impossibly sculpted bodies: such are the profitable s",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/26/the-last-sunrise-movie-review-amazon"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Neil Gehrels Swift Observatory, previously called the Swift Gamma-Ray Burst Explorer, is a NASA three-instrument space observatory for studying gamma-ray bursts (GRBs) and monitoring the afterglow in X-ray and UV/visible light at the location of a burst.",
-      "body": "It was launched on 20 November 2004, aboard a Delta II launch vehicle. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Swift_Observatory_spacecraft_model.png/330px-Swift_Observatory_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Russian stadium says it will not host Kanye concerts – but promoter says shows have not been cancelled",
-      "body": "<p>The controversial rapper now known as Ye was due to play two huge shows at St Petersburg’s Gazprom Arena, which now states it cannot host performances for contractual reasons</p><p>The St Petersburg stadium that was set to host two conce",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/25/kanye-west-ye-russia-concert-st-petersburg-gazprom-arena"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Shingles vaccine may lower risk of stroke and heart failure",
-      "body": "Being vaccinated against shingles has been linked to a lower risk of cardiovascular disease before, but now a study suggests that the vaccine that is currently being used reduces the odds more than earlier versions of the shot",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2586346-shingles-vaccine-may-lower-risk-of-stroke-and-heart-failure/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Workout patch delivers some of the benefits of exercise with no exertion",
-      "body": "Injecting muscle cells beneath the skin of mice led to a patch of self-contracting cells that boosted their muscle mass, bone density and even markers of good brain, immune and liver function",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2586265-workout-patch-delivers-some-of-the-benefits-of-exercise-with-no-exertion/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Peter [de] Thellusson was a Genevan businessman and banker who settled in London, and became a British subject in 1762.",
-      "body": "He amassed a fortune through commerce and, when he died in 1797, he owned more than 4,000 acres of land in England. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Peter_Thellusson"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Priest Barracks of Dachau Concentration incarcerated clergy who had opposed the Nazi regime of Adolf Hitler.",
-      "body": "From December 1940, Berlin ordered the transfer of clerical prisoners held at other camps, and Dachau became the centre for imprisonment of clergymen. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Toasting_Polish_Dachau.jpg/330px-Toasting_Polish_Dachau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Priest_Barracks_of_Dachau_Concentration_Camp"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2011 —",
-      "hook": "The Boeing 787 Dreamliner, Boeing's all-new composite airliner, receives certification from the EASA and the FAA.",
-      "body": "The Boeing 787 Dreamliner, often shortened to Boeing 787, is an American wide-body airliner developed and manufactured by Boeing Commercial Airplanes. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg/330px-Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Anastasia Khvorova is a Russian-born American biochemist, academic, and biotechnology executive.",
-      "body": "She is a professor at the University of Massachusetts Chan Medical School, where she holds the Remondi Family Chair in Biomedical Sciences. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/AK_headshot.jpg/330px-AK_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Anastasia_Khvorova"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1278 —",
-      "hook": "Ladislaus IV of Hungary and Rudolf I of Germany defeat Ottokar II of Bohemia in the Battle on the Marchfeld near Dürnkrut in (then) Moravia.",
-      "body": "Ladislaus IV of Hungary, also known as Ladislaus the Cuman, was King of Hungary and Croatia from 1272 to 1290. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ladislav4.jpg/330px-Ladislav4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ladislaus_IV_of_Hungary"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Practical Magic 2's Kidman and Bullock board Essex vintage train",
-      "body": "The stars appear on the train, specially transported to a film studos for a new movie sequel.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cjrxdw3ew93o?at_medium=RSS&at_campaign=rss"
-    },
     {
       "type": "card",
       "cat": "history",
@@ -139,41 +15,165 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1969 —",
-      "hook": "Aeroflot Flight 1770 crashes while landing at Vnukovo International Airport, killing 16.",
-      "body": "On August 26, 1969, an Il-18 of Aeroflot landed without its landing gear and burst into flames during landing at Vnukovo Airport. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Aeroflot_Il-18V_CCCP-75880_PIK_Late_1960s.png/330px-Aeroflot_Il-18V_CCCP-75880_PIK_Late_1960s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1997 —",
+      "hook": "Beni Ali massacre occurs in Algeria, leaving 60 to 100 people dead.",
+      "body": "The Beni Ali massacre took place in the mountain hamlet of Beni Ali, 40 miles (64 km) south of Algiers near Chrea, on 26 August 1997. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1969_Vnukovo_Airport_Il-18_crash"
+      "url": "https://en.wikipedia.org/wiki/Beni_Ali_massacre"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1993 —",
-      "hook": "Sakha Avia Flight 301 crashes on approach to Aldan Airport, killing all 24 aboard.",
-      "body": "Sakha Avia Flight 301 was a scheduled domestic passenger flight from Kutana to Aldan via Uchur in Russia. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Russian_Air_Force_Let_L-410_Medvedev-1.jpg/330px-Russian_Air_Force_Let_L-410_Medvedev-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sakha_Avia_Flight_301"
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Alice Marion Merle Victoria Greenwood was an Australian-born New Zealand architect.",
+      "body": "She was the first woman to graduate with a bachelor's degree in architecture from a New Zealand university, and the first woman to be employed as an architect in the New Zealand public service. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Merle_Greenwood"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "David Gee is an English soccer head coach, businessman, and league administrator of the Ontario Soccer League.",
+      "body": "He also serves as operations manager for League1 Ontario. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/David_Gee_(soccer)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
-      "body": "The much-loved country singer-songwriter in her own words, following her death aged 80.",
+      "hook": "Kate Hudson to make How to Lose a Guy in 10 Days sequel, 23 years on",
+      "body": "Hudson and Matthew McConaughey, her co-star from the 2003 rom-com, could be reunited for the sequel.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cpq0j81pv08o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1978 —",
-      "hook": "Papal conclave: Albino Luciani is elected as Pope John Paul I.",
-      "body": "A conclave was held on 25 and 26 August 1978 to elect a new pope to succeed Paul VI, who had died on 6 August 1978. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg/330px-Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1303 —",
+      "hook": "Chittorgarh falls to the Delhi Sultanate.",
+      "body": "In 1303, the Delhi Sultanate ruler Alauddin Khalji captured the Chittor Fort from the Guhila king Ratnasimha, after an eight month long siege. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chittorgarh_fort.JPG/330px-Chittorgarh_fort.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/August_1978_conclave"
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Chittorgarh_(1303)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1642 —",
+      "hook": "Dutch–Portuguese War: Second Battle of San Salvador: The Dutch force the Spanish garrison at San Salvador (modern day Keelung, Taiwan) to surrender, ending the short-lived Spanish colony on Formosa and replacing it with a new Dutch administration.",
+      "body": "The Dutch–Portuguese War was a global armed conflict involving Dutch forces, in the form of the Dutch East India Company (VOC), the Dutch West India Company (GWC), and their allies, against the Iberian Union, and after 1640, the Portuguese Empire. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Victor_Meirelles_-_%27Battle_of_Guararapes%27%2C_1879%2C_oil_on_canvas%2C_Museu_Nacional_de_Belas_Artes%2C_Rio_de_Janeiro.JPG/330px-Victor_Meirelles_-_%27Battle_of_Guararapes%27%2C_1879%2C_oil_on_canvas%2C_Museu_Nacional_de_Belas_Artes%2C_Rio_de_Janeiro.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Dutch%E2%80%93Portuguese_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1542 —",
+      "hook": "A year and a half after leaving Guayaquil on the Pacific coast, Francisco de Orellana finishes his overland journey across South America and reaches the mouth of the Amazon River on the Atlantic coast.",
+      "body": "Guayaquil, officially Santiago de Guayaquil, is the capital of Guayas Province and the seat of Guayaquil Canton. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Faro_de_Guayaquil.jpg/330px-Faro_de_Guayaquil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Guayaquil"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1972 —",
+      "hook": "The Games of the XX Olympiad open in Munich, West Germany.",
+      "body": "The 1972 Summer Olympics, officially known as the Games of the XX Olympiad and officially branded as Munich 1972, were an international multi-sport event held in Munich, West Germany, from 26 August to 11 September 1972. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/1972_Summer_Olympics_logo.svg/330px-1972_Summer_Olympics_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1972_Summer_Olympics"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Sonnet 82 is one of 154 sonnets published by William Shakespeare in a quarto titled Shakespeare's Sonnets in 1609.",
+      "body": "It is a part of the Fair Youth series of sonnets, and the fifth sonnet of the Rival Poet group. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sonnet_82_1609.jpg/330px-Sonnet_82_1609.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonnet_82"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Hyman Philip Minsky was an American economist and economy professor at Washington University in St.",
+      "body": "A distinguished scholar at the Levy Economics Institute of Bard College, his research was intent on providing explanations to the characteristics of financial crises, which he attributed to swings in a potentially fragile financial system. Worth a quiet trip d",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HymanMinsky-1.jpg/330px-HymanMinsky-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hyman_Minsky"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Fly around Schiaparelli Crater with Mars Express",
+      "body": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been ",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "'It's a big step up': Behind the scenes as Netflix hit Dept Q returns to Edinburgh",
+      "body": "The second season began filming in the Scottish capital in June and is due to continue until October.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cz7z34vvxvlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "De Gaulle: Résistance review – a galloping bromance for Churchill and France’s wartime hero",
+      "body": "<p>This biopic of the great Gallic general – which culminates at Bir Hakeim, in advance of a second film – is a fine, quietly amusing romp with a touch of classic 60s war films</p><p>Perhaps because it is based on a biography by an Englishm",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/26/de-gaulle-resistance-review-a-galloping-bromance-for-churchill-and-frances-wartime-hero"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Thomas Sweeny or Sweeney was a glass manufacturer in what became Wheeling, West Virginia during the American Civil War, who before that war served in both houses of the Virginia General Assembly and ran the North Wheeling Flint Glass Works.",
+      "body": "The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Sweeney_(glassmaker)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Feminism for a World on Fire by Natasha Walter review – hope amid the hopelessness",
+      "body": "<p>A writer and activist links the climate crisis to battles for justice around the world in this vital book</p><p>It has become increasingly difficult to change our minds, to question our own views or to find common ground with people we d",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/25/feminism-for-a-world-on-fire-by-natasha-walter-review-hope-amid-the-hopelessness"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Gaumont ignites sales on Francois Ozon’s ‘Summer Of Fire’",
+      "body": "EXCLUSIVE: The psychological drama shot this summer in Normandy and stars Pio Marmaï and Sandor Funtek.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/gaumont-ignites-sales-on-francois-ozons-summer-of-fire/5219722.article"
     }
   ]
 }
