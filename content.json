@@ -1,7 +1,27 @@
 {
-  "generated": "2026-08-26T00:28:43.421Z",
+  "generated": "2026-08-26T02:16:21.153Z",
   "count": 14,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Voice Without a Shadow is a 1958 Japanese mystery film directed by Seijun Suzuki for the Nikkatsu Corporation.",
+      "body": "It is based on a novel by mystery writer Seichō Matsumoto. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Voice_Without_a_Shadow"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "\"Follow Me Down\" is a song by American duo 3OH!3 featuring English singer Neon Hitch from the album Almost Alice (2010).",
+      "body": "The song was made available for streaming on January 23, 2010, via MySpace. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Follow_Me_Down_(3OH!3_song)"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,22 +33,60 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Discourse on Colonialism is a 1950 essay by Afro-Martiniquan poet, author and politician Aimé Césaire.",
-      "body": "Written in surrealist poetic prose, the essay analyses the origins of European fascism, arguing that Nazism is not an exception in European history, but the natural conclusion of a civilization that justifies colonization. Worth a quiet trip down the rabbit ho",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Discourse_on_Colonialism_2000_edition_English.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Anna Harriett Drury was an English novelist who wrote \"conventional romances, with a few sharp observations on the role of unattached women in their relatives' houses\".",
+      "body": "She also published poetry and other novels, some marked as intended \"for boys\". The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Discourse_on_Colonialism"
+      "url": "https://en.wikipedia.org/wiki/Anna_Harriett_Drury"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Triage by Claudia Rankine review – how should we respond to the world’s atrocities?",
-      "body": "<p>The American poet and essayist weaves memoir, fiction, criticism and lyrical lament into a tale of friendship in an age of existential crisis</p><p>“Any resemblance to actual persons, living or dead, or actual events is purely coincident",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/25/triage-by-claudia-rankine-review-how-should-we-respond-to-the-worlds-atrocities"
+      "opener": "The Guardian · Culture —",
+      "hook": "Seam me up, Scotty! After 60 years, Star Trek has had a muppet takeover. About time too",
+      "body": "<p>Star Wars has embraced the magic of puppetry since the 70s, but Trekkers have been starved of any muppet action … until now. The creators of Strange New Worlds talk about boldly sewing where no one has sewn before</p><p>It’s life, Jim – ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/25/star-trek-strange-new-worlds-muppets-jim-henson-paramount"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "South Korea selects Lee Chang-dong’s ‘Possible Love’ for Oscars",
+      "body": "The drama is set to premiere at Venice and Toronto film festivals.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/south-korea-selects-lee-chang-dongs-possible-love-for-oscars/5219669.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Will muscle-boosting meds be the next big thing after GLP-1 drugs?",
+      "body": "A number of drugs designed to prevent muscle loss and boost muscle growth are being tested in clinical trials. Columnist Michael Le Page looks at whether building and maintaining muscles is about to get a whole lot easier",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2585855-will-muscle-boosting-meds-be-the-next-big-thing-after-glp-1-drugs/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "In 1925 he was living in Delgany, County Wicklow, and described himself as a \"cycle manufacturer and motor trader\".",
+      "body": "John O'Neill was an Irish businessman who was an Irish Free State senator in 1925. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_O'Neill_(Irish_senator)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "A Dog's Journey is a 2012 book written by W.",
+      "body": "Bruce Cameron and published by Forge Books. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b5/A_Dog%27s_Journey.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Dog's_Journey"
     },
     {
       "type": "card",
@@ -41,12 +99,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Will muscle-boosting meds be the next big thing after GLP-1 drugs?",
-      "body": "A number of drugs designed to prevent muscle loss and boost muscle growth are being tested in clinical trials. Columnist Michael Le Page looks at whether building and maintaining muscles is about to get a whole lot easier",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2585855-will-muscle-boosting-meds-be-the-next-big-thing-after-glp-1-drugs/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The station is owned by the Board of Education of the City of Albuquerque, New Mexico.",
+      "body": "KGGA is a radio station licensed to serve Gallup, New Mexico, United States. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/KGGA"
     },
     {
       "type": "card",
@@ -60,41 +119,12 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Fire Bringer is a young adult fantasy novel by David Clement-Davies published in 1999 in the United Kingdom and 2000 in the United States.",
-      "body": "It tells the story of Rannoch, a red deer whose life is the subject of an old forest prophecy. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/76/Fire-Bringer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "Library War is a Japanese light novel series by Hiro Arikawa, with illustrations by Sukumo Adabana.",
+      "body": "There are four novels in the series, though only the first novel is called Toshokan Sensō; the subsequent novels are named Toshokan Nairan, Toshokan Kiki, and Toshokan Kakumei. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/de/ToshokanSenso.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fire_Bringer"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Always Winter is a 2025 romantic tragicomedy film written and directed by David Trueba based on his own novel Blitz.",
-      "body": "It stars David Verdaguer, Isabelle Renauld, and Amaia Salamanca. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/33/Always_Winter_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Always_Winter"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Penny Lane Is Dead review – Aussie slasher comedy zips from Neighbours to nasty",
-      "body": "<p>Mia’Kate Russell’s 80s-set Ozsploitation horror is a tad slapdash, but the grungy gore and seething catfights save it from dud status </p><p>Here is a muddled if energetic effort from Australian writer-director Mia’Kate Russell. There’s ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/25/penny-lane-is-dead-review-aussie-slasher-comedy-zips-from-neighbours-to-nasty"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Garage Sale Mystery is a mystery film series starring Lori Loughlin as Jennifer Shannon.",
-      "body": "It is based on the Garage Sale Mystery book series written by Suzi Weinert. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Garage_Sale_Mystery"
+      "url": "https://en.wikipedia.org/wiki/Library_War"
     },
     {
       "type": "card",
@@ -104,36 +134,6 @@
       "body": "Two planned concerts are thrown into doubt, but Russian promoters insist they will go ahead.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/c4gmvyzj5dgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "Estimates of the number of Swahili speakers, including both native and second-language speakers, generally range from 150 million to 200 million.",
-      "body": "Swahili, also known as Kiswahili, is a Bantu language of the Atlantic–Congo language family, originally spoken by the Swahili people, who are found primarily in Tanzania, Kenya, and Mozambique. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Maeneo_penye_wasemaji_wa_Kiswahili.png/330px-Maeneo_penye_wasemaji_wa_Kiswahili.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Swahili"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Queen's Blade is a Japanese series of visual combat books published by Hobby Japan inspired by the licensed works from Firelight Game Company's Lost Worlds.",
-      "body": "The overall plot of the game revolves around a tournament called the Queen's Blade, which is held once every four years to determine a Queen. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Queen%27s_Blade_Leina_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Queen's_Blade"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Jack is a 1925 French silent drama film directed by Robert Saidreau and starring Jean Yonnel, André Dubosc and Thérèse Kolb.",
-      "body": "It is based on the 1876 novel of the same title by Alphonse Daudet. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jack_(1925_film)"
     }
   ]
 }
