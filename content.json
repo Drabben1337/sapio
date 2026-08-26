@@ -1,36 +1,25 @@
 {
-  "generated": "2026-08-26T08:27:01.653Z",
-  "count": 25,
+  "generated": "2026-08-26T09:27:46.466Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "At Close Quarters is a 2007 novel by Spanish author Eugenio Fuentes.",
-      "body": "Martin Schifino's English translation appeared in 2009 under Arcadia Books' imprint Euro Crime. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/ee/At_Close_Quarters.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Liturgy of Saint John Chrysostom is the most celebrated divine liturgy in the Byzantine Rite.",
+      "body": "It is named after its core part, the anaphora attributed to Saint John Chrysostom, Archbishop of Constantinople in the 5th century. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/At_Close_Quarters"
+      "url": "https://en.wikipedia.org/wiki/Liturgy_of_Saint_John_Chrysostom"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1444 —",
-      "hook": "Battle of St. Jakob an der Birs: A vastly outnumbered force of Swiss Confederates is defeated by the Dauphin Louis (future Louis XI of France) and his army of 'Armagnacs' near Basel.",
-      "body": "The Battle of St. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/St._Jakob_Tschachtlan.jpg/330px-St._Jakob_Tschachtlan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_St._Jakob_an_der_Birs"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Birth of Fire is a science fiction novel by American writer Jerry Pournelle.",
-      "body": "It was first published by Laser Books in 1976, and later reprinted by Baen Books. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/BirthOfFire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Birth_of_Fire"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "WME, BFI, DDA executives join Screen Summit 2026 speakers lineup",
+      "body": "The Screen Summit takes place at the BFI Southbank on September 29.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/wme-bfi-dda-executives-join-screen-summit-2026-speakers-lineup/5219645.article"
     },
     {
       "type": "card",
@@ -43,207 +32,148 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2003 —",
-      "hook": "A Beechcraft 1900 operating as Colgan Air Flight 9446 crashes after taking off from Barnstable Municipal Airport in Yarmouth, Massachusetts, killing both pilots on board.",
-      "body": "The Beechcraft 1900 is an American twin-engine turboprop regional airliner manufactured by Beechcraft. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Beech_1900D%2C_Air_New_Zealand_Link_%28Eagle_Airways%29_JP6920497.jpg/330px-Beech_1900D%2C_Air_New_Zealand_Link_%28Eagle_Airways%29_JP6920497.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Beechcraft_1900"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Neil Gehrels Swift Observatory, previously called the Swift Gamma-Ray Burst Explorer, is a NASA three-instrument space observatory for studying gamma-ray bursts (GRBs) and monitoring the afterglow in X-ray and UV/visible light at the location of a burst.",
+      "body": "It was launched on 20 November 2004, aboard a Delta II launch vehicle. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Swift_Observatory_spacecraft_model.png/330px-Swift_Observatory_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "WME, BFI, DDA executives join Screen Summit 2026 speakers lineup",
-      "body": "The Screen Summit takes place at the BFI Southbank on September 29.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/wme-bfi-dda-executives-join-screen-summit-2026-speakers-lineup/5219645.article"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
+      "opener": "The Guardian · Culture —",
+      "hook": "Russian stadium says it will not host Kanye concerts – but promoter says shows have not been cancelled",
+      "body": "<p>The controversial rapper now known as Ye was due to play two huge shows at St Petersburg’s Gazprom Arena, which now states it cannot host performances for contractual reasons</p><p>The St Petersburg stadium that was set to host two conce",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/25/kanye-west-ye-russia-concert-st-petersburg-gazprom-arena"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1966 —",
-      "hook": "The South African Border War starts with the battle at Omugulugwombashe.",
-      "body": "The South African Border War, also known as the Namibian War of Independence, and sometimes denoted in South Africa as the Angolan Bush War, was a largely asymmetric conflict that occurred in Namibia, Zambia, and Angola from 26 August 1966 to 21 March 1990. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SABorder_War_Montage2.jpg/330px-SABorder_War_Montage2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/South_African_Border_War"
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Shingles vaccine may lower risk of stroke and heart failure",
+      "body": "Being vaccinated against shingles has been linked to a lower risk of cardiovascular disease before, but now a study suggests that the vaccine that is currently being used reduces the odds more than earlier versions of the shot",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2586346-shingles-vaccine-may-lower-risk-of-stroke-and-heart-failure/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Workout patch delivers some of the benefits of exercise with no exertion",
+      "body": "Injecting muscle cells beneath the skin of mice led to a patch of self-contracting cells that boosted their muscle mass, bone density and even markers of good brain, immune and liver function",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2586265-workout-patch-delivers-some-of-the-benefits-of-exercise-with-no-exertion/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Peter [de] Thellusson was a Genevan businessman and banker who settled in London, and became a British subject in 1762.",
+      "body": "He amassed a fortune through commerce and, when he died in 1797, he owned more than 4,000 acres of land in England. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peter_Thellusson"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Innocents is a play written by William Archibald that premiered on Broadway in 1950 and was revived in 1976.",
-      "body": "The play is based on the 1898 novella The Turn of the Screw by Henry James. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "The Priest Barracks of Dachau Concentration incarcerated clergy who had opposed the Nazi regime of Adolf Hitler.",
+      "body": "From December 1940, Berlin ordered the transfer of clerical prisoners held at other camps, and Dachau became the centre for imprisonment of clergymen. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Toasting_Polish_Dachau.jpg/330px-Toasting_Polish_Dachau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Innocents_(play)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Hanging By a Wire review – cable car rescue documentary dangles viewers on the edge of disaster",
-      "body": "<p>The extraordinary fate of eight people trapped above a chasm in Pakistan makes for a tense, skilfully assembled survival story with unexpected flashes of comedy</p><p>Survival documentaries are a weird little genre of nonfiction film-mak",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/26/hanging-by-a-wire-review-mohammed-ali-naqvi"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Mark of the Angels – Miserere is a 2013 French thriller film directed by Sylvain White and based on Jean-Christophe Grangé's 2008 novel Miserere (novel).",
-      "body": "Headlined by Gérard Depardieu and JoeyStarr, the film is the fifth adaptation of a Grangé novel after The Crimson Rivers, Empire of the Wolves, The Stone Council and Flight of the Storks and the first for which Grangé himself did not collaborate on the screenp",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/5d/La_marque_des_anges_%E2%80%93_Miserere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Mark_of_the_Angels_%E2%80%93_Miserere"
+      "url": "https://en.wikipedia.org/wiki/Priest_Barracks_of_Dachau_Concentration_Camp"
     },
     {
       "type": "card",
       "cat": "history",
+      "opener": "On this day in 2011 —",
+      "hook": "The Boeing 787 Dreamliner, Boeing's all-new composite airliner, receives certification from the EASA and the FAA.",
+      "body": "The Boeing 787 Dreamliner, often shortened to Boeing 787, is an American wide-body airliner developed and manufactured by Boeing Commercial Airplanes. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg/330px-Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Hayat Mahmud was a late 18th-century Bengali Muslim commander who later became the feudal lord of Buzurg-Umedpur in Barisal.",
-      "body": "He is best known as a freedom fighter against the British East India Company, and for the construction of the Miah Bari Mosque, which continues to be a popular tourist attraction in southern Bangladesh. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0_%E0%A6%95%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF_%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6_%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A7%81%E0%A6%96_%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87.jpg/330px-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0_%E0%A6%95%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF_%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6_%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A7%81%E0%A6%96_%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Anastasia Khvorova is a Russian-born American biochemist, academic, and biotechnology executive.",
+      "body": "She is a professor at the University of Massachusetts Chan Medical School, where she holds the Remondi Family Chair in Biomedical Sciences. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/AK_headshot.jpg/330px-AK_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hayat_Mahmud"
+      "url": "https://en.wikipedia.org/wiki/Anastasia_Khvorova"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1278 —",
+      "hook": "Ladislaus IV of Hungary and Rudolf I of Germany defeat Ottokar II of Bohemia in the Battle on the Marchfeld near Dürnkrut in (then) Moravia.",
+      "body": "Ladislaus IV of Hungary, also known as Ladislaus the Cuman, was King of Hungary and Croatia from 1272 to 1290. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ladislav4.jpg/330px-Ladislav4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ladislaus_IV_of_Hungary"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Chinese artist jailed over satirical Mao sculptures, say rights groups",
-      "body": "The case against Gao Zhen, who was prosecuted under a law banning \"slander of heroes\", has been seen as an assault on artistic freedom.",
+      "hook": "Practical Magic 2's Kidman and Bullock board Essex vintage train",
+      "body": "The stars appear on the train, specially transported to a film studos for a new movie sequel.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c07lng44ng5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cjrxdw3ew93o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1940 —",
-      "hook": "World War II: Chad becomes the first French colony to join the Allies under the administration of Félix Éboué, France's first black colonial governor.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1767 —",
+      "hook": "Jesuits all over Chile are arrested as the Spanish Empire suppresses the Society of Jesus.",
+      "body": "The Society of Jesus, also known as the Jesuit Order or the Jesuits, is a religious order of clerics regular of pontifical right for men in the Catholic Church. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ihs-logo.svg/330px-Ihs-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Passage by Colin Thubron review – mortality and memory in a gem of a novel",
-      "body": "<p>A terminally ill woman makes a final trip to Egypt in an exquisitely wrought portrait of end-of-life reckoning</p><p>Virginia Woolf said of Middlemarch that it is one of the few English novels written for grown-up people. In the shallow ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/26/passage-by-colin-thubron-review-mortality-and-memory-in-a-gem-of-a-novel"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1970 —",
-      "hook": "The fiftieth anniversary of American women being able to vote is marked by a nationwide Women's Strike for Equality.",
-      "body": "The Women's Strike for Equality took place in the United States on August 26, 1970. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/1970s_women%27s_strike_poster_%28cropped%29.jpg/330px-1970s_women%27s_strike_poster_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Women's_Strike_for_Equality"
+      "url": "https://en.wikipedia.org/wiki/Jesuits"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1969 —",
       "hook": "Aeroflot Flight 1770 crashes while landing at Vnukovo International Airport, killing 16.",
-      "body": "On August 26, 1969, an Il-18 of Aeroflot landed without its landing gear and burst into flames during landing at Vnukovo Airport. Worth a quiet trip down the rabbit hole.",
+      "body": "On August 26, 1969, an Il-18 of Aeroflot landed without its landing gear and burst into flames during landing at Vnukovo Airport. One of those things you can't un-know.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Aeroflot_Il-18V_CCCP-75880_PIK_Late_1960s.png/330px-Aeroflot_Il-18V_CCCP-75880_PIK_Late_1960s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/1969_Vnukovo_Airport_Il-18_crash"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1993 —",
+      "hook": "Sakha Avia Flight 301 crashes on approach to Aldan Airport, killing all 24 aboard.",
+      "body": "Sakha Avia Flight 301 was a scheduled domestic passenger flight from Kutana to Aldan via Uchur in Russia. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Russian_Air_Force_Let_L-410_Medvedev-1.jpg/330px-Russian_Air_Force_Let_L-410_Medvedev-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Sakha_Avia_Flight_301"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Rise of the Footsoldier: Retribution review – never-ending hardman-on-a-mission franchise heads to Ibiza",
-      "body": "<p>The seventh in the series takes longstanding lead gangster Tate, played to the hilt as always by Craig Fairbrass, to the White Isle to knock some heads together</p><p>The seventh instalment in this seemingly never-ending series opens wit",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/25/rise-of-the-footsoldier-retribution-review"
+      "opener": "BBC Entertainment —",
+      "hook": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
+      "body": "The much-loved country singer-songwriter in her own words, following her death aged 80.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "It features a large collection of vintage arcade games and other coin-operated entertainment machines, most of which are functional and can be operated by visitors.",
-      "body": "Marvin's Marvelous Mechanical Museum is an amusement arcade and museum previously located in Farmington Hills, Michigan. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Exterior_-_Marvin%27s_Marvelous_Mechanical_Museum.jpg/330px-Exterior_-_Marvin%27s_Marvelous_Mechanical_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marvin's_Marvelous_Mechanical_Museum"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Ben Hur Live is a 2009 stage adaptation of Lew Wallace's 1880 novel Ben-Hur: A Tale of the Christ.",
-      "body": "Produced by Franz Abraham with music and narration by Stewart Copeland, it premièred on 17 September 2009 at the O2 Arena in London, the first date of its European tour. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ben_Hur_Live"
+      "opener": "On this day in 1978 —",
+      "hook": "Papal conclave: Albino Luciani is elected as Pope John Paul I.",
+      "body": "A conclave was held on 25 and 26 August 1978 to elect a new pope to succeed Paul VI, who had died on 6 August 1978. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg/330px-Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/August_1978_conclave"
     }
   ]
 }
