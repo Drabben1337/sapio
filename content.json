@@ -1,129 +1,209 @@
 {
-  "generated": "2026-08-29T20:08:11.706Z",
-  "count": 13,
+  "generated": "2026-08-29T22:50:59.068Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I’m an ever-changing vessel’: Erykah Badu on defying definition, life as a birth and death doula and her first album in 11 years",
+      "body": "<p>Why do the Texan innovator’s records take so long to make? ‘It’s important to gather the data,’ she says: the death, dating and dopamine behind her exquisite comeback alongside the Alchemist</p><p>Erykah Badu needs the lights down <em>lo",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/aug/28/erykah-badu-before-the-world-blows-interview"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1842 —",
+      "hook": "Treaty of Nanking signing ends the First Opium War.",
+      "body": "The Treaty of Nanjing was the peace treaty which ended the First Opium War (1839–1842) between Great Britain and the Qing dynasty of China on 29 August 1842. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Signing_of_the_Treaty_of_Nanking.jpg/330px-The_Signing_of_the_Treaty_of_Nanking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Nanking"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Grigory Abramovich Gurev was a Soviet philosopher, popularizer of anti-religious knowledge, the author of several books on the history of religion and atheism.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Hyrbyair Marri is an activist from the Pakistani province of Balochistan, and president of the Free Balochistan Movement.",
+      "body": "He is the fifth son of the Baloch nationalist leader Khair Bakhsh Marri. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hyrbyair_Marri.jpg/330px-Hyrbyair_Marri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Grigory_Gurev"
+      "url": "https://en.wikipedia.org/wiki/Hyrbyair_Marri"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Robert Carlyle: ‘When we did The Full Monty strip, the reaction from the crowd was terrifying’",
-      "body": "<p>The actor on which star he’d devour first on a lifeboat, why he prefers pigeons to dogs and how Trainspotting put the Scottish accent on the map</p><p><strong>You’re stranded on a lifeboat with </strong><strong>Ewan McGregor</strong><str",
+      "hook": "‘It’s the story of what happens when the music stops’: bringing tormented jazz legend Bill Evans to life",
+      "body": "<p>Having directed documentaries about David Bowie, Radiohead and Joy Division, Grant Gee takes on a biopic of the turbulent and tragic American pianist </p><p>In 1997, Grant Gee directed the video for <a href=\"https://www.youtube.com/watch",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/27/robert-carlyle-interview-full-monty-strip"
+      "url": "https://www.theguardian.com/film/2026/aug/28/tormented-jazz-legend-bill-evans-grant-gee"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
-      "body": "<p>Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/aug",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Passage by Colin Thubron review – mortality and memory in a gem of a novel",
-      "body": "<p>A terminally ill woman makes a final trip to Egypt in an exquisitely wrought portrait of end-of-life reckoning</p><p>Virginia Woolf said of Middlemarch that it is one of the few English novels written for grown-up people. In the shallow ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/26/passage-by-colin-thubron-review-mortality-and-memory-in-a-gem-of-a-novel"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Things We Never Say by Elizabeth Strout audiobook review – brilliant portrait of an existential crisis",
-      "body": "<p>A teacher’s private anxieties are subtly combined with political events in this Booker-listed tale set in coastal Massachusetts</p><p>Artie Dam is a much-loved history teacher from coastal Massachusetts famed for his white socks and old ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/27/the-things-we-never-say-elizabeth-strout-audiobook-review-no-man-is-an-island"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The result of the algorithm is often called the Viterbi path.",
-      "body": "The Viterbi algorithm is a dynamic programming algorithm that finds the most likely sequence of hidden events that would explain a sequence of observed events. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Viterbi_algorithm"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "The Rise & Fall is the fourth studio album by English ska band Madness, released on 5 November 1982 by Stiff Records.",
-      "body": "This album saw Madness at their most experimental, exhibiting a range of musical styles including jazz, English music hall, and Eastern influences. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/38/Madnesstheriseandfall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "In 2019, the party became recognized as a minor party in Colorado.",
+      "body": "The Approval Voting Party (AVP) is a single-issue American political party dedicated to implementing approval voting in the United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Approval_Voting_Party.svg/330px-Approval_Voting_Party.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Rise_%26_Fall"
+      "url": "https://en.wikipedia.org/wiki/Approval_Voting_Party"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘One with the dust’: how I survived Burning Man when everything went wrong",
-      "body": "<p>I was thrilled to finally experience the Nevada festival. But I underestimated how hardcore it was – and the life lessons it would bring</p><p>I was naked in our tent at Burning Man last year when all hell broke loose. The 100km/h (62mph",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/27/burning-man-festival-dust-storms"
+      "opener": "The Guardian · Film —",
+      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Boraginaceae, the borage or forget-me-not family, has two significantly different circumscriptions as of December 2025.",
-      "body": "In the narrower circumscription, Boraginaceae sensu stricto is one of 11 families placed in the order Boraginales and includes about 90–120 genera. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/B._officinalis-flor-1.JPG/330px-B._officinalis-flor-1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "Abdelkarim Fergat is an Algerian Greco-Roman wrestler.",
+      "body": "He is a four-time gold medalist in his event at the African Wrestling Championships. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Boraginaceae"
+      "url": "https://en.wikipedia.org/wiki/Abdelkarim_Fergat"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Underwater photography is the practice of capturing images beneath the surface of the water, often done while scuba diving, but can also be done while diving on surface supply, snorkeling, swimming, from a submersible or remotely operated underwater vehicle, or from automated cameras lowered from the surface.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/US_Navy_120209-N-XD935-302_Mass_Communication_Specialist_1st_Class_Shane_Tuck%2C_assigned_to_the_Expeditionary_Combat_Camera_Underwater_Photo_Team%2C_c.jpg/330px-US_Navy_120209-N-XD935-302_Mass_Communication_Specialist_1st_Class_Shane_Tuck%2C_assigned_to_the_Expeditionary_Combat_Camera_Underwater_Photo_Team%2C_c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "And Then There Was One is a 1994 television film directed by David Jones and starring Amy Madigan and Dennis Boutsikaris.",
+      "body": "The film first aired on the Lifetime Television network on March 9, 1994. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2c/And_Then_There_was_One_1994_TV_Film_DVD_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Underwater_photography"
+      "url": "https://en.wikipedia.org/wiki/And_Then_There_Was_One_(1994_film)"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
+      "cat": "history",
+      "opener": "On this day in 1966 —",
+      "hook": "Leading Egyptian thinker Sayyid Qutb is executed for plotting the assassination of President Gamal Abdel Nasser.",
+      "body": "Sayyid Ibrahim Husayn Shadhili Qutb was an Egyptian political theorist and revolutionary who was a leading member of the Muslim Brotherhood. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Sayyid_Qutb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Sayyid_Qutb"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Martin Freeman to star in Dakota Gorman’s thriller ‘Speak Up’ for Altitude",
-      "body": "EXCLUSIVE: Altitude is introducing the project to buyers at TIFF.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/martin-freeman-to-star-in-dakota-gormans-thriller-speak-up-for-altitude/5219787.article"
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "NY 142 serves as a northeasterly bypass of Troy.",
+      "body": "New York State Route 142 (NY 142) is a north–south state highway in Rensselaer County, New York, in the United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NY-142.svg/330px-NY-142.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/New_York_State_Route_142"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Jan Ziolkowski is an American Latinist, who occupies the Arthur Kingsley Porter Professorship of Medieval Latin at Harvard University.",
-      "body": "From 2007 to 2020 he served as Director of the Dumbarton Oaks Research Library and Collection. Bring it up somewhere. Watch the reaction.",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Baltupis is a river of Kėdainiai district municipality, Kaunas County, central Lithuania.",
+      "body": "It flows for 4.8 kilometres and has a basin area of 2.7 km². Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Baltupis_%28Siruti%C5%A1kio_apylink%C4%97s%29.JPG/330px-Baltupis_%28Siruti%C5%A1kio_apylink%C4%97s%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baltupis"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
+      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Relations were negatively influenced by the Iranian Revolution in 1979 and the Iran–Iraq War in the 1980s.",
+      "body": "Kuwait and Iran have longstanding historical ties spanning hundreds of years, particularly in the pre-oil era. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Iran_Kuwait_Locator.png/330px-Iran_Kuwait_Locator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Kuwait_relations"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Secret Woman review – Claes Bang is dastardly gaslighter in Danish amnesia thriller",
+      "body": "<p>In spite of capable performances and deployment of <em>hygge</em>, gothic and Nordic noir elements, you’ll search for a feasible plot or a character insight in vain</p><p>Adapted from the 2017 novel by Anna Ekberg (actually a male writin",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/28/the-secret-woman-review-claes-bang-is-dastardly-gaslighter-in-danish-amnesia-thriller"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1831 —",
+      "hook": "Michael Faraday discovers electromagnetic induction.",
+      "body": "Michael Faraday was an English chemist and physicist who contributed vastly to the study of electrochemistry and electromagnetism. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Michael_Faraday_sitting_crop.jpg/330px-Michael_Faraday_sitting_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Michael_Faraday"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1484 —",
+      "hook": "Pope Innocent VIII succeeds Pope Sixtus IV.",
+      "body": "Pope Innocent VIII, born Giovanni Battista Cybo, was head of the Catholic Church and leader of the Papal States from 29 August 1484 to his death, in July 1492. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Niccol%C3%B2_di_forzore_spinelli%2C_medaglia_di_innocenzo_viii_01.JPG/330px-Niccol%C3%B2_di_forzore_spinelli%2C_medaglia_di_innocenzo_viii_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pope_Innocent_VIII"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1941 —",
+      "hook": "World War II: Tallinn, the capital of Estonia, is occupied by Nazi Germany following an occupation by the Soviet Union.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Whisper Man review – Robert De Niro sleepwalks through silly Netflix potboiler",
+      "body": "<p>A father and son must team up to find a serial killer in a cheaply made and increasingly uninteresting thriller</p><p>It’s not as if <a href=\"https://www.theguardian.com/film/robertdeniro\">Robert De Niro</a>’s choices have improved all t",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/28/the-whisper-man-robert-de-niro-netflix-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Midland Commons is an outdoor power center in Warwick, Rhode Island.",
+      "body": "It previously existed as a two-story, enclosed shopping mall. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jan_M._Ziolkowski"
+      "url": "https://en.wikipedia.org/wiki/Midland_Commons"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1315 —",
+      "hook": "Battle of Montecatini: The army of the Republic of Pisa, commanded by Uguccione della Faggiuola, wins a decisive victory against the joint forces of the Kingdom of Naples and the Republic of Florence despite being outnumbered.",
+      "body": "The Battle of Montecatini was fought in the Val di Nievole on 29 August 1315 between the Republic of Pisa, and the forces of both the Kingdom of Naples and the Republic of Florence. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Filippo_di_Taranto_Uguccione_della_Faggiola.jpg/330px-Filippo_di_Taranto_Uguccione_della_Faggiola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Montecatini"
     }
   ]
 }
