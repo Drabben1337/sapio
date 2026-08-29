@@ -1,101 +1,93 @@
 {
-  "generated": "2026-08-29T02:29:20.892Z",
-  "count": 14,
+  "generated": "2026-08-29T09:26:19.208Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "How Green Was My Valley is a 1939 novel by Richard Llewellyn, narrated by Huw Morgan, the main character, about his Welsh family and the mining community in which they live.",
-      "body": "The author had claimed that he based the book on his own experiences, but this was found after his death to be doubtful; Llewellyn was English-born and spent little time in Wales, though he was of Welsh descent. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/54/HowGreen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/How_Green_Was_My_Valley_(novel)"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
+      "body": "<p>With dots that dizzied the viewer, the giddy sensory overload of seeing the grandest installations of her octopuses and giant pumpkins was hard to resist</p><p>• <a href=\"https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-art"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 708 —",
+      "hook": "Copper coins are minted in Japan for the first time (Traditional Japanese date: August 10, 708).",
+      "body": "Wadōkaichin (和同開珎), also romanized as Wadō-kaichin or called Wadō-kaihō, is the oldest official Japanese coinage, first mentioned for 29 August 708 on order of Empress Genmei. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Wadokaichin_coin_8th_century_Japan.jpg/330px-Wadokaichin_coin_8th_century_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Wad%C5%8Dkaichin"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1958 —",
+      "hook": "United States Air Force Academy opens in Colorado Springs, Colorado.",
+      "body": "The United States Air Force Academy (USAFA) is a United States service academy in Air Force Academy, Colorado, immediately north of Colorado Springs. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/US-AirForceAcademy-Shield.svg/330px-US-AirForceAcademy-Shield.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/United_States_Air_Force_Academy"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Bilby's Doll is an opera in three acts composed by Carlisle Floyd.",
-      "body": "The libretto is based on the 1928 American novel A Mirror for Witches by Esther Forbes. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Carlisle_Floyd_with_National_Medal_of_Arts_award.jpg/330px-Carlisle_Floyd_with_National_Medal_of_Arts_award.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "Rockman is a fictional superhero appearing in American comic books published by Marvel Comics.",
+      "body": "The character first appeared in U.S.A. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/Rockman_%28comics%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bilby's_Doll"
+      "url": "https://en.wikipedia.org/wiki/Rockman_(character)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1219 —",
+      "hook": "The Battle of Fariskur occurs during the Fifth Crusade.",
+      "body": "The battle of Fāriskūr was a pitched battle fought between the army of the Fifth Crusade and Ayyubid Egypt on 29 August 1219 outside the Ayyubid encampment at Fāriskūr. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Fariskur_(1219)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Mediawan, Curzon senior execs join Screen Summit 2026",
+      "body": "Elisabeth d’Arvieu will take part in a one-to-one conversation; Philip Knatchbull joins the ’Future Thinking’ panel.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/mediawan-curzon-senior-execs-join-screen-summit-2026/5219777.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Supreme Soviet of the Soviet Union suspends all activities of the Soviet Communist Party.",
+      "body": "The Supreme Soviet of the Union of Soviet Socialist Republics (SSUSSR) was the highest organ of state authority of the Soviet Union from 1936 to 1991. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Badge_of_the_Supreme_Soviet_of_the_Soviet_Union.svg/330px-Badge_of_the_Supreme_Soviet_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Supreme_Soviet_of_the_Soviet_Union"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Rain Taxi is a Minneapolis-based book review and literary organization.",
+      "body": "In addition to publishing its quarterly print edition, Rain Taxi maintains an online edition with distinct content, sponsors the Twin Cities Book Festival, hosts readings, and publishes chapbooks through its Brainstorm Series. Bring it up somewhere. Watch the ",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9c/Rain_Taxi_%28magazine%29_Fall_2011_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rain_Taxi"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Charli XCX electrifies Reading Festival with era-spanning set",
-      "body": "The British singer and Irish rock band Fontaines DC both headlined the first night of Reading for 2026.",
+      "hook": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
+      "body": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Design for additive manufacturing is design for manufacturability as applied to additive manufacturing (AM).",
-      "body": "It is a general type of design methods or tools whereby functional performance and/or other key product life-cycle considerations such as manufacturability, reliability, and cost can be optimized subject to the capabilities of additive manufacturing technologi",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Design_for_additive_manufacturing"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘I don’t care if I look good’: French heartthrob Louis Garrel on fashion, fatherhood and his radically dorky new role",
-      "body": "<p>The star has long been French cinema’s favourite tousle-haired Adonis, which makes his latest performance – as a schlubby, stay-at-home dad – all the more surprising. ‘I appreciate people laughing at me,’ he says</p><p>‘Even though I’ve ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Münchhausen Prize was instituted in 1997, the 200th anniversary of the death of the historical Baron von Münchhausen.",
-      "body": "It is awarded in May each year in Bodenwerder, the Baron's hometown, for special talent in the art of speaking or presentation, either in literature or the visual arts, fantasy and satire, in the sense of the Baron. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/M%C3%BCnchhausen_Prize"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Rob Reiner’s son Jake gives first interview after parents’ deaths: ‘I will never understand why this happened’",
-      "body": "<p>Jake says his parents ‘never stopped helping’ his brother Nick, who has pleaded not guilty to murdering both of them at their Los Angeles home</p><p>Jake Reiner has given his first interview since the killing of his parents, the film-mak",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/28/rob-reiner-son-jake-interview-parents-death"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Expedition Sound podcast series",
-      "body": "Expedition Sound is a podcast series by the European Space Agency (ESA) in which you’re invited to explore the Universe through your ears. Guided by sonifications – the translation of data into sound – host Zsófi Szalavári travels from our ",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Don Quixote is a 1976 sculpture by Aurelio Teno located at the northeast corner of the Kennedy Center in Washington, D.C.",
-      "body": "The sculpture of Don Quixote and his horse Rocinante was a gift from Spain for the United States Bicentennial. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Don_Quixote_statue_%28297166057%29.jpg/330px-Don_Quixote_statue_%28297166057%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Don_Quixote_(Kennedy_Center_sculpture)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Ain’t nobody better: Chaka Khan’s 20 best songs – ranked!",
-      "body": "<p>Ahead of the release of her 13th solo album, the fantastically titled Chakzilla, we rank the best of a sublime catalogue of funk, slow jams and tears-on-the-dancefloor disco</p><p>Chaka Khan had harsh words for the “assholes” at her then",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/aug/27/aint-nobody-better-chaka-khan-20-best-songs-ranked"
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -109,31 +101,79 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Mediawan, Curzon senior execs join Screen Summit 2026",
-      "body": "Elisabeth d’Arvieu will take part in a one-to-one conversation; Philip Knatchbull joins the ’Future Thinking’ panel.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/mediawan-curzon-senior-execs-join-screen-summit-2026/5219777.article"
+      "opener": "The Guardian · Books —",
+      "hook": "How to make a bestseller: insiders reveal the tricks of the book trade",
+      "body": "<p>From cover design to shelf placement and influencer partnerships … how publishers will persuade you to buy their books this autumn</p><p>Think about the last book you bought. How did you choose it? Was it from a recommendation, a review,",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "The Marriage of William Ashe is a novel by Mary Augusta Ward that was the best-selling novel in the United States in 1905.",
-      "body": "It originally appeared in serial form in Harper's Magazine from June 1904 through May 1905, and was published in book form in March 1905. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/The_Marriage_of_William_Ashe_Frontispiece_1904.jpg/330px-The_Marriage_of_William_Ashe_Frontispiece_1904.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "\"Pretending\" is a song with music and lyrics by Al Sherman and Marty Symes.",
+      "body": "It was recorded by Andy Russell with the Paul Weston Orchestra (Capitol), Bing Crosby (singing) and Les Paul playing lead guitar on May 15, 1946 (Decca), Kate Smith (Columbia) and Margaret Whiting from the Barry Wood Show among others. Worth a quiet trip down ",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Marriage_of_William_Ashe"
+      "url": "https://en.wikipedia.org/wiki/Pretending_(Al_Sherman_song)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Ain’t nobody better: Chaka Khan’s 20 best songs – ranked!",
+      "body": "<p>Ahead of the release of her 13th solo album, the fantastically titled Chakzilla, we rank the best of a sublime catalogue of funk, slow jams and tears-on-the-dancefloor disco</p><p>Chaka Khan had harsh words for the “assholes” at her then",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/culture/2026/aug/27/aint-nobody-better-chaka-khan-20-best-songs-ranked"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Founded in 2014, the company initially marketed itself as a direct-to-consumer e-commerce brand before expanding into physical retail stores and partnerships with other retailers.",
-      "body": "is an American company headquartered in New York City that designs and sells sleep products including mattresses, pillows, furniture, bedding and sleep accessories. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Casper_Dadeland_Mall%2C_2021.jpg/330px-Casper_Dadeland_Mall%2C_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 870 —",
+      "hook": "The city of Melite surrenders to an Aghlabid army following a siege, putting an end to Byzantine Malta.",
+      "body": "Melite or Melita (Latin) was an ancient city located on the site of present-day Mdina and Rabat in Malta. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Malta_-_Mdina_-_Wesgha_tal-Muzew_-_Domus_Romana_out_01_ies.jpg/330px-Malta_-_Mdina_-_Wesgha_tal-Muzew_-_Domus_Romana_out_01_ies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Melite_(ancient_city)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Kolkhoz by Emmanuel Carrère review – intricate portrait of an elite French family",
+      "body": "<p>The author of The Adversary and Yoga unearths a history that includes the Nazis, Russia, and the Académie Française</p><p>When Emmanuel Carrère’s mother, Hélène, died in 2023, at the age of 94, President Macron spoke at her memorial. She",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/27/kolkhoz-by-emmanuel-carrere-review-intricate-portrait-of-an-elite-french-family"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1315 —",
+      "hook": "Battle of Montecatini: The army of the Republic of Pisa, commanded by Uguccione della Faggiuola, wins a decisive victory against the joint forces of the Kingdom of Naples and the Republic of Florence despite being outnumbered.",
+      "body": "The Battle of Montecatini was fought in the Val di Nievole on 29 August 1315 between the Republic of Pisa, and the forces of both the Kingdom of Naples and the Republic of Florence. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Filippo_di_Taranto_Uguccione_della_Faggiola.jpg/330px-Filippo_di_Taranto_Uguccione_della_Faggiola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Montecatini"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The 1945 college football season was the 77th season of intercollegiate football in the United States.",
+      "body": "Competition included schools from the Big Ten Conference, the Pacific Coast Conference (PCC), the Southeastern Conference (SEC), the Big Six Conference, the Southern Conference, the Southwest Conference, and numerous smaller conferences and independent program",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Casper_Sleep"
+      "url": "https://en.wikipedia.org/wiki/1945_college_football_season"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Olivia Jo Thirlby is an American actress.",
+      "body": "She is best known for her roles as Leah in the comedy-drama film Juno (2007), as Natalie in The Darkest Hour (2011) and as Judge Cassandra Anderson in Dredd (2012). One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Olivia_Thirlby_2012.jpg/330px-Olivia_Thirlby_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Olivia_Thirlby"
     }
   ]
 }
