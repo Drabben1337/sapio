@@ -1,93 +1,190 @@
 {
-  "generated": "2026-08-30T11:03:07.345Z",
+  "generated": "2026-08-30T15:31:32.913Z",
   "count": 20,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Andersson's Kalle on Top Form is a 1973 Swedish comedy film directed by Arne Stivell and starring Sickan Carlsson, Sten-Åke Cederhök and Britta Holmberg.",
+      "body": "It is a sequel to the 1972 film Andersson's Kalle which was itself based on the 1901 novel of the same title by Emil Norlander. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4b/Andersson%27s_Kalle_on_Top_Form.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andersson's_Kalle_on_Top_Form"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on the end of the summer books season – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1057 —",
-      "hook": "Elderly Byzantine Emperor Michael VI Bringas abdicates after just one year on the throne.",
-      "body": "The foundation of Constantinople in 330 AD marks the conventional start of the Byzantine Empire, which fell to the Ottoman Empire in 1453 AD. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg/330px-Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1835 —",
+      "hook": "Australia: Melbourne, Victoria is founded.",
+      "body": "Melbourne is the capital and most populous city of the Australian state of Victoria and the second-most populous city in Australia. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Melbourne_skyline_sor.jpg/330px-Melbourne_skyline_sor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/List_of_Byzantine_emperors"
+      "url": "https://en.wikipedia.org/wiki/Melbourne"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1945 —",
+      "hook": "The Allied Control Council, governing Germany after World War II, comes into being.",
+      "body": "The Allied Control Council (ACC) or Allied Control Authority, also referred to as the Four Powers, was the governing body of the Allied occupation zones in Germany (1945–1949/1991) and Austria (1945–1955) following the end of World War II in Europe. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Deutschland_Besatzungszonen_8_Jun_1947_-_22_Apr_1949.svg/330px-Deutschland_Besatzungszonen_8_Jun_1947_-_22_Apr_1949.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Allied_Control_Council"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1721 —",
+      "hook": "The Great Northern War between Sweden and Russia ends in the Treaty of Nystad.",
+      "body": "In the Great Northern War (1700–1721) a coalition led by Russia successfully contested the supremacy of Sweden in Northern, Central and Eastern Europe. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Great_Northern_War_Collage.jpg/330px-Great_Northern_War_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Great_Northern_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1998 —",
+      "hook": "Second Congo War: Armed forces of the Democratic Republic of the Congo (DRC) and their Angolan and Zimbabwean allies recapture Matadi and the Inga dams in the western DRC from RCD and Rwandan troops.",
+      "body": "The Second Congo War, also known as Africa's World War or the Great War of Africa, was a major conflict that began on 2 August 1998 in the Democratic Republic of the Congo (DRC), just over a year after the First Congo War. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/DRC_raped_women.jpg/330px-DRC_raped_women.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Second_Congo_War"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "How to make a bestseller: insiders reveal the tricks of the book trade",
+      "body": "<p>From cover design to shelf placement and influencer partnerships … how publishers will persuade you to buy their books this autumn</p><p>Think about the last book you bought. How did you choose it? Was it from a recommendation, a review,",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1983 —",
+      "hook": "Aeroflot Flight 5463 crashes into Dolan Mountain while approaching Almaty International Airport in present-day Kazakhstan, killing all 90 people on board.",
+      "body": "Aeroflot Flight 5463 was a Soviet domestic passenger flight from Chelyabinsk to Almaty which crashed on 30 August 1983 while approaching Almaty. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aeroflot_Tu-134A_CCCP-65862_ZRH_1983-1-9.png/330px-Aeroflot_Tu-134A_CCCP-65862_ZRH_1983-1-9.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_5463"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Amelia Francisca Marchena Sánchez de Leyba, known as Amelia Francasci was a writer, considered the first female Dominican Republic novelist.",
+      "body": "She is known for introducing the autobiographical genre to the national literature of the Dominican Republic. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Desangles-Francasci.png/330px-Desangles-Francasci.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amelia_Francasci"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "Mediawan, Curzon senior execs join Screen Summit 2026",
-      "body": "Elisabeth d’Arvieu will take part in a one-to-one conversation; Philip Knatchbull joins the ’Future Thinking’ panel.",
+      "hook": "Venice opening jury press conference in doubt, individual film conferences to proceed",
+      "body": "Festival cites “conflicting schedule” threatening jury session, although not yet cancelled.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/mediawan-curzon-senior-execs-join-screen-summit-2026/5219777.article"
+      "url": "https://www.screendaily.com/news/venice-opening-jury-press-conference-in-doubt-individual-film-conferences-to-proceed/5219848.article"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Tonio Kröger is a novella by Thomas Mann, written early in 1901, when he was 25.",
-      "body": "It was first published in 1903. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%281903%29_Tonio_Kr%C3%B6ger_11.10.2007.jpg/330px-%281903%29_Tonio_Kr%C3%B6ger_11.10.2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Tell Them of Battles, Kings, and Elephants is a 2010 novel by French writer Mathias Énard, translated into English by Charlotte Mandell.",
+      "body": "It was awarded the Prix Goncourt des Lycéens that same year. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Parle_Leur_De_Batailles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tonio_Kr%C3%B6ger"
+      "url": "https://en.wikipedia.org/wiki/Tell_Them_of_Battles%2C_Kings%2C_and_Elephants"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Abdul Samad bin Mohamed Said is a Malaysian novelist and poet.",
-      "body": "In May 1976, he was named by Malaysia literature communities and many of the country's linguists as the Pejuang Sastera [Literary Exponent] receiving, within the following decade, the 1979 Southeast Asia Write Award and, in 1986, in appreciation of his continu",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/A._Samad_Said.jpg/330px-A._Samad_Said.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Last Summer is a novella by the Russian writer Boris Pasternak.",
+      "body": "Originally published in 1934 under the Russian title Povest, the book relates the reminiscences of Serezha, a young Muscovite spending the winter of 1915-16 with his sister's family in the foothills of the Ural Mountains. Bring it up somewhere. Watch the react",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A._Samad_Said"
+      "url": "https://en.wikipedia.org/wiki/The_Last_Summer_(novella)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Sir Adam Disappeared is a 1939 mystery thriller novel by the British writer E.",
+      "body": "It was published in the United States by Little, Brown. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/59/Sir_Adam_Disappeared.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sir_Adam_Disappeared"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Memo to Ridley Scott: no one needs more Alien: Covenant movies – get the franchise back to stalk’n’slash",
-      "body": "<p>News that Scott is working on a follow-up to his maligned 2017 film leaves me worried the franchise has run out of shocks</p><p>If any science-fiction saga looked beyond recovery, it was the Alien franchise. For the 38 years that followe",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/28/ridley-scott-alien-covenant-follow-up"
+      "opener": "The Guardian · Books —",
+      "hook": "‘Who would dare take on Elizabeth Jane Howard’s fans?’ Louisa Young on reviving the Cazalet Chronicles",
+      "body": "<p>The author’s new trilogy continues her aunt’s beloved family saga. What would happen next to the sprawling cast of characters ... and could she pull it off?",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/30/who-would-dare-take-on-elizabeth-jane-howards-fans-louisa-young-on-reviving-the-cazalet-chronicles"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1282 —",
-      "hook": "Peter III of Aragon lands at Trapani to intervene in the War of the Sicilian Vespers.",
-      "body": "Peter III of Aragon was King of Aragon, King of Valencia, and Count of Barcelona from 1276 to his death. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Pedro_III_rey_de_Arag%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Peter_III_of_Aragon"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1936 —",
-      "hook": "The RMS Queen Mary wins the Blue Riband by setting the fastest transatlantic crossing.",
-      "body": "RMS Queen Mary is a former British ocean liner that operated primarily on the North Atlantic Ocean from 1936 to 1967 for the Cunard Line. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Queen_Mary_ship%2C_Long_Beach%2C_California_LCCN2011630073_%28crop%29.tif/lossy-page1-330px-Queen_Mary_ship%2C_Long_Beach%2C_California_LCCN2011630073_%28crop%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/RMS_Queen_Mary"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1992 —",
-      "hook": "The 11-day Ruby Ridge standoff ends with Randy Weaver surrendering to federal authorities.",
-      "body": "The Ruby Ridge standoff was the siege of the Weaver family home in Boundary County, Idaho, in August 1992. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/VickiWeaverLastPhoto1992.jpg/330px-VickiWeaverLastPhoto1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ruby_Ridge_standoff"
+      "opener": "Okay, this one's fun —",
+      "hook": "It has been listed on the IUCN Red List as Near Threatened since 2015.",
+      "body": "The markhor is a large wild Capra species native to the mountain regions at the crossroads of Central and South Asia, including the Karakoram and Himalayas. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg/330px-Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Markhor"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Ain’t nobody better: Chaka Khan’s 20 best songs – ranked!",
-      "body": "<p>Ahead of the release of her 13th solo album, the fantastically titled Chakzilla, we rank the best of a sublime catalogue of funk, slow jams and tears-on-the-dancefloor disco</p><p>Chaka Khan had harsh words for the “assholes” at her then",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/aug/27/aint-nobody-better-chaka-khan-20-best-songs-ranked"
+      "opener": "The Guardian · Books —",
+      "hook": "Kolkhoz by Emmanuel Carrère review – intricate portrait of an elite French family",
+      "body": "<p>The author of The Adversary and Yoga unearths a history that includes the Nazis, Russia, and the Académie Française</p><p>When Emmanuel Carrère’s mother, Hélène, died in 2023, at the age of 94, President Macron spoke at her memorial. She",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/27/kolkhoz-by-emmanuel-carrere-review-intricate-portrait-of-an-elite-french-family"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "In 2021, it was announced that the line-up had changed, with McDonald and Rubalcaba replaced by Autry Fulbright II and Justin Brown, respectively.",
+      "body": "was an American hardcore punk supergroup, formed in Los Angeles, California in late 2009 by Circle Jerks/Black Flag singer Keith Morris, Burning Brides frontman Dimitri Coats, Redd Kross bassist Steven Shane McDonald, and Rocket From The Crypt/Hot Snakes drumm",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Off%21_2012-05-14_21.JPG/330px-Off%21_2012-05-14_21.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Off!"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could this policy fix the care system and slash student debt at the same time?",
+      "body": "<p>Andy Burnham is in need of radical proposals. A ‘care first’ year in exchange for 50% off fees could be just what he needs</p><p>The UK’s social care sector is in crisis. Costs are spiralling, with many local councils forced to dedicate ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1896 —",
+      "hook": "Philippine Revolution: After Spanish victory in the Battle of San Juan del Monte, eight provinces in the Philippines are declared under martial law by the Spanish Governor-General Ramón Blanco y Erenas.",
+      "body": "The Philippine Revolution was a war of independence waged by the revolutionary organization Katipunan against the Spanish Empire from 1896 to 1898. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/UltimosFilipinas.jpg/330px-UltimosFilipinas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Philippine_Revolution"
     },
     {
       "type": "card",
@@ -97,103 +194,6 @@
       "body": "<p>Jake says his parents ‘never stopped helping’ his brother Nick, who has pleaded not guilty to murdering both of them at their Los Angeles home</p><p>Jake Reiner has given his first interview since the killing of his parents, the film-mak",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/aug/28/rob-reiner-son-jake-interview-parents-death"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The three stations share studios at 19 Broadcast Plaza on Seventh Street in the Queensgate neighborhood just west of downtown Cincinnati; WXIX-TV's transmitter is located in the South Fairmount neighborhood on the city's northwest side.",
-      "body": "WXIX-TV is a television station licensed to Newport, Kentucky, United States, serving the Cincinnati metro as the market's Fox affiliate. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/WXIX-TV_logo.svg/330px-WXIX-TV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/WXIX-TV"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "Martin's description of St Kilda, which he visited in 1697, had also been published some years earlier as A Late Voyage to St Kilda (1698).",
-      "body": "Martin Martin was a Scottish writer best known for his work A Description of the Western Islands of Scotland. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Martin_Martin"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Up Above the World is a novel by Paul Bowles first published in 1966 by Simon and Schuster and in Great Britain by Peter Owen Publishers in 1967.",
-      "body": "Up Above the World was the last of Bowles's four novels. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/41/UpAboveTheWorld.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Up_Above_the_World"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2021 —",
-      "hook": "The last remaining American troops leave Afghanistan, ending U.S. involvement in the war.",
-      "body": "The United States Armed Forces completed their withdrawal from Afghanistan on 30 August 2021, marking the end of the 2001–2021 war. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/C-17s_support_Afghanistan_drawdown_2021.jpg/330px-C-17s_support_Afghanistan_drawdown_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2020%E2%80%932021_US_troop_withdrawal_from_Afghanistan"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2023 —",
-      "hook": "Gabonese coup d'état: After Ali Bongo Ondimba's reelection, a military coup ousts him, ending 56 years of Bongo family rule in Gabon.",
-      "body": "On 30 August 2023, a coup d'état occurred in Gabon shortly after the announcement that incumbent president Ali Bongo had won the general election held on 26 August. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Topographic_map_of_Gabon-fr.svg/330px-Topographic_map_of_Gabon-fr.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2023_Gabonese_coup_d'%C3%A9tat"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘I don’t care if I look good’: French heartthrob Louis Garrel on fashion, fatherhood and his radically dorky new role",
-      "body": "<p>The star has long been French cinema’s favourite tousle-haired Adonis, which makes his latest performance – as a schlubby, stay-at-home dad – all the more surprising. ‘I appreciate people laughing at me,’ he says</p><p>‘Even though I’ve ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Woman in the Dunes is a novel by the Japanese writer Kōbō Abe, published in 1962.",
-      "body": "It won the 1962 Yomiuri Prize for literature, and an English translation by E. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/43/Suna_no_onna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Woman_in_the_Dunes"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
-      "body": "<p>With dots that dizzied the viewer, the giddy sensory overload of seeing the grandest installations of her octopuses and giant pumpkins was hard to resist</p><p>• <a href=\"https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-art"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Other Side of the Bridge is the second novel by Canadian novelist Mary Lawson.",
-      "body": "It became a bestseller in Canada, and was longlisted for The Booker Prize. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/37/TheOtherSideOfTheBridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Other_Side_of_the_Bridge"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Why Gen Z cinemagoers are tired of “overused” actors - The Screen Podcast",
-      "body": "Two Gen Z’s share their thoughts on reviews, social media marketing and streamer release windows.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/why-gen-z-cinemagoers-are-tired-of-overused-actors-the-screen-podcast/5219750.article"
     }
   ]
 }
