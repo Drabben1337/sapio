@@ -1,142 +1,56 @@
 {
-  "generated": "2026-08-30T18:51:38.240Z",
-  "count": 21,
+  "generated": "2026-08-30T21:40:59.122Z",
+  "count": 19,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1914 —",
+      "hook": "World War I: Germans defeat the Russians in the Battle of Tannenberg.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2008 —",
+      "hook": "A Conviasa Boeing 737 crashes into Illiniza Volcano in Ecuador, killing all three people on board.",
+      "body": "Línea Aérea Conviasa is the flag carrier of Venezuela, with its headquarters on the grounds of Simón Bolívar International Airport in Maiquetía, near Caracas. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Conviasa_Airbus_A340-211_Ramirez-1.jpg/330px-Conviasa_Airbus_A340-211_Ramirez-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Conviasa"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The mill stands on the east side of the lane between Hindringham and Binham and is four miles east of Walsingham.",
+      "body": "Lower Green Mill is a tower mill at Lower Green, located to the north of the village of Hindringham in the English county of Norfolk. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hindringham_tower_mill_%28geograph_2031088%29.jpg/330px-Hindringham_tower_mill_%28geograph_2031088%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lower_Green_Mill%2C_Hindringham"
+    },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Chillin' in Another World with Level 2 Super Cheat Powers is a Japanese light novel series written by Miya Kinojo and illustrated by Katagiri.",
-      "body": "The series was initially serialized on the user-generated novel publishing website Shōsetsuka ni Narō between 2016 and 2019. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Chillin%27_in_Another_World_with_Level_2_Super_Cheat_Powers_vol_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Cardenas Basalt, also known as either the Cardenas Lava or Cardenas Lavas, is a rock formation that outcrops over an area of about 310 km2 (120 mi2) in the eastern Grand Canyon, Coconino County, Arizona.",
+      "body": "The lower part of the Cardenas Basalt forms granular talus slopes. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Grand_Canyon%2C_Colorado_River_%283467675993%29.jpg/330px-Grand_Canyon%2C_Colorado_River_%283467675993%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chillin'_in_Another_World_with_Level_2_Super_Cheat_Powers"
+      "url": "https://en.wikipedia.org/wiki/Cardenas_Basalt"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1959 —",
-      "hook": "South Vietnamese opposition figure Phan Quang Dan is elected to the National Assembly despite soldiers being bussed in to vote for President Ngo Dinh Diem's candidate.",
-      "body": "Phan Quang Đán was a Vietnamese political opposition figure who was one of only two non-government politicians who won a seat in the 1959 South Vietnamese election for the National Assembly. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/Phan_Quang_%C4%90%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "On this day in 1945 —",
+      "hook": "The Supreme Commander of the Allied Forces, General Douglas MacArthur, lands at Atsugi Air Force Base.",
+      "body": "A commander-in-chief is the person who exercises supreme command and control over an armed force. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Latvian_platoon_at_Camp_Lejeune.jpg/330px-Latvian_platoon_at_Camp_Lejeune.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Phan_Quang_%C4%90%C3%A1n"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Zoya Pirzad is an Iranian-Armenian writer and novelist.",
-      "body": "Her mother is Iranian Armenian and her father comes from a Russian background. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zoya_Pirzad"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Venice opening jury press conference in doubt, individual film conferences to proceed",
-      "body": "Festival cites “conflicting schedule” threatening jury session, although not yet cancelled.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/venice-opening-jury-press-conference-in-doubt-individual-film-conferences-to-proceed/5219848.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The draw for the 2013 fixtures took place in October 2012.",
-      "body": "The All-Ireland Under-21 Hurling Championship 2013 was the 50th staging of the All-Ireland championship since its establishment in 1964. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2013_All-Ireland_Under-21_Hurling_Championship"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "UK’s National Cinema Day to return as weekend edition for 2026",
-      "body": "National Cinema Weekend will take place on September 5-6 across the UK.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/uks-national-cinema-day-to-return-as-weekend-edition-for-2026/5219844.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Young Warriors is a war film filmed in 1967 by Universal Pictures based on Richard Matheson's 1960 novel The Beardless Warriors.",
-      "body": "The novel was inspired by Matheson's own experiences as an 18-year-old infantryman with the 87th Infantry Division in Germany in World War II. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/The_Young_Warriors_%28movie_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Young_Warriors_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2014 —",
-      "hook": "Prime Minister of Lesotho Tom Thabane flees to South Africa as the army allegedly stages a coup.",
-      "body": "Thomas Motsoahae Thabane is a Mosotho politician who was the fifth Prime Minister of Lesotho from 2012 to 2015 and from 2017 to 2020. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tom_Thabane.jpg/330px-Tom_Thabane.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tom_Thabane"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1862 —",
-      "hook": "American Civil War: Battle of Richmond: Confederates under Edmund Kirby Smith rout Union forces under General William \"Bull\" Nelson.",
-      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Historias del Kronen is the first novel by Madrid-born Spanish author José Ángel Mañas, with which he was a finalist for the Premio Nadal in January 1994.",
-      "body": "Published by Spanish publishing house Ediciones Destino in 1994—when the author was only 23 years old, and which he claims he wrote in only 15 days—it is the first book by the author in the so-called \"Kronen Tetralogy,\" along with Mensaka, Ciudad rayada, and S",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Historias_del_Kronen_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Historias_del_Kronen_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "How to make a bestseller: insiders reveal the tricks of the book trade",
-      "body": "<p>From cover design to shelf placement and influencer partnerships … how publishers will persuade you to buy their books this autumn</p><p>Think about the last book you bought. How did you choose it? Was it from a recommendation, a review,",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Most of the souks were built under the Hafsid dynasty in the 13th century and near the Al-Zaytuna Mosque.",
-      "body": "The souks of Tunis are a set of shops and boutiques located in the medina of Tunis, capital of Tunisia. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Souks_Tunis.jpg/330px-Souks_Tunis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Souks_of_Tunis"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on the end of the summer books season – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1981 —",
-      "hook": "President Mohammad-Ali Rajai and Prime Minister Mohammad-Javad Bahonar of Iran are assassinated in a bombing. The office of Iran's Prosecutor General blames the People's Mujahedin of Iran.",
-      "body": "Mohammad-Ali Rajai was an Iranian politician who served as the second president of Iran from 2 August 1981 until his assassination four weeks later. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mohammad-Ali_Rajai_picture.jpg/330px-Mohammad-Ali_Rajai_picture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mohammad-Ali_Rajai"
+      "url": "https://en.wikipedia.org/wiki/Commander-in-chief"
     },
     {
       "type": "card",
@@ -150,31 +64,79 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Abashiri Prison , also known as A Man from Abashiri Prison, is a 1965 Japanese film written and directed by Teruo Ishii.",
-      "body": "Based on the 1956 novel of the same name by Hajime Itō, Ishii wrote the script as a remake of the 1958 American film The Defiant Ones. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/bd/Abashiri_Prison_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Martel affair, sometimes known as the Sapphire affair, was a spy scandal that took place in France in early 1962.",
+      "body": "It involved information provided by former high-ranking member of the KGB, Anatoliy Golitsyn, who defected to the United States in December 1961. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Abashiri_Prison_(film)"
+      "url": "https://en.wikipedia.org/wiki/Martel_affair"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The African Diplomatic Corps founded \"Africa Week\" in Washington, D.C., and the corps' most recent leader was Serge Mombouli, Ambassador of the Republic of Congo, from 2015 until his death in September 2025.",
-      "body": "The African Diplomatic Corps is a body consisting of the 53 ambassadors to the United States that represent African countries. Worth a quiet trip down the rabbit hole.",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "A Theory of Relativity (ISBN 0-06-103199-2) is a 2001 novel written by American author Jacquelyn Mitchard.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/db/A_Theory_of_Relativity_Cover_Art.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Theory_of_Relativity"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Herbert Fischer (1914–2006) was a German diplomat, indologist and the ambassador of the erstwhile German Democratic Republic to India from 1972 to 1976.",
+      "body": "Fischer was born on 10 April 1914 in Herrnhut, in East Germany to a craftsman. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/African_Diplomatic_Corps"
+      "url": "https://en.wikipedia.org/wiki/Herbert_Fischer_(diplomat)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Lola Young surprises Reading Festival with final day set",
+      "body": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "UK’s National Cinema Day to return as weekend edition for 2026",
+      "body": "National Cinema Weekend will take place on September 5-6 across the UK.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/uks-national-cinema-day-to-return-as-weekend-edition-for-2026/5219844.article"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Could this policy fix the care system and slash student debt at the same time?",
-      "body": "<p>Andy Burnham is in need of radical proposals. A ‘care first’ year in exchange for 50% off fees could be just what he needs</p><p>The UK’s social care sector is in crisis. Costs are spiralling, with many local councils forced to dedicate ",
+      "hook": "How to make a bestseller: insiders reveal the tricks of the book trade",
+      "body": "<p>From cover design to shelf placement and influencer partnerships … how publishers will persuade you to buy their books this autumn</p><p>Think about the last book you bought. How did you choose it? Was it from a recommendation, a review,",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1464 —",
+      "hook": "Paul II succeeds Pius II as pope of the Catholic Church.",
+      "body": "Pope Paul II, born Pietro Barbo, was head of the Catholic Church and ruler of the Papal States from 30 August 1464 to his death in 1471. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Portrait_of_Paolo_II.jpg/330px-Portrait_of_Paolo_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pope_Paul_II"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1590 —",
+      "hook": "Tokugawa Ieyasu enters Edo Castle. (Traditional Japanese date: August 1, 1590)",
+      "body": "Tokugawa Ieyasu was a Japanese samurai, daimyo and the founder and first shogun of the Tokugawa shogunate of Japan, which ruled from 1603 until the Meiji Restoration in 1868. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tokugawa_Ieyasu2.JPG/330px-Tokugawa_Ieyasu2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu"
     },
     {
       "type": "card",
@@ -187,23 +149,41 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1974 —",
-      "hook": "A powerful bomb explodes at the Mitsubishi Heavy Industries headquarters in Marunouchi, Tokyo. Eight are killed, 378 are injured. Eight left-wing activists are arrested on May 19, 1975, by Japanese authorities.",
-      "body": "On 30 August 1974, a terrorist bombing of the Mitsubishi Heavy Industries headquarters in Tokyo, Japan, killed eight people and injured at least 376 others. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Marunouchi_2chome_Building_2012-10-08.JPG/330px-Marunouchi_2chome_Building_2012-10-08.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1974_Mitsubishi_Heavy_Industries_bombing"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could this policy fix the care system and slash student debt at the same time?",
+      "body": "<p>Andy Burnham is in need of radical proposals. A ‘care first’ year in exchange for 50% off fees could be just what he needs</p><p>The UK’s social care sector is in crisis. Costs are spiralling, with many local councils forced to dedicate ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Cape Bathurst is a cape and a peninsula located on the northern coast of the Northwest Territories in Canada.",
+      "body": "Cape Bathurst is the northernmost point of mainland Northwest Territories and one of the few peninsulas in mainland North America protruding above the 70th parallel north. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cape_Bathurst"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1574 —",
-      "hook": "Guru Ram Das becomes the Fourth Sikh Guru/Master.",
-      "body": "Guru Ram Das, sometimes spelled as Guru Ramdas, was the fourth of the ten Sikh gurus. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Guru_Ram_Das_miniature_painting.jpg/330px-Guru_Ram_Das_miniature_painting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2023 —",
+      "hook": "Gabonese coup d'état: After Ali Bongo Ondimba's reelection, a military coup ousts him, ending 56 years of Bongo family rule in Gabon.",
+      "body": "On 30 August 2023, a coup d'état occurred in Gabon shortly after the announcement that incumbent president Ali Bongo had won the general election held on 26 August. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Topographic_map_of_Gabon-fr.svg/330px-Topographic_map_of_Gabon-fr.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Guru_Ram_Das"
+      "url": "https://en.wikipedia.org/wiki/2023_Gabonese_coup_d'%C3%A9tat"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on the end of the summer books season – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon"
     }
   ]
 }
