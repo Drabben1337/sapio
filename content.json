@@ -1,65 +1,104 @@
 {
-  "generated": "2026-08-30T15:31:32.913Z",
-  "count": 20,
+  "generated": "2026-08-30T18:51:38.240Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Andersson's Kalle on Top Form is a 1973 Swedish comedy film directed by Arne Stivell and starring Sickan Carlsson, Sten-Åke Cederhök and Britta Holmberg.",
-      "body": "It is a sequel to the 1972 film Andersson's Kalle which was itself based on the 1901 novel of the same title by Emil Norlander. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/4b/Andersson%27s_Kalle_on_Top_Form.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Chillin' in Another World with Level 2 Super Cheat Powers is a Japanese light novel series written by Miya Kinojo and illustrated by Katagiri.",
+      "body": "The series was initially serialized on the user-generated novel publishing website Shōsetsuka ni Narō between 2016 and 2019. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Chillin%27_in_Another_World_with_Level_2_Super_Cheat_Powers_vol_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Andersson's_Kalle_on_Top_Form"
+      "url": "https://en.wikipedia.org/wiki/Chillin'_in_Another_World_with_Level_2_Super_Cheat_Powers"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1959 —",
+      "hook": "South Vietnamese opposition figure Phan Quang Dan is elected to the National Assembly despite soldiers being bussed in to vote for President Ngo Dinh Diem's candidate.",
+      "body": "Phan Quang Đán was a Vietnamese political opposition figure who was one of only two non-government politicians who won a seat in the 1959 South Vietnamese election for the National Assembly. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/Phan_Quang_%C4%90%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Phan_Quang_%C4%90%C3%A1n"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Zoya Pirzad is an Iranian-Armenian writer and novelist.",
+      "body": "Her mother is Iranian Armenian and her father comes from a Russian background. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zoya_Pirzad"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on the end of the summer books season – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon"
+      "opener": "Screen Daily —",
+      "hook": "Venice opening jury press conference in doubt, individual film conferences to proceed",
+      "body": "Festival cites “conflicting schedule” threatening jury session, although not yet cancelled.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/venice-opening-jury-press-conference-in-doubt-individual-film-conferences-to-proceed/5219848.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1835 —",
-      "hook": "Australia: Melbourne, Victoria is founded.",
-      "body": "Melbourne is the capital and most populous city of the Australian state of Victoria and the second-most populous city in Australia. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Melbourne_skyline_sor.jpg/330px-Melbourne_skyline_sor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Melbourne"
+      "opener": "You probably never noticed this —",
+      "hook": "The draw for the 2013 fixtures took place in October 2012.",
+      "body": "The All-Ireland Under-21 Hurling Championship 2013 was the 50th staging of the All-Ireland championship since its establishment in 1964. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2013_All-Ireland_Under-21_Hurling_Championship"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "UK’s National Cinema Day to return as weekend edition for 2026",
+      "body": "National Cinema Weekend will take place on September 5-6 across the UK.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/uks-national-cinema-day-to-return-as-weekend-edition-for-2026/5219844.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Young Warriors is a war film filmed in 1967 by Universal Pictures based on Richard Matheson's 1960 novel The Beardless Warriors.",
+      "body": "The novel was inspired by Matheson's own experiences as an 18-year-old infantryman with the 87th Infantry Division in Germany in World War II. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/The_Young_Warriors_%28movie_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Young_Warriors_(film)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "The Allied Control Council, governing Germany after World War II, comes into being.",
-      "body": "The Allied Control Council (ACC) or Allied Control Authority, also referred to as the Four Powers, was the governing body of the Allied occupation zones in Germany (1945–1949/1991) and Austria (1945–1955) following the end of World War II in Europe. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Deutschland_Besatzungszonen_8_Jun_1947_-_22_Apr_1949.svg/330px-Deutschland_Besatzungszonen_8_Jun_1947_-_22_Apr_1949.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2014 —",
+      "hook": "Prime Minister of Lesotho Tom Thabane flees to South Africa as the army allegedly stages a coup.",
+      "body": "Thomas Motsoahae Thabane is a Mosotho politician who was the fifth Prime Minister of Lesotho from 2012 to 2015 and from 2017 to 2020. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tom_Thabane.jpg/330px-Tom_Thabane.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Allied_Control_Council"
+      "url": "https://en.wikipedia.org/wiki/Tom_Thabane"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1721 —",
-      "hook": "The Great Northern War between Sweden and Russia ends in the Treaty of Nystad.",
-      "body": "In the Great Northern War (1700–1721) a coalition led by Russia successfully contested the supremacy of Sweden in Northern, Central and Eastern Europe. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Great_Northern_War_Collage.jpg/330px-Great_Northern_War_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1862 —",
+      "hook": "American Civil War: Battle of Richmond: Confederates under Edmund Kirby Smith rout Union forces under General William \"Bull\" Nelson.",
+      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Great_Northern_War"
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1998 —",
-      "hook": "Second Congo War: Armed forces of the Democratic Republic of the Congo (DRC) and their Angolan and Zimbabwean allies recapture Matadi and the Inga dams in the western DRC from RCD and Rwandan troops.",
-      "body": "The Second Congo War, also known as Africa's World War or the Great War of Africa, was a major conflict that began on 2 August 1998 in the Democratic Republic of the Congo (DRC), just over a year after the First Congo War. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/DRC_raped_women.jpg/330px-DRC_raped_women.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Second_Congo_War"
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Historias del Kronen is the first novel by Madrid-born Spanish author José Ángel Mañas, with which he was a finalist for the Premio Nadal in January 1994.",
+      "body": "Published by Spanish publishing house Ediciones Destino in 1994—when the author was only 23 years old, and which he claims he wrote in only 15 days—it is the first book by the author in the so-called \"Kronen Tetralogy,\" along with Mensaka, Ciudad rayada, and S",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Historias_del_Kronen_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Historias_del_Kronen_(novel)"
     },
     {
       "type": "card",
@@ -73,61 +112,31 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1983 —",
-      "hook": "Aeroflot Flight 5463 crashes into Dolan Mountain while approaching Almaty International Airport in present-day Kazakhstan, killing all 90 people on board.",
-      "body": "Aeroflot Flight 5463 was a Soviet domestic passenger flight from Chelyabinsk to Almaty which crashed on 30 August 1983 while approaching Almaty. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aeroflot_Tu-134A_CCCP-65862_ZRH_1983-1-9.png/330px-Aeroflot_Tu-134A_CCCP-65862_ZRH_1983-1-9.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_5463"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Amelia Francisca Marchena Sánchez de Leyba, known as Amelia Francasci was a writer, considered the first female Dominican Republic novelist.",
-      "body": "She is known for introducing the autobiographical genre to the national literature of the Dominican Republic. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Desangles-Francasci.png/330px-Desangles-Francasci.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Most of the souks were built under the Hafsid dynasty in the 13th century and near the Al-Zaytuna Mosque.",
+      "body": "The souks of Tunis are a set of shops and boutiques located in the medina of Tunis, capital of Tunisia. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Souks_Tunis.jpg/330px-Souks_Tunis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Amelia_Francasci"
+      "url": "https://en.wikipedia.org/wiki/Souks_of_Tunis"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Venice opening jury press conference in doubt, individual film conferences to proceed",
-      "body": "Festival cites “conflicting schedule” threatening jury session, although not yet cancelled.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/venice-opening-jury-press-conference-in-doubt-individual-film-conferences-to-proceed/5219848.article"
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on the end of the summer books season – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Tell Them of Battles, Kings, and Elephants is a 2010 novel by French writer Mathias Énard, translated into English by Charlotte Mandell.",
-      "body": "It was awarded the Prix Goncourt des Lycéens that same year. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Parle_Leur_De_Batailles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tell_Them_of_Battles%2C_Kings%2C_and_Elephants"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Last Summer is a novella by the Russian writer Boris Pasternak.",
-      "body": "Originally published in 1934 under the Russian title Povest, the book relates the reminiscences of Serezha, a young Muscovite spending the winter of 1915-16 with his sister's family in the foothills of the Ural Mountains. Bring it up somewhere. Watch the react",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Last_Summer_(novella)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Sir Adam Disappeared is a 1939 mystery thriller novel by the British writer E.",
-      "body": "It was published in the United States by Little, Brown. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/59/Sir_Adam_Disappeared.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sir_Adam_Disappeared"
+      "cat": "history",
+      "opener": "On this day in 1981 —",
+      "hook": "President Mohammad-Ali Rajai and Prime Minister Mohammad-Javad Bahonar of Iran are assassinated in a bombing. The office of Iran's Prosecutor General blames the People's Mujahedin of Iran.",
+      "body": "Mohammad-Ali Rajai was an Iranian politician who served as the second president of Iran from 2 August 1981 until his assassination four weeks later. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mohammad-Ali_Rajai_picture.jpg/330px-Mohammad-Ali_Rajai_picture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mohammad-Ali_Rajai"
     },
     {
       "type": "card",
@@ -140,13 +149,32 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "It has been listed on the IUCN Red List as Near Threatened since 2015.",
-      "body": "The markhor is a large wild Capra species native to the mountain regions at the crossroads of Central and South Asia, including the Karakoram and Himalayas. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg/330px-Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Abashiri Prison , also known as A Man from Abashiri Prison, is a 1965 Japanese film written and directed by Teruo Ishii.",
+      "body": "Based on the 1956 novel of the same name by Hajime Itō, Ishii wrote the script as a remake of the 1958 American film The Defiant Ones. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bd/Abashiri_Prison_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Markhor"
+      "url": "https://en.wikipedia.org/wiki/Abashiri_Prison_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The African Diplomatic Corps founded \"Africa Week\" in Washington, D.C., and the corps' most recent leader was Serge Mombouli, Ambassador of the Republic of Congo, from 2015 until his death in September 2025.",
+      "body": "The African Diplomatic Corps is a body consisting of the 53 ambassadors to the United States that represent African countries. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/African_Diplomatic_Corps"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could this policy fix the care system and slash student debt at the same time?",
+      "body": "<p>Andy Burnham is in need of radical proposals. A ‘care first’ year in exchange for 50% off fees could be just what he needs</p><p>The UK’s social care sector is in crisis. Costs are spiralling, with many local councils forced to dedicate ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time"
     },
     {
       "type": "card",
@@ -160,40 +188,22 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "In 2021, it was announced that the line-up had changed, with McDonald and Rubalcaba replaced by Autry Fulbright II and Justin Brown, respectively.",
-      "body": "was an American hardcore punk supergroup, formed in Los Angeles, California in late 2009 by Circle Jerks/Black Flag singer Keith Morris, Burning Brides frontman Dimitri Coats, Redd Kross bassist Steven Shane McDonald, and Rocket From The Crypt/Hot Snakes drumm",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Off%21_2012-05-14_21.JPG/330px-Off%21_2012-05-14_21.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Off!"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Could this policy fix the care system and slash student debt at the same time?",
-      "body": "<p>Andy Burnham is in need of radical proposals. A ‘care first’ year in exchange for 50% off fees could be just what he needs</p><p>The UK’s social care sector is in crisis. Costs are spiralling, with many local councils forced to dedicate ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time"
+      "opener": "On this day in 1974 —",
+      "hook": "A powerful bomb explodes at the Mitsubishi Heavy Industries headquarters in Marunouchi, Tokyo. Eight are killed, 378 are injured. Eight left-wing activists are arrested on May 19, 1975, by Japanese authorities.",
+      "body": "On 30 August 1974, a terrorist bombing of the Mitsubishi Heavy Industries headquarters in Tokyo, Japan, killed eight people and injured at least 376 others. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Marunouchi_2chome_Building_2012-10-08.JPG/330px-Marunouchi_2chome_Building_2012-10-08.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1974_Mitsubishi_Heavy_Industries_bombing"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1896 —",
-      "hook": "Philippine Revolution: After Spanish victory in the Battle of San Juan del Monte, eight provinces in the Philippines are declared under martial law by the Spanish Governor-General Ramón Blanco y Erenas.",
-      "body": "The Philippine Revolution was a war of independence waged by the revolutionary organization Katipunan against the Spanish Empire from 1896 to 1898. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/UltimosFilipinas.jpg/330px-UltimosFilipinas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1574 —",
+      "hook": "Guru Ram Das becomes the Fourth Sikh Guru/Master.",
+      "body": "Guru Ram Das, sometimes spelled as Guru Ramdas, was the fourth of the ten Sikh gurus. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Guru_Ram_Das_miniature_painting.jpg/330px-Guru_Ram_Das_miniature_painting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Philippine_Revolution"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Rob Reiner’s son Jake gives first interview after parents’ deaths: ‘I will never understand why this happened’",
-      "body": "<p>Jake says his parents ‘never stopped helping’ his brother Nick, who has pleaded not guilty to murdering both of them at their Los Angeles home</p><p>Jake Reiner has given his first interview since the killing of his parents, the film-mak",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/28/rob-reiner-son-jake-interview-parents-death"
+      "url": "https://en.wikipedia.org/wiki/Guru_Ram_Das"
     }
   ]
 }
