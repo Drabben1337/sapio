@@ -1,16 +1,63 @@
 {
-  "generated": "2026-08-30T23:57:58.650Z",
-  "count": 19,
+  "generated": "2026-08-31T02:52:44.133Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on the end of the summer books season – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Turkey was a one-party state when it was established in 1923.",
-      "body": "The Republican People's Party (CHP) was the only party until 1945, when the National Development Party was established. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/10th_Anniversary_Speech.jpg/330px-10th_Anniversary_Speech.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The House of Khimshiashvili was the name of several Georgian noble families, with their bases in the regions of Kakheti and Adjara.",
+      "body": "A Kakhetian family was part of the princely nobility of Georgia and, then, of the Russian Empire, while the Adjarian Khimshiashvili were important frontier beys under the Ottoman Empire and wielded noticeable influence in this part of southwestern Caucasus thr",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Gerb_Khimshiyevii.svg/330px-Gerb_Khimshiyevii.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/One-party_period_of_the_Republic_of_Turkey"
+      "url": "https://en.wikipedia.org/wiki/Khimshiashvili"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Among the first published works of Tongan literature, in the late 1960s and early 1970s, were 'Epeli Hau'ofa's short stories and Konai Helu Thaman's poetry.",
+      "body": "Hau'ofa's popular collection of short stories Tales of the Tikongs (1973) was followed by a novel, Kisses in the Nederends, 1987, noted for its satirical style. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tongan_literature"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ hits $2.3bn at global box office; ‘The Odyssey’ on $1.5bn; ‘Coyote Vs. Acme’ opens fifth",
+      "body": "The Dog Stars from Disney/20th Century Studios arrives in sixth place on $19.3m.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-hits-23bn-at-global-box-office-the-odyssey-on-15bn-coyote-vs-acme-opens-fifth/5219849.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Lola Young surprises Reading Festival with final day set",
+      "body": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Peace Child of Hiroshima is a 1991 bronze sculpture by Darryl Smith, installed at the University of Utah in Salt Lake City, Utah, United States.",
+      "body": "The sculpture is in gratitude by a University of Utah alumnus, former internee, previously undergrad at the University of Washington, Seattle. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Peace_Child_of_Hiroshima"
     },
     {
       "type": "card",
@@ -24,99 +71,22 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2002 —",
-      "hook": "Rico Linhas Aéreas Flight 4823 crashes on approach to Rio Branco International Airport, killing 23 of the 31 people on board.",
-      "body": "Rico Linhas Aéreas Flight 4823 was a short haul domestic Brazilian flight from Cruzeiro do Sul and Tarauacá to Rio Branco. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DLT_Brasilia_D-CEME_at_NCL_%2815948234947%29.jpg/330px-DLT_Brasilia_D-CEME_at_NCL_%2815948234947%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Rico_Linhas_A%C3%A9reas_Flight_4823"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Neil Ronald Jones was an American writer who worked for the state of New York.",
-      "body": "His first story, \"The Death's Head Meteor,\" was published in Air Wonder Stories in 1930, possibly recording the first use of \"astronaut\" in fiction. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neil_R_Jones_AWS_3001.jpg/330px-Neil_R_Jones_AWS_3001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "The Chicago, Aurora and DeKalb Railroad was a 29-mile (47 km) interurban line which operated from 1906 to 1923 and connected the cities of Aurora and DeKalb, Illinois.",
+      "body": "The line made connections in Aurora with the Aurora, Elgin and Fox River Electric Company, the Chicago, Aurora and Elgin Railroad, and the Aurora, Plainfield and Joliet Railroad. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Neil_R._Jones"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "How to make a bestseller: insiders reveal the tricks of the book trade",
-      "body": "<p>From cover design to shelf placement and influencer partnerships … how publishers will persuade you to buy their books this autumn</p><p>Think about the last book you bought. How did you choose it? Was it from a recommendation, a review,",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Lola Young surprises Reading Festival with final day set",
-      "body": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1791 —",
-      "hook": "HMS Pandora sinks after having run aground on the outer Great Barrier Reef the previous day.",
-      "body": "HMS Pandora was a 24-gun Porcupine-class sixth-rate post ship of the Royal Navy launched in May 1779. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HMS_Pandora.jpg/330px-HMS_Pandora.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/HMS_Pandora_(1779)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Could this policy fix the care system and slash student debt at the same time?",
-      "body": "<p>Andy Burnham is in need of radical proposals. A ‘care first’ year in exchange for 50% off fees could be just what he needs</p><p>The UK’s social care sector is in crisis. Costs are spiralling, with many local councils forced to dedicate ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1535 —",
-      "hook": "With the papal bull Eius qui immobilis, Pope Paul III excommunicates King Henry VIII of England from the Catholic Church for approving the Acts of Supremacy, although the bull is likely never published.",
-      "body": "A papal bull is a type of public decree, letters patent, or charter issued by the pope of the Catholic Church. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Papal.bull.JPG/330px-Papal.bull.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Papal_bull"
+      "url": "https://en.wikipedia.org/wiki/Chicago%2C_Aurora_and_DeKalb_Railroad"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "The Illinois State Library (ISL) is the library of the state of Illinois, located in Springfield, Illinois, and administered by the Office of the Secretary of State of Illinois.",
-      "body": "The library has a collection of 5 million items and serves as regional federal documents depository for the state. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/32/Illinois_State_Library_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Mir Bozhiy was a Russian monthly magazine published in Saint Petersburg in 1892–1906.",
+      "body": "It was edited first by Viktor Ostrogorsky (1892–1901), then by Fyodor Batyushkov (1902–1906). One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MirBozhiy.jpg/330px-MirBozhiy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Illinois_State_Library"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1983 —",
-      "hook": "Aeroflot Flight 5463 crashes into Dolan Mountain while approaching Almaty International Airport in present-day Kazakhstan, killing all 90 people on board.",
-      "body": "Aeroflot Flight 5463 was a Soviet domestic passenger flight from Chelyabinsk to Almaty which crashed on 30 August 1983 while approaching Almaty. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aeroflot_Tu-134A_CCCP-65862_ZRH_1983-1-9.png/330px-Aeroflot_Tu-134A_CCCP-65862_ZRH_1983-1-9.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_5463"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The All-Ireland Senior Hurling Championship of 1994 was the 108th staging of Ireland's premier hurling knock-out competition.",
-      "body": "Offaly won the championship, beating Limerick 3–16 to 2–13 in a sensational final at Croke Park, Dublin. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1994_All-Ireland_Senior_Hurling_Championship"
+      "url": "https://en.wikipedia.org/wiki/Mir_Bozhiy"
     },
     {
       "type": "card",
@@ -130,25 +100,6 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on the end of the summer books season – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1896 —",
-      "hook": "Philippine Revolution: After Spanish victory in the Battle of San Juan del Monte, eight provinces in the Philippines are declared under martial law by the Spanish Governor-General Ramón Blanco y Erenas.",
-      "body": "The Philippine Revolution was a war of independence waged by the revolutionary organization Katipunan against the Spanish Empire from 1896 to 1898. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/UltimosFilipinas.jpg/330px-UltimosFilipinas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Philippine_Revolution"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "Screen Daily —",
       "hook": "WB cast-off ‘Coyote vs. Acme’ scores Ketchup’s top debut at US box office behind Spider-Man",
       "body": "Ridley Scott’s The Dog Stars misfires; Sundance horror Buddy big for Roadside, Saban.",
@@ -157,33 +108,32 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Could this policy fix the care system and slash student debt at the same time?",
+      "body": "<p>Andy Burnham is in need of radical proposals. A ‘care first’ year in exchange for 50% off fees could be just what he needs</p><p>The UK’s social care sector is in crisis. Costs are spiralling, with many local councils forced to dedicate ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It currently consists of five military bands plus a training wing – the Royal Marines School of Music at HMS Nelson – and its headquarters is at HMS Excellent, Whale Island, Portsmouth.",
+      "body": "The Royal Marines Band Service is the musical wing of the Royal Navy and an independent element of the Royal Marines. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RoyalMarineBadge.svg/330px-RoyalMarineBadge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Royal_Marines_Band_Service"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "\"Calling Occupants of Interplanetary Craft\" is a song by Canadian rock band Klaatu, originally released in 1976 on its first album 3:47 EST.",
-      "body": "The song was played to open night-time transmission of the pirate radio station Radio Caroline. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Calling_occupants_by_klaatu_US_single_side-A.png/330px-Calling_occupants_by_klaatu_US_single_side-A.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Here's one for the group chat —",
+      "hook": "Ogoh-ogoh is a sculpture art form in Balinese culture that is typically paraded during Pangrupukan, a Hindu Balinese tradition held to welcome Nyepi.",
+      "body": "This tradition is part of the Tawur Kesanga procession, a Hindu Balinese ritual aimed at neutralizing negative forces in the surrounding environment and \"appeasing\" beings from the lower realms before the turn of the Saka Year. Bring it up somewhere. Watch the",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ogoh-ogoh_Kuta_2018.jpg/330px-Ogoh-ogoh_Kuta_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Calling_Occupants_of_Interplanetary_Craft"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "It was last active as part of Military Airlift Command at Yokota Air Base, Japan, where it was inactivated on 1 June 1972.",
-      "body": "The 65th Military Airlift Support Group is an inactive unit of the United States Air Force. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Douglas_C-124C_Globemaster_II%2C_USA_-_Air_Force_AN0731993.jpg/330px-Douglas_C-124C_Globemaster_II%2C_USA_-_Air_Force_AN0731993.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/65th_Military_Airlift_Support_Group"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1962 —",
-      "hook": "Japan conducts a test of the NAMC YS-11, its first aircraft since World War II and its only successful commercial aircraft from before or after the war.",
-      "body": "The NAMC YS-11 is a turboprop airliner designed and built by the Nihon Aircraft Manufacturing Corporation (NAMC), a Japanese consortium. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%27Japan_Navy_Schedule_21%27_Atsugi_route_4_departure._%288382459963%29.jpg/330px-%27Japan_Navy_Schedule_21%27_Atsugi_route_4_departure._%288382459963%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/NAMC_YS-11"
+      "url": "https://en.wikipedia.org/wiki/Ogoh-ogoh"
     }
   ]
 }
