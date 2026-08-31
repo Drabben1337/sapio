@@ -1,139 +1,179 @@
 {
-  "generated": "2026-08-31T02:52:44.133Z",
-  "count": 14,
+  "generated": "2026-08-31T08:57:27.081Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on the end of the summer books season – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon"
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "World War I: Start of the Battle of Mont Saint-Quentin, a successful assault by the Australian Corps during the Hundred Days Offensive.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The House of Khimshiashvili was the name of several Georgian noble families, with their bases in the regions of Kakheti and Adjara.",
-      "body": "A Kakhetian family was part of the princely nobility of Georgia and, then, of the Russian Empire, while the Adjarian Khimshiashvili were important frontier beys under the Ottoman Empire and wielded noticeable influence in this part of southwestern Caucasus thr",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Gerb_Khimshiyevii.svg/330px-Gerb_Khimshiyevii.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Khimshiashvili"
+      "cat": "history",
+      "opener": "On this day in 1999 —",
+      "hook": "A LAPA Boeing 737-200 crashes during takeoff from Jorge Newbury Airport in Buenos Aires, killing 65, including two on the ground.",
+      "body": "Líneas Aéreas Privadas Argentinas, more commonly known by the acronym LAPA, was an airline based in Buenos Aires, Argentina. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/LAPA_Boeing_737-76N%3B_LV-ZHX%40AEP%2C_February_2001_CLA_%285288392407%29.jpg/330px-LAPA_Boeing_737-76N%3B_LV-ZHX%40AEP%2C_February_2001_CLA_%285288392407%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/L%C3%ADneas_A%C3%A9reas_Privadas_Argentinas"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Black Garden review – haunting study of growing up in war-torn Nagorno-Karabakh",
+      "body": "<p>Alexis Pazoumian’s documentary follows Samvel and Avo, two preteen boys whose lives will be unavoidably scarred by brutal conflict</p><p>After the Soviet Union collapsed in 1991, a decades-long territorial dispute exploded in the region ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/31/the-black-garden-review-haunting-study-of-growing-up-in-war-torn-nagorno-karabakh"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Among the first published works of Tongan literature, in the late 1960s and early 1970s, were 'Epeli Hau'ofa's short stories and Konai Helu Thaman's poetry.",
-      "body": "Hau'ofa's popular collection of short stories Tales of the Tikongs (1973) was followed by a novel, Kisses in the Nederends, 1987, noted for its satirical style. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "K-PAX is a 2001 American science fiction mystery film starring Kevin Spacey as a psychiatric patient who claims to be an alien from the planet K-PAX and Jeff Bridges as the doctor who investigates his case.",
+      "body": "It also stars Alfre Woodard and Mary McCormack. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/Kpax.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tongan_literature"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Spider-Man: Brand New Day’ hits $2.3bn at global box office; ‘The Odyssey’ on $1.5bn; ‘Coyote Vs. Acme’ opens fifth",
-      "body": "The Dog Stars from Disney/20th Century Studios arrives in sixth place on $19.3m.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-hits-23bn-at-global-box-office-the-odyssey-on-15bn-coyote-vs-acme-opens-fifth/5219849.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Lola Young surprises Reading Festival with final day set",
-      "body": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Peace Child of Hiroshima is a 1991 bronze sculpture by Darryl Smith, installed at the University of Utah in Salt Lake City, Utah, United States.",
-      "body": "The sculpture is in gratitude by a University of Utah alumnus, former internee, previously undergrad at the University of Washington, Seattle. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Peace_Child_of_Hiroshima"
+      "url": "https://en.wikipedia.org/wiki/K-PAX"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "‘Who would dare take on Elizabeth Jane Howard’s fans?’ Louisa Young on reviving the Cazalet Chronicles",
-      "body": "<p>The author’s new trilogy continues her aunt’s beloved family saga. What would happen next to the sprawling cast of characters ... and could she pull it off?",
+      "hook": "The Future Starts With Us by Gordon Brown review – the ex-PM’s recipe for beating populism",
+      "body": "<p>Global crises are tightly linked to how we treat each other at the local level, argues this optimistic book </p><p>In times of crisis, there is one person to whom the left still turns for guidance.</p><p>More than a decade and a half aft",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/30/who-would-dare-take-on-elizabeth-jane-howards-fans-louisa-young-on-reviving-the-cazalet-chronicles"
+      "url": "https://www.theguardian.com/books/2026/aug/31/the-future-starts-with-us-by-gordon-brown-review-the-ex-pms-recipe-for-beating-populism"
     },
     {
       "type": "card",
-      "cat": "history",
+      "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The Chicago, Aurora and DeKalb Railroad was a 29-mile (47 km) interurban line which operated from 1906 to 1923 and connected the cities of Aurora and DeKalb, Illinois.",
-      "body": "The line made connections in Aurora with the Aurora, Elgin and Fox River Electric Company, the Chicago, Aurora and Elgin Railroad, and the Aurora, Plainfield and Joliet Railroad. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "The Discovery of Heaven is a 1992 novel by Dutch writer Harry Mulisch.",
+      "body": "It is considered Mulisch's masterpiece and was voted best book in the Dutch language in a 2007 poll among the readers of NRC Handelsblad. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/93/The_Discovery_of_Heaven_1992_first_edition_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chicago%2C_Aurora_and_DeKalb_Railroad"
+      "url": "https://en.wikipedia.org/wiki/The_Discovery_of_Heaven"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Mir Bozhiy was a Russian monthly magazine published in Saint Petersburg in 1892–1906.",
-      "body": "It was edited first by Viktor Ostrogorsky (1892–1901), then by Fyodor Batyushkov (1902–1906). One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MirBozhiy.jpg/330px-MirBozhiy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mir_Bozhiy"
+      "cat": "history",
+      "opener": "On this day in 2005 —",
+      "hook": "The 2005 Al-Aaimmah bridge stampede in Baghdad kills 953 people.",
+      "body": "The Al-Aimmah Bridge disaster occurred on August 31, 2005 when 965 people died following a panic, and subsequent crowd crush, on the Al-Aaimmah Bridge, which crosses the Tigris river in the Iraqi capital of Baghdad. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Al-Aaimmah_bridge_area.PNG/330px-Al-Aaimmah_bridge_area.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2005_Al-Aimmah_Bridge_disaster"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1314 —",
+      "hook": "King Haakon V moves the capital of Norway from Bergen to Oslo.",
+      "body": "Haakon V Magnusson was King of Norway from 1299 until 1319. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Haakon_Magnusson_%28Stavanger_cathedral%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Haakon_V"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "UK’s National Cinema Day to return as weekend edition for 2026",
-      "body": "National Cinema Weekend will take place on September 5-6 across the UK.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/uks-national-cinema-day-to-return-as-weekend-edition-for-2026/5219844.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "WB cast-off ‘Coyote vs. Acme’ scores Ketchup’s top debut at US box office behind Spider-Man",
-      "body": "Ridley Scott’s The Dog Stars misfires; Sundance horror Buddy big for Roadside, Saban.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/wb-cast-off-coyote-vs-acme-scores-ketchups-top-debut-at-us-box-office-behind-spider-man/5219851.article"
+      "opener": "New Scientist —",
+      "hook": "Should we all be taking low doses of lithium to prevent Alzheimer’s?",
+      "body": "Animal studies have shown that lithium orotate could help stave off dementia, and a human trial is about to start to see if the effects hold. Columnist Alice Klein takes a look at the benefits and downsides of lithium",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2586894-should-we-all-be-taking-low-doses-of-lithium-to-prevent-alzheimers/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Could this policy fix the care system and slash student debt at the same time?",
-      "body": "<p>Andy Burnham is in need of radical proposals. A ‘care first’ year in exchange for 50% off fees could be just what he needs</p><p>The UK’s social care sector is in crisis. Costs are spiralling, with many local councils forced to dedicate ",
+      "hook": "Switzy by Emma Cline review – this Booker-listed account of a man’s last days is profoundly moving",
+      "body": "<p>Struggling with Alzheimer’s, the central character sets out on his final journey to a euthanasia clinic</p><p>The word “Alzheimer’s” never appears in Switzy, Emma Cline’s third novel, which arrives pre-endorsed as a Booker prize longlist",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time"
+      "url": "https://www.theguardian.com/books/2026/aug/31/switzy-by-emma-cline-review-this-booker-listed-account-of-a-mans-last-days-is-profoundly-moving"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "It currently consists of five military bands plus a training wing – the Royal Marines School of Music at HMS Nelson – and its headquarters is at HMS Excellent, Whale Island, Portsmouth.",
-      "body": "The Royal Marines Band Service is the musical wing of the Royal Navy and an independent element of the Royal Marines. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RoyalMarineBadge.svg/330px-RoyalMarineBadge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Royal_Marines_Band_Service"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Bel review – the powerful life force and haunting absence of a traumatised singer-songwriter",
+      "body": "<p>Beldina Odenyo alchemised the pain of exile, loss and racism into music as Heir of the Cursed before her death in 2021, as this attentive tribute explores</p><p>Instead of an artist in a booth, a lone amplifier plays the music of singer-",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/31/bel-review-belinda-odenyo-heir-of-the-cursed"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Ogoh-ogoh is a sculpture art form in Balinese culture that is typically paraded during Pangrupukan, a Hindu Balinese tradition held to welcome Nyepi.",
-      "body": "This tradition is part of the Tawur Kesanga procession, a Hindu Balinese ritual aimed at neutralizing negative forces in the surrounding environment and \"appeasing\" beings from the lower realms before the turn of the Saka Year. Bring it up somewhere. Watch the",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ogoh-ogoh_Kuta_2018.jpg/330px-Ogoh-ogoh_Kuta_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Wuthering Heights is Bernard J.",
+      "body": "Taylor's musical/operatic version of Emily Brontë's 1847 novel of the same name. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ogoh-ogoh"
+      "url": "https://en.wikipedia.org/wiki/Wuthering_Heights_(musical)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Howling III: Echoes is a 1985 horror novel by the American author Gary Brandner.",
+      "body": "It is the third and final entry in his Howling series of novels. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/57/TheHowlingIII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Howling_III%3A_Echoes"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Hints of fiery finale for last ever episode of River City",
+      "body": "The Scottish soap opera, based in the fictional Glasgow district of Shieldinch, is coming to an end after 24 years.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c1dl31k01v7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1940 —",
+      "hook": "Pennsylvania Central Airlines Trip 19 crashes near Lovettsville, Virginia. The CAB investigation of the accident is the first investigation to be conducted under the Bureau of Air Commerce act of 1938.",
+      "body": "On August 31, 1940, Pennsylvania Central Airlines Flight 19, a new Douglas DC-3, was flying from Washington, D.C. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Douglas_DC-3%2C_SE-CFP.jpg/330px-Douglas_DC-3%2C_SE-CFP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Lovettsville_air_disaster"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Cracks is the third novel by South African author Sheila Kohler.",
+      "body": "Published in 1999, it was chosen as one of the best books of the year by both Newsday and Library Journal. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/CracksNovel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cracks_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "This actor was told he had Alzheimer's, now he's performing a one-man show",
+      "body": "Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2006 —",
+      "hook": "Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.",
+      "body": "Edvard Munch was a Norwegian painter. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Portrait_of_Edvard_Munch_%28cropped%29.png/330px-Portrait_of_Edvard_Munch_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
     }
   ]
 }
