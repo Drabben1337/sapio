@@ -2,6 +2,46 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Books —",
+    "hook": "Tell us: what have you been reading this month?",
+    "body": "<p>We would like to hear about the books you’ve particularly enjoyed this month</p><p>As part of The Guardian’s “<a href=\"https://www.theguardian.com/books/series/what-we-re-reading\">what we’re reading</a>” series, we would like to hear abo",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
+    "_t": 1788241626318
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "Screen Daily —",
+    "hook": "Trump call for US federal production incentive gathers support",
+    "body": "US president posts that ”Hollywood is a Complete and Total Disaster!”",
+    "src": "Screen Daily",
+    "url": "https://www.screendaily.com/news/trump-call-for-us-federal-production-incentive-gathers-support/5219859.article",
+    "_t": 1788241626318
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Ex-gang boss found guilty in 1996 murder of rapper Tupac Shakur",
+    "body": "Duane \"Keffe D\" Davis's conviction ends decades of mystery as to who was behind the rapper's death.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+    "_t": 1788241626318
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Festival honouring Dolly Parton set for Nashville and London",
+    "body": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+    "_t": 1788241626318
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "Screen Daily —",
     "hook": "AMC moves into distribution with launch of Leawood Films",
     "body": "Goal is to be additive to ecosystem as venture champions fully-financed or completed small and medium-sized films.",
@@ -558,45 +598,5 @@
     "src": "BBC Entertainment",
     "url": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss",
     "_t": 1788087787344
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "ESA —",
-    "hook": "Expedition Sound podcast series",
-    "body": "Expedition Sound is a podcast series by the European Space Agency (ESA) in which you’re invited to explore the Universe through your ears. Guided by sonifications – the translation of data into sound – host Zsófi Szalavári travels from our ",
-    "src": "ESA",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series",
-    "_t": 1788087787344
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "Big tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning?",
-    "body": "<p>Its moguls are ripe subjects for drama, and there is huge anticipation for forthcoming features The Social Reckoning and Artificial. But other projects have failed as the film industry is increasingly colonised by IT empires</p><p>• <a h",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial",
-    "_t": 1788069493210
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "Tom Cruise, Olivia Colman and the return of Rocky: the best films of autumn 2026",
-    "body": "<p>Old favourites Shaun the Sheep, Dune, Jane Austen and Godzilla join Charles de Gaulle, the Peasants’ Revolt and queer identity in Spain</p><p>• <a href=\"https://www.theguardian.com/culture/series/autumn-arts-preview-2026\">See all of our ",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026",
-    "_t": 1788069493210
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-    "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review",
-    "_t": 1788069493210
   }
 ]
