@@ -1,64 +1,84 @@
 {
-  "generated": "2026-08-31T21:40:39.786Z",
-  "count": 19,
+  "generated": "2026-09-01T00:50:12.312Z",
+  "count": 17,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2019 —",
-      "hook": "A sightseeing helicopter crashes in the mountains of Skoddevarre in Alta, Norway, killing all six people on board.",
-      "body": "On 31 August 2019, an Airbus AS350 helicopter operated by a contracted Helitrans pilot from Sweden crashed in the mountains of Skoddevarre in Alta Municipality in Finnmark county, Norway. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/LN-OFU_crash_site.jpg/330px-LN-OFU_crash_site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2019_Alta_helicopter_crash"
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Healed fang wound found on 520-million-year-old apex predator",
+      "body": "Something took a bite out of one of the biggest predators in Cambrian seas, an extraordinary fossil shows – and it could well be cannibalism",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2586883-healed-fang-wound-found-on-520-million-year-old-apex-predator/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "You probably never noticed this —",
+      "hook": "The feature is situated in the valley of Vladayska River, extending 2.2 km, and up to 150 m wide, with several ‘tributary’ stone rivers.",
+      "body": "Zlatnite Mostove is the largest stone river on Vitosha Mountain, Bulgaria. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zlatnite-Mostove.jpg/330px-Zlatnite-Mostove.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zlatnite_Mostove"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Okay, this one's fun —",
+      "hook": "The island falls under Hatiya Upazila of Noakhali District.",
+      "body": "Hatiya Island is an island in the northern Bay of Bengal, Bangladesh, at the mouth of the Meghna river. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Beauty_of_Hatiya5.jpg/330px-Beauty_of_Hatiya5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hatiya_Island"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Yuma War was the name given to a series of United States military operations conducted in Southern California and what is today southwestern Arizona from 1850 to 1853.",
+      "body": "The Quechan were the primary opponent of the United States Army, though engagements were fought between the Americans and other native groups in the region. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Emory-Yuma.jpg/330px-Emory-Yuma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yuma_War"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
-      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "opener": "Screen Daily —",
+      "hook": "AMC moves into distribution with launch of Leawood Films",
+      "body": "Goal is to be additive to ecosystem as venture champions fully-financed or completed small and medium-sized films.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/amc-moves-into-distribution-with-launch-of-leawood-films/5219856.article"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Letters Which Never Reached Him is a 1925 German silent film directed by Frederic Zelnik and starring Albert Bassermann, Marcella Albani and Mia Pankau.",
-      "body": "The world is stranger than it lets on.",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Fantom of the Fair is one of the earliest published Golden Age superheroes.",
+      "body": "He debuted in Centaur Publications' Amazing Mystery Funnies vol. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Letters_Which_Never_Reached_Him"
+      "url": "https://en.wikipedia.org/wiki/Fantom_of_the_Fair"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1949 —",
-      "hook": "The retreat of the Democratic Army of Greece into Albania after its defeat on Gramos mountain marks the end of the Greek Civil War.",
-      "body": "The Democratic Army of Greece, also called the Democratic Army and known by its acronym DSE, was the army founded by the Communist Party of Greece (KKE), on 28 October 1946, as the General Headquarters of Partisans, which was renamed to Democratic Army of Greece on 27 December 1946. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/DSE_badge.svg/330px-DSE_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Democratic_Army_of_Greece"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "In 2021 the parish had a population of 837.",
-      "body": "Langtree is a village and parish in north Devon, England, situated about 4 miles (6 km) south-west of Great Torrington and 8 miles (13 km) south of Bideford. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Langtree_Church_-_geograph.org.uk_-_81489.jpg/330px-Langtree_Church_-_geograph.org.uk_-_81489.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Paul Auguste Jean Nicolas Féval was a French adventure novelist, like his father Paul Féval, père.",
+      "body": "He was the third of eight children and the eldest son of Paul Féval, who was 42 years old and at the height of his success when Paul Féval fils was born. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Paul_F%C3%A9val_fils.jpg/330px-Paul_F%C3%A9val_fils.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Langtree"
+      "url": "https://en.wikipedia.org/wiki/Paul_F%C3%A9val%2C_fils"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Po Toi Islands are a small group of islands with a population of around 200, south-east of Hong Kong Island, off Stanley, in Hong Kong.",
+      "body": "The main island of the group is Po Toi Island. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Po_Toi_Islands_Aerial_.jpg/330px-Po_Toi_Islands_Aerial_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Po_Toi_Islands"
     },
     {
       "type": "card",
@@ -71,52 +91,60 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Victoria Beckham's company makes its first profit after 18 years",
-      "body": "Beckham's fashion and beauty business makes a £7.3m operating profit after years of losses.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The 2024 Cumberland City Council election was held on 14 September 2024 to elect 15 councillors to Cumberland City Council.",
+      "body": "The election was held as part of the statewide local government elections in New South Wales. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Labor_Placeholder.png/330px-Labor_Placeholder.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2024_Cumberland_City_Council_election"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1864 —",
-      "hook": "American Civil War: The Battle of Jonesborough, the culmination of the Atlanta campaign, begins as Union forces under General William T. Sherman clash with Confederate troops under General William J. Hardee south of Atlanta.",
-      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "NASA’s huge Nancy Grace Roman Space Telescope is about to launch",
+      "body": "The Nancy Grace Roman Space Telescope, which launches on 30 August, will observe space with the same detail as the Hubble Space Telescope, but over a much larger area",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2586796-nasas-huge-nancy-grace-roman-space-telescope-is-about-to-launch/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Three Couriers is a 1929 comedy thriller novel by the British writer Compton Mackenzie.",
-      "body": "It was inspired by his experiences working for British intelligence during the First World War. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/98/The_Three_Couriers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Pokémon Smile is a spin-off mobile game in the Pokémon franchise.",
+      "body": "The game uses a device's camera and augmented reality to teach children how to brush their teeth, with gameplay requiring the player to brush bacteria, which are holding Pokémon captive, off of their teeth in order to give the player a chance at capturing the ",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/de/Pok%C3%A9mon_Smile_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Three_Couriers"
+      "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Smile"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1888 —",
-      "hook": "Mary Ann Nichols, the first of Jack the Ripper's confirmed victims, is murdered.",
-      "body": "Mary Ann Nichols, known as Polly Nichols, was the first canonical victim of the unidentified serial killer known as Jack the Ripper, who is believed to have murdered and mutilated at least five women in and around the Whitechapel district of London between late August and early November 1888. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mary_Ann_%27Polly%27_Nichols.jpg/330px-Mary_Ann_%27Polly%27_Nichols.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mary_Ann_Nichols"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Awards season preview: the early contenders and why some titles are skipping a festival launch",
+      "body": "“For certain movies there’s no upside in going to a festival,” says an awards strategist.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/features/awards-season-preview-the-early-contenders-and-why-some-titles-are-skipping-a-festival-launch/5219770.article"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2025 —",
-      "hook": "An earthquake in eastern Afghanistan kills over 1400 people.",
-      "body": "On 31 August 2025, at 23:47 AFT, an earthquake with a magnitude of 6.0 on the moment magnitude scale (Mw) struck eastern Afghanistan, near the border with Pakistan. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2025_Kunar_earthquake"
+      "cat": "geography",
+      "opener": "File under 'wait, really?' —",
+      "hook": "However, as the clan does not currently have a chief that is recognized by the Lord Lyon King of Arms it is therefore considered an armigerous clan.",
+      "body": "Clan Fleming is a Lowland Scottish clan and is officially recognized as such by the Lord Lyon King of Arms. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Clan_member_crest_badge_-_Clan_Fleming.svg/330px-Clan_member_crest_badge_-_Clan_Fleming.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clan_Fleming"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "What is powering the return of US ‘originals’ at the global box office?",
+      "body": "International distribution executives reflect on the hows, whys and wherefores of this year’s global success stories.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/features/what-is-powering-the-return-of-us-originals-at-the-global-box-office/5219769.article"
     },
     {
       "type": "card",
@@ -130,60 +158,12 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "City of Beautiful Nonsense is a 1919 British silent film drama directed by Henry Edwards, who also starred in the film with Chrissie White.",
-      "body": "The film is based on the best-selling 1909 novel of the same name by E. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_City_of_Beautiful_Nonsense_%281919%29.png/330px-The_City_of_Beautiful_Nonsense_%281919%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_City_of_Beautiful_Nonsense_(1919_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
-      "body": "<p>Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/aug",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Hold the Dark is a 2018 American neo-Western action thriller film directed by Jeremy Saulnier from a screenplay by Macon Blair.",
-      "body": "It is based upon the novel of the same name by William Giraldi. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Hold_the_Dark.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hold_the_Dark"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Dolly Parton laid to rest in private Nashville funeral",
-      "body": "<p>The queen of country was interred next to her late husband in an intimate ceremony attended by close family</p><p><a href=\"https://www.theguardian.com/music/dolly-parton\">Dolly Parton</a> was laid to rest in a private ceremony in Nashvil",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1056 —",
-      "hook": "After a sudden gastric illness, Byzantine Empress Theodora dies childless, thus ending the Macedonian dynasty.",
-      "body": "The term Roman empress usually refers to the consorts of the Roman emperors, the rulers of the Roman Empire. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Statue_of_Deified_Empress_Livia_-_Altes_Museum_-_Joy_of_Museums.jpg/330px-Statue_of_Deified_Empress_Livia_-_Altes_Museum_-_Joy_of_Museums.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/List_of_Roman_and_Byzantine_empresses"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Iain mac Mhurchaidh, alias John MacRae, was a Scotland-born bard from Kintail, a member of Clan Macrae, and an early immigrant to the Colony of North Carolina.",
-      "body": "MacRae has been termed one of the \"earliest Scottish Gaelic poets in North America about whom we know anything.\" The world is stranger than it lets on.",
+      "opener": "Bet you didn't know —",
+      "hook": "XPRIZE Foundation is a non-profit organization that designs and hosts public competitions intended to encourage technological development.",
+      "body": "The XPRIZE mission is to bring about \"radical breakthroughs for the benefit of humanity\" through incentivized competition. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Iain_mac_Mhurchaidh"
+      "url": "https://en.wikipedia.org/wiki/Xprize_Foundation"
     }
   ]
 }
