@@ -1,32 +1,119 @@
 {
-  "generated": "2026-09-02T11:46:42.564Z",
-  "count": 20,
+  "generated": "2026-09-02T15:23:46.451Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "\"Down to You\" is a song written by Joni Mitchell that was first released on her 1974 album Court and Spark.",
+      "body": "It won the Grammy Award for Best Arrangement Accompanying Vocalist(s). One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Down_to_You_(song)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2013 —",
+      "hook": "The Eastern span replacement of the San Francisco–Oakland Bay Bridge opens at 10:15 pm at a cost of $6.4 billion, after the 1989 Loma Prieta earthquake damaged the old span.",
+      "body": "The eastern span replacement of the San Francisco–Oakland Bay Bridge was a construction project to replace a seismically unsound portion of the Bay Bridge with a new self-anchored suspension bridge (SAS) and a pair of viaducts. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/San_Francisco%E2%80%93Oakland_Bay_Bridge-_New_and_Old_bridges.jpg/330px-San_Francisco%E2%80%93Oakland_Bay_Bridge-_New_and_Old_bridges.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Eastern_span_replacement_of_the_San_Francisco%E2%80%93Oakland_Bay_Bridge"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Profits, Prophets, Coaches and Kings by Jared Diamond review – how to change the course of history",
-      "body": "<p>The author of Guns, Germs and Steel falters in this flawed study of whether individuals really make a difference</p><p>Early in this book, Jared Diamond proudly introduces “what I term ‘the Hamlet test’”, which helps decide whether promi",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/02/profits-prophets-coaches-and-kings-by-jared-diamond-review-how-to-change-the-course-of-history"
+      "opener": "The Guardian · Film —",
+      "hook": "Fall 2: Deadpoint review – silly seat-edge sequel can’t reach heights of the original",
+      "body": "<p>There are just about enough hand-over-mouth moments to please thrill-seekers in this B-movie follow-up but eyerolls soon prevail</p><p>There was plenty of silliness but also plenty of suspense in 2022’s modestly successful don’t-look-dow",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/02/fall-2-deadpoint-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "On 24 February 2022, Russia launched a large-scale invasion, prompting the imposition of substantial economic and political sanctions by the EU, the UK, the US, Canada, and other countries.",
+      "body": "The Russian government has a specified \"Unfriendly Countries List\" which indicates those countries with which relations are now strained. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Foreign_relations_of_Russia_since_the_Russian_invasion_of_Ukraine"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1870 —",
+      "hook": "Franco-Prussian War: Battle of Sedan: Prussian forces take Napoleon III of France and 100,000 of his soldiers prisoner.",
+      "body": "The Franco-Prussian War, occasionally known as the Franco-German War, and sometimes referred to in France as the War of 1870, was a conflict between France and the North German Confederation led by Prussia. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_v_Werner_-_Kaiserproklamation_am_18_Januar_1871_%283._Fassung_1885%29.jpg/330px-A_v_Werner_-_Kaiserproklamation_am_18_Januar_1871_%283._Fassung_1885%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Franco-Prussian_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1970 —",
+      "hook": "Aeroflot Flight 3630, a Tupolev Tu-124 en route from southern Russia to Lithuania, crashes after the pilots lost control of the aircraft at cruise altitude between Rostov-on-Don Airport and Vilnius Airport, on the second leg of the flight; all 37 passengers and crew are killed.",
+      "body": "Aeroflot Flight 3630 was a regularly scheduled passenger flight operated by Aeroflot from Mineralnye Vody, Stavropol Krai, to Vilnius, capital of Lithuania SSR with a stop over at Rostov-on-Don Airport. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aeroflot_Tupolev_Tu-124V_at_Arlanda%2C_April_1967_%28cropped%29.jpg/330px-Aeroflot_Tupolev_Tu-124V_at_Arlanda%2C_April_1967_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_3630"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "It was organized in 1831, at which time it was divided into Vayas Norte and Vayas Sur; in 1878 the two were subsequently merged into today's Vayas.",
+      "body": "Vayas is one of the 31 barrios of the municipality of Ponce, Puerto Rico. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Torre_de_control_del_Aeropuerto_Internacional_Mercedita%2C_Bo._Vayas%2C_Ponce%2C_PR%2C_visto_desde_la_PR-5506%2C_mirando_al_este_%28DSC02387B%29.jpg/330px-Torre_de_control_del_Aeropuerto_Internacional_Mercedita%2C_Bo._Vayas%2C_Ponce%2C_PR%2C_visto_desde_la_PR-5506%2C_mirando_al_este_%28DSC02387B%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vayas%2C_Ponce"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Eyes Wide Shut conspiracy theory: did someone cut a crucial 20 minutes from Kubrick’s final movie?",
+      "body": "<p>For years some have claimed a key part of the thriller was excised after the director’s sudden death – and that it provided clues to the real-life behaviour of rich predators. Now, his daughter has spoken out</p><p><strong>Name: </strong",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/02/the-eyes-wide-shut-conspiracy-theory-did-someone-cut-a-crucial-20-minutes-from-kubricks-final-movie"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘Intoxicating mix of humour, high camp and danger’: Tim Curry remembered",
+      "body": "<p>Guardian readers share memories of actor best known for roles in The Rocky Horror Show and Stephen King’s It</p><p>I first saw him in the 1978 series Will Shakespeare, where he played Shakespeare alongside Nicholas Clay. Two very classy ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/02/tim-curry-memories-film-rocky-horror-stephen-king-it"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Ms Ice Sandwich is a 2013 novella by Mieko Kawakami.",
-      "body": "It was translated into English by Louise Heal Kawai, and the translation was published in 2018 by Pushkin Press. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "Nicotinamide riboside (NR, SR647) is a pyridine-nucleoside and a form of vitamin B3.",
+      "body": "It functions as a precursor to nicotinamide adenine dinucleotide, or NAD, through a two-step and a three-step pathway. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nicotinamide-beta-riboside.svg/330px-Nicotinamide-beta-riboside.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ms_Ice_Sandwich"
+      "url": "https://en.wikipedia.org/wiki/Nicotinamide_riboside"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Was Paul Mescal being ‘not masculine enough’ the reason Gladiator II flopped?",
+      "body": "<p>Mescal’s nuanced performance in Ridley Scott’s belated sequel has been blamed by some for the film’s box office underperformance. May I suggest Jason Statham for Gladiator III?</p><p>As you may be aware, The Dog Stars has not been partic",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/02/was-paul-mescal-being-not-masculine-enough-the-reason-gladiator-ii-flopped"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 2024 —",
       "hook": "A suicide bombing in Kabul, Afghanistan, kills 6 people and injures 13.",
-      "body": "On September 2, 2024, a suicide bomber detonated explosives strapped to his body outside a government building in Afghanistan's capital Kabul, killing six people and injuring 13 others. The world is stranger than it lets on.",
+      "body": "On September 2, 2024, a suicide bomber detonated explosives strapped to his body outside a government building in Afghanistan's capital Kabul, killing six people and injuring 13 others. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/2024_Qala_Bakhtiar_bombing"
@@ -35,165 +122,68 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "hook": "Maggie Gyllenhaal says film industry has a ‘systemic problem’ with sexism",
+      "body": "<p>Speaking at the opening of the Venice film festival, the actor-director addressed why the jury of which she is chair will only be shown two films made by female film-makers</p><p>Maggie Gyllenhaal said there is a “systemic problem” that ",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
+      "url": "https://www.theguardian.com/film/2026/sep/02/maggie-gyllenhaal-says-film-industry-has-a-systemic-problem-with-sexism"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1984 —",
+      "hook": "Seven people are shot and killed and 12 wounded in the Milperra massacre, a shootout between the rival motorcycle gangs Bandidos and Comancheros in Sydney, Australia.",
+      "body": "The Milperra Massacre, Milperra bikie shoot-out or Father's Day Massacre was a gunfight between rival motorcycle gang members on 2 September 1984, in Milperra, a south-western suburb of Sydney, New South Wales. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Milperra_massacre"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Leigh Allison Wilson is an American short story writer, and teacher.",
+      "body": "Her work has appeared in Harper's, Grand Street, and the Southern Review. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leigh_Allison_Wilson"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Oasis, auteurs and seven hours of Bertolucci: 12 unmissable movies at the Venice film festival",
-      "body": "<p>A backstage peek at the reunion tour and a new film from Burning director Lee Chang-dong are among this year’s most anticipated – plus offerings from Danny Boyle, Luca Guadagnino, Martin McDonagh and more</p><p>Danny Boyle’s movie, adapt",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/02/venice-film-festival-12-unmissable-movies"
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘He’s a good man’: George Clooney defends Mark Ruffalo in Paramount-Warner Bros merger row",
+      "body": "<p>‘I worry whenever big companies are consolidating,’ Clooney said at Venice film festival, supporting Ruffalo’s right to criticise the deal amid antisemitism accusations</p><p>George Clooney has defended Mark Ruffalo’s right to criticise ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/02/george-clooney-defends-mark-ruffalo-paramount-warner-bros-merger"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1992 —",
+      "hook": "The 7.7 Mw Nicaragua earthquake affected the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft).",
+      "body": "The 1992 Nicaragua earthquake occurred off the coast of Nicaragua at 6:16 p.m. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1992_Nicaragua_earthquake"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "The Dalemark Quartet is a series of four fantasy books by Diana Wynne Jones set in a rustic parallel universe with pre-industrial or even medieval civilization.",
-      "body": "Dalemark is a region by the sea divided into South Dalemark and North Dalemark, consisting of 15 earldoms : Worth a quiet trip down the rabbit hole.",
+      "hook": "News Illustrated is a full-page information graphic that runs every Sunday in the South Florida Sun-Sentinel, one of 12 newspapers owned by Tribune Company.",
+      "body": "It tells news stories visually — and in ways that are hard to replicate with traditional journalism. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dalemark_Quartet"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Sung in Malay, the song has been the official Children's Day song in Singapore since 1961, and is also performed at the Singapore Youth Festival (SYF) as its official theme song.",
-      "body": "\"Semoga Bahagia\" is a Singaporean song composed by Zubir Said, who also composed \"Majulah Singapura\", the national anthem of Singapore. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Semoga_Bahagia"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘He was always a bit of a groundbreaker’: David Bowie enters a new dimension in ‘extended reality’ documentary",
-      "body": "<p>Hundreds of unseen images of the star feature at the Venice film festival, alongside virtual worlds exploring wildfires, wolves and the birth of stars</p><p></p><p>David Bowie shares the bill with starmen, firefighters and Walt Disney wo",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/02/david-bowie-unseen-unheard-documentary-venice-film-festival"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1561 —",
-      "hook": "Entry of Mary, Queen of Scots into Edinburgh, a spectacular civic celebration for the Queen of Scotland, marred by religious controversy.",
-      "body": "On 19 August 1561, the 18-year-old Mary, Queen of Scots, returned to Scotland from France following the death of her husband Francis II of France the previous winter. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mary%2C_Queen_of_Scots_by_Fran%C3%A7ois_Clouet.jpg/330px-Mary%2C_Queen_of_Scots_by_Fran%C3%A7ois_Clouet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Entry_of_Mary%2C_Queen_of_Scots%2C_into_Edinburgh"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Fitz and the Fool trilogy is the concluding subseries of the Realm of the Elderlings, a 16-book fantasy series by American author Robin Hobb.",
-      "body": "Published from 2014 to 2017, it features the protagonist FitzChivalry Farseer in his fifties, and follows his life with his wife Molly and daughter Bee Farseer. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Fitz_and_the_fool.png/330px-Fitz_and_the_fool.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fitz_and_the_Fool_trilogy"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2019 —",
-      "hook": "The dive boat MV Conception catches fire and sinks near Santa Cruz Island, killing 34.",
-      "body": "The sinking of MV Conception occurred on September 2, 2019 after the 75-foot (23 m) dive boat caught fire and eventually sank off the coast of Santa Cruz Island, California, United States, killing 34 of 39 people aboard. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Conception_at_Dawn%2C_Sep_2%2C_2019.png/330px-Conception_at_Dawn%2C_Sep_2%2C_2019.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sinking_of_MV_Conception"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "2084: The End of the World is a 2015 novel by Algerian writer Boualem Sansal, published by Éditions Gallimard on 20 August 2015.",
-      "body": "A dystopian novel, 2084 was inspired by George Orwell's Nineteen-Eighty Four and is set in an Islamist totalitarian world in the aftermath of a nuclear holocaust. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2084._La_fin_du_monde_%28Boualem_Sansal%29.jpg/330px-2084._La_fin_du_monde_%28Boualem_Sansal%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2084%3A_The_End_of_the_World"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1898 —",
-      "hook": "Battle of Omdurman: British and Egyptian troops defeat Sudanese tribesmen and establish British dominance in Sudan.",
-      "body": "The Battle of Omdurman, also known as the Battle of Karary, was fought during the Anglo-Egyptian conquest of Sudan between a British–Egyptian expeditionary force commanded by British Commander-in-Chief (sirdar) major general Horatio Herbert Kitchener and a Sudanese army of the Mahdist State, led by Abdallahi ibn Muhammad, the successor to the self-proclaimed Mahdi, Muhammad Ahmad. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/21lancers.JPG/330px-21lancers.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Omdurman"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2008 —",
-      "hook": "Google launches its Google Chrome web browser.",
-      "body": "Google LLC is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Google"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Late Fame review – Willem Dafoe superb as ever as twilight-years bohemian getting a second chance",
-      "body": "<p>Samy Burch’s adaptation of an Arthur Schnitzler novella sees Dafoe’s ageing poet embraced by a younger cohort of capricious hipsters. It’s smart, literate and affecting</p><p>There’s a marvellous tenderness and generosity to this elegant",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/02/late-fame-review-willem-dafoe"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "World War II: The Japanese Instrument of Surrender is signed by Japan and the major warring powers aboard the battleship USS Missouri in Tokyo Bay, thus marking the official end to the war.",
-      "body": "The Japanese Instrument of Surrender was the printed agreement that formalized the surrender of Japan, marking the end of hostilities in World War II. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg/330px-Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Japanese_Instrument_of_Surrender"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "It stands 333 m (1,093 ft) tall and contains 69 floors.",
-      "body": "Parc1 (Korean: 파크원) is a complex of buildings in Yeouido, Seoul, South Korea. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/The_Hyundai_Seoul_Yeoui-dong_1.jpg/330px-The_Hyundai_Seoul_Yeoui-dong_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Parc1"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Moshkeleh the Thief is a novel by Sholem Aleichem.",
-      "body": "It is a story of a horse thief from the fictional shtetl of Mazepevke. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Moshkeleh_the_Thief"
+      "url": "https://en.wikipedia.org/wiki/News_Illustrated"
     }
   ]
 }
