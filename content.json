@@ -1,109 +1,189 @@
 {
-  "generated": "2026-09-02T01:32:51.171Z",
-  "count": 11,
+  "generated": "2026-09-02T06:29:30.913Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Samsung Galaxy M53 5G is a mid-range Android smartphone developed by Samsung Electronics as a part of its Galaxy M series.",
-      "body": "This phone was announced on 7 April 2022. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Galaxy_M53_5G.jpg/330px-Galaxy_M53_5G.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_M53_5G"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Bridge by Colm Tóibín review – betrayal and survival in the High Pyrenees",
+      "body": "<p>Deep sorrow mingles with illicit desire in this potent novella, the follow-up to a 2006 story about an isolated family in the Catalan mountains</p><p>Twenty years ago, Colm Tóibín published a steadily desolating novella set in the high v",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/02/the-bridge-by-colm-toibin-review-betrayal-and-survival-in-the-high-pyrenees"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1958 —",
+      "hook": "A USAF RC-130 is shot down by fighters over Armenia when it strays into Soviet airspace while conducting a sigint mission. All crew members are killed.",
+      "body": "The Lockheed RC-130 Hercules are retired variants of the C-130 Hercules, designed for photographic or electronic reconnaissance missions. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/C-130E_off_Normandy_beaches_6_June_2008_%28cropped%29.jpg/330px-C-130E_off_Normandy_beaches_6_June_2008_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_RC-130_Hercules"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1898 —",
+      "hook": "Battle of Omdurman: British and Egyptian troops defeat Sudanese tribesmen and establish British dominance in Sudan.",
+      "body": "The Battle of Omdurman, also known as the Battle of Karary, was fought during the Anglo-Egyptian conquest of Sudan between a British–Egyptian expeditionary force commanded by British Commander-in-Chief (sirdar) major general Horatio Herbert Kitchener and a Sudanese army of the Mahdist State, led by Abdallahi ibn Muhammad, the successor to the self-proclaimed Mahdi, Muhammad Ahmad. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/21lancers.JPG/330px-21lancers.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Omdurman"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1998 —",
+      "hook": "The UN's International Criminal Tribunal for Rwanda finds Jean-Paul Akayesu, the former mayor of a small town in Rwanda, guilty of nine counts of genocide.",
+      "body": "The United Nations (UN) is an international intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/330px-Flag_of_the_United_Nations.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/United_Nations"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in -44 —",
+      "hook": "Pharaoh Cleopatra VII of Egypt declares her son co-ruler as Ptolemy XV Caesarion.",
+      "body": "The Pharaoh was the monarch of ancient Egypt. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/330px-Double_crown.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pharaoh"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in -44 —",
+      "hook": "Cicero launches the first of his Philippicae (oratorical attacks) on Mark Antony. He will make 14 of them over the following months.",
+      "body": "Marcus Tullius Cicero was a Roman statesman, lawyer, scholar, philosopher, orator, and writer who tried to uphold optimate principles during the political crises of the Roman Republic that led to the establishment of the Roman Empire. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/330px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cicero"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Venice opening jury press conference to go ahead, individual film conferences to proceed",
-      "body": "Festival has resolved “conflicting schedule” that threatened jury session.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/venice-opening-jury-press-conference-to-go-ahead-individual-film-conferences-to-proceed/5219848.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Ariana Grande completes tour and steps back from public life",
-      "body": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Victoria Beckham's company makes its first profit after 18 years",
-      "body": "Beckham's fashion and beauty business makes a £7.3m operating profit after years of losses.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Sometimes you just need a good cry’: why Little Women is my feelgood movie",
-      "body": "<p>The latest in our series of writers highlighting their go-to comfort films is an ode to the teary 1994 adaptation of the classic novel</p><p>I have an ongoing argument with some friends about how I refuse to watch Interstellar again, des",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/aug/31/little-women-1994-feelgood-movie"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "John Galliano exhibition at New York Met cancelled after backlash",
-      "body": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Semi-pro football club 'in shock' after shirt worn by Reading Festival headliners",
-      "body": "The club says sales of the shirt almost doubled after it was worn by Fontaines D.C frontman Grian Chatten.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c70lq0xz8veo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: writers and readers on the books they enjoyed in July",
+      "body": "<p>Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I recently read <strong>Gaining Ground</strong> by <a href=\"https://observer.co",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "GWR FM was a network of three radio stations in the south west of England broadcasting to Bristol, Bath, Wiltshire and surrounding areas.",
-      "body": "All three stations were rebranded and joined the Heart Network on 23 March 2009. One of those things you can't un-know.",
-      "img": null,
+      "hook": "The Spy in Black is a 1917 spy thriller novel by the British writer J.",
+      "body": "It takes place near Scapa Flow in Orkney during the First World War. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/The_Spy_in_Black_%28novel%29.jpg/330px-The_Spy_in_Black_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/GWR_FM"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "I Drink for a Reason is a 2009 book by American actor and comedian David Cross.",
-      "body": "The book features memoirs, satirical fictional memoirs and material from Cross that originally appeared in other publications. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/76/Cover_art_for_I_Drink_For_A_Reason_by_David_Cross.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/I_Drink_for_a_Reason"
+      "url": "https://en.wikipedia.org/wiki/The_Spy_in_Black_(novel)"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Goodbye to Babylon Berlin, the 1920s TV drama that has eerily foreshadowed real-life politics",
-      "body": "<p>The long-running drama reaches Hitler’s rise to power in its final season as its creators reflect on the unsettling parallels between Weimar Germany and the present day</p><p>It’s the global hit TV series that pulled audiences straight i",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics"
+      "opener": "The Guardian · Film —",
+      "hook": "Ukrainian film-maker criticises EU after it cuts Venice Biennale funding over Russia controversy",
+      "body": "<p>Sergei Loznitsa likens removal of €2m grant to ‘a punishment in kindergarten’ on eve of Venice film festival</p><p>One of Ukraine’s most acclaimed film-makers has criticised the European Commission’s decision to cut off funds to the Veni",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/02/ukrainian-film-maker-sergei-loznitsa-criticises-eu-cuts-venice-biennale-funding-russia-controversy"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Red Head is a 1925 French silent drama film directed by Julien Duvivier and starring Henry Krauss, Charlotte Barbier-Krauss and André Heuzé.",
+      "body": "Duvivier remade it as a sound film of the same name in 1932. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Poil_de_carotte_1925.jpg/330px-Poil_de_carotte_1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Red_Head_(1925_film)"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Anthony Torrone is an American Christian author who has a developmental disability.",
-      "body": "Torrone's 2011 book Anthony's Prayers was inspired by his time at, and the abuse that he experienced as a resident of, the former Willowbrook State School, a New York State mental hospital for children. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "[New Life+] Young Again in Another World is a Japanese light novel series written by MINE and illustrated by Kabocha.",
+      "body": "The series was licensed in English by J-Novel Club. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d0/Nidome_no_Jinsei_o_Isekai_de%2C_volume_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Anthony_Torrone"
+      "url": "https://en.wikipedia.org/wiki/New_Life%2B%3A_Young_Again_in_Another_World"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "When She Was Good is a 1967 novel by Philip Roth.",
+      "body": "It is Roth's only novel with a female protagonist. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/56/WhenSheWasGood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/When_She_Was_Good"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Runner review – Gal Gadot stumbles through derivative high-speed, low-rent thriller",
+      "body": "<p>A string of London locations can’t save Amazon’s overly familiar B-movie dragged down by another ineffective performance by the Wonder Woman star</p><p>We’re propelled on to an extremely familiar journey in Amazon’s quickie action thrill",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/01/the-runner-amazon-thriller-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "The Gentlemen season two review – these geezers in tweed are irritating, stupid and extremely funny",
+      "body": "<p>Guy Ritchie’s crime caper is back with the usual hijinks, swearing and men shaking their fists. But its ridiculousness is strangely comforting – and Theo James’s beefcake Eddie is so bland that he is fascinating to observe</p><p>He lives",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/02/the-gentlemen-season-two-review-guy-ritchie-theo-james-netflix"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1807 —",
+      "hook": "Napoleonic Wars: The British Royal Navy bombards Copenhagen with fire bombs and phosphorus rockets to prevent Denmark from surrendering its fleet to Napoleon.",
+      "body": "The Battle of Copenhagen occurred between 16 August and 7 September 1807 during the Napoleonic Wars. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Copenhagen_on_fire_1807_by_CW_Eckersberg.jpg/330px-Copenhagen_on_fire_1807_by_CW_Eckersberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Copenhagen_(1807)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Hungry review – hippo horror sees multi-ton mammal run amok among bayou boat-trippers",
+      "body": "<p>A group of thinly drawn characters on a Louisiana tour fight for survival against a rampaging vegetarian</p><p>This animal-attack horror plugs a gap with beasties – hippopotamuses – that may be deadly in real life but are hard to take se",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/02/hungry-review-hippo-horror"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The year of Domhnall Gleeson: ‘No one talks about actors’ dedication. But I had a perm for five months!’",
+      "body": "<p>He started in the Harry Potter films and has since become ubiquitous, playing every type of character: romcom leads, evil villains, comical idiots. He even starred in a Taylor Swift video. So how does he stay so under the radar?</p><p>Do",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/02/the-year-of-domhnall-gleeson-no-one-talks-about-actors-dedication-but-i-had-a-perm-for-five-months"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "An Awfully Big Adventure is a 1995 British coming-of-age film directed by Mike Newell.",
+      "body": "The story concerns a girl who joins a local repertory theatre troupe in Liverpool. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/An_Awfully_Big_Adventure_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/An_Awfully_Big_Adventure"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "It is operated by the West Japan Railway Company.",
+      "body": "Kawatana-Onsen Station is a passenger railway station located in the city of Shimonoseki, Yamaguchi Prefecture, Japan. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/West_Japan_Railway_-_Kawatanaonsen_Station_-_01.JPG/330px-West_Japan_Railway_-_Kawatanaonsen_Station_-_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kawatana-Onsen_Station"
     }
   ]
 }
