@@ -1,65 +1,45 @@
 {
-  "generated": "2026-09-03T18:55:15.948Z",
-  "count": 27,
+  "generated": "2026-09-03T21:27:06.991Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "A Glove Shop in Vienna: And Other Stories is a collection of short stories for young adults by Eva Ibbotson.",
-      "body": "The book was first published in 1984 by Century Publishing. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/70/A_Glove_Shop_in_Vienna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Glove_Shop_in_Vienna%3A_And_Other_Stories"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
+      "body": "<p><strong>Venice film festival: </strong>Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo</p><p>It is",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1914 —",
+      "hook": "World War I: Start of the Battle of Grand Couronné, a German assault against French positions on high ground near the city of Nancy.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Anastasia on Her Own (1985) is a young-adult novel by Lois Lowry.",
-      "body": "It is part of a series of books that Lowry wrote about Anastasia and her younger brother Sam. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/83/Anastasia_on_Her_Own_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "In some operating systems, including Unix-like systems, a pseudoterminal, pseudotty, or PTY is a pair of pseudo-device endpoints (files) which establish an asynchronous, bidirectional communication (IPC) channel between two or more processes.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Termios-script-diagram.svg/330px-Termios-script-diagram.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Anastasia_on_Her_Own"
+      "url": "https://en.wikipedia.org/wiki/Pseudoterminal"
     },
     {
       "type": "card",
-      "cat": "history",
+      "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Plans and parts were still available in 2007, although the rights have changed hands in the intervening years.",
-      "body": "The Bakeng Deuce is a parasol-wing monoplane designed in the United States in the early 1970s and marketed for homebuilding. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bakeng_Duce_C-GPLL_01.JPG/330px-Bakeng_Duce_C-GPLL_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bakeng_Deuce"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1875 —",
-      "hook": "The first official game of polo is played in Argentina after being introduced by British ranchers.",
-      "body": "Polo is a stick and ball game that is played on horseback as a traditional field sport, and is one of the oldest known team sports in the world. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Varsity_Polo_2013.jpg/330px-Varsity_Polo_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Polo"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "and northwestern Mexico, that operated as an affiliated Class C league that existed from 1955–58, and then again in 2003 as an independent baseball league.",
-      "body": "The Arizona–Mexico League was a Minor League Baseball league in the southwestern U.S. Bring it up somewhere. Watch the reaction.",
+      "hook": "Luc Brewaeys was a Belgian composer, conductor, pianist and recording producer at the VRT.",
+      "body": "He studied composition with André Laporte in Brussels, with Franco Donatoni in Siena (Italy) and with Brian Ferneyhough in Darmstadt (Germany). Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Arizona%E2%80%93Mexico_League"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Wild Horse Nine’ review: John Malkovich and Sam Rockwell command Martin McDonagh’s potent 1970s character study",
-      "body": "The director’s Easter Island-set fifth feature premieres in Venice competition and looks set for awards attention",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/wild-horse-nine-review-john-malkovich-and-sam-rockwell-command-martin-mcdonaghs-potent-1970s-character-study/5219987.article"
+      "url": "https://en.wikipedia.org/wiki/Luc_Brewaeys"
     },
     {
       "type": "card",
@@ -73,22 +53,119 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1939 —",
-      "hook": "World War II: France, the United Kingdom, New Zealand and Australia declare war on Germany after the invasion of Poland, forming the Allied nations. The Viceroy of India also declares war, but without consulting the provincial legislatures.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1954 —",
+      "hook": "The People's Liberation Army begins shelling the Republic of China-controlled islands of Quemoy, starting the First Taiwan Strait Crisis.",
+      "body": "The People's Liberation Army (PLA) is the military wing of the Chinese Communist Party (CCP) and the primary armed forces of the People's Republic of China (PRC). The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/China_Emblem_PLA_shaded.svg/330px-China_Emblem_PLA_shaded.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
+      "url": "https://en.wikipedia.org/wiki/People's_Liberation_Army"
     },
     {
       "type": "card",
-      "cat": "geography",
-      "opener": "You probably never noticed this —",
-      "hook": "Duck Steps Out (1940) and was incorporated into Donald's comic stories several months later.",
-      "body": "Daisy Duck is a cartoon character created by Carl Barks for The Walt Disney Company. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/Daisy_Duck_Duckipedia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "cat": "history",
+      "opener": "On this day in 1945 —",
+      "hook": "A three-day celebration begins in China, following the Victory over Japan Day on September 2.",
+      "body": "Victory over Japan Day is the day on which Imperial Japan surrendered in World War II, in effect bringing the war to an end. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg/330px-Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Victory_over_Japan_Day"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "The Bayeux tapestry: a stupefying, thrilling, horrifying masterpiece that shakes the earth",
+      "body": "<p><strong>British Museum, London</strong><br>The greatest battle ever depicted in art is here at last – and it hurtles along, making your heart pound with its sense of doom and destiny, culminating in fires and corpses on a battlefield ful",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/03/the-bayeux-tapestry-british-museum-london"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The company was registered on 19 January 1994 under the legal name Oriģināli televīzijas raidījumi and broadcast in Latvian, Russian and English.",
+      "body": "Picca TV was a Latvian independent television channel, active from April 1994 to August 1996, when it merged with NTV-5 to form LNT. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Daisy_Duck"
+      "url": "https://en.wikipedia.org/wiki/Picca_TV"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1933 —",
+      "hook": "Yevgeniy Abalakov is the first man to reach the highest point in the Soviet Union, Communism Peak (now called Ismoil Somoni Peak and situated in Tajikistan) (7495 m).",
+      "body": "Yevgeniy Mikhaylovich Abalakov was a Soviet mountaineer and sculptor. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/EvgeniyAbalakov.jpg/330px-EvgeniyAbalakov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Yevgeniy_Abalakov"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
+      "body": "<p><strong>Venice film festival: </strong>Rooney and Kate Mara play the real-life Chaplin sisters who spoke in unsettling unison in this silly, pointless drama</p><p>Werner Herzog is such a unique film-maker that even a dud from him has som",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Hubble tracks new decagon encircling Saturn’s south pole",
+      "body": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed i",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Southern Engine and Boiler Works founded in 1889, which made industrial engines and boilers in Jackson, Tennessee, established the factory in 1907.",
+      "body": "Marathon Motor Works was a brass era automobile manufacturer based in Tennessee. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Marathon_Motor_Works_1.jpg/330px-Marathon_Motor_Works_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marathon_Motor_Works"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1189 —",
+      "hook": "Richard I of England (a.k.a. Richard \"the Lionheart\") is crowned at Westminster.",
+      "body": "Richard I, known as Richard the Lionheart or Richard Cœur de Lion because of his reputation as a great military leader and warrior, was King of England from 1189 until his death in 1199. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg/330px-Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The population was 19,565 at the 2020 census.",
+      "body": "Altoona is a city in Polk County, Iowa, United States, and part of the Des Moines metropolitan area. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Altoona_Tower_2_-_panoramio.jpg/330px-Altoona_Tower_2_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Altoona%2C_Iowa"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1971 —",
+      "hook": "Qatar becomes an independent state.",
+      "body": "Qatar, officially the State of Qatar, is a country in West Asia. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/330px-Flag_of_Qatar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Qatar"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Sustainable Energy Utility (SEU) is a community-based model of development founded on energy conservation and the use of renewables, seeking to permanently decrease the use of source materials, water, and energy.",
+      "body": "The model prescribes the creation of independent and financially self-sufficient non-profit entities for energy sustainability through conservation, efficiency, and end-user based decentralized renewable energy. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sustainable_Energy_Utility"
     },
     {
       "type": "card",
@@ -102,168 +179,31 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Diary of a Farmer's Wife 1796–1797, also known as Anne Hughes' Diary, was first published in instalments in the Farmers Weekly in 1937–1938, and was subsequently reprinted in book form.",
-      "body": "It purports to be the diary of a farmer's wife, Anne Hughes, written in England in 1796–1797, which recounts details of her daily life, including recipes, and interactions with her family, servant and friends. One of those things you can't un-know.",
-      "img": null,
+      "opener": "Bet you didn't know —",
+      "hook": "The 61st Field Artillery Regiment was a reserve unit of the Philippine Army, activated in August 1941 as part of the 61st Infantry Division based in Panay.",
+      "body": "It was originally organized to serve as an artillery unit during World War II. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_-_Army_Field_Artillery_Insignia.svg/330px-USA_-_Army_Field_Artillery_Insignia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Diary_of_a_Farmer's_Wife_1796%E2%80%931797"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Citizens of Poland practice non-violent civil disobedience.",
-      "body": "The Citizens of Poland is an informal civic movement in Poland engaged in pro-democracy and anti-fascist activities, opposed to the actions of the government led by the Law and Justice (PiS) party. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Pawe%C5%82_Kasprzak.JPG/330px-Pawe%C5%82_Kasprzak.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Citizens_of_Poland"
+      "url": "https://en.wikipedia.org/wiki/61st_Field_Artillery_Regiment_(Philippine_Army)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Godfather is a crime novel by Italian American author Mario Puzo.",
-      "body": "Originally published on 10 March 1969 by G. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Godfather-Novel-Cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Godfather_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
-      "body": "<p><strong>Venice film festival: </strong>Rooney and Kate Mara play the real-life Chaplin sisters who spoke in unsettling unison in this silly, pointless drama</p><p>Werner Herzog is such a unique film-maker that even a dud from him has som",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1879 —",
-      "hook": "Siege of the British Residency in Kabul: British envoy Sir Louis Cavagnari and 72 men of the Guides are massacred by Afghan troops while defending the British Residency in Kabul. Their heroism and loyalty became famous and revered throughout the British Empire.",
-      "body": "The siege of the British Residency in Kabul was a military engagement of the Second Anglo-Afghan War. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Walter_Richard_Pollock_Hamilton_statue_-_Project_Gutenberg_eText_16808.jpg/330px-Walter_Richard_Pollock_Hamilton_statue_-_Project_Gutenberg_eText_16808.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Siege_of_the_British_Residency_in_Kabul"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "The Bayeux tapestry: a stupefying, thrilling, horrifying masterpiece that shakes the earth",
-      "body": "<p><strong>British Museum, London</strong><br>The greatest battle ever depicted in art is here at last – and it hurtles along, making your heart pound with its sense of doom and destiny, culminating in fires and corpses on a battlefield ful",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/2026/sep/03/the-bayeux-tapestry-british-museum-london"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Year of the Hare is a 2006 French, Belgian and Bulgarian film directed, written and produced by Marc Rivière.",
-      "body": "It is based on the 1975 novel The Year of the Hare by Arto Paasilinna, which has previously been made of a 1977 Finnish adaptation directed by Risto Jarva. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Year_of_the_Hare_%282006_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Year_of_the_Hare_(2006_film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1943 —",
-      "hook": "World War II: British and Canadian troops land on the Italian mainland. On the same day, Walter Bedell Smith and Giuseppe Castellano sign the Armistice of Cassibile, although it is not announced for another five days.",
-      "body": "Operation Baytown was an Allied amphibious landing on the mainland of Italy that took place on 3 September 1943, part of the Allied invasion of Italy, itself part of the Italian Campaign, during the Second World War. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/The_Allied_Landings_in_Italy%2C_September_1943-_Reggio%2C_Taranto_and_Salerno_NA6258.jpg/330px-The_Allied_Landings_in_Italy%2C_September_1943-_Reggio%2C_Taranto_and_Salerno_NA6258.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Operation_Baytown"
-    },
-    {
-      "type": "card",
-      "cat": "history",
       "opener": "File under 'wait, really?' —",
-      "hook": "The franchise began as a series of animated short films that originally ran from 1930 to 1969, alongside its spin-off series Merrie Melodies, produced by Warner Bros.",
-      "body": "Looney Tunes is an American media franchise owned by Warner Bros. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Looney_Tunes_2024.svg/330px-Looney_Tunes_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Zamyad Yasht also known as the Kayan Yasn is the nineteenth hymn of the 21 Yashts and is dedicated to the veneration of Zam.",
+      "body": "It belongs to the Legendary Yashts and, with 96 stanzas, it is the fourth longest in the collection. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Darmesteter_Zamyad_Yasht_1.png/330px-Darmesteter_Zamyad_Yasht_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Looney_Tunes"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 863 —",
-      "hook": "Major Byzantine victory under general Petronas at the Battle of Lalakaon against an Arab raid under emir Umar al-Aqta, who is killed in battle.",
-      "body": "The Byzantine Empire, also known as the Eastern Roman Empire, was the continuation of the Roman Empire centred on Constantinople during late antiquity and the Middle Ages. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Red_Eastern_Roman_Empire_565_CE.svg/330px-Red_Eastern_Roman_Empire_565_CE.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Byzantine_Empire"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "You probably never noticed this —",
-      "hook": "The category was established at the 1st Children's and Family Emmy Awards in 2022, and is open to lead, supporting and guest performers of all genders.",
-      "body": "The Children's and Family Emmy Award for Outstanding Voice Performer honors performances in both television series and made-for-television/streaming films. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/John_Lithgow_at_Met_Opera_Opening_in_2008.jpg/330px-John_Lithgow_at_Met_Opera_Opening_in_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Children's_and_Family_Emmy_Award_for_Outstanding_Voice_Performer"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "You probably never noticed this —",
-      "hook": "The species is native to waters off northern Australia.",
-      "body": "The small-headed sea snake, also known commonly as McDowell's sea snake, is a species of venomous snake in the subfamily Hydrophiinae of the family Elapidae. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hydrophis_macdowelli.JPG/330px-Hydrophis_macdowelli.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Small-headed_sea_snake"
+      "url": "https://en.wikipedia.org/wiki/Zamyad_Yasht"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Telluride Film Festival unveils 2026 lineup",
-      "body": "Festival runs in the Colorado Rockies from September 4-7.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/telluride-film-festival-unveils-2026-lineup/5220007.article"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Here's one for the group chat —",
-      "hook": "It was described by Snellen in 1885.",
-      "body": "Imma bilineella is a moth in the family Immidae. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Imma_bilineella"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "They teamed up in 2000 and became four-time Azerbaijani national champions.",
-      "body": "Kristin Fraser is an American former competitive ice dancer who competed for Azerbaijan with Igor Lukanin. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/FRASER_LUKANIN_by_Carmichael.jpg/330px-FRASER_LUKANIN_by_Carmichael.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kristin_Fraser"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
-      "body": "<p><strong>Venice film festival: </strong>Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo</p><p>It is",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2010 —",
-      "hook": "After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board.",
-      "body": "Dubai International Airport is the primary international airport serving Dubai, United Arab Emirates, and is the world's busiest airport by international passenger traffic as of 2025. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DXB_word_mark.svg/330px-DXB_word_mark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport"
+      "opener": "BBC Entertainment —",
+      "hook": "Jive Bunny And The Mastermixers creator dies at 84",
+      "body": "Tributes are paid to John Pickles, who formed the novelty pop act in Rotherham in 1989.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xe2rvpkvo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
