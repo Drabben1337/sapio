@@ -1,179 +1,269 @@
 {
-  "generated": "2026-09-03T15:16:57.513Z",
-  "count": 18,
+  "generated": "2026-09-03T18:55:15.948Z",
+  "count": 27,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Hollywood Sign is a 2001 comedy/suspense drama film directed by Sönke Wortmann and written by Leon de Winter.",
-      "body": "It stars Tom Berenger, Rod Steiger and Burt Reynolds as three washed-up actors risking their lives to make a comeback, as well as Jacqueline Kim. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Hollywood_Sign_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "A Glove Shop in Vienna: And Other Stories is a collection of short stories for young adults by Eva Ibbotson.",
+      "body": "The book was first published in 1984 by Century Publishing. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/70/A_Glove_Shop_in_Vienna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Hollywood_Sign_(film)"
+      "url": "https://en.wikipedia.org/wiki/A_Glove_Shop_in_Vienna%3A_And_Other_Stories"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Henry Charles Bukowski was a German-American poet, novelist, and short story writer.",
-      "body": "His writing was influenced by the social, cultural, and economic ambience of his adopted home city of Los Angeles. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e2/Charles_Bukowski_smoking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Anastasia on Her Own (1985) is a young-adult novel by Lois Lowry.",
+      "body": "It is part of a series of books that Lowry wrote about Anastasia and her younger brother Sam. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/83/Anastasia_on_Her_Own_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Charles_Bukowski"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Diddakoi is a 1972 children's novel by Rumer Godden.",
-      "body": "Set in England, it features an orphan traveller or Romani girl, seven-year-old Kizzy Lovell, who faces persecution, grief, and loss in a hostile, close-knit, village community. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d4/The_Diddakoi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Diddakoi"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Falling House review – fierce tale of an Iranian prison guard holding his family hostage",
-      "body": "<p><strong>Venice film festival: </strong>Mohsen Gharaei’s powerfully acted domestic drama watches as the failing patriarch attempts to contain family rebellion</p><p>Iran is a prison and everybody is inside: cons and non-cons; parents and ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/03/falling-house-review-mohsen-gharaei-iran-prison-guard"
+      "url": "https://en.wikipedia.org/wiki/Anastasia_on_Her_Own"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1916 —",
-      "hook": "World War I: Leefe Robinson destroys the German airship Schütte-Lanz SL 11 over Cuffley, north of London; the first German airship to be shot down on British soil.",
-      "body": "William Leefe Robinson VC was the first British pilot to shoot down a German airship over Britain during the First World War. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Leefe_Robinson.jpg/330px-Leefe_Robinson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Leefe_Robinson"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Martin McDonagh says CIA has ‘done awful things all around the world’",
-      "body": "<p>McDonagh’s new film, Wild Horse Nine, stars John Malkovich as an agent in 1970s Chile who feels ‘guilt and regret’ over his role in global interventions</p><p>The US’s history of intervening in democratic processes around the world deser",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/03/martin-mcdonagh-wild-horse-nine-cia-awful-things"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Gabriel Over the White House is a 1933 American pre-Code political fantasy film starring Walter Huston as a genial but politically corrupt U.S.",
-      "body": "President who has a near-fatal automobile accident and comes under divine influence—specifically that of the archangel Gabriel. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Gabriel-over-the-white-house.jpg/330px-Gabriel-over-the-white-house.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Plans and parts were still available in 2007, although the rights have changed hands in the intervening years.",
+      "body": "The Bakeng Deuce is a parasol-wing monoplane designed in the United States in the early 1970s and marketed for homebuilding. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bakeng_Duce_C-GPLL_01.JPG/330px-Bakeng_Duce_C-GPLL_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gabriel_Over_the_White_House"
+      "url": "https://en.wikipedia.org/wiki/Bakeng_Deuce"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Grand Hotel is a 1929 novel by Vicki Baum, which was the basis for the 1932 film Grand Hotel.",
-      "body": "It should not be confused with Berlin Hotel, published in 1945, which deals with the situation in Germany towards the end of World War I. The world is stranger than it lets on.",
+      "cat": "history",
+      "opener": "On this day in 1875 —",
+      "hook": "The first official game of polo is played in Argentina after being introduced by British ranchers.",
+      "body": "Polo is a stick and ball game that is played on horseback as a traditional field sport, and is one of the oldest known team sports in the world. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Varsity_Polo_2013.jpg/330px-Varsity_Polo_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Polo"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "and northwestern Mexico, that operated as an affiliated Class C league that existed from 1955–58, and then again in 2003 as an independent baseball league.",
+      "body": "The Arizona–Mexico League was a Minor League Baseball league in the southwestern U.S. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Grand_Hotel_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Arizona%E2%80%93Mexico_League"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Wild Horse Nine’ review: John Malkovich and Sam Rockwell command Martin McDonagh’s potent 1970s character study",
+      "body": "The director’s Easter Island-set fifth feature premieres in Venice competition and looks set for awards attention",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/reviews/wild-horse-nine-review-john-malkovich-and-sam-rockwell-command-martin-mcdonaghs-potent-1970s-character-study/5219987.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "By Any Means review – Mark Wahlberg and Yahya Abdul-Mateen II drama provokes with horror of 1960s racism",
+      "body": "<p>Elegance Bratton’s civil rights drama in the Jim Crow south confronts you with almost unbearable brutality</p><p></p><p></p><p>Black people officially won the unrestricted right to vote in the US in 1965 but many still encountered hurdle",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/03/by-any-means-review-mark-wahlberg-yahya-abdul-mateen-ii-elegance-bratton"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1925 —",
-      "hook": "USS Shenandoah, the United States' first American-built rigid airship, was destroyed in a squall line over Noble County, Ohio. Fourteen of her 42-man crew perished, including her commander, Zachary Lansdowne.",
-      "body": "USS Shenandoah was the first of four United States Navy rigid airships. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/USS_Shenandoah_NAS_San_Diego.jpg/330px-USS_Shenandoah_NAS_San_Diego.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1939 —",
+      "hook": "World War II: France, the United Kingdom, New Zealand and Australia declare war on Germany after the invasion of Poland, forming the Allied nations. The Viceroy of India also declares war, but without consulting the provincial legislatures.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/USS_Shenandoah_(ZR-1)"
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1335 —",
-      "hook": "At the congress of Visegrád Charles I of Hungary mediates a reconciliation between two neighboring monarchs, John of Bohemia and Casimir III of Poland.",
-      "body": "Charles I, also known as Charles Robert (Hungarian: Károly Róbert; Croatian: Karlo Robert; Slovak: Karol Róbert; Italian: Caroberto;, was King of Hungary and Croatia from 1308 to his death. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/K%C3%A9pes_kr%C3%B3nika_-_138.oldal_-_K%C3%A1roly_R%C3%B3bert_kir%C3%A1ly.jpg/330px-K%C3%A9pes_kr%C3%B3nika_-_138.oldal_-_K%C3%A1roly_R%C3%B3bert_kir%C3%A1ly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Charles_I_of_Hungary"
+      "cat": "geography",
+      "opener": "You probably never noticed this —",
+      "hook": "Duck Steps Out (1940) and was incorporated into Donald's comic stories several months later.",
+      "body": "Daisy Duck is a cartoon character created by Carl Barks for The Walt Disney Company. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/Daisy_Duck_Duckipedia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Daisy_Duck"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "body": "<p>Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author</p><p>For all the drugs and punch-ups, this is an unexpectedly sentimental com",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Diary of a Farmer's Wife 1796–1797, also known as Anne Hughes' Diary, was first published in instalments in the Farmers Weekly in 1937–1938, and was subsequently reprinted in book form.",
+      "body": "It purports to be the diary of a farmer's wife, Anne Hughes, written in England in 1796–1797, which recounts details of her daily life, including recipes, and interactions with her family, servant and friends. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Diary_of_a_Farmer's_Wife_1796%E2%80%931797"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Citizens of Poland practice non-violent civil disobedience.",
+      "body": "The Citizens of Poland is an informal civic movement in Poland engaged in pro-democracy and anti-fascist activities, opposed to the actions of the government led by the Law and Justice (PiS) party. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Pawe%C5%82_Kasprzak.JPG/330px-Pawe%C5%82_Kasprzak.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Citizens_of_Poland"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Godfather is a crime novel by Italian American author Mario Puzo.",
+      "body": "Originally published on 10 March 1969 by G. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Godfather-Novel-Cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
+      "body": "<p><strong>Venice film festival: </strong>Rooney and Kate Mara play the real-life Chaplin sisters who spoke in unsettling unison in this silly, pointless drama</p><p>Werner Herzog is such a unique film-maker that even a dud from him has som",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1879 —",
+      "hook": "Siege of the British Residency in Kabul: British envoy Sir Louis Cavagnari and 72 men of the Guides are massacred by Afghan troops while defending the British Residency in Kabul. Their heroism and loyalty became famous and revered throughout the British Empire.",
+      "body": "The siege of the British Residency in Kabul was a military engagement of the Second Anglo-Afghan War. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Walter_Richard_Pollock_Hamilton_statue_-_Project_Gutenberg_eText_16808.jpg/330px-Walter_Richard_Pollock_Hamilton_statue_-_Project_Gutenberg_eText_16808.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_the_British_Residency_in_Kabul"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "The Bayeux tapestry: a stupefying, thrilling, horrifying masterpiece that shakes the earth",
+      "body": "<p><strong>British Museum, London</strong><br>The greatest battle ever depicted in art is here at last – and it hurtles along, making your heart pound with its sense of doom and destiny, culminating in fires and corpses on a battlefield ful",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/03/the-bayeux-tapestry-british-museum-london"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Year of the Hare is a 2006 French, Belgian and Bulgarian film directed, written and produced by Marc Rivière.",
+      "body": "It is based on the 1975 novel The Year of the Hare by Arto Paasilinna, which has previously been made of a 1977 Finnish adaptation directed by Risto Jarva. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Year_of_the_Hare_%282006_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Year_of_the_Hare_(2006_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1943 —",
+      "hook": "World War II: British and Canadian troops land on the Italian mainland. On the same day, Walter Bedell Smith and Giuseppe Castellano sign the Armistice of Cassibile, although it is not announced for another five days.",
+      "body": "Operation Baytown was an Allied amphibious landing on the mainland of Italy that took place on 3 September 1943, part of the Allied invasion of Italy, itself part of the Italian Campaign, during the Second World War. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/The_Allied_Landings_in_Italy%2C_September_1943-_Reggio%2C_Taranto_and_Salerno_NA6258.jpg/330px-The_Allied_Landings_in_Italy%2C_September_1943-_Reggio%2C_Taranto_and_Salerno_NA6258.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Operation_Baytown"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The franchise began as a series of animated short films that originally ran from 1930 to 1969, alongside its spin-off series Merrie Melodies, produced by Warner Bros.",
+      "body": "Looney Tunes is an American media franchise owned by Warner Bros. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Looney_Tunes_2024.svg/330px-Looney_Tunes_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Looney_Tunes"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 863 —",
+      "hook": "Major Byzantine victory under general Petronas at the Battle of Lalakaon against an Arab raid under emir Umar al-Aqta, who is killed in battle.",
+      "body": "The Byzantine Empire, also known as the Eastern Roman Empire, was the continuation of the Roman Empire centred on Constantinople during late antiquity and the Middle Ages. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Red_Eastern_Roman_Empire_565_CE.svg/330px-Red_Eastern_Roman_Empire_565_CE.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Byzantine_Empire"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "You probably never noticed this —",
+      "hook": "The category was established at the 1st Children's and Family Emmy Awards in 2022, and is open to lead, supporting and guest performers of all genders.",
+      "body": "The Children's and Family Emmy Award for Outstanding Voice Performer honors performances in both television series and made-for-television/streaming films. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/John_Lithgow_at_Met_Opera_Opening_in_2008.jpg/330px-John_Lithgow_at_Met_Opera_Opening_in_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Children's_and_Family_Emmy_Award_for_Outstanding_Voice_Performer"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "You probably never noticed this —",
+      "hook": "The species is native to waters off northern Australia.",
+      "body": "The small-headed sea snake, also known commonly as McDowell's sea snake, is a species of venomous snake in the subfamily Hydrophiinae of the family Elapidae. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hydrophis_macdowelli.JPG/330px-Hydrophis_macdowelli.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Small-headed_sea_snake"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Telluride Film Festival unveils 2026 lineup",
+      "body": "Festival runs in the Colorado Rockies from September 4-7.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/telluride-film-festival-unveils-2026-lineup/5220007.article"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Here's one for the group chat —",
+      "hook": "It was described by Snellen in 1885.",
+      "body": "Imma bilineella is a moth in the family Immidae. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Imma_bilineella"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "They teamed up in 2000 and became four-time Azerbaijani national champions.",
+      "body": "Kristin Fraser is an American former competitive ice dancer who competed for Azerbaijan with Igor Lukanin. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/FRASER_LUKANIN_by_Carmichael.jpg/330px-FRASER_LUKANIN_by_Carmichael.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kristin_Fraser"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Tall tales: the 20 best giants in film – ranked!",
-      "body": "<p>On the 300th anniversary of Gulliver’s Travels, we celebrate the biggest film stars of them all – from a stone colossus to a metal-munching alien and a 50ft woman on the rampage</p><p>Not a <a href=\"https://en.wikipedia.org/wiki/BFG_(wea",
+      "hook": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
+      "body": "<p><strong>Venice film festival: </strong>Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo</p><p>It is",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/03/best-giants-in-film-ranked"
+      "url": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1989 —",
-      "hook": "Cubana de Aviación Flight 9046 crashes into a residential area of Havana shortly after takeoff from José Martí International Airport, killing 150.",
-      "body": "Cubana de Aviación Flight 9046 was a chartered Ilyushin Il-62M airliner operated by Cubana, which crashed on 3 September 1989, shortly after takeoff from José Martí International Airport. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/CU-T1281_Cubana_de_Aviaci%C3%B3n_Ilyushin_Il-62M_at_Paris_Orly_Airport%2C_17_June_1989.jpg/330px-CU-T1281_Cubana_de_Aviaci%C3%B3n_Ilyushin_Il-62M_at_Paris_Orly_Airport%2C_17_June_1989.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2010 —",
+      "hook": "After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board.",
+      "body": "Dubai International Airport is the primary international airport serving Dubai, United Arab Emirates, and is the world's busiest airport by international passenger traffic as of 2025. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DXB_word_mark.svg/330px-DXB_word_mark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Cubana_de_Aviaci%C3%B3n_Flight_9046"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1933 —",
-      "hook": "Yevgeniy Abalakov is the first man to reach the highest point in the Soviet Union, Communism Peak (now called Ismoil Somoni Peak and situated in Tajikistan) (7495 m).",
-      "body": "Yevgeniy Mikhaylovich Abalakov was a Soviet mountaineer and sculptor. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/EvgeniyAbalakov.jpg/330px-EvgeniyAbalakov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Yevgeniy_Abalakov"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Profits, Prophets, Coaches and Kings by Jared Diamond review – how to change the course of history",
-      "body": "<p>The author of Guns, Germs and Steel falters in this flawed study of whether individuals really make a difference</p><p>Early in this book, Jared Diamond proudly introduces “what I term ‘the Hamlet test’”, which helps decide whether promi",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/02/profits-prophets-coaches-and-kings-by-jared-diamond-review-how-to-change-the-course-of-history"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "Wilhelm, Prince of Albania leaves the country after just six months due to opposition to his rule.",
-      "body": "Wilhelm, Prince of Albania was sovereign of the Principality of Albania from 7 March to 3 September 1914. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Princ_Vidi_%28portret%29.jpg/330px-Princ_Vidi_%28portret%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Wilhelm%2C_Prince_of_Albania"
+      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport"
     }
   ]
 }
