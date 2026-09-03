@@ -1,7 +1,36 @@
 {
-  "generated": "2026-09-03T21:27:06.991Z",
-  "count": 21,
+  "generated": "2026-09-03T23:35:23.633Z",
+  "count": 11,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Jive Bunny And The Mastermixers creator dies at 84",
+      "body": "Tributes are paid to John Pickles, who formed the novelty pop act in Rotherham in 1989.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xe2rvpkvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Bandbox is a 1919 American silent mystery crime film directed by Roy William Neill and starring Doris Kenyon, Walter McEwen and Gretchen Hartman.",
+      "body": "It is based on the 1912 novel of the same title by Louis Joseph Vance. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Doris_Kenyon_The_Bandbox_Film_Daily_1919.png/330px-Doris_Kenyon_The_Bandbox_Film_Daily_1919.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Bandbox"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "If I Were You is a novel by P.",
+      "body": "Wodehouse, first published in the United States on 3 September 1931 by Doubleday, Doran, New York, and in the United Kingdom on 25 September 1931 by Herbert Jenkins, London. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ce/IfIWereYouWodehouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/If_I_Were_You_(Wodehouse_novel)"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,100 +42,49 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "World War I: Start of the Battle of Grand Couronné, a German assault against French positions on high ground near the city of Nancy.",
-      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_I"
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Pig kidney kept a man off dialysis for nine months in world first",
+      "body": "A pig kidney transplant worked for a record nine months. This enabled the recipient to stay off dialysis for longer while waiting for a suitable human donor's kidney to become available",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2587510-pig-kidney-kept-a-man-off-dialysis-for-nine-months-in-world-first/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Quidditch, Muggles, magic: new Harry Potter trailer gives full look at TV show",
+      "body": "<p>HBO’s extended trailer reveals more details of JK Rowling’s wizarding world coming to screens this Christmas</p><p>The second official trailer has been released for <a href=\"https://www.theguardian.com/media/hbo\">HBO</a>’s forthcoming TV",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/02/harry-potter-hbo-tv-show-trailer"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "‘I'd be the last to know’: Stars of The Gentlemen react to Meghan reports",
+      "body": "The world premiere for series 2 of the Netflix drama took place on Wednesday night in London.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c05rg7mj2p1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "In some operating systems, including Unix-like systems, a pseudoterminal, pseudotty, or PTY is a pair of pseudo-device endpoints (files) which establish an asynchronous, bidirectional communication (IPC) channel between two or more processes.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Termios-script-diagram.svg/330px-Termios-script-diagram.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "Daughter of the Lioness series by Tamora Pierce is a series of two novels set in the fictional Tortall universe.",
+      "body": "It is centered on Alianne of Pirate's Swoop, the sixteen-year-old daughter of Tortall's legendary lady knight, Alanna the Lioness, who was the subject of The Song of the Lioness quartet. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Trickster%27s_queen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pseudoterminal"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Luc Brewaeys was a Belgian composer, conductor, pianist and recording producer at the VRT.",
-      "body": "He studied composition with André Laporte in Brussels, with Franco Donatoni in Siena (Italy) and with Brian Ferneyhough in Darmstadt (Germany). Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Luc_Brewaeys"
+      "url": "https://en.wikipedia.org/wiki/Daughter_of_the_Lioness"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "By Any Means review – Mark Wahlberg and Yahya Abdul-Mateen II drama provokes with horror of 1960s racism",
-      "body": "<p>Elegance Bratton’s civil rights drama in the Jim Crow south confronts you with almost unbearable brutality</p><p></p><p></p><p>Black people officially won the unrestricted right to vote in the US in 1965 but many still encountered hurdle",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/03/by-any-means-review-mark-wahlberg-yahya-abdul-mateen-ii-elegance-bratton"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1954 —",
-      "hook": "The People's Liberation Army begins shelling the Republic of China-controlled islands of Quemoy, starting the First Taiwan Strait Crisis.",
-      "body": "The People's Liberation Army (PLA) is the military wing of the Chinese Communist Party (CCP) and the primary armed forces of the People's Republic of China (PRC). The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/China_Emblem_PLA_shaded.svg/330px-China_Emblem_PLA_shaded.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/People's_Liberation_Army"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "A three-day celebration begins in China, following the Victory over Japan Day on September 2.",
-      "body": "Victory over Japan Day is the day on which Imperial Japan surrendered in World War II, in effect bringing the war to an end. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg/330px-Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Victory_over_Japan_Day"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "The Bayeux tapestry: a stupefying, thrilling, horrifying masterpiece that shakes the earth",
-      "body": "<p><strong>British Museum, London</strong><br>The greatest battle ever depicted in art is here at last – and it hurtles along, making your heart pound with its sense of doom and destiny, culminating in fires and corpses on a battlefield ful",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/2026/sep/03/the-bayeux-tapestry-british-museum-london"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The company was registered on 19 January 1994 under the legal name Oriģināli televīzijas raidījumi and broadcast in Latvian, Russian and English.",
-      "body": "Picca TV was a Latvian independent television channel, active from April 1994 to August 1996, when it merged with NTV-5 to form LNT. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Picca_TV"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1933 —",
-      "hook": "Yevgeniy Abalakov is the first man to reach the highest point in the Soviet Union, Communism Peak (now called Ismoil Somoni Peak and situated in Tajikistan) (7495 m).",
-      "body": "Yevgeniy Mikhaylovich Abalakov was a Soviet mountaineer and sculptor. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/EvgeniyAbalakov.jpg/330px-EvgeniyAbalakov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Yevgeniy_Abalakov"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
-      "body": "<p><strong>Venice film festival: </strong>Rooney and Kate Mara play the real-life Chaplin sisters who spoke in unsettling unison in this silly, pointless drama</p><p>Werner Herzog is such a unique film-maker that even a dud from him has som",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters"
+      "opener": "The Guardian · Film —",
+      "hook": "Nessun Dolore review – sketchy Roman fable of liberal white guilt",
+      "body": "<p><strong>Venice film festival</strong><br>A white man’s eyes are opened to cruelty and racism when a young boy is thrust into his life in Gianni Amelio’s bold but ultimately naive drama</p><p>From the heart of Rome, and broadly in an Ital",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/03/nessun-dolore-review-painless-gianni-amelio"
     },
     {
       "type": "card",
@@ -119,91 +97,13 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Southern Engine and Boiler Works founded in 1889, which made industrial engines and boilers in Jackson, Tennessee, established the factory in 1907.",
-      "body": "Marathon Motor Works was a brass era automobile manufacturer based in Tennessee. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Marathon_Motor_Works_1.jpg/330px-Marathon_Motor_Works_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marathon_Motor_Works"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1189 —",
-      "hook": "Richard I of England (a.k.a. Richard \"the Lionheart\") is crowned at Westminster.",
-      "body": "Richard I, known as Richard the Lionheart or Richard Cœur de Lion because of his reputation as a great military leader and warrior, was King of England from 1189 until his death in 1199. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg/330px-Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Richard_I_of_England"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The population was 19,565 at the 2020 census.",
-      "body": "Altoona is a city in Polk County, Iowa, United States, and part of the Des Moines metropolitan area. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Altoona_Tower_2_-_panoramio.jpg/330px-Altoona_Tower_2_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Altoona%2C_Iowa"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1971 —",
-      "hook": "Qatar becomes an independent state.",
-      "body": "Qatar, officially the State of Qatar, is a country in West Asia. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/330px-Flag_of_Qatar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Qatar"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Sustainable Energy Utility (SEU) is a community-based model of development founded on energy conservation and the use of renewables, seeking to permanently decrease the use of source materials, water, and energy.",
-      "body": "The model prescribes the creation of independent and financially self-sufficient non-profit entities for energy sustainability through conservation, efficiency, and end-user based decentralized renewable energy. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sustainable_Energy_Utility"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The 61st Field Artillery Regiment was a reserve unit of the Philippine Army, activated in August 1941 as part of the 61st Infantry Division based in Panay.",
-      "body": "It was originally organized to serve as an artillery unit during World War II. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_-_Army_Field_Artillery_Insignia.svg/330px-USA_-_Army_Field_Artillery_Insignia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/61st_Field_Artillery_Regiment_(Philippine_Army)"
-    },
-    {
-      "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "The Zamyad Yasht also known as the Kayan Yasn is the nineteenth hymn of the 21 Yashts and is dedicated to the veneration of Zam.",
-      "body": "It belongs to the Legendary Yashts and, with 96 stanzas, it is the fourth longest in the collection. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Darmesteter_Zamyad_Yasht_1.png/330px-Darmesteter_Zamyad_Yasht_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Deathwatch is an American 1972 novel written by Robb White.",
+      "body": "The book was awarded the 1973 Edgar Award for Best Juvenile Mystery from the Mystery Writers of America, and was an Outstanding Book of the Year by The New York Times. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/Deathwatch_%28Novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zamyad_Yasht"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Jive Bunny And The Mastermixers creator dies at 84",
-      "body": "Tributes are paid to John Pickles, who formed the novelty pop act in Rotherham in 1989.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cj9xe2rvpkvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Deathwatch_(novel)"
     }
   ]
 }
