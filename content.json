@@ -1,189 +1,119 @@
 {
-  "generated": "2026-09-03T06:32:59.610Z",
-  "count": 19,
+  "generated": "2026-09-03T11:46:30.334Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Venice day 2: Are high costs putting off the studios? - The Screen Podcast",
-      "body": "Plus, highlights from the jury, George Clooney and ‘Ink’ press conferences.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/venice-day-2-are-high-costs-putting-off-the-studios-the-screen-podcast/5219952.article"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Medaka Kuroiwa Is Impervious to My Charms is a Japanese manga series written and illustrated by Ran Kuze.",
+      "body": "The series began serialization in Kodansha's Weekly Shōnen Magazine in May 2021, with its chapters collected in 25 tankōbon volumes as of August 2026. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/10/Medaka_Kuroiwa_Is_Impervious_to_My_Charms_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Medaka_Kuroiwa_Is_Impervious_to_My_Charms"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Meier Helmbrecht is a 1928 play by the German writer Eugen Ortner.",
+      "body": "A historical tragedy set around 1250, it was first staged at the Munich Kammerspiele. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Meier_Helmbrecht_%28play%29.jpg/330px-Meier_Helmbrecht_%28play%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Meier_Helmbrecht_(play)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Mickey Zacchilli is an American comics artist and voice actor, currently known for portraying the character Little Destiny in the adult animated television series Adventure Time: Fionna and Cake.",
+      "body": "She has been nominated for three Ignatz Awards, including as an editor for Outstanding Anthology with Lovers Only in 2018, Outstanding Graphic Novel with RAV in 2015, and Outstanding Minicomic with RAV #6 in 2012. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mickey_Zacchilli"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Zmievskaya Balka is a site in Rostov-on-Don, Russia at which 27,000 Jews and other Soviet civilians were massacred from 1942 to 1943 by the SS Einsatzgruppe D during the Holocaust in Russia.",
+      "body": "It is considered to be the largest single mass killing site of Jews in the Russian SFSR during the Second World War. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%2C_%D0%B2%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C.jpg/330px-%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%2C_%D0%B2%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zmievskaya_Balka"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
-      "body": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
+      "hook": "'Beautiful, vibrant' Disney star Carla Jeffery dies at 33",
+      "body": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1987 —",
-      "hook": "In a coup d'état in Burundi, President Jean-Baptiste Bagaza is deposed by Major Pierre Buyoya.",
-      "body": "The 1987 Burundian coup d'état was a bloodless military coup that took place in Burundi on 3 September 1987. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burundi_in_its_region.svg/330px-Burundi_in_its_region.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1987_Burundian_coup_d'%C3%A9tat"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1989 —",
-      "hook": "Varig Flight 254 crashes in the Amazon rainforest near São José do Xingu in Brazil, killing 12.",
-      "body": "Varig Flight 254 was a scheduled domestic passenger flight from São Paulo, Brazil, to Belém, capital city of the state of Pará in the country's North Region. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Varig_Boeing_737-200_PP-VMK_mod.jpg/330px-Varig_Boeing_737-200_PP-VMK_mod.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Varig_Flight_254"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Lilith: A Romance is a fantasy novel by Scottish writer George MacDonald, first published in 1895.",
-      "body": "It was reprinted in paperback by Ballantine Books as the fifth volume of the Ballantine Adult Fantasy series in September 1969. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lilith_a_romance_by_George_MacDonald.jpg/330px-Lilith_a_romance_by_George_MacDonald.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lilith_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2010 —",
-      "hook": "After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board.",
-      "body": "Dubai International Airport is the primary international airport serving Dubai, United Arab Emirates, and is the world's busiest airport by international passenger traffic as of 2025. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DXB_word_mark.svg/330px-DXB_word_mark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport"
+      "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "How Victoria Beckham turned her fashion firm around and made it profitable",
-      "body": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "Gloria Steinem, groundbreaking feminist campaigner, dies aged 92",
+      "body": "<p>Famous for the 1963 exposé in which she worked as a Playboy Bunny, her books and journalism took on many varieties of discrimination</p><p>Gloria Steinem, the American feminist and journalist whose activism helped push through greater ri",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Lucas Chancel is a French economist.",
-      "body": "He is Codirector and Senior economist at the World Inequality Lab of the Paris School of Economics and teaches at Sciences Po. Bring it up somewhere. Watch the reaction.",
+      "opener": "File under 'wait, really?' —",
+      "hook": "A costotransverse ligament is ligament of the costotransverse joint which attaches at the neck of a rib, and at the transverse process of its corresponding vertebra.",
+      "body": "It extends posteriorly from the rib to the vertebra. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lucas_Chancel"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "James Chaloner (1602–1660) was an English politician on the Parliamentary side in the English Civil War, and commissioner at the trial of King Charles I.",
-      "body": "One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/James_Chaloner"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1783 —",
-      "hook": "American Revolutionary War: The war ends with the signing of the Treaty of Paris by the United States and the Kingdom of Great Britain.",
-      "body": "The Treaty of Paris, signed by representatives of King George III of Great Britain and representatives of the United States on September 3, 1783, officially ended the War of American Independence and recognized the Thirteen Colonies, which had been part of colonial British America, to be free, sovereign and independent unified states. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Treaty_of_Paris_%281783%29.jpg/330px-Treaty_of_Paris_%281783%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)"
+      "url": "https://en.wikipedia.org/wiki/Costotransverse_ligament"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Lomu review – fascinatingly nuanced tribute to rugby’s first superstar",
-      "body": "<p>His destructive pace and power changed the game for ever, but behind the fame and ineffable exterior of this gentle giant was a life of chaos and emotional discord</p><p>There’s an inevitable air of melancholy overhanging this profile of",
+      "hook": "Super Troopers 3 review – misfiring cop comedy threequel",
+      "body": "<p>The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence</p><p>Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/03/lomu-review-fascinatingly-nuanced-tribute-to-rugbys-first-superstar"
+      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Port Jackson Painter was one or more unknown watercolour artists working in Sydney, Australia, from 1788 through to the 1790s.",
-      "body": "The paintings are of plants, animals and life in Sydney. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Aboriginal_hunting_implements_and_weapons.jpg/330px-Aboriginal_hunting_implements_and_weapons.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Port_Jackson_Painter"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "A shipwreck is the wreckage of a ship that is either beached on land or sunken to the bottom of a body of water.",
-      "body": "It results from the event of shipwrecking, which may be intentional or unintentional. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg/330px-Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Shipwreck"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Sandra Huller to play Wolfgang Herrndorf in Maria Schrader’s ‘Work And Structure’",
+      "body": "Film is adapted from Herrndorf’s blog, published after his 2013 suicide.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/sandra-huller-to-play-wolfgang-herrndorf-in-maria-schraders-work-and-structure/5219970.article"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "The Bridge by Colm Tóibín review – betrayal and survival in the High Pyrenees",
-      "body": "<p>Deep sorrow mingles with illicit desire in this potent novella, the follow-up to a 2006 story about an isolated family in the Catalan mountains</p><p>Twenty years ago, Colm Tóibín published a steadily desolating novella set in the high v",
+      "hook": "The Great Dictator by Matthew Sweet review – the fabulous life of Barbara Cartland",
+      "body": "<p>A brilliant new biography that does its subject the favour of taking her seriously – even if few else did</p><p>Barbara Cartland was famous for dictating her novels. With a pekingese clamped to her hot pink bosom she would lie back on a ",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/02/the-bridge-by-colm-toibin-review-betrayal-and-survival-in-the-high-pyrenees"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1777 —",
-      "hook": "American Revolutionary War: During the Battle of Cooch's Bridge, the Flag of the United States is flown in battle for the first time.",
-      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Feminism for a World on Fire by Natasha Walter review – hope amid the hopelessness",
-      "body": "<p>A writer and activist links the climate crisis to battles for justice around the world in this vital book</p><p>It has become increasingly difficult to change our minds, to question our own views or to find common ground with people we d",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/aug/25/feminism-for-a-world-on-fire-by-natasha-walter-review-hope-amid-the-hopelessness"
+      "url": "https://www.theguardian.com/books/2026/aug/25/the-great-dictator-by-matthew-sweet-review-the-life-of-barbara-cartland"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Watch: From Star Wars to Banksy, the art is with you at new Lucas Museum",
-      "body": "The museum, founded Star Wars creator George Lucas and his wife, will feature more than 1,200 works of art.",
+      "hook": "Amelia Dimoldenberg to close doors of Chicken Shop Date",
+      "body": "Amelia Dimoldenberg announces she will end her popular YouTube series after more than a decade.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/videos/cg59d9dyn46o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c5ylg86gp4eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1967 —",
-      "hook": "Dagen H in Sweden: Traffic changes from driving on the left to driving on the right overnight.",
-      "body": "Dagen H (H-day), today usually called \"Högertrafikomläggningen\", was on 3 September 1967, the day on which Sweden switched from driving on the left-hand side of the road to the right. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dagen_H.svg/330px-Dagen_H.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dagen_H"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The first pressing of the album was packaged with a 3-D cover; it was later nominated for the Grammy Award for Best Recording Package at the 2012 ceremony.",
-      "body": "Chickenfoot III is the second studio album by American hard rock band Chickenfoot, released on September 27, 2011. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/Chickenfoot_iii_cover_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chickenfoot_III"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Ben Irving joins See-Saw Films as joint managing director",
+      "body": "He will replace Helen Gregory.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/ben-irving-joins-see-saw-films-as-joint-managing-director/5219961.article"
     }
   ]
 }
