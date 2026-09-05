@@ -1,15 +1,26 @@
 {
-  "generated": "2026-09-05T01:31:34.757Z",
-  "count": 11,
+  "generated": "2026-09-05T06:22:03.260Z",
+  "count": 24,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "cat": "history",
+      "opener": "On this day in 917 —",
+      "hook": "Liu Yan declares himself emperor, establishing the Southern Han state in southern China, at his capital of Panyu.",
+      "body": "Liu Yan, né Liu Yan (劉巖), also named Liu Zhi (劉陟) and briefly as Liu Gong (劉龔), also known by his temple name as the Emperor Gaozu of Southern Han (南漢高祖), was the first emperor of the Chinese Southern Han dynasty, one of the Ten Kingdoms during the Five Dynasties and Ten Kingdoms period. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Liu_Yan_(emperor)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Vianne is a 2025 novel by British author Joanne Harris.",
+      "body": "It is a prequel to her 1999 novel Chocolat, and is the fifth novel in the Chocolat series. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vianne_(novel)"
     },
     {
       "type": "card",
@@ -21,61 +32,72 @@
       "url": "https://www.theguardian.com/film/2026/sep/05/act-3-review-christine-molloy-joe-lawlor"
     },
     {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "body": "<p>Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed</p><p>Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Tall tales: the 20 best giants in film – ranked!",
-      "body": "<p>On the 300th anniversary of Gulliver’s Travels, we celebrate the biggest film stars of them all – from a stone colossus to a metal-munching alien and a 50ft woman on the rampage</p><p>Not a <a href=\"https://en.wikipedia.org/wiki/BFG_(wea",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/03/best-giants-in-film-ranked"
+      "opener": "BBC Entertainment —",
+      "hook": "Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show",
+      "body": "The US rapper rolled back the years for more than two hours at the first of his two shows in London.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Ada Aharoni is an Israeli poet, writer, lecturer, sociologist and peace researcher.",
+      "body": "She has published numerous books of peace poetry, historical novels, sociology, history, biography, drama, film-scripts, literary criticism, and children's books. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/AdaAharoni.jpg/330px-AdaAharoni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ada_Aharoni"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Solaris is a 2012 opera by Detlev Glanert to a libretto by Reinhard Palm, based on the novel by Stanislaw Lem.",
+      "body": "It was commissioned by and premiered at the Bregenz Festival and revived at Oper Köln in 2014. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Solaris_(opera)"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "15/18 A Place to Heal review – heartfelt docu-realist study of a French teen psychiatric facility",
-      "body": "<p><strong>Venice film festival</strong><br>Director Cédric Kahn combines compassion with coolly detailed forensic scrutiny in this genre-challenging film which puts a troubled love triangle at the centre of the story</p><p>Veteran French d",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/04/1518-a-place-to-heal-review-heartfelt-docu-realist-study-of-a-french-teen-psychiatric-facility"
+      "opener": "Screen Daily —",
+      "hook": "‘Elsinore’ review: Andrew Scott is triumphant as terminally ill Scottish actor Ian Charleson in poignant ’80s theatreland drama",
+      "body": "Simon Stone’s dramatisation of Charleson’s portrayal of Hamlet bows in Telluride before traveling to Toronto and London",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/reviews/elsinore-review-andrew-scott-is-triumphant-as-terminally-ill-scottish-actor-ian-charleson-in-poignant-80s-theatreland-drama/5220055.article"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "A Nice Girl Like Me is a 1969 British comedy film directed by Desmond Davis and starring Barbara Ferris and Harry Andrews.",
-      "body": "It was written by Millard Lampell, based on the 1959 novel Marry at Leisure by Anne Piper. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/89/A_Nice_Girl_Like_Me.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Nice_Girl_Like_Me"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Silver Spike is a spin-off novel from Glen Cook's The Black Company.",
-      "body": "The story combines elements of epic fantasy and dark fantasy as it follows two former members of The Black Company and the formerly renowned \"White Rose\" down their own path after parting ways with the company following the events at the conclusion of The Whit",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/7c/The_Silver_Spike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Silver_Spike"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Captain Salt in Oz (1936) is the thirtieth book in the Oz series created by L.",
-      "body": "Frank Baum and his successors, and the sixteenth written by Ruth Plumly Thompson. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Captain_salt_cover.jpg/330px-Captain_salt_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Captain_Salt_in_Oz"
+      "cat": "history",
+      "opener": "On this day in 1791 —",
+      "hook": "Olympe de Gouges writes the Declaration of the Rights of Woman and of the Female Citizen.",
+      "body": "Olympe de Gouges was a French playwright and political activist. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Olympe_de_Gouges.png/330px-Olympe_de_Gouges.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Olympe_de_Gouges"
     },
     {
       "type": "card",
@@ -89,21 +111,129 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Last Mistress is a 2007 French-Italian film based on the novel Une vieille maîtresse by the French writer Jules Barbey d'Aurevilly.",
-      "body": "It stars Asia Argento and Fu'ad Aït Aattou as the two main characters. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/Lastmistressposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Italian Shoes is a 2006 novel by Swedish writer Henning Mankell.",
+      "body": "The English translation is by Laurie Thompson and in contrast with Mankell's other well-known novels has been written in the first person. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0e/Italian_shoes_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Last_Mistress"
+      "url": "https://en.wikipedia.org/wiki/Italian_Shoes"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1984 —",
+      "hook": "Western Australia becomes the last Australian state to abolish capital punishment.",
+      "body": "Western Australia is the westernmost state of Australia. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_Western_Australia.svg/330px-Flag_of_Western_Australia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Western_Australia"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Viola Tricolor is an 1874 novella by the German writer Theodor Storm.",
+      "body": "It tells the story of a man who remarries after his wife has died, and how the new woman feels insufficient in her role as wife and mother to her step-daughter. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/RUB_6021_%28Leipzig%2C_1919%29_-_Storm%2C_Viola_tricolor%2C_Der_stille_Musikant.jpg/330px-RUB_6021_%28Leipzig%2C_1919%29_-_Storm%2C_Viola_tricolor%2C_Der_stille_Musikant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Viola_Tricolor_(novella)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1972 —",
+      "hook": "Munich massacre: A Palestinian terrorist group called \"Black September\" attacks and takes hostage 11 Israeli athletes at the Munich Olympic Games. Two die in the attack and nine are murdered the following day.",
+      "body": "The Munich massacre was a terrorist attack during the 1972 Summer Olympics in Munich, West Germany, carried out by eight members of the Palestinian militant organisation Black September. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Germany_Israel_Olympics_Attack.jpg/330px-Germany_Israel_Olympics_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Munich_massacre"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1812 —",
+      "hook": "War of 1812: The Siege of Fort Wayne begins when Chief Winamac's forces attack two soldiers returning from the fort's outhouses.",
+      "body": "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/War_of_1812_Montage.jpg/330px-War_of_1812_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/War_of_1812"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
+      "opener": "The Guardian · Film —",
+      "hook": "Tender Loving Care review – Mike Leigh’s tender and elusive study of love and mortality",
+      "body": "<p><strong>Telluride film festival<br></strong>Alice Bailey Johnson and Kate O’Flynn lead a complicated, quietly heartbreaking drama about friendship, ageing parents and the sadness of lives moving inexorably on</p><p>Mike Leigh’s new film ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/05/tender-loving-care-review-mike-leighs-tender-and-elusive-study-of-love-and-mortality"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The film score was released through Lakeshore Records on June 7, 2019.",
+      "body": "The Last Black Man in San Francisco (Original Motion Picture Soundtrack) is the film score composed by Emile Mosseri to the 2019 film The Last Black Man in San Francisco directed by Joe Talbot. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c8/The_Last_Black_Man_in_San_Francisco_%28soundtrack%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Last_Black_Man_in_San_Francisco_(soundtrack)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1945 —",
+      "hook": "Cold War: Igor Gouzenko, a Soviet Union embassy clerk, defects to Canada, exposing Soviet espionage in North America, signalling the beginning of the Cold War.",
+      "body": "The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cold_War"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "A Long Winter review – hope, desire and subversion in Andrew Haigh’s beautiful winter western",
+      "body": "<p><strong>Telluride film festival</strong><br>In a remote Colorado farmstead, a family with a mother gone missing finds a strange buoyancy and freedom as they wait for the snows to melt</p><p>Andrew Haigh’s mysterious and beautiful new fil",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/05/a-long-winter-review-andrew-haigh-ebon-moss-bachrach"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Tender Loving Care’ review: Mike Leigh turns his compassionate gaze on contemporary Londoners",
+      "body": "The veteran filmaker’s modestly scaled ensemble drama should connect with loyal admirers and discerning arthouse audiences",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/reviews/tender-loving-care-review-mike-leigh-turns-his-compassionate-gaze-on-contemporary-londoners/5219989.article"
     }
   ]
 }
