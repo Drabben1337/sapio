@@ -1,45 +1,131 @@
 {
-  "generated": "2026-09-05T13:38:13.224Z",
-  "count": 24,
+  "generated": "2026-09-05T16:18:52.015Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "\"Angel Baby\" is a song released in 1958 by Dean Martin.",
-      "body": "30 on the Billboard Hot 100, No. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Way of the Peaceful Warrior is a part-fictional, part-autobiographical book based on the early life of the author Dan Millman.",
+      "body": "The book has been a bestseller in many countries since its first publication in 1980. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/35/Way_of_the_Peaceful_Warrior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Angel_Baby_(Dean_Martin_song)"
+      "url": "https://en.wikipedia.org/wiki/Way_of_the_Peaceful_Warrior"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "George Clooney, Maggie Gyllenhaal warn of risks to film industry from AI",
-      "body": "Stars were among a raft of creatives and execs speaking at a Venice Film Festival symposium devoted to the technology.",
+      "hook": "Why Oasis film ‘Don’t Look Back In Anger’ had to be a doc: “No one could play Liam Gallagher”",
+      "body": "The Gallagher brothers skipped the Venice press conference for the film.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/george-clooney-maggie-gyllenhaal-warn-of-risks-to-film-industry-from-ai/5220050.article"
+      "url": "https://www.screendaily.com/news/why-oasis-film-dont-look-back-in-anger-had-to-be-a-doc-no-one-could-play-liam-gallagher/5220064.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1367 —",
-      "hook": "Swa Saw Ke becomes king of Ava",
-      "body": "Mingyi Swa Saw Ke was king of Ava from 1367 to 1400. Worth a quiet trip down the rabbit hole.",
+      "opener": "On this day in 1960 —",
+      "hook": "Muhammad Ali (then known as Cassius Clay) wins the gold medal in the light heavyweight boxing competition at the Olympic Games in Rome.",
+      "body": "Muhammad Ali was an American professional boxer and activist. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/330px-Muhammad_Ali_NYWTS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Muhammad_Ali"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Aro Ekjan is a Bengali-language action drama film directed by Srijan based on the same name novel of Ashutosh Mukhopadhyay.",
+      "body": "The film was released on 4 April 1980 under the banner of Baba Taraknath Chitramandir. Bring it up somewhere. Watch the reaction.",
       "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Swa_Saw_Ke"
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aro_Ekjan"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1932 —",
-      "hook": "The French Upper Volta is broken apart between Ivory Coast, French Sudan, and Niger.",
-      "body": "Upper Volta was a colony of French West Africa established in 1919 in the territory occupied by present-day Burkina Faso. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1725 —",
+      "hook": "Wedding of Louis XV and Maria Leszczyńska.",
+      "body": "Louis XV, known as Louis the Beloved, was King of France from 1 September 1715 until his death in 1774. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Louis_XV%2C_King_of_France_%281710-1774%29_edited_2.jpg/330px-Louis_XV%2C_King_of_France_%281710-1774%29_edited_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/French_Upper_Volta"
+      "url": "https://en.wikipedia.org/wiki/Louis_XV"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Fermat&#8217;s last theorem formalised by AI agents in just 11 days",
+      "body": "Converting the proof of Fermat's last theorem into code that computers can check was expected to take years. Anthropic's Claude AI managed it in less than two weeks",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1697 —",
+      "hook": "War of the Grand Alliance: A French warship commanded by Captain Pierre Le Moyne d'Iberville defeats an English squadron at the Battle of Hudson's Bay.",
+      "body": "The Nine Years' War was a European great power conflict from 1688 to 1697 between France and the Grand Alliance. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Collage_Nine_Years%27_War.jpg/330px-Collage_Nine_Years%27_War.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Nine_Years'_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Rebecca is a 1938 Gothic novel by the English author Daphne du Maurier.",
+      "body": "It depicts an unnamed young woman who impetuously marries a wealthy widower, before discovering that both he and his household are haunted by the memory of his late first wife, the title character. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rebecca-FE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rebecca_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Deep River is a 1995 Japanese drama film directed by Kei Kumai.",
+      "body": "It is based on the novel of the same name by Shūsaku Endō. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/B5-deepriver.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deep_River_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Robert Pattinson responds to Chris Hansen’s criticisms of Lance Oppenheim’s ‘Primetime’",
+      "body": "“Chris Hansen is a character you can’t help but imitate,” said Pattinson in Venice.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/robert-pattinson-responds-to-chris-hansens-criticisms-of-lance-oppenheims-primetime/5220062.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1698 —",
+      "hook": "In an effort to Westernize his nobility, Tsar Peter I of Russia imposes a tax on beards for all men except the clergy and peasantry.",
+      "body": "Tsar ( ) is a Slavic title derived from the Latin word caesar, which was intended to mean \"emperor\" in the European medieval sense of the term—a ruler with the same rank as a Roman emperor, holding it by the approval of another emperor or a supreme ecclesiastical official—but was usually considered by Western Europeans to be equivalent to \"king\". One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Car_Simeon_Bulharsky_-_Alfons_Mucha.jpg/330px-Car_Simeon_Bulharsky_-_Alfons_Mucha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Tsar"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Primetime’ review: Robert Pattinson is ‘To Catch A Predator’ host Chris Hansen in visually striking, dramatically contrived thriller",
+      "body": "Merritt Wever is also memorable in Lance Oppenheim’s feature debut, which bows in Venice competition",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/reviews/primetime-review-robert-pattinson-is-to-catch-a-predator-host-chris-hansen-in-visually-striking-dramatically-contrived-thriller/5220065.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
     },
     {
       "type": "card",
@@ -53,40 +139,12 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Groombridge 1618 is a star in the northern constellation Ursa Major.",
-      "body": "With an apparent visual magnitude of +6.6, it lies at or below the threshold of stars visible to the naked eye for an average observer. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Groombridge_1618"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
       "opener": "Bet you didn't know —",
-      "hook": "Flarks typically occur as a series of parallel depressions, separated by intervening ridges known as strings.",
-      "body": "A flark is a depression or hollow within a bog. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Day744_02.jpg/330px-Day744_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "A Certain Justice is a detective novel by British writer P.",
+      "body": "James, published in 1997 by Faber & Faber in the UK and by Alfred A. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/ACertainJustice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Flark"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "A Long Winter review – hope, desire and subversion in Andrew Haigh’s beautiful winter western",
-      "body": "<p><strong>Telluride film festival</strong><br>In a remote Colorado farmstead, a family with a mother gone missing finds a strange buoyancy and freedom as they wait for the snows to melt</p><p>Andrew Haigh’s mysterious and beautiful new fil",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/05/a-long-winter-review-andrew-haigh-ebon-moss-bachrach"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tender Loving Care review – Mike Leigh’s tender and elusive study of love and mortality",
-      "body": "<p><strong>Telluride film festival<br></strong>Alice Bailey Johnson and Kate O’Flynn lead a complicated, quietly heartbreaking drama about friendship, ageing parents and the sadness of lives moving inexorably on</p><p>Mike Leigh’s new film ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/05/tender-loving-care-review-mike-leighs-tender-and-elusive-study-of-love-and-mortality"
+      "url": "https://en.wikipedia.org/wiki/A_Certain_Justice"
     },
     {
       "type": "card",
@@ -100,140 +158,22 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The game combines elements of role-playing video games and virtual pet management.",
-      "body": "Jade Cocoon: Story of the Tamamayu is a role-playing video game developed by Genki exclusively for PlayStation. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Jade_Cocoon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jade_Cocoon%3A_Story_of_the_Tamamayu"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Soil contamination, soil pollution, or land pollution as a part of land degradation is caused by the presence of xenobiotic (human-made) chemicals or other alteration in the natural soil environment.",
-      "body": "It is typically caused by industrial activity, agricultural chemicals or improper disposal of waste. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Soilcontam.JPG/330px-Soilcontam.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Soil_contamination"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "He debuted in the title role of the film Everybody's Talking About Jamie (2021), an adaptation of the stage musical based on a true story.",
-      "body": "Max William James Harwood is an English actor. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Max_Harwood"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1915 —",
-      "hook": "The pacifist Zimmerwald Conference begins.",
-      "body": "The Zimmerwald Conference, held in Zimmerwald, Switzerland, from September 5 to 8, 1915, was the first of three international conferences convened by anti-militarist socialists in response to the outbreak of World War I and the resulting virtual collapse of the Second International. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Zimmerwald_1864.jpg/330px-Zimmerwald_1864.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1978 —",
+      "hook": "Camp David Accords: Menachem Begin and Anwar Sadat begin peace discussions at Camp David, Maryland.",
+      "body": "The Camp David Accords were a pair of political agreements signed by Egyptian president Anwar Sadat and Israeli prime minister Menachem Begin on 17 September 1978, following twelve days of secret negotiations at Camp David, the country retreat of the president of the United States in Maryland. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif/lossy-page1-330px-Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Zimmerwald_Conference"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Lieutenant-General Sir Henry D'Oyley Torrens was a British Army officer and colonial governor.",
-      "body": "He was born in Meerut, India, the son of Henry Whitelock Torrens and Eliza Mary Roberts and died in London. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Felice_Beato_%28British%2C_born_Italy%29_-_%28Lieutenant-Colonel_Torrens%29_-_Google_Art_Project.jpg/330px-Felice_Beato_%28British%2C_born_Italy%29_-_%28Lieutenant-Colonel_Torrens%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Henry_Torrens_(British_Army_officer%2C_born_1833)"
+      "url": "https://en.wikipedia.org/wiki/Camp_David_Accords"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1986 —",
-      "hook": "Pan Am Flight 73 from Mumbai, India with 358 people on board is hijacked at Karachi International Airport.",
-      "body": "Pan Am Flight 73 was a Pan American World Airways flight from Mumbai, India, to New York City, United States, with scheduled stops in Karachi, Pakistan, and Frankfurt, West Germany. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/N656PA_Boeing_747-121%2C_Miami_International%2C_1983.jpg/330px-N656PA_Boeing_747-121%2C_Miami_International%2C_1983.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1969 —",
+      "hook": "Mỹ Lai Massacre: U.S. Army Lieutenant William Calley is charged with six specifications of premeditated murder for the death of 109 Vietnamese civilians in My Lai.",
+      "body": "The My Lai Massacre was a U.S. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/My_Lai_massacre.jpg/330px-My_Lai_massacre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pan_Am_Flight_73"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "He is best known for playing with the Cuba national baseball team at the 1950 Amateur World Series in Caracas, where he was named the tournament's most valuable player.",
-      "body": "Juan Izaguirre was a Cuban baseball player. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Juan_Izaguirre.jpg/330px-Juan_Izaguirre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Juan_Izaguirre"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Fermat&#8217;s last theorem formalised by AI agents in just 11 days",
-      "body": "Converting the proof of Fermat's last theorem into code that computers can check was expected to take years. Anthropic's Claude AI managed it in less than two weeks",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Jean-Hilaire Aubame was a Gabonese politician active during both the colonial and independence periods.",
-      "body": "The French journalist Pierre Péan said that Aubame's training \"as a practicing Catholic and a customs official helped to make him an integrated man, one of whom political power was not an end in itself.\" The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aubame.jpg/330px-Aubame.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jean-Hilaire_Aubame"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Rendon Labador is a Filipino social media personality known for talking about public figures and sharing his opinions on different issues in the Philippines online.",
-      "body": "He became well-known after a meme he made, called \"Motivational Rice\" went viral online. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rendon_Labador_at_Camp_Crame%2C_Quezon_City.jpg/330px-Rendon_Labador_at_Camp_Crame%2C_Quezon_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rendon_Labador"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "He appeared in such films as Akira Kurosawa's Seven Samurai, The Lower Depths and Ikiru.",
-      "body": "Bokuzen Hidari was a Japanese actor and comedian born in Kotesashi Village, Iruma District, Saitama Prefecture, Japan. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bokuzen_Hidari.jpg/330px-Bokuzen_Hidari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bokuzen_Hidari"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2012 —",
-      "hook": "An accidental explosion at a Turkish Army ammunition store in Afyon, western Turkey kills 25 soldiers and wounds four others.",
-      "body": "The 2012 Afyonkarahisar arsenal explosion occurred at 21:15 local time on 5 September 2012 in Afyonkarahisar, Turkey. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Latrans-Turkey_location_Afyonkarahisar.svg/330px-Latrans-Turkey_location_Afyonkarahisar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2012_Afyonkarahisar_arsenal_explosion"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1980 —",
-      "hook": "The Gotthard Road Tunnel opens in Switzerland as the world's longest highway tunnel at 16.9 kilometres (10.5 mi) stretching from Göschenen to Airolo.",
-      "body": "The Gotthard Road Tunnel in Switzerland runs from Göschenen in the canton of Uri at its northern portal, to Airolo in Ticino to the south, and is 16.9 kilometres (10.5 mi) in length below the St Gotthard Pass, a major pass of the Alps. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gotthard_Road_Tunnel_Switzerland.jpg/330px-Gotthard_Road_Tunnel_Switzerland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Gotthard_Road_Tunnel"
+      "url": "https://en.wikipedia.org/wiki/My_Lai_massacre"
     }
   ]
 }
