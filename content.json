@@ -1,119 +1,219 @@
 {
-  "generated": "2026-09-06T09:44:28.531Z",
-  "count": 12,
+  "generated": "2026-09-06T13:13:10.209Z",
+  "count": 22,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Issoudun is a commune in the Indre department, administrative region of Centre-Val de Loire, France.",
-      "body": "It is also referred to as Issoundun, which is the ancient name. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Issoudun_tour_blanche.jpg/330px-Issoudun_tour_blanche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "Jerusalem is a novel by English author Alan Moore, almost wholly set in and around the author's home town of Northampton, England.",
+      "body": "Combining elements of historical and supernatural fiction and drawing on a range of writing styles, the author describes it as a work of \"genetic mythology\". The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/be/Cover_for_Jerusalem_%282016_novel%29_by_Alan_Moore.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Issoudun"
+      "url": "https://en.wikipedia.org/wiki/Jerusalem_(Moore_novel)"
+    },
+    {
+      "type": "card",
+      "cat": "science",
+      "opener": "File under 'wait, really?' —",
+      "hook": "At this stage, the robot is equipped for search operations only, defined as the tele-operated detection of victims, using specific sensors, whose information is transmitted to the remote operator.",
+      "body": "RAPOSA is a robot for Search and Rescue (SAR) operations, designed to operate in outdoors hazardous environments, such as debris resulting from structure collapses. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RAPOSA"
+    },
+    {
+      "type": "card",
+      "cat": "science",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Essay d'analyse sur les jeux de hazard is a book on combinatorics and mathematical probability written by Pierre Remond de Montmort published in 1708 with an expanded second edition in 1713.",
+      "body": "It was the first comprehensive text published on probability theory. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Essay_d'analyse_sur_les_jeux_de_hazard"
+    },
+    {
+      "type": "card",
+      "cat": "science",
+      "opener": "Bet you didn't know —",
+      "hook": "Many of the salts containing phosphirenium ions have been isolated and characterized by NMR spectroscopy and X-ray crystallography.",
+      "body": "Phosphirenium ions are a series of organophosphorus compounds containing unsaturated three-membered ring phosphorus (V) heterocycles and σ*-aromaticity is believed to be present in such molecules. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Phosphirenium10x.svg/330px-Phosphirenium10x.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phosphirenium_ion"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Problema bulenta, the rare skipper, is a butterfly of the family Hesperiidae.",
-      "body": "It is hard to find within the United States. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Problema_bulenta_2192002.jpg/330px-Problema_bulenta_2192002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Ahmed Vall Ould Dine is a Mauritanian journalist, writer and novelist.",
+      "body": "He has worked for Al Jazeera Media Network as a correspondent, journalist, editor and programme presenter, and has published fiction, biography and journalistic nonfiction. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Problema_bulenta"
+      "url": "https://en.wikipedia.org/wiki/Ahmed_Vall_Ould_Dine"
+    },
+    {
+      "type": "card",
+      "cat": "science",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Specifically, the perceived linear size of an object increases as its perceived distance from the observer increases.",
+      "body": "Emmert's law states that objects that generate retinal images of the same size will look different in physical size if they appear to be located at different distances. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Emmert's_law"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Death Ship is a novel by the pseudonymous author known as B.",
+      "body": "Originally published in German in 1926, and in English in 1934, it was Traven's first major success and is still the author's second best known work after The Treasure of the Sierra Madre. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/99/TheDeathShip.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Death_Ship"
+    },
+    {
+      "type": "card",
+      "cat": "food",
+      "opener": "You probably never noticed this —",
+      "hook": "His songs \"Silence\", \"Wolves\", \"Friends\", \"Happier\", and \"Alone\" have each received multi-platinum certifications in several countries, and peaked within the top 40 of the Billboard Hot 100.",
+      "body": "Christopher Comstock, known professionally as Marshmello and formerly as Dotcom, is an American DJ and record producer. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2016_Open_Beatz_-_Marshmello_-_by_2eight_-DSC_4448.jpg/330px-2016_Open_Beatz_-_Marshmello_-_by_2eight_-DSC_4448.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marshmello"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Venice day 5: Which Italian films could make a splash? - The Screen Podcast",
-      "body": "Plus, Oasis, Robert Pattinson and Nanni Moretti stop by the festival.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/venice-day-5-which-italian-films-could-make-a-splash-the-screen-podcast/5220067.article"
+      "opener": "The Guardian · Film —",
+      "hook": "French thriller Jupiter brings nuclear anxiety to red carpets of Venice",
+      "body": "<p>Director Alexandre Smia says film about Russia detonating nuclear warhead – and US refusing to respond – is not unrealistic</p><p>Russia has detonated a nuclear warhead over the Black Sea to underline its desire to revenge an assassinati",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/06/jupiter-alexandre-smia-nato-disintegration-russia-ire-far-right"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Boy band star swaps stage for racecourse",
-      "body": "JJ Hamblett is taking part in a charity horse race at Doncaster Racecourse on 11 September.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c0465l1g6zno?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "Espionage, true crime and war: Baillie Gifford longlist revealed",
+      "body": "<p>Patrick Radden Keefe, Ben Macintyre and the Guardian’s Charlotte Higgins are among the 13 authors selected for the nonfiction award</p><p>The Guardian’s chief culture writer Charlotte Higgins joins American investigative journalist Patri",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/03/espionage-true-and-war-baillie-gifford-longlist-revealed"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "The Grand Tour's new presenters: 'I hope we prove the critics wrong'",
-      "body": "A new trio has taken the wheel of the motoring TV show from Jeremy Clarkson, Richard Hammond and James May.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c9865dyrjrwo?at_medium=RSS&at_campaign=rss"
+      "cat": "food",
+      "opener": "You probably never noticed this —",
+      "hook": "The sour preserved lemon peel and other sour preserved ingredients used are a common feature of the cooking of the Zhuang minority who live in Guangxi.",
+      "body": "Lemon duck or ningmeng ya is a specialty dish of the Wuming district, Nanning, Guangxi. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Guangxi_lemon_duck_on_Z5_%2820160323175957%29.jpg/330px-Guangxi_lemon_duck_on_Z5_%2820160323175957%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lemon_duck"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "body": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
+      "cat": "science",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Developed over the 19th to 20th centuries, punched cards were widely used for data processing, the control of automated machines, and computing.",
+      "body": "A punched card is a stiff paper-based medium used to store digital information via the presence or absence of holes in predefined positions. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2punchCards-square.jpg/330px-2punchCards-square.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Punched_card"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The Locomotive Publishing Company was an English publishing house, specialising in railway topics.",
-      "body": "It was noted for publishing Locomotive Magazine, amongst many other highly regarded titles. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/GWR_4038_on_Cornish_Riviera_Express.jpg/330px-GWR_4038_on_Cornish_Riviera_Express.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Wandmaker of the Ruined World is a Japanese light novel series written by Hagane Kurodome and illustrated by Kayahara.",
+      "body": "It was originally serialized as a web novel on Shōsetsuka ni Narō from October 2024 to September 2025. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2a/Wandmaker_of_the_Ruined_World_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Locomotive_Publishing_Company"
+      "url": "https://en.wikipedia.org/wiki/Wandmaker_of_the_Ruined_World"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Why Munya Chawawa is 'jumping ship' from socials to Shakespeare",
-      "body": "The comedian is making his stage acting debut and says he wants to move away from social content.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ce3r02z3dxno?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Culture —",
+      "hook": "A remarkable documentary made by blind students: ‘We were stunned by the footage’",
+      "body": "<p>In Brailled It, the tension and stakes of the annual Braille Challenge are brought to the screen by three of the competitors</p><p>For the past 26 years, about 22,000 blind and visually impaired schoolchildren from around the world have ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/04/brailled-it-blind-documentary"
+    },
+    {
+      "type": "card",
+      "cat": "food",
+      "opener": "Bet you didn't know —",
+      "hook": "A kosher restaurant or kosher deli is an establishment that serves food that complies with Jewish dietary laws (kashrut).",
+      "body": "These businesses, which also include diners, cafés, pizzerias, fast food, and cafeterias, and are frequently in listings together with kosher bakeries, butchers, caterers, and other similar places, differ from kosher-style businesses in that they operate under",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bloom%27s_restaurant_Edgware.JPG/330px-Bloom%27s_restaurant_Edgware.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kosher_restaurant"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Sidney Raymond Eudy was an American professional wrestler, best known for his tenures in World Championship Wrestling (WCW) and the World Wrestling Federation (WWF) under the ring names Sid Justice, Sid Vicious, and Sycho Sid.",
-      "body": "He was a two-time WWF Champion and two-time WCW World Heavyweight Champion. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sycho_Sid_point.jpg/330px-Sycho_Sid_point.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Barry Lyndon is a 1975 epic historical drama film written, directed, and produced by Stanley Kubrick, based on the 1844 novel The Luck of Barry Lyndon by William Makepeace Thackeray.",
+      "body": "Narrated by Michael Hordern, and starring Ryan O'Neal, Marisa Berenson, Patrick Magee, Leonard Rossiter, and Hardy Krüger, the film recounts the early exploits and later unravelling of an 18th-century Irish rogue and gold digger who marries a rich widow in ord",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ee/Barry_Lyndon_A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sid_Eudy"
+      "url": "https://en.wikipedia.org/wiki/Barry_Lyndon"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Natalie Imbruglia on her worst audition: 'I remember feeling icky'",
-      "body": "The pop star talks about new music, stage fright, conspiracy theories and awkward auditions.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c87vpg1yvxzo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Culture —",
+      "hook": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
+      "body": "<p>James Gunn and Peter Safran’s regime had good reasons to ditch Ben Affleck’s Batman and Henry Cavill’s Superman. Other choices have been much harder to fathom</p><p>There was never going to be a completely painless way to break up the ol",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/04/gal-gadot-wonder-woman-was-one-of-dcs-few-successes-its-a-mystery-why-she-got-the-chop"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "It is named for King Henry VIII of England who, between around 1527 to 1547, took a series of measures to take matrimonial, political and spiritual authority away from the Pope and Catholic bishops in favour of himself.",
+      "body": "The Henrician Reformation was the first phase of the English Reformation. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Henry_VIII_%281%29_by_Hans_Holbein_the_Younger.jpg/330px-Henry_VIII_%281%29_by_Hans_Holbein_the_Younger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henrician_Reformation"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "The next James Bond: The (00)7 questions fans want answered",
-      "body": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Culture —",
+      "hook": "‘If you can’t understand what sex is, it’s irrelevant if you seem to be enjoying it’: how Queen at Sea upended the dementia drama",
+      "body": "<p>Lance Hammer’s first film in 18 years is a heart-wrenching masterpiece about family, mental decline and sexual consent. He and supporting actor Juliette Binoche discuss how they brought unabashed realism to a condition rarely seen on scr",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/04/if-you-cant-understand-what-sex-is-its-irrelevant-if-you-seem-to-be-enjoying-it-how-queen-at-sea-upended-the-dementia-drama"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Ana Kraš is a Serbian furniture designer, photographer and fashion designer who is based in Paris, France.",
-      "body": "She has gained recognition for her Bonbon Lamps and for her photography for the Copenhagen Fashion Week sets, as well as for swimwear. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ana_Kras_in_Derby.jpg/330px-Ana_Kras_in_Derby.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best recent poetry – review roundup",
+      "body": "<p>Fetch by Colin Bramwell; Girling by Eve Esfandiari-Denney; The Dead One, The Unconscious One, Thundering in Your Ear, Thriving Slumber by Jay Gao; Belling the Leopard by Clementine Ewokolo Burnley; The Matter by Padraig Regan</p><p><stro",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/04/the-best-recent-poetry-review-roundup"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Kevin Powers: ‘I was ready to abandon Infinite Jest a thousand times’",
+      "body": "<p>The American author on falling in love with The Great Gatsby, being inspired by Dylan Thomas – and the memoir of a canoe trip in Texas he comes back to</p><p><strong>My earliest reading memory<br></strong>The deaths of Old Dan and Little",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/04/kevin-powers-i-was-ready-to-abandon-infinite-jest-a-thousand-times"
+    },
+    {
+      "type": "card",
+      "cat": "food",
+      "opener": "File under 'wait, really?' —",
+      "hook": "An individual who engages in this activity is referred to as a bodybuilder.",
+      "body": "Bodybuilding is the practice of progressive resistance exercise to build, control, and develop one's muscles via hypertrophy. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Arnold_Schwarzenegger_1974.jpg/330px-Arnold_Schwarzenegger_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ana_Kra%C5%A1"
+      "url": "https://en.wikipedia.org/wiki/Bodybuilding"
     }
   ]
 }
