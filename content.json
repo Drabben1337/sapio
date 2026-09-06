@@ -1,199 +1,119 @@
 {
-  "generated": "2026-09-06T05:11:52.454Z",
-  "count": 20,
+  "generated": "2026-09-06T09:44:28.531Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Devil-May-Care is a novel of romantic suspense published by Elizabeth Peters in 1977.",
-      "body": "It has been re-released several times and recorded on audio CD by Grace Conlen. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/Devil_May_Care_%28Peters_novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Issoudun is a commune in the Indre department, administrative region of Centre-Val de Loire, France.",
+      "body": "It is also referred to as Issoundun, which is the ancient name. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Issoudun_tour_blanche.jpg/330px-Issoudun_tour_blanche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Devil_May_Care_(Peters_novel)"
+      "url": "https://en.wikipedia.org/wiki/Issoudun"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Problema bulenta, the rare skipper, is a butterfly of the family Hesperiidae.",
+      "body": "It is hard to find within the United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Problema_bulenta_2192002.jpg/330px-Problema_bulenta_2192002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Problema_bulenta"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Robert Pattinson says he had ‘twice as much time’ after birth of first child",
-      "body": "<p>Actor says of busy 2026 in which he has had several big roles: ‘Once you start spinning plates, it gets quite addictive’</p><p>Robert Pattinson has talked about the “addictive” nature of working on several films simultaneously, having st",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/05/robert-pattinson-venice-film-festival-primetime-odyssey-dune"
+      "opener": "Screen Daily —",
+      "hook": "Venice day 5: Which Italian films could make a splash? - The Screen Podcast",
+      "body": "Plus, Oasis, Robert Pattinson and Nanni Moretti stop by the festival.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/venice-day-5-which-italian-films-could-make-a-splash-the-screen-podcast/5220067.article"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1983 —",
-      "hook": "The Soviet Union admits to shooting down Korean Air Lines Flight 007, stating that its operatives did not know that it was a civilian aircraft when it reportedly violated Soviet airspace.",
-      "body": "The Soviet Union, officially the Union of Soviet Socialist Republics (USSR), was a transcontinental country that spanned much of Eurasia from its formation in 1922 until its dissolution in 1991. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Soviet_Union"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Boy band star swaps stage for racecourse",
+      "body": "JJ Hamblett is taking part in a charity horse race at Doncaster Racecourse on 11 September.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c0465l1g6zno?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1952 —",
-      "hook": "A prototype aircraft crashes at the Farnborough Airshow in Hampshire, England, killing 29 spectators and the two on board.",
-      "body": "On 6 September 1952, a prototype de Havilland DH.110 jet fighter crashed during an aerial display at the Farnborough Airshow in Hampshire, England. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/De_Havilland_DH.110_WG236_in_flight_c1952.jpg/330px-De_Havilland_DH.110_WG236_in_flight_c1952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Farnborough_Airshow_crash"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "The Grand Tour's new presenters: 'I hope we prove the critics wrong'",
+      "body": "A new trio has taken the wheel of the motoring TV show from Jeremy Clarkson, Richard Hammond and James May.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c9865dyrjrwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "body": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Locomotive Publishing Company was an English publishing house, specialising in railway topics.",
+      "body": "It was noted for publishing Locomotive Magazine, amongst many other highly regarded titles. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/GWR_4038_on_Cornish_Riviera_Express.jpg/330px-GWR_4038_on_Cornish_Riviera_Express.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Locomotive_Publishing_Company"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Why Munya Chawawa is 'jumping ship' from socials to Shakespeare",
+      "body": "The comedian is making his stage acting debut and says he wants to move away from social content.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ce3r02z3dxno?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Roswolsky's Mistress is a 1921 German silent drama film directed by Felix Basch and starring Asta Nielsen, Paul Wegener, and Wilhelm Diegelmann.",
-      "body": "It was based on a novel by George Froeschel. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "Sidney Raymond Eudy was an American professional wrestler, best known for his tenures in World Championship Wrestling (WCW) and the World Wrestling Federation (WWF) under the ring names Sid Justice, Sid Vicious, and Sycho Sid.",
+      "body": "He was a two-time WWF Champion and two-time WCW World Heavyweight Champion. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sycho_Sid_point.jpg/330px-Sycho_Sid_point.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Roswolsky's_Mistress"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2022 —",
-      "hook": "Russo-Ukrainian war: Ukraine begins its Kharkiv counteroffensive, surprising Russian forces and retaking over 3,000 square kilometers of land, recapturing the entire Kharkiv Oblast west of the Oskil River, within the next week.",
-      "body": "The Russo-Ukrainian war began in February 2014 and is ongoing. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1628 —",
-      "hook": "Puritans settle Salem, which became part of Massachusetts Bay Colony.",
-      "body": "The Puritans were English Protestants in the 16th and 17th centuries who sought to rid the Church of England of what they considered to be Roman Catholic practices, maintaining that the Church of England had not been fully reformed and should become more Protestant. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Puritans"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Oasis: Don’t Look Back In Anger’ review: Sentimental doc about UK band’s reunion plays best when it focuses on the music",
-      "body": "Directors Dylan Southern and Will Lovelace chart Oasis’s 2025 tour in Venice out of competition title",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/oasis-dont-look-back-in-anger-review-sentimental-doc-about-uk-bands-reunion-plays-best-when-it-focuses-on-the-music/5220060.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Wall Around a Star is a science fiction novel by American writers Frederik Pohl and Jack Williamson, the second book of the Saga of Cuckoo series, following Farthest Star.",
-      "body": "The book was published by Del Rey Books on January 12, 1983, with cover art by David Mattingly. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f5/WallAroundAStar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wall_Around_a_Star"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The manuscript is named after the Franciscan monastery in Fojnica where it was kept.",
-      "body": "Fojnica Armorial is a prominent Illyrian armorial of South Slavic heraldic symbols, which contains mainly fictional medieval coats of arms, among which there can be found several actual coats of arms. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fojnicki_grbovnik_combined_coa.jpg/330px-Fojnicki_grbovnik_combined_coa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fojnica_Armorial"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1962 —",
-      "hook": "The United States government begins the Exercise Spade Fork nuclear readiness drill.",
-      "body": "Federal Emergency Plan D-Minus was a plan developed by the United States in the 1950s to guide the federal government in the immediate aftermath of a catastrophic nuclear attack. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Federal_Emergency_Plan_D-Minus"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "It was soon succeeded by the P-120 Malakhit (SS-N-9 'Siren').",
-      "body": "The P-70 Ametist was an anti-ship missile carried by Soviet and Indian Project 670 submarines, as well as the Soviet Project 661 Anchar. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Old_military_hardware_at_Museum_of_Vladivostok_Fortress_12.jpg/330px-Old_military_hardware_at_Museum_of_Vladivostok_Fortress_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/P-70_Ametist"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Oasis: Don’t Look Back in Anger review – mammoth tour movie brings the joy and poignancy of reunion",
-      "body": "<p>The Gallagher brothers’ comeback concerts are given the full fan-worship treatment, but it’s impossible to begrudge the euphoria they have created</p><p>“Hello … hello … It’s good to be back.” With these words – and the unfortunate possi",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "BepiColombo’s Mercury arrival begins - full replay",
-      "body": "Video: 02:31:10 Watch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury. After travelling through the inner Solar System together for ",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Legend of the Galactic Heroes is a 2008 Japanese real-time tactical simulation game for Microsoft Windows.",
-      "body": "It was developed by MicroVision and published by Namco Bandai Games. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/17/Legend_of_the_Galactic_Heroes_2008_game_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes_(2008_video_game)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘It Will Happen Tonight’ review: Nanni Moretti’s latest is unashamedly melodramatic Italian romance",
-      "body": "Louis Garrel and Jasmine Trinca star in the director’s sprawling drama which premieres in Venice competition",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/it-will-happen-tonight-review-nanni-morettis-latest-is-unashamedly-melodramatic-italian-romance/5220068.article"
+      "url": "https://en.wikipedia.org/wiki/Sid_Eudy"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Russell Howard 'devastated' after his baby son died shortly after birth",
-      "body": "The comedian says his son Felix died earlier this year shortly after his wife Cerys had given birth.",
+      "hook": "Natalie Imbruglia on her worst audition: 'I remember feeling icky'",
+      "body": "The pop star talks about new music, stage fright, conspiracy theories and awkward auditions.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cg491g7rnqqo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c87vpg1yvxzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Man About the House star Richard O'Sullivan dies aged 82",
-      "body": "His biggest roles included Robin Tripp in 70s TV sitcoms Man About the House and Robin's Nest.",
+      "hook": "The next James Bond: The (00)7 questions fans want answered",
+      "body": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ce8eg2nnxz0o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Münsters fall, also released as Van Veeteren – Münsters fall, is a 2005 Swedish crime thriller film directed by Rickard Petrelius.",
-      "body": "It is based on Håkan Nesser's novel Münsters fall, part of the Inspector Van Veeteren series, and stars Sven Wollter, Thomas Hanzon and Eva Rexed. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c6/M%C3%BCnsters_fall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Ana Kraš is a Serbian furniture designer, photographer and fashion designer who is based in Paris, France.",
+      "body": "She has gained recognition for her Bonbon Lamps and for her photography for the Copenhagen Fashion Week sets, as well as for swimwear. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ana_Kras_in_Derby.jpg/330px-Ana_Kras_in_Derby.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/M%C3%BCnsters_fall"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1885 —",
-      "hook": "Eastern Rumelia declares its union with Bulgaria, thus accomplishing Bulgarian unification.",
-      "body": "Eastern Rumelia was an autonomous province of the Ottoman Empire with a total area of 32,978 km2 (12,733 sq mi), which was created in 1878 by virtue of the Treaty of Berlin and de facto ceased to exist in 1885, when it was united with the Principality of Bulgaria, also under nominal Ottoman suzerainty. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Eastern_Rumelia.svg/330px-Flag_of_Eastern_Rumelia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Eastern_Rumelia"
+      "url": "https://en.wikipedia.org/wiki/Ana_Kra%C5%A1"
     }
   ]
 }
