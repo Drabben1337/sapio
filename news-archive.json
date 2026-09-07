@@ -2,6 +2,36 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Film —",
+    "hook": "‘Sharks are my film stars’: how the Jacques Cousteau of the North Sea finally unlocked its beauty",
+    "body": "<p>Epic plankton blooms make filming in the North Sea notoriously difficult. But a new documentary gives a rare glimpse of the kaleidoscopic life – seals, sharks, tuna, orcas and shorthorn sculpins – lurking beneath its waves</p><p>The Nort",
+    "src": "The Guardian · Film",
+    "url": "https://www.theguardian.com/film/2026/sep/07/sharks-film-stars-jacques-cousteau-north-sea-nature-untamed",
+    "_t": 1788758374392
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "The Guardian · Film —",
+    "hook": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
+    "body": "<p>‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit</p><p>Going into a romcom, there are always the same question",
+    "src": "The Guardian · Film",
+    "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review",
+    "_t": 1788758374392
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "New Scientist —",
+    "hook": "Laughter therapy may help people with chronic lung disease",
+    "body": "An eight-week course of self-administered laughter therapy helped a small number of people with chronic obstructive pulmonary disease breathe more easily",
+    "src": "New Scientist",
+    "url": "https://www.newscientist.com/article/2587748-laughter-therapy-may-help-people-with-chronic-lung-disease/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
+    "_t": 1788758374392
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "The Guardian · Books —",
     "hook": "‘Bold, brilliant, thrilling’: leading authors on the novels every school should teach",
     "body": "<p>A new term, a new PM … time for a new English curriculum? We ask writers from Ben Okri to Samantha Harvey to pick books that will inspire a lifelong love of reading</p><p>For the first time ever, we have a British prime minister who stud",
@@ -568,35 +598,5 @@
     "src": "Screen Daily",
     "url": "https://www.screendaily.com/news/why-oasis-film-dont-look-back-in-anger-had-to-be-a-doc-no-one-could-play-liam-gallagher/5220064.article",
     "_t": 1788625132014
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "Screen Daily —",
-    "hook": "Robert Pattinson responds to Chris Hansen’s criticisms of Lance Oppenheim’s ‘Primetime’",
-    "body": "“Chris Hansen is a character you can’t help but imitate,” said Pattinson in Venice.",
-    "src": "Screen Daily",
-    "url": "https://www.screendaily.com/news/robert-pattinson-responds-to-chris-hansens-criticisms-of-lance-oppenheims-primetime/5220062.article",
-    "_t": 1788625132014
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
-    "body": "<p>The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram</p><p>In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner Herzog has crea",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara",
-    "_t": 1788615493223
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "New Scientist —",
-    "hook": "Fermat&#8217;s last theorem formalised by AI agents in just 11 days",
-    "body": "Converting the proof of Fermat's last theorem into code that computers can check was expected to take years. Anthropic's Claude AI managed it in less than two weeks",
-    "src": "New Scientist",
-    "url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
-    "_t": 1788615493223
   }
 ]
