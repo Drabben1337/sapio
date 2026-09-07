@@ -1,189 +1,179 @@
 {
-  "generated": "2026-09-07T20:12:19.644Z",
-  "count": 19,
+  "generated": "2026-09-07T23:04:15.040Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Ice Cream Man review – Eli Roth’s junky slasher is one of year’s worst horrors",
+      "body": "<p>The Hostel and Thanksgiving director takes a massive stumble with a rushed retro horror made on the cheap</p><p>A few years ago, Eli Roth realized his long-held ambition to make a movie out of <a href=\"https://www.theguardian.com/film/20",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/aug/05/ice-cream-man-review-eli-roth"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1932 —",
-      "hook": "The Battle of Boquerón, the first major battle of the Chaco War, commences.",
-      "body": "The Battle of Boquerón was fought September 9–29, 1932, between the Bolivian and Paraguayan armies in and around the stronghold of Boquerón. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "On this day in 1963 —",
+      "hook": "The Pro Football Hall of Fame opens in Canton, Ohio with 17 charter members.",
+      "body": "The Pro Football Hall of Fame is the hall of fame for professional American football, located in Canton, Ohio. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Pro_Football_Hall_of_Fame_logo.svg/330px-Pro_Football_Hall_of_Fame_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Boquer%C3%B3n_(1932)"
+      "url": "https://en.wikipedia.org/wiki/Pro_Football_Hall_of_Fame"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Fashion is a term used interchangeably to describe the creation of clothing, footwear, accessories, cosmetics, and jewellery of different cultural aesthetics and their mix and match into outfits that depict distinctive ways of dressing as signifiers of social status, self-expression, and group belonging.",
+      "body": "As a multifaceted term, fashion describes an industry, designs, aesthetics, and trends. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Carolina_Herrera_AW14_12.jpg/330px-Carolina_Herrera_AW14_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fashion"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1776 —",
+      "hook": "According to American colonial reports, Ezra Lee makes the world's first submarine attack in the Turtle, attempting to attach a time bomb to the hull of HMS Eagle in New York Harbor (no British records of this attack exist).",
+      "body": "Ezra Lee was an American colonial soldier, best known for commanding and operating the one-man Turtle submarine. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/EzraLee.jpg/330px-EzraLee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ezra_Lee"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best recent poetry – review roundup",
+      "body": "<p>Fetch by Colin Bramwell; Girling by Eve Esfandiari-Denney; The Dead One, The Unconscious One, Thundering in Your Ear, Thriving Slumber by Jay Gao; Belling the Leopard by Clementine Ewokolo Burnley; The Matter by Padraig Regan</p><p><stro",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/04/the-best-recent-poetry-review-roundup"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1822 —",
+      "hook": "Dom Pedro I declares Brazil independent from Portugal on the shores of the Ipiranga Brook in São Paulo.",
+      "body": "Dom Pedro I, known in Brazil and in Portugal as \"the Liberator\" or \"the Soldier King\" in Portugal, was the founder and first ruler of the Empire of Brazil from 1822 to 1831 and King of Portugal in 1826. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DpedroI-brasil-full_%28cropped%29.jpg/330px-DpedroI-brasil-full_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pedro_I_of_Brazil"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Kevin Powers: ‘I was ready to abandon Infinite Jest a thousand times’",
+      "body": "<p>The American author on falling in love with The Great Gatsby, being inspired by Dylan Thomas – and the memoir of a canoe trip in Texas he comes back to</p><p><strong>My earliest reading memory<br></strong>The deaths of Old Dan and Little",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/04/kevin-powers-i-was-ready-to-abandon-infinite-jest-a-thousand-times"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Spiral review – Valeria Bruni Tedeschi is hilarious as a demon cutting a deal with a vain matriarch",
+      "body": "<p><strong>Venice film festival: </strong>Tedeschi gives a career best performance as the mysterious stranger who visits a wealthy Italian family to prey on their pampered weaknesses</p><p>Everyone in the movie business has earnestly learne",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/07/the-spiral-review-valeria-bruni-tedeschi-venice-film-festival"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Liam Gallagher's tambourine grin and Charli XCX says bye to Brat - Music Photography Awards 2026 shortlist",
+      "body": "Nominees for the Abbey Road awards captured some of the past year's best moments in music.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c3re99gp4pro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1995 —",
+      "hook": "Space Shuttle Endeavour is launched on STS-69, the second flight of the Wake Shield Facility.",
+      "body": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Add to playlist: the churning darkness of Barcelona producer Nueen and the week’s best new tracks",
+      "body": "<p>Nacho Pezzati’s new album Swerved taps into the moody ambience of the UK north-west underground, ratcheting a tangible and thrilling sense of unease</p><p><strong>From</strong> Barcelona, Spain<br><strong>Recommend if you like </strong>S",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I didn’t know if I’d ever have sex again’: inside Sharon Horgan’s excruciating post-divorce comedy",
+      "body": "<p>Horgan’s hilarious new show probes the perils of ageing and the horror of being single again – and it has sex scenes so wild you’ll be laughing for weeks. The creator and her co-stars open up about Youth</p><p>When Sharon Horgan walked i",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/04/sharon-horgan-post-divorce-comedy-youth"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Third Anglo-Maratha War (1817–1819) was the final and decisive conflict between the British East India Company and the Maratha Empire.",
+      "body": "The war left the Company in control of most of India. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/The_Last_Charge_of_the_6th_Regment_of_Bengal_and_the_6th_Regiment_of_Madras_Light_Cavalry_on_the_16th_December_1817_%28cropped%29.jpg/330px-The_Last_Charge_of_the_6th_Regment_of_Bengal_and_the_6th_Regiment_of_Madras_Light_Cavalry_on_the_16th_December_1817_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Third_Anglo-Maratha_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 878 —",
+      "hook": "Louis the Stammerer is crowned as king of West Francia by Pope John VIII.",
+      "body": "Louis the Stammerer was the king of Aquitaine and later the king of West Francia. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Denier_sous_Louis_II_dit_le_B%C3%A8gue.jpg/330px-Denier_sous_Louis_II_dit_le_B%C3%A8gue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Louis_the_Stammerer"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "The Great Northern Highway is an Australian highway that links Western Australia's capital city Perth with its northernmost port, Wyndham.",
-      "body": "With a length of almost 3,200 kilometres (2,000 mi), it is the longest highway in Australia, with the majority included as part of the Perth Darwin National Highway. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Great_Northern_Highway_route_map.png/330px-Great_Northern_Highway_route_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "In the context of firearms, a sling is a type of strap or harness designed to allow a shooter to conveniently carry a firearm on their body, and/or to aid in greater hit probability by allowing the firearm to be better braced and stabilized during aiming.",
+      "body": "Various types of slings offer their own advantages and disadvantages, and can generally be divided into several categories. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Slings_no_more%2C_MCB_Hawaii_to_replace_obsolete_web_slings_150323-M-QA266-334.jpg/330px-Slings_no_more%2C_MCB_Hawaii_to_replace_obsolete_web_slings_150323-M-QA266-334.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Great_Northern_Highway"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘If you can’t understand what sex is, it’s irrelevant if you seem to be enjoying it’: how Queen at Sea upended the dementia drama",
-      "body": "<p>Lance Hammer’s first film in 18 years is a heart-wrenching masterpiece about family, mental decline and sexual consent. He and supporting actor Juliette Binoche discuss how they brought unabashed realism to a condition rarely seen on scr",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/04/if-you-cant-understand-what-sex-is-its-irrelevant-if-you-seem-to-be-enjoying-it-how-queen-at-sea-upended-the-dementia-drama"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1857 —",
-      "hook": "Mountain Meadows massacre: Mormon settlers slaughter most members of a peaceful emigrant wagon train.",
-      "body": "The Mountain Meadows Massacre was a series of attacks during the Utah War that resulted in the mass murder of at least 120 members of the Baker–Fancher wagon train. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mmm_1999_cairn.jpg/330px-Mmm_1999_cairn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mountain_Meadows_Massacre"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
-      "body": "<p>James Gunn and Peter Safran’s regime had good reasons to ditch Ben Affleck’s Batman and Henry Cavill’s Superman. Other choices have been much harder to fathom</p><p>There was never going to be a completely painless way to break up the ol",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/04/gal-gadot-wonder-woman-was-one-of-dcs-few-successes-its-a-mystery-why-she-got-the-chop"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1706 —",
-      "hook": "War of the Spanish Succession: Siege of Turin ends, leading to the withdrawal of French forces from North Italy.",
-      "body": "The War of the Spanish Succession was a conflict between the European great powers, fought between 1701 and 1714. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Final_War_of_the_Spanish_Succession_Collage.jpg/330px-Final_War_of_the_Spanish_Succession_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession"
+      "url": "https://en.wikipedia.org/wiki/Sling_(firearms)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "McPherson is a city in and the county seat of McPherson County, Kansas, United States.",
-      "body": "As of the 2020 census, the population of the city was 14,082. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/McPherson_Sculpture.jpg/330px-McPherson_Sculpture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Dean Heritage Centre is located in the valley of Soudley, Gloucestershire, England in the Forest of Dean and exists to record and preserve the social and industrial history of the area and its people.",
+      "body": "The centre comprises the museum itself, a millpond and waterwheel, forester's cottage with garden and animals, art and craft exhibitions and workshops, and trails around the surrounding woodland. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dean_Heritage_-_geograph.org.uk_-_1168991.jpg/330px-Dean_Heritage_-_geograph.org.uk_-_1168991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/McPherson%2C_Kansas"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "A Taste for Death is the title of an action-adventure novel by Peter O'Donnell which was first published in 1969, featuring the character Modesty Blaise which O'Donnell had created for a comic strip several years earlier.",
-      "body": "It was the fourth novel to feature the character. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/ATasteForDeathFirstEdition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Taste_for_Death_(O'Donnell_novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "body": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Dean_Heritage_Centre"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1978 —",
-      "hook": "While walking across Waterloo Bridge in London, Bulgarian dissident Georgi Markov is assassinated by Bulgarian secret police agent Francesco Gullino by means of a ricin pellet fired from a specially designed umbrella.",
-      "body": "Georgi Ivanov Markov was a Bulgarian dissident writer. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Bulgarian_dissident_Georgi_Markov.tiff/lossless-page1-120px-Bulgarian_dissident_Georgi_Markov.tiff.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1943 —",
+      "hook": "World War II: The German 17th Army begins its evacuation of the Kuban bridgehead (Taman Peninsula) in southern Russia and moves across the Strait of Kerch to the Crimea.",
+      "body": "The German Seventeenth Army was a field army of Nazi Germany during World War II. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bundesarchiv_Bild_101I-219-0553A-17%2C_Russland%2C_bei_Pokrowka%2C_leichte_Flak.jpg/330px-Bundesarchiv_Bild_101I-219-0553A-17%2C_Russland%2C_bei_Pokrowka%2C_leichte_Flak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Georgi_Markov"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "A remarkable documentary made by blind students: ‘We were stunned by the footage’",
-      "body": "<p>In Brailled It, the tension and stakes of the annual Braille Challenge are brought to the screen by three of the competitors</p><p>For the past 26 years, about 22,000 blind and visually impaired schoolchildren from around the world have ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/04/brailled-it-blind-documentary"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘The Spiral’ review: Paolo Strippoli’s dark Italian family fable promises more than it delivers",
-      "body": "Star Valeria Bruni Tedeschi impresses in this stylish but increasingly repetitive Faustian horror",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/the-spiral-review-paolo-strippolis-dark-italian-family-fable-promises-more-than-it-delivers/5219872.article"
+      "url": "https://en.wikipedia.org/wiki/17th_Army_(Wehrmacht)"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Goom is a fictional extraterrestrial created by Stan Lee, Jack Kirby, and Dick Ayers, appearing in American comic books published by Marvel Comics.",
-      "body": "He first appeared in the anthology comic book Tales of Suspense #15 during the Silver Age of Comic Books. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/fd/Tales_of_Suspense_number_15_%28front_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Susan Elizabeth Blow was an American educator who opened the first successful public kindergarten in the United States.",
+      "body": "She was known as the \"Mother of the Kindergarten.\" One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/File-Susan_Blow_%28Columbia%29_and_Elizabeth_Harrison_%28National-Louis%29_Kindergarten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Goom"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1986 —",
-      "hook": "Desmond Tutu becomes the first black man to lead the Anglican Diocese of Cape Town.",
-      "body": "Desmond Mpilo Tutu was a South African Anglican bishop and theologian, known for his work as an anti-apartheid and human rights activist. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Archbishop-Tutu-medium.jpg/330px-Archbishop-Tutu-medium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Desmond_Tutu"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1695 —",
-      "hook": "Henry Every perpetrates one of the most profitable pirate raids in history with the capture of the Grand Mughal ship Ganj-i-Sawai. In response, Emperor Aurangzeb threatens to end all English trading in India.",
-      "body": "Henry Every, also known as Henry Avery, sometimes erroneously given as Jack Avery or John Avery, was an English pirate who operated in the Atlantic and Indian oceans in the mid-1690s. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Every%2CHenry.JPG/330px-Every%2CHenry.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Henry_Every"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Originally, stereogram referred to a pair of two-dimensional images that could be viewed using a stereoscope.",
-      "body": "Stereoscopy, also called stereoscopics or stereo imaging, refers to making images appear three-dimensional. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Toy_stereoscope-1930.jpg/330px-Toy_stereoscope-1930.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Stereoscopy"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "The next James Bond: The (00)7 questions fans want answered",
-      "body": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Why Munya Chawawa is 'jumping ship' from socials to Shakespeare",
-      "body": "The comedian is making his stage acting debut and says he wants to move away from social content.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ce3r02z3dxno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Beauvais Cathedral, otherwise known as the Cathedral of Saint Peter of Beauvais, is a Catholic cathedral in the northern town of Beauvais, Oise, France.",
-      "body": "It is the seat of the Bishop of Beauvais, Noyon and Senlis and has been listed as a national monument since 1840. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Beauvais_Cathedral_Exterior_1%2C_Picardy%2C_France_-_Diliff.jpg/330px-Beauvais_Cathedral_Exterior_1%2C_Picardy%2C_France_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Beauvais_Cathedral"
+      "url": "https://en.wikipedia.org/wiki/Susan_Blow"
     }
   ]
 }
