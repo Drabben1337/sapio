@@ -1,45 +1,54 @@
 {
-  "generated": "2026-09-07T23:04:15.040Z",
-  "count": 18,
+  "generated": "2026-09-08T01:33:43.052Z",
+  "count": 11,
   "items": [
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Ice Cream Man review – Eli Roth’s junky slasher is one of year’s worst horrors",
-      "body": "<p>The Hostel and Thanksgiving director takes a massive stumble with a rushed retro horror made on the cheap</p><p>A few years ago, Eli Roth realized his long-held ambition to make a movie out of <a href=\"https://www.theguardian.com/film/20",
+      "hook": "The Spiral review – Valeria Bruni Tedeschi is hilarious as a demon cutting a deal with a vain matriarch",
+      "body": "<p><strong>Venice film festival: </strong>Tedeschi gives a career best performance as the mysterious stranger who visits a wealthy Italian family to prey on their pampered weaknesses</p><p>Everyone in the movie business has earnestly learne",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/aug/05/ice-cream-man-review-eli-roth"
+      "url": "https://www.theguardian.com/film/2026/sep/07/the-spiral-review-valeria-bruni-tedeschi-venice-film-festival"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1963 —",
-      "hook": "The Pro Football Hall of Fame opens in Canton, Ohio with 17 charter members.",
-      "body": "The Pro Football Hall of Fame is the hall of fame for professional American football, located in Canton, Ohio. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Pro_Football_Hall_of_Fame_logo.svg/330px-Pro_Football_Hall_of_Fame_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pro_Football_Hall_of_Fame"
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Ultimate Black Panther is a 2024 comic book series written by Bryan Edward Hill and illustrated by Stefano Caselli.",
+      "body": "Published by Marvel Comics, it is set in the Ultimate Universe (Earth-6160). One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cd/Ultimate_Black_Panther_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ultimate_Black_Panther"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Lenin Rajendran was an Indian film director and screenwriter who worked in Malayalam cinema.",
+      "body": "He served as the Chairman of Kerala State Film Development Corporation from 2016 to January 2019. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Lenin_Rajendran2.jpg/330px-Lenin_Rajendran2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lenin_Rajendran"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I’m used to doing the impossible’: George Lucas unveils new LA museum – what’s its story?",
+      "body": "<p>Spaceship-shaped gallery, featuring works from Banksy, Norman Rockwell and Frida Kahlo, is devoted to ‘visual storytelling’ – and is finally ready to open</p><p>“I’m used to doing the impossible,” George Lucas said on Wednesday. But “thi",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/culture/2026/sep/04/george-lucas-art-museum-los-angeles"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Fashion is a term used interchangeably to describe the creation of clothing, footwear, accessories, cosmetics, and jewellery of different cultural aesthetics and their mix and match into outfits that depict distinctive ways of dressing as signifiers of social status, self-expression, and group belonging.",
-      "body": "As a multifaceted term, fashion describes an industry, designs, aesthetics, and trends. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Carolina_Herrera_AW14_12.jpg/330px-Carolina_Herrera_AW14_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Phylakopi I culture refers to a \"cultural\" dating system used for the Cycladic culture that flourished during the early Bronze Age in Greece.",
+      "body": "2300-2000 BC and was named by Colin Renfrew, after the settlement of Phylakopi on the Cycladic island of Milos. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Clay_kernoi%2C_Melos%2C_2300%E2%80%932100_BC%2C_AshmoleanM%2C_AN_1926.677%2C_AN_1971.157%2C_142347.jpg/330px-Clay_kernoi%2C_Melos%2C_2300%E2%80%932100_BC%2C_AshmoleanM%2C_AN_1926.677%2C_AN_1971.157%2C_142347.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fashion"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1776 —",
-      "hook": "According to American colonial reports, Ezra Lee makes the world's first submarine attack in the Turtle, attempting to attach a time bomb to the hull of HMS Eagle in New York Harbor (no British records of this attack exist).",
-      "body": "Ezra Lee was an American colonial soldier, best known for commanding and operating the one-man Turtle submarine. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/EzraLee.jpg/330px-EzraLee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ezra_Lee"
+      "url": "https://en.wikipedia.org/wiki/Phylakopi_I_culture"
     },
     {
       "type": "card",
@@ -52,128 +61,49 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1822 —",
-      "hook": "Dom Pedro I declares Brazil independent from Portugal on the shores of the Ipiranga Brook in São Paulo.",
-      "body": "Dom Pedro I, known in Brazil and in Portugal as \"the Liberator\" or \"the Soldier King\" in Portugal, was the founder and first ruler of the Empire of Brazil from 1822 to 1831 and King of Portugal in 1826. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DpedroI-brasil-full_%28cropped%29.jpg/330px-DpedroI-brasil-full_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pedro_I_of_Brazil"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Kevin Powers: ‘I was ready to abandon Infinite Jest a thousand times’",
-      "body": "<p>The American author on falling in love with The Great Gatsby, being inspired by Dylan Thomas – and the memoir of a canoe trip in Texas he comes back to</p><p><strong>My earliest reading memory<br></strong>The deaths of Old Dan and Little",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/04/kevin-powers-i-was-ready-to-abandon-infinite-jest-a-thousand-times"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "The Spiral review – Valeria Bruni Tedeschi is hilarious as a demon cutting a deal with a vain matriarch",
-      "body": "<p><strong>Venice film festival: </strong>Tedeschi gives a career best performance as the mysterious stranger who visits a wealthy Italian family to prey on their pampered weaknesses</p><p>Everyone in the movie business has earnestly learne",
+      "hook": "Ice Cream Man review – Eli Roth’s junky slasher is one of year’s worst horrors",
+      "body": "<p>The Hostel and Thanksgiving director takes a massive stumble with a rushed retro horror made on the cheap</p><p>A few years ago, Eli Roth realized his long-held ambition to make a movie out of <a href=\"https://www.theguardian.com/film/20",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/07/the-spiral-review-valeria-bruni-tedeschi-venice-film-festival"
+      "url": "https://www.theguardian.com/film/2026/aug/05/ice-cream-man-review-eli-roth"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Liam Gallagher's tambourine grin and Charli XCX says bye to Brat - Music Photography Awards 2026 shortlist",
-      "body": "Nominees for the Abbey Road awards captured some of the past year's best moments in music.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c3re99gp4pro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1995 —",
-      "hook": "Space Shuttle Endeavour is launched on STS-69, the second flight of the Wake Shield Facility.",
-      "body": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour"
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Dendropsophus timbeba, also known as the Cuzco Reserve tree frog or Cardoso's tree frog, is a species of frog in the family Hylidae.",
+      "body": "It is found in Brazil, possibly Bolivia, and possibly Peru. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Dendropsophus_timbeba.png/330px-Dendropsophus_timbeba.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dendropsophus_timbeba"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "Add to playlist: the churning darkness of Barcelona producer Nueen and the week’s best new tracks",
-      "body": "<p>Nacho Pezzati’s new album Swerved taps into the moody ambience of the UK north-west underground, ratcheting a tangible and thrilling sense of unease</p><p><strong>From</strong> Barcelona, Spain<br><strong>Recommend if you like </strong>S",
+      "hook": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
+      "body": "<p>The writer-director once called Israel’s ‘one-man New Wave’ is in Venice with The Road to Jericho, a new and poetic attempt to highlight the plight of those in the occupied West Bank</p><p>The Palestinian village of Khan al-Ahmar sits of",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks"
+      "url": "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "‘I didn’t know if I’d ever have sex again’: inside Sharon Horgan’s excruciating post-divorce comedy",
-      "body": "<p>Horgan’s hilarious new show probes the perils of ageing and the horror of being single again – and it has sex scenes so wild you’ll be laughing for weeks. The creator and her co-stars open up about Youth</p><p>When Sharon Horgan walked i",
+      "hook": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
+      "body": "<p>In 1989, the Chariots of Fire actor took on the incredible task of playing Shakespeare’s prince while terminally ill from Aids. This weekend sees the world premiere of Elsinore, a new film about the episode, itself heavily-tipped for awa",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/04/sharon-horgan-post-divorce-comedy-youth"
+      "url": "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Third Anglo-Maratha War (1817–1819) was the final and decisive conflict between the British East India Company and the Maratha Empire.",
-      "body": "The war left the Company in control of most of India. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/The_Last_Charge_of_the_6th_Regment_of_Bengal_and_the_6th_Regiment_of_Madras_Light_Cavalry_on_the_16th_December_1817_%28cropped%29.jpg/330px-The_Last_Charge_of_the_6th_Regment_of_Bengal_and_the_6th_Regiment_of_Madras_Light_Cavalry_on_the_16th_December_1817_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Third_Anglo-Maratha_War"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 878 —",
-      "hook": "Louis the Stammerer is crowned as king of West Francia by Pope John VIII.",
-      "body": "Louis the Stammerer was the king of Aquitaine and later the king of West Francia. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Denier_sous_Louis_II_dit_le_B%C3%A8gue.jpg/330px-Denier_sous_Louis_II_dit_le_B%C3%A8gue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Louis_the_Stammerer"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "In the context of firearms, a sling is a type of strap or harness designed to allow a shooter to conveniently carry a firearm on their body, and/or to aid in greater hit probability by allowing the firearm to be better braced and stabilized during aiming.",
-      "body": "Various types of slings offer their own advantages and disadvantages, and can generally be divided into several categories. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Slings_no_more%2C_MCB_Hawaii_to_replace_obsolete_web_slings_150323-M-QA266-334.jpg/330px-Slings_no_more%2C_MCB_Hawaii_to_replace_obsolete_web_slings_150323-M-QA266-334.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sling_(firearms)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Dean Heritage Centre is located in the valley of Soudley, Gloucestershire, England in the Forest of Dean and exists to record and preserve the social and industrial history of the area and its people.",
-      "body": "The centre comprises the museum itself, a millpond and waterwheel, forester's cottage with garden and animals, art and craft exhibitions and workshops, and trails around the surrounding woodland. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dean_Heritage_-_geograph.org.uk_-_1168991.jpg/330px-Dean_Heritage_-_geograph.org.uk_-_1168991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dean_Heritage_Centre"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1943 —",
-      "hook": "World War II: The German 17th Army begins its evacuation of the Kuban bridgehead (Taman Peninsula) in southern Russia and moves across the Strait of Kerch to the Crimea.",
-      "body": "The German Seventeenth Army was a field army of Nazi Germany during World War II. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bundesarchiv_Bild_101I-219-0553A-17%2C_Russland%2C_bei_Pokrowka%2C_leichte_Flak.jpg/330px-Bundesarchiv_Bild_101I-219-0553A-17%2C_Russland%2C_bei_Pokrowka%2C_leichte_Flak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/17th_Army_(Wehrmacht)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Susan Elizabeth Blow was an American educator who opened the first successful public kindergarten in the United States.",
-      "body": "She was known as the \"Mother of the Kindergarten.\" One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/File-Susan_Blow_%28Columbia%29_and_Elizabeth_Harrison_%28National-Louis%29_Kindergarten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Susan_Blow"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "2026 US summer box office becomes biggest of all time",
+      "body": "Box office analyst Rentrak will release final data on September 8.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/2026-us-summer-box-office-becomes-biggest-of-all-time/5220139.article"
     }
   ]
 }
