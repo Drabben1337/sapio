@@ -1,54 +1,55 @@
 {
-  "generated": "2026-09-10T18:43:35.320Z",
-  "count": 13,
+  "generated": "2026-09-10T21:15:13.596Z",
+  "count": 25,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Nina Rosenblum is an American documentary filmmaker and television producer.",
-      "body": "A director and member of the Academy of Motion Picture Arts and Sciences and the Directors Guild of America, she co-founded Daedalus Productions, Inc. One of those things you can't un-know.",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Use taxes are functionally equivalent to sales taxes.",
+      "body": "A use tax is a type of tax levied in the United States by numerous state governments. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nina_Rosenblum"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Newer World by Sebastian Barry review – a near-miracle of storytelling",
-      "body": "<p>The third in a loose American trilogy follows the epic journey of a formerly enslaved man in the aftermath of the civil war</p><p>But is not the story as good as the truth?” asks Tennyson Bouguereau, the narrator of Sebastian Barry’s The",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/08/the-newer-world-by-sebastian-barry-review-a-near-miracle-of-storytelling"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What Should My Children Do? by Daniel Susskind review – the case for embracing tech in the classroom",
-      "body": "<p>A refreshingly optimistic book that asks us to grasp the educational opportunities of AI, rather than shrink from them</p><p>In 1979, the government asked Wilfred Cockcroft, a now largely forgotten maths lecturer from the University of H",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/09/what-should-my-children-do-by-daniel-susskind-review-the-case-for-embracing-tech-in-the-classroom"
+      "url": "https://en.wikipedia.org/wiki/Use_tax"
     },
     {
       "type": "card",
       "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Elizabeth Finch is a novel by Julian Barnes, published in 2022.",
+      "body": "It is the 14th novel published under his own name, and was released in the United Kingdom on 14 April 2022. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/25/Elizabeth_Finch_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Finch_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 506 —",
+      "hook": "The bishops of Visigothic Gaul meet in the Council of Agde.",
+      "body": "The Council of Agde was a regional synod of Western Rite Nicene bishops held in September 506 at Agatha or Agde, on the Mediterranean coast east of Narbonne, in the Septimania region of the Visigothic Kingdom, with the permission of the Visigothic King Alaric II, despite him being an Arian. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Council_of_Agde"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Natural feedbacks will warm world an extra 20 per cent this century",
+      "body": "Ecosystems like wetlands emit more carbon as temperatures rise. By 2100, such feedback loops will increase warming by 20 to 30 per cent more than anticipated",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2588740-natural-feedbacks-will-add-20-per-cent-extra-global-warming/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
       "opener": "You probably never noticed this —",
-      "hook": "Boston Jenkins Drayton (1821–1864) was a Liberian politician and Lutheran minister who served as the 3rd Chief Justice of Liberia from 1861 until 1864.",
-      "body": "He had previously served as the final Governor of the Republic of Maryland from 1855 until its annexation by Liberia on March 18, 1857. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Boston_Jenkins_Drayton_%28Chief_Justice_of_Liberia_1861-64%29.jpg/330px-Boston_Jenkins_Drayton_%28Chief_Justice_of_Liberia_1861-64%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "It is situated along the Middle Atlas tourist lakes route, 35 km (22 mi) from Ifrane and 22 km (14 mi) from Imouzzer Kandar.",
+      "body": "Lake Iffer is a Moroccan natural lake located in the community of Dayat Aoua in Ifrane Province. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Lake_Iffer_Dait_Aoua_commune_Ifrane_province.jpg/330px-Lake_Iffer_Dait_Aoua_commune_Ifrane_province.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Boston_Jenkins_Drayton"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Salicornia fruticosa, synonym Sarcocornia fruticosa, known commonly as the shrubby marsh samphire, is a species of glasswort in the family Amaranthaceae (pigweeds).",
-      "body": "It is native to southern Europe, north Africa, Western Asia and Yemen. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Sarcocornia_fruticosa.jpg/330px-Sarcocornia_fruticosa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Salicornia_fruticosa"
+      "url": "https://en.wikipedia.org/wiki/Lake_Dayet_Iffer"
     },
     {
       "type": "card",
@@ -61,51 +62,91 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Richard Allen Askey was an American mathematician, known for his expertise in the area of special functions.",
-      "body": "The Askey–Wilson polynomials are on the top level of the Askey scheme, which organizes orthogonal polynomials of hypergeometric type into a hierarchy. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Richard_Askey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Richard_Askey"
-    },
-    {
-      "type": "card",
-      "cat": "books",
+      "cat": "history",
       "opener": "Bet you didn't know —",
-      "hook": "Xiaomi MiMo is a family of large language models (LLMs) developed by Xiaomi.",
-      "body": "It was initially released in April 2025 with the MiMo-7B model. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "Built about 1800 for a prosperous merchant, it is an important early example of the city's Federal architecture, with numerous high-quality interior features, and a rare surviving period stable.",
+      "body": "The Haven-White House is a historic house at 229 Pleasant Street in Portsmouth, New Hampshire. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Haven-White_House.jpg/330px-Haven-White_House.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Xiaomi_MiMo"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Bunker review – Cruz and Bardem just can’t dig Florian Zeller’s shallow thriller out of a hole",
-      "body": "<p><strong>Venice film festival: </strong>An architect (Javier Bardem) alienates his book editor wife (Penélope Cruz) when he agrees to build a luxurious bunker for a tech billionaire</p><p>Even the formidable pairing of Penélope Cruz and J",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/08/the-bunker-review-penelope-cruz-javier-bardem-florian-zeller-venice-film-festival"
+      "url": "https://en.wikipedia.org/wiki/Haven-White_House"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "He was a second cousin of the actress Joanna Lumley.",
-      "body": "Robin Lumley was a British jazz fusion musician, keyboardist, record producer, and author who was a member of the band Brand X with drummer Phil Collins, guitarist John Goodsall, and bassist Percy Jones. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Robin_Lumley"
+      "opener": "On this day in 1977 —",
+      "hook": "Hamida Djandoubi, convicted of torture and murder, is the last person to be executed by guillotine in France.",
+      "body": "Hamida Djandoubi was a Tunisian criminal who was executed by guillotine in France after having been convicted of the kidnapping, torture and murder of Élisabeth Bousquet, a 21-year-old woman whom he had forced into prostitution. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/89/Hamida_Djandoubi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hamida_Djandoubi"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Company review – Casey Affleck entertains us with creepy campfire tales",
-      "body": "<p><strong>Venice film festival:</strong> Affleck’s third film as a director is a diverting gothic anthology about mysterious strangers, murder and – pointedly – wronged men</p><p>Gather ye ’round the glowing screen for a Casey Affleck camp",
+      "hook": "Scherzetto review – Toni Servillo brings gravitas to a dithering Neapolitan ghost story",
+      "body": "<p><strong>Venice film festival</strong><br>The Venice fixture plays an illustrator haunted by his boyhood in Mario Martone’s part spooky, part sentimental oddity</p><p>It’s always good to see the veteran Italian star Toni Servillo at Venic",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology"
+      "url": "https://www.theguardian.com/film/2026/sep/10/scherzetto-review-toni-servillo-mario-martone-domenico-starnone-trick"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Jen Ferguson is a Michif/Métis Canadian activist and writer of young adult fiction.",
+      "body": "She is best known for her debut novel The Summer of Bitter and Sweet, which won a Governor General's Award and was nominated for the William C. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jen_Ferguson"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1561 —",
+      "hook": "Fourth Battle of Kawanakajima: Takeda Shingen defeats Uesugi Kenshin in the climax of their ongoing conflicts.",
+      "body": "The Battles of Kawanakajima were a series of battles fought in the Sengoku period of Japan between Takeda Shingen of Kai Province and Uesugi Kenshin of Echigo Province from 1553 to 1564. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/BattleKawanakajima.jpg/330px-BattleKawanakajima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battles_of_Kawanakajima"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Castle by Jon Ronson review – bizarre tales of modern masculinity",
+      "body": "<p>A journalist embarks on a wild goose chase that might – or might not – be informative about the male condition</p><p>Recovering from surgery at home in upstate New York in 2023, Jon Ronson awoke to a string of texts from his adult son ab",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/08/the-castle-by-jon-ronson-review-bizarre-tales-of-modern-masculinity"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2000 —",
+      "hook": "Operation Barras successfully frees six British soldiers held captive for over two weeks and contributes to the end of the Sierra Leone Civil War.",
+      "body": "Operation Barras was a British Army operation that took place in Sierra Leone on 10 September 2000, during the late stages of the Sierra Leone Civil War. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/UNsierraleone.PNG/330px-UNsierraleone.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Operation_Barras"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1798 —",
+      "hook": "At the Battle of St. George's Caye, British Honduras defeats Spain.",
+      "body": "The Battle of St. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_St._George's_Caye"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "Russian Civil War: The Red Army captures Kazan.",
+      "body": "The Russian Civil War was a multi-party civil war in the former Russian Empire, lasting from 1917 to 1922, sparked by the overthrowing of the Russian Provisional Government in the October Revolution, as many factions vied to determine Russia's political future. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/CWRArticleImage.jpg/330px-CWRArticleImage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Russian_Civil_War"
     },
     {
       "type": "card",
@@ -118,12 +159,91 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Ten Men is a novel by Alexandra Gray that was first published in 2005.",
+      "body": "Episodic in character, it covers a period of 20 years in the life of the first person narrator, an attractive nameless Englishwoman in search of perfect happiness, a state she equates with life with a perfect partner. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/55/AlexandraGray_TenMen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ten_Men"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The pass cuts through the Kunlun Mountains connecting the now-deserted town of Kangxiwar in the Karakash River valley to the town of Pusha in the Pusha Jilga valley.",
+      "body": "Hindu-tagh Pass, also known as Hindutash, is a historical mountain pass in the western Xinjiang, China. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/78.96268E_36.26053N_nasa_kanxiwar.jpg/330px-78.96268E_36.26053N_nasa_kanxiwar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hindutash_Pass"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Ape and Essence (1948) is a novel by Aldous Huxley, first published in August 1948 by Harper & Brothers in the US, and then in 1949 by Chatto & Windus in the UK.",
+      "body": "It is set in a dystopia, as is Brave New World, Huxley's more famous work. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/38/ApeAndEssence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ape_and_Essence"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Wright as a futuristic car, it was unveiled at the New York Auto Show in January 1933 and later exhibited at the Chicago Century of Progress World's Fair.",
+      "body": "The Pierce Silver Arrow is a luxury automobile produced by the American automaker Pierce-Arrow in 1933. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/1933_Pierce-Arrow_Silver_Arrow_V-12_%289513966700%29.jpg/330px-1933_Pierce-Arrow_Silver_Arrow_V-12_%289513966700%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pierce_Silver_Arrow"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The river is about 83 miles (134 km) long, and it drains a fertile farming region called the Tualatin Valley southwest and west of Portland at the northwest corner of the Willamette Valley.",
+      "body": "The Tualatin River is a tributary of the Willamette River in Oregon in the United States. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Tualatin_River.jpg/330px-Tualatin_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tualatin_River"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "They mainly compete in the national sevens competition, the Taiyo Life Women's Sevens Series.",
+      "body": "Hokkaido Barbarians Diana are a Japanese women's rugby union team based in Sapporo, Hokkaido. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hokkaido_Barbarians_Diana"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Permanent Earthquake is the fourth novel from Evan Dara, a pseudonymous American author known for post-modern literary fiction, including The Lost Scrapbook, The Easy Chain, and Flee.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/Permanent_Earthquake_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Permanent_Earthquake"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "All About My Mother by Rachael Stirling review – a joyous love letter to Diana Rigg",
-      "body": "<p>Beautifully written by her daughter, this is a funny and intimate eulogy to the 60s star of The Avengers who went on to specialise in fierce, complicated women</p><p>The late actor Diana Rigg declined to call herself a feminist, noting: ",
+      "hook": "‘She blazed in and opened my eyes to the real world’: Readers remember Gloria Steinem",
+      "body": "<p>To generations of women, the feminist campaigner was an inspiration, a fearless challenger of sexism and domestic violence. Guardian readers share memories of her courage, intelligence, and warmth</p><p>What I appreciated most about Glor",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/09/all-about-my-mother-by-rachael-stirling-review-a-joyous-love-letter-to-diana-rigg"
+      "url": "https://www.theguardian.com/books/2026/sep/08/she-blazed-in-and-opened-my-eyes-to-the-real-world-readers-remember-gloria-steinem"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Uprising review – the peasants are revolting in muddled historical epic",
+      "body": "<p>Andrew Garfield’s charisma can’t save Paul Greengrass’s grim and depressingly generic period piece</p><p>Hollywood loves giving young actors their own historical epic as much as audiences seem to dislike watching them. Timothée Chalamet ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/09/the-uprising-movie-review"
     }
   ]
 }
