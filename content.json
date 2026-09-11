@@ -1,46 +1,95 @@
 {
-  "generated": "2026-09-11T01:35:12.381Z",
-  "count": 13,
+  "generated": "2026-09-11T06:41:03.442Z",
+  "count": 24,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1941 —",
+      "hook": "Construction begins on the Pentagon.",
+      "body": "The Pentagon is the headquarters of the United States Department of Defense, in Arlington County, Virginia, across the Potomac River from Washington, D.C. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Pentagon%2C_Headquarters_of_the_US_Department_of_Defense_%28cropped2%29.jpg/330px-The_Pentagon%2C_Headquarters_of_the_US_Department_of_Defense_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/The_Pentagon"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "A Taste for Death is a 1986 crime novel by the British writer P.",
+      "body": "James, the seventh in the popular Commander Adam Dalgliesh series. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/ATasteForDeath.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Taste_for_Death_(James_novel)"
+    },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Saint Jack is a 1979 American drama film directed by Peter Bogdanovich and based on the 1973 novel Saint Jack.",
-      "body": "Ben Gazzara stars as Flowers in the film. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/Saint_Jack_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Monsieur Wens Holds the Trump Cards is a 1947 French-Belgian mystery crime film directed by Emile-Georges De Meyst and starring Louis Salou, Marie Déa and Claudine Dupuis.",
+      "body": "It is based on the 1932 novel of the same title by Belgian author Stanislas-André Steeman featuring the fictional detective Monsieur Wens. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4b/Monsieur_Wens_Holds_the_Trump_Cards.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Saint_Jack_(film)"
+      "url": "https://en.wikipedia.org/wiki/Monsieur_Wens_Holds_the_Trump_Cards"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The State Security Service, also known by its original name as the Directorate for State Security, was the national secret police intelligence and security agency of Socialist Federal Republic of Yugoslavia.",
-      "body": "It was at all times best known by the acronym UDBA, which is derived from the organization's original name in the Serbo-Croatian language: \"Uprava državne bezbednosti\". The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Emblem_of_Yugoslavia_%281963%E2%80%931992%29.svg/330px-Emblem_of_Yugoslavia_%281963%E2%80%931992%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Directorate_for_State_Security_(Yugoslavia)"
+      "opener": "On this day in 1758 —",
+      "hook": "Battle of Saint Cast: France repels British invasion during the Seven Years' War.",
+      "body": "The Battle of Saint-Cast was a military engagement during the Seven Years' War on the French coast between British naval and land expeditionary forces and French coastal defence forces. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bataille_de_Saint_Cast_1758_par_Ozanne.jpg/330px-Bataille_de_Saint_Cast_1758_par_Ozanne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Saint-Cast"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Meaningful broadband is an ethics-driven framework for closing the digital divide in Asia.",
-      "body": "It has been adopted by Indonesia and Thailand, and it has influenced other Asian nations. Worth a quiet trip down the rabbit hole.",
+      "cat": "history",
+      "opener": "On this day in 1780 —",
+      "hook": "American Revolutionary War: Sugarloaf massacre: A small detachment of militia from Northampton County, Pennsylvania, are attacked by Native Americans and Loyalists near Little Nescopeck Creek.",
+      "body": "The Sugarloaf massacre was a skirmish which occurred on September 11, 1780, in the U.S. Worth a quiet trip down the rabbit hole.",
       "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Meaningful_Broadband"
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Sugarloaf_massacre"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Emergency Broadcast System (EBS), sometimes called the Emergency Action Notification System (EANS), was an emergency warning system used in the United States.",
-      "body": "It was the most commonly used, along with the Emergency Override system. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Emergency_Broadcast_System_Logo.png/330px-Emergency_Broadcast_System_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "John Goldfarb, Please Come Home!",
+      "body": "is a 1965 American comedy film based on the novel by William Peter Blatty published in 1963. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/John_Goldfarb-1965-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Emergency_Broadcast_System"
+      "url": "https://en.wikipedia.org/wiki/John_Goldfarb%2C_Please_Come_Home!"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
+      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
     },
     {
       "type": "card",
@@ -54,76 +103,137 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "15 TIFF acquisition titles to tempt buyers",
-      "body": "Alien biker gangs, scheming morticians, and ancient demonic possession on offer.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/15-tiff-acquisition-titles-to-tempt-buyers/5220303.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Tata Consultancy Services Limited (TCS) is an Indian multinational technology company specialising in information technology services and consulting.",
-      "body": "Headquartered in Mumbai, it is a part of the Tata Group and operates in 150 locations across 46 countries. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tata_Consultancy_Services"
+      "opener": "BBC Entertainment —",
+      "hook": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+      "body": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "‘She blazed in and opened my eyes to the real world’: Readers remember Gloria Steinem",
-      "body": "<p>To generations of women, the feminist campaigner was an inspiration, a fearless challenger of sexism and domestic violence. Guardian readers share memories of her courage, intelligence, and warmth</p><p>What I appreciated most about Glor",
+      "hook": "A Thought Without Collision by Adrian Duncan review – a brilliant interrogation of philosophy and wonder",
+      "body": "<p>With a character inspired by Wittgenstein, this exploration of the mysteries of the universe draws on multiple philosophical traditions</p><p>For several years I ran community groups that involved reading books aloud with other adults. S",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/08/she-blazed-in-and-opened-my-eyes-to-the-real-world-readers-remember-gloria-steinem"
+      "url": "https://www.theguardian.com/books/2026/sep/11/a-thought-without-collision-by-adrian-duncan-review-a-brilliant-interrogation-of-philosophy-and-wonder"
     },
     {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "BBC drops Drag Race UK after eight series",
-      "body": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "BepiColombo’s Mercury arrival begins - full replay",
-      "body": "Video: 02:31:10 Watch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury. After travelling through the inner Solar System together for ",
-      "src": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Scherzetto review – Toni Servillo brings gravitas to a dithering Neapolitan ghost story",
-      "body": "<p><strong>Venice film festival</strong><br>The Venice fixture plays an illustrator haunted by his boyhood in Mario Martone’s part spooky, part sentimental oddity</p><p>It’s always good to see the veteran Italian star Toni Servillo at Venic",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/10/scherzetto-review-toni-servillo-mario-martone-domenico-starnone-trick"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Uprising review – the peasants are revolting in muddled historical epic",
-      "body": "<p>Andrew Garfield’s charisma can’t save Paul Greengrass’s grim and depressingly generic period piece</p><p>Hollywood loves giving young actors their own historical epic as much as audiences seem to dislike watching them. Timothée Chalamet ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/09/the-uprising-movie-review"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "The show jumping horse killings scandal refers to an unverified number of insurance fraud cases in the United States between the mid-1970s and the mid-1990s in which expensive horses, many of them show jumpers, were insured against death, accident, or disease, and then killed to collect the insurance money.",
-      "body": "Many of the killings involved racketeering, and numerous perpetrators were convicted of crimes. The world is stranger than it lets on.",
+      "hook": "Nothing but the Night is a 1973 British horror film directed by Peter Sasdy and starring Christopher Lee and Peter Cushing.",
+      "body": "The screenplay was by Brian Hayles based on the 1968 novel of the same name by John Blackburn. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6e/Nothing_But_the_Night_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nothing_but_the_Night"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1985 —",
+      "hook": "Moimenta-Alcafache train crash, the worst railway accident to occur in Portugal.",
+      "body": "The Moimenta-Alcafache train crash occurred on 11 September 1985 in Mangualde, Portugal, in the Portuguese Linha da Beira Alta. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Moimenta-Alcafache_train_crash"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "People long for simpler times, say Practical Magic reboot stars",
+      "body": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1990 —",
+      "hook": "A Faucett Boeing 727 disappears in the Atlantic Ocean while being flown from Malta to Peru.",
+      "body": "Compañía de Aviación Faucett, colloquially known simply as Faucett Perú or Faucett, was a Peruvian airline. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lockheed_L-1011-385-1_TriStar_1_AN0138590.jpg/330px-Lockheed_L-1011-385-1_TriStar_1_AN0138590.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Faucett_Per%C3%BA"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Ladies in the Green Hats is a 1929 French silent comedy film directed by André Berthomieu and starring Gabrielle Fontan, René Lefèvre and Alice Tissot.",
+      "body": "It is based on the novel of the same name by Germaine Acremant. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Show_jumping_horse_killings"
+      "url": "https://en.wikipedia.org/wiki/The_Ladies_in_the_Green_Hats_(1929_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Fengning Manchu Autonomous County is a Manchu autonomous county of northern Hebei province, bordering Beijing to the southwest and Inner Mongolia to the north, and lying under the administration of the prefecture-level city of Chengde.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Fengning_Jing_Bei_meadow.jpg/330px-Fengning_Jing_Bei_meadow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fengning_Manchu_Autonomous_County"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Russian director refuses to denounce lead actor despite criticism from Ukraine",
+      "body": "<p>Ilya Khrzhanovsky’s DAU, about physicist Lev Landau, stars Russian conductor Teodor Currentzis, who has refused to speak out against Putin’s war</p><p>The director of a controversial new Russian film has said “everyone pays for his own c",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/09/dau-director-defends-russian-lead-actor-ukraine-criticism"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘People think fame is a magic wand’: Jarvis Cocker on old songs, young fans and his granny’s verdict on Pulp",
+      "body": "<p>Before the release of a joyful film on the history of the Sheffield band, frontman Cocker and director Garth Jennings talk dark times, taking inspiration from Abba – and why there could yet be another record</p><p>When the director Garth",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/11/people-think-fame-is-a-magic-wand-jarvis-cocker-on-old-songs-young-fans-and-his-grannys-verdict-on-pulp"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2012 —",
+      "hook": "The U.S. embassy in Benghazi, Libya is attacked, resulting in four deaths.",
+      "body": "Benghazi is the second-largest city in Libya as well as the largest city in Cyrenaica, with an estimated population of 859,000 in 2023. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Al_Daawa_alIslamiyah2.JPG/330px-Al_Daawa_alIslamiyah2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Benghazi"
     }
   ]
 }
