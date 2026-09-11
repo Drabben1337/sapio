@@ -1,44 +1,92 @@
 {
-  "generated": "2026-09-11T18:47:22.576Z",
-  "count": 13,
+  "generated": "2026-09-11T21:22:43.669Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘A Bit Of Light’ review: Ali Asgari’s profoundly affecting drama finds hope amid despair in contemporary Tehran",
-      "body": "The Iranian filmmaker makes his Venice Competition debut with the story of a doctor pushed to breaking point",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/festivals/a-bit-of-light-review-ali-asgaris-profoundly-affecting-drama-finds-hope-amid-despair-in-contemporary-tehran/5220136.article"
+      "opener": "The Guardian · Books —",
+      "hook": "The Eleventh Hour by Salman Rushdie audiobook review – stories with levity and laughter",
+      "body": "<p>The author explores themes of legacy, mortality and loneliness in the first work of fiction since his near-fatal attack</p><p>Five short stories and five readers make up Salman Rushdie’s collection, The Eleventh Hour, his first work of f",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/10/the-eleventh-hour-by-salman-rushdie-audiobook-review-stories-with-levity-and-laughter"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Sept cavaliers is a 1993 novel by the French writer Jean Raspail.",
+      "body": "It tells the story of seven horsemen who are sent to find why their country, a place with traits of both medieval and modern Europe, is becoming devoid of human life. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b7/Sept_cavaliers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sept_cavaliers"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "The Housewife review – Naomi Watts is a secret suburban Nazi in an overcooked melodrama",
-      "body": "<p><strong>Toronto film festival:</strong> the chilling true story of a woman who tried to hide from her wartime crimes gets turned into a strangely inert misfire</p><p>The first scene of the 60s-set drama The Housewife is a closeup of a wh",
+      "hook": "Faith review – intense performances power startling and unsettling tale of mysterious suitor",
+      "body": "<p><strong>Toronto film festival: </strong>Erin Doherty plays a happily single mother in a downbeat town courted by an enigmatic James McAvoy in this expertly taut drama</p><p>Erin Doherty and James McAvoy both bring their A-game in this st",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/11/toronto-film-festival-housewife-review"
+      "url": "https://www.theguardian.com/film/2026/sep/11/faith-review-erin-doherty-james-mcavoy"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1565 —",
+      "hook": "Ottoman forces retreat from Malta ending the Great Siege of Malta.",
+      "body": "The Ottoman Empire, historically also known as the Turkish Empire or Turkey, was a state that spanned much of Southeastern Europe, West Asia, and North Africa from the 14th century to the early 20th century, centred in modern-day Turkey. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg/330px-Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Gore, gimps and a potty-mouthed magpie: welcome to the Lisbon horror festival where nightmares are a dream",
+      "body": "<p>MotelX – Portugal’s only film festival dedicated to horror – hopes to inspire local film-makers by showcasing world-class scares. Now in its 20th edition, its directors say truly nerve-shredding cinema is its holy grail</p><p>If horror h",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/11/motelx-lisbon-portugal-horror-film-festival"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
+      "body": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Tennis Shoes Adventure Series is a series of LDS fiction novels written by Chris Heimerdinger.",
-      "body": "They are most widely read by young adult members of the Church of Jesus Christ of Latter-day Saints. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "File under 'wait, really?' —",
+      "hook": "Make Death Love Me (1979) is a psychological crime novel by English author Ruth Rendell, regarded by some as one of her bleakest and most powerful stories.",
+      "body": "The novel was shortlisted for an Edgar and won Sweden's prestigious Martin Beck Award. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/45/Makedeathloveme.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tennis_Shoes_Adventure_Series"
+      "url": "https://en.wikipedia.org/wiki/Make_Death_Love_Me"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "It is known to occur in China, Taiwan, South Korea, Japan, Vietnam, India, Sri Lanka, Nepal, Java, Philippines and Thailand.",
+      "body": "Paracercion melanotum, also known as the eastern lilysquatter, is a species of damselfly in the family Coenagrionidae. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paracercion_malayanum_lateral_view.jpg/330px-Paracercion_malayanum_lateral_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paracercion_melanotum"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "A Man at Arms is a historical novel by the American writer Steven Pressfield.",
-      "body": "It was first published on March 2, 2021 by W.W. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/60/A_Man_at_Arms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Rita Indiana Hernández Sánchez is a Dominican writer and singer-songwriter.",
+      "body": "In 2011, she was selected by the Spanish newspaper El País as one of the 100 most influential Latino personalities. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rita_Indiana_Hernadez.JPG/330px-Rita_Indiana_Hernadez.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Man_at_Arms"
+      "url": "https://en.wikipedia.org/wiki/Rita_Indiana"
     },
     {
       "type": "card",
@@ -52,78 +100,100 @@
     {
       "type": "card",
       "cat": "history",
+      "opener": "On this day in 2007 —",
+      "hook": "Russia tests the largest conventional weapon ever, the Father of All Bombs.",
+      "body": "Conventional weapons or conventional arms are weapons whose damaging impact comes from kinetic, incendiary, or explosive energy. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Conventional_weapon"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Continental Express Flight 2574 crashes in Colorado County, Texas, near Eagle Lake, killing 11 passengers and three crew.",
+      "body": "Continental Express Flight 2574 was a scheduled domestic passenger airline flight operated by Britt Airways from Laredo International Airport in Laredo, Texas to Houston Intercontinental Airport (IAH) in Houston, Texas. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Continental_Express_Flight_2574_horizontal_stabilizer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Continental_Express_Flight_2574"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1789 —",
+      "hook": "Alexander Hamilton is appointed the first United States Secretary of the Treasury.",
+      "body": "Alexander Hamilton was an American military officer, statesman, and Founding Father who served as the first U.S. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/330px-Alexander_Hamilton_%28NPG%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Hamilton"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "The Housewife review – Naomi Watts is a secret suburban Nazi in an overcooked melodrama",
+      "body": "<p><strong>Toronto film festival:</strong> the chilling true story of a woman who tried to hide from her wartime crimes gets turned into a strangely inert misfire</p><p>The first scene of the 60s-set drama The Housewife is a closeup of a wh",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/11/toronto-film-festival-housewife-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "River review – so-so survival slasher offers more of the same and little else",
+      "body": "<p><strong>Toronto film festival:</strong> strong performances from two experienced scream queens and some surprisingly thoughtful direction can’t elevate yet another stalk-by-numbers horror</p><p>It would be unwise and unfair to expect tha",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/11/river-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "This church holds great prominence among the Christians, leading to its elevation as a Shrine by the Dharmapuri Diocese.",
-      "body": "Antony's Church is a Roman Catholic church situated in Bommidi, Dharmapuri district, Tamil Nadu, India. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/St._Antony%27s_Church%2C_Bommidi.jpg/330px-St._Antony%27s_Church%2C_Bommidi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Planter's Northern Bride is an 1854 novel written by Caroline Lee Hentz, in response to the publication of Uncle Tom's Cabin by Harriet Beecher Stowe in 1852.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Plantersbride.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/St._Antony's_Church%2C_Bommidi"
+      "url": "https://en.wikipedia.org/wiki/The_Planter's_Northern_Bride"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Somewhere to be themselves, and be kind’: the Filipino folk-popper creating a hand-drawn world for gen Z to escape to",
-      "body": "<p>What started as a school project about plucky fictional kids in animal masks sparked an obsessive fanbase and a major label deal. Now the artist behind it all – known as Yaelokre – is ready to reveal themself</p><p>Harpy Hare by Yaelokre",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/sep/11/somewhere-to-be-themselves-and-be-kind-the-filipino-folk-popper-creating-a-hand-drawn-world-for-gen-z-to-escape-to"
+      "cat": "history",
+      "opener": "On this day in 2001 —",
+      "hook": "Nineteen members of al-Qaeda execute the September 11 attacks, a series of coordinated terrorist attacks that killed 2,977 people using four hijacked aircraft. Two aircraft crash into the World Trade Center in New York City, a third crashes into The Pentagon in Arlington County, Virginia, and a fourth into a field near Shanksville, Pennsylvania.",
+      "body": "al-Qaeda is a pan-Islamist militant organization led by Sunni Islamist jihadists who self-identify as a vanguard spearheading a global Islamist revolution to unite the Muslim world under a supra-national Islamic caliphate. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Jihad.svg/330px-Flag_of_Jihad.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Al-Qaeda"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘A Long Winter’ review: A sheltered young man faces a seismic shift in Andrew Haigh’s masterful 1950s Rocky Mountain drama",
-      "body": "Haigh follows All Of Us Strangers and 45 Years with this atmospheric study of a splintering family",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/a-long-winter-review-a-sheltered-young-man-faces-a-seismic-shift-in-andrew-haighs-masterful-1950s-rocky-mountain-drama/5220349.article"
+      "cat": "history",
+      "opener": "On this day in 1989 —",
+      "hook": "Hungary announces that the East German refugees who had been housed in temporary camps were free to leave for West Germany.",
+      "body": "East Germany, officially the German Democratic Republic (GDR), was a country in Central Europe from its formation on 7 October 1949 until its reunification with West Germany on 3 October 1990. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_the_German_Democratic_Republic.svg/330px-Flag_of_the_German_Democratic_Republic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/East_Germany"
     },
     {
       "type": "card",
-      "cat": "books",
+      "cat": "history",
       "opener": "Okay, this one's fun —",
-      "hook": "Les Proscrits is a French short story by Honoré de Balzac, published in 1831 by éditions Gosselin, then in 1846 by Furne, Dubochet, Hetzel in Études philosophiques.",
-      "body": "He subtitled it an esquisse historique. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BalzacExiles01.jpg/330px-BalzacExiles01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "It changed names to New York Picture Corporation in 1912.",
+      "body": "The New York Motion Picture Company was a film production and distribution company from 1909 until 1914. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/New_York_Motion_Picture_Corporation_with_His_Brother%27s_Keeper%2C_Tricked%2C_In_the_Switch_Tower-_Thomas_Ince_and_Mack_Sennett_Director-Generals-_from-_Reel_Life_%28Mar-Sep_1915%29_%28IA_reellife06unse%29_%28page_9_crop%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Les_Proscrits"
+      "url": "https://en.wikipedia.org/wiki/New_York_Motion_Picture_Company"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Good Muslim is a novel by Tahmima Anam.",
-      "body": "This novel is a sequel to her debut novel A Golden Age and spans the year from 1984 to 1985, with occasional flashbacks to the aftermath of the Bangladesh Liberation War in 1971. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/The_Good_Muslim_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Good_Muslim"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Jimmy Kimmel on Trump’s midterm convention: ‘That arena was as empty as a Waymo’",
-      "body": "<p>Late-night hosts discussed Trump’s ‘promise’ to send $5,000 to every US adult should the Republicans win</p><p>Late-night hosts recapped the second day of Donald Trump’s underattended and unusual <a href=\"https://www.theguardian.com/us-n",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/sep/11/jimmy-kimmel-trump-republican-midterm-convention"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Red Queen hypothesis is a hypothesis in evolutionary biology proposed in 1973, that species must constantly adapt, evolve, and proliferate in order to survive while pitted against ever-evolving opposing species.",
-      "body": "The hypothesis was intended to explain the constant (age-independent) extinction probability as observed in the paleontological record caused by co-evolution between competing species; however, it has also been suggested that the Red Queen hypothesis explains ",
+      "opener": "You probably never noticed this —",
+      "hook": "The South Wind is an Arabic-language Algerian novel written by Abdelhamid ben Hadouga.",
+      "body": "It was ranked the 53rd in the list of the 105 best Arabic novels issued by the Arab Writers Union, and made into a film in 1976. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Red_Queen_hypothesis"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Gore, gimps and a potty-mouthed magpie: welcome to the Lisbon horror festival where nightmares are a dream",
-      "body": "<p>MotelX – Portugal’s only film festival dedicated to horror – hopes to inspire local film-makers by showcasing world-class scares. Now in its 20th edition, its directors say truly nerve-shredding cinema is its holy grail</p><p>If horror h",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/11/motelx-lisbon-portugal-horror-film-festival"
+      "url": "https://en.wikipedia.org/wiki/The_South_Wind_(novel)"
     }
   ]
 }
