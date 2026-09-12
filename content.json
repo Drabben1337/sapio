@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T23:35:30.629Z",
+  "generated": "2026-09-12T01:41:37.112Z",
   "count": 20,
   "items": [
     {
@@ -13,13 +13,31 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Eleventh Hour by Salman Rushdie audiobook review – stories with levity and laughter",
+      "body": "<p>The author explores themes of legacy, mortality and loneliness in the first work of fiction since his near-fatal attack</p><p>Five short stories and five readers make up Salman Rushdie’s collection, The Eleventh Hour, his first work of f",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/10/the-eleventh-hour-by-salman-rushdie-audiobook-review-stories-with-levity-and-laughter"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "They are traditionally constructed using locally available plant materials, most commonly Shetland black oats and soft rushes.",
-      "body": "A kishie is a type of pack basket native to the Shetland Islands. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Shetland_ponies_ca_1900.jpg/330px-Shetland_ponies_ca_1900.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kishie"
+      "opener": "On this day in 1309 —",
+      "hook": "The First siege of Gibraltar takes place in the context of the Spanish Reconquista pitting the forces of the Kingdom of Castile against the Emirate of Granada resulting in a Castilian victory.",
+      "body": "The first siege of Gibraltar was a battle of the Spanish Reconquista that took place in 1309. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Rock_of_Gibraltar_northwest.jpg/330px-Rock_of_Gibraltar_northwest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/First_siege_of_Gibraltar"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Elon Musk attacks film-maker behind documentary about him",
+      "body": "<p>Tech mogul calls director Alex Gibney a ‘bitter old man’ who has ‘zero integrity’ in series of posts on X</p><p><a href=\"https://www.theguardian.com/technology/elon-musk\">Elon Musk</a> has issued an angry tirade at the film-maker behind ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/elon-musk-attacks-film-maker-behind-documentary-about-him"
     },
     {
       "type": "card",
@@ -33,79 +51,21 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "River review – so-so survival slasher offers more of the same and little else",
-      "body": "<p><strong>Toronto film festival:</strong> strong performances from two experienced scream queens and some surprisingly thoughtful direction can’t elevate yet another stalk-by-numbers horror</p><p>It would be unwise and unfair to expect tha",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/11/river-movie-review"
+      "opener": "The Guardian · Film —",
+      "hook": "‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence",
+      "body": "<p>Rachel Szor and Yuval Abraham collected the testimony of 24 insiders who helped remotely target Gazans’ homes. They explain how they got these self-professed ‘small cogs’ to talk about the killing</p><p>On a darkened rooftop in Tel Aviv,",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Philip IV, also called the Planet King, was King of Spain from 1621 to his death and King of Portugal from 1621 to 1640.",
-      "body": "Philip is remembered for his patronage of the arts, including such artists as Diego Velázquez, and his rule over Spain during the Thirty Years' War. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Philip_IV_of_Spain_-_Vel%C3%A1zquez_1644.jpg/330px-Philip_IV_of_Spain_-_Vel%C3%A1zquez_1644.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Philip_IV_of_Spain"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Royal High School Bath is a private day and boarding school for girls located in Bath, Somerset, England.",
-      "body": "Established in 1998 from the merger of two schools, the Royal School and Bath High School, it enrols approximately 600 students across Nursery, Prep, Senior, and Sixth Form levels. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/18/Royal-high-school-bath.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Royal_High_School%2C_Bath"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1921 —",
-      "hook": "Nahalal, a Jewish moshav in Palestine, is settled.",
-      "body": "Nahalal is a moshav in northern Israel. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/%D7%A0%D7%94%D7%9C%D7%9C_-_%D7%96%D7%90%D7%91_%D7%A9%D7%98%D7%99%D7%99%D7%9F.jpg/330px-%D7%A0%D7%94%D7%9C%D7%9C_-_%D7%96%D7%90%D7%91_%D7%A9%D7%98%D7%99%D7%99%D7%9F.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Nahalal"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Elon Musk attacks film-maker behind documentary about him",
-      "body": "<p>Tech mogul calls director Alex Gibney a ‘bitter old man’ who has ‘zero integrity’ in series of posts on X</p><p><a href=\"https://www.theguardian.com/technology/elon-musk\">Elon Musk</a> has issued an angry tirade at the film-maker behind ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/technology/2026/sep/10/elon-musk-attacks-film-maker-behind-documentary-about-him"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Criocephalosaurus is an extinct genus of tapinocephalian therapsids that lived in Southern Africa during the Guadalupian epoch of the Permian.",
-      "body": "They are the latest surviving dinocephalians, extending past the Abrahamskraal Formation into the lowermost Poortjie Member of the Teekloof Formation in South Africa. Bring it up somewhere. Watch the reaction.",
+      "opener": "Here's one for the group chat —",
+      "hook": "It does not regulate or certify doctors, a responsibility which lies with the General Medical Council.",
+      "body": "The British Medical Association (BMA) is a registered trade union and professional body for doctors in the United Kingdom. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Criocephalosaurus"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2011 —",
-      "hook": "A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members.",
-      "body": "The National September 11 Memorial & Museum is a memorial and museum that are part of the World Trade Center complex, in New York City, created for remembering the September 11, 2001, terrorist attacks which killed 2,977 people, as well as the February 26, 1993, World Trade Center bombing which killed six. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/9-11_Memorial_and_Museum_%2828815276064%29.jpg/330px-9-11_Memorial_and_Museum_%2828815276064%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Eleventh Hour by Salman Rushdie audiobook review – stories with levity and laughter",
-      "body": "<p>The author explores themes of legacy, mortality and loneliness in the first work of fiction since his near-fatal attack</p><p>Five short stories and five readers make up Salman Rushdie’s collection, The Eleventh Hour, his first work of f",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/10/the-eleventh-hour-by-salman-rushdie-audiobook-review-stories-with-levity-and-laughter"
+      "url": "https://en.wikipedia.org/wiki/British_Medical_Association"
     },
     {
       "type": "card",
@@ -118,82 +78,122 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1297 —",
-      "hook": "Battle of Stirling Bridge: Scots jointly led by William Wallace and Andrew Moray defeat the English.",
-      "body": "The Battle of Stirling Bridge was fought during the First War of Scottish Independence. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_Battle_of_Stirling_Bridge.jpg/330px-The_Battle_of_Stirling_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Stirling_Bridge"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Polly Alexandra Walker is an English actress.",
-      "body": "She has starred in the films Enchanted April (1991), Patriot Games (1992), Sliver (1993), Restoration (1995), The Gambler (1997), and Savage Messiah (2002). Worth a quiet trip down the rabbit hole.",
+      "opener": "Okay, this one's fun —",
+      "hook": "Hydrogen gas is produced by several industrial methods.",
+      "body": "Nearly all of the world's current supply of hydrogen is created from fossil fuels. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Polly_Walker"
+      "url": "https://en.wikipedia.org/wiki/Hydrogen_production"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2012 —",
-      "hook": "The U.S. embassy in Benghazi, Libya is attacked, resulting in four deaths.",
-      "body": "Benghazi is the second-largest city in Libya as well as the largest city in Cyrenaica, with an estimated population of 859,000 in 2023. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Al_Daawa_alIslamiyah2.JPG/330px-Al_Daawa_alIslamiyah2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1953 —",
+      "hook": "U.S. Senator and future President John Fitzgerald Kennedy marries Jacqueline Lee Bouvier at St. Mary's Church in Newport, Rhode Island.",
+      "body": "John Fitzgerald Kennedy, also known as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Benghazi"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence",
-      "body": "<p>Rachel Szor and Yuval Abraham collected the testimony of 24 insiders who helped remotely target Gazans’ homes. They explain how they got these self-professed ‘small cogs’ to talk about the killing</p><p>On a darkened rooftop in Tel Aviv,",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1789 —",
-      "hook": "Alexander Hamilton is appointed the first United States Secretary of the Treasury.",
-      "body": "Alexander Hamilton was an American military officer, statesman, and Founding Father who served as the first U.S. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/330px-Alexander_Hamilton_%28NPG%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Alexander_Hamilton"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "\"High Energy\" is a song co-written and co-produced by Ian Levine and Fiachra Trench and performed by American singer Evelyn Thomas.",
-      "body": "The song was popular in dance clubs around the world, topping the US Billboard Dance/Disco Top 80 in September 1984. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/53/High_Energy_%28Evelyn_Thomas_song%29_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/High_Energy_(Evelyn_Thomas_song)"
+      "url": "https://en.wikipedia.org/wiki/John_F._Kennedy"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Ryan Cleckner is an American attorney, firearms industry executive, military veteran, author, and educator known for his work in firearm law, compliance, and long-range shooting instruction.",
-      "body": "A former special operations sniper team leader in the United States Army’s 1st Ranger Battalion, he later became a legal and policy expert in the firearms industry, holding executive roles at Remington Outdoor Company and working with the National Shooting Spo",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ryan_Cleckner_by_Gage_Skidmore.jpg/330px-Ryan_Cleckner_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Engalaguppe Seetharamiah Venkataramiah was an Indian judge, who served as the 19th Chief Justice of India, from 19 June 1989 until his retirement on 17 December 1989.",
+      "body": "He began his legal career in 1946, and was appointed as a judge of the Karnataka High Court in November 1970. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Justice_E.S._Venkataramiah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ryan_Cleckner"
+      "url": "https://en.wikipedia.org/wiki/E._S._Venkataramiah"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1803 —",
-      "hook": "The Battle of Delhi, during the Second Anglo-Maratha War, between British troops under General Lake, and Marathas of Scindia's army under General Louis Bourquin ends in a British victory.",
-      "body": "The Battle of Delhi or Battle of Patparganj took place on 11 September 1803 during the Second Anglo-Maratha War, between British East India Company troops of the Bombay Army under General Lake, and the Marathas of Scindia's army under General Louis Bourquin and Sardar Wable. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Battle_of_Delhi_%281803%29_map.jpg/330px-Battle_of_Delhi_%281803%29_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1923 —",
+      "hook": "Southern Rhodesia, today called Zimbabwe, is annexed by the United Kingdom.",
+      "body": "Southern Rhodesia was a landlocked, self-governing colony of the British Empire in what is today the country of Zimbabwe. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Southern_Rhodesia_%281924%E2%80%931964%29.svg/330px-Flag_of_Southern_Rhodesia_%281924%E2%80%931964%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Delhi_(1803)"
+      "url": "https://en.wikipedia.org/wiki/Southern_Rhodesia"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Craftivism is a contemporary form of activism that uses craft as its primary mode for political and social engagement.",
+      "body": "Craftivism is not tied to any single ideology, incorporating themes of anti-capitalism, environmentalism, solidarity, third-wave feminism, and other related movements. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Laura_trying_on_craftivism_mask.jpg/330px-Laura_trying_on_craftivism_mask.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Craftivism"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1213 —",
+      "hook": "Albigensian Crusade: Simon de Montfort, 5th Earl of Leicester, defeats Peter II of Aragon at the Battle of Muret.",
+      "body": "The Albigensian Crusade, also known as the Cathar Crusade (1209–1229), was a military and ideological campaign initiated by Pope Innocent III to eliminate Catharism in Languedoc, what is now southern France. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Le_massacre_des_Albigeois.jpg/330px-Le_massacre_des_Albigeois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Albigensian_Crusade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Painted in 1906 and gifted to the Auckland Art Gallery two years later, it portrays the Māori seafaring canoes that left Rarotonga, in the Cook Islands, as part of the alleged 'Grand Fleet' sailing for New Zealand.",
+      "body": "Departure of the Six Canoes from Raratonga for New Zealand, AD1350 is an oil painting by the New Zealand painter Kennett Watkins (1847–1933). One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kennett_Watkins_-_Departure_of_the_six_canoes_from_Raratonga_for_New_Zealand_-_U-26_-_Auckland_Art_Gallery.jpg/330px-Kennett_Watkins_-_Departure_of_the_six_canoes_from_Raratonga_for_New_Zealand_-_U-26_-_Auckland_Art_Gallery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Departure_of_the_Six_Canoes_from_Raratonga_for_New_Zealand%2C_AD1350"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Migration to New Zealand began only very recently in human history, with Polynesian settlement in New Zealand, previously uninhabited, about 1250 CE to 1280 CE.",
+      "body": "European migration provided a major influx, especially following the signing of the Treaty of Waitangi in 1840. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Scottish_poster_advertising_emigration_to_New_Zealand.jpg/330px-Scottish_poster_advertising_emigration_to_New_Zealand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Immigration_to_New_Zealand"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "River review – so-so survival slasher offers more of the same and little else",
+      "body": "<p><strong>Toronto film festival:</strong> strong performances from two experienced scream queens and some surprisingly thoughtful direction can’t elevate yet another stalk-by-numbers horror</p><p>It would be unwise and unfair to expect tha",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/11/river-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: The liberation of Yugoslavia from Axis occupation continues. Bajina Bašta in western Serbia is among the liberated cities.",
+      "body": "World War II in the Kingdom of Yugoslavia began on 6 April 1941, when the country was invaded and swiftly conquered by Axis forces and partitioned among Germany, Italy, Hungary, Bulgaria and their client regimes. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Adolf_Hitler_meets_Ante_Paveli%C4%87.1941.jpg/330px-Adolf_Hitler_meets_Ante_Paveli%C4%87.1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II_in_Yugoslavia"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Mir Afsar Ali is an Indian radio jockey, television anchor, singer, comedian, actor and media personality.",
+      "body": "He was the host of Mirakkel, a Comedy show on Zee Bangla and Hi Kolkata on Radio Mirchi. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Meer_Afsar_Ali_%28cropped%29.JPG/330px-Meer_Afsar_Ali_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mir_Afsar_Ali"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1983 —",
+      "hook": "A Wells Fargo depot in West Hartford, Connecticut, United States, is robbed of approximately US$7 million by Los Macheteros.",
+      "body": "Wells Fargo & Company is an American multinational financial services company. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Wells_Fargo_Logo_%282020%29.svg/330px-Wells_Fargo_Logo_%282020%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Wells_Fargo"
     }
   ]
 }
