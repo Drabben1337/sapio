@@ -1,139 +1,179 @@
 {
-  "generated": "2026-09-12T14:26:31.794Z",
-  "count": 14,
+  "generated": "2026-09-12T17:28:11.465Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1959 —",
+      "hook": "Bonanza, the first regularly scheduled TV program presented in color, is launched in the United States.",
+      "body": "Bonanza is an American Western television series that ran on NBC from September 12, 1959, to January 16, 1973. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f1/Bonanza_title_screen.jpg/330px-Bonanza_title_screen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bonanza"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Toronto’s Elevation Pictures moves into documentary pre-sales",
-      "body": "EXCLUSIVE: “We want compelling IP or something with personality that people can understand in a sentence.”",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/torontos-elevation-pictures-moves-into-documentary-pre-sales/5220355.article"
+      "opener": "The Guardian · Film —",
+      "hook": "The Uprising review – the peasants are revolting in muddled historical epic",
+      "body": "<p>Andrew Garfield’s charisma can’t save Paul Greengrass’s grim and depressingly generic period piece</p><p>Hollywood loves giving young actors their own historical epic as much as audiences seem to dislike watching them. Timothée Chalamet ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/09/the-uprising-movie-review"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What Should My Children Do? by Daniel Susskind review – the case for embracing tech in the classroom",
-      "body": "<p>A refreshingly optimistic book that asks us to grasp the educational opportunities of AI, rather than shrink from them</p><p>In 1979, the government asked Wilfred Cockcroft, a now largely forgotten maths lecturer from the University of H",
+      "hook": "Taipei Story by Rebecca F Kuang review – the torture and hilarity of learning Chinese",
+      "body": "<p>An American Chinese student studies Mandarin in Taiwan, in this heartfelt journey of self-discovery and family secrets</p><p>What is Taiwan? A former Japanese colony? A centre of the semiconductor industry?",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/09/what-should-my-children-do-by-daniel-susskind-review-the-case-for-embracing-tech-in-the-classroom"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Girl Group review – Rebel Wilson’s dreadful music comedy is a spice-free wannabe",
-      "body": "<p><strong>Toronto film festival:</strong> the actor turned writer-director’s ode to girl groups is a shoddily made and embarrassingly unfunny catastrophe</p><p>There were plentiful on-paper delights for certain music fans of a certain gene",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/12/girl-group-review-rebel-wilson"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Key to Rebecca is a novel by the British author Ken Follett.",
-      "body": "Published in 1980 by Pan Books (ISBN 0792715381), it was a best-seller that achieved popularity in the United Kingdom and worldwide. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/44/KeyToRebecca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Key_to_Rebecca"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Bunker review – Cruz and Bardem just can’t dig Florian Zeller’s shallow thriller out of a hole",
-      "body": "<p><strong>Venice film festival: </strong>An architect (Javier Bardem) alienates his book editor wife (Penélope Cruz) when he agrees to build a luxurious bunker for a tech billionaire</p><p>Even the formidable pairing of Penélope Cruz and J",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/08/the-bunker-review-penelope-cruz-javier-bardem-florian-zeller-venice-film-festival"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Crooked House is a 2017 mystery film directed by Gilles Paquet-Brenner, based on Agatha Christie’s 1949 novel of the same name.",
-      "body": "A British-American coproduction, the film stars Max Irons, Terence Stamp, Glenn Close, Gillian Anderson, and Stefanie Martini. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cc/Crooked_House_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Crooked_House_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Evil Genius’, ’Everybody Wants To F*ck Me’ in TIFF buyers’ sights",
-      "body": "A24 is screening a trio of hot market titles for international buyers only.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/evil-genius-everybody-wants-to-fck-me-in-tiff-buyers-sights/5220354.article"
+      "url": "https://www.theguardian.com/books/2026/sep/11/taipei-story-by-rebecca-f-kuang-review-the-torture-and-hilarity-of-learning-chinese"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Victor Crăsescu or Crăsescu-Basarabeanu, born Victor Crasiuc, was an Imperial Russian-born Romanian physician, left-wing activist, and prose writer.",
-      "body": "He was originally from the Bessarabia Governorate, where he grew up as a rebel against Tsarist autocracy; enlisted at Chișinău Theological Seminary, which he greatly disliked, he took his scientific training at Odesa University. The world is stranger than it l",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Victor_Cr%C4%83sescu_in_an_1895_lithograph.png/330px-Victor_Cr%C4%83sescu_in_an_1895_lithograph.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Bernice Evelyn Goodman was an American social worker, therapist, and activist for women's rights, gay rights, child welfare, and civil rights.",
+      "body": "She was described as \"one of the unsung heroes of the gay liberation movement.\" The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/BerniceGoodman1979.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Victor_Cr%C4%83sescu"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Cornerstone Films boards Courteney Cox’s ‘Evil Genius’ ahead of Toronto world premiere",
-      "body": "EXCLUSIVE: Patricia Arquette and David Harbour star.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/cornerstone-films-boards-courteney-coxs-evil-genius-ahead-of-toronto-world-premiere/5220352.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Maze Runner film series consists of American science-fiction dystopian action adventure films based on The Maze Runner novels by the American author James Dashner.",
-      "body": "Produced by Ellen Goldsmith-Vein and distributed by 20th Century Fox, the films star Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster, Ki Hong Lee, Dexter Darden, and Patricia Clarkson. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maze_Runner_(film_series)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Yūji Kobayashi is a Japanese screenwriter and novelist that is mostly known for his work on Garo series, Ultraman franchise, and the first three seasons of Pretty Guardian Sailor Moon Crystal series.",
-      "body": "One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Y%C5%ABji_Kobayashi"
+      "url": "https://en.wikipedia.org/wiki/Bernice_Goodman"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Company review – Casey Affleck entertains us with creepy campfire tales",
-      "body": "<p><strong>Venice film festival:</strong> Affleck’s third film as a director is a diverting gothic anthology about mysterious strangers, murder and – pointedly – wronged men</p><p>Gather ye ’round the glowing screen for a Casey Affleck camp",
+      "hook": "Everybody Wants to F*ck Me review – Taron Egerton is hounded in sharp-toothed dating nightmare",
+      "body": "<p><strong>Toronto film festival:</strong> It’s Get Out meets the viral Shitty Media Men list in this hugely entertaining mix of dark comedy and stalker thriller with a brilliant alternating turn from Taron Egerton</p><p>Everyone knows an A",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology"
+      "url": "https://www.theguardian.com/film/2026/sep/12/everybody-wants-to-fck-me-review-taron-egerton"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Film producer Jeremy Thomas was a cross between a kindly Cambridge don and the movie world’s cool uncle",
+      "body": "<p>The man behind The Last Emperor had the confidence of an old-fashioned studio boss along with the soul of a cineaste</p><p>To say that movie producer Jeremy Thomas was British cinema royalty did not quite do justice to his meritocratic, ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-film-producer-kindly-cambridge-don-cool-uncle"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Tanaka and Diamond also wrestled for the World Wrestling Federation in the early 1990s as the Orient Express.",
-      "body": "Badd Company was a professional wrestling tag team in the Championship Wrestling Association, American Wrestling Association, Eastern Championship Wrestling, and World Championship Wrestling between 1986 and 1994 comprising Pat Tanaka and Paul Diamond. Worth a",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Badd_Company"
+      "opener": "On this day in 1906 —",
+      "hook": "The Newport Transporter Bridge is opened in Newport, South Wales by Viscount Tredegar.",
+      "body": "The Newport Transporter Bridge is a transporter bridge that crosses the River Usk in Newport, South East Wales. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Transporter_Bridge%2C_from_Coronation_Park.jpg/330px-Transporter_Bridge%2C_from_Coronation_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Newport_Transporter_Bridge"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Jeremy Thomas, beloved Oscar-winning UK producer of ‘The Last Emperor’, dies at 77",
+      "body": "Takashi Miike’s Bad Lieutenant: Tokyo premieres at TIFF on Monday.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/jeremy-thomas-beloved-oscar-winning-uk-producer-of-the-last-emperor-dies-at-77/5220362.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "It is accompanied singing noted for a drop and raise in pitch at the end of phrases, and rhythmic nonsensical syllables, comparable to Scat singing.",
-      "body": "An imene tuki is a traditional hymn of the Cook Islands. One of those things you can't un-know.",
-      "img": null,
+      "opener": "On this day in 1969 —",
+      "hook": "Philippine Air Lines Flight 158 crashes in Antipolo, near Manila International Airport in the Philippines, killing 45 people.",
+      "body": "Philippine Air Lines Flight 158 was a flight from Mactan–Cebu International Airport to Manila International Airport near Manila which crashed on September 12, 1969. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/PI-C1131_Aircraft.jpg/330px-PI-C1131_Aircraft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Philippine_Air_Lines_Flight_158"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Jeremy Thomas, British producer of The Last Emperor and Sexy Beast, dies aged 77",
+      "body": "<p>An outstanding figure in the UK film industry, Thomas was noted for collaborations with directors including Bernardo Bertolucci and David Cronenberg</p><p>Jeremy Thomas, the distinguished British producer of films including Sexy Beast, H",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Nice Nailantei Leng'ete is a Kenyan human rights activist, advocating for alternative rite of passage (ARP) for girls in Africa and campaigning to stop female genital mutilation (FGM).",
+      "body": "In her work with Amref Health Africa, Leng'ete has saved an estimated 17,000 girls from undergoing genital mutilation and for many, childhood marriages. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Nice_Nailantei_Leng%27ete_en_la_mesa_sobre_Violencia_de_G%C3%A9nero_del_Foro_Mundial_sobre_Violencias_Urbanas.jpg/330px-Nice_Nailantei_Leng%27ete_en_la_mesa_sobre_Violencia_de_G%C3%A9nero_del_Foro_Mundial_sobre_Violencias_Urbanas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Imene_tuki"
+      "url": "https://en.wikipedia.org/wiki/Nice_Nailantei_Leng'ete"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1958 —",
+      "hook": "Jack Kilby demonstrates the first working integrated circuit while working at Texas Instruments.",
+      "body": "Jack St. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Jack_Kilby_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Jack_Kilby"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1910 —",
+      "hook": "Premiere performance of Gustav Mahler's Symphony No. 8 in Munich (with a chorus of 852 singers and an orchestra of 171 players. Mahler's rehearsal assistant conductor was Bruno Walter).",
+      "body": "Gustav Mahler was an Austro-Bohemian Romantic composer, and one of the leading conductors of his generation. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg/330px-Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Gustav_Mahler"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Jillian Anita Chapman, known professionally as Jillian Edwards, is an American singer-songwriter who primarily plays indie folk and indie pop.",
+      "body": "She has released five albums; Galaxies & Such in 2009, Headfirst in 2011, Daydream, All My Christmases in 2014, and Covers in 2016. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Jillian_Edwards_Profile.jpg/330px-Jillian_Edwards_Profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jillian_Edwards"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Prince Gustaf Adolf of Sweden, Duke of Västerbotten was a Swedish prince who for most of his life was second in the line of succession to the Swedish throne with the title of Hereditary Prince.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/A-portrait-of-Prince-Gustavus-Adolphus-352025366322.jpg/330px-A-portrait-of-Prince-Gustavus-Adolphus-352025366322.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Prince_Gustaf_Adolf%2C_Duke_of_V%C3%A4sterbotten"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "NASA launches Space Shuttle Discovery on STS-48 to deploy the Upper Atmosphere Research Satellite.",
+      "body": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Venice Film Festival 2026 awards ceremony – watch and follow the winners live",
+      "body": "The winners for the 83rd Venice Film Festival are being announced this evening.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/venice-film-festival-2026-awards-ceremony-watch-and-follow-the-winners-live/5220360.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Hispanic Society of America, now renamed the Hispanic Society Museum and Library (HSM&L), operates a museum and reference library for the study of the arts and cultures of Spain and Portugal and their former colonies in Latin America, the Spanish East Indies, and Portuguese India.",
+      "body": "Despite the name, it has never functioned as a learned society. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/HispanicSocietyofAmerica.jpg/330px-HispanicSocietyofAmerica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hispanic_Society_of_America"
     }
   ]
 }
