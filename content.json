@@ -1,54 +1,16 @@
 {
-  "generated": "2026-09-13T19:00:57.852Z",
-  "count": 20,
+  "generated": "2026-09-13T21:50:18.795Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "In pictures: Thousands flock to Radio 2 in the Park in Stirling",
-      "body": "The event, featuring a host of bands, singers and Radio 2 DJs is taking place at the foot of Stirling Castle.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c23x1j420keo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2008 —",
-      "hook": "Delhi, India, is hit by a series of bomb blasts, resulting in 30 deaths and 130 injuries.",
-      "body": "Delhi, officially the National Capital Territory (NCT) of Delhi, is a megacity and a union territory of India containing New Delhi, the capital of India. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/330px-Jama_Masjid_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Delhi"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Amazons is a 1986 sword-and-sorcery film directed by Alejandro Sessa and written by Charles R.",
-      "body": "Saunders, based on his 1979 short story \"Agbewe’s Sword\". The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/44/Amazons_FilmPoster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "Horselunges Manor is a 15th-century manor house in Hellingly, East Sussex, that was restored in the 20th century.",
+      "body": "The house was previously owned by Peter Grant, the manager of Led Zeppelin, and featured in the film The Song Remains the Same about the band. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Horselunges_Manor.jpg/330px-Horselunges_Manor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Amazons_(1986_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Concourse Media scores TIFF pre-sales on Nicolas Cage thriller ‘Parish’",
-      "body": "EXCLUSIVE: Production start scheduled for week of September 21 in Minnesota.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/concourse-media-scores-tiff-pre-sales-on-nicolas-cage-thriller-parish/5220369.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2001 —",
-      "hook": "Civilian aircraft traffic resumes in the United States after the September 11 attacks.",
-      "body": "The September 11 attacks, colloquially known as 9/11, were a coordinated series of suicide attacks perpetrated by the Islamic terrorist organization al-Qaeda against the United States in 2001. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/330px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/September_11_attacks"
+      "url": "https://en.wikipedia.org/wiki/Horselunges_Manor"
     },
     {
       "type": "card",
@@ -61,120 +23,51 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Lavoisier is a lunar impact crater that is located near the northwestern limb of the Moon, at the western edge of the Oceanus Procellarum.",
+      "body": "It is named after the French chemist Antoine Lavoisier. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Lavoisier_crater_4189_h2.jpg/330px-Lavoisier_crater_4189_h2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lavoisier_(crater)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Julia Donaldson: ‘Am I the Gruffalo Granny? Not really. I’m the mouse’",
+      "body": "<p>As she introduces the latest member of her Gruffalo family, Julia Donaldson talks about storytelling, loss and the worries that come with being Britain’s all-time bestselling author</p><p>In 1999 a journalist asked a then-unknown author ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/12/julia-donaldson-am-i-the-gruffalo-granny-not-really-im-the-mouse"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Chhichhaura is a village in Deenshah Gaura block of Rae Bareli district, Uttar Pradesh, India.",
+      "body": "It is located 20 km from Raebareli, the district headquarters. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Deenshah_Gaura_block_map.png/330px-Deenshah_Gaura_block_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chhichhaura"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "'Forget Notting Hill - we set our new romcom in the east end of Glasgow'",
-      "body": "Romantic comedy Premature is out in cinemas next Friday, despite a microscopic budget.",
+      "hook": "In pictures: Thousands flock to Radio 2 in the Park in Stirling",
+      "body": "The event, featuring a host of bands, singers and Radio 2 DJs is taking place at the foot of Stirling Castle.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c0klnl3l6vro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c23x1j420keo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "The Packard Automotive Plant was an automobile-manufacturing factory in Detroit, Michigan, where luxury cars were made by the Packard Motor Car Company and later by the Studebaker-Packard Corporation.",
-      "body": "Demolition began on building 21 on October 27, 2022, and a second round of demolition began on building 28 on January 24, 2023, which was wrapped up by April 1, however all demolition efforts by the City of Detroit halted, which stopped finishing demolition wo",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Packard_plant_no_10_construction.jpg/330px-Packard_plant_no_10_construction.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Urgent Hangman is a 1938 thriller novel by the British writer Peter Cheyney.",
+      "body": "It introduced the fictional London-based private detective Slim Callaghan, the first in a series of seven novels as well as two short story collections. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/The_Urgent_Hangman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Packard_Automotive_Plant"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1948 —",
-      "hook": "Deputy Prime Minister of India Vallabhbhai Patel orders the Army to move into Hyderabad to integrate it with the Indian Union.",
-      "body": "Vallabhbhai Patel, commonly known as Sardar Patel, was a Gandhian Indian independence activist, lawyer and statesman who served as the first Deputy Prime Minister and Home Minister of India from 1947 to 1950. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Sardar_patel_%28cropped%29.jpg/330px-Sardar_patel_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Vallabhbhai_Patel"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1807 —",
-      "hook": "Beethoven's Mass in C major, Op. 86, is premiered, commissioned by Nikolaus I, Prince Esterházy, and displeasing him.",
-      "body": "Ludwig van Beethoven composed the Mass in C Major, Op. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Beethoven_3.jpg/330px-Beethoven_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mass_in_C_major_(Beethoven)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "In jazz and blues, a blue note is a note that—for expressive purposes—is sung or played at a slightly different pitch from standard.",
-      "body": "Typically the alteration is between a quartertone and a semitone, but this varies depending on the musical context. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Blue_note"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1843 —",
-      "hook": "The Greek Army rebels (OS date: September 3) against the autocratic rule of king Otto of Greece, demanding the granting of a constitution.",
-      "body": "The 3 September 1843 Revolution was an uprising by the Hellenic Army in Athens, supported by large sections of the people, against the autocratic rule of King Otto. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/3%CE%B7_%CE%A3%CE%B5%CF%80%CF%84%CE%B5%CE%BC%CE%B2%CF%81%CE%AF%CE%BF%CF%85.jpg/330px-3%CE%B7_%CE%A3%CE%B5%CF%80%CF%84%CE%B5%CE%BC%CE%B2%CF%81%CE%AF%CE%BF%CF%85.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/3_September_1843_Revolution"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Church of Saint Lawrence was listed as a historic structure by National Institute of Historic and Artistic Heritage (IPHAN) in 1952.",
-      "body": "The Church of Saint Lawrence is a 17th-century Roman Catholic church located in Itaparica, Bahia, Brazil. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Igreja_de_S%C3%A3o_Louren%C3%A7o_Itaparica_South_Elevation_2018-0132.jpg/330px-Igreja_de_S%C3%A3o_Louren%C3%A7o_Itaparica_South_Elevation_2018-0132.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Church_of_Saint_Lawrence_(Itaparica)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The corresponding (purist) Latin term was responsalis.",
-      "body": "An apocrisiarius, the Latinized form of apokrisiarios, sometimes Anglicized as apocrisiary, was a high diplomatic representative during Late Antiquity and the early Middle Ages. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Apocrisiarius"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Ana Stephanie Vaquer González is a Chilean professional wrestler.",
-      "body": "She is signed to WWE, where she performs on the Raw brand. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Stephanie_Vaquer%2C_April_2024_2.jpg/330px-Stephanie_Vaquer%2C_April_2024_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Stephanie_Vaquer"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Practical Magic 2 review – Bullock and Kidman return for odd sequel that still casts a spell",
-      "body": "<p>A nostalgia-bait return to the witchy 90s comedy is as strange and messy as the first but there are warm seasonal pleasures to be had</p><p>Much has changed in the universe, cosmic and otherwise, since the Owens witches last graced the b",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "River review – so-so survival slasher offers more of the same and little else",
-      "body": "<p><strong>Toronto film festival:</strong> strong performances from two experienced scream queens and some surprisingly thoughtful direction can’t elevate yet another stalk-by-numbers horror</p><p>It would be unwise and unfair to expect tha",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/11/river-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in -585 —",
-      "hook": "Lucius Tarquinius Priscus, king of Rome, celebrates a triumph for his victories over the Sabines, and the surrender of Collatia.",
-      "body": "Lucius Tarquinius Priscus was the legendary fifth king of Rome and the first representative of the Etruscan dynasty on the Roman throne. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus"
+      "url": "https://en.wikipedia.org/wiki/The_Urgent_Hangman"
     },
     {
       "type": "card",
@@ -187,13 +80,40 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Naomi Klein: ‘Extreme wealth has a deranging effect. It turns you into a supremacist’",
+      "body": "<p>She’s tackled neoliberalism and the digital world, now the writer and activist is taking on tech billionaires. She explains<em> </em>how the super-rich are capitalising on climate and financial chaos in pursuit of power</p><p>Naomi Klein",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Aaron Mair is an epidemiological-spatial analyst, environmentalist, and past president of the Sierra Club, an American environmental organization founded by preservationist John Muir in 1892.",
-      "body": "He is involved in the environmental justice movement. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Aaron_Mair.jpg/330px-Aaron_Mair.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Monroe Street Bridge is a deck arch bridge in the northwestern United States that spans the Spokane River in Spokane, Washington.",
+      "body": "It was built 115 years ago in 1911 by the city of Spokane, and was designed by city engineer John Chester Ralston, assisted in construction supervision by Morton Macartney with ornamentation provided by the firm of Kirtland Kelsey Cutter and Karl G. One of tho",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Monroe_Street_Bridge_20070217.jpg/330px-Monroe_Street_Bridge_20070217.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Aaron_Mair"
+      "url": "https://en.wikipedia.org/wiki/Monroe_Street_Bridge_(Spokane%2C_Washington)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "River review – so-so survival slasher offers more of the same and little else",
+      "body": "<p><strong>Toronto film festival:</strong> strong performances from two experienced scream queens and some surprisingly thoughtful direction can’t elevate yet another stalk-by-numbers horror</p><p>It would be unwise and unfair to expect tha",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/11/river-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Concourse Media scores TIFF pre-sales on Nicolas Cage thriller ‘Parish’",
+      "body": "EXCLUSIVE: Production start scheduled for week of September 21 in Minnesota.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/concourse-media-scores-tiff-pre-sales-on-nicolas-cage-thriller-parish/5220369.article"
     }
   ]
 }
