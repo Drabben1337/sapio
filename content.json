@@ -1,199 +1,119 @@
 {
-  "generated": "2026-09-14T19:38:24.536Z",
-  "count": 20,
+  "generated": "2026-09-14T22:47:27.575Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2022 —",
-      "hook": "Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.",
-      "body": "Elizabeth II, Queen of the United Kingdom and other Commonwealth realms, died on 8 September 2022 at Balmoral Castle in Scotland, at the age of 96. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Elizabeth_II"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+      "body": "The US rapper was condemned by Jewish groups after making comments criticising Israel.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on a new case for Hercule Poirot – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/sep/13/tom-gauld-on-a-new-case-for-hercule-poirot-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/sep/13/tom-gauld-on-a-new-case-for-hercule-poirot-cartoon"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "And Then She Fell is the 2023 debut novel of Tuscarora author Alicia Elliott.",
-      "body": "The book was longlisted for the Women's Prize for Fiction and won the Amazon Canada First Novel Award. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/And_Then_She_Fell_cover_%282023_Alicia_Elliott_novel%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Clue in the Old Album is the twenty-fourth volume in the Nancy Drew Mystery Stories series.",
+      "body": "It was first published in 1947 under the pseudonym Carolyn Keene. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Ndtcitoabkcvr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/And_Then_She_Fell"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The Famous Idaho Potato Bowl was one of the 2024–25 bowl games concluding the 2024 FBS football season.",
-      "body": "The 2024 Famous Idaho Potato Bowl was a college football bowl game played on December 23, 2024, at Albertsons Stadium located in Boise, Idaho. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2024_Famous_Idaho_Potato_Bowl"
+      "url": "https://en.wikipedia.org/wiki/The_Clue_in_the_Old_Album"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "‘Prima Facie’ review: Cynthia Erivo takes the stand in underwhelming adaptation of acclaimed one-woman play",
-      "body": "The film premieres in Toronto before heading to London",
+      "hook": "Universal, Blumhouse Atomic Monster take TIFF Midnight Madness hit ‘River’",
+      "body": "Upgrade represents international sales.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/prima-facie-review-cynthia-erivo-takes-the-stand-in-underwhelming-adaptation-of-acclaimed-one-woman-play/5220398.article"
+      "url": "https://www.screendaily.com/news/universal-blumhouse-atomic-monster-take-tiff-midnight-madness-hit-river/5220407.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Rosie Effect is a 2014 novel by Australian novelist Graeme Simsion and the second book of a trilogy including the previous instalment, The Rosie Project, and its sequel, The Rosie Result.",
+      "body": "The work was first published on 24 September 2014 in Australia / New Zealand by Text Publishing and the rights have since been sold in 24 other territories. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c8/The_Rosie_Effect.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Rosie_Effect"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+      "body": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Les Mains d'Orlac is a French science fiction novel written by Maurice Renard.",
+      "body": "The plot involves a celebrated pianist who loses his hands in a train crash and has them surgically replaced with those of an executed murderer. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/89/Les_Mains_d%27Orlac.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Les_Mains_d'Orlac"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
+      "hook": "Emily St John Mandel: ‘When half the electorate disagrees on basic reality, how do you come back from that?’",
+      "body": "<p>Her hit novel Station Eleven seemed to predict the pandemic, now the novelist is tackling the future of the US. She talks about chance, world-building and experiencing a ‘tiny bit’ of clairvoyance</p><p>When Emily St John Mandel was a ch",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Thirteen Reasons Why is a young adult novel written by Jay Asher in 2007, which follows the story of Hannah Baker, a high school sophomore, and the thirteen reasons why she killed herself.",
-      "body": "Following her death, Hannah leaves behind a series of seven double-sided cassette tapes detailing the thirteen specific people and events that she blames for her demise. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/ThirteenReasonsWhy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Thirteen_Reasons_Why"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Jeremy Thomas obituary",
-      "body": "<p>Film producer who enjoyed his greatest success with the 1987 epic The Last Emperor for which he won an Oscar</p><p>Asked whether he had ever cautioned restraint from a director, the film producer Jeremy Thomas replied: “My nature would b",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1685 —",
-      "hook": "Morean War: the Battle of Kalamata ends in a Venetian victory over the forces of the Ottoman Empire under the Kapudan Pasha.",
-      "body": "The Morean war, also known as the Sixth Ottoman–Venetian War, was fought between 1684–1699 as part of the wider conflict known as the \"Great Turkish War\", between the Republic of Venice and the Ottoman Empire. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Medal_for_the_Venetian_victories_in_the_Morean_War%2C_G._Hautsch%2C_Nuremberg%2C_1687.jpg/330px-Medal_for_the_Venetian_victories_in_the_Morean_War%2C_G._Hautsch%2C_Nuremberg%2C_1687.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Morean_War"
+      "url": "https://www.theguardian.com/books/2026/sep/13/emily-st-john-mandel-when-half-the-electorate-disagrees-on-basic-reality-how-do-you-come-back-from-that"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Samar Yazbek is a Syrian writer and journalist.",
-      "body": "She studied Arabic literature at Tishreen University (Latakia). Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/SamarYAZBEK-muhsinAKGUN.jpg/330px-SamarYAZBEK-muhsinAKGUN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Swatta is a 2017 Bangladeshi romantic tragedy film.",
+      "body": "The film was directed by Hashibur Reza Kallol and produced by Sohani Hossain under the banner of Taranga Entertainment. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/10/Swatta_Movie_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Samar_Yazbek"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 919 —",
-      "hook": "Battle of Islandbridge: High King Niall Glúndub is killed while leading an Irish coalition against the Vikings of Uí Ímair, led by King Sitric Cáech.",
-      "body": "The Battle of Islandbridge, also called the Battle of Áth Cliath, took place on 14 September 919, between a coalition of native Irish, led by Niall Glúndub, overking of the Northern Uí Néill and High King of Ireland, and the Dublin-based Vikings of the Uí Ímair, led by Sitric Cáech. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Islandbridge"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Mostly Harmless is a 1992 novel by Douglas Adams and the fifth book in the Hitchhiker's Guide to the Galaxy series.",
-      "body": "It is described on the cover of the first edition as \"The fifth book in the increasingly inaccurately named Hitch Hiker's Guide to the Galaxy trilogy\". The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a6/Mostly_Harmless_Harmony_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mostly_Harmless"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "To Green Angel Tower is the third and final novel in Tad Williams' Memory, Sorrow, and Thorn trilogy.",
-      "body": "At over 520,000 words, it is one of the longest novels ever written. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/To_Green_Angel_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/To_Green_Angel_Tower"
+      "url": "https://en.wikipedia.org/wiki/Swatta"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
-      "body": "<p>Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/aug",
+      "hook": "AI will transform capitalism – but how?",
+      "body": "<p>Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks like</p><p>The idea that autonomous, thinking machines may one day destroy property, hierarchy and inequality is as old as wester",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1939 —",
-      "hook": "World War II: The Estonian military boards the Polish submarine ORP Orzeł in Tallinn, sparking a diplomatic incident that the Soviet Union will later use to justify the annexation of Estonia.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The building contains a minaret, and an adjacent hall used for community functions that houses the library and visitors room.",
-      "body": "The Mareeba Mosque, officially known as the Mareeba and District Memorial Mosque, is a mosque located in Mareeba, a rural town in Queensland, Australia. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Mareeba_Masjid.jpg/330px-Mareeba_Masjid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mareeba_Mosque"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘The eye-gouging was very, very satisfying’: how we made cave horror classic The Descent",
-      "body": "<p>‘The child crawler whose head I crush with my boot was only 11, bless him. It was actually me stamping on a cauliflower’</p><p>I was introduced to Christian Colson at Celador Films off the back of [2002 horror film] Dog Soldiers, and I p",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/culture/2026/sep/14/eye-how-we-made-cave-horror-classic-the-descent-child-crawler"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1723 —",
-      "hook": "Grand Master António Manoel de Vilhena lays down the first stone of Fort Manoel in Malta.",
-      "body": "António Manoel de Vilhena was a Portuguese nobleman who was the 66th Prince and Grand Master of the Order of St. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Il-Belt._Palazz_tal-Gran_Mastru._Manoel_de_Vilhena.jpg/330px-Il-Belt._Palazz_tal-Gran_Mastru._Manoel_de_Vilhena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Manoel_de_Vilhena"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1943 —",
-      "hook": "World War II: The Wehrmacht starts a three-day retaliatory operation targeting several Greek villages in the region of Viannos, whose death toll would eventually exceed 500 persons.",
-      "body": "The Wehrmacht were the unified armed forces of Nazi Germany from 1935 to 1945. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Balkenkreuz.svg/330px-Balkenkreuz.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Wehrmacht"
+      "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "Ancestors review – messy but moving ghostly drama about the Aids crisis",
-      "body": "<p><strong>Toronto film festival:</strong> Saipan standout Éanna Hardwicke is a soulful gay man looking for a missing friend in a striking yet muddled debut</p><p>It’s not normal to regularly contemplate mortality in your twenties, to ask q",
+      "hook": "Macklemore dropped from Ed Sheeran’s US tour after ‘free Palestine’ speech",
+      "body": "<p>The American rapper will no longer support Sheeran’s US leg of Loop tour after comments at MetLife Stadium show</p><p><a href=\"https://www.theguardian.com/music/macklemore\">Macklemore</a> has been dropped from the remainder of the US leg",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/14/ancestors-review-aids-crisis-toronto-film-festival"
+      "url": "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Franchise Affair is a 1948 British mystery novel by Josephine Tey about the investigation of a mother and daughter accused of kidnapping a young woman visiting their area.",
+      "body": "It was published in the UK by Peter Davies Ltd in 1948 and in the US by The Macmillan Company in 1949. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/56/TheFranchiseAffair.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Franchise_Affair_(novel)"
     }
   ]
 }
