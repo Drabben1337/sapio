@@ -1,119 +1,189 @@
 {
-  "generated": "2026-09-14T22:47:27.575Z",
-  "count": 12,
+  "generated": "2026-09-15T01:00:44.064Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
-      "body": "The US rapper was condemned by Jewish groups after making comments criticising Israel.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on a new case for Hercule Poirot – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/sep/13/tom-gauld-on-a-new-case-for-hercule-poirot-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/sep/13/tom-gauld-on-a-new-case-for-hercule-poirot-cartoon"
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Elbridge Streeter Brooks was an American author, editor, and critic.",
+      "body": "He is chiefly remembered as an author of numerous works of fiction and nonfiction for children, much of it on historical or patriotic subjects. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Portrait_of_Elbridge_Streeter_Brooks.jpg/330px-Portrait_of_Elbridge_Streeter_Brooks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elbridge_Streeter_Brooks"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "The Clue in the Old Album is the twenty-fourth volume in the Nancy Drew Mystery Stories series.",
-      "body": "It was first published in 1947 under the pseudonym Carolyn Keene. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Ndtcitoabkcvr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Conquering Hero is a musical with a music by Mark Charlap, lyrics by Norman Gimbel, and book by Larry Gelbart.",
+      "body": "The musical was based on Preston Sturges's 1944 film Hail the Conquering Hero. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/25/Conquering.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Clue_in_the_Old_Album"
+      "url": "https://en.wikipedia.org/wiki/The_Conquering_Hero"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Universal, Blumhouse Atomic Monster take TIFF Midnight Madness hit ‘River’",
-      "body": "Upgrade represents international sales.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/universal-blumhouse-atomic-monster-take-tiff-midnight-madness-hit-river/5220407.article"
+      "cat": "history",
+      "opener": "On this day in 1935 —",
+      "hook": "Nazi Germany adopts a new national flag bearing the swastika.",
+      "body": "Nazi Germany, officially the German Reich and later the Greater German Reich, was the German state between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country, transforming it into a totalitarian dictatorship. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/330px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Nazi_Germany"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Rosie Effect is a 2014 novel by Australian novelist Graeme Simsion and the second book of a trilogy including the previous instalment, The Rosie Project, and its sequel, The Rosie Result.",
-      "body": "The work was first published on 24 September 2014 in Australia / New Zealand by Text Publishing and the rights have since been sold in 24 other territories. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c8/The_Rosie_Effect.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Rosie_Effect"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-      "body": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Les Mains d'Orlac is a French science fiction novel written by Maurice Renard.",
-      "body": "The plot involves a celebrated pianist who loses his hands in a train crash and has them surgically replaced with those of an executed murderer. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/89/Les_Mains_d%27Orlac.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Les_Mains_d'Orlac"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Emily St John Mandel: ‘When half the electorate disagrees on basic reality, how do you come back from that?’",
-      "body": "<p>Her hit novel Station Eleven seemed to predict the pandemic, now the novelist is tackling the future of the US. She talks about chance, world-building and experiencing a ‘tiny bit’ of clairvoyance</p><p>When Emily St John Mandel was a ch",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/13/emily-st-john-mandel-when-half-the-electorate-disagrees-on-basic-reality-how-do-you-come-back-from-that"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Swatta is a 2017 Bangladeshi romantic tragedy film.",
-      "body": "The film was directed by Hashibur Reza Kallol and produced by Sohani Hossain under the banner of Taranga Entertainment. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/10/Swatta_Movie_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Swatta"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "AI will transform capitalism – but how?",
-      "body": "<p>Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks like</p><p>The idea that autonomous, thinking machines may one day destroy property, hierarchy and inequality is as old as wester",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how"
+      "cat": "history",
+      "opener": "On this day in 1948 —",
+      "hook": "The Indian Army captures the towns of Jalna, Latur, Mominabad, Surriapet and Narkatpalli as part of Operation Polo.",
+      "body": "The Indian Army (IA) is the land-based branch and largest component of the Indian Armed Forces. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Indian_Army_Circular_Insignia.svg/330px-Indian_Army_Circular_Insignia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Indian_Army"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "Macklemore dropped from Ed Sheeran’s US tour after ‘free Palestine’ speech",
-      "body": "<p>The American rapper will no longer support Sheeran’s US leg of Loop tour after comments at MetLife Stadium show</p><p><a href=\"https://www.theguardian.com/music/macklemore\">Macklemore</a> has been dropped from the remainder of the US leg",
+      "hook": "Emmy awards 2026 live: the red carpet, the winners, the losers, the speeches",
+      "body": "<p>The Emmys are here – and tonight’s ceremony is likely to be dominated by The Pitt, Pluribus, Hacks and Widow’s Bay. Follow live updates</p><ul><li><p><a href=\"https://www.theguardian.com/tv-and-radio/gallery/2026/sep/15/emmys-2026-red-ca",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine"
+      "url": "https://www.theguardian.com/tv-and-radio/live/2026/sep/15/emmys-2026-live-updates-awards-winners-losers-biggest-shows-red-carpet-speeches-latest"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Franchise Affair is a 1948 British mystery novel by Josephine Tey about the investigation of a mother and daughter accused of kidnapping a young woman visiting their area.",
-      "body": "It was published in the UK by Peter Davies Ltd in 1948 and in the US by The Macmillan Company in 1949. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/56/TheFranchiseAffair.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Rachel Khedoori is a contemporary artist of Iraqi Jewish heritage based in Los Angeles and known primarily for her mixed use of sculpture, film and architecture.",
+      "body": "The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Franchise_Affair_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Rachel_Khedoori"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1963 —",
+      "hook": "Baptist Church bombing: Four children are killed in the bombing of an African-American church in Birmingham, Alabama, United States.",
+      "body": "The 16th Street Baptist Church bombing was a terrorist bombing of the 16th Street Baptist Church in Birmingham, Alabama, on September 15, 1963. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/16th_Street_Baptist_Church_bombing_girls.jpg/330px-16th_Street_Baptist_Church_bombing_girls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/16th_Street_Baptist_Church_bombing"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Julia Donaldson: ‘Am I the Gruffalo Granny? Not really. I’m the mouse’",
+      "body": "<p>As she introduces the latest member of her Gruffalo family, Julia Donaldson talks about storytelling, loss and the worries that come with being Britain’s all-time bestselling author</p><p>In 1999 a journalist asked a then-unknown author ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/12/julia-donaldson-am-i-the-gruffalo-granny-not-really-im-the-mouse"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1776 —",
+      "hook": "American Revolutionary War: British forces successfully land at Kip's Bay, forcing the Continental Army, which was already withdrawing from New York City, to cede control of the lower half of Manhattan Island.",
+      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The river drains an area of 66,800 square kilometres (25,792 sq mi), mostly through the Clark Fork and its tributaries in western Montana and including a portion of the Flathead River in southeastern British Columbia.",
+      "body": "The Pend Oreille River is a tributary of the Columbia River, approximately 130 miles (209 km) long, in northern Idaho and northeastern Washington in the United States, as well as southeastern British Columbia in Canada. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/USACE_Albeni_Dam_Idaho.jpg/330px-USACE_Albeni_Dam_Idaho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pend_Oreille_River"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Emmys 2026: red carpet looks and outfits at TV’s biggest night – in pictures",
+      "body": "<p>Zendaya, Nicole Kidman and Selena Gomez are among the stars at the 78th Primetime Emmys in Los Angeles, with actors from The Pitt, Pluribus, Hacks and Widow’s Bay walking the red (well, blue) carpet</p><ul><li><p><a href=\"https://www.the",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/sep/15/emmys-2026-red-carpet-fashion-looks-outfits-awards-photos-gallery-pictures"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Burned Alive: A Victim of the Law of Men is a best-selling book, ostensibly a first-person account of an attempted honor killing.",
+      "body": "The book was written as a result of repressed memory therapy, a scientifically discredited form of psychotherapy. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Burned_Alive"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "A mitogen-activated protein kinase is a type of serine/threonine-specific protein kinases involved in directing cellular responses to a diverse array of stimuli, such as mitogens, osmotic stress, heat shock and proinflammatory cytokines.",
+      "body": "They regulate cell functions including proliferation, gene expression, differentiation, mitosis, cell survival, and apoptosis. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mitogen-activated_protein_kinase"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Naomi Klein: ‘Extreme wealth has a deranging effect. It turns you into a supremacist’",
+      "body": "<p>She’s tackled neoliberalism and the digital world, now the writer and activist is taking on tech billionaires. She explains<em> </em>how the super-rich are capitalising on climate and financial chaos in pursuit of power</p><p>Naomi Klein",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1795 —",
+      "hook": "Britain seizes the Dutch Cape Colony in southern Africa to prevent its use by the Batavian Republic.",
+      "body": "The invasion of the Cape Colony, also known as the Battle of Muizenberg, was a British military expedition launched in 1795 against the Dutch Cape Colony at the Cape of Good Hope. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Sir_George_Keith_Elphinstone_%28cropped%29.jpg/330px-Sir_George_Keith_Elphinstone_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Invasion_of_the_Cape_Colony"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Emmys 2026: The winners and nominations list",
+      "body": "Zendaya, Noah Wyle, Sarah Snook and Colman Domingo are among the stars nominated for acting prizes.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l9pnkn62o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Reading for pleasure boosts memory, empathy and mental health",
+      "body": "Fewer people are reading for pleasure, but getting lost in a good book has repeatedly been linked to substantial cognitive benefits",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2589065-reading-for-pleasure-boosts-memory-attention-and-mental-health/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "In pictures: Stars on red carpet at Emmy Awards in LA",
+      "body": "The biggest night in the US TV calendar is taking place, and stars are on the Emmy Awards red carpet.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1942 —",
+      "hook": "World War II: U.S. Navy aircraft carrier USS Wasp is sunk by Japanese torpedoes at Guadalcanal.",
+      "body": "The United States Navy (USN) is the maritime service branch of the United States Armed Forces and is designated as the navy of the United States in the Constitution. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_the_United_States_Navy.svg/330px-Emblem_of_the_United_States_Navy.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/United_States_Navy"
     }
   ]
 }
