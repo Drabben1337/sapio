@@ -1,81 +1,26 @@
 {
-  "generated": "2026-09-16T20:28:54.904Z",
-  "count": 13,
+  "generated": "2026-09-16T23:18:03.741Z",
+  "count": 24,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "All the Wrong Moves by Anthony Scaramucci review – confessions of an ex-Trumper",
-      "body": "<p>The president’s former press secretary has learned all the right lessons, but how come it took him so long?</p><p>The most interesting chapter in Anthony Scaramucci’s All the Wrong Moves is the one where the hedge funder turned podcaster",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/15/all-the-wrong-moves-by-anthony-scaramucci-review-confessions-of-an-ex-trumper"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1990 —",
-      "hook": "The railroad between the People's Republic of China and Kazakhstan is completed at Dostyk, adding a sizable link to the concept of the Eurasian Land Bridge.",
-      "body": "Dostyk or Druzhba is a small town in Kazakhstan's Jetisu Region, on the border with Xinjiang, China. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/DostykAlakol.jpg/330px-DostykAlakol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dostyk"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1822 —",
-      "hook": "French physicist Augustin-Jean Fresnel, in a \"note\" read to the Academy of Sciences, reports a direct refraction experiment verifying David Brewster's hypothesis that photoelasticity (as it is now known) is stress-induced birefringence.",
-      "body": "Augustin-Jean Fresnel was a French civil engineer and physicist whose research in optics led to the almost unanimous acceptance of the wave theory of light, fully supplanting Newton's corpuscular theory, from the late 1830s until the end of the 19th century. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Augustin_Fresnel.jpg/330px-Augustin_Fresnel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "End Times Fascism by Naomi Klein and Astra Taylor review – the fightback starts here",
-      "body": "<p>A sharp analysis of the damage wrought by the reckless super-rich, and a progressive toolkit for repairing it</p><p>The more power the radical rightwing nationalists of our age accrue, the greater the risk that their destructive brand of",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/14/end-times-fascism-by-naomi-klein-and-astra-taylor-review-the-fightback-starts-here"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Bunker review – Cruz and Bardem just can’t dig Florian Zeller’s shallow thriller out of a hole",
-      "body": "<p><strong>Venice film festival: </strong>An architect (Javier Bardem) alienates his book editor wife (Penélope Cruz) when he agrees to build a luxurious bunker for a tech billionaire</p><p>Even the formidable pairing of Penélope Cruz and J",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/08/the-bunker-review-penelope-cruz-javier-bardem-florian-zeller-venice-film-festival"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1976 —",
-      "hook": "Night of the Pencils: In the city of La Plata, Argentina, a group of high-school students were kidnapped and later tortured, raped and murdered during the Argentinian military dictatorship",
-      "body": "The Night of the Pencils, was a series of kidnappings and forced disappearances, followed by the torture, rape, and murder of 10 high-school students that began on the evening of 16 September 1976 and continued into the next day, during Argentina's last civil-military dictatorship. Bring it up somewhere. Watch the reaction.",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Draga or Draginja Karolina Gavrilović was a Serbian writer, pedagogue and translator.",
+      "body": "She is remembered as the first Serbian female novelist. Worth a quiet trip down the rabbit hole.",
       "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Night_of_the_Pencils"
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Draga_Gavrilovi%C4%87"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Charli xcx Music, Fashion, Film tour review – an electrifying and deafening pop evolution",
-      "body": "<p><strong>Barclays Center, Brooklyn</strong></p><p>The tireless star brings her latest, somewhat over-explained album to the stage for a dazzling and euphoric show</p><p>For more than a year now, I have often returned, when seeking a bar f",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/sep/16/charli-xcx-music-fashion-film-tour-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Liberation review – Carrie Coon joins all-female cult in unsettling drama",
-      "body": "<p><strong>Toronto film festival:</strong> Director Guy Nattiv draws on personal experience for an 80s-set tale of a woman abandoning her family for a creepy commune</p><p>We remain fascinated and horrified by the hows and whys of cult narr",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/16/liberation-movie-review-carrie-coon"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Quartet That Split Up is a 1936 Swedish comedy film directed by Arne Bornebusch and starring Carl Barcklind, Birgit Rosengren and Aino Taube.",
+      "body": "It is an adaptation of the 1924 novel of the same title by Birger Sjöberg, which was late remade as a 1950 film. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/47/The_Quartet_That_Split_Up_%281936_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Quartet_That_Split_Up_(1936_film)"
     },
     {
       "type": "card",
@@ -87,43 +32,208 @@
       "url": "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology"
     },
     {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1732 —",
+      "hook": "In Campo Maior, Portugal, a storm hits the Armory and a violent explosion ensues, killing two-thirds of its inhabitants.",
+      "body": "Campo Maior, officially the Loyal and Valorous Town of Campo Maior, is a municipality in the Portalegre District, Alentejo Region, Portugal. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Campo_Maior_-_Portugal_%2852087392861%29.jpg/330px-Campo_Maior_-_Portugal_%2852087392861%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Campo_Maior%2C_Portugal"
+    },
+    {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "France sends Andrey Zvyagintsev’s ‘Minotaur’ off to 2027 international Oscar race",
-      "body": "Film selected by 11-member committee, was one of five shortlisted finalists.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/france-sends-andrey-zvyagintsevs-minotaur-off-to-2027-international-oscar-race/5220482.article"
+      "opener": "The Guardian · Books —",
+      "hook": "Farewell to Eden by Sebastian Faulks review – conflict and compromise, from a veteran of the genre",
+      "body": "<p>A returning British soldier is haunted by his time in Palestine in this panoramic epic set after the second world war</p><p>Sebastian Faulks’s latest book focuses on the most irreconcilable geopolitical struggle of our age, the Israel-Pa",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/14/farewell-to-eden-by-sebastian-faulks-review-conflict-and-compromise-from-a-veteran-of-the-genre"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1992 —",
-      "hook": "The trial of the deposed Panamanian dictator Manuel Noriega ends in the United States with a 40-year sentence for drug trafficking and money laundering.",
-      "body": "Manuel Antonio Noriega Moreno was a Panamanian military officer and politician who was the de facto ruler of Panama from 1983 to 1989. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Manuel_Noriega_1990_U.S._Marshal_mugshot.jpg/330px-Manuel_Noriega_1990_U.S._Marshal_mugshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1996 —",
+      "hook": "Space Shuttle Atlantis is launched on STS-79 to dock with the Russian space station Mir.",
+      "body": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Manuel_Noriega"
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Hot Enough for June is a 1964 British spy comedy film directed by Ralph Thomas, and starring Dirk Bogarde with Sylva Koscina in her English film debut, Robert Morley and Leo McKern.",
+      "body": "It was written by Lukas Heller based on the 1960 novel The Night of Wenceslas by Lionel Davidson. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Hotenough.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hot_Enough_for_June"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1955 —",
-      "hook": "The military coup to unseat President Juan Perón of Argentina is launched at midnight.",
-      "body": "The Revolución Libertadora as it named itself, was the civic-military dictatorship that ruled the Argentine Republic after overthrowing President Juan Domingo Perón, shutting down the National Congress, removing members of the Supreme Court, as well as provincial, municipal, and university authorities, and placing the entire Judiciary under commission. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Revoluci%C3%B3n_Libertadora_montaje.png/330px-Revoluci%C3%B3n_Libertadora_montaje.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1975 —",
+      "hook": "The first prototype of the Mikoyan MiG-31 interceptor makes its maiden flight.",
+      "body": "The Mikoyan MiG-31 is a supersonic interceptor aircraft developed for the Soviet Air Forces by the Mikoyan design bureau as a replacement for the MiG-25 \"Foxbat\", on which it is based and with which it shares design elements. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Russian_Air_Force_Mikoyan-Gurevich_MiG-31P.jpg/330px-Russian_Air_Force_Mikoyan-Gurevich_MiG-31P.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Revoluci%C3%B3n_Libertadora"
+      "url": "https://en.wikipedia.org/wiki/Mikoyan_MiG-31"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Nautilus is the fictional submarine belonging to Captain Nemo featured in Jules Verne's novels Twenty Thousand Leagues Under the Seas (1870) and The Mysterious Island (1875).",
+      "body": "One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Nautilus_Neuville.JPG/330px-Nautilus_Neuville.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nautilus_(fictional_submarine)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Macklemore pledges his $1m Ed Sheeran tour salary to Palestine",
+      "body": "<p>Rapper, who was dropped from tour after his speech in support of Palestine, challenges Robert Kraft to do the same</p><p><a href=\"https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine\">Macklemore",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/sep/16/macklemore-ed-sheeran-tour-salary-palestine"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1976 —",
+      "hook": "Night of the Pencils: In the city of La Plata, Argentina, a group of high-school students were kidnapped and later tortured, raped and murdered during the Argentinian military dictatorship",
+      "body": "The Night of the Pencils, was a series of kidnappings and forced disappearances, followed by the torture, rape, and murder of 10 high-school students that began on the evening of 16 September 1976 and continued into the next day, during Argentina's last civil-military dictatorship. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Night_of_the_Pencils"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Liberation review – Carrie Coon joins all-female cult in unsettling drama",
+      "body": "<p><strong>Toronto film festival:</strong> Director Guy Nattiv draws on personal experience for an 80s-set tale of a woman abandoning her family for a creepy commune</p><p>We remain fascinated and horrified by the hows and whys of cult narr",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/16/liberation-movie-review-carrie-coon"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1966 —",
+      "hook": "The Metropolitan Opera House opens at Lincoln Center in New York City with the world premiere of Samuel Barber's opera Antony and Cleopatra.",
+      "body": "The Metropolitan Opera House is an opera house located on Broadway at Lincoln Square on the Upper West Side of Manhattan in New York City. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/MET_Opera_%2848047450723%29.jpg/330px-MET_Opera_%2848047450723%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Metropolitan_Opera_House_(Lincoln_Center)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
+      "body": "<p>Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treason</p><p>Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and Rachel Szor",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Founders' Day was formerly called \"Founder's Day\" and it was celebrated to commemorate the achievements of Osagyefo Dr.",
+      "body": "Founders' Day is a national public holiday observed to commemorate the contributions of all the people, notably the \"Big Six\" who led the struggle for Ghana's independence. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Founders'_Day_(Ghana)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Zuleika is a musical with music by Peter Tranchell and book and lyrics by James Ferman.",
+      "body": "The musical is based on the 1911 novel, Zuleika Dobson, by Max Beerbohm. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/71/Zuleika-1957.jpg/330px-Zuleika-1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zuleika_(musical)"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1863 —",
       "hook": "Robert College, in Istanbul, the first American educational institution outside the United States, is founded by Christopher Robert, an American philanthropist.",
-      "body": "American Robert College of Istanbul is an independent, co-educational, private high school in Istanbul, Turkey. Worth a quiet trip down the rabbit hole.",
+      "body": "American Robert College of Istanbul is an independent, co-educational, private high school in Istanbul, Turkey. Bring it up somewhere. Watch the reaction.",
       "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/RobertCollegeGouldHall1.jpg/330px-RobertCollegeGouldHall1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Robert_College"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Uprising review – the peasants are revolting in muddled historical epic",
+      "body": "<p>Andrew Garfield’s charisma can’t save Paul Greengrass’s grim and depressingly generic period piece</p><p>Hollywood loves giving young actors their own historical epic as much as audiences seem to dislike watching them. Timothée Chalamet ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/09/the-uprising-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Bunker review – Cruz and Bardem just can’t dig Florian Zeller’s shallow thriller out of a hole",
+      "body": "<p><strong>Venice film festival: </strong>An architect (Javier Bardem) alienates his book editor wife (Penélope Cruz) when he agrees to build a luxurious bunker for a tech billionaire</p><p>Even the formidable pairing of Penélope Cruz and J",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/08/the-bunker-review-penelope-cruz-javier-bardem-florian-zeller-venice-film-festival"
     }
   ]
 }
