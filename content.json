@@ -1,119 +1,179 @@
 {
-  "generated": "2026-09-16T06:53:30.668Z",
-  "count": 12,
+  "generated": "2026-09-16T12:14:48.495Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1732 —",
+      "hook": "In Campo Maior, Portugal, a storm hits the Armory and a violent explosion ensues, killing two-thirds of its inhabitants.",
+      "body": "Campo Maior, officially the Loyal and Valorous Town of Campo Maior, is a municipality in the Portalegre District, Alentejo Region, Portugal. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Campo_Maior_-_Portugal_%2852087392861%29.jpg/330px-Campo_Maior_-_Portugal_%2852087392861%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Campo_Maior%2C_Portugal"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1863 —",
+      "hook": "Robert College, in Istanbul, the first American educational institution outside the United States, is founded by Christopher Robert, an American philanthropist.",
+      "body": "American Robert College of Istanbul is an independent, co-educational, private high school in Istanbul, Turkey. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/RobertCollegeGouldHall1.jpg/330px-RobertCollegeGouldHall1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Robert_College"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Whisper of the Heart review – Studio Ghibli deep cut is pep talk on how to live the artistic life",
+      "body": "<p>Hayao Miyazaki-scripted 90s teen romance sees an aspiring writer drawn to a potential soulmate thanks to library books and a curmudgeonly cat</p><p>While <a href=\"https://www.theguardian.com/film/2014/may/08/the-wind-rises-review-hayao-m",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/16/whisper-of-the-heart-review-studio-ghibli-deep-cut-hayao-miyazaki"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Bad Lieutenant: Tokyo review – Takashi Miike follows Ferrara and Herzog with a disappointment",
+      "body": "<p><strong>Toronto film festival:</strong> There’s a surprisingly tame quality to the gorehound’s contribution to the rough and ready franchise and a general aimlessness that frustrates</p><p>Abel Ferrera’s Bad Lieutenant, starring Harvey K",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/15/bad-lieutenant-tokyo-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2021 —",
+      "hook": "A 6.0 Mw earthquake strikes Lu County, Sichuan, China, killing three and injuring more than 88.",
+      "body": "The 2021 Luxian earthquake was a damaging seismic event occurring in the early hours of September 16 at 04:33 China Standard Time. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2021_Luxian_earthquake"
+    },
+    {
+      "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Muschelhaufen was a German annual, originally combining literature and graphic arts.",
-      "body": "It was founded by Erik Martin from Viersen in 1969 and published – with an interruption of 11 years – until 2008, when the last issue came out. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Erik_Martin_%28P%29.jpg/330px-Erik_Martin_%28P%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Koenigsmark is a 1918 Ruritanian novel by Pierre Benoît.",
+      "body": "The book - Benoît's first - was a bestseller in France; an English version, released as The Secret Spring in 1920, enjoyed only limited success. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Muschelhaufen"
+      "url": "https://en.wikipedia.org/wiki/Koenigsmark_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Eat or Be Eaten is a light novel with homoerotic themes written by Jinko Fuyuno and illustrated by Yamimaru Enjin, author of works such as The Way To Heaven and Voice or Noise.",
+      "body": "It was published by Frontier Works in Japanese, and was published in English by Digital Manga Publishing in May 2009. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/56/Eat_or_Be_Eaten_%28light_novel%29_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eat_or_Be_Eaten"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2013 —",
+      "hook": "A gunman kills twelve people at the Washington Navy Yard in Washington, D.C.",
+      "body": "The Washington Navy Yard shooting occurred on September 16, 2013, when 34-year-old Aaron Alexis fatally shot 12 people and injured three others in a mass shooting at the headquarters of the Naval Sea Systems Command (NAVSEA), inside the Washington Navy Yard, in southeast Washington, D.C. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv/330px--Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv.jpg",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Washington_Navy_Yard_shooting"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1701 —",
+      "hook": "James Francis Edward Stuart, sometimes called the \"Old Pretender\", becomes the Jacobite claimant to the thrones of England and Scotland on the death of his father, James II.",
+      "body": "James Francis Edward Stuart, also known as the Old Pretender and the Chevalier de St. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Prince_James_Francis_Edward_Stuart_by_Alexis_Simon_Belle.jpg/330px-Prince_James_Francis_Edward_Stuart_by_Alexis_Simon_Belle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/James_Francis_Edward_Stuart"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Redwood by Ben Macintyre review – a superbly wrought tale of cold war defection",
-      "body": "<p>This story of Soviet agent and his MI6 handler in revolutionary Iran is a page-turning masterpiece</p><p>Ben Macintyre uses the acronym MICE to describe the reasons people betray their countries: Money, Ideology, Coercion or Ego. In the ",
+      "hook": "Safe Spaces by Tice Cin review – a kaleidoscopic vision of precarity, music and grief",
+      "body": "<p>Part spoken-word poem, part journalistic meditation, this is an inventive, tender novel of a songwriter’s journey through love and loss in London</p><p>Tice Cin’s philosophical and poetic new novel about a young Turkish-Cypriot songwrite",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/16/redwood-by-ben-macintyre-review-a-superbly-wrought-tale-of-cold-war-defection"
+      "url": "https://www.theguardian.com/books/2026/sep/16/safe-spaces-by-tice-cin-review-a-kaleidoscopic-vision-of-precarity-music-and-grief"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Your mission, Tom Cruise, is to improve at interviews. And please keep sending the cakes",
+      "body": "<p>He risks his life for entertainment, but getting an anecdote out of him is a trickier matter. Happily, Cruise is no stranger to knuckling down and pulling off the impossible</p><p>By now, we’ve grown used to watching Tom Cruise excel at ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/16/your-mission-tom-cruise-is-to-improve-at-interviews-and-please-keep-sending-the-cakes"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Raymond Venimore Jack Butt FRAS was a British schoolteacher and fellow of the Royal Astronomical Society.",
-      "body": "An accomplished rower and coach, he twice won the Boston rowing marathon. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Raymond_Butt.jpg/330px-Raymond_Butt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Pornografia is a 2003 Polish-language film directed by Jan Jakub Kolski.",
+      "body": "It is based on the 1960 novel of the same name by Witold Gombrowicz, set in Nazi-occupied Poland during World War II. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Raymond_Butt"
+      "url": "https://en.wikipedia.org/wiki/Pornografia_(film)"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Emily St John Mandel: ‘When half the electorate disagrees on basic reality, how do you come back from that?’",
-      "body": "<p>Her hit novel Station Eleven seemed to predict the pandemic, now the novelist is tackling the future of the US. She talks about chance, world-building and experiencing a ‘tiny bit’ of clairvoyance</p><p>When Emily St John Mandel was a ch",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/13/emily-st-john-mandel-when-half-the-electorate-disagrees-on-basic-reality-how-do-you-come-back-from-that"
+      "opener": "The Guardian · Film —",
+      "hook": "A Talent for Murder review – Helen Mirren is a viperous Patricia Highsmith in hit-and-miss thriller",
+      "body": "<p><strong>Toronto film festival:</strong> A fictionalised version of the cantankerous crime author plots a murder with an ambitious editor in a story in need of a sharper edge</p><p>The restrictions of <a href=\"https://www.theguardian.com/",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/15/talent-for-murder-movie-review"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "opener": "Screen Daily —",
+      "hook": "Doha Film Institute, Fipresci team for jury at upcoming Doha Film Festival",
+      "body": "Fipresci DFF jury will comprise three film critics who will judge films in the festival’s international feature competition.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/doha-film-institute-fipresci-team-for-jury-at-upcoming-doha-film-festival/5220467.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Cycle of Love review – a 6,000-mile bike ride caps a real life Swedish-Indian romance",
+      "body": "<p>One Oscar-winning director, one horoscope-prompted meet-cute and a continent-crossing cyclist – is this the start of documentaries that make you happy-cry?</p><p>Here is a story that on the face of it seems so wildly unlikely it can only",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/16/the-cycle-of-love-review-a-6000-mile-bike-ride-caps-a-real-life-swedish-indian-romance"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1880 —",
+      "hook": "The Cornell Daily Sun prints its first issue in Ithaca, New York.",
+      "body": "The Cornell Daily Sun is an independent newspaper at Cornell University in Ithaca, New York. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/64/CornellDailySun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/The_Cornell_Daily_Sun"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Desperate Hours is a 1955 film noir starring Humphrey Bogart and Fredric March.",
-      "body": "It was produced and directed by William Wyler and based on the 1954 novel and 1955 play of the same name, written by Joseph Hayes, which were loosely built on actual events. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/The-Desperate-Hours-Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "High Times in the Low Parliament is a 2022 fantasy novella by Kelly Robson, who described it as \"a lesbian stoner buddy comedy with fairies — about Brexit\".",
+      "body": "It was first published by Tordotcom. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Desperate_Hours_(1955_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "In pictures: Stars on red carpet at Emmy Awards in LA",
-      "body": "Stars from the latest hit TV shows turn out at the biggest night in the US TV calendar.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/High_Times_in_the_Low_Parliament"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Qui squadra mobile is an Italian television series starring Orazio Orlando and Luigi Vannucchi.",
-      "body": "All 12 episodes were directed by Anton Giulio Majano and written by Massimo Felisatti, Anton Giulio Majano, and Fabio Pittorru. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7a/Qui_squadra_mobile.png/330px-Qui_squadra_mobile.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "You probably never noticed this —",
+      "hook": "Memories of Underdevelopment is a 1968 Cuban drama film directed and co-written by Tomás Gutiérrez Alea.",
+      "body": "The story is based on a novel by Edmundo Desnoes entitled Inconsolable Memories. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Memorias_del_Subdesarrollo_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Qui_squadra_mobile"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on a new case for Hercule Poirot – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/sep/13/tom-gauld-on-a-new-case-for-hercule-poirot-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/sep/13/tom-gauld-on-a-new-case-for-hercule-poirot-cartoon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "AI will transform capitalism – but how?",
-      "body": "<p>Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks like</p><p>The idea that autonomous, thinking machines may one day destroy property, hierarchy and inequality is as old as wester",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Sword and the Sickle is a novel by Mulk Raj Anand first published in 1942.",
-      "body": "Like his other novels, this one also deals with the topic of social and political structures, specifically, the rise of Communism. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/ba/The_Sword_and_the_Sickle.png/330px-The_Sword_and_the_Sickle.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Sword_and_the_Sickle"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Wild chimpanzees teach youngsters by handing them tools",
-      "body": "Adult chimpanzees have been observed passing tools to their younger relatives, helping them learn the skills needed for fishing for ants or algae",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2589364-wild-chimpanzees-teach-youngsters-by-handing-them-tools/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://en.wikipedia.org/wiki/Memories_of_Underdevelopment"
     }
   ]
 }
