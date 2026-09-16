@@ -1,111 +1,44 @@
 {
-  "generated": "2026-09-15T23:13:08.959Z",
-  "count": 19,
+  "generated": "2026-09-16T01:50:26.728Z",
+  "count": 14,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1821 —",
-      "hook": "The Captaincy General of Guatemala declares independence from Spain.",
-      "body": "The Captaincy General of Guatemala, also known as the Kingdom of Guatemala, was an administrative division of the Spanish Empire, under the viceroyalty of New Spain in Central America, including present-day Costa Rica, Nicaragua, Honduras, El Salvador, Guatemala, and the Mexican state of Chiapas. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Cross_of_Burgundy.svg/330px-Flag_of_Cross_of_Burgundy.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Captaincy_General_of_Guatemala"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1947 —",
-      "hook": "Typhoon Kathleen hits the Kantō region, in Japan killing around 1,000-2,000 people.",
-      "body": "Typhoon Kathleen was a typhoon that approached Japan in September 1947. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Typhoon_Kathleen_weather_map%2C_September_14%2C_1947.jpg/330px-Typhoon_Kathleen_weather_map%2C_September_14%2C_1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Typhoon_Kathleen"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on a new case for Hercule Poirot – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/sep/13/tom-gauld-on-a-new-case-for-hercule-poirot-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/sep/13/tom-gauld-on-a-new-case-for-hercule-poirot-cartoon"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
+      "hook": "AI will transform capitalism – but how?",
+      "body": "<p>Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks like</p><p>The idea that autonomous, thinking machines may one day destroy property, hierarchy and inequality is as old as wester",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
+      "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "He served as a member of the Ohio House of Representatives, representing Stark County from 1878 to 1880.",
-      "body": "Daniel Worley was an American politician and Lutheran pastor from Ohio. Bring it up somewhere. Watch the reaction.",
+      "opener": "You probably never noticed this —",
+      "hook": "is the caption of several United States Supreme Court patent–related decisions, the most significant of which is a 1969 patent–antitrust and patent–misuse decision concerning the levying of patent royalties on unpatented products.",
+      "body": "One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Daniel_Worley"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "Franklin D. Roosevelt and Winston Churchill meet in Quebec as part of the Octagon Conference to discuss strategy.",
-      "body": "Franklin Delano Roosevelt, also known as FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/330px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1950 —",
-      "hook": "Korean War: The U.S. X Corps lands at Inchon.",
-      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Korean_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Uprising review – the peasants are revolting in muddled historical epic",
-      "body": "<p>Andrew Garfield’s charisma can’t save Paul Greengrass’s grim and depressingly generic period piece</p><p>Hollywood loves giving young actors their own historical epic as much as audiences seem to dislike watching them. Timothée Chalamet ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/09/the-uprising-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "US incentive could generate $125bn in extra production spend from 2027-2035, study finds",
-      "body": "Industry-wide coalition hails MPA report prepared by Olswang SPI.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/us-incentive-could-generate-125bn-in-extra-production-spend-from-2027-2035-study-finds/5220448.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
-      "body": "<p>Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/aug",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog"
+      "url": "https://en.wikipedia.org/wiki/Zenith_Radio_Corp._v._Hazeltine_Research%2C_Inc."
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Dumitru Radu Popescu was a Romanian novelist, poet, dramatist, essayist and short story writer.",
-      "body": "He was a corresponding member of the Romanian Academy and was, between 1980 and 1990, Chairman of the Romanian Writers' Union. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Dumitru_Radu_Popescu.jpg/330px-Dumitru_Radu_Popescu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "Albert Verwey was a Dutch poet belonging to the Tachtiger movement, so called after the number [18]80, eighty.",
+      "body": "As a translator, magazine editor, and literary historian he played an important role in the literary life of The Netherlands in the late 19th and early 20th centuries. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Portret_van_Albert_Verwey_Rijksmuseum_SK-C-1680.jpeg/330px-Portret_van_Albert_Verwey_Rijksmuseum_SK-C-1680.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dumitru_Radu_Popescu"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "The Parthenon&#8217;s architectural illusions are a myth",
-      "body": "Optical illusions thought to have influenced the design of the Parthenon in ancient Greece are not backed up by evidence or are too small to have an effect",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2589400-the-parthenons-architectural-illusions-are-a-myth/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://en.wikipedia.org/wiki/Albert_Verwey"
     },
     {
       "type": "card",
@@ -118,72 +51,89 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "US incentive could generate $125bn in extra production spend from 2027-2035, study finds",
+      "body": "Industry-wide coalition hails MPA report prepared by Olswang SPI.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/us-incentive-could-generate-125bn-in-extra-production-spend-from-2027-2035-study-finds/5220448.article"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Filthy Five is the 29th novel in the long-running Nick Carter-Killmaster series of spy novels.",
-      "body": "Carter is a US secret agent, code-named N-3, with the rank of Killmaster. The world is stranger than it lets on.",
+      "opener": "You probably never noticed this —",
+      "hook": "Romanzo Ellis Davis was an American farmer, politician, and Wisconsin pioneer.",
+      "body": "He was a member of the Wisconsin Senate for eight years, representing Dane County from 1870 through 1878. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Filthy_Five"
+      "url": "https://en.wikipedia.org/wiki/Romanzo_E._Davis"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Trump says Kennedy Center to close as court rules his name must stay off building",
-      "body": "The ruling came as the centre's Trump-appointed board was reportedly scheduled to vote on closing it for two years.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
+      "body": "<p>Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/aug",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "In the end phase of the war it became a concentration camp for sick and dying prisoners.",
+      "body": "Vaihingen an der Enz concentration camp, near the city of Vaihingen an der Enz in the Neckar region of Germany, was a slave labor camp for armament manufacturing built by the Todt organization. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vaihingen_an_der_Enz_concentration_camp"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Emily St John Mandel: ‘When half the electorate disagrees on basic reality, how do you come back from that?’",
+      "body": "<p>Her hit novel Station Eleven seemed to predict the pandemic, now the novelist is tackling the future of the US. She talks about chance, world-building and experiencing a ‘tiny bit’ of clairvoyance</p><p>When Emily St John Mandel was a ch",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/13/emily-st-john-mandel-when-half-the-electorate-disagrees-on-basic-reality-how-do-you-come-back-from-that"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Efficiency Expert is a 1921 novella by American writer Edgar Rice Burroughs.",
-      "body": "One of a small number of Burroughs' novels set in contemporary America as opposed to a fantasy universe, The Efficiency Expert follows the adventures of Jimmy Torrance as he attempts to make a career for himself in 1921 Chicago. Bring it up somewhere. Watch th",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/The_Efficiency_Expert-novel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "British Overseas Airways Corporation (BOAC) was the British state-owned national airline created in 1939 by the merger of Imperial Airways and British Airways Ltd.",
+      "body": "It continued operating overseas services throughout World War II. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Boeing_747-136_G-AWNC_BOAC_RWY_17.08.70_edited-3.jpg/330px-Boeing_747-136_G-AWNC_BOAC_RWY_17.08.70_edited-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Efficiency_Expert_(novel)"
+      "url": "https://en.wikipedia.org/wiki/British_Overseas_Airways_Corporation"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
+      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Jew Süss is a 1934 British historical romantic drama film based on Lion Feuchtwanger's 1925 novel Jud Süß, about Joseph Süß Oppenheimer.",
-      "body": "Directed by Lothar Mendes, the film stars German actor Conrad Veidt in the role of Oppenheimer. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Jew_S%C3%BCss_1934_UK_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Nah Dove is an author, lecturer and scholar in African-American studies.",
+      "body": "She has lived in Ghana, Nigeria, Sierra Leone, Canada, the UK, and in the US, where she is an assistant professor instruction in the department of Africology and African American studies at the college of liberal arts, Temple University, Philadelphia. Worth a ",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jew_S%C3%BCss_(1934_film)"
+      "url": "https://en.wikipedia.org/wiki/Nah_Dove"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Rider is a short Ruritanian romance by American writer Edgar Rice Burroughs.",
-      "body": "It was written in 1915 and first published as \"H.R.H. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/01/The_Rider_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Anne Eggebroten is an American author and feminist scholar.",
+      "body": "She is known for her book Abortion: My Choice, God's Grace. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Rider_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1974 —",
-      "hook": "Air Vietnam Flight 706 is hijacked, then crashes while attempting to land with 75 on board.",
-      "body": "Air Vietnam Flight 706 was a Boeing 727 that crashed on September 15, 1974, after three hijackers detonated hand grenades as it was approaching Phan Rang Air Base in South Vietnam for an emergency landing. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Air_Vietnam_Boeing_727-121C_XV-NJC_at_Don_Muang_International_Airport_on_February%2C_7_1974.jpg/330px-Air_Vietnam_Boeing_727-121C_XV-NJC_at_Don_Muang_International_Airport_on_February%2C_7_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Air_Vietnam_Flight_706"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "World War II: The Battle of Peleliu begins as the United States Marine Corps' 1st Marine Division and the United States Army's 81st Infantry Division hit White and Orange beaches under heavy fire from Japanese infantry and artillery.",
-      "body": "The Battle of Peleliu, codenamed Operation Stalemate II by the US military, was fought between the United States and Japan during the Mariana and Palau Islands campaign of World War II, from 15 September to 27 November 1944, on the island of Peleliu. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/First_wave_of_LVTs_moves_toward_the_invasion_beaches_-_Peleliu.jpg/330px-First_wave_of_LVTs_moves_toward_the_invasion_beaches_-_Peleliu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Peleliu"
+      "url": "https://en.wikipedia.org/wiki/Anne_Eggebroten"
     }
   ]
 }
