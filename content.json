@@ -1,7 +1,83 @@
 {
-  "generated": "2026-09-16T01:50:26.728Z",
-  "count": 14,
+  "generated": "2026-09-16T06:53:30.668Z",
+  "count": 12,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Muschelhaufen was a German annual, originally combining literature and graphic arts.",
+      "body": "It was founded by Erik Martin from Viersen in 1969 and published – with an interruption of 11 years – until 2008, when the last issue came out. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Erik_Martin_%28P%29.jpg/330px-Erik_Martin_%28P%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Muschelhaufen"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Redwood by Ben Macintyre review – a superbly wrought tale of cold war defection",
+      "body": "<p>This story of Soviet agent and his MI6 handler in revolutionary Iran is a page-turning masterpiece</p><p>Ben Macintyre uses the acronym MICE to describe the reasons people betray their countries: Money, Ideology, Coercion or Ego. In the ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/16/redwood-by-ben-macintyre-review-a-superbly-wrought-tale-of-cold-war-defection"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Raymond Venimore Jack Butt FRAS was a British schoolteacher and fellow of the Royal Astronomical Society.",
+      "body": "An accomplished rower and coach, he twice won the Boston rowing marathon. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Raymond_Butt.jpg/330px-Raymond_Butt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Raymond_Butt"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Emily St John Mandel: ‘When half the electorate disagrees on basic reality, how do you come back from that?’",
+      "body": "<p>Her hit novel Station Eleven seemed to predict the pandemic, now the novelist is tackling the future of the US. She talks about chance, world-building and experiencing a ‘tiny bit’ of clairvoyance</p><p>When Emily St John Mandel was a ch",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/13/emily-st-john-mandel-when-half-the-electorate-disagrees-on-basic-reality-how-do-you-come-back-from-that"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Desperate Hours is a 1955 film noir starring Humphrey Bogart and Fredric March.",
+      "body": "It was produced and directed by William Wyler and based on the 1954 novel and 1955 play of the same name, written by Joseph Hayes, which were loosely built on actual events. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/The-Desperate-Hours-Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Desperate_Hours_(1955_film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "In pictures: Stars on red carpet at Emmy Awards in LA",
+      "body": "Stars from the latest hit TV shows turn out at the biggest night in the US TV calendar.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Qui squadra mobile is an Italian television series starring Orazio Orlando and Luigi Vannucchi.",
+      "body": "All 12 episodes were directed by Anton Giulio Majano and written by Massimo Felisatti, Anton Giulio Majano, and Fabio Pittorru. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7a/Qui_squadra_mobile.png/330px-Qui_squadra_mobile.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Qui_squadra_mobile"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -22,118 +98,22 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "is the caption of several United States Supreme Court patent–related decisions, the most significant of which is a 1969 patent–antitrust and patent–misuse decision concerning the levying of patent royalties on unpatented products.",
-      "body": "One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zenith_Radio_Corp._v._Hazeltine_Research%2C_Inc."
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Albert Verwey was a Dutch poet belonging to the Tachtiger movement, so called after the number [18]80, eighty.",
-      "body": "As a translator, magazine editor, and literary historian he played an important role in the literary life of The Netherlands in the late 19th and early 20th centuries. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Portret_van_Albert_Verwey_Rijksmuseum_SK-C-1680.jpeg/330px-Portret_van_Albert_Verwey_Rijksmuseum_SK-C-1680.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Albert_Verwey"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "US incentive could generate $125bn in extra production spend from 2027-2035, study finds",
-      "body": "Industry-wide coalition hails MPA report prepared by Olswang SPI.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/us-incentive-could-generate-125bn-in-extra-production-spend-from-2027-2035-study-finds/5220448.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Romanzo Ellis Davis was an American farmer, politician, and Wisconsin pioneer.",
-      "body": "He was a member of the Wisconsin Senate for eight years, representing Dane County from 1870 through 1878. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Romanzo_E._Davis"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
-      "body": "<p>Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/aug",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "In the end phase of the war it became a concentration camp for sick and dying prisoners.",
-      "body": "Vaihingen an der Enz concentration camp, near the city of Vaihingen an der Enz in the Neckar region of Germany, was a slave labor camp for armament manufacturing built by the Todt organization. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Vaihingen_an_der_Enz_concentration_camp"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Emily St John Mandel: ‘When half the electorate disagrees on basic reality, how do you come back from that?’",
-      "body": "<p>Her hit novel Station Eleven seemed to predict the pandemic, now the novelist is tackling the future of the US. She talks about chance, world-building and experiencing a ‘tiny bit’ of clairvoyance</p><p>When Emily St John Mandel was a ch",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/13/emily-st-john-mandel-when-half-the-electorate-disagrees-on-basic-reality-how-do-you-come-back-from-that"
-    },
-    {
-      "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "British Overseas Airways Corporation (BOAC) was the British state-owned national airline created in 1939 by the merger of Imperial Airways and British Airways Ltd.",
-      "body": "It continued operating overseas services throughout World War II. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Boeing_747-136_G-AWNC_BOAC_RWY_17.08.70_edited-3.jpg/330px-Boeing_747-136_G-AWNC_BOAC_RWY_17.08.70_edited-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Sword and the Sickle is a novel by Mulk Raj Anand first published in 1942.",
+      "body": "Like his other novels, this one also deals with the topic of social and political structures, specifically, the rise of Communism. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/ba/The_Sword_and_the_Sickle.png/330px-The_Sword_and_the_Sickle.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/British_Overseas_Airways_Corporation"
+      "url": "https://en.wikipedia.org/wiki/The_Sword_and_the_Sickle"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Nah Dove is an author, lecturer and scholar in African-American studies.",
-      "body": "She has lived in Ghana, Nigeria, Sierra Leone, Canada, the UK, and in the US, where she is an assistant professor instruction in the department of Africology and African American studies at the college of liberal arts, Temple University, Philadelphia. Worth a ",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nah_Dove"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Anne Eggebroten is an American author and feminist scholar.",
-      "body": "She is known for her book Abortion: My Choice, God's Grace. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Anne_Eggebroten"
+      "opener": "New Scientist —",
+      "hook": "Wild chimpanzees teach youngsters by handing them tools",
+      "body": "Adult chimpanzees have been observed passing tools to their younger relatives, helping them learn the skills needed for fishing for ants or algae",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2589364-wild-chimpanzees-teach-youngsters-by-handing-them-tools/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     }
   ]
 }
