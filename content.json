@@ -1,56 +1,7 @@
 {
-  "generated": "2026-09-16T23:18:03.741Z",
-  "count": 24,
+  "generated": "2026-09-17T01:54:13.745Z",
+  "count": 19,
   "items": [
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Draga or Draginja Karolina Gavrilović was a Serbian writer, pedagogue and translator.",
-      "body": "She is remembered as the first Serbian female novelist. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Draga_Gavrilovi%C4%87"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Quartet That Split Up is a 1936 Swedish comedy film directed by Arne Bornebusch and starring Carl Barcklind, Birgit Rosengren and Aino Taube.",
-      "body": "It is an adaptation of the 1924 novel of the same title by Birger Sjöberg, which was late remade as a 1950 film. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/47/The_Quartet_That_Split_Up_%281936_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Quartet_That_Split_Up_(1936_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Company review – Casey Affleck entertains us with creepy campfire tales",
-      "body": "<p><strong>Venice film festival:</strong> Affleck’s third film as a director is a diverting gothic anthology about mysterious strangers, murder and – pointedly – wronged men</p><p>Gather ye ’round the glowing screen for a Casey Affleck camp",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1732 —",
-      "hook": "In Campo Maior, Portugal, a storm hits the Armory and a violent explosion ensues, killing two-thirds of its inhabitants.",
-      "body": "Campo Maior, officially the Loyal and Valorous Town of Campo Maior, is a municipality in the Portalegre District, Alentejo Region, Portugal. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Campo_Maior_-_Portugal_%2852087392861%29.jpg/330px-Campo_Maior_-_Portugal_%2852087392861%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Campo_Maior%2C_Portugal"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -62,73 +13,80 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
+      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1996 —",
-      "hook": "Space Shuttle Atlantis is launched on STS-79 to dock with the Russian space station Mir.",
-      "body": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 14 —",
+      "hook": "The Roman Senate decides to deify the late emperor Augustus.",
+      "body": "The 10s decade ran from January 1, AD 10, to December 31, AD 19. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%28Toulouse%29_Tib%C3%A8re_-_Mus%C3%A9e_Saint-Raymond_Ra_342_b.jpg/330px-%28Toulouse%29_Tib%C3%A8re_-_Mus%C3%A9e_Saint-Raymond_Ra_342_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis"
+      "url": "https://en.wikipedia.org/wiki/10s"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
+      "body": "<p>Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treason</p><p>Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and Rachel Szor",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Ricco is a lunar impact crater.",
+      "body": "It is located in the northern part of the Moon's far side. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Normal_ricco-clem1.jpg/330px-Normal_ricco-clem1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ricco_(crater)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "She debuted in the WNBL in the 2017–18 season as a development player with the Fire, winning a WNBL championship.",
+      "body": "Miela Elizabeth Sowah is an Australian professional basketball player for the Golden State Valkyries of the Women's National Basketball Association (WNBA). The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Miela_Sowah_-_May_2026_-_Sarah_Stierch.jpg/330px-Miela_Sowah_-_May_2026_-_Sarah_Stierch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Miela_Sowah"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Hot Enough for June is a 1964 British spy comedy film directed by Ralph Thomas, and starring Dirk Bogarde with Sylva Koscina in her English film debut, Robert Morley and Leo McKern.",
-      "body": "It was written by Lukas Heller based on the 1960 novel The Night of Wenceslas by Lionel Davidson. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Hotenough.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Beatles Ballads is a compilation album featuring a selection of ballad songs by the English rock band the Beatles.",
+      "body": "The album was not released in the United States, but was in Mexico, the United Kingdom, Canada, New Zealand, Germany, Italy, Spain, India, Japan, South Korea, and Australia. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/31/TheBeatlesBalladsalbumcover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hot_Enough_for_June"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1975 —",
-      "hook": "The first prototype of the Mikoyan MiG-31 interceptor makes its maiden flight.",
-      "body": "The Mikoyan MiG-31 is a supersonic interceptor aircraft developed for the Soviet Air Forces by the Mikoyan design bureau as a replacement for the MiG-25 \"Foxbat\", on which it is based and with which it shares design elements. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Russian_Air_Force_Mikoyan-Gurevich_MiG-31P.jpg/330px-Russian_Air_Force_Mikoyan-Gurevich_MiG-31P.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mikoyan_MiG-31"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
+      "url": "https://en.wikipedia.org/wiki/The_Beatles_Ballads"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Nautilus is the fictional submarine belonging to Captain Nemo featured in Jules Verne's novels Twenty Thousand Leagues Under the Seas (1870) and The Mysterious Island (1875).",
-      "body": "One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Nautilus_Neuville.JPG/330px-Nautilus_Neuville.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Here's one for the group chat —",
+      "hook": "Albany, sometimes referred to as the Albany, is an English apartment complex in Piccadilly, London.",
+      "body": "The three-storey mansion was built in the 1770s and divided into apartments in 1802. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Albany_Courtyard_at_dusk.JPG/330px-Albany_Courtyard_at_dusk.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nautilus_(fictional_submarine)"
+      "url": "https://en.wikipedia.org/wiki/Albany_(London)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Spider-Man: Brand New Day’ becomes biggest US box office hit of all time",
+      "body": "Star Wars: Episode VII – The Force Awakens’ 10-year record tumbles.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spider-man-brand-new-day-becomes-biggest-us-box-office-hit-of-all-time/5220480.article"
     },
     {
       "type": "card",
@@ -142,80 +100,22 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1976 —",
-      "hook": "Night of the Pencils: In the city of La Plata, Argentina, a group of high-school students were kidnapped and later tortured, raped and murdered during the Argentinian military dictatorship",
-      "body": "The Night of the Pencils, was a series of kidnappings and forced disappearances, followed by the torture, rape, and murder of 10 high-school students that began on the evening of 16 September 1976 and continued into the next day, during Argentina's last civil-military dictatorship. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "On this day in 1793 —",
+      "hook": "War of the Pyrenees: France defeats a Spanish force at the Battle of Peyrestortes.",
+      "body": "The War of the Pyrenees, also known as War of Roussillon or War of the Convention, was the Pyrenean front of the First Coalition's war against the First French Republic. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bataille_de_la_Croix_des_Bouquets%2C_23_juin_1794.jpg/330px-Bataille_de_la_Croix_des_Bouquets%2C_23_juin_1794.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Night_of_the_Pencils"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Liberation review – Carrie Coon joins all-female cult in unsettling drama",
-      "body": "<p><strong>Toronto film festival:</strong> Director Guy Nattiv draws on personal experience for an 80s-set tale of a woman abandoning her family for a creepy commune</p><p>We remain fascinated and horrified by the hows and whys of cult narr",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/16/liberation-movie-review-carrie-coon"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Pyrenees"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1966 —",
-      "hook": "The Metropolitan Opera House opens at Lincoln Center in New York City with the world premiere of Samuel Barber's opera Antony and Cleopatra.",
-      "body": "The Metropolitan Opera House is an opera house located on Broadway at Lincoln Square on the Upper West Side of Manhattan in New York City. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/MET_Opera_%2848047450723%29.jpg/330px-MET_Opera_%2848047450723%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1961 —",
+      "hook": "The world's first retractable roof stadium, the Civic Arena, opens in Pittsburgh, Pennsylvania.",
+      "body": "The Civic Arena, formerly the Civic Auditorium and later Mellon Arena, was a multi-purpose arena located in Downtown Pittsburgh, Pennsylvania. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Pittsburgh-pennsylvania-mellon-arena-2007.jpg/330px-Pittsburgh-pennsylvania-mellon-arena-2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Metropolitan_Opera_House_(Lincoln_Center)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
-      "body": "<p>Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treason</p><p>Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and Rachel Szor",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Founders' Day was formerly called \"Founder's Day\" and it was celebrated to commemorate the achievements of Osagyefo Dr.",
-      "body": "Founders' Day is a national public holiday observed to commemorate the contributions of all the people, notably the \"Big Six\" who led the struggle for Ghana's independence. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Founders'_Day_(Ghana)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Zuleika is a musical with music by Peter Tranchell and book and lyrics by James Ferman.",
-      "body": "The musical is based on the 1911 novel, Zuleika Dobson, by Max Beerbohm. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/71/Zuleika-1957.jpg/330px-Zuleika-1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zuleika_(musical)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1863 —",
-      "hook": "Robert College, in Istanbul, the first American educational institution outside the United States, is founded by Christopher Robert, an American philanthropist.",
-      "body": "American Robert College of Istanbul is an independent, co-educational, private high school in Istanbul, Turkey. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/RobertCollegeGouldHall1.jpg/330px-RobertCollegeGouldHall1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Robert_College"
+      "url": "https://en.wikipedia.org/wiki/Civic_Arena_(Pittsburgh)"
     },
     {
       "type": "card",
@@ -229,11 +129,61 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Bunker review – Cruz and Bardem just can’t dig Florian Zeller’s shallow thriller out of a hole",
-      "body": "<p><strong>Venice film festival: </strong>An architect (Javier Bardem) alienates his book editor wife (Penélope Cruz) when he agrees to build a luxurious bunker for a tech billionaire</p><p>Even the formidable pairing of Penélope Cruz and J",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/08/the-bunker-review-penelope-cruz-javier-bardem-florian-zeller-venice-film-festival"
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
+      "body": "<p>Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/aug",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2006 —",
+      "hook": "An audio tape of a private speech by Hungarian Prime Minister Ferenc Gyurcsány is leaked to the public, in which he confessed that his Hungarian Socialist Party had lied to win the 2006 election, sparking widespread protests across the country.",
+      "body": "The Őszöd speech was a speech Hungarian Prime Minister Ferenc Gyurcsány delivered to the 2006 Hungarian Socialist Party (MSZP) congress in Balatonőszöd. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Gyurcsany_Ferenc-mszp-2_%28cropped%29.jpg/330px-Gyurcsany_Ferenc-mszp-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/%C5%90sz%C3%B6d_speech"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1894 —",
+      "hook": "Battle of the Yalu River, the largest naval engagement of the First Sino-Japanese War.",
+      "body": "The Battle of the Yalu River was the largest naval engagement of the First Sino-Japanese War, and took place on 17 September 1894, the day after the Japanese victory at the land Battle of Pyongyang. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Battle_of_the_Yellow_Sea_by_Korechika.jpg/330px-Battle_of_the_Yellow_Sea_by_Korechika.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Yalu_River_(1894)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "George II, of the Leonid dynasty was a king of Abkhazia from 923 to 957 AD.",
+      "body": "His lengthy reign is regarded as a zenith of cultural flowering and political power of his realm. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/George_II_fassade_stone.jpg/330px-George_II_fassade_stone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_II_of_Abkhazia"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Julio César Castro, also known as Juceca was a Uruguayan comedian, narrator, actor and dramatist.",
+      "body": "He was mainly known by his character Don Verídico, with which he developed a particular type of absurd humour tied to the rural world. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Julio_C%C3%A9sar_Castro"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1787 —",
+      "hook": "The United States Constitution is signed at Independence Hall in Philadelphia, bringing the Constitutional Convention to an end.",
+      "body": "The Constitution of the United States is the supreme law of the United States of America. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_%28page_1%29.jpg/330px-Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_%28page_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Constitution_of_the_United_States"
     }
   ]
 }
