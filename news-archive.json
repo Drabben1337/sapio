@@ -3,6 +3,36 @@
     "type": "card",
     "cat": "news",
     "opener": "The Guardian · Film —",
+    "hook": "John Wilson on his unlikely concrete movie: ‘There might be a kind of sickness in shooting things this way’",
+    "body": "<p>The creator of How To with John Wilson has returned with his first film, a documentary about how to sell a documentary about concrete</p><p>As mayor of New York City, Zohran Mamdani has frequently demonstrated impressive media savvy, but",
+    "src": "The Guardian · Film",
+    "url": "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie",
+    "_t": 1789817934436
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "The Guardian · Books —",
+    "hook": "Jonathan Franzen: ‘It’s still mysterious to me that I was angry for so long’",
+    "body": "<p>The author of The Corrections talks about a new TV adaptation, the future of reading and why creating new work is ‘horrible’</p><p>When HBO dropped its plan to adapt Jonathan Franzen’s bestselling novel The Corrections in 2012, the autho",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long",
+    "_t": 1789817934436
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
+    "body": "In real life the actress says she is just like the character she's playing in Sense and Sensibility.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
+    "_t": 1789817934436
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "The Guardian · Film —",
     "hook": "‘He’s simply astonishing’: will Andrew Scott become the first out gay man to win the best actor Oscar?",
     "body": "<p>The Irishman seems a dead cert for his performance as Ian Charleson in Elsinore. And his ability to avoid being pigeonholed while embracing queer stories, from Pride to All of Us Strangers, is a remarkable achievement</p><p>This Sunday, ",
     "src": "The Guardian · Film",
@@ -568,35 +598,5 @@
     "src": "BBC Entertainment",
     "url": "https://www.bbc.co.uk/news/articles/cmvgy3pdv612o?at_medium=RSS&at_campaign=rss",
     "_t": 1789713878846
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "BBC Entertainment —",
-    "hook": "Zara Larsson criticises White House for using her song in deportation video",
-    "body": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
-    "src": "BBC Entertainment",
-    "url": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
-    "_t": 1789713878846
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "ESA —",
-    "hook": "Webb reveals stunning panorama of star formation",
-    "body": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less ",
-    "src": "ESA",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
-    "_t": 1789686567106
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Books —",
-    "hook": "Robert Macfarlane and Jackie Morris’ guide to 49 threatened British birds wins Wainwright book of the year",
-    "body": "<p>The Book of Birds is a twist on classic field guides from the creators of bestseller The Lost Words</p><p><a href=\"https://www.theguardian.com/environment/2026/may/02/the-lost-words-authors-jackie-morris-robert-macfarlane-reunite-book-of",
-    "src": "The Guardian · Books",
-    "url": "https://www.theguardian.com/books/2026/sep/17/wainwright-prize-book-of-birds-robert-macfarlane-jackie-morris",
-    "_t": 1789677388799
   }
 ]
