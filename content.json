@@ -1,45 +1,25 @@
 {
-  "generated": "2026-09-19T11:38:54.437Z",
-  "count": 20,
+  "generated": "2026-09-19T14:52:28.395Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Manalive (1912) is a book by G.",
-      "body": "Chesterton detailing a popular theme both in his own philosophy, and in Christianity, of the \"holy fool\", such as in Dostoevsky's The Idiot and Cervantes' Don Quixote. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/2b/Manalive_%28G._K._Chesterton_novel_-_cover_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Manalive"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "San Sebastian opens with plea to end genocide, Donostia Award for Werner Herzog",
-      "body": "Fatih Akin’s competition selection Ghost Song was opening night screening.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/san-sebastian-opens-with-plea-to-end-genocide-donostia-award-for-werner-herzog/5220567.article"
+      "opener": "The Guardian · Film —",
+      "hook": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
+      "body": "<p>As Gaza documentary wins cinematic acclaim, its directors face vitriol in Israel amid a febrile election campaign</p><p>First there was a moment of stunned silence. Then, in the Sala Grande, the main screening hall of the Venice film fes",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1676 —",
-      "hook": "Jamestown is burned to the ground by the forces of Nathaniel Bacon during Bacon's Rebellion.",
-      "body": "The Jamestown settlement in the Colony of Virginia was the first permanent English settlement in the Americas. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Jamestownzuniga.jpg/330px-Jamestownzuniga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1940 —",
+      "hook": "World War II: Witold Pilecki is voluntarily captured and sent to Auschwitz concentration camp to gather and smuggle out information for the resistance movement.",
+      "body": "Witold Pilecki, known by the codenames Roman Jezierski, Tomasz Serafiński, Druh and Witold, was a Polish World War II cavalry officer, intelligence agent, and resistance leader. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Witold_Pilecki_in_b%26w.jpg/330px-Witold_Pilecki_in_b%26w.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jamestown"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Arcade Catastrophe is a children's fantasy novel written by American author Brandon Mull.",
-      "body": "It was published by Shadow Mountain Publishing on January 1, 2012. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/55/Arcade_Catastrophe_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Arcade_Catastrophe"
+      "url": "https://en.wikipedia.org/wiki/Witold_Pilecki"
     },
     {
       "type": "card",
@@ -53,119 +33,42 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Davy and the Goblin, or, What Followed Reading \"Alice's Adventures in Wonderland\" is a novel by Charles E.",
-      "body": "Carryl that was serialized in St. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Davy-and-the-goblin-cover-1890.jpg/330px-Davy-and-the-goblin-cover-1890.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Davy_and_the_Goblin"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1939 —",
-      "hook": "World War II: The Battle of Kępa Oksywska concludes, with Polish losses reaching roughly 14% of all the forces engaged.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Jonathan Franzen: ‘It’s still mysterious to me that I was angry for so long’",
-      "body": "<p>The author of The Corrections talks about a new TV adaptation, the future of reading and why creating new work is ‘horrible’</p><p>When HBO dropped its plan to adapt Jonathan Franzen’s bestselling novel The Corrections in 2012, the autho",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Danger in the Dark is an American mystery novel by Mignon G.",
-      "body": "It was published by Doubleday Doran in 1937. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/78/Danger_in_the_Dark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Edward Vilga is an American writer, yoga teacher, author and director.",
+      "body": "His work explores the themes of transformation, spirituality, wealth, and forgiveness. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Edward_Vilga_2020.jpg/330px-Edward_Vilga_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Danger_in_the_Dark"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "John Wilson on his unlikely concrete movie: ‘There might be a kind of sickness in shooting things this way’",
-      "body": "<p>The creator of How To with John Wilson has returned with his first film, a documentary about how to sell a documentary about concrete</p><p>As mayor of New York City, Zohran Mamdani has frequently demonstrated impressive media savvy, but",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie"
+      "url": "https://en.wikipedia.org/wiki/Edward_Vilga"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1862 —",
-      "hook": "American Civil War: Union troops under William Rosecrans defeat a Confederate force commanded by Sterling Price.",
-      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2011 —",
+      "hook": "Mariano Rivera of the New York Yankees surpasses Trevor Hoffman to become Major League Baseball's all-time career saves leader with 602.",
+      "body": "Mariano Rivera is a Panamanian-American former professional baseball player who was a pitcher for 19 seasons in Major League Baseball (MLB) for the New York Yankees, from 1995 to 2013. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Mariano_Rivera_allison_7_29_07.jpg/330px-Mariano_Rivera_allison_7_29_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+      "url": "https://en.wikipedia.org/wiki/Mariano_Rivera"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "He has been MP for Claxton Bay in the House of Representatives since 2025.",
-      "body": "Hansen Narinesingh is a Trinidad and Tobago politician from the United National Congress (UNC). One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hansen_Narinesingh"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1863 —",
-      "hook": "American Civil War: The first day of the Battle of Chickamauga, in northwestern Georgia, the bloodiest two-day battle of the conflict, and the only significant Confederate victory in the war's Western Theater.",
-      "body": "The Battle of Chickamauga, fought on September 18–20, 1863, between the United States Army, or Union Army, and Confederate forces in the American Civil War, marked the end of a U.S. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Unbekannt_-_Confederate_General_Hood_wounded_at_the_battle_of_Chickamauga_American_Civil_War_-_%28MeisterDrucke-739711%29.jpg/330px-Unbekannt_-_Confederate_General_Hood_wounded_at_the_battle_of_Chickamauga_American_Civil_War_-_%28MeisterDrucke-739711%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1960 —",
+      "hook": "Indian Prime Minister Jawaharlal Nehru and Pakistani President Ayub Khan sign the Indus Waters Treaty for the control and management of the Indus, Chenab, Jhelum, Ravi, Sutlej and Beas rivers.",
+      "body": "Jawaharlal Nehru was an Indian lawyer, anti-colonial nationalist, secular humanist, social democrat, and statesman who was a central figure in India during the middle of the 20th century. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Nehru_in_the_Netherlands%2C_1957.jpg/330px-Nehru_in_the_Netherlands%2C_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Chickamauga"
+      "url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Towards Zero is a 1956 thriller play by Agatha Christie and Gerald Verner and based on Christie's 1944 novel Towards Zero.",
-      "body": "It premiered at the Theatre Royal, Nottingham before transferring to the St James's Theatre in London's West End where it ran for 205 performances between 4 September 1956 and 2 March 1957. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/Towards_Zero_%28play%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Christian is a 1923 American silent drama film, released by Goldwyn Pictures, directed by Maurice Tourneur, his first production for Goldwyn, and starring Richard Dix and Mae Busch.",
+      "body": "The film is based on the novel The Christian by Hall Caine, published in 1897, the first British novel to reach the record of one million copies sold. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Christian_-1923_poster.jpg/330px-The_Christian_-1923_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Towards_Zero_(play)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "World War II: The Moscow Armistice between Finland and the Soviet Union is signed, which officially ended the Continuation War.",
-      "body": "The Moscow Armistice was signed between Finland on one side and the Soviet Union and United Kingdom on the other side on 19 September 1944, ending the Continuation War. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Finnish_areas_ceded_in_1944.png/330px-Finnish_areas_ceded_in_1944.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Moscow_Armistice"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
-      "body": "<p>As Gaza documentary wins cinematic acclaim, its directors face vitriol in Israel amid a febrile election campaign</p><p>First there was a moment of stunned silence. Then, in the Sala Grande, the main screening hall of the Venice film fes",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 96 —",
-      "hook": "Nerva, suspected of complicity of the death of Domitian, is declared emperor by Senate. The Senate then annuls laws passed by Domitian and orders his statues to be destroyed.",
-      "body": "AD 96 (XCVI) was a leap year starting on Friday of the Julian calendar. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/AD_96"
+      "url": "https://en.wikipedia.org/wiki/The_Christian_(1923_film)"
     },
     {
       "type": "card",
@@ -187,13 +90,90 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Zara Larsson criticises White House for using her song in deportation video",
+      "body": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "John Wilson on his unlikely concrete movie: ‘There might be a kind of sickness in shooting things this way’",
+      "body": "<p>The creator of How To with John Wilson has returned with his first film, a documentary about how to sell a documentary about concrete</p><p>As mayor of New York City, Zohran Mamdani has frequently demonstrated impressive media savvy, but",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Ghost Island was filmed in the summer of 2017 and premiered on February 28, 2018, on CBS with a two-hour episode.",
-      "body": "Survivor: Ghost Island is the 36th season of the American CBS competitive reality television series Survivor. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/15/Survivor_ghost_island_season_thirty-six_region_1_dvd.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "On this day in 1622 —",
+      "hook": "Imperial-Spanish forces under the count of Tilly and Gonzalo Fernández de Córdoba capture Heidelberg, the capital of the Palatinate during the Thirty Years' War.",
+      "body": "Johann Tserclaes, Count of Tilly was a field marshal who commanded the Catholic League's forces in the Thirty Years' War. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Johann_Tserclaes_count_of_Tilly.jpg/330px-Johann_Tserclaes_count_of_Tilly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Johann_Tserclaes%2C_Count_of_Tilly"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Little Kingdom: The Private Story of Apple Computer is the first book that documented the development of Apple Computer.",
+      "body": "It was published in 1984 and written by then-Time Magazine reporter Michael Moritz. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/The_Little_Kingdom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Survivor%3A_Ghost_Island"
+      "url": "https://en.wikipedia.org/wiki/The_Little_Kingdom"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "An earthquake light, also known as earthquake lightning or an earthquake flash, is a reported luminous phenomenon that is said to be associated with tectonic stress, seismic activity, or volcanic eruptions.",
+      "body": "Reports describe flashes, glows, luminous orbs, sheet-like lights, streamers, and other transient lights observed before, during, or after earthquakes and at varying distances from earthquake sites. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Earthquake_light_at_Ebingen.png/330px-Earthquake_light_at_Ebingen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Earthquake_light"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1950 —",
+      "hook": "Korean War: An attack by North Korean forces was repelled at the Battle of Nam River.",
+      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Elaine Tarone is a retired professor of applied linguistics and is a distinguished teaching professor emerita at the University of Minnesota.",
+      "body": "She is currently a member of the editorial board of The Modern Language Journal. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elaine_Tarone"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Jonathan Franzen: ‘It’s still mysterious to me that I was angry for so long’",
+      "body": "<p>The author of The Corrections talks about a new TV adaptation, the future of reading and why creating new work is ‘horrible’</p><p>When HBO dropped its plan to adapt Jonathan Franzen’s bestselling novel The Corrections in 2012, the autho",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1676 —",
+      "hook": "Jamestown is burned to the ground by the forces of Nathaniel Bacon during Bacon's Rebellion.",
+      "body": "The Jamestown settlement in the Colony of Virginia was the first permanent English settlement in the Americas. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Jamestownzuniga.jpg/330px-Jamestownzuniga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Jamestown"
     }
   ]
 }
