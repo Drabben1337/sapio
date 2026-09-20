@@ -1,119 +1,159 @@
 {
-  "generated": "2026-09-20T07:08:46.822Z",
-  "count": 12,
+  "generated": "2026-09-20T12:40:46.770Z",
+  "count": 16,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Stars at Noon is a 1986 novel by Denis Johnson.",
-      "body": "It was published by Alfred A. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/The_Stars_at_Noon_%28Denis_Johnson%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Stars_at_Noon"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+      "body": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "John Wilson on his unlikely concrete movie: ‘There might be a kind of sickness in shooting things this way’",
-      "body": "<p>The creator of How To with John Wilson has returned with his first film, a documentary about how to sell a documentary about concrete</p><p>As mayor of New York City, Zohran Mamdani has frequently demonstrated impressive media savvy, but",
+      "hook": "‘Resident Evil movies? I’ve never seen one’: Weapons director Zach Cregger on resurrecting the beloved zombie franchise",
+      "body": "<p>Raised on punk, alt-comedy and the church, Cregger’s Lynchian approach to horror is anything but typical. After two wildly original hits, his pivot to a 30-year-old video game has caused a storm among protective fans</p><p>When <a href=\"",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie"
+      "url": "https://www.theguardian.com/film/2026/sep/20/zach-cregger-director-interview-resident-movie-evil-weapons-barbarian"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Knights of Myth Drannor is a novel trilogy written by Ed Greenwood, set in the Dungeons & Dragons Forgotten Realms setting.",
-      "body": "The books were published in 2006, 2007, and 2008 respectively. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "You probably never noticed this —",
+      "hook": "Tom Swift and His Wireless Message, or, The Castaways of Earthquake Island, is Volume 6 in the original Tom Swift novel series published by Grosset & Dunlap.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tom_Swift_and_His_Wireless_Message_%28book_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Knights_of_Myth_Drannor_Trilogy"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Zara Larsson criticises White House for using her song in deportation video",
-      "body": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-      "body": "In real life the actress says she is just like the character she's playing in Sense and Sensibility.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Tom_Swift_and_His_Wireless_Message"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Jonathan Franzen: ‘It’s still mysterious to me that I was angry for so long’",
-      "body": "<p>The author of The Corrections talks about a new TV adaptation, the future of reading and why creating new work is ‘horrible’</p><p>When HBO dropped its plan to adapt Jonathan Franzen’s bestselling novel The Corrections in 2012, the autho",
+      "hook": "Is culture alive?",
+      "body": "<p>From Mozart to Madonna, dim sum to doughnuts, Shakespeare to Sartre – not all forms of life need DNA</p><p>On Mount Athos, in northern Greece, a monk rises before dawn to sing the same office that has been sung on that mountain for more ",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
+      "url": "https://www.theguardian.com/science/2026/sep/20/is-culture-alive"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "US fans with Ed Sheeran tickets left 'torn' over Macklemore controversy",
-      "body": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘He’s simply astonishing’: will Andrew Scott become the first out gay man to win the best actor Oscar?",
-      "body": "<p>The Irishman seems a dead cert for his performance as Ian Charleson in Elsinore. And his ability to avoid being pigeonholed while embracing queer stories, from Pride to All of Us Strangers, is a remarkable achievement</p><p>This Sunday, ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/19/andrew-scott-best-actor-oscar-out-gay-elsinore-ian-charleson"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "UK's 'dismal' Eurovision song choices to be examined by MPs",
-      "body": "It comes after the UK's entry Look Mum No Computer came last in May's final, scoring just one point.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgy3pdv612o?at_medium=RSS&at_campaign=rss"
+      "cat": "history",
+      "opener": "On this day in 1946 —",
+      "hook": "The first Cannes Film Festival is held, having been delayed for seven years due to World War II.",
+      "body": "The Cannes Film Festival is considered the most prestigious film festival in the world. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Patchwork-Cannes-2.jpg/330px-Patchwork-Cannes-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cannes_Film_Festival"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Far Cry is an anthology franchise of first-person shooter games published by Ubisoft.",
-      "body": "The first game, Far Cry, was developed by Crytek to premiere their CryEngine software, and released in March 2004. The world is stranger than it lets on.",
+      "opener": "Here's one for the group chat —",
+      "hook": "Roadside Picnic is a philosophical science fiction novel by the Soviet authors Arkady and Boris Strugatsky.",
+      "body": "It was written in 1971 and published in 1972, and is their most popular and most widely translated novel outside the former Soviet Union. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/Roadside-picnic-macmillan-cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roadside_Picnic"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Matthew Rhys' sister 'so proud of him' after historic Emmy wins",
+      "body": "Rhys, from Cardiff, became the first person to win two lead acting Emmy prizes in one night.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c61wx47n0408o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2008 —",
+      "hook": "A dump truck full of explosives detonates in front of the Marriott hotel in Islamabad, Pakistan, killing 54 people and injuring 266 others.",
+      "body": "The Islamabad Marriott Hotel bombing occurred on the night of 20 September 2008, when a dumper truck filled with explosives was detonated in front of the Marriott Hotel in the Pakistani capital Islamabad, killing at least 54 people, injuring at least 266 and leaving a 60 ft (18 m) wide, 20 ft (6.1 m) deep crater outside the hotel. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Marriot_Hotel_Islamabad_Pakistan_bombing.jpg/330px-Marriot_Hotel_Islamabad_Pakistan_bombing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Islamabad_Marriott_Hotel_bombing"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Everworld is a fantasy novel series co-authored by Katherine Applegate and her husband Michael Grant, writing together under the name K.",
+      "body": "Applegate, and published by Scholastic between 1999 and 2001. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/30/Everworld_Book1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Everworld"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Sex and dating for the sandwich generation - Sharon Horgan on her latest comedy Youth",
+      "body": "\"It's really weird watching yourself age on screen because that's not fun,\" Horgan reveals.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/czxz0zq9y6do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1848 —",
+      "hook": "The American Association for the Advancement of Science is created.",
+      "body": "The American Association for the Advancement of Science (AAAS) is a United States–based international nonprofit with the stated mission of promoting cooperation among scientists, defending scientific freedom, encouraging scientific responsibility, and supporting scientific education and science outreach for the betterment of all humanity. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/American_Association_for_the_Advancement_of_Science_%28AAAS%29_%2855266955999%29.jpg/330px-American_Association_for_the_Advancement_of_Science_%28AAAS%29_%2855266955999%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Association_for_the_Advancement_of_Science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2000 —",
+      "hook": "The United Kingdom's MI6 Secret Intelligence Service building is attacked by individuals using a Russian-built RPG-22 anti-tank missile.",
+      "body": "On Wednesday 20 September 2000, the Real Irish Republican Army (RIRA) carried out an attack on MI6's SIS Building headquarters in Vauxhall, Lambeth, London. The world is stranger than it lets on.",
       "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Far_Cry"
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2000_MI6_attack"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Carmen is a 1915 American silent drama film directed by Cecil B.",
-      "body": "The film is based on the novella Carmen by Prosper Mérimée. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Carmen_%28DeMille%29_film_poster.jpg/330px-Carmen_%28DeMille%29_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Carmen_(1915_Cecil_B._DeMille_film)"
+      "cat": "history",
+      "opener": "On this day in 1988 —",
+      "hook": "Margaret Thatcher delivers the Bruges speech, in which she articulates her opposition to further European integration.",
+      "body": "Margaret Hilda Thatcher, Baroness Thatcher was a British stateswoman who served as Prime Minister of the United Kingdom from 1979 to 1990 and Leader of the Conservative Party from 1975 to 1990. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg/330px-Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Margaret_Thatcher"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Namma Kuzhandaigal is a 1970 Indian Tamil-language children's drama film directed by Srikanth and produced by D.",
-      "body": "It is based on writer Poovannan's novel Aalam Vizhudhu. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/Namma_Kuzhandaigal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Namma_Kuzhandaigal"
+      "cat": "history",
+      "opener": "On this day in 1941 —",
+      "hook": "The Holocaust in Lithuania: Lithuanian Nazis and local police begin a mass execution of 403 Jews in Nemenčinė.",
+      "body": "The Holocaust resulted in the near total eradication of Lithuanian (Litvaks) and Polish Jews[a] in Generalbezirk Litauen of the Reichskommissariat Ostland in the Nazi-controlled Lithuania. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bundesarchiv_Bild_183-L25397%2C_Litauen%2C_brennende_Synagoge.jpg/330px-Bundesarchiv_Bild_183-L25397%2C_Litauen%2C_brennende_Synagoge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/The_Holocaust_in_Lithuania"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "I was asked to write a new Miss Marple, so I sent her to the Alps",
+      "body": "<p>Her last case was 50 years ago, written by Agatha Christie just before she died. Could I really follow in the footsteps of the Queen of Crime?</p><p>When I was asked to write the first full-length Miss Marple novel since Sleeping Murder ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/20/i-was-asked-to-write-a-new-miss-marple-so-i-sent-her-to-the-alps"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "body": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
