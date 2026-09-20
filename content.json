@@ -1,44 +1,16 @@
 {
-  "generated": "2026-09-20T01:48:42.987Z",
-  "count": 13,
+  "generated": "2026-09-20T07:08:46.822Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Jean-Baptiste \"Batty\" Weber (1860–1940) is considered to have been one of Luxembourg's most influential journalists and authors, contributing much to the development of the country's national identity.",
-      "body": "His style is characterized by his sense of humour and skillful use of irony. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Batty_Weber.jpg/330px-Batty_Weber.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Stars at Noon is a 1986 novel by Denis Johnson.",
+      "body": "It was published by Alfred A. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/The_Stars_at_Noon_%28Denis_Johnson%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Batty_Weber"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "He was a general authority of the Church of Jesus Christ of Latter-day Saints from 2005 until 2011.",
-      "body": "Paul Kay Sybrowsky was the president of Southern Virginia University (SVU) from June 1, 2012 until August 31, 2014. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Paul_K._Sybrowsky"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "US fans with Ed Sheeran tickets left 'torn' over Macklemore controversy",
-      "body": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Jonathan Franzen: ‘It’s still mysterious to me that I was angry for so long’",
-      "body": "<p>The author of The Corrections talks about a new TV adaptation, the future of reading and why creating new work is ‘horrible’</p><p>When HBO dropped its plan to adapt Jonathan Franzen’s bestselling novel The Corrections in 2012, the autho",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
+      "url": "https://en.wikipedia.org/wiki/The_Stars_at_Noon"
     },
     {
       "type": "card",
@@ -51,12 +23,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘He’s simply astonishing’: will Andrew Scott become the first out gay man to win the best actor Oscar?",
-      "body": "<p>The Irishman seems a dead cert for his performance as Ian Charleson in Elsinore. And his ability to avoid being pigeonholed while embracing queer stories, from Pride to All of Us Strangers, is a remarkable achievement</p><p>This Sunday, ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/19/andrew-scott-best-actor-oscar-out-gay-elsinore-ian-charleson"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Knights of Myth Drannor is a novel trilogy written by Ed Greenwood, set in the Dungeons & Dragons Forgotten Realms setting.",
+      "body": "The books were published in 2006, 2007, and 2008 respectively. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Knights_of_Myth_Drannor_Trilogy"
     },
     {
       "type": "card",
@@ -71,6 +44,42 @@
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
+      "hook": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
+      "body": "In real life the actress says she is just like the character she's playing in Sense and Sensibility.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Jonathan Franzen: ‘It’s still mysterious to me that I was angry for so long’",
+      "body": "<p>The author of The Corrections talks about a new TV adaptation, the future of reading and why creating new work is ‘horrible’</p><p>When HBO dropped its plan to adapt Jonathan Franzen’s bestselling novel The Corrections in 2012, the autho",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "US fans with Ed Sheeran tickets left 'torn' over Macklemore controversy",
+      "body": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘He’s simply astonishing’: will Andrew Scott become the first out gay man to win the best actor Oscar?",
+      "body": "<p>The Irishman seems a dead cert for his performance as Ian Charleson in Elsinore. And his ability to avoid being pigeonholed while embracing queer stories, from Pride to All of Us Strangers, is a remarkable achievement</p><p>This Sunday, ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/19/andrew-scott-best-actor-oscar-out-gay-elsinore-ian-charleson"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
       "hook": "UK's 'dismal' Eurovision song choices to be examined by MPs",
       "body": "It comes after the UK's entry Look Mum No Computer came last in May's final, scoring just one point.",
       "src": "BBC Entertainment",
@@ -79,51 +88,32 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Fools of Chelm and Their History is a humorous book by Isaac Bashevis Singer about a fictional town of Chelm inhabited by naive Wise Men of Chelm.",
-      "body": "Worth a quiet trip down the rabbit hole.",
+      "opener": "Okay, this one's fun —",
+      "hook": "Far Cry is an anthology franchise of first-person shooter games published by Ubisoft.",
+      "body": "The first game, Far Cry, was developed by Crytek to premiere their CryEngine software, and released in March 2004. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Fools_of_Chelm_and_Their_History"
+      "url": "https://en.wikipedia.org/wiki/Far_Cry"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Wildwood is a 2011 fantasy novel by Colin Meloy, illustrated by his wife Carson Ellis.",
-      "body": "The 541-page novel, inspired by classic fantasy novels and folk tales, is the story of two seventh-graders who are drawn into a hidden, magical forest, while trying to rescue a baby kidnapped by crows. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/Wildwood_by_Colin_Meloy_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "Carmen is a 1915 American silent drama film directed by Cecil B.",
+      "body": "The film is based on the novella Carmen by Prosper Mérimée. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Carmen_%28DeMille%29_film_poster.jpg/330px-Carmen_%28DeMille%29_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wildwood_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Carmen_(1915_Cecil_B._DeMille_film)"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Don Rodriguez: Chronicles of Shadow Valley is a fantasy novel by Lord Dunsany, issued in the United States under this title and in the United Kingdom as The Chronicles of Rodriguez.",
-      "body": "The first editions, in hardcover, were published simultaneously in London and New York by G. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Don_Rodriguez_Chronicles_of_Shadow_Valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Namma Kuzhandaigal is a 1970 Indian Tamil-language children's drama film directed by Srikanth and produced by D.",
+      "body": "It is based on writer Poovannan's novel Aalam Vizhudhu. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/Namma_Kuzhandaigal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Don_Rodriguez%3A_Chronicles_of_Shadow_Valley"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-      "body": "In real life the actress says she is just like the character she's playing in Sense and Sensibility.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "It Chapter Two (Original Motion Picture Soundtrack) is the score album to the 2019 film It Chapter Two, a follow-up to It (2017).",
-      "body": "The film had Benjamin Wallfisch who scored for the first film, returning to score for the sequel. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/94/IT_chapter_two_soundtrack_album_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/It_Chapter_Two_(soundtrack)"
+      "url": "https://en.wikipedia.org/wiki/Namma_Kuzhandaigal"
     }
   ]
 }
