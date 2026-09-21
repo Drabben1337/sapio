@@ -1,73 +1,35 @@
 {
-  "generated": "2026-09-21T19:46:16.709Z",
-  "count": 17,
+  "generated": "2026-09-21T22:52:19.898Z",
+  "count": 18,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "London Fashion Week 2026: The five trends we'll see in spring",
-      "body": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Paramount, state attorneys general settle case",
-      "body": "WGA also settles although, like the AGs, it remains opposed to the merger.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/paramount-state-attorneys-general-settle-case/5220628.article"
-    },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Odyssey is the fourth studio album by guitarist Yngwie Malmsteen, released on 8 April 1988 through Polydor Records.",
-      "body": "40 on the US Billboard 200 and remained on that chart for eighteen weeks, as well as reaching the top 50 in five other countries. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/29/YngwieJMalmsteen-Odyssey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The VALIS trilogy is a set of science fiction/philosophical novels by author Philip K.",
+      "body": "Dick which include VALIS (1981), The Divine Invasion (1981), and The Transmigration of Timothy Archer (1982). Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Odyssey_(Yngwie_Malmsteen_album)"
+      "url": "https://en.wikipedia.org/wiki/Valis_(novel_series)"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "opener": "The Guardian · Film —",
+      "hook": "The Weight review – Ethan Hawke leads sturdy adventure set in the 30s",
+      "body": "<p><strong>Sundance film festival: </strong>the recent Oscar nominee lends gravitas to a decent matinee movie on gold smuggling</p><p>For Ethan Hawke, 2025 was quite the year, showing impressively jarring range as both a bitter gay lyricist",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/jan/27/the-weight-review-ethan-hawke-sundance"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "What Mad Pursuit: A Personal View of Scientific Discovery is a book published in 1988 and written by Francis Crick, the English co-discoverer in 1953 of the structure of DNA.",
-      "body": "In the book, Crick gives important insights into his work on the DNA structure, along with the central dogma of molecular biology and the genetic code, and his later work on neuroscience. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a5/What_Mad_Pursuit%2C_A_Personal_View_of_Scientific_Discovery.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Treasure is a 2024 tragicomedy film directed by Julia von Heinz.",
+      "body": "Based on the 1999 novel Too Many Men by Lily Brett, the film stars Lena Dunham, Stephen Fry and Zbigniew Zamachowski. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cd/Treasure_2024_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/What_Mad_Pursuit"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "War Machine is a superhero appearing in American comic books published by Marvel Comics.",
-      "body": "Created by David Michelinie, John Byrne and Bob Layton as a supporting character for Iron Man, he first appeared in Iron Man #118 (1979) and became a superhero with the Iron Man armor in issue #169 (1983). The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/War_Machine_%28James_Rhodes%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/War_Machine"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1964 —",
-      "hook": "The North American XB-70 Valkyrie, the world's fastest bomber, makes its maiden flight from Palmdale, California.",
-      "body": "The North American Aviation XB-70 Valkyrie is a retired prototype version of the planned B-70 nuclear-armed, deep-penetration supersonic strategic bomber for the United States Air Force Strategic Air Command. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/North_American_XB-70A_Valkyrie_in_flight_%28cropped%29.jpg/330px-North_American_XB-70A_Valkyrie_in_flight_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/North_American_XB-70_Valkyrie"
+      "url": "https://en.wikipedia.org/wiki/Treasure_(2024_German-French_film)"
     },
     {
       "type": "card",
@@ -81,89 +43,137 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1993 —",
-      "hook": "Russian president Boris Yeltsin triggers a constitutional crisis when he suspends parliament and scraps the constitution.",
-      "body": "Boris Nikolayevich Yeltsin was a Soviet and Russian politician who served as President of Russia from 1991 to 1999, having previously served as Chairman of the Supreme Soviet of the Russian SFSR from 1990 to 1991. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Yeltsin_%283x4_cropped%29.jpg/330px-Boris_Yeltsin_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1977 —",
+      "hook": "Malév Flight 203 crashes near Urziceni, killing 29 people.",
+      "body": "Malév Flight 203 was an international passenger flight from Istanbul, Turkey to Budapest, Hungarian PR with a stop at Bucharest, SR Romania. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/A_MAL%C3%89V_Tu-134_t%C3%ADpus%C3%BA%2C_HA-LBC_lajstromjel%C5%B1_rep%C3%BCl%C5%91g%C3%A9pe._Fortepan_61440.jpg/330px-A_MAL%C3%89V_Tu-134_t%C3%ADpus%C3%BA%2C_HA-LBC_lajstromjel%C5%B1_rep%C3%BCl%C5%91g%C3%A9pe._Fortepan_61440.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Boris_Yeltsin"
+      "url": "https://en.wikipedia.org/wiki/Mal%C3%A9v_Flight_203"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "California attorney general outlines terms in Paramount antitrust settlement",
+      "body": "Agreement covers annual production spend and output, with penalties for non-compliance including divestiture of Miramax.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/california-attorney-general-outlines-terms-in-paramount-antitrust-settlement/5220634.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Resident Evil review – Zach Cregger’s rebooted action horror is a wild rollercoaster ride",
+      "body": "<p>The Weapons director delivers a seat-edge thriller with a standout lead performance from Austin Abrams as an everyman navigating chaos</p><p>Typically horror fans react to blatant on-screen stupidity with vocal derision. Don’t go in ther",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/16/resident-evil-reboot-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Memoirs of Leticia Valle is a 1979 Spanish coming-of-age drama film directed by Miguel Ángel Rivas based on the novel of the same name by Rosa Chacel.",
+      "body": "Emma Suárez stars as the title character. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4c/Memoirs_of_Leticia_Valle_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Memoirs_of_Leticia_Valle"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1969 —",
       "hook": "Mexicana de Aviación Flight 801, a Boeing 727-100 passenger plane, crashes during a landing attempt in Mexico City, killing 27 of the 118 occupants.",
-      "body": "Mexicana de Aviación Flight 801 was a scheduled international flight from Chicago-O'Hare International Airport in Illinois bound for Mexico City International Airport, Mexico City. Bring it up somewhere. Watch the reaction.",
+      "body": "Mexicana de Aviación Flight 801 was a scheduled international flight from Chicago-O'Hare International Airport in Illinois bound for Mexico City International Airport, Mexico City. The world is stranger than it lets on.",
       "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mexicana_Boeing_727-100_XA-SEM_2485953.jpg/330px-Mexicana_Boeing_727-100_XA-SEM_2485953.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Mexicana_de_Aviaci%C3%B3n_Flight_801"
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Atlas Alone is a 2019 science fiction novel by British writer Emma Newman.",
+      "body": "It was first published in the United States as a paperback original in April 2019 by Ace Books, and in the United Kingdom by Gollancz. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/Atlas_Alone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atlas_Alone"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 2003 —",
-      "hook": "The Galileo spacecraft is terminated by sending it into Jupiter's atmosphere.",
-      "body": "Galileo was an American robotic space probe that studied the planet Jupiter and its moons, as well as the asteroids Gaspra and Ida. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Artwork_Galileo-Io-Jupiter.JPG/330px-Artwork_Galileo-Io-Jupiter.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2018 —",
+      "hook": "LGBT rights activist Zak Kostopoulos is beaten to death on a busy street in Athens.",
+      "body": "Zacharias \"Zak\" Kostopoulos was a Greek-American activist, defending the rights of LGBT people, HIV-positive people, sex workers, and refugees. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/20170620_Zak_Kostopoulos_Exarchia.jpg/330px-20170620_Zak_Kostopoulos_Exarchia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Galileo_(spacecraft)"
+      "url": "https://en.wikipedia.org/wiki/Zak_Kostopoulos"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1972 —",
-      "hook": "Philippine president Ferdinand Marcos begins authoritarian rule by declaring martial law.",
-      "body": "Ferdinand Emmanuel Edralin Marcos Sr. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Ferdinand_Marcos%27_official_portrait_during_his_second_term_%281969%29_%28cropped%29.jpg/330px-Ferdinand_Marcos%27_official_portrait_during_his_second_term_%281969%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ferdinand_Marcos"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in September: new paperbacks from Margaret Atwood, Kiran Desai and Richard Holmes",
-      "body": "<p>Looking for a new reading recommendation? Here are some great new paperbacks, from an epic multigenerational saga by a Booker winner to a biography of an iconic Victorian poet</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-i",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/18/the-best-books-to-read-in-september-new-paperbacks-from-margaret-atwood-kiran-desai-and-richard-holmes"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1965 —",
       "hook": "The Gambia, Maldives and Singapore are admitted as members of the United Nations.",
-      "body": "The Gambia, officially the Republic of The Gambia, is a country in West Africa. Worth a quiet trip down the rabbit hole.",
+      "body": "The Gambia, officially the Republic of The Gambia, is a country in West Africa. Bring it up somewhere. Watch the reaction.",
       "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/330px-Flag_of_The_Gambia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/The_Gambia"
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1862 —",
+      "hook": "Taiping Rebellion: The Ever Victorious Army defeats Taiping forces at the Battle of Cixi.",
+      "body": "The Taiping Rebellion, also known as the Taiping Civil War, Revolution, or Movement, was a civil war in late imperial China between the Qing dynasty and the rebel Taiping Heavenly Kingdom. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Regaining_the_Provincial_City_Anqing2.jpg/330px-Regaining_the_Provincial_City_Anqing2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2012 —",
+      "hook": "Three Egyptian militants open fire on a group of Israeli soldiers in a southern Israel cross-border attack.",
+      "body": "Egyptians are an ethnic group native to the Nile Valley in Egypt. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Map_of_the_Egyptian_Diaspora_in_the_World.svg/330px-Map_of_the_Egyptian_Diaspora_in_the_World.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Egyptians"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Reward is a 1965 American Western film directed by Serge Bourguignon and starring Max von Sydow, Yvette Mimieux, Efrem Zimbalist Jr.",
-      "body": "based on a novel by Michael Barrett. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/83/The_Reward.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "Kadrush Radogoshi is an Albanian poet, novelist, play-writer, and literary critic from Kosovo.",
+      "body": "He is a dissident who opposed the revocation of the autonomy of Kosovo from the Milosevic's regime, consequently being arrested and imprisoned. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Kadrushi.jpg/330px-Kadrushi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Reward_(1965_film)"
+      "url": "https://en.wikipedia.org/wiki/Kadrush_Radogoshi"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Chad Gilbert, New Found Glory’s founding guitarist, dies aged 45",
-      "body": "<p>Gilbert’s family says he died ‘peacefully in his sleep’ months after My Friends Over You musician shared stage four cancer diagnosis</p><p>Guitarist Chad Gilbert – a founding member of the US rock band New Found Glory that doled out the ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/us-news/2026/sep/21/chad-gilbert-new-found-glory-dead"
+      "opener": "The Guardian · Books —",
+      "hook": "Jonathan Franzen: ‘It’s still mysterious to me that I was angry for so long’",
+      "body": "<p>The author of The Corrections talks about a new TV adaptation, the future of reading and why creating new work is ‘horrible’</p><p>When HBO dropped its plan to adapt Jonathan Franzen’s bestselling novel The Corrections in 2012, the autho",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Sales, few packages, and badge lines – attendees assess inaugural TIFF: The Market",
+      "body": "Market organisers report more than 116,000 attendees, more than 7,000 registered delegates.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/sales-few-packages-and-badge-lines-attendees-assess-inaugural-tiff-the-market/5220568.article"
     }
   ]
 }
