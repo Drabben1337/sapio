@@ -1,33 +1,129 @@
 {
-  "generated": "2026-09-21T07:17:56.574Z",
-  "count": 19,
+  "generated": "2026-09-21T14:34:54.002Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2019 —",
-      "hook": "A 5.6 Mw earthquake shakes the Albanian port of Durrës. Forty-nine people are injured in the capital, Tirana.",
-      "body": "On 26 November 2019 at 03:54 CET (UTC+1), northwestern Albania was struck by a magnitude 6.4 earthquake with an epicentre 16 kilometres (9.9 mi) west-southwest of Mamurras. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Terremoto_in_Albania_%2849137246301%29.jpg/330px-Terremoto_in_Albania_%2849137246301%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2019_Albania_earthquake"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Dunesday: will this be Barbenheimer on steroids – the biggest weekend of cinema ever?",
+      "body": "<p>Since the mammoth success of the films Barbie and Oppenheimer in 2023, Hollywood has taken to jointly marketing movies released on the same day – and December’s matchup of Dune: Part Three and Avengers: Doomsday could break all records</",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/21/dunesday-barbenheimer-on-steroids-biggest-weekend-cinema-ever"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Countess Eleonore Batthyány-Strattmann was an Austrian courtier and noblewoman who played a prominent role in Habsburg court society.",
+      "body": "As the daughter of Theodor Heinrich von Strattmann und Peuerbach, the Imperial Court Chancellor under Emperor Leopold I, she was well-connected in Viennese aristocratic circles. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Countess_Eleonore_Batthy%C3%A1ny-Strattmann.jpg/330px-Countess_Eleonore_Batthy%C3%A1ny-Strattmann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eleonore_Batthy%C3%A1ny-Strattmann"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "This article describes notable characters who appear in the Yakuza main series video games and associated remasters or remakes, with characters sorted by organizations or groups according to the original works.",
-      "body": "Japanese video game developer Sega's Yakuza media franchise, known as Ryū ga Gotoku in its native Japan and other Asian territories, features an extensive cast of characters. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/44/Yakuza_Like_a_Dragon_cast.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "On this day in 1780 —",
+      "hook": "American Revolutionary War: Benedict Arnold gives the British the plans to West Point.",
+      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1814 —",
+      "hook": "War of 1812: British forces abandon their unsuccessful siege of Fort Erie.",
+      "body": "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/War_of_1812_Montage.jpg/330px-War_of_1812_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/War_of_1812"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1921 —",
+      "hook": "A storage silo in Oppau, Germany, explodes, killing 500–600 people.",
+      "body": "The Oppau explosion occurred on September 21, 1921, when approximately 4,500 tonnes of a mixture of ammonium sulfate and ammonium nitrate fertilizer stored in a tower silo exploded at a BASF plant in Oppau, now part of Ludwigshafen, Germany, killing at least 560 people and injuring about 2,000 more. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Postcard-1-Oppau-Explosion.pdf/page1-330px-Postcard-1-Oppau-Explosion.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Oppau_explosion"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘Still feel a jolt of joy’: why Dirty Dancing is my feelgood movie",
+      "body": "<p>The latest in our ongoing series of writers highlighting their most rewatched comfort films remembers a 1987 teenage girl classic</p><p>There is probably a Swedish word for the emotional state engendered in me by Dirty Dancing. A kind of",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/21/dirty-dancing-feelgood-movie"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The USFL was a 12 team league in 1983, so although Risher was drafted 170th overall in the league's 1983 draft, he was actually the team's 15th round pick that year.",
+      "body": "Alan David Risher is a former quarterback for the LSU Tigers and the United States Football League (USFL), where he played for the Arizona Wranglers. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Characters_of_the_Yakuza_series"
+      "url": "https://en.wikipedia.org/wiki/Alan_Risher"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Warlords is a computer wargame released in 1990 for the Amiga and MS-DOS compatible operating systems, then in 1992 for Macintosh.",
+      "body": "It was designed by Steve Fawkner and developed by Strategic Studies Group. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9c/Warlords_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Warlords_(1990_video_game)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "From the ridicule of Trump to the rise of Jack Welch: how the 1980s shaped and changed America",
+      "body": "<p>In When America Roared, Pulitzer-winning reporter Jonathan Kaufman looks back to a decade of greed and excess, and uses it to explore where we are today</p><p>Donald Trump is “so much a creature of the 80s but even in the 80s, everyone m",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/books/2026/sep/21/trump-1980s-book-jonathan-kaufman"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "It had a population of 4,509 as of March 2014.",
+      "body": "Nadur is an administrative unit of Malta, located in the eastern part of the island of Gozo. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Monuments_in_Nadur_11.jpg/330px-Monuments_in_Nadur_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nadur"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Celebrity, sex and motherhood misery: the 10 best books by Rachel Cusk … ranked!",
+      "body": "<p>From an abstract portrait of an actor who might be Natalie Portman to a groundbreaking work of autofiction, we rate the best from the coolly controversial author</p><p>In Cusk’s headline-grabbing latest, a writer invents the biography of",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/culture/2026/sep/21/books-story-ranked"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "João Guilherme de Ávila Costa is a Brazilian actor and singer.",
+      "body": "He rose to national fame for playing Joaquim, one of the protagonists in the children's telenovela remake Cúmplices de um Resgate, and later Luca Tuber in As Aventuras de Poliana. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Jo%C3%A3o_Guilherme.jpg/330px-Jo%C3%A3o_Guilherme.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Guilherme_%C3%81vila"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1971 —",
       "hook": "Bahrain, Bhutan and Qatar join the United Nations.",
-      "body": "Bahrain, officially the Kingdom of Bahrain, is an island country in the eastern part of Arabian Peninsula in West Asia. Worth a quiet trip down the rabbit hole.",
+      "body": "Bahrain, officially the Kingdom of Bahrain, is an island country in the eastern part of Arabian Peninsula in West Asia. The world is stranger than it lets on.",
       "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/330px-Flag_of_Bahrain.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Bahrain"
@@ -35,155 +131,69 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Jose Luis Rebordinos talks Spanish boom, lack of women directors and the festival’s role as curator",
-      "body": "”This year we have seen fewer titles directed by women that we liked.”",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/jose-luis-rebordinos-talks-spanish-boom-lack-of-women-directors-and-the-festivals-role-as-curator/5220540.article"
+      "opener": "The Guardian · Film —",
+      "hook": "Heart of the action: why organ couriers are cinema’s new heroes",
+      "body": "<p>Whether its a nod to frontline Covid heroes or a return to biology in a world of digital noise, there’s a rich vein of new films featuring organ deliveries, including Runner and the latest Resident Evil</p><p>Hollywood loves a ticking cl",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/21/human-organ-couriers-action-heroes-resident-evil-runner"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Rotor syndrome is a rare cause of mixed direct (conjugated) and indirect (unconjugated) hyperbilirubinemia, relatively benign, autosomal recessive bilirubin disorder characterized by non-hemolytic jaundice due to the chronic elevation of predominantly conjugated bilirubin.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bilirubin.svg/330px-Bilirubin.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Final Mission of Extortion 17: Special Ops, Helicopter Support, SEAL Team Six, And The Deadliest Day of The U.S.",
+      "body": "War in Afghanistan is a book by Ed Darack. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/33/The_Final_Mission_of_Extortion_17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rotor_syndrome"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Presley Gerber, Cindy Crawford's son, dies aged 27",
-      "body": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Masoud El Amaratly was an Iraqi folk singer, who became famous for his poetry and folk music in the 1920s and 1930s.",
-      "body": "El Amaratly's first record was recorded in 1925 and his recordings became extremely popular across the Levant. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Masoud_El_Amaratly"
+      "url": "https://en.wikipedia.org/wiki/The_Final_Mission_of_Extortion_17"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1937 —",
       "hook": "J.R.R. Tolkien's The Hobbit is published for the first time. (September 22 is celebrated by some fans as Hobbit Day, however.)",
-      "body": "John Ronald Reuel Tolkien was an English writer and academic philologist. Worth a quiet trip down the rabbit hole.",
+      "body": "John Ronald Reuel Tolkien was an English writer and academic philologist. One of those things you can't un-know.",
       "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/330px-J._R._R._Tolkien%2C_ca._1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Rising Up at Night review – community spirit shines bright in Kinshasa’s shadows",
+      "body": "<p>Religion and collective resilience are beacons of hope in an electricity-deprived DRC in this otherworldly documentary debut</p><p>In Nelson Makengo’s feature documentary debut, night stretches on to infinity. The film opens on a black s",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/21/rising-up-at-night-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Seasons review – Portuguese pastoral offers poetic excavation of myth and mapping",
+      "body": "<p>The rugged roads and lush vegetation of southern Portugal are showcased in this weaving-together of disparate threads of history and landscape</p><p>In a sea of doomsday ecological documentaries, Maureen Fazendeiro’s pastoral marvel is a",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 454 —",
+      "hook": "Western Roman Emperor Valentinian III murders his general Flavius Aetius on instigation of eunuch Heraclius and senator Petronius Maximus.",
+      "body": "The Roman emperor was the ruler of the Roman Empire, starting with the granting of the title augustus to Octavian in 27 BC. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/330px-Better_Imperial_Aquila.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Roman_emperor"
+    },
+    {
+      "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "\"Throwback\" is a classic science fiction short story featuring atavism by L.",
-      "body": "It was first published in the magazine Astounding Science Fiction for March 1949. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/17/Throwback-de_Camp_story.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Tan Pin Pin is a Singapore-based film director.",
+      "body": "She is best known for the documentary film Singapore GaGa (2005). The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tan_Pin_Pin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Throwback_(short_story)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "The Boeing B-29 Superfortress makes its maiden flight.",
-      "body": "The Boeing B-29 Superfortress is a retired American four-engined propeller-driven heavy bomber, designed by Boeing and flown primarily by the USAAF and USAF during World War II and the Korean War. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Boeing_TB-29-70-BW_Superfortress_%E2%80%98469972%E2%80%99_%E2%80%9CDoc%E2%80%9D_%28N69972%29_%2850871638276%29.jpg/330px-Boeing_TB-29-70-BW_Superfortress_%E2%80%98469972%E2%80%99_%E2%80%9CDoc%E2%80%9D_%28N69972%29_%2850871638276%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Boeing_B-29_Superfortress"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers",
-      "body": "<p>More than 180 writers sign letter renewing calls for information on 12 authors detained incommunicado since 2001 crackdown on free speech by Isaias Afwerki</p><p>More than 180 writers have signed a letter to Eritrean president Isaias Afw",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/books/2026/sep/18/olga-tokarczuk-j-m-coetzee-lead-calls-for-release-of-disappeared-eritrean-writers"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Wheelmen: Lance Armstrong, the Tour de France, and the Greatest Sports Conspiracy Ever is a non-fiction book about American cycling and Lance Armstrong, as well as his teammates, including Floyd Landis.",
-      "body": "The book was released in the United States and Canada by Gotham Books on October 15, 2013, and in the United Kingdom by Headline Publishing. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Wheelmen_book.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wheelmen"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Legend of the White Dragon review – Power Rangers alumni back for more in low-budget superhero retread",
-      "body": "<p>Simple but emphatic martial arts and a couple of classy cameos are all that give this blandly modern action film a fighting chance</p><p>Despite featuring a clutch of Power Rangers graduates, including <a href=\"https://www.theguardian.co",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/21/legend-of-the-white-dragon-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Oasis will not headline Glastonbury 2027, organiser Emily Eavis confirms",
-      "body": "The rock band will not be stopping at Worthy Farm despite being on tour at that time next summer.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1170 —",
-      "hook": "Anglo-Norman invasion of Ireland: The Kingdom of Dublin falls to Anglo-Norman invaders.",
-      "body": "The Anglo-Norman invasion of Ireland took place during the late 12th century, when Anglo-Normans and Cambro-Normans gradually conquered and acquired large swathes of land in Ireland over which the monarchs of England then claimed sovereignty. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/MarriageAoifeStrongbow.jpg/330px-MarriageAoifeStrongbow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Anglo-Norman_invasion_of_Ireland"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Australasian Performing Right Association Awards of 2018 are a series of related awards which include the APRA Music Awards, Art Music Awards, and Screen Music Awards.",
-      "body": "The APRA Music Awards of 2018 was the 36th annual ceremony by the Australasian Performing Right Association (APRA) and the Australasian Mechanical Copyright Owners Society (AMCOS) to award outstanding achievements in contemporary songwriting, composing and pub",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/APRA_Music_Awards_of_2018"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The American Way of Killing by Malcolm Gladwell review – wide of the mark",
-      "body": "<p>Gladwell’s highly readable investigation into US gun culture fails to engage with the bigger questions</p><p>Once, while having a steak dinner with Republicans in a small town in Indiana, the man sitting opposite me asked: “How do you co",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/21/the-american-way-of-killing-by-malcolm-gladwell-review-wide-of-the-mark"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Best of the Best review – college comedy formula gets a Bollywood makeover",
-      "body": "<p>What’s engaging in this tale of two best girl friends and a dance competition is not the familiar plot but the whip-fast telling and brilliant choreograpy</p><p>There is absolutely nothing unexpected about this Netflix comedy set in the ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/18/best-of-the-best-review-college-comedy-formula-gets-a-bollywood-makeover"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1780 —",
-      "hook": "American Revolutionary War: Benedict Arnold gives the British the plans to West Point.",
-      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+      "url": "https://en.wikipedia.org/wiki/Tan_Pin_Pin"
     }
   ]
 }
