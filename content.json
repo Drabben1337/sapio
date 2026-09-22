@@ -1,16 +1,34 @@
 {
-  "generated": "2026-09-21T22:52:19.898Z",
-  "count": 18,
+  "generated": "2026-09-22T01:17:45.736Z",
+  "count": 12,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Dramatic gannet dive wins Bird Photographer of the Year competition",
+      "body": "Henley Spiers took the top award in the annual contest, with shots of guillemots, penguins and a protective tawny frogmouth also in the running for the prize",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2589500-dramatic-gannet-dive-wins-bird-photographer-of-the-year-competition/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "The VALIS trilogy is a set of science fiction/philosophical novels by author Philip K.",
-      "body": "Dick which include VALIS (1981), The Divine Invasion (1981), and The Transmigration of Timothy Archer (1982). Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "Solehah Yaacob is a Malaysian linguist, academic and author who had served as Professor of Arabic linguistics at the International Islamic University Malaysia (IIUM) until April 2026.",
+      "body": "Recognised for her scholarly work on Arabic grammatical philosophy and the historical development of the language, she has contributed several studies examining the relationship between Arabic, civilisation and Islamic intellectual heritage. One of those thing",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Prof_Dr_Solehah_Yaacob.jpg/330px-Prof_Dr_Solehah_Yaacob.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Valis_(novel_series)"
+      "url": "https://en.wikipedia.org/wiki/Solehah_Yaacob"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "California attorney general outlines terms of Paramount antitrust settlement",
+      "body": "Agreement covers annual production spend and output, with penalties for non-compliance including divestiture of Miramax.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/california-attorney-general-outlines-terms-of-paramount-antitrust-settlement/5220634.article"
     },
     {
       "type": "card",
@@ -24,31 +42,12 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Treasure is a 2024 tragicomedy film directed by Julia von Heinz.",
-      "body": "Based on the 1999 novel Too Many Men by Lily Brett, the film stars Lena Dunham, Stephen Fry and Zbigniew Zamachowski. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cd/Treasure_2024_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Philip Michael Thomas is an American retired actor, musician and composer best known for his role as detective Ricardo Tubbs on the hit 1980s TV series Miami Vice.",
+      "body": "His first notable roles were in Coonskin (1975) and opposite Irene Cara in the 1976 film Sparkle. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Philip_Michael_Thomas.jpg/330px-Philip_Michael_Thomas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Treasure_(2024_German-French_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Sense and Sensibility review – Daisy Edgar-Jones leads sober-minded next-gen do-over of Austen romcom",
-      "body": "<p>With Edgar-Jones and Esmé Creed-Miles as the Dashwood sisters, this fresh take on a beloved classic is not to be confused with Ang Lee’s</p><p>There’s no reason for anyone working on a new adaptation of Jane Austen’s Sense and Sensibilit",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/21/sense-and-sensibility-review-romcom-austen-daisy-edgar-jones"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1977 —",
-      "hook": "Malév Flight 203 crashes near Urziceni, killing 29 people.",
-      "body": "Malév Flight 203 was an international passenger flight from Istanbul, Turkey to Budapest, Hungarian PR with a stop at Bucharest, SR Romania. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/A_MAL%C3%89V_Tu-134_t%C3%ADpus%C3%BA%2C_HA-LBC_lajstromjel%C5%B1_rep%C3%BCl%C5%91g%C3%A9pe._Fortepan_61440.jpg/330px-A_MAL%C3%89V_Tu-134_t%C3%ADpus%C3%BA%2C_HA-LBC_lajstromjel%C5%B1_rep%C3%BCl%C5%91g%C3%A9pe._Fortepan_61440.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mal%C3%A9v_Flight_203"
+      "url": "https://en.wikipedia.org/wiki/Philip_Michael_Thomas"
     },
     {
       "type": "card",
@@ -61,101 +60,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Resident Evil review – Zach Cregger’s rebooted action horror is a wild rollercoaster ride",
-      "body": "<p>The Weapons director delivers a seat-edge thriller with a standout lead performance from Austin Abrams as an everyman navigating chaos</p><p>Typically horror fans react to blatant on-screen stupidity with vocal derision. Don’t go in ther",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/16/resident-evil-reboot-movie-review"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Memoirs of Leticia Valle is a 1979 Spanish coming-of-age drama film directed by Miguel Ángel Rivas based on the novel of the same name by Rosa Chacel.",
-      "body": "Emma Suárez stars as the title character. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/4c/Memoirs_of_Leticia_Valle_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Palais Bourbon is the meeting place of the National Assembly, the lower legislative chamber of the French Parliament.",
+      "body": "It is in the 7th arrondissement of Paris, on the Rive Gauche of the Seine across from the Place de la Concorde. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Fa%C3%A7ade_Palais_Bourbon_3.jpg/330px-Fa%C3%A7ade_Palais_Bourbon_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Memoirs_of_Leticia_Valle"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1969 —",
-      "hook": "Mexicana de Aviación Flight 801, a Boeing 727-100 passenger plane, crashes during a landing attempt in Mexico City, killing 27 of the 118 occupants.",
-      "body": "Mexicana de Aviación Flight 801 was a scheduled international flight from Chicago-O'Hare International Airport in Illinois bound for Mexico City International Airport, Mexico City. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mexicana_Boeing_727-100_XA-SEM_2485953.jpg/330px-Mexicana_Boeing_727-100_XA-SEM_2485953.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mexicana_de_Aviaci%C3%B3n_Flight_801"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Atlas Alone is a 2019 science fiction novel by British writer Emma Newman.",
-      "body": "It was first published in the United States as a paperback original in April 2019 by Ace Books, and in the United Kingdom by Gollancz. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/Atlas_Alone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Atlas_Alone"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2018 —",
-      "hook": "LGBT rights activist Zak Kostopoulos is beaten to death on a busy street in Athens.",
-      "body": "Zacharias \"Zak\" Kostopoulos was a Greek-American activist, defending the rights of LGBT people, HIV-positive people, sex workers, and refugees. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/20170620_Zak_Kostopoulos_Exarchia.jpg/330px-20170620_Zak_Kostopoulos_Exarchia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Zak_Kostopoulos"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1965 —",
-      "hook": "The Gambia, Maldives and Singapore are admitted as members of the United Nations.",
-      "body": "The Gambia, officially the Republic of The Gambia, is a country in West Africa. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/330px-Flag_of_The_Gambia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/The_Gambia"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1862 —",
-      "hook": "Taiping Rebellion: The Ever Victorious Army defeats Taiping forces at the Battle of Cixi.",
-      "body": "The Taiping Rebellion, also known as the Taiping Civil War, Revolution, or Movement, was a civil war in late imperial China between the Qing dynasty and the rebel Taiping Heavenly Kingdom. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Regaining_the_Provincial_City_Anqing2.jpg/330px-Regaining_the_Provincial_City_Anqing2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2012 —",
-      "hook": "Three Egyptian militants open fire on a group of Israeli soldiers in a southern Israel cross-border attack.",
-      "body": "Egyptians are an ethnic group native to the Nile Valley in Egypt. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Map_of_the_Egyptian_Diaspora_in_the_World.svg/330px-Map_of_the_Egyptian_Diaspora_in_the_World.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Egyptians"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Kadrush Radogoshi is an Albanian poet, novelist, play-writer, and literary critic from Kosovo.",
-      "body": "He is a dissident who opposed the revocation of the autonomy of Kosovo from the Milosevic's regime, consequently being arrested and imprisoned. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Kadrushi.jpg/330px-Kadrushi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kadrush_Radogoshi"
+      "url": "https://en.wikipedia.org/wiki/Palais_Bourbon"
     },
     {
       "type": "card",
@@ -168,12 +79,41 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The eSlick is a discontinued e-book reader, an electronic book (e-book) reading device developed by Foxit Software.",
+      "body": "It has a 6-inch E Ink screen, 600x800 pixel resolution with 4-level gray scale and a mass of 180 g. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ESlick"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Sales, few packages, and badge lines – attendees assess inaugural TIFF: The Market",
-      "body": "Market organisers report more than 116,000 attendees, more than 7,000 registered delegates.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/sales-few-packages-and-badge-lines-attendees-assess-inaugural-tiff-the-market/5220568.article"
+      "opener": "The Guardian · Film —",
+      "hook": "Resident Evil review – Zach Cregger’s rebooted action horror is a wild rollercoaster ride",
+      "body": "<p>The Weapons director delivers a seat-edge thriller with a standout lead performance from Austin Abrams as an everyman navigating chaos</p><p>Typically horror fans react to blatant on-screen stupidity with vocal derision. Don’t go in ther",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/16/resident-evil-reboot-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "body": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Men's 65 kg weightlifting event at the 2026 Commonwealth Games took place at the SEC Armadillo, Glasgow on 26 July 2026.",
+      "body": "Malaysia's Aznil Bidin won the gold medal ahead of Raja Muthupandi from India who took silver with Morea Baru of Papua New Guinea claiming the bronze. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Weightlifting_at_the_2026_Commonwealth_Games_%E2%80%93_Men's_65_kg"
     }
   ]
 }

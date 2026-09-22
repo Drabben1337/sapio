@@ -2,6 +2,36 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "Screen Daily —",
+    "hook": "California attorney general outlines terms of Paramount antitrust settlement",
+    "body": "Agreement covers annual production spend and output, with penalties for non-compliance including divestiture of Miramax.",
+    "src": "Screen Daily",
+    "url": "https://www.screendaily.com/news/california-attorney-general-outlines-terms-of-paramount-antitrust-settlement/5220634.article",
+    "_t": 1790039865736
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+    "body": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+    "_t": 1790039865736
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "New Scientist —",
+    "hook": "Dramatic gannet dive wins Bird Photographer of the Year competition",
+    "body": "Henley Spiers took the top award in the annual contest, with shots of guillemots, penguins and a protective tawny frogmouth also in the running for the prize",
+    "src": "New Scientist",
+    "url": "https://www.newscientist.com/article/2589500-dramatic-gannet-dive-wins-bird-photographer-of-the-year-competition/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
+    "_t": 1790039865736
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "The Guardian · Film —",
     "hook": "Resident Evil review – Zach Cregger’s rebooted action horror is a wild rollercoaster ride",
     "body": "<p>The Weapons director delivers a seat-edge thriller with a standout lead performance from Austin Abrams as an everyman navigating chaos</p><p>Typically horror fans react to blatant on-screen stupidity with vocal derision. Don’t go in ther",
@@ -568,35 +598,5 @@
     "src": "ESA",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
     "_t": 1789921956473
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "‘Resident Evil movies? I’ve never seen one’: Weapons director Zach Cregger on resurrecting the beloved zombie franchise",
-    "body": "<p>Raised on punk, alt-comedy and the church, Cregger’s Lynchian approach to horror is anything but typical. After two wildly original hits, his pivot to a 30-year-old video game has caused a storm among protective fans</p><p>When <a href=\"",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/sep/20/zach-cregger-director-interview-resident-movie-evil-weapons-barbarian",
-    "_t": 1789908046769
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Books —",
-    "hook": "I was asked to write a new Miss Marple, so I sent her to the Alps",
-    "body": "<p>Her last case was 50 years ago, written by Agatha Christie just before she died. Could I really follow in the footsteps of the Queen of Crime?</p><p>When I was asked to write the first full-length Miss Marple novel since Sleeping Murder ",
-    "src": "The Guardian · Books",
-    "url": "https://www.theguardian.com/books/2026/sep/20/i-was-asked-to-write-a-new-miss-marple-so-i-sent-her-to-the-alps",
-    "_t": 1789908046769
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Books —",
-    "hook": "Is culture alive?",
-    "body": "<p>From Mozart to Madonna, dim sum to doughnuts, Shakespeare to Sartre – not all forms of life need DNA</p><p>On Mount Athos, in northern Greece, a monk rises before dawn to sing the same office that has been sung on that mountain for more ",
-    "src": "The Guardian · Books",
-    "url": "https://www.theguardian.com/science/2026/sep/20/is-culture-alive",
-    "_t": 1789908046769
   }
 ]
