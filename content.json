@@ -1,7 +1,17 @@
 {
-  "generated": "2026-09-22T23:19:04.258Z",
-  "count": 25,
+  "generated": "2026-09-23T01:56:04.521Z",
+  "count": 23,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1950 —",
+      "hook": "Korean War: The Battle of Hill 282 is the first US friendly-fire incident on British military personnel since World War II.",
+      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Korean_War"
+    },
     {
       "type": "video",
       "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -13,6 +23,54 @@
       "cat": "howitsmade"
     },
     {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in September: new paperbacks from Margaret Atwood, Kiran Desai and Richard Holmes",
+      "body": "<p>Looking for a new reading recommendation? Here are some great new paperbacks, from an epic multigenerational saga by a Booker winner to a biography of an iconic Victorian poet</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-i",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/18/the-best-books-to-read-in-september-new-paperbacks-from-margaret-atwood-kiran-desai-and-richard-holmes"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Yield to the Night is a 1956 British crime drama film directed by J.",
+      "body": "Lee Thompson and starring Diana Dors, Yvonne Mitchell and Michael Craig. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/30/Yield_to_the_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yield_to_the_Night"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The City is a 1994 Indian Malayalam-language action film directed by I.",
+      "body": "Damodaran from a story by Priyadarsan. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_City_(1994_film)"
+    },
+    {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
@@ -20,114 +78,6 @@
       "body": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
-      "body": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Kilwinning is a town in North Ayrshire, Scotland, located on the banks of the River Garnock in Ayrshire, about 21 miles (34 km) southwest of Glasgow.",
-      "body": "Kilwinning's neighbours are the coastal towns of Stevenston to the west and Irvine to the south, while inland lies Dalry to the north. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/NS3043_-_Abbey_Park_-_Kilwinning.jpg/330px-NS3043_-_Abbey_Park_-_Kilwinning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kilwinning"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1862 —",
-      "hook": "A preliminary version of the Emancipation Proclamation is released by Abraham Lincoln.",
-      "body": "The Emancipation Proclamation, officially Proclamation 95, was a presidential proclamation and executive order issued by United States president Abraham Lincoln on January 1, 1863, during the American Civil War. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Emancipation-_the_past_and_the_future_%2820186657008%29.jpg/330px-Emancipation-_the_past_and_the_future_%2820186657008%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Iga is a city located in Mie Prefecture, Japan.",
-      "body": "As of 31 August 2021, the city had an estimated population of 88,895 in 40,620 households and a population density of 160 persons per km². Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Igauenozyo.jpg/330px-Igauenozyo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Iga%2C_Mie"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Silas Weir Mitchell is an American character actor.",
-      "body": "He is known for starring as Charles \"Haywire\" Patoshik in the Fox television series Prison Break (2005–2007), for the recurring role of Donny Jones in My Name Is Earl (2005–2009), and as Monroe in the NBC television series Grimm (2011–2017). The world is stran",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Silas_Weir_Mitchell_at_San_Diego_Comic_Con_2026.jpg/330px-Silas_Weir_Mitchell_at_San_Diego_Comic_Con_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Silas_Weir_Mitchell_(actor)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Jake Bernstein is an American investigative journalist and author.",
-      "body": "He previously worked with the International Consortium of Investigative Journalists. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jake_Bernstein_(journalist)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1948 —",
-      "hook": "Israeli-Palestine conflict: The All-Palestine Government is established by the Arab League.",
-      "body": "Israel and the Palestinians are engaged in an ongoing military and political conflict about land and self-determination within the former territory of Mandatory Palestine. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Occupied_Palestinian_Territories.jpg/330px-Occupied_Palestinian_Territories.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Google_Earth_Timelapse-_Las_Vegas%2C_Nevada.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Google_Earth_Timelapse-_Las_Vegas%2C_Nevada.webm/960px--Google_Earth_Timelapse-_Las_Vegas%2C_Nevada.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Google Earth Timelapse- Las Vegas, Nevada",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Google_Earth_Timelapse-_Las_Vegas,_Nevada.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Choosin’ Texas unseats All I Want for Christmas as longest-running No 1 song on Billboard Hot 100",
-      "body": "<p>Ella Langley’s record-breaking song has spent 23 weeks at the top, surpassing Mariah Carey’s holiday anthem</p><p>Ella Langley’s hit song Choosin’ Texas has made Billboard Hot 100 history, spending 23 weeks on the chart and breaking the ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/sep/22/choosin-texas-ella-langley-billboard-mariah-carey"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
     },
     {
       "type": "video",
@@ -142,51 +92,99 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1726 —",
-      "hook": "Bach leads the first performance of his cantata Wer Dank opfert, der preiset mich, BWV 17, in Leipzig.",
-      "body": "Johann Sebastian Bach was a German composer and musician of the late Baroque period. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/330px-Johann_Sebastian_Bach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1999 —",
+      "hook": "Qantas Flight 1 overruns a runway in Bangkok during a storm, causing minor injuries to some passengers.",
+      "body": "Qantas Flight 1 (QF1/QFA1) was a Qantas passenger flight between Sydney and London with a stop in Bangkok-Don Mueang. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Qantas_Flight_1_wreckage.png/330px-Qantas_Flight_1_wreckage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Celebrity, sex and motherhood misery: the 10 best books by Rachel Cusk … ranked!",
-      "body": "<p>From an abstract portrait of an actor who might be Natalie Portman to a groundbreaking work of autofiction, we rate the best from the coolly controversial author</p><p>In Cusk’s headline-grabbing latest, a writer invents the biography of",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/culture/2026/sep/21/books-story-ranked"
+      "url": "https://en.wikipedia.org/wiki/Qantas_Flight_1"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "A German submarine sinks three British cruisers over a seventy-minute period, killing almost 1,500 sailors.",
-      "body": "The Action of 22 September 1914 was an attack by the German U-boat U-9 that took place during the First World War. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Thrilling_stories_of_the_Great_War_on_land_and_sea%2C_in_the_air%2C_under_the_water_%281915%29_%2814761576186%29-_Aboukir_sinking.jpg/330px-Thrilling_stories_of_the_Great_War_on_land_and_sea%2C_in_the_air%2C_under_the_water_%281915%29_%2814761576186%29-_Aboukir_sinking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1459 —",
+      "hook": "The Battle of Blore Heath, the first major battle of the English Wars of the Roses, is won by the Yorkists.",
+      "body": "The Battle of Blore Heath took place during the English Wars of the Roses on 23 September 1459, at Blore Heath, Staffordshire. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Map_for_Battle_of_Blore_Heath_by_Ramsay.jpg/330px-Map_for_Battle_of_Blore_Heath_by_Ramsay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Action_of_22_September_1914"
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Blore_Heath"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The team currently competes in the FIA World Endurance Championship with a customer Porsche 963 and a factory-supported Ford Mustang GT3.",
-      "body": "Proton Competition is a German auto racing team based in Ummendorf, Baden-Württemberg. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/ProtonCompetitionLogo.png/330px-ProtonCompetitionLogo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Proton_Competition"
+      "opener": "On this day in 2022 —",
+      "hook": "Voting begins in the five-day sham annexation referendums in Russian-occupied Ukraine, leading to Russian annexation of Donetsk, Kherson, Luhansk and Zaporizhzhia oblasts.",
+      "body": "An election is a group decision-making process whereby a portion or all of a population or group votes to choose an individual or multiple individuals to hold public office or other position of responsibility. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/330px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Election"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Saber Rider and the Star Sheriffs is an animated television space Western, similar to the series The Adventures of the Galaxy Rangers and BraveStarr.",
-      "body": "The series premiered in the United States in 1987 and had a run of 52 episodes. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cf/Saber_Rider_and_the_Star_Sheriffs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Corazón salvaje was the second film adaptation of the 1957 Caridad Bravo Adams novel of the same name.",
+      "body": "It is considered the closest to the original story. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Saber_Rider_and_the_Star_Sheriffs"
+      "url": "https://en.wikipedia.org/wiki/Coraz%C3%B3n_salvaje_(1968_film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
+      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Cannon fodder is an informal, derogatory term for combatants who are regarded or treated by government or military command as expendable in the face of enemy fire.",
+      "body": "The term is generally used in situations where combatants are forced to fight against hopeless odds in an effort to achieve a strategic goal; an example is the trench warfare of World War I. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Anne-Louis_Girodet-Trioson_006.jpg/330px-Anne-Louis_Girodet-Trioson_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cannon_fodder"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+      "body": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+      "body": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1957 —",
+      "hook": "Little Rock schools integration crisis: President Dwight D. Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, and federalizes the Arkansas National Guard, ordering both to support the integration of Little Rock Central High School.",
+      "body": "The Little Rock Nine were a group of nine African American students enrolled in Little Rock Central High School in 1957. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Elizabeth_Eckford.jpg/330px-Elizabeth_Eckford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Little_Rock_Nine"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
     },
     {
       "type": "card",
@@ -200,50 +198,32 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1891 —",
-      "hook": "The first hydropower plant of Finland is commissioned along the Tammerkoski rapids in Tampere, Pirkanmaa.",
-      "body": "Hydroelectricity, or hydroelectric power, is electricity generated from hydropower. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/330px-ThreeGorgesDam-China2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1947 —",
+      "hook": "A magnitude 6.9 earthquake strikes South Khorasan in Iran, killing over 500 people.",
+      "body": "The 1947 Dustabad earthquake, also known as the Charmeh earthquake, occurred in South Khorasan province of northeastern Iran on 23 September. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hydroelectricity"
+      "url": "https://en.wikipedia.org/wiki/1947_Dustabad_earthquake"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1892 —",
-      "hook": "A locomotive shunting falls into a hole in the ground, leading to the burial of the locomotive.",
-      "body": "The Lindal railway incident happened on Thursday 22 September 1892 near Lindal-in-Furness, a village lying between the Cumbria towns of Ulverston and Dalton-in-Furness. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Lindal_railway_incident.jpg/330px-Lindal_railway_incident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Lindal_railway_incident"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Previous winners Marlon James and Douglas Stuart shortlisted for Booker prize",
-      "body": "<p>The two authors are in the running for the £50,000 award alongside a Pulitzer winner, a science fiction legend, a comic writer and a debut novelist</p><p>• <a href=\"https://www.theguardian.com/books/2026/sep/22/i-read-163-novels-and-thes",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/22/booker-prize-shortlist-pulitzer-previous-winners"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
-      "body": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss"
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Inheritance is a 1962 Japanese drama film directed by Masaki Kobayashi.",
+      "body": "The plot centres around a struggle between associates of a dying businessman for his fortune which he intends to leave for his three illegitimate children. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/53/The_Inheritance_%281962%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Inheritance_(1962_film)"
     },
     {
       "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
     }
   ]
 }
