@@ -2,6 +2,26 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Will.i.am backs campaign for Sir Tom Jones to return to The Voice",
+    "body": "Sir Tom Jones, 86, has appeared as an on-off coach on the ITV show since 2012.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/ck5ywzl5vd5po?at_medium=RSS&at_campaign=rss",
+    "_t": 1790205308259
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "ESA —",
+    "hook": "Juice to fly past Earth for third gravity assist",
+    "body": "The European Space Agency’s Jupiter Icy Moons Explorer ( Juice ) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
+    "src": "ESA",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
+    "_t": 1790205308259
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "The Guardian · Film —",
     "hook": "Post your questions for Miranda Richardson",
     "body": "<p>She has lit up screens large and small playing Ruth Ellis, Rita Skeeter, Barbara Castle and the hilarious Queenie in Blackadder. Alternatively, you could ask about birds of prey, orangutans or playing the cello</p><p>Judging by the size ",
@@ -578,25 +598,5 @@
     "src": "The Guardian · Books",
     "url": "https://www.theguardian.com/books/2026/sep/22/booker-prize-shortlist-pulitzer-previous-winners",
     "_t": 1790109087579
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Books —",
-    "hook": "Celebrity, sex and motherhood misery: the 10 best books by Rachel Cusk … ranked!",
-    "body": "<p>From an abstract portrait of an actor who might be Natalie Portman to a groundbreaking work of autofiction, we rate the best from the coolly controversial author</p><p>In Cusk’s headline-grabbing latest, a writer invents the biography of",
-    "src": "The Guardian · Books",
-    "url": "https://www.theguardian.com/culture/2026/sep/21/books-story-ranked",
-    "_t": 1790109087580
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Culture —",
-    "hook": "Choosin’ Texas unseats All I Want for Christmas as longest-running No 1 song on Billboard Hot 100",
-    "body": "<p>Ella Langley’s record-breaking song has spent 23 weeks at the top, surpassing Mariah Carey’s holiday anthem</p><p>Ella Langley’s hit song Choosin’ Texas has made Billboard Hot 100 history, spending 23 weeks on the chart and breaking the ",
-    "src": "The Guardian · Culture",
-    "url": "https://www.theguardian.com/music/2026/sep/22/choosin-texas-ella-langley-billboard-mariah-carey",
-    "_t": 1790109087580
   }
 ]
