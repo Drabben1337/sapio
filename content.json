@@ -1,55 +1,84 @@
 {
-  "generated": "2026-09-23T01:56:04.521Z",
-  "count": 23,
+  "generated": "2026-09-23T06:52:31.075Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1950 —",
-      "hook": "Korean War: The Battle of Hill 282 is the first US friendly-fire incident on British military personnel since World War II.",
-      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1983 —",
+      "hook": "Gulf Air Flight 771 is destroyed by a bomb, killing all 112 people on board.",
+      "body": "Gulf Air Flight 771 was an international scheduled passenger flight from Jinnah International Airport, Karachi, Pakistan, to Abu Dhabi International Airport, Abu Dhabi, United Arab Emirates. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Gulf_Air_Boeing_737-2P6Adv_A4O-BK.jpg/330px-Gulf_Air_Boeing_737-2P6Adv_A4O-BK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Korean_War"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in September: new paperbacks from Margaret Atwood, Kiran Desai and Richard Holmes",
-      "body": "<p>Looking for a new reading recommendation? Here are some great new paperbacks, from an epic multigenerational saga by a Booker winner to a biography of an iconic Victorian poet</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-i",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/18/the-best-books-to-read-in-september-new-paperbacks-from-margaret-atwood-kiran-desai-and-richard-holmes"
+      "url": "https://en.wikipedia.org/wiki/Gulf_Air_Flight_771"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Yield to the Night is a 1956 British crime drama film directed by J.",
-      "body": "Lee Thompson and starring Diana Dors, Yvonne Mitchell and Michael Craig. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/30/Yield_to_the_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Chief Inspector Donald Sutherland Swanson was a senior police officer in the Metropolitan Police in London during the notorious Jack the Ripper murders of 1888.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Donaldswanson.jpg/330px-Donaldswanson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Yield_to_the_Night"
+      "url": "https://en.wikipedia.org/wiki/Donald_Swanson"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Is AI really getting dangerously out of control?",
+      "body": "Grim warnings of the existential risk posed by AI are all over the news, but there is very little evidence to back them up",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2590038-is-ai-dangerously-out-of-control-or-about-to-be/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1884 —",
+      "hook": "On the night of 23–24 September, the steamship Arctique runs aground near Cape Virgenes leading to the discovery of nearby placer gold, beginning the Tierra del Fuego gold rush.",
+      "body": "Cape Virgenes is the southeastern promontory of continental Argentina in South America. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Capes_in_the_Americas.png/330px-Capes_in_the_Americas.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cape_Virgenes"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "El Niño heat could kill half a million people by February",
+      "body": "Higher temperatures around the world due to the record-breaking El Niño will lead to an estimated 450,000 extra deaths by February unless swift action is taken, warn researchers",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2590260-el-nino-heat-could-kill-half-a-million-by-february-and-more-after-that/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1973 —",
+      "hook": "Argentine general election: Juan Perón returns to power in Argentina.",
+      "body": "Presidential elections were held in Argentina on 23 September 1973. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/September_1973_Argentine_presidential_election.png/330px-September_1973_Argentine_presidential_election.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/September_1973_Argentine_presidential_election"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2020 —",
+      "hook": "A grand jury in Kentucky declines to indict three police officers for the shooting death of Breonna Taylor in a drug raid gone wrong, leading to nationwide protests in the U.S.",
+      "body": "A grand jury is a jury empowered by law to conduct legal proceedings, investigate potential criminal conduct, and determine whether criminal charges should be brought. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Grand_jury"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1955 —",
+      "hook": "An all-white jury in Mississippi finds Roy Bryant and J. W. Milam not guilty in the torture-murder of 14-year-old African American boy Emmett Till.",
+      "body": "Mississippi is a state in the Southeastern and Deep South regions of the United States. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Mississippi.svg/330px-Flag_of_Mississippi.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mississippi"
     },
     {
       "type": "card",
@@ -62,168 +91,89 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The City is a 1994 Indian Malayalam-language action film directed by I.",
-      "body": "Damodaran from a story by Priyadarsan. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_City_(1994_film)"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Burberry closes London Fashion Week 2026 with signature check print and celeb-filled front row",
-      "body": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1999 —",
-      "hook": "Qantas Flight 1 overruns a runway in Bangkok during a storm, causing minor injuries to some passengers.",
-      "body": "Qantas Flight 1 (QF1/QFA1) was a Qantas passenger flight between Sydney and London with a stop in Bangkok-Don Mueang. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Qantas_Flight_1_wreckage.png/330px-Qantas_Flight_1_wreckage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Qantas_Flight_1"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1459 —",
-      "hook": "The Battle of Blore Heath, the first major battle of the English Wars of the Roses, is won by the Yorkists.",
-      "body": "The Battle of Blore Heath took place during the English Wars of the Roses on 23 September 1459, at Blore Heath, Staffordshire. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Map_for_Battle_of_Blore_Heath_by_Ramsay.jpg/330px-Map_for_Battle_of_Blore_Heath_by_Ramsay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Blore_Heath"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2022 —",
-      "hook": "Voting begins in the five-day sham annexation referendums in Russian-occupied Ukraine, leading to Russian annexation of Donetsk, Kherson, Luhansk and Zaporizhzhia oblasts.",
-      "body": "An election is a group decision-making process whereby a portion or all of a population or group votes to choose an individual or multiple individuals to hold public office or other position of responsibility. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/330px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Election"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Corazón salvaje was the second film adaptation of the 1957 Caridad Bravo Adams novel of the same name.",
-      "body": "It is considered the closest to the original story. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Coraz%C3%B3n_salvaje_(1968_film)"
+      "opener": "Screen Daily —",
+      "hook": "Five talking points from 2026 TIFF",
+      "body": "The 51st edition of Toronto International Film Festival ran September 10-20.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/features/five-talking-points-from-2026-tiff/5220686.article"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
+      "hook": "Britain’s Slave Traders by William A Pettigrew review – the inconvenient truth",
+      "body": "<p>This revelatory history shows just how deeply embedded slavery is in the foundations of modern Britain</p><p>One tedious aspect of Britain’s post-imperial melancholia is the number of amateur historians who would rather we stopped going ",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Cannon fodder is an informal, derogatory term for combatants who are regarded or treated by government or military command as expendable in the face of enemy fire.",
-      "body": "The term is generally used in situations where combatants are forced to fight against hopeless odds in an effort to achieve a strategic goal; an example is the trench warfare of World War I. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Anne-Louis_Girodet-Trioson_006.jpg/330px-Anne-Louis_Girodet-Trioson_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cannon_fodder"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
-      "body": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
-      "body": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1957 —",
-      "hook": "Little Rock schools integration crisis: President Dwight D. Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, and federalizes the Arkansas National Guard, ordering both to support the integration of Little Rock Central High School.",
-      "body": "The Little Rock Nine were a group of nine African American students enrolled in Little Rock Central High School in 1957. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Elizabeth_Eckford.jpg/330px-Elizabeth_Eckford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Little_Rock_Nine"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Dolly Parton free book scheme to expand in London",
-      "body": "The late singer's Imagination Library posts children a free book every month until they turn five.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1947 —",
-      "hook": "A magnitude 6.9 earthquake strikes South Khorasan in Iran, killing over 500 people.",
-      "body": "The 1947 Dustabad earthquake, also known as the Charmeh earthquake, occurred in South Khorasan province of northeastern Iran on 23 September. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1947_Dustabad_earthquake"
+      "url": "https://www.theguardian.com/books/2026/sep/23/britains-slave-traders-by-william-a-pettigrew-review-the-inconvenient-truth"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "The Inheritance is a 1962 Japanese drama film directed by Masaki Kobayashi.",
-      "body": "The plot centres around a struggle between associates of a dying businessman for his fortune which he intends to leave for his three illegitimate children. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/53/The_Inheritance_%281962%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Lepraria neozelandica is a species of leprose lichen-forming fungus in the family Stereocaulaceae.",
+      "body": "It was formally described as a new species in 2021 by Alejandrina Barcenas-Peña, Rudy Grewe and H. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Inheritance_(1962_film)"
+      "url": "https://en.wikipedia.org/wiki/Lepraria_neozelandica"
     },
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Need for Roots: Prelude to a Declaration of Duties Towards Mankind is a book by Simone Weil.",
+      "body": "After Weil's death, her parents asked her close friend Boris Souvarine to publish her work under the title \"Prelude to a Declaration of Obligations towards the Human Being.\" In 1949, it appeared in publisher Gallimard’s Espoir collection, edited by Albert Camu",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/L%27enracinement%2C_Simone_Weil%2C_Gallimard.jpg/330px-L%27enracinement%2C_Simone_Weil%2C_Gallimard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Need_for_Roots"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1561 —",
+      "hook": "King Philip II of Spain issues cedula, ordering a halt to colonizing efforts in Florida.",
+      "body": "Philip II, sometimes known in Spain as Philip the Prudent, was King of Spain from 1556, King of Portugal from 1580, and King of Naples and Sicily from 1554 until his death in 1598. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/330px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Philip_II_of_Spain"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Brahmavaivarta Purana is a voluminous Sanskrit text and one of the major Puranas (Maha-purana) of Hinduism.",
+      "body": "It is an important Vaishnava text. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Brahmavaivarta_Purana.jpg/330px-Brahmavaivarta_Purana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brahma_Vaivarta_Purana"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Minuscule 629, α 460, is a Latin–Greek diglot minuscule manuscript of the New Testament, on parchment.",
+      "body": "It is known as Codex Ottobonianus. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Minuscule_629"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Remake review – Ross McElwee’s magnificent and moving tribute to a tragic loss and the art it inspired",
+      "body": "<p>Sherman’s March director McElwee revisits footage of his late son for this magnificently affecting film and meditation on making art</p><p>This new film from revered documentary-maker Ross McElwee is an extraordinary work, arguably his m",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/23/remake-review-ross-mcelwees-magnificent-and-moving-tribute-to-a-tragic-loss-and-the-art-it-inspired"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "'Landing role on Thomas & Friends was crazy'",
+      "body": "Ellie-Mae Siame, 14, says she was \"in shock\" but excited at being a part of the beloved series.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e32p07gnyo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
