@@ -1,15 +1,76 @@
 {
-  "generated": "2026-09-24T01:45:17.662Z",
-  "count": 13,
+  "generated": "2026-09-24T06:49:53.856Z",
+  "count": 24,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Juice to fly past Earth for third gravity assist",
-      "body": "The European Space Agency’s Jupiter Icy Moons Explorer ( Juice ) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Marian exiles were English Protestants who fled to continental Europe during the 1553–1558 reign of the Catholic monarchs Queen Mary I and King Philip.",
+      "body": "They settled chiefly in Protestant countries such as the Netherlands, Switzerland and Germany, and also in France, Italy and Poland. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Catherine_Willoughby_exiled.jpg/330px-Catherine_Willoughby_exiled.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marian_exiles"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Rutilius Taurus Aemilianus Palladius, also known as Palladius Rutilius Taurus Aemilianus or most often just as Palladius, was an ancient writer who wrote in Latin, and is dated variously to the later 4th century or first half of the 5th century AD.",
+      "body": "He is principally known for his book on agriculture, Opus agriculturae, sometimes known as De re rustica. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rutilius_Taurus_Aemilianus_Palladius"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The dust jacket of a book is the detachable outer cover, usually made of paper and printed with text and illustrations.",
+      "body": "This outer cover has folded flaps that hold it to the front and back book covers; these flaps may also double as bookmarks. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Dust_jacket.jpg/330px-Dust_jacket.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dust_jacket"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "It is located approximately seven miles northeast of Poplar Bluff on the edge of the Mark Twain National Forest at an elevation of 335 feet (102 m).",
+      "body": "Rombauer is an unincorporated community in eastern Butler County, Missouri, United States. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rombauer%2C_Missouri"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1830 —",
+      "hook": "A revolutionary committee of notables forms the Provisional Government of Belgium.",
+      "body": "The Provisional Government was the first iteration of the Belgian state, formed in the midst of the Belgian Revolution. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Belgium_%281830%29.svg/330px-Flag_of_Belgium_%281830%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Provisional_Government_of_Belgium"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Ext2Fsd is a free Installable File System driver written in C for the Microsoft Windows operating system family.",
+      "body": "It facilitates read and write access to the ext2, ext3 and ext4 file systems. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ext2Fsd"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1929 —",
+      "hook": "Jimmy Doolittle performs the first flight without a window, proving that full instrument flying from take off to landing is possible.",
+      "body": "James Harold \"Jimmy\" Doolittle was an American military general and aviation pioneer who received the Medal of Honor for his raid on Japan during World War II, known as the Doolittle Raid in his honor. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Lt._General_James_Doolittle%2C_head_and_shoulders.jpg/330px-Lt._General_James_Doolittle%2C_head_and_shoulders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Doolittle"
     },
     {
       "type": "card",
@@ -22,51 +83,139 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Count Lev Nikolayevich Tolstoy, usually referred to in English as Leo Tolstoy, was a Russian writer.",
-      "body": "He is regarded as one of the greatest and most influential authors of all time. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg/330px-Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Leo_Tolstoy"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Autumn by Kate Mosse review – tender reflections on time and place",
-      "body": "<p>The author of Labyrinth on the turning of the seasons and the lore and landscape of her beloved Sussex</p><p>Kate Mosse’s new book is a love-song to West Sussex, part of a series designed to bring out its authors’ personal connections to",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/22/autumn-by-kate-mosse-review-tender-reflections-on-time-and-place"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "A Native of Beijing in New York, also known as Beijinger in New York, is a novel by Glen Cao (曹桂林), based on his own immigrant story.",
-      "body": "It was translated into English by Ted Wang (卡本特王). Bring it up somewhere. Watch the reaction.",
+      "cat": "history",
+      "opener": "On this day in 2013 —",
+      "hook": "A 7.7-magnitude earthquake strikes southern Pakistan, killing at least 327 people.",
+      "body": "The moment magnitude scale is a measure of an earthquake's magnitude based on its seismic moment. The world is stranger than it lets on.",
       "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Moment_magnitude_scale"
+    },
+    {
+      "type": "card",
+      "cat": "science",
+      "opener": "File under 'wait, really?' —",
+      "hook": "This condition has different purposes in culture varying from health to implications for plumbing.",
+      "body": "Sulfur water is a condition where water is exposed to hydrogen sulfide gas, giving it a distinct \"rotten egg\" smell. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Sulfur-1703445_960_720.jpg/330px-Sulfur-1703445_960_720.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Beijinger_in_New_York"
+      "url": "https://en.wikipedia.org/wiki/Sulfur_water"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Built in 1770, it is one of eight buildings that make up the wooden churches of Maramureș UNESCO World Heritage Site, and is also listed as a historic monument by the country's Ministry of Culture and Religious Affairs.",
-      "body": "Saint Parascheva Church is a Romanian Orthodox church in Desești Commune, Maramureș County, Romania. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Dese%C8%99ti_-_Saint_Parascheva_Church_UNESCO_WHS_%282023%29_-_img_19.jpg/330px-Dese%C8%99ti_-_Saint_Parascheva_Church_UNESCO_WHS_%282023%29_-_img_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "You probably never noticed this —",
+      "hook": "Tongatapu was the first island to be settled in Polynesia, when people from the Lapita culture settled there around 3000 years ago.",
+      "body": "The history of Tonga is recorded since the ninth century BC. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Tonga_group.jpg/330px-Tonga_group.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Saint_Parascheva_Church%2C_Dese%C8%99ti"
+      "url": "https://en.wikipedia.org/wiki/History_of_Tonga"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1875 —",
+      "hook": "The 1864 play Heath Cobblers by Aleksis Kivi premieres in Oulu, Finland.",
+      "body": "The Cobblers on the Heath is a play by Aleksis Kivi, considered one of the greatest Finnish writers. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Heath_Cobblers_%281876%29_by_Albert_Edelfelt.jpg/330px-Heath_Cobblers_%281876%29_by_Albert_Edelfelt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Heath_Cobblers"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Swan Song by Charles Spencer review – a furious exercise in score-settling by Diana’s brother",
-      "body": "<p>Amid genuinely touching passages about his sister, the earl can’t help but put himself and his grievances centre stage</p><p>Charles Spencer’s Swan Song, a memoir of his relationship with his sister, the late Diana, Princess of Wales, is",
+      "hook": "Previous winners Marlon James and Douglas Stuart shortlisted for Booker prize",
+      "body": "<p>The two authors are in the running for the £50,000 award alongside a Pulitzer winner, a science fiction legend, a comic writer and a debut novelist</p><p>• <a href=\"https://www.theguardian.com/books/2026/sep/22/i-read-163-novels-and-thes",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl"
+      "url": "https://www.theguardian.com/books/2026/sep/22/booker-prize-shortlist-pulitzer-previous-winners"
+    },
+    {
+      "type": "card",
+      "cat": "science",
+      "opener": "Here's one for the group chat —",
+      "hook": "Shekar Dattatri is a winner of three National Film Awards: the National Film Award for Best Agricultural Film ; the National Film Award for Best Cinematography – Non-Feature ; and the National Film Award for Best Scientific Film.",
+      "body": "Shekar Dattatri is an Indian herpetologist and wildlife filmmaker from Chennai, Tamil Nadu. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shekar_Dattatri"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
+      "body": "<p>This over-controlled adventure never takes a breath or a moment to let its characters come to life</p><p>Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me ano",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Kretschmer is a German surname.",
+      "body": "It is an occupational surname literally meaning \"innkeeper\" associated with the word Kretscham, meaning village inn. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kretschmer"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1674 —",
+      "hook": "Second Tantrik Coronation of Shivaji.",
+      "body": "Shivaji I was an Indian ruler and a member of the Bhonsle dynasty. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Shivaji_British_Museum.jpg/330px-Shivaji_British_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Shivaji"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Juice to fly past Earth for third gravity assist",
+      "body": "The European Space Agency’s Jupiter Icy Moons Explorer ( Juice ) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Exit Party by Emily St John Mandel review – alternate visions of post-crisis America",
+      "body": "<p>Is the price of stability necessarily the loss of freedom? Two possible future worlds are linked in the new novel from the author of Station Eleven</p><p>In her second novel, 2009’s The Singer’s Gun, Emily St John Mandel tells the story ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/24/exit-party-by-emily-st-john-mandel-review-alternate-visions-of-post-crisis-america"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "He won the NCAA light heavyweight championship and the Big 10 championship as an amateur wrestler.",
+      "body": "Ralph \"Ruffy\" Silverstein was an American amateur and professional wrestler. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ruffy_Silverstein_1950.jpeg/330px-Ruffy_Silverstein_1950.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ruffy_Silverstein_(American_wrestler)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1960 —",
+      "hook": "USS Enterprise, the world's first nuclear-powered aircraft carrier, is launched.",
+      "body": "USS Enterprise (CVN-65), formerly CVA(N)-65, is a decommissioned United States Navy aircraft carrier. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg/330px-USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/USS_Enterprise_(CVN-65)"
+    },
+    {
+      "type": "card",
+      "cat": "science",
+      "opener": "Okay, this one's fun —",
+      "hook": "Its natural habitat is subtropical or tropical moist montane forests.",
+      "body": "Salvia ecuadorensis is a species of flowering plant in the family Lamiaceae that is native to Ecuador. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Salvia_ecuadorensis.jpg/330px-Salvia_ecuadorensis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Salvia_ecuadorensis"
     },
     {
       "type": "card",
@@ -85,45 +234,6 @@
       "body": "Sir Tom Jones, 86, has appeared as an on-off coach on the ITV show since 2012.",
       "src": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/ck5ywzl5vd5po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Castle Gay is a 1930 novel by the Scottish author John Buchan.",
-      "body": "It is the second of his three Dickson McCunn novels and is set in the Scottish district of Carrick, Galloway some six years after the events described in Huntingtower. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/CastleGay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Castle_Gay"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Nakili Manishi is a 1980 Telugu-language film.",
-      "body": "This movie starred Chiranjeevi, in a dual role, Sangeeta, Suneeta and Satyanarayana. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/Nakili_Manishi_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nakili_Manishi"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Witness is a 1988 Indian Malayalam language crime thriller film, directed by Viji Thampi and co-written by Jagathy Sreekumar, starring Jayaram, Jagathy Sreekumar, Parvathy, Madhu, Sukumaran and Thilakan in the lead roles.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/28/Witness_1988.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Witness_(1988_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Best of the Best review – college comedy formula gets a Bollywood makeover",
-      "body": "<p>What’s engaging in this tale of two best girl friends and a dance competition is not the familiar plot but the whip-fast telling and brilliant choreograpy</p><p>There is absolutely nothing unexpected about this Netflix comedy set in the ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/18/best-of-the-best-review-college-comedy-formula-gets-a-bollywood-makeover"
     }
   ]
 }
