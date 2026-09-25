@@ -1,26 +1,83 @@
 {
-  "generated": "2026-09-24T23:35:55.107Z",
-  "count": 20,
+  "generated": "2026-09-25T02:02:08.052Z",
+  "count": 16,
   "items": [
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 787 —",
-      "hook": "The Second Council of Nicaea begins at the Church of Holy Wisdom in the city of Nicaea in Bithynia.",
-      "body": "Year 787 (DCCLXXXVII) was a common year starting on Monday of the Julian calendar. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Seventh_ecumenical_council_%28Icon%29.jpg/330px-Seventh_ecumenical_council_%28Icon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/AD_787"
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Slayton House and the Park and Shop, built in 1930 and one of the earliest strip malls.",
+      "body": "Cleveland Park is a residential neighborhood in the Northwest quadrant of Washington, D.C. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/The_Broadmoor.jpg/330px-The_Broadmoor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cleveland_Park"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2005 —",
-      "hook": "Hurricane Rita makes landfall in the United States, devastating portions of southwestern Louisiana and extreme southeastern Texas.",
-      "body": "Hurricane Rita was the most intense tropical cyclone on record in the Gulf of Mexico, now tied with Hurricane Milton of 2024, as well as being one of the most intense Atlantic hurricanes on record overall. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Rita_2005-09-21_1915Z.jpg/330px-Rita_2005-09-21_1915Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hurricane_Rita"
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "La mauvaise tête, written and drawn by Franquin, is the eighth album in the Spirou et Fantasio series.",
+      "body": "After serial publication in Spirou magazine the complete story was published, along with the Marsupilami short story Touchez pas aux rouges-gorges, in a hardcover album in 1957. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/Spirou8mauvaise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/La_mauvaise_t%C3%AAte"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Thaddeus of Warsaw is an 1803 novel written by Jane Porter and originally published in four volumes.",
+      "body": "The novel concerns Thaddeus Sobieski, a gallant young soldier who serves in the Kościuszko Uprising against invading Russian forces. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Thaddeus_of_Warsaw_title_page_%281803%29.jpg/330px-Thaddeus_of_Warsaw_title_page_%281803%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thaddeus_of_Warsaw"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "'Cheeky' fees prompts choirs to pull out of Andrea Bocelli gig",
+      "body": "Choirs say they're withdrawing from the Principality Stadium event because of the £42 per member charge.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cwr50jjmllv5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Hundreds attend Jacob Elordi lookalike competition",
+      "body": "The contest, organised by a group from the University of Bristol, included an Australian accent round.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqrk356kjx8no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Tenshin Ranman: Lucky or Unlucky!?",
+      "body": "is a Japanese adult visual novel developed by Yuzusoft, and released for the PC on May 29, 2009. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ab/Tenshin_Ranman_Lucky_or_Unlucky_Visual_Novel_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tenshin_Ranman%3A_Lucky_or_Unlucky!%3F"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Atomik Aztex is a 2005 speculative fiction alternate history novel by Japanese-American Sesshu Foster.",
+      "body": "The novel combines elements of speculative fiction, alternate history, postcolonial literature, and metafiction. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Atomik_Aztex_book_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atomik_Aztex"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Catherine Zeta-Jones bases new role on funny Welsh people she knows",
+      "body": "Zeta-Jones plays Jackie Price, a former cocaine dealer who is targeted by assassins, in Kill Jackie.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e0lr39dv7o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -34,41 +91,12 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1993 —",
-      "hook": "The Cambodian monarchy is restored, with Norodom Sihanouk as king.",
-      "body": "The monarchy of Cambodia is the constitutional monarchy of the Kingdom of Cambodia. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Royal_Standard_of_the_King_of_Cambodia.svg/330px-Royal_Standard_of_the_King_of_Cambodia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Cambodia"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Behind a Mask, or A Woman's Power is a novel written by American author Louisa May Alcott.",
-      "body": "The novel was originally published in 1866 under the pseudonym of A. Bring it up somewhere. Watch the reaction.",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The School opened in 1987 and based in Palmdale, California before moving to a property in the Gila Wilderness, New Mexico in the early 1990s.",
+      "body": "Mace-Kingsley Ranch School was a ranch school for children aged 8 to 17 affiliated with the Church of Scientology. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Behind_a_Mask"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "'Cheeky' fees prompts choirs to pull out of Andrea Bocelli gig",
-      "body": "Choirs say they're withdrawing from the Principality Stadium event because of the £42 per member charge.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cwr50jjmllv5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Ye Niuping is a Chinese politician who has been serving as Deputy Secretary of the Communist Party and Mayor of Xi'an since 2023.",
-      "body": "He previously served as Vice Governor of Shaanxi Province and Secretary-General of the Guangdong Provincial People's Government, as well as various positions in Guangdong Province. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%E5%8F%B6%E7%89%9B%E5%B9%B32023.jpg/330px-%E5%8F%B6%E7%89%9B%E5%B9%B32023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ye_Niuping"
+      "url": "https://en.wikipedia.org/wiki/Mace-Kingsley_Ranch_School"
     },
     {
       "type": "card",
@@ -81,119 +109,51 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1830 —",
-      "hook": "A revolutionary committee of notables forms the Provisional Government of Belgium.",
-      "body": "The Provisional Government was the first iteration of the Belgian state, formed in the midst of the Belgian Revolution. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Belgium_%281830%29.svg/330px-Flag_of_Belgium_%281830%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Provisional_Government_of_Belgium"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘Cracking auction, Gromit!’ Original Aardman puppets go under the hammer",
-      "body": "<p>Wallace and Gromit stop-motion models and other beloved creations raise money to train new generations of animators</p><p>Wallace’s reaction as the auction got into full swing might have been a trademark “good grief!” – and the enthusias",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/24/wallace-gromit-auction-aardman-stop-motion-puppets-animators"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2015 —",
-      "hook": "At least 1,100 people are killed and another 934 wounded after a stampede during the Hajj in Saudi Arabia.",
-      "body": "On 24 September 2015, a fatal crowd crush resulted in the death of more than 2,000 individuals, many of whom were suffocated or crushed, during the annual Hajj pilgrimage in Mina, Mecca, Saudi Arabia, making it the deadliest Hajj disaster in history. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_way_to_Jamarat_Bridge_3.JPG/330px-The_way_to_Jamarat_Bridge_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2015_Mina_crowd_crush"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Catherine Zeta-Jones bases new role on funny Welsh people she knows",
-      "body": "Zeta-Jones plays Jackie Price, a former cocaine dealer who is targeted by assassins, in Kill Jackie.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cq2e0lr39dv7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Orphan Queen is an epic fantasy romance novel by Jodi Meadows.",
-      "body": "The Huffington Post ranked it as one of the top YA books of 2015. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/The_Orphan_Queen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Orphan_Queen"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Yunhai Yugong Yuan (雲海玉弓緣), literally Romance of the Cloud Sea and Jade Bow, is a wuxia novel by Liang Yusheng.",
-      "body": "It was first published as a serial in the Hong Kong newspaper New Evening Post from 12 October 1961 to 9 August 1963. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Yunhai_Yugong_Yuan"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Hundreds attend Jacob Elordi lookalike competition",
-      "body": "The contest, organised by a group from the University of Bristol, included an Australian accent round.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqrk356kjx8no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "It was released on July 14, 2016, through Sony Music Malaysia (streaming) and July 15, 2016, through Shila Amzah Entertainment Berhad.",
-      "body": "\"Selamanya Cinta\" is a song recorded by Malaysian singer-songwriter Shila Amzah and Malaysian singer Alif Satar, taken from Shila's sixth and debut Chinese-language studio album, My Journey (2016). The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/SAASSelamanyaCinta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Selamanya_Cinta"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Tantu is a 1993 Kannada novel by novelist S.L.",
-      "body": "Tantu means relations or links between human emotions. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/62/SL-Bhyrappa-Tantu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tantu"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Garden of the Finzi-Continis is an Italian historical novel by Giorgio Bassani, published in 1962.",
-      "body": "It chronicles the relationships between the narrator and the children of the Finzi-Contini family from the rise of Benito Mussolini until the start of World War II. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cc/GiorgioBassani_TheGardenOfTheFrinzi-Continis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Garden_of_the_Finzi-Continis"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1906 —",
-      "hook": "U.S. President Theodore Roosevelt proclaims Devils Tower in Wyoming as the nation's first National Monument.",
-      "body": "Devils Tower is a laccolithic butte, composed of igneous rock in the Bear Lodge Ranger District of the Black Hills, near Hulett and Sundance in Crook County, northeastern Wyoming, above the Belle Fourche River. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Columnar-jointed_porphyritic_phonolite_%28Eocene%2C_49_Ma%3B_Devils_Tower%2C_Wyoming%2C_USA%29_48.jpg/330px-Columnar-jointed_porphyritic_phonolite_%28Eocene%2C_49_Ma%3B_Devils_Tower%2C_Wyoming%2C_USA%29_48.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Devils_Tower"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
       "hook": "Lesbian artists celebrated in three new California exhibitions: ‘long overdue’",
       "body": "<p>Monica Majoli, Millie Wilson and Susan Silton gain visibility in LA after decades of queer women’s artistic erasure</p><p>In the late 70s, when the LA-based artist Monica Majoli was 12, she began spending her afternoons at Sisterhood Boo",
       "src": "The Guardian · Culture",
       "url": "https://www.theguardian.com/artanddesign/2026/sep/23/monica-majoli-countervision-exhibit-california"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "US lawmakers introduce federal incentive bill",
+      "body": "20% transferable tax credit for above-the-line, below-the-line workers; 5% uplift for independent shoots.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/us-lawmakers-introduce-federal-incentive-bill/5220763.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The station premises are managed by Tobu Railway.",
+      "body": "Ogawamachi Station is a joint-use railway station located in the town of Ogawa, Saitama, Japan, operated jointly by the East Japan Railway Company and the private Tōbu Railway Company. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Ogawamachi_Station_-_Saitama_-_Sep_6_2020_various_12_21_28_439000.jpeg/330px-Ogawamachi_Station_-_Saitama_-_Sep_6_2020_various_12_21_28_439000.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ogawamachi_Station_(Saitama)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Death of an Author is a 1935 detective novel by E.C.R.",
+      "body": "Lorac, the pen name of the British writer Edith Caroline Rivett. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/Death_of_an_Author.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Death_of_an_Author_(Lorac_novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "In 2018, Aslam made his digital debut with the web series Smoke.",
+      "body": "Naved Aslam is an Indian actor and screenwriter who predominantly works in Hindi television and films. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Naved_Aslam.jpg/330px-Naved_Aslam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Naved_Aslam"
     }
   ]
 }
