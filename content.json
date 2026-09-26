@@ -1,36 +1,52 @@
 {
-  "generated": "2026-09-26T18:06:26.059Z",
-  "count": 14,
+  "generated": "2026-09-26T21:38:41.739Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "It occupies almost 114 hectares and is the largest landfill in Europe.",
-      "body": "Timokhovo solid waste landfill is a solid municipal waste landfill in the Bogorodsky District of the Moscow Oblast, near the village of Timokhovo. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Timohovo_Waste_Recycling_Complex.jpg/330px-Timohovo_Waste_Recycling_Complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Timokhovo_Landfill"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Mike Leigh’s ‘Tender Loving Care’ wins Golden Shell at San Sebastian",
+      "body": "Veteran UK director’s film wins trio of prizes at Spanish festival: best film, screenplay and best leading performance for Kate O’Flynn",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/mike-leighs-tender-loving-care-wins-golden-shell-at-san-sebastian/5220797.article"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "In the Whirlpool is a novel by Alexey Pisemsky written in 1870 and first published in Beseda magazine's Nos.",
-      "body": "While the novel was popular among the readers, initially dismissed by critics of the democratic camp as just another \"anti-nihilist novel\" aimed at discrediting the revolutionary movement, later it came to be recognized as one of Pisemsky's most sophisticated ",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Der Atem des Himmels is an Austrian feature film.",
+      "body": "The Austrian musician and author Reinhold Bilgeri produced and directed the film, which is based on his 2005 historic novel of the same name. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/In_the_Whirlpool"
+      "url": "https://en.wikipedia.org/wiki/Der_Atem_des_Himmels"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Nørholm, also called Nørholmen, is a manor house and agricultural property on 185 hectares in Grimstad Municipality in Agder county, Norway.",
-      "body": "The estate is known mostly because of one of its previous owners was Nobel Prize-winning author Knut Hamsun. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Noerholm1.JPG/330px-Noerholm1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/N%C3%B8rholm_(Norway)"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘We left Ireland because there wasn’t work – and we wanted to get the hell away’: Trespasses author Louise Kennedy",
+      "body": "<p>Her Troubles-set debut became a hit TV series starring Gillian Anderson. Now the novelist has returned to her teen years for a follow-up. She talks about her journey from chef to author, and how her cancer diagnosis inspired her to write",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/26/we-left-ireland-because-there-wasnt-work-and-we-wanted-to-get-the-hell-away-trespasses-author-louise-kennedy"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
+      "body": "<p><strong>Venice film festival: </strong>Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality</p><p>Lance Oppenheim is the acclaimed documentary-maker who ha",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘A couple of times people walked out’: how an Anne Frank musical became the hottest theater ticket of the year",
+      "body": "<p>The creators and stars of Slam Frank on their off-Broadway production - which reimagines the Holocaust victim as a pansexual rapper</p><p>It’s difficult to not invoke the term “woke” when discussing <a href=\"https://www.slamfrankmusical.",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/stage/2026/sep/25/slam-frank-musical-off-broadway"
     },
     {
       "type": "card",
@@ -45,86 +61,50 @@
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Murphy's War is an Eastmancolor 1971 Panavision war film starring Peter O'Toole and Siân Phillips.",
-      "body": "It was directed by Peter Yates, based on the 1969 novel by Max Catto. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/Murphy%27s_War_Poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "A Stone For Danny Fisher is a serious early novel by Harold Robbins that looks at the effect of the Great Depression on a lower-middle class Jewish family.",
+      "body": "Written in 1952, it is set in the period up to 1944. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a5/StoneForDannyFisher.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Murphy's_War"
+      "url": "https://en.wikipedia.org/wiki/A_Stone_for_Danny_Fisher"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "body": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
+      "hook": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
+      "body": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
-      "cat": "history",
+      "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "A bullwhip is a single-tailed whip, usually made of braided leather or nylon, designed as a tool for working with livestock or for competition cracking.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Bullwhip.jpg/330px-Bullwhip.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Munthirikkaadu is a 2023 Indian Tamil-language historical crime thriller film written and directed by Kalanjiyam, and produced by him under the banner of Aathi Thiraikalam.",
+      "body": "The film stars Seeman, Pugazh Mahendran, Subapriya and Jaya Rao. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/Munthirikkaadu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bullwhip"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Global release announced for acclaimed Gaza documentary NAZA",
-      "body": "<p>Theatrical rollout across 56 territories planned for documentary about Israel’s mass killing of civilians in Gaza before film will stream on Guardian website</p><p>NAZA, the award-winning documentary from Israeli film-makers Yuval Abraha",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/24/global-release-announced-for-acclaimed-gaza-documentary-naza"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Virtual green spaces and classical music reduce blood pressure in hospital",
-      "body": "Watching a river flow via a virtual-reality headset while listening to classical music seems to quickly bring people's blood pressure down from a dangerously high level in hospital",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2590932-virtual-green-spaces-and-classical-music-reduce-blood-pressure-in-hospital/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘We left Ireland because there wasn’t work – and we wanted to get the hell away’: Trespasses author Louise Kennedy",
-      "body": "<p>Her Troubles-set debut became a hit TV series starring Gillian Anderson. Now the novelist has returned to her teen years for a follow-up. She talks about her journey from chef to author, and how her cancer diagnosis inspired her to write",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/26/we-left-ireland-because-there-wasnt-work-and-we-wanted-to-get-the-hell-away-trespasses-author-louise-kennedy"
+      "url": "https://en.wikipedia.org/wiki/Munthirikkaadu"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Ralph Anthony Charles de Boissière was a Trinidad-born social realist novelist, who in 1948 settled in Melbourne, Australia.",
-      "body": "Described as \"an outspoken opponent of racism, injustice, greed and corruption, a passionate humanist with a vision of a just society\", de Boissière was the author of four novels although he was most acclaimed for the first two: Crown Jewel and Rum and Coca-Co",
-      "img": null,
+      "hook": "Montana 1948 is a 1993 novella by Larry Watson.",
+      "body": "The novella focuses on the life of young Montanan David Hayden, his family and the fictional town of Bentrock, Montana, and focuses on the struggles of a family torn between loyalty and justice. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Montana_1948.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ralph_de_Boissi%C3%A8re"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘A couple of times people walked out’: how an Anne Frank musical became the hottest theater ticket of the year",
-      "body": "<p>The creators and stars of Slam Frank on their off-Broadway production - which reimagines the Holocaust victim as a pansexual rapper</p><p>It’s difficult to not invoke the term “woke” when discussing <a href=\"https://www.slamfrankmusical.",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/stage/2026/sep/25/slam-frank-musical-off-broadway"
+      "url": "https://en.wikipedia.org/wiki/Montana_1948"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Black Square is a 1992 Russian crime film directed by Yuri Moroz.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/25/Black_Square_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "James Bond 007: Hammerhead is a spy thriller comic book miniseries featuring Ian Fleming's secret agent, James Bond, in the central role of the plot, written by Andy Diggle and illustrated by Luca Casalanguida.",
+      "body": "It is a standalone story arc that spun off from the ongoing James Bond line published by Dynamite Entertainment and licensed by Ian Fleming Publications, making its debut in October 2016 and finished the course of its storyline in March 2017. One of those thin",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/Hammerhead007-Cover-C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Black_Square_(1992_film)"
+      "url": "https://en.wikipedia.org/wiki/James_Bond_007%3A_Hammerhead"
     },
     {
       "type": "card",
