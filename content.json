@@ -1,26 +1,7 @@
 {
-  "generated": "2026-09-26T00:17:49.568Z",
+  "generated": "2026-09-26T05:38:18.545Z",
   "count": 14,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Britain’s Slave Traders by William A Pettigrew review – the inconvenient truth",
-      "body": "<p>This revelatory history shows just how deeply embedded slavery is in the foundations of modern Britain</p><p>One tedious aspect of Britain’s post-imperial melancholia is the number of amateur historians who would rather we stopped going ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/23/britains-slave-traders-by-william-a-pettigrew-review-the-inconvenient-truth"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Frances Neel Cheney was an American librarian, professor, and prolific reviewer of reference books.",
-      "body": "She graduated from Vanderbilt University and served in a number of professional positions at the school, including as an instructor at the Peabody Library School. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/db/Frances_Neel_Cheney.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Frances_Neel_Cheney"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -33,6 +14,74 @@
     {
       "type": "card",
       "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘I get lost going to the bathroom’: John Hannah on world travel, stealing props and being ‘the Scottish Eminem’",
+      "body": "<p>The Four Weddings and a Funeral actor answers your questions on being confused with James Nesbitt, his own Sliding Doors moment and a new perspective since turning 60</p><p><strong>How often do you get asked to recite that </strong><stro",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/24/john-hannah-on-world-travel-stealing-props-and-being-the-scottish-eminem"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Calico Captive is Elizabeth George Speare's first historical fiction children's novel, published in 1957.",
+      "body": "It was inspired by the true story of Susanna Willard Johnson (1730–1810) who, along with her family and younger sister, were kidnapped in an Abenaki Indian raid on Charlestown, New Hampshire in August 1754. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/29/CalicoCaptive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Calico_Captive"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "He was the third generation of the Street family to serve in these viceregal offices, and the youngest since 1844.",
+      "body": "Sir Laurence Whistler Street, AC, KCMG, KStJ, QC was an Australian judge. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/ChiefJusticeSirLaurenceStreet.png/330px-ChiefJusticeSirLaurenceStreet.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Laurence_Street"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Kevin Baldeosingh is a Trinidadian newspaper columnist, author and Humanist, who has been involved in many controversial social issues, especially in respect to religious issues.",
+      "body": "He has worked with the Trinidad Express, Newsday and the Trinidad Guardian. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kevin_Baldeosingh"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Butterfly is an extant 1924 American silent romantic drama film feature, directed by Clarence Brown and starring Kenneth Harlan, Laura La Plante, and Norman Kerry.",
+      "body": "It was produced and distributed by Universal Pictures. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Butterfly_%281924%29_-_3.jpg/330px-Butterfly_%281924%29_-_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Butterfly_(1924_film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Riddle-Master of Hed is a fantasy novel by American writer Patricia A.",
+      "body": "McKillip and the first book of her Riddle Master trilogy. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Riddle-Master_of_Hed_-_First_Edition_Hardcover_-_Book_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Riddle-Master_of_Hed"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Britain’s Slave Traders by William A Pettigrew review – the inconvenient truth",
+      "body": "<p>This revelatory history shows just how deeply embedded slavery is in the foundations of modern Britain</p><p>One tedious aspect of Britain’s post-imperial melancholia is the number of amateur historians who would rather we stopped going ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/23/britains-slave-traders-by-william-a-pettigrew-review-the-inconvenient-truth"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "The Guardian · Books —",
       "hook": "Yellow Dog by Martin Amis review – Bill Nighy has a ball",
       "body": "<p>From spoof monarch to porn tycoon, the actor narrator goes to town on the larger-than-life characters in this Booker-nominated satire </p><p>In the 2003 novel Yellow Dog, Xan Meo is set upon by two men in a pub who cosh him over the head",
@@ -41,70 +90,23 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Virtual green spaces and classical music reduce blood pressure in hospital",
-      "body": "Watching a river flow via a virtual-reality headset while listening to classical music seems to quickly bring people's blood pressure down from a dangerously high level in hospital",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2590932-virtual-green-spaces-and-classical-music-reduce-blood-pressure-in-hospital/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Global release announced for acclaimed Gaza documentary NAZA",
-      "body": "<p>Theatrical rollout across 56 territories planned for documentary about Israel’s mass killing of civilians in Gaza before film will stream on Guardian website</p><p>NAZA, the award-winning documentary from Israeli film-makers Yuval Abraha",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/24/global-release-announced-for-acclaimed-gaza-documentary-naza"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Badger Creek recorded a population of 1,610 at the 2021 census.",
-      "body": "Badger Creek is a suburb of Healesville in Victoria, Australia, 53 km north-east from Melbourne's central business district, located within the Shire of Yarra Ranges local government area. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Beautiful_badger_creek.jpg/330px-Beautiful_badger_creek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Badger_Creek%2C_Victoria"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The region consists of the census-designated places of Bret Harte, Shackelford, and Bystrom; as well as the county \"islands\" amidst them.",
-      "body": "South Modesto is the area south of the Tuolumne River, in Modesto, California, United States. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/South_Modesto"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Alspath is first recorded in the 1086 Domesday Book and was the ancient name of the original settlement in what is known today as the parish of Meriden, West Midlands situated between Birmingham and Coventry.",
-      "body": "The name means \"Aelles path across the heath\". The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Alspath"
-    },
-    {
-      "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "World Wrestling Entertainment (WWE) is an American professional wrestling promotion.",
-      "body": "It is the largest and most valuable wrestling promotion in the world and has expanded beyond professional wrestling into film, football, and other business ventures, including the licensing of its intellectual property to other companies to produce video games",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/330px-WWE_official_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Man with the Red Tattoo, first published in 2002, was the sixth and final original novel by Raymond Benson featuring Ian Fleming's character James Bond.",
+      "body": "Carrying the Ian Fleming Publications copyright, it was first published in the United Kingdom by Hodder & Stoughton and in the United States by Putnam. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/RedTattoo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/WWE"
+      "url": "https://en.wikipedia.org/wiki/The_Man_with_the_Red_Tattoo"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘I get lost going to the bathroom’: John Hannah on world travel, stealing props and being ‘the Scottish Eminem’",
-      "body": "<p>The Four Weddings and a Funeral actor answers your questions on being confused with James Nesbitt, his own Sliding Doors moment and a new perspective since turning 60</p><p><strong>How often do you get asked to recite that </strong><stro",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/24/john-hannah-on-world-travel-stealing-props-and-being-the-scottish-eminem"
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "He was among the pagan philosophers persecuted by Justinian in the early 6th century, and was forced for a time to seek refuge in the Persian court, before being allowed back into the Byzantine Empire.",
+      "body": "Simplicius of Cilicia was a Byzantine philosopher, a disciple of Ammonius Hermiae and Damascius, and one of the last of the Neoplatonists. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Simplicius_of_Cilicia"
     },
     {
       "type": "card",
@@ -117,23 +119,21 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Clive Barker is a British writer, filmmaker, and visual artist.",
-      "body": "He came to prominence in the 1980s with a series of short stories collectively named the Books of Blood, which established him as a leading horror author. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/CliveBarker.jpg/330px-CliveBarker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Clive_Barker"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Global release announced for acclaimed Gaza documentary NAZA",
+      "body": "<p>Theatrical rollout across 56 territories planned for documentary about Israel’s mass killing of civilians in Gaza before film will stream on Guardian website</p><p>NAZA, the award-winning documentary from Israeli film-makers Yuval Abraha",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/24/global-release-announced-for-acclaimed-gaza-documentary-naza"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Somalal Shah was an Indian painter and art teacher.",
-      "body": "Born in Kapadvanj and educated in Bombay and Calcutta, he spent three decades painting and teaching art in Bhavnagar in Saurashtra, Gujarat. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Somalal_Shah"
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Virtual green spaces and classical music reduce blood pressure in hospital",
+      "body": "Watching a river flow via a virtual-reality headset while listening to classical music seems to quickly bring people's blood pressure down from a dangerously high level in hospital",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2590932-virtual-green-spaces-and-classical-music-reduce-blood-pressure-in-hospital/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     }
   ]
 }
