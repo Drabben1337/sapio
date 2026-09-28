@@ -1,139 +1,199 @@
 {
-  "generated": "2026-09-28T06:00:09.627Z",
-  "count": 14,
+  "generated": "2026-09-28T13:02:30.200Z",
+  "count": 20,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Kingdom Keepers is a series of children's novels written by American author Ridley Pearson.",
+      "body": "The New York Times Bestselling series is published through Disney Editions and Disney Hyperion, and the first book was released on August 29, 2005. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5e/Kingdom_Keepers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_Keepers"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2016 —",
+      "hook": "The 2016 South Australian blackout occurs, lasting up to three days in some areas.",
+      "body": "The South Australian blackout of 2016 was a widespread power outage in South Australia that occurred as a result of storm damage to electricity transmission infrastructure on 28 September 2016. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2016_South_Australian_blackout"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "In the 1st century AD, it had been a 102 feet (31.09 m) long river trading vessel.",
+      "body": "Arles Rhône 3 is an ancient Roman boat discovered in 2004, with parts of it only 13 feet (3.96 m) below the surface in the Rhône River of Arles, France. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Mus%C3%A9e_de_l%27Arles_antique%2C_Arles%2C_France_%2816194233455%29.jpg/330px-Mus%C3%A9e_de_l%27Arles_antique%2C_Arles%2C_France_%2816194233455%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arles_Rh%C3%B4ne_3"
+    },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "My dad was a monster! Sara Karloff on reviving Frankenstein, 95 years on",
-      "body": "<p>Boris Karloff’s daughter and composer Michael Shapiro, whose musical score for the 1931 film is finally coming to London, talk about how it became a much-loved classic</p><p>Once seen, never forgotten – the 1931 Frankenstein is 95 years ",
+      "hook": "Kikuyu Land review – the colonial-era misery behind our morning cup of tea",
+      "body": "<p>The impact of colonial then corporate agricultural development is unravelled in a sobering documentary that takes a dramatic turn when a family secret is discovered</p><p>The central highlands of Kenya are renowned for their lush tea pla",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/25/my-dad-was-a-monster-sara-karloff-on-reviving-frankenstein-95-years-on"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Two Hotel Francforts is a fictive biographical novel by David Leavitt, published in 2013.",
-      "body": "It is Leavitt's eighth novel. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/The_Two_Hotel_Francforts_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Two_Hotel_Francforts"
+      "url": "https://www.theguardian.com/film/2026/sep/28/kikuyu-land-review-kenya-tea"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Jay-Z rape accuser says her allegation was false",
-      "body": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "Range by Dorthe Nors review – an astrophysicist at odds with reality",
+      "body": "<p>In the Danish writer’s latest novel, an eminent scientist withdraws to the countryside</p><p>When Gunn Haven, an eminent professor of astrophysics at an urban university, moves to rural Denmark, she tells a local newspaper: “It’s to do w",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/28/range-by-dorthe-nors-review-an-astrophysicist-at-odds-with-reality"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Crushed review – Steve Oram is priestly lead in harrowing Bangkok-set child-abduction thriller",
+      "body": "<p>A priest investigates his daughter’s kidnapping in Thailand in this Paul Schrader-esque inquiry into spiritual nihilism</p><p>‘He’s American, a little bit overweight, sweaty, a little bit camp, creepy.” As far as descriptions of border-h",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/28/crushed-review-child-kidnap-thriller-steve-oram"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘Should have garnered the actor an Oscar’: why Liar Liar is my feelgood movie",
+      "body": "<p>The latest in our series of writers paying tribute to the films they watch when they need a lift is an appreciation of Jim Carrey’s manic 90s comedy</p><p>To be completely honest, whenever anybody asks what my favorite movies are, my lis",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/28/liar-liar-jim-carrey-feelgood-movie"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Just Play Dead review – Samuel L Jackson and Eva Green punch up switchback crime caper",
+      "body": "<p>Jackson and Green just about manage to distract viewers from the sub-par Tarantinoesque flourishes, confusing plot points and tired stereotypes</p><p>Having shot five films since 2020, 82-year-old Martin Campbell is a certified member of",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/28/just-play-dead-review-samuel-jackson-eva-green"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2023 —",
+      "hook": "The 2023 Rotterdam shootings occurred, during which two people were killed in a shooting and arson incident at a residence in Delfshaven, Rotterdam. Additionally, one person lost their life in a classroom at the Erasmus University Medical Center.",
+      "body": "On 28 September 2023, two shootings occurred in Rotterdam, Netherlands. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Erasmus_MC_skyline_with_H-gebouw.jpg/330px-Erasmus_MC_skyline_with_H-gebouw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2023_Rotterdam_shootings"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Murder in the Hills is a Bengali crime thriller web series streaming on the OTT platform hoichoi.",
-      "body": "The series was released on 23 July 2021. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d0/Murder_in_the_hills_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Edmond Dantès is a title character, Byronic hero and the protagonist of Alexandre Dumas's 1844 adventure novel The Count of Monte Cristo.",
+      "body": "Within the story's narrative, Dantès is an intelligent, honest and loving man who turns bitter and vengeful after he is framed for a crime he did not commit. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Edmond_Dant%C3%A8s.JPG/330px-Edmond_Dant%C3%A8s.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Murder_in_the_Hills"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "“Severe FOMO is an occupational pre-condition”: German buyers reveal the films for which they would bust the slate",
-      "body": "Buyers from Pandora Film, DCM, X Verleih and Weltkino share insights on what is working at the German box office.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/severe-fomo-is-an-occupational-pre-condition-german-buyers-reveal-the-films-for-which-they-would-bust-the-slate/5220762.article"
+      "url": "https://en.wikipedia.org/wiki/Edmond_Dant%C3%A8s"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The 2023 season is the 25th in franchise history, and 24th as the Rock.",
-      "body": "The Toronto Rock are a lacrosse team based in Hamilton, Ontario playing in the National Lacrosse League (NLL). Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2023_Toronto_Rock_season"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Mercy of Gods is a 2024 science fiction novel by American authors Daniel Abraham and Ty Franck, writing under the pseudonym James S.",
-      "body": "It is the first book in The Captive's War trilogy. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/26/The_Mercy_of_Gods_-_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Mercy_of_Gods"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Guns of Muschu is a 2006 novel by Australian author Don Dennis based on the diary of Sapper Mick Dennis, who was the sole survivor of Operation Copper, a daring raid on the Japanese occupied island of Muschu in 1945 which was carried out by members of the Z Special Unit during World War II.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/The_Guns_of_Muschu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Guns_of_Muschu"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Maya Thakuri is a Nepali writer.",
-      "body": "She has published eight anthologies of short stories. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Maya_Thakuri.jpg/330px-Maya_Thakuri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maya_Thakuri"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "News media must stay relevant or 'society will struggle', says World News Day organiser",
-      "body": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss"
+      "opener": "On this day in 1941 —",
+      "hook": "World War II: The Drama uprising against the Bulgarian occupation in northern Greece begins.",
+      "body": "The Drama uprising was an uprising of the population of the northern Greek city of Drama and the surrounding villages on 28–29 September 1941 against the Bulgarian occupation regime. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Drama-uprising-monument.jpg/330px-Drama-uprising-monument.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Drama_uprising"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Since 1997 she has led the project of editing a new edition of the corpus of skaldic poetry.",
-      "body": "Margaret Beryl Clunies Ross is a medievalist who was until her retirement in 2009 the McCaughey Professor of English Language and Early English Literature and Director of the Centre for Medieval Studies at the University of Sydney. Bring it up somewhere. Watch",
-      "img": null,
+      "opener": "On this day in 235 —",
+      "hook": "Pope Pontian resigns. He is exiled to the mines of Sardinia, along with Hippolytus of Rome.",
+      "body": "Pope Pontian was the bishop of Rome from 21 July 230 to 28 September 235. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Spinello_Aretino_008.jpg/330px-Spinello_Aretino_008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pope_Pontian"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "From 1911 to 1923, he served 6 consecutive terms in the U.S.",
+      "body": "Ira Clifton Copley was an American publisher, politician, and utility tycoon. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/IraCCopley.jpg/330px-IraCCopley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Margaret_Clunies_Ross"
+      "url": "https://en.wikipedia.org/wiki/Ira_C._Copley"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1961 —",
+      "hook": "A military coup in Damascus effectively ends the United Arab Republic, the union between Egypt and Syria.",
+      "body": "The Syrian coup d'état of 1961 was an uprising by disgruntled Syrian Army officers on 28 September 1961, that resulted in the break-up of the United Arab Republic and the restoration of an independent Syrian Republic. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Abdel_Karim_Zahreddine_broadcasts_a_communique_from_the_Supreme_Arab_Revolutionary_Command_of_the_Armed_Forces_%28SARCAF%29%2C_1961.jpg/330px-Abdel_Karim_Zahreddine_broadcasts_a_communique_from_the_Supreme_Arab_Revolutionary_Command_of_the_Armed_Forces_%28SARCAF%29%2C_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1961_Syrian_coup_d'%C3%A9tat"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
-      "body": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "Deep into the Sixties: Britain 1965-66 by David Kynaston review – a tour de force of popular history",
+      "body": "<p>From the Beatles and the World Cup to racism and homophobia, the latest instalment in Kynaston’s series captures a society in the throes of change</p><p>In February 1965, the civil rights activist Malcolm X visited Smethwick, in the Midl",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/28/deep-into-the-sixties-britain-1965-66-by-david-kynaston-review-beatles-bigots-and-streets-in-the-sky"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1970 —",
+      "hook": "Egyptian President Gamal Abdel Nasser dies of a heart attack in Cairo.",
+      "body": "Gamal Abdel Nasser Hussein was an Egyptian military officer and revolutionary who served as the second president of Egypt from 1954 until his death in 1970. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Stevan_Kragujevic%2C_Gamal_Abdel_Naser_u_Beogradu%2C_1962.jpg/330px-Stevan_Kragujevic%2C_Gamal_Abdel_Naser_u_Beogradu%2C_1962.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Some BBC channels and radio stations may well have to close, director general says",
-      "body": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Film —",
+      "hook": "Pandora’s Legacy review – fascinating profile of silent film legend GW Pabst",
+      "body": "<p>Through intimate letters and family interviews, this probing documentary about the Austrian film-maker reveals a complicated figure</p><p>A titan of silent cinema, Austrian director GW Pabst left behind a treasure trove of classics. Work",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/28/pandoras-legacy-review-probing-profile-of-silent-film-legend-gw-pabst"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "France steps up bid for international shoots with expanded TRIP",
-      "body": "The move comes as the US introduces a federal incentive.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/france-steps-up-bid-for-international-shoots-with-expanded-trip/5220775.article"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Mystery of a Butcher's Shop is a 1929 mystery detective novel by the British writer Gladys Mitchell.",
+      "body": "It is the second in her long-running series featuring the psychoanalyst and amateur detective Mrs Bradley. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Mystery_of_a_Butcher%27s_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Mystery_of_a_Butcher's_Shop"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Metro is a 2011 Malayalam action thriller crime film directed by Bipin Prabhakar, starring R.",
+      "body": "Sarathkumar, Nivin Pauly, Bhavana, Suraj Venjaramoodu, Bhagath Manuel, Biyon Gemini, Arun Kumar, Suresh Krishna, and Dileep in cameo appearance. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/67/TheMetro_film.jpg/330px-TheMetro_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Metro_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Tragedy on the Line is a 1931 detective novel by John Rhode, the pen name of the British writer Cecil Street.",
+      "body": "It is the tenth in his long-running series of novels featuring Lancelot Priestley, a Golden Age armchair detective who works alongside the less sharp-witted Superintendent Hanslet of Scotland Yard. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Tragedy_on_the_Line.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tragedy_on_the_Line"
     }
   ]
 }
