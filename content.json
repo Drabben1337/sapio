@@ -1,209 +1,199 @@
 {
-  "generated": "2026-09-29T18:55:15.183Z",
-  "count": 21,
+  "generated": "2026-09-29T22:42:49.441Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Variations is a 2023 novel by Patrick Langley.",
-      "body": "This is the author's second novel, following his debut novel Arkady. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Variations_Patrick_Langley_front_cover.jpg/330px-The_Variations_Patrick_Langley_front_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "This Census-Taker is a 2016 novella by British author China Miéville.",
+      "body": "It tells the story of a boy who witnesses a violent event, which he recalls initially as his mother killing his father, but later as his father killing his mother. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/This_Census-Taker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Variations"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "A Swiftly Tilting Planet is a science fiction novel by American author Madeleine L'Engle, the third book in the Time Quintet.",
-      "body": "It was first published in 1978 with cover art by Diane Dillon. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/38/Swiftlytiltingplanet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Swiftly_Tilting_Planet"
+      "url": "https://en.wikipedia.org/wiki/This_Census-Taker"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1990 —",
-      "hook": "The Tampere Hall, the largest concert and congress center in the Nordic countries, is inaugurated in Tampere, Finland.",
-      "body": "The Tampere Hall is the largest congress centre in the Nordic countries, located in the southern edge of Sorsapuisto, in the centre of Tampere, Finland. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Tampere-talo_panorama_2014.jpg/330px-Tampere-talo_panorama_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1848 —",
+      "hook": "The Battle of Pákozd is a stalemate between Hungarian and Croatian forces and is the first battle of the Hungarian Revolution.",
+      "body": "The Battle of Pákozd was a battle in the Hungarian war of Independence of 1848–1849, fought on the 29 September 1848 in the Pákozd – Sukoró – Pátka triangle. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/P%C3%A1kozdi_csata.jpg/330px-P%C3%A1kozdi_csata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tampere_Hall"
+      "url": "https://en.wikipedia.org/wiki/Battle_of_P%C3%A1kozd"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Young Thugs: Nostalgia is a 1998 Japanese film directed by Takashi Miike.",
+      "body": "It is based on the autobiographical novel Kishiwada shōnen gurentai: Bōkyō written by Riichi Nakaba. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/YoungThugsNostalgiaDVDCover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Young_Thugs%3A_Nostalgia"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Range by Dorthe Nors review – an astrophysicist at odds with reality",
+      "body": "<p>In the Danish writer’s latest novel, an eminent scientist withdraws to the countryside</p><p>When Gunn Haven, an eminent professor of astrophysics at an urban university, moves to rural Denmark, she tells a local newspaper: “It’s to do w",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/28/range-by-dorthe-nors-review-an-astrophysicist-at-odds-with-reality"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1829 —",
+      "hook": "The Metropolitan Police of London, later also known as the Met, is founded.",
+      "body": "The Metropolitan Police Service (MPS), commonly known as the Metropolitan Police, Met Police, or the \"Met\", is the territorial police force responsible for law enforcement and crime prevention within Greater London. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Badge_of_the_Metropolitan_Police_Service_%28Charles_III%29.svg/330px-Badge_of_the_Metropolitan_Police_Service_%28Charles_III%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Metropolitan_Police"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Beth de Araújo talks Sundance winner ‘Josephine’, Brazil ties, and why she identifies with outsiders",
+      "body": "“There is violence against women across the board in every single country,” says Brazilian-American filmmaker.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/features/beth-de-araujo-talks-sundance-winner-josephine-brazil-ties-and-why-she-identifies-with-outsiders/5220802.article"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "The cure for doomscrolling? Why Tom Cruise stopped a woman mid-scroll",
-      "body": "<p>Viral CCTV footage shows the star checking in on a woman he thought was in distress, but who was only engrossed in social media. Perhaps we could all use some Cruise</p><p><strong>Name:</strong> Doomscrolling interventions.</p><p><strong",
+      "hook": "Patricio Guzmán obituary",
+      "body": "<p>Chilean film-maker whose trilogy on Augusto Pinochet’s coup brought him to international attention</p><p>Hawker Hunter jets bomb the presidential palace in the Chilean capital, Santiago, setting it ablaze. It is 11 September 1973, and <a",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/29/doomscrolling-tom-cruise-woman-viral-tiktok-digger"
+      "url": "https://www.theguardian.com/film/2026/sep/29/patricio-guzman-obituary"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Cherise Saywell wins national short story award for ‘tender’ tale of a child facing violence – read an extract here",
+      "body": "<p>The Edinburgh-based writer takes £15,000 prize for Ditto, a ‘beautifully told’ story about domestic abuse in a small Australian town</p><ul><li><p><strong>Read an extract from Ditto below</strong></p></li></ul><p>Edinburgh-based writer C",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/29/cherise-saywell-wins-bbc-short-story-award-ditto"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Pandora’s Legacy review – fascinating profile of silent film legend GW Pabst",
+      "body": "<p>Through intimate letters and family interviews, this probing documentary about the Austrian film-maker reveals a complicated figure</p><p>A titan of silent cinema, Austrian director GW Pabst left behind a treasure trove of classics. Work",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/28/pandoras-legacy-review-probing-profile-of-silent-film-legend-gw-pabst"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1920 —",
-      "hook": "Ukrainian War of Independence: The Ukrainian Soviet Socialist Republic agree to a truce with the Makhnovshchina.",
-      "body": "The Ukrainian War of Independence, also referred to as the Ukrainian–Soviet War in Ukraine, lasted from March 1917 to November 1921 and was part of the wider Russian Civil War. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/1917._%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D1%83%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BA%D0%BE%D0%BC%D0%B0_%D0%AE%D0%B7%D0%BE%D0%B2%D0%BA%D0%B8.jpg/330px-1917._%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D1%83%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BA%D0%BE%D0%BC%D0%B0_%D0%AE%D0%B7%D0%BE%D0%B2%D0%BA%D0%B8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ukrainian_War_of_Independence"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1932 —",
-      "hook": "Last day of the Battle of Boquerón between Paraguay and Bolivia during the Chaco War.",
-      "body": "The Battle of Boquerón was fought September 9–29, 1932, between the Bolivian and Paraguayan armies in and around the stronghold of Boquerón. Worth a quiet trip down the rabbit hole.",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It started broadcasting on November 3, 1993, coinciding with the 173rd anniversary of the independence of Cuenca.",
+      "body": "Telerama is an Ecuadorian regional television channel, headquartered in Cuenca, Azuay Province. Worth a quiet trip down the rabbit hole.",
       "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Boquer%C3%B3n_(1932)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘We got naked and covered ourselves in Vaseline’: Katherine Hubbard on photographing her ailing mother",
-      "body": "<p>Over five years, Hubbard photographed her mother at home as her memory declined – even persuading her to make nude body prints. What does her mum think of the wrenchingly beautiful images?</p><p>At the peak of the Covid-19 pandemic in 20",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/2026/sep/29/katherine-hubbard-mother-dementia-studio-voltaire-the-great-room"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1911 —",
-      "hook": "Italy declares war on the Ottoman Empire, In this war , Italy gains Libya which ends Ottoman rule in North Africa .",
-      "body": "The Italo-Turkish War, also known as the Turco-Italian War, was fought between the Kingdom of Italy and the Ottoman Empire from 29 September 1911 to 18 October 1912. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Italo-Turkish_war_collage.jpg/330px-Italo-Turkish_war_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Italo-Turkish_War"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "\"Test Me\" is a song by South Korean and Japanese rapper and singer Chanmina, released on January 14, 2026, via No Label Music and Mastersix Foundation.",
-      "body": "The song serves as the opening theme song for the third season of the Japanese animated series Oshi no Ko. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Chanmina_-_Test_Me.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Test_Me_(Chanmina_song)"
+      "url": "https://en.wikipedia.org/wiki/Telerama_(Ecuadorian_TV_channel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1907 —",
+      "hook": "The cornerstone is laid at the Cathedral Church of Saint Peter and Saint Paul (better known as Washington National Cathedral) in Washington, D.C.",
+      "body": "The Cathedral Church of Saint Peter and Saint Paul in the City and Episcopal Diocese of Washington, commonly known as Washington National Cathedral or National Cathedral, is a cathedral of the Episcopal Church. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/WashNatCathedralx1.jpg/330px-WashNatCathedralx1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Washington_National_Cathedral"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1724 —",
+      "hook": "J. S. Bach leads the first performance of Herr Gott, dich loben alle wir, BWV 130 for the feast of archangel Michael, based on Paul Eber's hymn in twelve stanzas.",
+      "body": "Johann Sebastian Bach was a German composer and musician of the late Baroque period. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/330px-Johann_Sebastian_Bach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Jon Stewart on Trump offering to sell weapons to China: ‘How does America even stay on the map sometimes?’",
-      "body": "<p>Late-night hosts discussed Trump’s private ballroom tour for China’s Xi Jinping and his ‘great interest’ in granite</p><p>Late-night hosts recapped <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s lavish <a hr",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/sep/29/jon-stewart-trump-xi-jinping-visit"
+      "opener": "The Guardian · Books —",
+      "hook": "Deep into the Sixties: Britain 1965-66 by David Kynaston review – a tour de force of popular history",
+      "body": "<p>From the Beatles and the World Cup to racism and homophobia, the latest instalment in Kynaston’s series captures a society in the throes of change</p><p>In February 1965, the civil rights activist Malcolm X visited Smethwick, in the Midl",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/28/deep-into-the-sixties-britain-1965-66-by-david-kynaston-review-beatles-bigots-and-streets-in-the-sky"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Homeward Bound (2004) is a science fiction and alternate history novel by Harry Turtledove.",
+      "body": "It is the eighth and final work in his Worldwar series fictional universe. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/95/HarryTurtledove_HomewardBound.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Homeward_Bound_(Turtledove_novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2004 —",
+      "hook": "The asteroid 4179 Toutatis passes within four lunar distances of Earth.",
+      "body": "4179 Toutatis is an elongated, stony asteroid and slow rotator, classified as a near-Earth object and potentially hazardous asteroid of the Apollo asteroid group, approximately 2.5 kilometers in diameter. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/4179_Toutatis_HQ.png/330px-4179_Toutatis_HQ.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/4179_Toutatis"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "They are currently members of the Anglian Combination Division One and play at King's Head Meadow.",
+      "body": "Wymondham Town Football Club is a football club based in Wymondham, Norfolk, England. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/31/Wymondham_Town_F.C.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wymondham_Town_F.C."
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Watership Down is a down or hill in the civil parish of Ecchinswell, Sydmonton and Bishops Green in the English county of Hampshire.",
+      "body": "It forms part of the Hampshire Downs. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Watership_Down_From_Northeast.jpg/330px-Watership_Down_From_Northeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Watership_Down%2C_Hampshire"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Painted Hills, also known as Lassie's Adventures in the Goldrush, is a 1951 Western drama film produced by Metro-Goldwyn-Mayer and directed by Harold F.",
+      "body": "The Painted Hills is the seventh and final MGM Lassie film. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/28/Lassie_the_Painted_Hills_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Painted_Hills"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Godzilla Minus Zero’ review: Towering monster sequel amps up the action and raises the emotional stakes",
+      "body": "Takashi Yamazaki’s epic follow-up to ‘Godzilla Minus One’ premiered at the New York Film Festival",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/reviews/godzilla-minus-zero-review-towering-monster-sequel-amps-up-the-action-and-raises-the-emotional-stakes/5220816.article"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1578 —",
       "hook": "Tegucigalpa, capital city of Honduras, is claimed by the Spaniards.",
-      "body": "Tegucigalpa —formally Tegucigalpa, Municipality of the Central District, and colloquially referred to as Tegus, Teguz or Cerrocigalpa —is the capital and largest city of Honduras along with its sister city, Comayagüela. Worth a quiet trip down the rabbit hole.",
+      "body": "Tegucigalpa —formally Tegucigalpa, Municipality of the Central District, and colloquially referred to as Tegus, Teguz or Cerrocigalpa —is the capital and largest city of Honduras along with its sister city, Comayagüela. One of those things you can't un-know.",
       "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Tegucigalpa_downtown_panoramic_2026.jpg/330px-Tegucigalpa_downtown_panoramic_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Tegucigalpa"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Redemption of David Corson is a lost 1914 silent film drama directed by Frederick A.",
-      "body": "Thomson and starring William Farnum. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/The_Redemption_of_David_Corson_1914_film_poster.jpg/330px-The_Redemption_of_David_Corson_1914_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Redemption_of_David_Corson"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "It was a ghost town of three people. So how did Luckenbach rival Nashville as the heartland of country music?",
-      "body": "<p>In 1971, self-appointed mayor Hondo Crouch turned the Texan town into a rural respite for country stars. Soon it was immortalised in chart-topping songs – and became a symbol of a simpler American life</p><p>In the summer of 1973, the US",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/sep/29/luckenbach-the-texas-town-a-byword-for-outlaw-country-music"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Dreamseller saga consists of three novels written by Augusto Cury – doctor, psychiatrist, psychotherapist and publishing phenomenon in Brazil.",
-      "body": "The first book to be released in the U.S. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/96/The_Dreamseller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Dreamseller"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Stern, sensuous, almost kissable lips’: why sculptures can have far more power when they’re broken",
-      "body": "<p>From a pharoah’s pouting and almost kissable lips to a Mussolini with a hole in the head, a new exhibition is exploring how some ancient fragments speak more profoundly than fully intact treasures</p><p>The nose of Cleopatra VII was supp",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/2026/sep/29/sculpture-far-more-power-if-broken"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Saleem Yacoub Saleem Haddad is a queer Arab author, filmmaker and aid worker of Iraqi-German and Palestinian-Lebanese descent, His debut novel Guapa (2016), which explores the life of a gay man in an unnamed Arab country, received critical acclaim.",
-      "body": "Haddad has also written on LGBTQ+ issues in the Middle East and contributed to the anthology This Arab is Queer (2022). Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Saleem_Haddad_selfie.jpg/330px-Saleem_Haddad_selfie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Saleem_Haddad"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The US Navy Department successfully tested printing telegraphy between an airplane and ground radio station in 1922.",
-      "body": "Radioteletype (RTTY) is a telecommunications system consisting originally of two or more electromechanical teleprinters in different locations connected by radio rather than a wired link. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Rtty.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Radioteletype"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "In 1827, it was the birthplace of the surgeon Joseph Lister.",
-      "body": "Upton House was a building in West Ham, Essex on what is now the corner of Lancaster Road and Upton Lane It was rebuilt in 1731. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Upton_House%2C_West_Ham%3B_birthplace_of_Joseph_Lister._Watercol_Wellcome_V0018804.jpg/330px-Upton_House%2C_West_Ham%3B_birthplace_of_Joseph_Lister._Watercol_Wellcome_V0018804.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Upton_House%2C_Newham"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1918 —",
-      "hook": "World War I: Germany's Supreme Army Command tells Kaiser Wilhelm II and Imperial Chancellor Georg Michaelis to open negotiations for an armistice to end the war.",
-      "body": "The Oberste Heeresleitung was the highest echelon of command of the Imperial German Army. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Hindenburg%2C_Kaiser%2C_Ludendorff_HD-SN-99-02150.JPG/330px-Hindenburg%2C_Kaiser%2C_Ludendorff_HD-SN-99-02150.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Oberste_Heeresleitung"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Digger review – Tom Cruise’s loudmouth oil tycoon goes hard in Alejandro G Iñárritu’s eco-satire",
-      "body": "<p>One man’s irresponsible drilling causes a global crisis in Iñárritu’s exasperatingly laborious, self-congratulatory film</p><p>A new movie from the Oscar-winning Mexican director Alejandro González Iñárritu is always an event. So it’s di",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘If we’re unhealthy, it is a reflection of an unhealthy democracy’: Sarah Jones puts America on the therapy couch",
-      "body": "<p>Playing 19 characters in 100 minutes, the Tony award winner takes the temperature of the nation in America, Who Hurt You?</p><p>“We’re in a timeline that even <a href=\"https://www.theguardian.com/books/margaretatwood\">Margaret Atwood</a>",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/stage/2026/sep/29/sarah-jones-america-who-hurt-you-interview-eric-ting"
     }
   ]
 }
