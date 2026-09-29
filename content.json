@@ -1,119 +1,229 @@
 {
-  "generated": "2026-09-28T20:17:15.757Z",
-  "count": 12,
+  "generated": "2026-09-29T00:39:03.728Z",
+  "count": 23,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Twarikh Guru Khalsa or Tawarikh-i-Guru Khalsa, is a historical book of the Sikhs from their origin to the time when they lost the Punjab to the British.",
-      "body": "The author of the book is Giani Gian Singh. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Opening_folio_of_a_manuscript_of_the_%27Twarikh_Guru_Khalsa%27_by_Giani_Gian_Singh.jpg/330px-Opening_folio_of_a_manuscript_of_the_%27Twarikh_Guru_Khalsa%27_by_Giani_Gian_Singh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Twarikh_Guru_Khalsa"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "John Oliver on Brazil’s Flávio Bolsonaro: ‘Fearmongering and flagrant daddy issues’",
-      "body": "<p>The Last Week Tonight host digs into Brazil’s election, with current leader Lula faces a disgraced former president’s son</p><p>On the latest Last Week Tonight, <a href=\"https://www.theguardian.com/tv-and-radio/john-oliver\">John Oliver</",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/28/john-oliver-brazil-flavio-bolsonaro"
+      "opener": "The Guardian · Books —",
+      "hook": "Tomi Adeyemi on the film of her hit novel Children of Blood and Bone: ‘I don’t plan to watch it’",
+      "body": "<p>Her debut earned a record-breaking YA book deal – then came her fallout with Hollywood. The author talks about the pressures of success and why she is pictured on the cover of her new novel</p><p>There is a photograph of Tomi Adeyemi sta",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/27/tomi-adeyemi-on-the-film-of-her-hit-novel-children-of-blood-and-bone-i-dont-plan-to-watch-it"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The 1988 ECAC Metro men's basketball tournament was held March 6–9.",
-      "body": "The quarterfinal and semifinal rounds were played on campus sites with the championship game held at Rothman Center in Hackensack, New Jersey. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1988_ECAC_Metro_men's_basketball_tournament"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Zemruta was a town of ancient Lycaonia, inhabited in Roman times.",
-      "body": "The name does not occur among ancient authors but is inferred from epigraphic and other evidence. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zemruta"
+      "cat": "history",
+      "opener": "On this day in 2007 —",
+      "hook": "Calder Hall, the world's first commercial nuclear power station, is demolished in a controlled explosion.",
+      "body": "Calder Hall Nuclear Power Station is a former Magnox nuclear power station on the Sellafield site in Cumbria in North West England. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Calder_Hall_nuclear_power_station%2C_after_opening.jpg/330px-Calder_Hall_nuclear_power_station%2C_after_opening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Calder_Hall_nuclear_power_station"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Century-old silent film made in New Hampshire found in Japan antique shop",
-      "body": "<p>Billy B Van’s 1919 comedy Van-ar-chy found by student in Sendai will be shown in early November in New Hampshire</p><p>A silent comedy filmed in <a href=\"https://www.theguardian.com/us-news/new-hampshire\">New Hampshire</a> more than a ce",
+      "hook": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
+      "body": "<p><strong>Venice film festival: </strong>Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality</p><p>Lance Oppenheim is the acclaimed documentary-maker who ha",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/28/century-old-silent-comedy-new-hampshire-found-japan"
+      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2004 —",
+      "hook": "Burt Rutan's Ansari SpaceShipOne performs a successful spaceflight, the first of two required to win the Ansari X Prize.",
+      "body": "Elbert Leander \"Burt\" Rutan is an American retired aerospace engineer and entrepreneur noted for his originality in designing light, strong, unusual-looking, and energy-efficient air and space craft. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Burt_Rutan_Oct_3_2004_photo_Don_Ramey_Logan.jpg/330px-Burt_Rutan_Oct_3_2004_photo_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Burt_Rutan"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Tony Jay was a British-American actor.",
-      "body": "A former member of the Royal Shakespeare Company, he was known for his voice work in radio, animation, film, and video games. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b9/Tony_Jay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Wild Robot is a 2024 American animated science fiction film written and directed by Chris Sanders, based on the 2016 novel by Peter Brown.",
+      "body": "It was produced by DreamWorks Animation, and features the voices of Lupita Nyong'o, Pedro Pascal, Kit Connor, Bill Nighy, Stephanie Hsu, Matt Berry, Ving Rhames, Mark Hamill and Catherine O'Hara. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/70/The_Wild_Robot_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tony_Jay"
+      "url": "https://en.wikipedia.org/wiki/The_Wild_Robot"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Stevie Wonder releases four unheard songs from Songs in the Key of Life sessions",
-      "body": "<p>Previously unreleased material comes as Wonder marks 50th anniversary of album with arena tour</p><p>Stevie Wonder has expanded the scope of what was already the most epic studio album in his catalogue, 1976’s Songs in the Key of Life.</",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/sep/28/stevie-wonder-releases-four-unheard-songs-from-songs-in-the-key-of-life-sessions"
+      "cat": "history",
+      "opener": "On this day in 1714 —",
+      "hook": "The Cossacks of the Tsardom of Russia kill about 800 people overnight in Hailuoto during the Great Wrath.",
+      "body": "The Cossacks are a predominantly East Slavic, Eastern Orthodox Christian militant people, originating from the Pontic–Caspian steppe of eastern Ukraine and southern Russia. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ilja_Jefimowitsch_Repin_-_Reply_of_the_Zaporozhian_Cossacks_-_Yorck.jpg/330px-Ilja_Jefimowitsch_Repin_-_Reply_of_the_Zaporozhian_Cossacks_-_Yorck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cossacks"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1992 —",
+      "hook": "Brazilian President Fernando Collor de Mello is impeached.",
+      "body": "Fernando Affonso Collor de Mello is a Brazilian politician who served as the 32nd president of Brazil from 1990 to 1992, when he resigned in a failed attempt to stop his impeachment trial by the Brazilian Senate. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Foto_oficial_do_presidente_Fernando_Collor_de_Melo._%2838405801411%29.jpg/330px-Foto_oficial_do_presidente_Fernando_Collor_de_Melo._%2838405801411%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Fernando_Collor_de_Mello"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "‘My generation of novelists is dying’: Rose Tremain on 70 years of writing, and late-life inspiration",
-      "body": "<p>As her latest novel about Daphne du Maurier is published, the bestselling author reflects on age and creativity – and why at 83 she has no plans to stop </p><p>My generation of writers is dying. Of Granta’s fabled list of 20 Best of Youn",
+      "hook": "‘We left Ireland because there wasn’t work – and we wanted to get the hell away’: Trespasses author Louise Kennedy",
+      "body": "<p>Her Troubles-set debut became a hit TV series starring Gillian Anderson. Now the novelist has returned to her teen years for a follow-up. She talks about her journey from chef to author, and how her cancer diagnosis inspired her to write",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/25/my-generation-of-novelists-is-dying-rose-tremain-on-70-years-of-writing-and-late-life-inspiration"
+      "url": "https://www.theguardian.com/books/2026/sep/26/we-left-ireland-because-there-wasnt-work-and-we-wanted-to-get-the-hell-away-trespasses-author-louise-kennedy"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The IRS Tapes: Who'll Buy My Memories?",
-      "body": "is the 39th studio album by American country and western singer Willie Nelson. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/79/Willie_Nelson_IRS_Tapes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Mysteries of Winterthurn is a Gothic- detective novel by Joyce Carol Oates first published in 1984 by E.",
+      "body": "Dutton and reprinted by Berkley Books in 1985. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6d/Mysteries_of_Winterthurn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_IRS_Tapes%3A_Who'll_Buy_My_Memories%3F"
+      "url": "https://en.wikipedia.org/wiki/Mysteries_of_Winterthurn"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Terry Pratchett First Novel Award was a biennial award for an unpublished science fiction novel written by a UK resident.",
+      "body": "It was sponsored by British author Terry Pratchett. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b3/The_Terry_Pratchett_Prize_Logo.jpg/330px-The_Terry_Pratchett_Prize_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Terry_Pratchett_First_Novel_Award"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Lay that Trumpet in Our Hands is a 2002 novel by Susan Carol McCarthy.",
+      "body": "It details her growing awareness of race relations and racial hatred against the backdrop of the American Civil Rights Movement. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/10/Lay_that_Trumpet_in_Our_Hands.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lay_that_Trumpet_in_Our_Hands"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
+      "hook": "Does avoiding misery make you happy?",
+      "body": "<p>It might seem like self-preservation, but the results aren’t necessarily what you’d expect</p><p></p><p>In <a href=\"https://guardianbookshop.com/green-eggs-and-ham-9780007355914/\">Dr Seuss’s Green Eggs and Ham</a>, the relentlessly upbea",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
+      "url": "https://www.theguardian.com/books/2026/sep/27/does-avoiding-misery-make-you-happy"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1885 —",
+      "hook": "The first practical public electric tramway in the world is opened in Blackpool, England.",
+      "body": "The Blackpool Tramway runs from Blackpool to Fleetwood on The Fylde in Lancashire, England. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/26/Blackpool_Tramway_logo.svg/330px-Blackpool_Tramway_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Blackpool_Tramway"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2009 —",
+      "hook": "The 8.1 Mw Samoa earthquake results in a tsunami that kills over 189 and injures hundreds.",
+      "body": "The 2009 Samoa earthquake and tsunami took place on 29 September 2009 in the southern Pacific Ocean adjacent to the Tonga–Kermadec subduction zone. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2009_Samoa_earthquake_and_tsunami"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
-      "body": "<p>This over-controlled adventure never takes a breath or a moment to let its characters come to life</p><p>Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me ano",
+      "hook": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
+      "body": "<p>Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley &amp; Me</p><p>One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from scree",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks"
+      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Brunist Day of Wrath is Robert Coover's tenth novel.",
+      "body": "The Brunist Day of Wrath is set five years later, as the cult returns to West Condon. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/dc/Robert_Coover%2C_Day_of_Wrath%2C_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Brunist_Day_of_Wrath"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in September: new paperbacks from Margaret Atwood, Kiran Desai and Richard Holmes",
-      "body": "<p>Looking for a new reading recommendation? Here are some great new paperbacks, from an epic multigenerational saga by a Booker winner to a biography of an iconic Victorian poet</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-i",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/18/the-best-books-to-read-in-september-new-paperbacks-from-margaret-atwood-kiran-desai-and-richard-holmes"
+      "opener": "Screen Daily —",
+      "hook": "Spanish Oscar entry ‘La Bola Negra’ breaks local box office records",
+      "body": "Elastica Films sold more than 600,000 tickets in three days for Los Javis’ epic.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/spanish-oscar-entry-la-bola-negra-breaks-local-box-office-records/5220847.article"
     }
   ]
 }
