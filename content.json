@@ -1,199 +1,179 @@
 {
-  "generated": "2026-09-30T14:17:24.871Z",
-  "count": 20,
+  "generated": "2026-09-30T19:40:29.217Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1938 —",
-      "hook": "The League of Nations unanimously outlaws \"intentional bombings of civilian populations\".",
-      "body": "The League of Nations was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg/330px-Flag_of_the_League_of_Nations_%281939%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Britain, France, Germany and Italy sign the Munich Agreement, whereby Germany annexes the Sudetenland region of Czechoslovakia.",
+      "body": "The Munich Agreement was reached in Munich on 30 September 1938, by Nazi Germany, the United Kingdom, France, and Italy. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Munich_Agreement_Bundesarchiv_Bild_183-R69173.jpg/330px-Munich_Agreement_Bundesarchiv_Bild_183-R69173.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/League_of_Nations"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Isabella Macdonald Alden was an American author.",
-      "body": "Her best known works were: Four Girls at Chautauqua, Chautauqua Girls at Home, Tip Lewis and his Lamp, Three People, Links in Rebecca's Life, Julia Ried, Ruth Erskine's Crosses, The King's Daughter, The Browning Boys, From Different Standpoints, Mrs. Worth a q",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Isabella_Macdonald_Alden%2C_aka_Pansy%2C_aka_Mrs._G._R._Alden%2C_c._1886.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Isabella_Macdonald_Alden"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1941 —",
-      "hook": "World War II: The Babi Yar massacre comes to an end.",
-      "body": "Babi Yar or Babyn Yar is a ravine in the Ukrainian capital Kyiv and a site of massacres carried out by Nazi Germany's forces during its campaign against the Soviet Union in World War II. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Babi_Yar-06-194.jpg/330px-Babi_Yar-06-194.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Babi_Yar"
+      "url": "https://en.wikipedia.org/wiki/Munich_Agreement"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Rapture review – cult Spanish horror is a deeply strange cheese dream of cinemania",
-      "body": "<p>Pedro Almodóvar provides a vocal cameo and his style can be traced back to this influential film</p><p>This cult supernatural mystery from 1979 is a deeply strange cheese dream of a film from Spain, in which almost the entire opening 10 ",
+      "hook": "Post your questions for Michael Winterbottom",
+      "body": "<p>With us to mark the 24th anniversary of 24 Hour Party People, the director’s work includes everything from Cracker to A Cock and Bull Story, Wonderland to Welcome to Sarajevo. And, of course, The Trip</p><p>Of course, the 90s couldn’t be",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/30/rapture-review-cult-spanish-horror-pedro-almodovar"
+      "url": "https://www.theguardian.com/film/2026/sep/30/post-your-questions-for-michael-winterbottom"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: the Germans commence a counter offensive to retake the Nijmegen salient, this having been captured by the allies during Operation Market Garden.",
+      "body": "The Battle of the Nijmegen salient or the Defence of the Nijmegen bridgehead was a series of engagements that took place in the Netherlands during World War II between 30 September and 8 October 1944. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/The_British_Army_in_North-west_Europe_1944-45_B10171.jpg/330px-The_British_Army_in_North-west_Europe_1944-45_B10171.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Nijmegen_salient"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1919 —",
+      "hook": "The Elaine massacre in Arkansas commences.",
+      "body": "The Elaine massacre occurred on September 30 – October 2, 1919, at Hoop Spur in the vicinity of Elaine in rural Phillips County, Arkansas, where African Americans were organizing against peonage and abuses in tenant farming. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/AR_elaine_riot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Elaine_massacre"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Byzantine music originally consisted of the songs and hymns composed for the courtly and religious ceremonial of the Byzantine Empire and continued, after the fall of Constantinople in 1453, in the traditions of the sung Byzantine chant of Eastern Orthodox liturgy.",
+      "body": "The ecclesiastical forms of Byzantine music are the best known forms today, because different Orthodox traditions still identify with the heritage of Byzantine music, when their cantors sing monodic chant out of the traditional chant books such as the Stichera",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Double_aulos_and_the_oksivafon%2C_detail_from_Vienna%2C_%C3%96sterreichische_Nationalbibliothek%2C_Theol_Greek_31%2C_folio_17v%2C_6th_century.jpg/330px-Double_aulos_and_the_oksivafon%2C_detail_from_Vienna%2C_%C3%96sterreichische_Nationalbibliothek%2C_Theol_Greek_31%2C_folio_17v%2C_6th_century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Byzantine_music"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
+      "body": "<p>This over-controlled adventure never takes a breath or a moment to let its characters come to life</p><p>Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me ano",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Gaza documentary NAZA beats Avengers Endgame: Encore to top Italian box office",
+      "body": "<p>Award-winning, Guardian-produced film focused on Israel’s mass killing of civilians extends run after sold-out screenings</p><p>NAZA, the award-winning documentary about Israel’s systemic mass killing of Palestinian civilians in Gaza, ha",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/30/gaza-documentary-naza-beats-avengers-endgame-encore-to-top-italian-box-office"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "The Great Victorian Collection, published in 1975, is a fantasy novel by Northern Irish-Canadian writer Brian Moore.It tells the story of a man who dreams that the empty parking lot he can see from his hotel window has been transformed by the arrival of a collection of priceless Victoriana on display in a vast open-air market.",
-      "body": "When he awakes he finds that he can no longer distinguish the dream from reality. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/TheGreatVictorianCollection.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Nalinikanta Sarkar was a Bengali literary figure, journalist, poet, singer, literary connoisseur, and prosodist.",
+      "body": "However, he was best known as a composer and singer of comic songs. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Great_Victorian_Collection"
+      "url": "https://en.wikipedia.org/wiki/Nalinikanta_Sarkar"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "The Snow Empress is a 2007 mystery novel written by Laura Joh Rowland, set in the Genroku of historical Japan It is the 12th book in the Sano Ichirō series.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/The_Snow_Empress.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Fluorine etching is a printmaking technique developed by a circle of artists working in Kraków and Warsaw in the first two decades of the twentieth century.",
+      "body": "It is likely that both the detrimental effects on the health of engravers and the fragility of the material resulted in this technique being abandoned. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Snow_Empress"
+      "url": "https://en.wikipedia.org/wiki/Fluorine_etching"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The name comes from its dark orange appearance caused by orange cyanobacteria living on the travertine, the rock that it is made of.",
-      "body": "Orange Mound Spring is one of the several hot springs in Yellowstone National Park. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Orange_Mound_Spring%2C_Yellowstone.jpg/330px-Orange_Mound_Spring%2C_Yellowstone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Orange_Mound_Spring"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
+      "body": "<p><strong>Venice film festival: </strong>Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality</p><p>Lance Oppenheim is the acclaimed documentary-maker who ha",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
+      "body": "<p>Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley &amp; Me</p><p>One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from scree",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: Irvine Welsh, Janice Hallett and Guardian readers on the books they enjoyed in August",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’ve been enjoying <strong>Contrapposto</strong> by Dave Eggers. The premise that love and art are the only t",
+      "hook": "Stations by Louise Kennedy review – a superb follow-up to Trespasses",
+      "body": "<p>This tale of broken hearts and broken people moves from the Troubles of 1980s Northern Ireland to an unforgiving London of squats and payphones</p><p>Louise Kennedy’s first novel, <a href=\"https://www.theguardian.com/books/2022/apr/16/tr",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1906 —",
-      "hook": "The Royal Galician Academy, the Galician language's biggest linguistic authority, is established in La Coruña, Spain.",
-      "body": "The Royal Galician Academy is an institution dedicated to the study of Galician culture and especially the Galician language; it promulgates norms of grammar, spelling, and vocabulary and works to promote the language. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Real_Academia_Galega.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Royal_Galician_Academy"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Cotton Queen review – mystery, matriarchs and magic in pioneering Sudanese debut",
-      "body": "<p>Suzannah Mirghani’s first feature contains a powerful performance by Rabha Mohamed Mahmoud as a village’s elder woman and tackles the long shadow of British imperialism and women’s rights</p><p>‘I decide my past,” says a village matriarc",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/30/cotton-queen-review-sudanese-debut-suzannah-mirghani"
+      "url": "https://www.theguardian.com/books/2026/sep/29/stations-by-louise-kennedy-review-a-superb-follow-up-to-trespasses"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Ion Călugăru was a Romanian novelist, short story writer, journalist, and critic.",
-      "body": "As a figure on Romania's modernist scene throughout the early interwar period, he was noted for combining a picturesque perspective on the rural Jewish-Romanian community, to which he belonged, with traditionalist and avant-garde elements. Worth a quiet trip d",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ion_C%C4%83lug%C4%83ru%2C_prozator.JPG/330px-Ion_C%C4%83lug%C4%83ru%2C_prozator.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ion_C%C4%83lug%C4%83ru"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Prisoner of Blackwood Castle is a lighthearted Victorian supernatural steampunk novel written by Ron Goulart and published in 1984 by Avon Books that features the detective adventurer Harry Challenge.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/81/Cover_of_The_Prisoner_of_Blackwood_Castle.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Prisoner_of_Blackwood_Castle"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Verity review – Dakota Johnson leaves teethmarks as she goes back to Fifty Shades erotic thriller territory",
-      "body": "<p>Anne Hathaway and Josh Hartnett co-star in this unconvincing mystery about a struggling writer who is asked to ghostwrite for a bestselling author</p><p>The nation is crying out for a really enjoyable erotic mystery-thriller, a taste pot",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/30/verity-review-dakota-johnson-anne-hathaway-josh-hartnett"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2009 —",
-      "hook": "The 7.6 Mw Sumatra earthquake leaves 1,115 people dead.",
-      "body": "Two earthquakes occurred in late 2009 off the coast of Sumatra, Indonesia. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Damage_from_the_2009_Padang_earthquake._Indonesia_2009._Photo-_AusAID_%2810690967855%29.jpg/330px-Damage_from_the_2009_Padang_earthquake._Indonesia_2009._Photo-_AusAID_%2810690967855%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2009_Sumatra_earthquakes"
-    },
-    {
-      "type": "card",
-      "cat": "history",
       "opener": "Bet you didn't know —",
-      "hook": "Shane Keith Warne was an Australian international cricketer whose career ran from 1992 to 2007.",
-      "body": "Warne played as a right-arm leg spin bowler and a lower-order right-handed batter for Victoria, Hampshire, the Melbourne Stars and Australia. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Shane_Warne_February_2015.jpg/330px-Shane_Warne_February_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The 2014–15 DFB-Pokal was the 72nd season of the annual German football cup competition.",
+      "body": "It began on 15 August 2014 with the first of six rounds and ended on 30 May 2015 with the final at the Olympiastadion in Berlin. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Shane_Warne"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Abducted, renamed, but still here – the art of the first Native New Yorkers and their fight for their land",
-      "body": "<p>The US tried to forcibly assimilate the Lenape in brutal boarding schools, but a new exhibit proves their modern-day culture is vibrant and alive</p><p>During the 19th century, the US government funded more than 500 “Indian boarding scho",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/native-american-lenape-art-exhibit"
+      "url": "https://en.wikipedia.org/wiki/2014%E2%80%9315_DFB-Pokal"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1947 —",
-      "hook": "The 1947 World Series begins. It is the first to be televised, to include an African-American player, to exceed $2 million in receipts, to see a pinch-hit home run, and to have six umpires on the field.",
-      "body": "The 1947 World Series matched the New York Yankees against the Brooklyn Dodgers. The world is stranger than it lets on.",
+      "opener": "On this day in 1945 —",
+      "hook": "The Bourne End rail crash, in Hertfordshire, England, kills 43.",
+      "body": "The Bourne End rail crash occurred on 30 September 1945 when a sleeper train from Perth to London Euston derailed, killing 43. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1947_World_Series"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Missouri Williams and China Miéville among writers on ‘adventurous’ Goldsmiths shortlist",
-      "body": "<p>Six writers are in contention for the £10,000 books prize, which celebrates fiction that ‘breaks the mould or extends the possibilities of the novel form’</p><p>Missouri Williams, China Miéville and Polly Barton are among the writers sho",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/30/missouri-williams-china-mieville-writers-shortlisted-2026-goldsmiths-prize"
+      "url": "https://en.wikipedia.org/wiki/Bourne_End_rail_crash"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1551 —",
-      "hook": "A coup by the military establishment of Japan's Ōuchi clan forces their lord to commit suicide, and their city is burned.",
-      "body": "The Tainei-ji incident was a coup d'etat in September 1551 led by Sue Takafusa against Ōuchi Yoshitaka, hegemon and shugo daimyō of western Japan, which ended in the latter's forced suicide in Tainei-ji, a temple in Nagato Province. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Nagato_Tainei-ji_Temple._Grave_of_Ouchi_Yoshitaka_and_his_valet.jpg/330px-Nagato_Tainei-ji_Temple._Grave_of_Ouchi_Yoshitaka_and_his_valet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1882 —",
+      "hook": "Thomas Edison's first commercial hydroelectric power plant, the Vulcan Street Plant, begins operation.",
+      "body": "Thomas Alva Edison was an American inventor and businessman known for his work on the incandescent light bulb, the phonograph, electric power distribution and early motion pictures. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tainei-ji_incident"
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Dèy by Edwidge Danticat review – motherhood and trauma in Miami",
-      "body": "<p>The first novel in over a decade from the acclaimed Haitian-American author lacks the power of earlier works</p><p>Dèy, Edwidge Danticat’s first novel in over a decade, begins with a bang. Magnolia, the daughter of Haitian parents now sh",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/30/dey-by-edwidge-danticat-review-motherhood-and-trauma-in-miami"
+      "cat": "history",
+      "opener": "On this day in 1936 —",
+      "hook": "American journalists Herbert R. Ekins, reporter for the New York World-Telegram, Dorothy Kilgallen of the New York Journal and Leo Kieran of The New York Times start the race to travel around the world on commercial airline flights. The race takes 18 ½ days.",
+      "body": "The New York World-Telegram, later known as the New York World-Telegram and The Sun, was a New York City newspaper from 1931 to 1966. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/de/New_York_World-Telegram_8-07-1945.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/New_York_World-Telegram"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Flintstones in Viva Rock Vegas is a 2000 American romantic comedy film directed by Brian Levant, written by Jim Cash, Harry Elfont, Deborah Kaplan, and Jack Epps Jr., and is the standalone prequel to Levant's The Flintstones (1994), based on the 1960–1966 animated television series of the same name.",
+      "body": "The film was developed and produced without the involvement of Steven Spielberg, the executive producer of Levant's The Flintstones (1994). One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d1/Flintstonesmov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Flintstones_in_Viva_Rock_Vegas"
     }
   ]
 }
