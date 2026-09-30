@@ -1,24 +1,123 @@
 {
-  "generated": "2026-09-30T01:40:27.674Z",
-  "count": 15,
+  "generated": "2026-09-30T07:33:48.864Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Cherise Saywell wins national short story award for ‘tender’ tale of a child facing violence – read an extract here",
-      "body": "<p>The Edinburgh-based writer takes £15,000 prize for Ditto, a ‘beautifully told’ story about domestic abuse in a small Australian town</p><ul><li><p><strong>Read an extract from Ditto below</strong></p></li></ul><p>Edinburgh-based writer C",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/29/cherise-saywell-wins-bbc-short-story-award-ditto"
+      "opener": "The Guardian · Film —",
+      "hook": "How Deep Is Your Love review – under the sea at Earth’s last frontier with the Psychedelic Elvis Worm",
+      "body": "<p>Film-maker Eleanor Mortimer accompanies a scientific expedition to the deep Pacific, where new creatures are abundant yet threatened by sea mining</p><p>For the marine biologists in this whimsical eco-documentary, the answer is about 500",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/30/how-deep-is-your-love-review-nature-doc-eleanor-mortimer"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1919 —",
+      "hook": "The Elaine massacre in Arkansas commences.",
+      "body": "The Elaine massacre occurred on September 30 – October 2, 1919, at Hoop Spur in the vicinity of Elaine in rural Phillips County, Arkansas, where African Americans were organizing against peonage and abuses in tenant farming. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/AR_elaine_riot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Elaine_massacre"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1744 —",
+      "hook": "War of the Austrian Succession: France and Spain defeat Sardinia at the Battle of Madonna dell'Olmo, but soon have to withdraw from Sardinia.",
+      "body": "The War of the Austrian Succession, 1740 to 1748, was a conflict between the European great powers, fought primarily in Europe, the Atlantic Ocean and Mediterranean Sea. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/War_of_The_Austrian_Succesion_Collage_1.jpg/330px-War_of_The_Austrian_Succesion_Collage_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Pandora’s Legacy review – fascinating profile of silent film legend GW Pabst",
-      "body": "<p>Through intimate letters and family interviews, this probing documentary about the Austrian film-maker reveals a complicated figure</p><p>A titan of silent cinema, Austrian director GW Pabst left behind a treasure trove of classics. Work",
+      "hook": "SKF advert review – let’s hope this dull AI Greta Garbo is not the future",
+      "body": "<p>Swedish-American actor exhumed for bizarre, humourless 99 seconds that give us another reason to resent AI</p><p>Poor Greta Garbo.</p><p>Perhaps, in life, she thought her final indignity would be the Peter Cook and Dudley Moore TV sketch",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/28/pandoras-legacy-review-probing-profile-of-silent-film-legend-gw-pabst"
+      "url": "https://www.theguardian.com/film/2026/sep/30/skf-advert-review-lets-hope-this-dull-ai-greta-garbo-is-not-the-future"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Kurt Friedrich Gödel was a logician, mathematician, cosmologist, and philosopher.",
+      "body": "Considered along with Aristotle and Gottlob Frege to be one of the most significant logicians in history, Gödel profoundly influenced scientific and philosophical thinking in the 20th century, building on earlier work by Frege, Richard Dedekind, and Georg Cant",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kurt_g%C3%B6del.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kurt_G%C3%B6del"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1938 —",
+      "hook": "The League of Nations unanimously outlaws \"intentional bombings of civilian populations\".",
+      "body": "The League of Nations was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg/330px-Flag_of_the_League_of_Nations_%281939%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/League_of_Nations"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2000 —",
+      "hook": "Israeli–Palestinian conflict: Twelve-year-old Muhammad al-Durrah is shot and killed on the second day of the Second Intifada.",
+      "body": "Israel and the Palestinians are engaged in an ongoing military and political conflict about land and self-determination within the former territory of Mandatory Palestine. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Occupied_Palestinian_Territories.jpg/330px-Occupied_Palestinian_Territories.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Science begins for Smile",
+      "body": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 1",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Shell plc is a British multinational oil and gas company, headquartered in London, England.",
+      "body": "Shell is a public limited company with a primary listing on the London Stock Exchange (LSE) and secondary listings on Euronext Amsterdam and the New York Stock Exchange. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/330px-Shell_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shell_plc"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The 1951 Lehigh Engineers football team was an American football team that represented Lehigh University as an independent during the 1951 college football season.",
+      "body": "Lehigh won the Middle Three Conference championship for the second year in a row. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1951_Lehigh_Engineers_football_team"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Ben Hur or Benhur is an unincorporated community in Limestone County, Texas, United States, located about 25 miles east of Waco.",
+      "body": "Named \"Cottonwood\" when it was founded in the late 19th century, it changed its name to \"Ben Hur\" in 1895, because several other communities in Texas were named \"Cottonwood.\" A post office was located there from 1895 until 1906. One of those things you can't u",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ben_Hur%2C_Texas"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Dugard is an English surname, probably coming from the French dieu (te) garde, via the surnames Dieutegarde, Deugard and du Gard.",
+      "body": "People with the surname include:Jaycee Dugard, 1991 American kidnapping victim John Dugard, South African professor of international law Martin Dugard (author), American author Martin Dugard, former British motorcycle speedway rider Robert Dugard (1942–2018), ",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dugard"
     },
     {
       "type": "card",
@@ -31,119 +130,70 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Morning After and also as Drunkard Morning, is a novel by Iranian author Fattaneh Haj Seyed Javadi, first published in 1995.",
-      "body": "The story depicts a tragic love between a young aristocratic woman and a carpenter from the lower class. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8d/The_Morning_After_novel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Morning_After_(novel)"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Range by Dorthe Nors review – an astrophysicist at odds with reality",
-      "body": "<p>In the Danish writer’s latest novel, an eminent scientist withdraws to the countryside</p><p>When Gunn Haven, an eminent professor of astrophysics at an urban university, moves to rural Denmark, she tells a local newspaper: “It’s to do w",
+      "hook": "On the Equality of All Things by Carlo Rovelli review – a physicist’s guide to life, the universe and everything",
+      "body": "<p>Near-mystical musings from a scientist who believes we are on the brink of a revolution in understanding ourselves</p><p>Under the letter “B” in the index at the back of Carlo Rovelli’s latest book you will find Francis Bacon, bats, beha",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/28/range-by-dorthe-nors-review-an-astrophysicist-at-odds-with-reality"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Ghamka Pailaharu is a 1979 Nepali novel by Dha.",
-      "body": "The novel depicts the day–to–day life of a nameless town in Tarai region of Nepal, loosely based on Birgunj. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Ghamka_Pailaharu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ghamka_Pailaharu"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Diefenbach is an Ortsgemeinde – a municipality belonging to a Verbandsgemeinde, a kind of collective municipality – in the Bernkastel-Wittlich district in Rhineland-Palatinate, Germany.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Diefenbach_in_WIL.svg/330px-Diefenbach_in_WIL.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Diefenbach"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Youth Without Youth is a 1976 novella by Romanian author Mircea Eliade.",
-      "body": "It follows the life of Dominic Matei, an elderly Romanian intellectual who experiences a cataclysmic event that allows him to live a new life with startling intellectual capacity. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/2f/Youth_Without_Youth_%28novella%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Youth_Without_Youth_(novella)"
+      "url": "https://www.theguardian.com/books/2026/sep/30/on-the-equality-of-all-things-by-carlo-rovelli-review-a-physicists-guide-to-life-the-universe-and-everything"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "Okay, this one's fun —",
-      "hook": "The hotel is considered amongst the first resorts to be built in both Sanur and Bali, and also amongst the first boutique hotels to be established in South East Asia.",
-      "body": "Tandjung Sari is a boutique hotel located in the Sanur district of Denpasar, Bali. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/78/Tandjung_Sari_Logo.svg/330px-Tandjung_Sari_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Completed in 1901, it is a good example of a vernacular house built for immigrant mill workers.",
+      "body": "The Raubold House is a historic house on Chesham Road in Harrisville, New Hampshire. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HarrisvilleNH_RauboldHouse.jpg/330px-HarrisvilleNH_RauboldHouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tandjung_Sari"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Deep into the Sixties: Britain 1965-66 by David Kynaston review – a tour de force of popular history",
-      "body": "<p>From the Beatles and the World Cup to racism and homophobia, the latest instalment in Kynaston’s series captures a society in the throes of change</p><p>In February 1965, the civil rights activist Malcolm X visited Smethwick, in the Midl",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/28/deep-into-the-sixties-britain-1965-66-by-david-kynaston-review-beatles-bigots-and-streets-in-the-sky"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Beth de Araújo talks Sundance winner ‘Josephine’, Brazil ties, and why she identifies with outsiders",
-      "body": "“There is violence against women across the board in every single country,” says Brazilian-American filmmaker.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/beth-de-araujo-talks-sundance-winner-josephine-brazil-ties-and-why-she-identifies-with-outsiders/5220802.article"
+      "url": "https://en.wikipedia.org/wiki/Raubold_House"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The V-STOL Solution is an American ultralight aircraft that was designed by Dick Turner in 1998 and produced by V-STOL Aircraft.",
-      "body": "The aircraft was supplied as a kit for amateur construction. The world is stranger than it lets on.",
+      "opener": "On this day in 2016 —",
+      "hook": "Hurricane Matthew becomes a Category 5 hurricane, making it the strongest hurricane to form in the Caribbean Sea since 2007.",
+      "body": "Hurricane Matthew was a powerful and devastating tropical cyclone which caused catastrophic damage and a humanitarian crisis in Haiti, as well as widespread devastation across Cuba, the Bahamas, and the southeastern United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Matthew_2016-10-01_0225Z.png/330px-Matthew_2016-10-01_0225Z.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hurricane_Matthew"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It proclaimed on 10 October 1947; at the time of its creation its member councils were Cudgegong Shire, Gulgong Shire, Rylstone Shire and Mudgee Municipality.",
+      "body": "Mid-Western County Council was a county council in the Australian state of New South Wales, responsible for the management of noxious weeds. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/V-STOL_Solution"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Obama Identity: A Novel is a 2010 novel written by Edward Klein and former Republican United States Representative John LeBoutillier.",
-      "body": "Among other things, the book explores and promotes the Barack Obama citizenship conspiracy theories and Barack Obama religion conspiracy theories in the form of a novel. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Obama_Identity.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Obama_Identity"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Shining Darkness is a BBC Books original novel written by Mark Michalowski and based on the long-running science fiction television series Doctor Who.",
-      "body": "It features the Tenth Doctor and Donna Noble. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Shining_Darkness.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Shining_Darkness"
+      "url": "https://en.wikipedia.org/wiki/Mid-Western_County_Council"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Patricio Guzmán obituary",
-      "body": "<p>Chilean film-maker whose trilogy on Augusto Pinochet’s coup brought him to international attention</p><p>Hawker Hunter jets bomb the presidential palace in the Chilean capital, Santiago, setting it ablaze. It is 11 September 1973, and <a",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/29/patricio-guzman-obituary"
+      "opener": "New Scientist —",
+      "hook": "The astonishing collective impact of household energy shifts",
+      "body": "A subtle change in household power habits could eliminate the need to build new gas power plants, say researchers studying energy usage",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2590199-the-astonishing-collective-impact-of-household-energy-shifts/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1939 —",
+      "hook": "World War II: General Władysław Sikorski becomes prime minister of the Polish government-in-exile.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘They’ll never bring us dowwwwwwwn!’ Wicked’s stars pick their favourite songs from the smash hit",
+      "body": "<p>The musical powerhouse has spawned huge hits, but which do its troupers love to belt out – even for the 1,700th time? From Broadway legend Idina Menzel to composer Stephen Schwartz, they reveal all</p><p><em><strong>Idina Menzel</strong>",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/stage/2026/sep/30/wicked-stars-favourite-songs-idina-menzel-stephen-schwartz-broadway"
     }
   ]
 }
