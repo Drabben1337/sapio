@@ -1,129 +1,119 @@
 {
-  "generated": "2026-10-01T16:43:19.783Z",
-  "count": 13,
+  "generated": "2026-10-01T21:26:22.015Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The station was the location of a three-way junction with platforms on two of the lines.",
-      "body": "St Dunstans railway station is a closed station in the city of Bradford, West Yorkshire, England. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Dunstan_Curve_Bradford_-_geograph.org.uk_-_1464135.jpg/330px-Dunstan_Curve_Bradford_-_geograph.org.uk_-_1464135.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Sexual assault case dismissed against Trailer Park Boys actor Mike Smith",
+      "body": "Actor Mike Smith had been charged with sexual assault in 2025 for an alleged incident in 2017.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyzykel653o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
+      "body": "<p><strong>Toronto film festival:</strong> the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama</p><p>Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill ki",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
+      "body": "There is paranoia, confusion and a battle to survive among the celebrities as they fight for survival.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Joe 90 is a British science fiction television series created by Gerry and Sylvia Anderson and filmed by their production company, Century 21, for ITC Entertainment.",
+      "body": "It follows the exploits of nine-year-old schoolboy Joe McClaine, who becomes a spy after his adoptive father invents a device capable of recording expert knowledge and experience and transferring it to another human brain. One of those things you can't un-know",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/Joe_90_titlescreen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/St_Dunstans_railway_station"
+      "url": "https://en.wikipedia.org/wiki/Joe_90"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "First Glastonbury 2027 tickets sell out",
+      "body": "Coach tickets for the 2027 festival are all snapped up in under 30 minutes.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cv62kp9enz08o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Derek vs Derek review – farmers go head to head in rewilding rivalry with real bite",
-      "body": "<p>Two Devon neighbours face off over the future of the countryside in this warm, wry documentary about farming, conservation and some troublesome wild boar</p><p></p><p>This ebulliently accessible but never tacky British documentary finds ",
+      "hook": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
+      "body": "<p>Team behind documentary push back against IDF attempt to discredit its exposure of military systems</p><p>The team behind the award-winning film NAZA, which details the Israeli military’s targeting policies in Gaza and its alleged accept",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/01/derek-vs-derek-review-a-rewilding-rivalry-with-real-bite"
+      "url": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘These early friendships are huge romances’: Extra Geography’s lessons in teenage love",
-      "body": "<p>Rose Tremain, along with the cast and crew of a new film updating her 1950s story to the early 00s, remember the intensity of these relationships and explain why its story has not dated</p><p>A few years ago, Rose Tremain was asked to na",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/01/extra-geography-rose-tremain-miriam-batteye-molly-manners"
+      "opener": "The Guardian · Books —",
+      "hook": "Missouri Williams and China Miéville among writers on ‘adventurous’ Goldsmiths shortlist",
+      "body": "<p>Six writers are in contention for the £10,000 books prize, which celebrates fiction that ‘breaks the mould or extends the possibilities of the novel form’</p><p>Missouri Williams, China Miéville and Polly Barton are among the writers sho",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/30/missouri-williams-china-mieville-writers-shortlisted-2026-goldsmiths-prize"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Nicolas Cage calls Marvel movies ‘a glorified WWE’ with over-50s in ‘ridiculous outfits’",
-      "body": "<p>Star of Spider-Noir told fan convention he ‘spoke with love’ at seeing gifted actors for ever gearing up for superhero fight scenes</p><p>Nicolas Cage, whose recent credits include the Sony Marvel series Spider-Noir, has criticised the M",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/01/nicolas-cage-marvel-movies-glorified-wwe-ridiculous-outfits"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tourette syndrome campaigner John Davidson to watch Bafta Scotland awards in separate ‘relaxed’ space",
-      "body": "<p>Decision follows independent review into handling of February ceremony, where his involuntary tics caused a BBC crisis</p><p>John Davidson, the Tourette syndrome campaigner whose outburst at the British Academy film awards in February <a",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/01/tourette-syndrome-campaigner-john-davidson-to-watch-bafta-scotland-awards-in-separate-relaxed-space"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Don’t hate the movie, hate the critic! Digger’s new PR push is a risky bet for film that was never meant to be divisive",
-      "body": "<p>‘SAME FILM – DIFFERENT TRUTH’ is the marketing solution for the film’s poor reception by critics. Or, as Cruise says in the ad, ‘Fuck those people!’ </p><p>‘You know what? Fuck those people!” The speaker is Tom Cruise in his serious-fats",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/01/digger-ad-tom-cruise-movie"
+      "opener": "The Guardian · Books —",
+      "hook": "Dèy by Edwidge Danticat review – motherhood and trauma in Miami",
+      "body": "<p>The first novel in over a decade from the acclaimed Haitian-American author lacks the power of earlier works</p><p>Dèy, Edwidge Danticat’s first novel in over a decade, begins with a bang. Magnolia, the daughter of Haitian parents now sh",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/sep/30/dey-by-edwidge-danticat-review-motherhood-and-trauma-in-miami"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "The Church of South India (CSI) is a united Protestant Church in India.",
-      "body": "It is the result of union of a number of Protestant denominations in South India that occurred after the independence of India. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Church_of_South_India.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Life and Loves of a She-Devil is a 1983 novel by British feminist author Fay Weldon.",
+      "body": "A story about a highly unattractive woman who goes to great lengths to take revenge on her husband and his attractive lover, Weldon stated that the book is about envy, rather than revenge. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/The_Life_and_Loves_of_a_She-Devil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Church_of_South_India"
+      "url": "https://en.wikipedia.org/wiki/The_Life_and_Loves_of_a_She-Devil"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Life's Shop Window is a 1914 American silent drama film directed by J.",
+      "body": "Gordon Edwards and starring Claire Whitney and Stuart Holmes. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Life%27s_shop_window_still.jpg/330px-Life%27s_shop_window_still.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Life's_Shop_Window"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Cavalier's Cup, first published in 1953, is a mystery novel by the American writer John Dickson Carr (1906–1977), who published it under the name of Carter Dickson.",
+      "body": "It is a locked room mystery and the final appearance in novel form of the series detective Sir Henry Merrivale and his long-time associate, Scotland Yard's Chief Inspector Humphrey Masters. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/CavaliersCup_%28Morrow%2C_1953%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Cavalier's_Cup"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Project of Heart is a collaborative art based education project designed to teach about the history of Indigenous people in Canada.",
-      "body": "The initiative aims to foster reconciliation, commemorate those students who died as a result of residential schools, and encourage social justice among Canadians. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "Jiang Ping, courtesy name Zechang, is a fictional Song dynasty knight-errant from the 19th-century Chinese novels The Seven Heroes and Five Gallants and The Five Younger Gallants.",
+      "body": "Nicknamed \"River Rat\" or \"River-Overturning Rat\" (翻江鼠) for his amazing swimming and freediving skills, he is able to stay underwater seemingly forever. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Jiangping_1896.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Project_of_Heart"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Battle of Bouin took place on 6 December 1793 during the War in the Vendée.",
-      "body": "It occurred on the island of Bouin and opposed Republican troops of the Army of the West to Vendéan forces commanded by François de Charette. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Bouin_Notre-Dame-de-l%27Assomption.png/330px-Bouin_Notre-Dame-de-l%27Assomption.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Bouin"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Wind of Change is a podcast documentary that debuted on May 11, 2020.",
-      "body": "It was hosted by Patrick Radden Keefe and co-produced by Pineapple Street Media, Crooked Media, and Spotify. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wind_of_Change_(podcast)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "On 8 March 1985, a car bomb exploded between 9 and 45 metres from the house of Shia cleric Sayyed Mohammad Hussein Fadlallah in Beirut, Lebanon, in a failed assassination attempt by a Lebanese counter-terrorism unit linked to the Central Intelligence Agency.",
-      "body": "The bombing killed up to 80 people and injured up to 200. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/fe/Bir_al-Abed_massacre.PNG/330px-Bir_al-Abed_massacre.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1985_Beirut_car_bombings"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Last First: Winter K2 review – race up second highest mountain reveals fatal cost of human ambition",
-      "body": "<p>Amir Bar-Lev’s doc covering competing climbers trying to achieve something that has not been done before uncovers a fascinating tapestry of aspiration and folly</p><p>During the Covid pandemic in 2021, a “last first” in mountaineering wa",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/01/the-last-first-winter-k2-review-race-up-second-highest-mountain-reveals-fatal-cost-of-regrettable-traits"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Sex, drugs and amoebic dysentery: the 20 best making-of documentaries – ranked!",
-      "body": "<p>From tropical disasters and doomed sci-fi epics to bribing Orson Welles and fending off a puma, we rate cinema’s most revealing glimpses behind the scenes</p><p>Behind-the-scenes footage from Dawn of the Dead is the highlight of this afi",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/01/20-best-making-of-documentaries-ranked"
+      "url": "https://en.wikipedia.org/wiki/Jiang_Ping_(character)"
     }
   ]
 }
