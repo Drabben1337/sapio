@@ -1,119 +1,239 @@
 {
-  "generated": "2026-10-01T02:35:10.369Z",
-  "count": 12,
+  "generated": "2026-10-01T09:28:02.520Z",
+  "count": 24,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2015 —",
+      "hook": "Heavy rains trigger a major landslide in Guatemala, killing 280 people.",
+      "body": "On October 1, 2015, heavy rains triggered a major landslide in the village of El Cambray Dos within Santa Catarina Pinula, Guatemala—15 km (9.3 mi) east of Guatemala City, killing at least 280 people and leaving dozens unaccounted for across the village. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Guatemala_in_Guatemala.svg/330px-Guatemala_in_Guatemala.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2015_Guatemala_landslide"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1964 —",
+      "hook": "Japanese Shinkansen (\"bullet trains\") begin high-speed rail service from Tokyo to Osaka.",
+      "body": "The Shinkansen , colloquially known in English as the bullet train, is a network of primarily high-speed railway lines in Japan. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Shinkansen_map_202405_en.png/330px-Shinkansen_map_202405_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1961 —",
+      "hook": "The CTV Television Network, Canada's first private television network, is launched.",
+      "body": "The CTV Television Network, commonly known as CTV, is a Canadian English-language terrestrial television network. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/CTV_Television_Network"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Weaver's Scar: For Our Rwanda is the first young adult novel written in English and for an American audience that deals directly with the Rwandan genocide of 1994.",
+      "body": "It was written by Brian Crawford and published in 2013 by Royal Fireworks Press, the novel was the recipient of the 2014 Skipping Stones Honor Award for Multicultural and International Books; VOYA Magazine also awarded the novel a place in its 2014 Top Shelf F",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/The_Weaver%27s_Scar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Weaver's_Scar%3A_For_Our_Rwanda"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2024 —",
+      "hook": "Israel invaded Southern Lebanon, marking the fifth Israeli invasion of Lebanon since 1978.",
+      "body": "Israel, officially the State of Israel, is a country in the Southern Levant region of West Asia. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/330px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Israel"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Knife: The Attempted Murder of Salman Rushdie review – terrifying and inspiring story of survival",
+      "body": "<p>Alex Gibney’s documentary follows the celebrated author’s life up to and after the attack, but what shines through is Rushdie’s remarkable courage</p><p>The terrifying, inspiring story of how Salman Rushdie survived and thrived after the",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/01/knife-the-attempted-of-salman-rushdie-review-terrifying-and-inspiring-story-of-survival"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2019 —",
+      "hook": "Kuopio school stabbing: One dies and ten are injured when Joel Marin, armed with a sabre, attacks a school class at Savo Vocational College in Kuopio, Finland.",
+      "body": "On 1 October 2019, 24-year-old student Joel Otto Aukusti Marin fatally stabbed a female student and wounded 11 others at Savo Vocational College, located in the premises of Herman Shopping Center in Kuopio, North Savo, Finland. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2019_Kuopio_college_stabbing"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2015 —",
+      "hook": "The American cargo vessel SS El Faro sinks with all of its 33 crew after steaming into the eyewall of Hurricane Joaquin.",
+      "body": "SS El Faro was a United States-flagged, combination of roll-on/roll-off and lift-on/lift-off cargo ship crewed by U.S. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/01/El_Faro_ship.jpg/330px-El_Faro_ship.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/SS_El_Faro"
+    },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "The Fall of the West by Owen Jones review – a bracing history of the changing world order",
-      "body": "<p>A journalist charts a quarter century of geopolitical hubris and economic overreach </p><p>Like many Britons born in the 1980s, the journalist and Guardian columnist Owen Jones came of age with Tony Blair’s platitudes ringing in his ears",
+      "hook": "Dodge City by Patrick deWitt review – a wild draft-dodging road trip",
+      "body": "<p>This tale of a 60s college dropout driving across the US to avoid being sent to Vietnam is committed to both readerly pleasure and literary artifice</p><p>Patrick deWitt broke through with a western, 2011’s Booker-shortlisted <a href=\"ht",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/29/the-fall-of-the-west-by-owen-jones-review-a-bracing-history-of-the-changing-world-order"
+      "url": "https://www.theguardian.com/books/2026/oct/01/dodge-city-by-patrick-dewitt-review-a-wild-draft-dodging-road-trip"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Archko Volume or Archko Library is a 19th-century volume containing what purports to be a series of reports from Jewish and pagan sources contemporary with Jesus that relate to the biblical texts describing his life.",
-      "body": "The work went through a number of versions and has remained in print ever since. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "A professional mixed martial artist since 1997, he has also competed for M-1 Global, ProFC, IAFC, Bellator FC, KSW and YAMMA Pit Fighting.",
+      "body": "Aleksei Alexeyevich Oleinik is a retired Russian mixed martial artist and combat sambo practitioner. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Oliynyk_Oleksij.jpg/330px-Oliynyk_Oleksij.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Archko_Volume"
+      "url": "https://en.wikipedia.org/wiki/Aleksei_Oleinik"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "Festival do Rio head Ilda Santiago on how Brazilian cinema’s elite profile is fuelling growth",
-      "body": "Fest (October 1-11) will open with Cannes award-winner, Spanish Oscar submission ‘La Bola Negra’.",
+      "hook": "Tokyo film festival reveals 2026 lineup including 15-strong Competition selection",
+      "body": "Revealing its full lineup also included titles in the Asian Future and Nippon Cinema Now competitive strands.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/festival-do-rio-head-ilda-santiago-on-how-brazilian-cinemas-elite-profile-is-fuelling-growth/5220888.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Anglo-Saxons got special treatment in medieval Rome",
-      "body": "A small hoard of medieval English coins found near the Vatican in Rome suggests that early English residents held a privileged status in the holy city",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2591306-anglo-saxons-got-special-treatment-in-medieval-rome/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Dodsworth is a three-act play by Sidney Howard based on the 1929 novel by Sinclair Lewis.",
-      "body": "Through the title character, it examines the differences between American and European intellect, manners, and morals. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dodsworth-Play-FE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dodsworth_(play)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Paramount-WBD merger approved; David Ellison names Ynon Kreiz co-CEO",
-      "body": "Merger expected to close next week.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/paramount-wbd-merger-approved-david-ellison-names-ynon-kreiz-co-ceo/5220927.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
-      "body": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner for assisted dying.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Urth of the New Sun is a 1987 science fiction novel by Gene Wolfe that serves as a coda to his four-volume Book of the New Sun series.",
-      "body": "Like Book of the New Sun, it is of the Dying Earth subgenre. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b7/TheUrthOfTheNewSun%281stEd%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Urth_of_the_New_Sun"
+      "url": "https://www.screendaily.com/news/tokyo-film-festival-reveals-2026-lineup-including-15-strong-competition-selection/5220926.article"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Out of Shadows is a 2010 children's historical novel by Jason Wallace, published by Andersen Press on 28 January 2010.",
-      "body": "Set in 1980s Zimbabwe, the story follows white teenager Robert Jacklin at a prestigious boarding school as he confronts bullying, anti-black racism, his own morality and the political instability of the time. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/63/Out_of_Shadows_%28Jason_Wallace%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Winter of Fire is a young adult fantasy novel by New Zealand author Sherryl Jordan, set in a bleak future environment.",
+      "body": "It was first published in 1992. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/00/Winteroffire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Out_of_Shadows"
+      "url": "https://en.wikipedia.org/wiki/Winter_of_Fire"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "BBC needs funding reform, but broadcaster should not overspend on international hits, MPs say",
+      "body": "The issue is one of several raised by an influential committee as debate about the BBC's future continues.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Sabina Berman Goldberg is a Mexican writer and journalist.",
+      "body": "Her work deals mainly with issues related to diversity and its obstacles. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Close_up_Sabina_Berman_%28cropped%29.jpg/330px-Close_up_Sabina_Berman_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sabina_Berman"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Celebrity Traitors is back - here's what you need to know ahead of the first show",
+      "body": "Maya Jama, Michael Sheen and Bella Ramsey are among this year's celebrities taking part in the show.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxvnpy7e49o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Andrew Moran Greeley was an American Catholic priest, sociologist, journalist and novelist.",
+      "body": "He was a professor of sociology at the University of Arizona and the University of Chicago, and a research associate with the National Opinion Research Center (NORC). One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Greeley"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Tributes paid to 'inspirational' presenter and campaigner Esther Rantzen",
+      "body": "Dame Esther Rantzen was \"an inspirational individual\", the director of her Childline helpline says.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wjwxg3e74o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Dizzy is a 2004 children's novel written by British novelist Cathy Cassidy.",
+      "body": "It is Cassidy's first published novel. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/Dizzy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dizzy_(novel)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Patrick Radden Keefe’s bestseller London Falling shortlisted for Baillie Gifford prize",
-      "body": "<p>The acclaimed American journalist, who won the nonfiction prize in 2021, is shortlisted alongside Andrea Wulf and Matthew Sweet</p><p>Former Baillie Gifford winner Patrick Radden Keefe is among the authors shortlisted for the 2026 prize,",
+      "hook": "Cherise Saywell wins national short story award for ‘tender’ tale of a child facing violence – read an extract here",
+      "body": "<p>The Edinburgh-based writer takes £15,000 prize for Ditto, a ‘beautifully told’ story about domestic abuse in a small Australian town</p><ul><li><p><strong>Read an extract from Ditto below</strong></p></li></ul><p>Edinburgh-based writer C",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/01/baillie-gifford-prize-shortlist-patrick-radden-keefe-matthew-sweet-london-falling"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Digger’ review: Tom Cruise fails to convince as a bullish Texas oilman in Alejandro G. Iñárritu’s ambitious misfire",
-      "body": "John Goodman, Riz Ahmed and Sandra Hüller also star in Iñárritu’s audacious, shallow satire",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/digger-review-tom-cruise-fails-to-convince-as-a-bullish-texas-oilman-in-alejandro-g-inarritus-ambitious-misfire/5220616.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "At the Back of the North Wind is a children's book written by Scottish author George MacDonald.",
-      "body": "It was serialized in the children's magazine Good Words for the Young beginning in 1868 and was published in book form in 1871. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/At_the_back_of_the_North_Wind_%281919%29_%2814730239036%29.jpg/330px-At_the_back_of_the_North_Wind_%281919%29_%2814730239036%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/At_the_Back_of_the_North_Wind"
+      "url": "https://www.theguardian.com/books/2026/sep/29/cherise-saywell-wins-bbc-short-story-award-ditto"
     }
   ]
 }
