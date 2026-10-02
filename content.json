@@ -1,53 +1,7 @@
 {
-  "generated": "2026-10-01T21:26:22.015Z",
-  "count": 12,
+  "generated": "2026-10-02T01:07:16.233Z",
+  "count": 19,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Sexual assault case dismissed against Trailer Park Boys actor Mike Smith",
-      "body": "Actor Mike Smith had been charged with sexual assault in 2025 for an alleged incident in 2017.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyzykel653o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
-      "body": "<p><strong>Toronto film festival:</strong> the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama</p><p>Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill ki",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
-      "body": "There is paranoia, confusion and a battle to survive among the celebrities as they fight for survival.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Joe 90 is a British science fiction television series created by Gerry and Sylvia Anderson and filmed by their production company, Century 21, for ITC Entertainment.",
-      "body": "It follows the exploits of nine-year-old schoolboy Joe McClaine, who becomes a spy after his adoptive father invents a device capable of recording expert knowledge and experience and transferring it to another human brain. One of those things you can't un-know",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/Joe_90_titlescreen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Joe_90"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "First Glastonbury 2027 tickets sell out",
-      "body": "Coach tickets for the 2027 festival are all snapped up in under 30 minutes.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cv62kp9enz08o?at_medium=RSS&at_campaign=rss"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -56,6 +10,74 @@
       "body": "<p>Team behind documentary push back against IDF attempt to discredit its exposure of military systems</p><p>The team behind the award-winning film NAZA, which details the Israeli military’s targeting policies in Gaza and its alleged accept",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
+      "body": "<p>This over-controlled adventure never takes a breath or a moment to let its characters come to life</p><p>Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me ano",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Daniel Keauhou Matsu Yamashiro is an American author, guest lecturer at Harvard, a chaplain at MIT, researcher, clergyman, and podcast host who survived a 400-foot (120-meter) fall from the Nuʻuanu Pali ridge in Honolulu, Hawaii, at 18.",
+      "body": "He is the first scholar to present aggregate data on childhood trauma as it relates to American presidents. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Yamashiro_in_Brookline%2C_MA%2C_2021.jpg/330px-Yamashiro_in_Brookline%2C_MA%2C_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Danny_Yamashiro"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Beach is a 1996 novel by English author Alex Garland.",
+      "body": "Set in Thailand, it is the story of a young backpacker's search for a legendary, idyllic and isolated beach untouched by tourism, and his time there in its small, international community of backpackers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/The_Beach_Alex_Garland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Beach_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1971 —",
+      "hook": "South Vietnamese President Nguyen Van Thieu is re-elected in a one-man election.",
+      "body": "Nguyễn Văn Thiệu was a South Vietnamese military officer and politician who was the president of South Vietnam from 1967 to 1975. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Official_Portrait_of_Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u%2C_President_of_the_Republic_of_Vietnam_%28cropped%29.jpg/330px-Official_Portrait_of_Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u%2C_President_of_the_Republic_of_Vietnam_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The Ferrara Ghetto was established by an edict of Cardinal Cennini dated 23 August 1624, in one of the oldest areas of the city, a short distance from the Cathedral of San Giorgio (Ferrara) and the Castello Estense.",
+      "body": "It was permanently closed in 1859. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Ferrara%2C_sinagoga%2C_01.jpg/330px-Ferrara%2C_sinagoga%2C_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ghetto_di_Ferrara"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2019 —",
+      "hook": "A privately owned Boeing B-17 Flying Fortress conducting a living history exhibition flight crashes shortly after takeoff from Windsor Locks, Connecticut, killing seven.",
+      "body": "The Boeing B-17 Flying Fortress is an American four-engined heavy bomber aircraft that was developed in the mid-1930s for the United States Army Air Corps (USAAC). The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/B17_-_Chino_Airshow_2014_%28framed%29.jpg/330px-B17_-_Chino_Airshow_2014_%28framed%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress"
     },
     {
       "type": "card",
@@ -70,50 +92,98 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Dèy by Edwidge Danticat review – motherhood and trauma in Miami",
-      "body": "<p>The first novel in over a decade from the acclaimed Haitian-American author lacks the power of earlier works</p><p>Dèy, Edwidge Danticat’s first novel in over a decade, begins with a bang. Magnolia, the daughter of Haitian parents now sh",
+      "hook": "The best books to read in September: new paperbacks from Margaret Atwood, Kiran Desai and Richard Holmes",
+      "body": "<p>Looking for a new reading recommendation? Here are some great new paperbacks, from an epic multigenerational saga by a Booker winner to a biography of an iconic Victorian poet</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-i",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/30/dey-by-edwidge-danticat-review-motherhood-and-trauma-in-miami"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/18/the-best-books-to-read-in-september-new-paperbacks-from-margaret-atwood-kiran-desai-and-richard-holmes"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Life and Loves of a She-Devil is a 1983 novel by British feminist author Fay Weldon.",
-      "body": "A story about a highly unattractive woman who goes to great lengths to take revenge on her husband and his attractive lover, Weldon stated that the book is about envy, rather than revenge. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/The_Life_and_Loves_of_a_She-Devil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Life_and_Loves_of_a_She-Devil"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Life's Shop Window is a 1914 American silent drama film directed by J.",
-      "body": "Gordon Edwards and starring Claire Whitney and Stuart Holmes. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Life%27s_shop_window_still.jpg/330px-Life%27s_shop_window_still.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Life's_Shop_Window"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Cavalier's Cup, first published in 1953, is a mystery novel by the American writer John Dickson Carr (1906–1977), who published it under the name of Carter Dickson.",
-      "body": "It is a locked room mystery and the final appearance in novel form of the series detective Sir Henry Merrivale and his long-time associate, Scotland Yard's Chief Inspector Humphrey Masters. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/CavaliersCup_%28Morrow%2C_1953%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Cavalier's_Cup"
+      "cat": "history",
+      "opener": "On this day in 1789 —",
+      "hook": "The United States Bill of Rights is sent to the various States for ratification.",
+      "body": "The United States Bill of Rights comprises the first ten amendments to the United States Constitution. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg/330px-Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/United_States_Bill_of_Rights"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Jiang Ping, courtesy name Zechang, is a fictional Song dynasty knight-errant from the 19th-century Chinese novels The Seven Heroes and Five Gallants and The Five Younger Gallants.",
-      "body": "Nicknamed \"River Rat\" or \"River-Overturning Rat\" (翻江鼠) for his amazing swimming and freediving skills, he is able to stay underwater seemingly forever. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Jiangping_1896.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Dante's Inferno is a 2010 action-adventure game developed by Visceral Games and published by Electronic Arts.",
+      "body": "The game was released for PlayStation 3, Xbox 360 and PlayStation Portable in February 2010. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c6/Dante%27s_Inferno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jiang_Ping_(character)"
+      "url": "https://en.wikipedia.org/wiki/Dante's_Inferno_(video_game)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1968 —",
+      "hook": "Mexican President Gustavo Díaz Ordaz orders soldiers to suppress a demonstration of unarmed students, ten days before the start of the 1968 Summer Olympics.",
+      "body": "Gustavo Díaz Ordaz Bolaños was a Mexican politician and member of the Institutional Revolutionary Party (PRI). Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gustavo_Diaz_Ordaz_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Gustavo_D%C3%ADaz_Ordaz"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
+      "body": "<p>Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley &amp; Me</p><p>One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from scree",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Lulwa Ahmed Al-Mansoori is a researcher and novelist from Julphar in Ras Al Khaimah, United Arab Emirates.",
+      "body": "Member of the Emirates Writers Union Board of Directors - responsible for publishing and distribution. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lulwah_Al_Mansouri"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2007 —",
+      "hook": "President Roh Moo-hyun of South Korea goes to North Korea for an Inter-Korean summit with North Korean leader Kim Jong-il.",
+      "body": "Roh Moo-hyun was a South Korean politician and lawyer who served as the ninth president of South Korea from 2003 to 2008. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Roh_Moo-hyun_presidential_portrait.jpg/330px-Roh_Moo-hyun_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Roh_Moo-hyun"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1980 —",
+      "hook": "Michael Myers becomes the first member of either chamber of Congress to be expelled since the Civil War.",
+      "body": "Michael Joseph \"Ozzie\" Myers is an American politician who served in the United States House of Representatives from 1976 to 1980. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Michael_Myers_95th_Congress_photo.jpg/330px-Michael_Myers_95th_Congress_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Michael_Myers_(Pennsylvania_politician)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
+      "body": "<p><strong>Toronto film festival:</strong> the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama</p><p>Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill ki",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Jumper is a 2008 American science fiction action film directed by Doug Liman, and written by David S.",
+      "body": "Goyer, Jim Uhls and Simon Kinberg. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/37/Jumperposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jumper_(2008_film)"
     }
   ]
 }
