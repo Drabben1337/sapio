@@ -1,16 +1,7 @@
 {
-  "generated": "2026-10-02T01:07:16.233Z",
-  "count": 19,
+  "generated": "2026-10-02T07:35:19.611Z",
+  "count": 20,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
-      "body": "<p>Team behind documentary push back against IDF attempt to discredit its exposure of military systems</p><p>The team behind the award-winning film NAZA, which details the Israeli military’s targeting policies in Gaza and its alleged accept",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -22,168 +13,187 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "ALF Tales is a 30-minute Saturday morning animated series that aired on NBC from September 10, 1988, to December 9, 1989.",
+      "body": "The show is a spin-off of ALF: The Animated Series that featured characters from that series playing various characters from fairy tales. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/ALFtales-tc-remaster.png/330px-ALFtales-tc-remaster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ALF_Tales"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Take It or Leave It review – vividly atmospheric formative adventures of future pop princes Madness",
+      "body": "<p>Docufictional 1981 comedy captures the working-class ska-pop pranksters in their hungry years with an almost Loachian authenticity</p><p>Opting for the former is the best idea for this unexpectedly revealing, vividly atmospheric, often f",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/02/take-it-or-leave-it-review-vividly-atmospheric-formative-adventures-of-future-pop-princes-madness"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2002 —",
+      "hook": "The Beltway sniper attacks begin in Washington, D.C., extending over three weeks and killing 10 people.",
+      "body": "The D.C. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Beltway_sniper_map.png/330px-Beltway_sniper_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/D.C._sniper_attacks"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1919 —",
+      "hook": "Seven days after suffering a \"physical collapse\" following a speech in Pueblo, Colorado, U.S. president Woodrow Wilson has a catastrophic stroke at the White House, leaving him physically and mentally incapacitated for the remainder of his presidency.",
+      "body": "A stroke, also referred to as a cerebrovascular accident, is a medical condition in which blood flow to a part of the brain is reduced or blocked causing cell death. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/MCA_Territory_Infarct.svg/330px-MCA_Territory_Infarct.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Stroke"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1552 —",
+      "hook": "Russo-Kazan Wars: Russian troops enter Kazan.",
+      "body": "The Siege of Kazan, also known as the Fall of Kazan, was the decisive military campaign of the Russo-Kazan Wars in 1552 that resulted in the capture of Kazan and the annexation of the Khanate of Kazan by the Tsardom of Russia. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Kazan_storm_chronicle.GIF/330px-Kazan_storm_chronicle.GIF?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Kazan"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The Crush Gals, who combined youthfulness and an exciting wrestling style with pop music, became teen idols and developed a cult following amongst teenage girls in Japan.",
+      "body": "The Crush Gals were a professional wrestling tag team consisting of Lioness Asuka and Chigusa Nagayo. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Lioness_Asuka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crush_Gals"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
+      "body": "<p><strong>Venice film festival: </strong>Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality</p><p>Lance Oppenheim is the acclaimed documentary-maker who ha",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2025 —",
+      "hook": "2 people are killed and at least 4 others injured in an attack on a synagogue in Manchester, UK, during Yom Kippur.",
+      "body": "On 2 October 2025, during the Jewish holiday of Yom Kippur, a man drove a black Kia Picanto into pedestrians before stabbing worshippers at the Heaton Park Hebrew Congregation, a synagogue in Higher Crumpsall, a northern suburb of the city of Manchester in North West England. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Heaton_Park_Hebrew_Congregation_%28geograph_4299474%29.jpg/330px-Heaton_Park_Hebrew_Congregation_%28geograph_4299474%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2025_Manchester_synagogue_attack"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in -48 —",
+      "hook": "Julius Caesar arrives in Ptolemaic Egypt in his pursuit of Pompey and learns of the latter's death.",
+      "body": "Gaius Julius Caesar was a Roman general, statesman, and author who was the dictator of the Roman Republic almost continuously from 49 BC until his assassination in 44 BC. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/330px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "hook": "Rhapsody: A Manifesto by Alice Oswald review – a history of the spoken word, from Homer to Ted Hughes",
+      "body": "<p>A twisting, beguiling investigation into the art of poetry that ends in a call to arms on behalf of the natural world</p><p>The poet Alice Oswald is no stranger to thinking in public about her art. She was Oxford professor of poetry unti",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "url": "https://www.theguardian.com/books/2026/oct/02/rhapsody-a-manifesto-by-alice-oswald-review-a-history-of-the-spoken-word-from-homer-to-ted-hughes"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Watch: Celebrity Traitors series two kicks off with a wild curveball",
+      "body": "The BBC's Noor Nanji on the gameshow's new twist and a traitor's shocking admission.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/videos/cwd080ryxd42o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2018 —",
+      "hook": "The Washington Post journalist Jamal Khashoggi is assassinated in the Saudi consulate in Istanbul, Turkey.",
+      "body": "The Washington Post is an American daily newspaper published in Washington, D.C. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/57/The-Washington-Post-10-June-2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/The_Washington_Post"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Daniel Keauhou Matsu Yamashiro is an American author, guest lecturer at Harvard, a chaplain at MIT, researcher, clergyman, and podcast host who survived a 400-foot (120-meter) fall from the Nuʻuanu Pali ridge in Honolulu, Hawaii, at 18.",
-      "body": "He is the first scholar to present aggregate data on childhood trauma as it relates to American presidents. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Yamashiro_in_Brookline%2C_MA%2C_2021.jpg/330px-Yamashiro_in_Brookline%2C_MA%2C_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Danny_Yamashiro"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Beach is a 1996 novel by English author Alex Garland.",
-      "body": "Set in Thailand, it is the story of a young backpacker's search for a legendary, idyllic and isolated beach untouched by tourism, and his time there in its small, international community of backpackers. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/The_Beach_Alex_Garland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Beach_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1971 —",
-      "hook": "South Vietnamese President Nguyen Van Thieu is re-elected in a one-man election.",
-      "body": "Nguyễn Văn Thiệu was a South Vietnamese military officer and politician who was the president of South Vietnam from 1967 to 1975. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Official_Portrait_of_Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u%2C_President_of_the_Republic_of_Vietnam_%28cropped%29.jpg/330px-Official_Portrait_of_Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u%2C_President_of_the_Republic_of_Vietnam_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The Ferrara Ghetto was established by an edict of Cardinal Cennini dated 23 August 1624, in one of the oldest areas of the city, a short distance from the Cathedral of San Giorgio (Ferrara) and the Castello Estense.",
-      "body": "It was permanently closed in 1859. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Ferrara%2C_sinagoga%2C_01.jpg/330px-Ferrara%2C_sinagoga%2C_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ghetto_di_Ferrara"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2019 —",
-      "hook": "A privately owned Boeing B-17 Flying Fortress conducting a living history exhibition flight crashes shortly after takeoff from Windsor Locks, Connecticut, killing seven.",
-      "body": "The Boeing B-17 Flying Fortress is an American four-engined heavy bomber aircraft that was developed in the mid-1930s for the United States Army Air Corps (USAAC). The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/B17_-_Chino_Airshow_2014_%28framed%29.jpg/330px-B17_-_Chino_Airshow_2014_%28framed%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Missouri Williams and China Miéville among writers on ‘adventurous’ Goldsmiths shortlist",
-      "body": "<p>Six writers are in contention for the £10,000 books prize, which celebrates fiction that ‘breaks the mould or extends the possibilities of the novel form’</p><p>Missouri Williams, China Miéville and Polly Barton are among the writers sho",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/sep/30/missouri-williams-china-mieville-writers-shortlisted-2026-goldsmiths-prize"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in September: new paperbacks from Margaret Atwood, Kiran Desai and Richard Holmes",
-      "body": "<p>Looking for a new reading recommendation? Here are some great new paperbacks, from an epic multigenerational saga by a Booker winner to a biography of an iconic Victorian poet</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-i",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/18/the-best-books-to-read-in-september-new-paperbacks-from-margaret-atwood-kiran-desai-and-richard-holmes"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1789 —",
-      "hook": "The United States Bill of Rights is sent to the various States for ratification.",
-      "body": "The United States Bill of Rights comprises the first ten amendments to the United States Constitution. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg/330px-Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/United_States_Bill_of_Rights"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Dante's Inferno is a 2010 action-adventure game developed by Visceral Games and published by Electronic Arts.",
-      "body": "The game was released for PlayStation 3, Xbox 360 and PlayStation Portable in February 2010. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c6/Dante%27s_Inferno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dante's_Inferno_(video_game)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1968 —",
-      "hook": "Mexican President Gustavo Díaz Ordaz orders soldiers to suppress a demonstration of unarmed students, ten days before the start of the 1968 Summer Olympics.",
-      "body": "Gustavo Díaz Ordaz Bolaños was a Mexican politician and member of the Institutional Revolutionary Party (PRI). Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gustavo_Diaz_Ordaz_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Gustavo_D%C3%ADaz_Ordaz"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
-      "body": "<p>Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley &amp; Me</p><p>One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from scree",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Lulwa Ahmed Al-Mansoori is a researcher and novelist from Julphar in Ras Al Khaimah, United Arab Emirates.",
-      "body": "Member of the Emirates Writers Union Board of Directors - responsible for publishing and distribution. One of those things you can't un-know.",
+      "hook": "Robert Perry is a Welsh novelist and television screenwriter.",
+      "body": "He was script-editor on the BBC soap opera EastEnders, as well as writing for the television series Family Affairs and Is Harry on the Boat?. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lulwah_Al_Mansouri"
+      "url": "https://en.wikipedia.org/wiki/Robert_Perry_(writer)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2007 —",
-      "hook": "President Roh Moo-hyun of South Korea goes to North Korea for an Inter-Korean summit with North Korean leader Kim Jong-il.",
-      "body": "Roh Moo-hyun was a South Korean politician and lawyer who served as the ninth president of South Korea from 2003 to 2008. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Roh_Moo-hyun_presidential_portrait.jpg/330px-Roh_Moo-hyun_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Roh_Moo-hyun"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1980 —",
-      "hook": "Michael Myers becomes the first member of either chamber of Congress to be expelled since the Civil War.",
-      "body": "Michael Joseph \"Ozzie\" Myers is an American politician who served in the United States House of Representatives from 1976 to 1980. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Michael_Myers_95th_Congress_photo.jpg/330px-Michael_Myers_95th_Congress_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Michael_Myers_(Pennsylvania_politician)"
+      "opener": "Here's one for the group chat —",
+      "hook": "It lies near Fultonville, New York, ten miles west of Amsterdam in the Mohawk Valley west of Albany.",
+      "body": "Caughnawaga is a former town in then Tryon County, later Montgomery County, New York, United States. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Caughnawaga%2C_New_York"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
-      "body": "<p><strong>Toronto film festival:</strong> the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama</p><p>Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill ki",
+      "hook": "‘I look at the footage to convince myself that you were alive’: how Ross McElwee made a film about unimaginable loss, grief and guilt",
+      "body": "<p>When his son died aged 27, the director could barely bring himself to watch his old clips of the boy. When at last he did, it was the genesis of an extraordinary project</p><p>It feels crass to compliment Ross McElwee on his latest docum",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review"
+      "url": "https://www.theguardian.com/film/2026/oct/02/ross-mcelwee-adrian-remake-devastating-new-documentary"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Jumper is a 2008 American science fiction action film directed by Doug Liman, and written by David S.",
-      "body": "Goyer, Jim Uhls and Simon Kinberg. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/37/Jumperposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Soviet phraseology, or Sovietisms, i.e.",
+      "body": "the neologisms and cliches in the Russian language of the epoch of the Soviet Union, has a number of distinct traits that reflect the Soviet way of life and Soviet culture and politics. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_the_Soviet_Union_%281956%E2%80%931991%29.svg/330px-Coat_of_arms_of_the_Soviet_Union_%281956%E2%80%931991%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jumper_(2008_film)"
+      "url": "https://en.wikipedia.org/wiki/Soviet_phraseology"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Wilsill is a village in Nidderdale in the county of North Yorkshire, England.",
+      "body": "It is about 2 miles (3 km) east of Pateley Bridge on the B6165 road between Pateley Bridge and Ripley. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Wilsill_Methodist_Church.jpg/330px-Wilsill_Methodist_Church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wilsill"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Professor Charles Francis Xavier, also known simply by his codename Professor X, is a character primarily portrayed by Patrick Stewart, James McAvoy, and Harry Lloyd in 20th Century Fox's X-Men franchise and the Marvel Cinematic Universe (MCU) franchise produced by Marvel Studios, based on the Marvel Comics character of the same name created by Stan Lee and Jack Kirby.",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Charles_Xavier_%28Patrick_Stewart%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Xavier_(film_character)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Bill Nighy wins best host at British Podcast Awards",
+      "body": "The actor has become an agony uncle in what award organisers called an \"irresistibly endearing series\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cvrl6l0klw1go?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
