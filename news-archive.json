@@ -2,6 +2,26 @@
   {
     "type": "card",
     "cat": "news",
+    "opener": "The Guardian · Books —",
+    "hook": "‘I thought, if I’m going to die, I’m going to write a book first’: Pachinko author Min Jin Lee",
+    "body": "<p>Her last novel sold 5m copies and was adapted into a hit series. Nearly 10 years on, the Korean-American author has written another epic. She discusses ambition and the diagnosis that inspired her to leave work and write</p><p>Back in 19",
+    "src": "The Guardian · Books",
+    "url": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee",
+    "_t": 1791016566078
+  },
+  {
+    "type": "card",
+    "cat": "news",
+    "opener": "BBC Entertainment —",
+    "hook": "Film festival aims to celebrate British-Latino identity",
+    "body": "The Latino film festival in the capital will screen 60 films from 27 countries over five days.",
+    "src": "BBC Entertainment",
+    "url": "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o?at_medium=RSS&at_campaign=rss",
+    "_t": 1791016566078
+  },
+  {
+    "type": "card",
+    "cat": "news",
     "opener": "The Guardian · Film —",
     "hook": "Behemoth! review - Pedro Pascal classical music drama hits all the wrong notes",
     "body": "<p><strong>New York film festival: </strong>The actor stumbles through Tony Gilroy’s forgettable film marred by stylistic gimmicks</p><p>Tony Gilroy has built a sturdy career as the director of the <a href=\"https://www.theguardian.com/film/",
@@ -578,25 +598,5 @@
     "src": "New Scientist",
     "url": "https://www.newscientist.com/article/2591587-earths-geographic-poles-wander-more-than-we-had-thought/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS",
     "_t": 1790889982011
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "ESA —",
-    "hook": "Happy New Year on Mars",
-    "body": "30 September 2026 marks the start of a new year on Mars. At exactly 10:16 CEST/08:16 UTC on Earth, the Red Planet begins a new orbit around our Sun.",
-    "src": "ESA",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
-    "_t": 1790889982011
-  },
-  {
-    "type": "card",
-    "cat": "news",
-    "opener": "The Guardian · Film —",
-    "hook": "Sex, drugs and amoebic dysentery: the 20 best making-of documentaries – ranked!",
-    "body": "<p>From tropical disasters and doomed sci-fi epics to bribing Orson Welles and fending off a puma, we rate cinema’s most revealing glimpses behind the scenes</p><p>Behind-the-scenes footage from Dawn of the Dead is the highlight of this afi",
-    "src": "The Guardian · Film",
-    "url": "https://www.theguardian.com/film/2026/oct/01/20-best-making-of-documentaries-ranked",
-    "_t": 1790872999782
   }
 ]

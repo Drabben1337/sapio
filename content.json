@@ -1,24 +1,56 @@
 {
-  "generated": "2026-10-03T02:27:24.043Z",
-  "count": 18,
+  "generated": "2026-10-03T08:36:06.079Z",
+  "count": 23,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Behemoth! review - Pedro Pascal classical music drama hits all the wrong notes",
-      "body": "<p><strong>New York film festival: </strong>The actor stumbles through Tony Gilroy’s forgettable film marred by stylistic gimmicks</p><p>Tony Gilroy has built a sturdy career as the director of the <a href=\"https://www.theguardian.com/film/",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/02/behemoth-pedro-pascal-movie-review"
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It is a subsidiary of Bangladesh Power Development Board.",
+      "body": "Electricity Generation Company of Bangladesh (EGCB) is a state owned utility and electricity company located in Dhaka, Bangladesh. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electricity_Generation_Company_of_Bangladesh"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Cameron Winter at Carnegie Hall review – Paul Thomas Anderson’s sumptuous recording is an immediate classic",
-      "body": "<p><strong>New York Film Festival: </strong>The Geese frontman mesmerizes in a concert film that is both swoony and austere</p><p>One night last December, weary from a busy week and the impending doom of winter, I hurried into Carnegie Hall",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson"
+      "cat": "history",
+      "opener": "On this day in 1957 —",
+      "hook": "The California State Superior Court rules that the book Howl and Other Poems is not obscene.",
+      "body": "The superior courts of California are the state trial court system of the U.S. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Great_Seal_of_the_State_of_California_Colored.svg/330px-Great_Seal_of_the_State_of_California_Colored.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Superior_Courts_of_California"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1942 —",
+      "hook": "A German V-2 rocket reaches a record 85 km (46 nm) in altitude.",
+      "body": "The V-2 rocket, with the development name Aggregat-4 (A4), was the world's first practical, modern ballistic missile and suborbital launch vehicle. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Fus%C3%A9e_V2_%28cropped%29.jpg/330px-Fus%C3%A9e_V2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/V-2_rocket"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 610 —",
+      "hook": "A fleet of the Heraclian revolt under Heraclius the Younger reaches Constantinople.",
+      "body": "The Exarch of Africa Heraclius the Elder and his namesake son Heraclius the Younger began a rebellion against the Byzantine emperor Phocas in 608. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Revolt_of_the_Heraclii_solidus%2C_608_AD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Heraclian_revolt"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Shootout at Wadala is a 2013 Indian Hindi-language crime action film written and directed by Sanjay Gupta.",
+      "body": "The film stars Anil Kapoor, Ronit Roy, John Abraham, Tusshar Kapoor, Manoj Bajpayee, Kangana Ranaut and Sonu Sood and Mahesh Manjrekar. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e2/Shootout_at_Wadala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shootout_at_Wadala"
     },
     {
       "type": "card",
@@ -31,121 +63,53 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in -2457 —",
-      "hook": "Gaecheonjeol, Hwanung (환웅) purportedly descended from heaven. South Korea's National Foundation Day.",
-      "body": "Gaecheonjeol is a public holiday in South Korea on 3 October. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/%EC%B0%B8%EC%84%B1%EB%8B%A8_%EC%86%8C%EC%82%AC%EB%82%98%EB%AC%B4.jpg/330px-%EC%B0%B8%EC%84%B1%EB%8B%A8_%EC%86%8C%EC%82%AC%EB%82%98%EB%AC%B4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/National_Foundation_Day_(Korea)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1986 —",
-      "hook": "TASCC, a superconducting cyclotron at the Chalk River Laboratories in Canada, is officially opened.",
-      "body": "Tandem Accelerator Superconducting Cyclotron (TASCC) was a Canadian particle accelerator facility constructed at Chalk River Laboratories on October 3, 1986. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tandem_Accelerator_Superconducting_Cyclotron"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1919 —",
-      "hook": "Cincinnati Reds pitcher Adolfo Luque becomes the first Latin American player to appear in a World Series.",
-      "body": "The Cincinnati Reds are an American professional baseball team based in Cincinnati. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/330px-Cincinnati_Reds_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Cincinnati_Reds"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Dragon Ball is a Japanese manga series written and illustrated by Akira Toriyama.",
-      "body": "Originally serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from 1984 to 1995, the 519 individual chapters were collected in 42 tankōbon volumes. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c9/DB_Tank%C5%8Dbon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dragon_Ball_(manga)"
-    },
-    {
-      "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Never Dream of Dying, first published in 2001, was the seventh novel by Raymond Benson featuring Ian Fleming's secret agent, James Bond.",
-      "body": "Carrying the Ian Fleming Publications copyright, it was first published in the United Kingdom by Hodder & Stoughton and in the United States by Putnam. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/4f/NeverDreamOfDying.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The novel of circulation, otherwise known as the it-narrative, or object narrative, is a genre of novel common at one time in British literature, and follows the fortunes of an object, for example a coin, that is passed around between different owners.",
+      "body": "Sometimes, instead, it involves a pet or other domestic animal, as for example in Francis Coventry's The History of Pompey the Little (1751). Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Pompey_the_little_illustration.jpg/330px-Pompey_the_little_illustration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Never_Dream_of_Dying"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-      "body": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "I Hotel is a 2010 novel by Japanese American writer Karen Tei Yamashita, published by Coffee House Press.",
-      "body": "A novel about Asian American movements in the seventies, it is named after the International Hotel, a historic residential hotel in San Francisco that housed predominantly Filipino Americans in the 20th century, which is the setting for several of the book's s",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f5/%22I_Hotel%22_Karen_Tei_Yamashita_Book_Cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/I_Hotel_(novel)"
+      "url": "https://en.wikipedia.org/wiki/Novel_of_circulation"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Wrzesień żagwiący is a 1947 book of literary reportage written by the Polish historian and political journalist Melchior Wańkowicz.",
-      "body": "The book is a collection of analytical thinking stories written by Wańkowicz in the early 1940s, while the author was in exile. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/Wa%C5%84kowicz_-_Strz%C4%99py_epopei%2C_Szpital_w_Cichiniczach%2C_Wrzesie%C5%84_%C5%BCagwi%C4%85cy%2C_Po_kl%C4%99sce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Little Rebels is a 1955 French-Italian drama film directed by Jean Delannoy and starring Jean Gabin, Anne Doat and Dora Doll.",
+      "body": "It premiered at the 1955 Venice Film Festival before going on general release. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/22/The_Little_Rebels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wrzesie%C5%84_%C5%BCagwi%C4%85cy"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘I will see you in the parking lot after this’: when book clubs get dramatic",
-      "body": "<p>Book clubs can be fun, fulfilling and interesting – but many members have seen a meeting or group go down in flames</p><p>For four years, Laura has been in a book club with other young mothers from her church. You might be picturing a do",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/01/when-book-clubs-get-dramatic"
+      "url": "https://en.wikipedia.org/wiki/The_Little_Rebels"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Star Wars: Galaxy of Fear is a series of 12 young adult, science fiction horror novels set in the Star Wars galaxy six months after Star Wars: Episode IV – A New Hope.",
-      "body": "The series was written by John Whitman, and released from February 1997 through to October 1998. One of those things you can't un-know.",
+      "opener": "You probably never noticed this —",
+      "hook": "The Eve of Saint Venus is a story or, as author Anthony Burgess put it, an \"opusculum\", on the theme of marriage.",
+      "body": "Originally conceived as a play in three acts in 1952, it was re-written as a novella after the author initially failed to find a theatre willing to stage the play. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/27/EveOfStVenus.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Eve_of_Saint_Venus"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1873 —",
+      "hook": "Chief Kintpuash and companions are hanged for their part in the Modoc War of northern California.",
+      "body": "Kintpuash, also known as Kientpoos, Keintpoos, or by his English name Captain Jack, was a Modoc leader from present-day northern California and southern Oregon. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Captain_Jack.jpg/330px-Captain_Jack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Kintpuash"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "Under17 was a Japanese musical duo formed in 2001 by Haruko Momoi and Masaya Koike.",
+      "body": "The group was known for producing music known colloquially as \"moe songs\", providing theme and insert songs to series such as Tenbatsu! The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Galaxy_of_Fear"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1932 —",
-      "hook": "The Kingdom of Iraq gains independence from the United Kingdom.",
-      "body": "The Hashemite Kingdom of Iraq was the Iraqi state located in the Middle East from 1932 to 1958. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Iraq_%281924%E2%80%931959%29.svg/330px-Flag_of_Iraq_%281924%E2%80%931959%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Iraq"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1792 —",
-      "hook": "A militia departs from the Spanish stronghold of Valdivia to quell a Huilliche uprising in southern Chile.",
-      "body": "The Fort System of Valdivia is a series of Spanish colonial fortifications at Corral Bay, Valdivia and Cruces River established to protect the city of Valdivia, in southern Chile. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Niebla2.JPG/330px-Niebla2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Valdivian_Fort_System"
+      "url": "https://en.wikipedia.org/wiki/Under17"
     },
     {
       "type": "card",
@@ -168,12 +132,98 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1862 —",
-      "hook": "American Civil War: The two-day Second Battle of Corinth begins as Confederate forces under General Earl Van Dorn attack Union defenses led by General William Rosecrans around Corinth, Mississippi.",
-      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "It includes the principal settlements of Albeuve, Lessoc, Les Sciernes d'Albeuve, Montbovon and Neirivue.",
+      "body": "Haut-Intyamon is a municipality in the district of Gruyère in the Canton of Fribourg in Switzerland. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Intyamon.jpg/330px-Intyamon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Haut-Intyamon"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘I thought, if I’m going to die, I’m going to write a book first’: Pachinko author Min Jin Lee",
+      "body": "<p>Her last novel sold 5m copies and was adapted into a hit series. Nearly 10 years on, the Korean-American author has written another epic. She discusses ambition and the diagnosis that inspired her to leave work and write</p><p>Back in 19",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Film festival aims to celebrate British-Latino identity",
+      "body": "The Latino film festival in the capital will screen 60 films from 27 countries over five days.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+      "body": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "He was a longtime member of the Mexico national team, competing in the 1976 Summer Olympics and winning a bronze medal at the 1983 Pan American Games.",
+      "body": "Palomar Acosta is a Mexican-American former basketball player. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rafael_Palomar"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1995 —",
+      "hook": "O. J. Simpson murder case: O. J. Simpson is acquitted of the murders of Nicole Brown Simpson and Ronald Goldman.",
+      "body": "The People of the State of California v. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Seal_of_the_Superior_Court_of_California%2C_County_of_Los_Angeles.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+      "url": "https://en.wikipedia.org/wiki/Murder_trial_of_O._J._Simpson"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Copernicus Legacy is a book series written by Tony Abbott.",
+      "body": "It is about the adventures of Wade Kaplan, Darrell Kaplan, Lily, Becca Moore, Roald Kaplan, and Sara Kaplan, as they try to destroy a time machine made by Ptolemy but discovered and used by Nicolaus Copernicus, from the dangerous Teutonic Order of Ancient Prus",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Copernicus_Legacy"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Behemoth! review - Pedro Pascal classical music drama hits all the wrong notes",
+      "body": "<p><strong>New York film festival: </strong>The actor stumbles through Tony Gilroy’s forgettable film marred by stylistic gimmicks</p><p>Tony Gilroy has built a sturdy career as the director of the <a href=\"https://www.theguardian.com/film/",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/02/behemoth-pedro-pascal-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "He was the last surviving member of the 1926 Stanley Cup champion Maroons.",
+      "body": "Samuel \"Sam\" Rothschild was a Canadian professional ice hockey player who played 102 games in the National Hockey League (NHL). Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Sammy_Rothschild.jpg/330px-Sammy_Rothschild.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Rothschild"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1683 —",
+      "hook": "Qing dynasty naval commander Shi Lang receives the surrender of the Tungning kingdom on Taiwan after the Battle of Penghu.",
+      "body": "The Qing dynasty, officially the Great Qing, also known as the Qing Empire or Qing China, was a Manchu-led imperial dynasty of China and an early modern empire in East Asia which existed from 1636/1644 to 1912. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_China_%281889%E2%80%931912%29.svg/330px-Flag_of_China_%281889%E2%80%931912%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Qing_dynasty"
     }
   ]
 }
