@@ -1,140 +1,26 @@
 {
-  "generated": "2026-10-03T17:45:26.583Z",
-  "count": 18,
+  "generated": "2026-10-03T20:14:59.175Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1392 —",
-      "hook": "Muhammed VII becomes the twelfth sultan of the Emirate of Granada.",
-      "body": "Muhammad VII, reigned 3 October 1392 – 13 May 1408, was the twelfth Nasrid ruler of the Muslim Emirate of Granada in Al-Andalus on the Iberian Peninsula. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "On this day in 2009 —",
+      "hook": "Azerbaijan, Kazakhstan, Kyrgyzstan, and Turkey join in the Turkic Council.",
+      "body": "Azerbaijan, officially the Republic of Azerbaijan, is a landlocked country at the boundary of Western Asia and Eastern Europe. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/330px-Flag_of_Azerbaijan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Muhammad_VII_of_Granada"
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Film festival aims to celebrate British-Latino identity",
-      "body": "The Latino film festival in the capital will screen 60 films from 27 countries over five days.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Mercy Step by Marcia Hutchinson audiobook review – a Caribbean child’s-eye view of 60s Bradford",
-      "body": "<p>The author captures the comedy and cruelty in this tenderly written coming-of-age tale</p><p>This Women’s prize-nominated novel from Marcia Hutchinson is told from the perspective of Mercy Hanson, a girl born in Bradford in 1962 to a mot",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/01/the-mercy-step-by-marcia-hutchinson-audiobook-review-a-caribbean-childs-eye-view-of-60s-bradford"
-    },
-    {
-      "type": "card",
-      "cat": "books",
+      "cat": "history",
       "opener": "Bet you didn't know —",
-      "hook": "American Women's Voluntary Services (AWVS) was the largest American women's service organization in the United States during World War II.",
-      "body": "AWVS volunteers provided support services to help the nation during the war, assisting with message delivery, ambulance driving, selling war bonds, operating emergency kitchens, cycle corps drivers, dog-sled teamsters, aircraft spotters, navigation, aerial pho",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/American_Women%27s_Voluntary_Services.jpg/330px-American_Women%27s_Voluntary_Services.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "He is widely regarded as one of the greatest fighters in mixed martial arts (MMA) history.",
+      "body": "Georges St-Pierre, also known by his initials GSP, is a Canadian former professional mixed martial artist. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/2021_-_Centre_Stage_DG4_5765_%2851654942080%29_%28cropped%29.jpg/330px-2021_-_Centre_Stage_DG4_5765_%2851654942080%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/American_Women's_Voluntary_Services"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1739 —",
-      "hook": "The Treaty of Niš is signed by the Ottoman Empire and Russia ending the Russian–Turkish War.",
-      "body": "The Treaty of Niš was a peace treaty signed on 3 October 1739 in Niš, by the Ottoman Empire and the Russian Empire, to end the Russo-Turkish War (1735–1739). One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/1744_map_of_the_seat_of_the_Russo-Turkish_War_%281735%E2%80%931739%29.jpg/330px-1744_map_of_the_seat_of_the_Russo-Turkish_War_%281735%E2%80%931739%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_Ni%C5%A1_(1739)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Space: Above and Beyond is an American science fiction television series that aired on Fox, created and written by Glen Morgan and James Wong.",
-      "body": "Planned for five seasons, it only ran for one season from 1995 to 1996 before being canceled due to low ratings. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/04/Space-_Above_and_Beyond_%28logo%29.svg/330px-Space-_Above_and_Beyond_%28logo%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Space%3A_Above_and_Beyond"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Noel Gallagher guitar sells for £12,000 at auction",
-      "body": "The instrument was one of a number of items which belonged to a former Oasis sound engineer.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyeg1r9xe9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "A German V-2 rocket reaches a record 85 km (46 nm) in altitude.",
-      "body": "The V-2 rocket, with the development name Aggregat-4 (A4), was the world's first practical, modern ballistic missile and suborbital launch vehicle. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Fus%C3%A9e_V2_%28cropped%29.jpg/330px-Fus%C3%A9e_V2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/V-2_rocket"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘I thought, if I’m going to die, I’m going to write a book first’: Pachinko author Min Jin Lee",
-      "body": "<p>Her last novel sold 5m copies and was adapted into a hit series. Nearly 10 years on, the Korean-American author has written another epic. She discusses ambition and the diagnosis that inspired her to leave work and write</p><p>Back in 19",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Behemoth! review - Pedro Pascal classical music drama hits all the wrong notes",
-      "body": "<p><strong>New York film festival: </strong>The actor stumbles through Tony Gilroy’s forgettable film marred by stylistic gimmicks</p><p>Tony Gilroy has built a sturdy career as the director of the <a href=\"https://www.theguardian.com/film/",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/02/behemoth-pedro-pascal-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1283 —",
-      "hook": "Dafydd ap Gruffudd, the last native Prince of Wales, is hanged, drawn and quartered by the English.",
-      "body": "Dafydd ap Gruffudd was Prince of Gwynedd and Prince of Wales from the death of his brother Llywelyn ap Gruffudd on 11 December 1282 until his capture on 22 June 1283. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dafydd_ap_Gruffudd"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Menshen, or door gods, are divine guardians of doors and gates in Chinese folk religions, used to protect against evil influences or to encourage the entrance of positive ones.",
-      "body": "They began as the divine pair Shenshu and Yulü under the Han, but the deified generals Qin Shubao and Yuchi Gong have been more popular since the Tang. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%E9%A0%82%E6%B3%B0%E5%B1%B1%E5%B7%96001%E9%96%80%E7%A5%9E.jpg/330px-%E9%A0%82%E6%B3%B0%E5%B1%B1%E5%B7%96001%E9%96%80%E7%A5%9E.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Menshen"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Alison Hammond returns home from hospital after rushing off This Morning",
-      "body": "The This Morning presenter said she believes she experienced a panic attack on Friday's show.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cr20w7j8jd21o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1946 —",
-      "hook": "An American Overseas Airlines Douglas DC-4 crashes near Ernest Harmon Air Force Base in Stephenville, Newfoundland and Labrador, Canada, killing 39.",
-      "body": "American Overseas Airlines (AOA) was an airline that operated between the United States and Europe between 1945 and 1950. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Vought-Sikorsky_VS-44A_American_Export_Airlines_%2815954834667%29.jpg/330px-Vought-Sikorsky_VS-44A_American_Export_Airlines_%2815954834667%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Overseas_Airlines"
+      "url": "https://en.wikipedia.org/wiki/Georges_St-Pierre"
     },
     {
       "type": "card",
@@ -147,33 +33,157 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The relations between Pope Benedict XV and Judaism were marked by two significant historical events: the emigration of Eastern European Jewish communities due to World War I and to pogroms, and the development of Zionism in the Middle East and its effects on local Levantine, Greek-Catholic and Arab Christian communities.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Itali%C3%AB%2C_SFA006011012.jpg/330px-Itali%C3%AB%2C_SFA006011012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pope_Benedict_XV_and_Judaism"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Polybutylene (polybutene-1, poly(1-butene), PB-1) is a polyolefin or saturated polymer with the chemical formula (CH2CH(Et))n.",
-      "body": "PB-1 is mainly used in piping. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Polybutylene"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘I thought, if I’m going to die, I’m going to write a book first’: Pachinko author Min Jin Lee",
+      "body": "<p>Her last novel sold 5m copies and was adapted into a hit series. Nearly 10 years on, the Korean-American author has written another epic. She discusses ambition and the diagnosis that inspired her to leave work and write</p><p>Back in 19",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1789 —",
-      "hook": "George Washington proclaims Thursday November 26, 1789 as Thanksgiving Day.",
-      "body": "George Washington was an American military officer, statesman, and one of the Founding Fathers of the United States who served as the first president of the United States from 1789 to 1797. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/330px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1990 —",
+      "hook": "The German Democratic Republic is abolished and becomes part of the Federal Republic of Germany; the event is afterwards celebrated as German Unity Day.",
+      "body": "East Germany, officially the German Democratic Republic (GDR), was a country in Central Europe from its formation on 7 October 1949 until its reunification with West Germany on 3 October 1990. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_the_German_Democratic_Republic.svg/330px-Flag_of_the_German_Democratic_Republic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/George_Washington"
+      "url": "https://en.wikipedia.org/wiki/East_Germany"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Alison Hammond returns home from hospital after rushing off This Morning",
+      "body": "The This Morning presenter said she believes she experienced a panic attack on Friday's show.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cr20w7j8jd21o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Sackboy is a fictional character and main protagonist of the LittleBigPlanet video game series published by Sony Interactive Entertainment.",
+      "body": "Introduced in the 2008 video game LittleBigPlanet, Sackboy is a small, anthropomorphic, humanoid doll-like amigurumi character made of burlap sack with a brown knit pattern by default, with a zip fastener and button eyes. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/SackboySony.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sackboy"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1962 —",
+      "hook": "Project Mercury: US astronaut Wally Schirra, in Sigma 7, is launched from Cape Canaveral for a six-orbit flight.",
+      "body": "Project Mercury was the first human spaceflight program of the United States, running from 1958 through 1963. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/NASA_logo_%282023_colors%29.svg/330px-NASA_logo_%282023_colors%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Project_Mercury"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Serhiy Myronovych Kvit, is a Ukrainian literary critic, journalist, educator and social activist.",
+      "body": "Former champion of Ukraine in fencing (1984). The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/%D0%9A%D0%B2%D1%96%D1%82_%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D0%B9_%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Serhiy_Kvit"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Behemoth! review - Pedro Pascal classical music drama hits all the wrong notes",
+      "body": "<p><strong>New York film festival: </strong>The actor stumbles through Tony Gilroy’s forgettable film marred by stylistic gimmicks</p><p>Tony Gilroy has built a sturdy career as the director of the <a href=\"https://www.theguardian.com/film/",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/02/behemoth-pedro-pascal-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Chihuahua, officially the Estado Libre y Soberano de Chihuahua is one of the 31 states which, along with Mexico City, are the 32 federal entities of Mexico.",
+      "body": "It is located in the northwestern part of Mexico and is bordered by the states of Sonora to the west, Sinaloa to the southwest, Durango to the south, and Coahuila to the east. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Sierra.madre.occidental.volcanics.JPG/330px-Sierra.madre.occidental.volcanics.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chihuahua_(state)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Film festival aims to celebrate British-Latino identity",
+      "body": "The Latino film festival in the capital will screen 60 films from 27 countries over five days.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1989 —",
+      "hook": "A coup in Panama City is suppressed and 11 participants are executed.",
+      "body": "The 1989 Panamanian coup d'état attempt was a failed coup d'état which occurred in Panama City on 3 October. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1989_Panamanian_coup_attempt"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Noel Gallagher guitar sells for £12,000 at auction",
+      "body": "The instrument was one of a number of items which belonged to a former Oasis sound engineer.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyeg1r9xe9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The history of the Soviet Union from 1964 to 1982, referred to as the Brezhnev Era, covers the period of Leonid Brezhnev's leadership of the Union of Soviet Socialist Republics (USSR).",
+      "body": "This period began with high economic growth and soaring prosperity, but gradually significant problems in social, political, and economic areas accumulated, so that the period is often described as the Era of Stagnation. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/RIAN_archive_417888_Leonid_Brezhnev_speaks_at_18th_Komsomol_Congress_opening.jpg/330px-RIAN_archive_417888_Leonid_Brezhnev_speaks_at_18th_Komsomol_Congress_opening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Soviet_Union_(1964%E2%80%931982)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1739 —",
+      "hook": "The Treaty of Niš is signed by the Ottoman Empire and Russia ending the Russian–Turkish War.",
+      "body": "The Treaty of Niš was a peace treaty signed on 3 October 1739 in Niš, by the Ottoman Empire and the Russian Empire, to end the Russo-Turkish War (1735–1739). The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/1744_map_of_the_seat_of_the_Russo-Turkish_War_%281735%E2%80%931739%29.jpg/330px-1744_map_of_the_seat_of_the_Russo-Turkish_War_%281735%E2%80%931739%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Ni%C5%A1_(1739)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2021 —",
+      "hook": "Eight people are killed in an airplane crash near Milan, Italy.",
+      "body": "On 3 October 2021, a Romanian private plane crashed into a building in Milan, Lombardy, Italy. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/YR-PDV_Pilatus_PC-12.jpg/330px-YR-PDV_Pilatus_PC-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2021_Milan_Pilatus_PC-12_crash"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The ballista, plural ballistae or ballistas, sometimes called a bolt thrower, was an ancient projectile weapon that launched either bolts or stones at a distant target.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Ballista_%28PSF%29_vector.svg/330px-Ballista_%28PSF%29_vector.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ballista"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "First Glastonbury 2027 tickets sell out",
+      "body": "Coach tickets for the 2027 festival are all snapped up in under 30 minutes.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cv62kp9enz08o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
