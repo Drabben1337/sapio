@@ -1,46 +1,103 @@
 {
-  "generated": "2026-10-05T01:20:04.709Z",
-  "count": 24,
+  "generated": "2026-10-05T07:45:59.321Z",
+  "count": 20,
   "items": [
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1607 —",
+      "hook": "Assassins attempt to kill Venetian statesman and scientist Paolo Sarpi.",
+      "body": "Paolo Sarpi, O.S.M. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Paolo_Sarpi.jpg/330px-Paolo_Sarpi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Paolo_Sarpi"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1962 —",
-      "hook": "The first of the James Bond film series, based on the novels by Ian Fleming, Dr. No, is released in Britain.",
-      "body": "The James Bond franchise focuses on the character of James Bond, a fictional British Secret Service agent created in 1953 by writer Ian Fleming, who featured him in twelve novels and two short-story collections. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c5/Fleming007impression.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/James_Bond"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Didier Leclair is a Canadian francophone fiction writer currently based in Toronto.",
+      "body": "He has lived in various countries in Africa, and has studied at Laurentian University in Sudbury and Toronto's Glendon College. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Didier_Leclair_auteur.jpg/330px-Didier_Leclair_auteur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Didier_Leclair"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2000 —",
-      "hook": "Mass demonstrations in Serbia force the resignation of Slobodan Milošević.",
-      "body": "The overthrow of Slobodan Milošević, president of the Federal Republic of Yugoslavia, began after the general election on 24 September 2000 and culminated on 5 October 2000. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Petooktobarska_revolucija.png/330px-Petooktobarska_revolucija.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87"
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Uncle and Claudius the Camel (1969) is a children's novel written by J.",
+      "body": "Martin, the fifth of his Uncle book series of six books. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Uncle_and_Claudius_the_Camel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uncle_and_Claudius_the_Camel"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "The Death of Bunny Munro is a British dark comedy television miniseries based on the 2009 novel by Nick Cave.",
-      "body": "It stars Matt Smith, Sarah Greene, and Rafael Mathé in main roles, with Smith and Cave also serving as executive producers. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/51/The_Death_of_Bunny_Munro_TV_poster.jpg/330px-The_Death_of_Bunny_Munro_TV_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Eradu Kanasu is a 1974 Indian Kannada-language romantic drama film directed by the duo Dorai–Bhagavan, and is based on the novel of the same name by Vani.",
+      "body": "The film stars Rajkumar, Kalpana and Manjula. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2c/Eradu_Kanasu_1974_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Death_of_Bunny_Munro_(TV_series)"
+      "url": "https://en.wikipedia.org/wiki/Eradu_Kanasu_(1974_film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Final pre-merger WB release ‘Digger’ scores 19-year US box-office low for Tom Cruise",
+      "body": "Magnolia takes John Wilson’s Sundance documentary The History Of Concrete past $1m in third weekend.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/final-pre-merger-wb-release-digger-scores-19-year-us-box-office-low-for-tom-cruise/5221019.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
+      "body": "The star's record label is sued over similarities between her song I've Seen It and Withers' classic.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "In conducting its duties, it has an area of responsibility that consists of the most counties in Colorado and 8 in the western part of neighboring Kansas.",
+      "body": "The High Frontier Honor Guard is the official United States Space Force ceremonial unit assigned to Peterson Space Force Base in Colorado Springs, Colorado. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/AF_Space_Command_celebrates_Air_Force_birthday_160916-F-TM170-022.jpg/330px-AF_Space_Command_celebrates_Air_Force_birthday_160916-F-TM170-022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/High_Frontier_Honor_Guard"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Charlie Shaw’s Revenge review – creepy clown killer takes aim at struggling amusement park",
+      "body": "<p>Decent effects and a late-stage twist show promise, but this gore-fest needs to be more disgusting, funny or unnerving</p><p>The film opens with a lone figure striding into the foreground. He’s an amateur entertainer on his way to a gig,",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/05/charlie-shaws-revenge-review"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Nelle Harper Lee was an American novelist whose 1960 novel To Kill a Mockingbird won the 1961 Pulitzer Prize and became a classic of modern American literature.",
+      "body": "She assisted her close friend Truman Capote in his research for the book In Cold Blood (1966). One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Photo_portrait_of_Harper_Lee_%28To_Kill_a_Mockingbird_dust_jacket%2C_1960%29.jpg/330px-Photo_portrait_of_Harper_Lee_%28To_Kill_a_Mockingbird_dust_jacket%2C_1960%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harper_Lee"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1914 —",
+      "hook": "World War I: An aircraft successfully destroys another aircraft with gunfire for the first time.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
     },
     {
       "type": "card",
@@ -53,187 +110,90 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "USS West Virginia is a United States Navy Ohio-class ballistic missile submarine.",
-      "body": "Commissioned on 20 October 1990, she is the third U.S. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Flickr_-_Official_U.S._Navy_Imagery_-_USS_West_Virginia_off_the_coast_of_Georgia..jpg/330px-Flickr_-_Official_U.S._Navy_Imagery_-_USS_West_Virginia_off_the_coast_of_Georgia..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/USS_West_Virginia_(SSBN-736)"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1982 —",
-      "hook": "Tylenol products are recalled after bottles in Chicago laced with cyanide cause seven deaths.",
-      "body": "Tylenol is a brand of medication, advertised for reducing pain, reducing fever, and relieving the symptoms of allergies, cold, cough, headache, and influenza. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Extra_Strength_Tylenol_and_Tylenol_PM.jpg/330px-Extra_Strength_Tylenol_and_Tylenol_PM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tylenol"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
-      "body": "Stray Kids become the second major act to withdraw from the Grammys over the new best Asian Pop award.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c5398kkx27ewo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "First week of life seems crucial for future allergy and eczema risk",
-      "body": "The mainstream view is that there are no particularly critical phases in the development of the immune system, but a study of hundreds of infants suggests otherwise",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2591816-first-week-of-life-seems-critical-for-future-allergy-and-eczema-risk/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Mathematicians and AI in behind-the-scenes battle over what&#8217;s true",
-      "body": "AI models are solving mathematics problems with increasing pace, and a technique called formalisation is key to demonstrating that their claimed solutions are indeed correct. But can we trust the formalisation process?",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2591256-mathematicians-and-ai-are-in-a-behind-the-scenes-battle-over-whats-true/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1911 —",
-      "hook": "The Kowloon–Canton Railway commences service.",
-      "body": "The Kowloon–Canton Railway was a railway network in Hong Kong. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4b/KowloonCanton.svg/330px-KowloonCanton.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Kowloon%E2%80%93Canton_Railway"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Krista Shereé Walton is an American chemical engineer.",
-      "body": "She is currently the Vice Chancellor for Research and Innovation and Distinguished University Professor of chemical and biomolecular engineering at NC State University. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Krista_walton_photo.jpg/330px-Krista_walton_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Krista_S._Walton"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1999 —",
-      "hook": "The Ladbroke Grove rail crash in West London kills 31 people.",
-      "body": "The Ladbroke Grove rail crash occurred on 5 October 1999 at Ladbroke Grove in London, England, when a Thames Trains passenger train passed a signal at danger, colliding almost head-on with a First Great Western passenger train. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ladbroke_Grove_rail_crash_-_Metropolitan_Police_Service_image_%283%29.jpg/330px-Ladbroke_Grove_rail_crash_-_Metropolitan_Police_Service_image_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ladbroke_Grove_rail_crash"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
-      "body": "<p><strong>Venice film festival: </strong>Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality</p><p>Lance Oppenheim is the acclaimed documentary-maker who ha",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Brain area discovered that may be critical for viable pregnancies",
-      "body": "A newly discovered part of the brain is essential for successful embryo implantation in mice. It may help to explain why some pregnancies and IVF attempts fail",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2591599-brain-area-discovered-that-may-be-critical-for-viable-pregnancies/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1990 —",
-      "hook": "After 150 years The Herald newspaper in Melbourne, Australia, is published for the last time as a separate newspaper.",
-      "body": "The Herald was a morning and, later, evening broadsheet newspaper published in Melbourne, Australia, from 3 January 1840 to 5 October 1990. One of those things you can't un-know.",
+      "opener": "On this day in 1968 —",
+      "hook": "A Northern Ireland Civil Rights Association march in Derry is violently suppressed by police.",
+      "body": "The Northern Ireland Civil Rights Association was an organisation that campaigned for civil rights for Irish Catholics in Northern Ireland during the late 1960s and early 1970s. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/The_Herald_(Melbourne)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Shimpei Nakayama was a Japanese songwriter famous for his many children's songs and popular songs (ryūkōka) that have become deeply embedded in Japanese popular culture.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/%E4%B8%AD%E5%B1%B1%E6%99%8B%E5%B9%B3.jpg/330px-%E4%B8%AD%E5%B1%B1%E6%99%8B%E5%B9%B3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Shinpei_Nakayama"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Imperial Beach is a beach city in San Diego County, California, United States, with a population of 26,137 as of the 2020 census.",
-      "body": "It is in the South Bay area of San Diego County, 14.1 miles (22.7 km) south of downtown San Diego and 5 miles (8 km) northwest of downtown Tijuana, Mexico. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Imperial_beach_ca_1.jpg/330px-Imperial_beach_ca_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Imperial_Beach%2C_California"
+      "url": "https://en.wikipedia.org/wiki/Northern_Ireland_Civil_Rights_Association"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Since 2022, it has been part of the new municipality of Maashorst.",
-      "body": "Uden is a town and former municipality in the province of North Brabant, in the Netherlands. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Uden%2C_de_Sint_Petruskerk_RM25829_foto4_2012-03-19_15.08.JPG/330px-Uden%2C_de_Sint_Petruskerk_RM25829_foto4_2012-03-19_15.08.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "River Park is an outdoor shopping center in Fresno, California on the east side of Blackstone Avenue.",
+      "body": "River Park is divided into three areas: The Marketplace, a traditional power center anchored by Target and Kohl's; an auxiliary shopping center with Chick-fil-A, Chipotle Mexican Grill and In-N-Out Burger, and The Shops at River Park, an outdoor lifestyle cent",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/River_Park_Shopping_Center%27s_Sign_%28Fresno%2C_CA%29.png/330px-River_Park_Shopping_Center%27s_Sign_%28Fresno%2C_CA%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Uden"
+      "url": "https://en.wikipedia.org/wiki/River_Park_(Fresno%2C_California)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
-      "body": "The star's record label is sued over similarities between her song I've Seen It and Withers' classic.",
+      "hook": "Matthew Rhys takes Best Actor at Bafta Cymru for performance in Netflix thriller",
+      "body": "The actor added another award to his cabinet after winning two lead acting Emmys last month.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c95yn0g587vxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Charity tea room may close despite Ludwig filming",
+      "body": "The series, starring David Mitchell, is filming scenes in Hemel Hempstead.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cq39mgmyr94do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1450 —",
+      "hook": "Louis IX, Duke of Bavaria expels Jews from his jurisdiction.",
+      "body": "Louis IX was Duke of Bavaria-Landshut from 1450. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Ludwig_der_Reiche.jpg/330px-Ludwig_der_Reiche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Louis_IX_of_Bavaria"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1869 —",
+      "hook": "The Saxby Gale devastates the Bay of Fundy region in Canada.",
+      "body": "The Saxby Gale was a tropical cyclone which struck eastern Canada's Bay of Fundy region on the night of October 4–5, 1869. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1869_Saxby_Gale"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Sleeping Beauties by David Byrne review – a quirky journey through the afterlife of invention",
+      "body": "<p>The Talking Heads frontman considers the dormant ideas that made a comeback – from Indian irrigation to Kafka</p><p>There’s barely been a moment in the last half-century when David Byrne hasn’t been zinging about, dancing forward, opting",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/music/2026/oct/05/sleeping-beauties-by-david-byrne-review-a-quirky-journey-through-the-afterlife-of-invention"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Arizona Kid is a 1988 novel by Ron Koertge about a summer 16-year-old Billy spends living with his gay uncle and working with racehorses.",
+      "body": "It is a coming of age story, exploring concepts of masculinity and what it means to be a \"man\". The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Arizona_Kid_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Arizona_Kid_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1945 —",
+      "hook": "A six-month strike by Hollywood set decorators turns into a bloody riot at the gates of the Warner Brothers studio.",
+      "body": "Hollywood Black Friday, or Hollywood Bloody Friday, is the name given, in the history of organized labor in the United States, to October 5, 1945. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hollywood_Black_Friday"
     }
   ]
 }
