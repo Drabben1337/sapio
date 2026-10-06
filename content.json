@@ -1,139 +1,239 @@
 {
-  "generated": "2026-10-06T16:18:54.404Z",
-  "count": 14,
+  "generated": "2026-10-06T21:19:10.583Z",
+  "count": 24,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘I’m bringing together women who nourish me’: French film-maker Alice Diop on her debut installation",
-      "body": "<p>The Saint Omer director has gathered work by artists, writers, composers and poets for Geste de Consolation, set in the 60m-long central hall of the Palais d’Iena in Paris</p><p>Alice Diop has just returned to France from California when",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/06/french-film-maker-alice-diop-debut-installation-geste-de-consolation"
+      "cat": "geography",
+      "opener": "File under 'wait, really?' —",
+      "hook": "It stretches from the tip of the Iberian Peninsula at Gibraltar in the southwest to the endorheic basin of the Caspian Sea in Russia in the northeast.",
+      "body": "The main European watershed is the drainage divide (\"watershed\") which separates the basins of the rivers that empty into the Atlantic Ocean, the North Sea and the Baltic Sea from those that feed the Mediterranean Sea, the Adriatic Sea and the Black Sea. One o",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Europ%C3%A4ische_Wasserscheiden.png/330px-Europ%C3%A4ische_Wasserscheiden.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/European_watershed"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1884 —",
+      "hook": "The Naval War College of the United States is founded in Rhode Island.",
+      "body": "The Naval War College is the staff college and \"Home of Thought\" for the United States Navy at Naval Station Newport in Newport, Rhode Island. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Naval_War_College_seal.svg/330px-Naval_War_College_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Naval_War_College"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Hamlet’s goodbye, the last of Leigh, Birmingham blues and a vampire in Vienna: 12 great films at the London film festival",
-      "body": "<p>Our critic picks out some of the most outstanding cinema screening at the UK’s most prestigious film event in 2026</p><p>This film puts Andrew Scott in line to become <a href=\"https://www.theguardian.com/film/2026/sep/19/andrew-scott-bes",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/06/london-film-festival-mike-leigh-elsinore-andew-scott-2026"
+      "opener": "The Guardian · Culture —",
+      "hook": "Jon Stewart on Trump and AI tech bros: ‘Stop lying to us’",
+      "body": "<p>Late-night hosts discussed the frightening rise of AI and how Trump is choosing to target voters for the midterms</p><p>Late-night hosts took aim at Donald Trump’s close ties to the AI industry and his flailing attempts to lure midterm v",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/culture/2026/oct/06/jon-stewart-trump-ai-tech-bros"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in -105 —",
+      "hook": "Cimbrian War: Defeat at the Battle of Arausio of the Roman army of the mid-Republic.",
+      "body": "The Cimbrian or Cimbric War was fought between the Roman Republic and the Germanic and Celtic tribes of the Cimbri and the Teutons, Ambrones and Tigurini, who migrated from the Jutland peninsula into Roman-controlled territory, and clashed with Rome and her allies. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Cimbrians_and_Teutons_invasions.svg/330px-Cimbrians_and_Teutons_invasions.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cimbrian_War"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Silver Pines review – a stylish, neo-noir detective drama",
-      "body": "<p><strong>PC, PS5, Switch 2; Wych Elm Games, Team 17<br></strong>Abandoned shops, ruined apartment buildings and rotting sewer networks make up a dark landscape in which you play a private eye searching for a missing singer-songwriter</p><",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/games/2026/oct/06/silver-pines-review-neo-noir-detective-drama-wych-elm-games-team-17"
+      "opener": "Screen Daily —",
+      "hook": "Paramount completes $111bn WBD merger",
+      "body": "“Today is a historic day, not just for Skydance but for our entire industry.”",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/paramount-completes-111bn-wbd-merger/5221131.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "He was born in Pabianice, Poland and died aged 53 in exile in Montfermeil, Paris, France.",
+      "body": "Józef Pluskowski was a Polish poet, teacher, administrator and member of the Polish Resistance under the pseudonym \"Mierzwa\". Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/J%C3%B3zef_Pluskowski.jpg/330px-J%C3%B3zef_Pluskowski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/J%C3%B3zef_Pluskowski"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "In 2013, the parish merged into the new parish Areias, Sequeiró, Lama e Palmeira.",
-      "body": "Areias is a former civil parish in the municipality of Santo Tirso, Portugal. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "292 (1988), which had created a precedent that left federal employees open to liability to civil suits for actions they took while performing their duties for the government.",
+      "body": "The Federal Employees Liability Reform and Tort Compensation Act of 1988, also known as the Westfall Act, is a law passed by the United States Congress that modifies the Federal Tort Claims Act to protect federal employees from common law tort lawsuit while en",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Areias_(Santo_Tirso)"
+      "url": "https://en.wikipedia.org/wiki/Federal_Employees_Liability_Reform_and_Tort_Compensation_Act_of_1988"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Aurelianus was Archbishop of Arles from 546 to 551.",
-      "body": "His predecessors were Auxanius and Caesarius of Arles. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Aurelianus_of_Arles"
-    },
-    {
-      "type": "card",
-      "cat": "books",
+      "cat": "history",
       "opener": "Here's one for the group chat —",
-      "hook": "Nebula Awards Showcase 2015 is an anthology of science fiction short works edited by American writer Greg Bear.",
-      "body": "It was first published in trade paperback by Pyr in December 2015. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/Nebula_Awards_Showcase_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "A joint release by the UK-based 4AD and the American Relativity Records, it was their first official U.S.",
+      "body": "The Pink Opaque is a 1986 compilation album by Scottish alternative rock band Cocteau Twins, composed of tracks recorded between 1982 and 1985. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/ThePinkOpaque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nebula_Awards_Showcase_2015"
+      "url": "https://en.wikipedia.org/wiki/The_Pink_Opaque"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "opener": "New Scientist —",
+      "hook": "Shoes may change the structure of our ankle bones",
+      "body": "Wearing shoes seems to affect the density and volume of a spongy network within a bone in our ankles, which could affect the validity of previous research into the evolution of walking",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2592375-shoes-may-change-the-shape-of-our-ankle-bones/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "The west has a blinkered view of African music – and it’s hurting the whole continent’s culture",
-      "body": "<p>The term Afrobeats is applied to all sorts of genres, flattening them into one. Artists, media and the music industry must do better at showing off the richness of African pop</p><p>In 2024, South African pop star Tyla won the best Afrob",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/oct/06/african-music-afrobeats-tyla"
+      "cat": "history",
+      "opener": "On this day in 1920 —",
+      "hook": "Ukrainian War of Independence: The Starobilsk agreement is signed by representatives of the Ukrainian Soviet Socialist Republic and the Makhnovshchina.",
+      "body": "The Ukrainian War of Independence, also referred to as the Ukrainian–Soviet War in Ukraine, lasted from March 1917 to November 1921 and was part of the wider Russian Civil War. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/1917._%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D1%83%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BA%D0%BE%D0%BC%D0%B0_%D0%AE%D0%B7%D0%BE%D0%B2%D0%BA%D0%B8.jpg/330px-1917._%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D1%83%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BA%D0%BE%D0%BC%D0%B0_%D0%AE%D0%B7%D0%BE%D0%B2%D0%BA%D0%B8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_War_of_Independence"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "In nuclear physics, beta decay (β-decay) is a type of radioactive decay in which an atomic nucleus emits a beta particle, transforming into an isobar of that nuclide.",
+      "body": "For example, beta decay of a neutron transforms it into a proton by the emission of an electron accompanied by an antineutrino; or, conversely a proton is converted into a neutron by the emission of a positron with a neutrino in what is called positron emissio",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Beta-minus_Decay.svg/330px-Beta-minus_Decay.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beta_decay"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
-      "body": "<p>Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley &amp; Me</p><p>One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from scree",
+      "hook": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
+      "body": "<p>This over-controlled adventure never takes a breath or a moment to let its characters come to life</p><p>Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me ano",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘We have been dispossessed’: Nick Hayes on land rights and a peaceful revolution at the real Toad Hall",
-      "body": "<p>The co-founder of the Right to Roam campaign and author of The Book of Trespass discusses the Oxfordshire riverside community he calls home and how Hardwick Hall has been taken back by the people</p><p>On the banks of the Thames in South",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/04/we-have-been-dispossessed-nick-hayes-on-land-rights-and-a-peaceful-revolution-at-the-real-toad-hall"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Tan Chung is an authority on Chinese history, Sino-Indian relations and cultural exchange.",
-      "body": "He has been a doyen of Chinese cultural studies in India for nearly half a century. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tan_Chung"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Mary Eristavi was a Georgian aristocrat, fashion icon, and one of the earliest models of Coco Chanel.",
-      "body": "She held a respectable position in Georgian high society, as well as the Russian Imperial court for the last few decades of its existence. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Mary_Eristavi.jpg/330px-Mary_Eristavi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mary_Eristavi"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Minerals Income Investment Fund is a fund that seeks to manage the equity interests and receive mineral royalties and income for Ghana.These incomes are generated from mining and its operationalization.",
-      "body": "The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Minerals_Income_Investment_Fund"
+      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Leo Motzkin was a Russian Zionist leader.",
-      "body": "A leader of the World Zionist Congress and numerous Jewish and Zionist organizations, Motzkin was a key organizer of the Jewish delegation to the 1919 Paris Peace Conference and one of the first Jewish leaders to organize opposition to the Nazi Party in German",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Leo_Motzkin_%28FL12175475%29.jpg/330px-Leo_Motzkin_%28FL12175475%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Gorilla-Man is an alias used by three different superheroes appearing in American comic books published by Marvel Comics, beginning in 1954 with the character of Kenneth Hale, and continuing with Arthur Nagan, who also first appeared in 1954, and Franz Radzik, who first appeared in 1962.",
+      "body": "The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Leo_Motzkin"
+      "url": "https://en.wikipedia.org/wiki/Gorilla-Man"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The population was 1,508 at the 2020 census.",
+      "body": "Cornish is a town in York County, Maine, United States. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/CornishME_Downtown.jpg/330px-CornishME_Downtown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cornish%2C_Maine"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Royal Norwegian Navy Museum is a museum documenting the history of the Royal Norwegian Navy.",
+      "body": "It is located at the former main naval base of Karljohansvern in Horten. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Marinemuseet_i_Horten_holder_til_i_de_gamle_magasinbygningene_p%C3%A5_Karljohansvern.jpg/330px-Marinemuseet_i_Horten_holder_til_i_de_gamle_magasinbygningene_p%C3%A5_Karljohansvern.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Royal_Norwegian_Navy_Museum"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Joseph Emilio \"Jun\" Aguinaldo Abaya is a Filipino politician, lawyer, and military officer.",
+      "body": "He was the Secretary of the Department of Transportation and Communications (DOTC) of the Philippines under the administration of President Benigno Aquino III. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jun_Abaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jun_Abaya"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1977 —",
+      "hook": "The first prototype of the Mikoyan MiG-29, designated 9-01, makes its maiden flight.",
+      "body": "The Mikoyan MiG-29 is a twin-engine fighter aircraft designed in the Soviet Union. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/VVS_100th_IMG_0691_%287727464290%29_%28cropped%29.jpg/330px-VVS_100th_IMG_0691_%287727464290%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1810 —",
+      "hook": "A large fire destroys a third of all the buildings in the town of Raahe in the Grand Duchy of Finland.",
+      "body": "Raahe is a town in Finland, located on the western coast of the country. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Raahe_church_and_statue.jpg/330px-Raahe_church_and_statue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Raahe"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1990 —",
+      "hook": "Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.",
+      "body": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The computed tomography dose index (CTDI) is a commonly used radiation exposure index in X-ray computed tomography (CT), first defined in 1981.",
+      "body": "The unit of CTDI is the gray (Gy) and it can be used in conjunction with patient size to estimate the absorbed dose. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Computed_tomography_dose_index"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
+      "body": "<p><strong>Venice film festival: </strong>Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality</p><p>Lance Oppenheim is the acclaimed documentary-maker who ha",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
+      "body": "<p><strong>New York film festival:</strong> The origin story of Sam Altman’s company is reimagined as a campy comedy starring Andrew Garfield</p><p>On the day that <a href=\"https://www.theguardian.com/film/luca-guadagnino\">Luca Guadagnino</",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "This Chronicle covers the period from 1204 to 1426 and gives several names of emperors formerly unknown.\"",
+      "body": "Michael Panaretos was an official of the Trapezuntine empire and a Greek historian. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Michael_Panaretos"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Sleeping Beauties by David Byrne review – a quirky journey through the afterlife of invention",
+      "body": "<p>The Talking Heads frontman considers dormant ideas that made a comeback – from Indian irrigation to Kafka</p><p>There’s barely been a moment in the last half-century when David Byrne hasn’t been zinging about, dancing forward, opting odd",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/music/2026/oct/05/sleeping-beauties-by-david-byrne-review-a-quirky-journey-through-the-afterlife-of-invention"
     }
   ]
 }
