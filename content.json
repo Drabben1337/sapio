@@ -1,7 +1,17 @@
 {
-  "generated": "2026-10-05T22:57:04.516Z",
-  "count": 23,
+  "generated": "2026-10-06T02:36:03.233Z",
+  "count": 24,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "The Girl Who Leapt Through Space is a Japanese anime television series, created and produced by Sunrise.",
+      "body": "Based on the original concept by the Sunrise animation staff, the series is directed by Masakazu Obara and written by Jukki Hanada, overseeing a team of animators noted for their previous work on My-HiME and My-Otome. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Sora_Kake_Girl_promo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Space"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -10,6 +20,55 @@
       "body": "<p>Mattie Music Group, owners of Bill Withers’ back catalogue, contend the Grammy winner infringed on Just the Two of Us</p><p><a href=\"https://www.theguardian.com/music/olivia-dean\">Olivia Dean</a> has been accused of plagiarizing the <a h",
       "src": "The Guardian · Culture",
       "url": "https://www.theguardian.com/music/2026/oct/02/olivia-dean-ive-seen-it-plagiarism"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Jiken series are Japanese mystery novels by Kouhei Kadono.",
+      "body": "Kadono began his career writing light novels, but this series came from a mainstream publishing label, Kodansha Novels. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/df/The_case_of_the_Dragonslayer_Volume_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jiken_series"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘An extraordinary hour’: the explosive play re-staging the biggest TV clash of the Aids era",
+      "body": "<p>A New York production brings Larry Kramer and Anthony Fauci’s 1993 debate to life in a masterclass of controlled fury</p><p>On 30 November 1993, the Aids activist <a href=\"https://www.theguardian.com/culture/2020/may/27/larry-kramer-deat",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/stage/2026/oct/03/kramer-fauci-aids-play-brookyn-new-york"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2022 —",
+      "hook": "Annie Ernaux is awarded the Nobel Prize in Literature.",
+      "body": "Annie Thérèse Blanche Ernaux is a French writer who was awarded the 2022 Nobel Prize in Literature \"for the courage and clinical acuity with which she uncovers the roots, estrangements, and collective restraints of personal memory\". The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Annie_Ernaux_in_2022_%284_av_11%29.jpg/330px-Annie_Ernaux_in_2022_%284_av_11%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Annie_Ernaux"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1939 —",
+      "hook": "World War II: The Battle of Kock is the final combat of the September Campaign in Poland.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
     },
     {
       "type": "video",
@@ -23,61 +82,31 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Khadija Mastoor was a Pakistani Urdu-language short story writer and novelist.",
-      "body": "Her 1962 novel Aangan is widely considered a literary masterpiece in Urdu literature, and has been adapted into a television drama series. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Khadija_Mastoor_Urdu_writer.png/330px-Khadija_Mastoor_Urdu_writer.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Khadija_Mastoor"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I was sideswiped by Giada Scodellaro’s <strong>Ruins, Child</strong>. A brilliant, strange book that challeng",
+      "hook": "A former poet laureate and a Pulitzer winner lead TS Eliot prize shortlist",
+      "body": "<p>10 poets are in the running for the prestigious £25,000 prize, with collections that ‘remind us why it’s to poetry we turn to reorient ourselves’</p><p>The former poet laureate Andrew Motion and Pulitzer prize winner Jorie Graham are amo",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Fourteen Days is a novel collaboratively written by 36 authors and edited by Margaret Atwood and Douglas Preston.",
-      "body": "The book is set in a Lower East Side tenement and consists of fourteen chapters taking place in fourteen days, beginning on March 31, 2020. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a7/Fourteen_Days_edited_by_Margaret_Atwood_and_Douglas_Preston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fourteen_Days"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Oliver Hazard Perry La Farge II was an American writer and anthropologist.",
-      "body": "In 1925, he surveyed many early Olmec sites in Mexico, and later studied additional sites in Central America and the American Southwest. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Oliver_La_Farge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Oliver_La_Farge"
+      "url": "https://www.theguardian.com/books/2026/oct/05/a-former-poet-laureate-and-a-pulitzer-winner-lead-ts-eliot-prize-shortlist"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Author and former politician Jeffrey Archer dies aged 86",
-      "body": "His last book, Adam and Eve, is set to release this month.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss"
+      "opener": "ESA —",
+      "hook": "Happy New Year on Mars",
+      "body": "30 September 2026 marks the start of a new year on Mars. At exactly 10:16 CEST/08:16 UTC on Earth, the Red Planet begins a new orbit around our Sun.",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1999 —",
-      "hook": "The Ladbroke Grove rail crash in West London kills 31 people.",
-      "body": "The Ladbroke Grove rail crash occurred on 5 October 1999 at Ladbroke Grove in London, England, when a Thames Trains passenger train passed a signal at danger, colliding almost head-on with a First Great Western passenger train. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ladbroke_Grove_rail_crash_-_Metropolitan_Police_Service_image_%283%29.jpg/330px-Ladbroke_Grove_rail_crash_-_Metropolitan_Police_Service_image_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1976 —",
+      "hook": "Dozens are killed by Thai police and right-wing paramilitaries in the Thammasat University massacre; afterwards, the Seni Pramoj government is toppled in a military coup led by Sangad Chaloryu.",
+      "body": "The 6 October 1976 massacre, also known as the 6 October event in Thailand, was a violent crackdown by Thai police and lynching by right-wing paramilitaries and bystanders against leftist protesters who had occupied Bangkok's Thammasat University and the adjacent Sanam Luang, on 6 October 1976. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2d/Beating_corpse_with_a_chair%2C_6_October_1976.jpg/330px-Beating_corpse_with_a_chair%2C_6_October_1976.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ladbroke_Grove_rail_crash"
+      "url": "https://en.wikipedia.org/wiki/6_October_1976_massacre"
     },
     {
       "type": "card",
@@ -91,90 +120,21 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1931 —",
-      "hook": "Clyde Edward Pangborn and Hugh Herndon, Jr. make the first nonstop flight across the Pacific Ocean in the plane Miss Veedol.",
-      "body": "Clyde Edward Pangborn, nicknamed \"Upside-Down Pangborn\", was an American aviator and barnstormer who performed aerial stunts in the 1920s for the Gates Flying Circus. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/13/Clyde_Pangborn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Clyde_Pangborn"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 869 —",
-      "hook": "The Fourth Council of Constantinople is convened to depose patriarch Photios I.",
-      "body": "The Fourth Council of Constantinople was the eighth ecumenical council of the Catholic Church held in Constantinople from 5 October 869, to 28 February 870. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Cesare_Nebbia_%E2%80%93_Fourth_Council_of_Constantinople.jpg/330px-Cesare_Nebbia_%E2%80%93_Fourth_Council_of_Constantinople.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Fourth_Council_of_Constantinople_(Catholic_Church)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1966 —",
-      "hook": "A reactor at the Enrico Fermi Nuclear Generating Station near Detroit suffers a partial meltdown.",
-      "body": "The Enrico Fermi Nuclear Generating Station is a nuclear power plant on the shore of Lake Erie near Monroe, in Frenchtown Charter Township, Michigan on approximately 1,000 acres (400 ha). Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fermi_NPP.jpg/330px-Fermi_NPP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Enrico_Fermi_Nuclear_Generating_Station"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Hell on Frisco Bay is a 1956 American CinemaScope film noir crime film directed by Frank Tuttle and starring Alan Ladd, Edward G.",
-      "body": "It was made for Ladd's own production company, Jaguar. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/3c/Hell_on_Frisco_Bay_-_1955_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "From birth until 1967 he was known by the courtesy title of Viscount Somerton.",
+      "body": "Shaun James Christian Welbore Ellis Agar, 6th Earl of Normanton was an Irish and British peer, soldier, landowner, and powerboat racer. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hell_on_Frisco_Bay"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 610 —",
-      "hook": "Heraclius arrives at Constantinople, kills Byzantine Emperor Phocas, and becomes emperor.",
-      "body": "Heraclius was Byzantine emperor from 610 to 641. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Heraclius_solidus.jpg/330px-Heraclius_solidus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Heraclius"
+      "url": "https://en.wikipedia.org/wiki/Shaun_Agar%2C_6th_Earl_of_Normanton"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "The ICE documentary as chilling as a horror movie: ‘We’re trying to put the audience in a position of terror’",
-      "body": "<p>Film-makers Laura Poitras and Rachel Lauren Mueller’s new short is an unvarnished portrait of ICE-occupied Minneapolis</p><p><a href=\"https://www.theguardian.com/film/get-out\">Get Out</a>. <a href=\"https://www.theguardian.com/film/articl",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/oct/02/laura-poitras-rachel-lauren-mueller-theyre-here-interview-ice-documentary-short"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
-      "body": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1813 —",
-      "hook": "War of 1812: The Army of the Northwest defeats a British and Native Canadian force threatening Detroit.",
-      "body": "The War of 1812 was a conflict initiated by the United States against the United Kingdom and its allies fought mainly in North America and at sea during the wider Napoleonic Wars. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/War_of_1812_Montage.jpg/330px-War_of_1812_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/War_of_1812"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
+      "opener": "The Guardian · Film —",
+      "hook": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
+      "body": "<p><strong>Toronto film festival:</strong> the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama</p><p>Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill ki",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review"
     },
     {
       "type": "video",
@@ -188,13 +148,33 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1908 —",
+      "hook": "The Bosnian crisis erupts when Austria-Hungary formally annexes Bosnia and Herzegovina.",
+      "body": "The Bosnian Crisis, also known as the Annexation Crisis or the First Balkan Crisis, erupted on 5 October 1908 when Austria-Hungary announced the annexation of Bosnia and Herzegovina, territories formerly within the sovereignty of the Ottoman Empire but under Austro-Hungarian administration since 1878. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Le_Petit_Journal_Balkan_Crisis_%281908%29.jpg/330px-Le_Petit_Journal_Balkan_Crisis_%281908%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bosnian_Crisis"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Witness is a free poetry book of historical fiction written by Karen Hesse in 2001, concentrating on racism in a rural Vermont town in 1924.",
-      "body": "Voices include those of Leanora Sutter, a 12-year-old African American girl; Esther Hirsh, a 6-year-old girl from New York; Sara Chickering, a quiet spinster farmer; Iris Weaver, a young restaurant owner, bootlegger and illegal booze runner; Reynard Alexander,",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Witness_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "The Mothman Prophecies is a 2002 American supernatural horror film directed by Mark Pellington, and starring Richard Gere and Laura Linney, with Will Patton, Debra Messing, Alan Bates, and Lucinda Jenney in supporting roles.",
+      "body": "Based on the 1975 book of the same name by parapsychologist and Fortean author John Keel, the screenplay was written by Richard Hatem. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/44/Mothman_prophecies_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Witness_(novel)"
+      "url": "https://en.wikipedia.org/wiki/The_Mothman_Prophecies_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in -69 —",
+      "hook": "Third Mithridatic War: The military of the Roman Republic subdues Armenia.",
+      "body": "The Third Mithridatic War, the last and longest of the three Mithridatic Wars, was fought between Mithridates VI of Pontus and the Roman Republic. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/1stMithritadicwar89BC.svg/330px-1stMithritadicwar89BC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Third_Mithridatic_War"
     },
     {
       "type": "video",
@@ -205,6 +185,36 @@
       "src": "CC BY-SA 3.0 · Wikimedia",
       "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
       "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Beau Blackstone is a 1973 historical thriller novel by the British writer Derek Lambert, published under the pen name Richard Falkirk.",
+      "body": "It is the third in a series of six novels featuring Edmund Blackstone, a member of the Bow Street Runners in the pre-Victorian era. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9c/Beau_Blackstone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beau_Blackstone"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Erika Renee Land is an American war poet, 2021 MacDowell Fellow, author, spoken word performer, and motivational speaker.",
+      "body": "She has published two poetry collections that chronicle her experiences as a pharmacy technician while helping the Global War on Terrorism efforts, several lesbian fiction novels, and academic articles. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Erika_Renee_Land_Headshot.jpg/330px-Erika_Renee_Land_Headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Erika_Renee_Land"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1777 —",
+      "hook": "American Revolutionary War: British forces capture Forts Clinton and Montgomery on the Hudson River.",
+      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
     },
     {
       "type": "video",
@@ -220,10 +230,10 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "A former poet laureate and a Pulitzer winner lead TS Eliot prize shortlist",
-      "body": "<p>10 poets are in the running for the prestigious £25,000 prize, with collections that ‘remind us why it’s to poetry we turn to reorient ourselves’</p><p>The former poet laureate Andrew Motion and Pulitzer prize winner Jorie Graham are amo",
+      "hook": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
+      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I was sideswiped by Giada Scodellaro’s <strong>Ruins, Child</strong>. A brilliant, strange book that challeng",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/05/a-former-poet-laureate-and-a-pulitzer-winner-lead-ts-eliot-prize-shortlist"
+      "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september"
     }
   ]
 }
