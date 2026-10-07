@@ -1,26 +1,25 @@
 {
-  "generated": "2026-10-07T07:46:15.429Z",
-  "count": 17,
+  "generated": "2026-10-07T14:47:46.148Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "The Requiem by Frederick Delius was written between 1913 and 1916, and first performed in 1922.",
-      "body": "It is set for soprano, baritone, double chorus and orchestra, and is dedicated \"To the memory of all young artists fallen in the war\". Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/79/Fritz_Delius_%281907%29.jpg/330px-Fritz_Delius_%281907%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Broker is a suspense novel written by American author John Grisham and published in the United States on January 11, 2005.",
+      "body": "The novel follows the story of Joel Backman, a newly pardoned prisoner who had tried to broker a deal to sell the world's most powerful satellite surveillance system to the highest bidder. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/83/The_Broker_Grisham_Novel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Requiem_(Delius)"
+      "url": "https://en.wikipedia.org/wiki/The_Broker"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Secret Orchard is a 1915 American drama silent film directed by Frank Reicher and written by Channing Pollock and William C.",
-      "body": "The film stars Cleo Ridgely, Blanche Sweet, Edward MacKay, Gertrude Kellar, Carlyle Blackwell and Theodore Roberts. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Secret_Orchard"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Other Worlds Than These by Stephen King and Peter Straub review – a self-indulgent finale to the Talisman trilogy",
+      "body": "<p>There are moments of shivering joy as the protagonist of two enduring classics, Jack Sawyer, returns – but this time his journey feels endlessly repetitive</p><p>Bear with me, because there is some backstory to get through before we can ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/07/other-worlds-than-these-by-stephen-king-and-peter-straub-review-a-self-indulgent-finale-to-the-talisman-trilogy"
     },
     {
       "type": "card",
@@ -34,136 +33,147 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1958 —",
-      "hook": "The 1958 Pakistani coup d'état inaugurates a prolonged period of military rule.",
-      "body": "The 1958 Pakistani military coup was the first military coup in Pakistan that took place on 27 October 1958. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1958_Pakistani_military_coup"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
+      "body": "<p>Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump</p><p>Here is a film for all those people who solemnly deplore social media in conversatio",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in -3761 —",
-      "hook": "The epoch reference date (start) of the modern Hebrew calendar.",
-      "body": "The Hebrew calendar, also called the Jewish calendar, is a lunisolar calendar used today for Jewish religious observance and as an official calendar of Israel. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Jewish_calendar%2C_showing_Adar_II_between_1927_and_1948.jpeg/330px-Jewish_calendar%2C_showing_Adar_II_between_1927_and_1948.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1959 —",
+      "hook": "The Soviet probe Luna 3 transmits the first-ever photographs of the far side of the Moon.",
+      "body": "Luna 3, or E-2A No.1, was a Soviet spacecraft launched in 1959 as part of the Luna programme. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/%D0%9B%D1%83%D0%BD%D0%B0-3_%2814562265547%29.jpg/330px-%D0%9B%D1%83%D0%BD%D0%B0-3_%2814562265547%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hebrew_calendar"
+      "url": "https://en.wikipedia.org/wiki/Luna_3"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1985 —",
+      "hook": "The Mameyes landslide kills almost 200 people in Puerto Rico.",
+      "body": "The 1985 Puerto Rico floods produced showers and thunderstorms across the island and the deadliest single landslide on record on United States territory, that killed at least 130 people in the Mameyes neighborhood of barrio Portugués Urbano in Ponce. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/98/October_1985_PR_sat_image.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1985_Puerto_Rico_floods"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: The Sonderkommando Revolt in Auschwitz was an uprising of prisoners (especially the Sonderkommando) at the Auschwitz concentration camp, they burnt down Crematorium IV.",
+      "body": "The Auschwitz Sonderkommando revolt occurred on 7 October 1944, when a large group of Sonderkommando members in the crematoria area of Birkenau camp rebelled against the SS guards of the camp. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Auschwitz_Resistance_280_cropped.jpg/330px-Auschwitz_Resistance_280_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Auschwitz_Sonderkommando_revolt"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "A Feast for Crows is the fourth of seven planned novels in the epic fantasy series A Song of Ice and Fire by American author George R.",
+      "body": "The novel was first published in the United Kingdom on October 17, 2005, with a United States edition following on November 8, 2005. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/AFeastForCrows.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Feast_for_Crows"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1691 —",
+      "hook": "The charter for the Province of Massachusetts Bay is issued.",
+      "body": "The Province of Massachusetts Bay was a colony in New England which became one of the thirteen original states of the United States. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Red_ensign_of_Great_Britain_%281707%E2%80%931800%2C_square_canton%29.svg/330px-Red_ensign_of_Great_Britain_%281707%E2%80%931800%2C_square_canton%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Province_of_Massachusetts_Bay"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Pig Island is a 2006 novel by British writer Mo Hayder.",
+      "body": "The novel is nominally a thriller which mixes elements of the detective novel with more overt horror influences. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/01/Pigisland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pig_Island_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Weir of Hermiston is an 1896 unfinished novel by Robert Louis Stevenson.",
+      "body": "It is markedly different from his previous works in style and has often been praised as a potential masterpiece. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Weirofhermiston-bookcover1896.jpg/330px-Weirofhermiston-bookcover1896.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Weir_of_Hermiston"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1978 —",
+      "hook": "Aeroflot Flight 1080 crashes after takeoff from Koltsovo International Airport, killing 38.",
+      "body": "Aeroflot Flight 1080 was a Soviet domestic passenger flight from Sverdlovsk, Russia, to Dzhambul, Kazakhstan, that crashed at night shortly after takeoff on 7 October 1978. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Yakovlev_Yak-40%2C_CCCP-87792%2C_Aeroflot.jpg/330px-Yakovlev_Yak-40%2C_CCCP-87792%2C_Aeroflot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_1080"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Amazon wins global rights to stream Emmys in six-year deal",
-      "body": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1800 —",
-      "hook": "French corsair Robert Surcouf, commander of the 18-gun ship La Confiance, captures the British 38-gun Kent.",
-      "body": "Robert Surcouf was a French privateer, businessman and slave trader who operated in the Indian Ocean from 1789 to 1808 during the French Revolutionary and Napoleonic Wars. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/RTEmagicC_robert-surcouf_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Robert_Surcouf"
+      "opener": "The Guardian · Books —",
+      "hook": "Anne Carson and Can Xue favourites to win Nobel prize in literature",
+      "body": "<p>The Canadian poet and Chinese experimental writer are the bookmakers’ favourites to win, with Haruki Murakami, Gerald Murnane and Margaret Atwood also in the mix</p><p>Canadian poet Anne Carson and Chinese experimental writer Can Xue are",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/07/anne-carson-and-can-xue-favourites-to-win-nobel-prize-in-literature"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "24 Hour Party People review – daring metatextual paean to the Manchester music scene",
-      "body": "<p>Rereleased for its 24th anniversary, Michael Winterbottom’s freewheeling film about a journalist who championed post-punk bands couldn’t have starred anyone but Steve Coogan</p><p>Michael Winterbottom’s intriguing, daring, freewheeling m",
+      "hook": "Post your questions for Celia Imrie",
+      "body": "<p>From Miss Babs in Acorn Antiques to Calendar Girls, The Best Exotic Marigold Hotel and her infamous appearance on The Celebrity Traitors, it’s hard to know where to begin</p><p>Celia Imrie has had such a varied career, it’s hard to know ",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/07/24-hour-party-people-review-michael-winterbottom-steve-coogan"
+      "url": "https://www.theguardian.com/culture/2026/oct/07/post-your-questions-for-celia-imrie"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Will the Zuckerberg, Musk and Altman movies make a dent on tech giant evangelism?",
+      "body": "<p>The triple release of The Social Reckoning, Musk and Artificial is less a clear political stance, more like movie studio opportunism</p><p>Hollywood is sending a clear message: it’s a friend of tech. Netflix is no longer a lone disruptor",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-musk-and-artificial-zuckerberg-musk-and-altman-movies-tech"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Eva Marie Saint: the Hitchcock Blonde who outgrew the persona",
+      "body": "<p>Her glacial poise in North By Northwest made her a cinematic icon, but films including On the Waterfront and Loving revealed great subtlety alongside the glamour</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/oct/06/eva-mar",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/07/eva-marie-saint-death-hitchcock-blonde-north-by-northwest"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘Curious and circumspect creatures’: the artist making sculptures for the rats of New York City",
+      "body": "<p>For his latest project, Asad Raza made ‘public art’ for rats with pieces designed to appeal to the city’s maligned rodents</p><p>“We call this the Hell Door,” artist Asad Raza explained animatedly. It’s 10pm on a warm August evening, and",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/07/nyc-rat-art-sculptures"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Moses the Lawgiver (1975) is a novel by Australian writer Thomas Keneally.",
-      "body": "The novel is based on the British television series \"Moses the Lawgiver\", for which Anthony Burgess wrote the script. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/Moses_the_Lawgiver_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Before I Go to Sleep is the first novel by S.",
+      "body": "Watson, published in the spring of 2011. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b6/BeforeIGoToSleep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Moses_the_Lawgiver_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2000 —",
-      "hook": "Israeli-Palestinian conflict: Hezbollah militants capture three Israeli Defense Force soldiers in a cross-border raid.",
-      "body": "Israel and the Palestinians are engaged in an ongoing military and political conflict about land and self-determination within the former territory of Mandatory Palestine. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Occupied_Palestinian_Territories.jpg/330px-Occupied_Palestinian_Territories.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "LFF head Kristy Matheson on curating her fourth edition, funding changes",
-      "body": "This year’s BFI London Film Festival – the fourth curated by Kristy Matheson – is blessed with a stellar lineup of Screen Talks and two big animations receiving their world premieres.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/lff-head-kristy-matheson-on-curating-her-fourth-edition-funding-changes/5221110.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Jimmy McGovern claims young offender institution staff 'lazy'",
-      "body": "McGovern says officers are lazy after visiting youth offenders' institutions for new series of BBC drama.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56le7wr6zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1963 —",
-      "hook": "President Kennedy signs the ratification of the Partial Nuclear Test Ban Treaty.",
-      "body": "The Partial Test Ban Treaty (PTBT), formally known as the 1963 Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space and Under Water, prohibited all test detonations of nuclear weapons except for those conducted underground. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/PTBT_Participation.svg/330px-PTBT_Participation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Partial_Nuclear_Test_Ban_Treaty"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Oscar-winning actress Eva Marie Saint dies aged 102",
-      "body": "She starred opposite Marlon Brando, then alongside Cary Grant in Hitchcock's North by Northwest.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Blockers by Michael Lewis review – the quiet heroes who tried to stop Doge",
-      "body": "<p>The author of Moneyball brings his exceptional narrative skills to bear on Musk’s anti-government crusade</p><p>Donald Trump’s catastrophic errors get so much attention that his systemic ones can easily be missed. While the world looks o",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/07/blockers-by-michael-lewis-review-the-quiet-heroes-who-tried-to-stop-doge"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Children’s books with Black main characters down 8% in a year, study shows",
-      "body": "<p>Only 150 of 2,189 titles published in UK for young children last year focused on minority ethnic, disabled or neurodivergent characters</p><p>The number of children’s books featuring Black main characters fell by almost 8% last year, acc",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/05/childrens-books-with-black-main-characters-down-study-uk"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Miracle Village is a community on Muck City Road, about three miles (4.8 km) east of Pahokee, Florida, that serves as a haven for registered sex offenders.",
-      "body": "It is located within one of the most isolated and poorest parts of Palm Beach County. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Miracle_Village"
+      "url": "https://en.wikipedia.org/wiki/Before_I_Go_to_Sleep"
     }
   ]
 }
