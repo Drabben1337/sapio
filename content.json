@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T20:14:15.351Z",
-  "count": 19,
+  "generated": "2026-10-08T00:29:27.284Z",
+  "count": 12,
   "items": [
     {
       "type": "card",
@@ -13,41 +13,22 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Holding Lightning by Emily Lordi review – an intimate portrait of Whitney Houston",
-      "body": "<p>An empathetic biography of the the singer recasts her tumultuous later career as a triumph of self-expression</p><p>Since Whitney Houston’s death in 2012, a flurry of books and documentaries have appeared, most of them presenting her lif",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/music/2026/oct/06/holding-lightning-by-emily-lordi-review-an-intimate-portrait-of-whitney-houston"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1864 —",
-      "hook": "American Civil War: A US Navy ship captures a Confederate raider in a Brazilian seaport.",
-      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Partita By Barbara Kingsolver review – a midlife follow-up to Demon Copperhead",
-      "body": "<p>The sex writing threatens to throw the novel off-kilter, but there are rich rewards in this tale of music and middle-aged compromises</p><p>What is the role of art in an artist’s life? Should you commit everything to honing your talent i",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/06/partita-by-barbara-kingsolver-review-a-quieter-follow-up-to-demon-copperhead"
-    },
-    {
-      "type": "card",
-      "cat": "history",
+      "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Katy Nichole is the debut extended play (EP) by American contemporary Christian music singer Katy Nichole, which was released via Centricity Music on June 24, 2022.",
-      "body": "The EP contains a guest appearance by Big Daddy Weave. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/68/Katy_Nichole_%28EP%29_-_Katy_Nichole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Destination Mecca is an early book by the writer Idries Shah, who went on to produce an extensive corpus of material on Sufism that is both accessible and relevant to contemporary western readers.",
+      "body": "It was first published by Rider in 1957, and subsequently by Octagon Press in 1969. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Destination_Mecca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Katy_Nichole_(EP)"
+      "url": "https://en.wikipedia.org/wiki/Destination_Mecca"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
+      "body": "The bestselling author and former politician died on Monday at the age of 86.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -60,130 +41,79 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1963 —",
-      "hook": "Buddhist crisis: Amid worsening relations, outspoken South Vietnamese First Lady Madame Ngo Dinh Nhu arrives in the US for a speaking tour, continuing a flurry of attacks on the Kennedy administration.",
-      "body": "The Buddhist crisis was a period of political and religious tension in South Vietnam between May and November 1963, characterized by a series of repressive acts by the South Vietnamese government and a campaign of civil resistance, led mainly by Buddhist activists. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg/330px-Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Buddhist_crisis"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The American Task Force on Palestine (ATFP) is an organization founded in 2003 to advocate that it is in the American national interest to promote an end to the Palestinian–Israeli conflict through the creation of a Palestinian state alongside Israel.",
-      "body": "It has not been active since 2016. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "File under 'wait, really?' —",
+      "hook": "Jedi Prince is a series of science fiction young-reader novels set in the Star Wars universe, written by Paul and Hollace Davids.",
+      "body": "They were published by Bantam Skylark between 1992 and 1993. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/15/The_Glove_of_Darth_Vader.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/American_Task_Force_on_Palestine"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1912 —",
-      "hook": "The Helsinki Stock Exchange sees its first transaction.",
-      "body": "Nasdaq Helsinki, formerly known as the Helsinki Stock Exchange, is a stock exchange located in Helsinki, Finland. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Helsingin_p%C3%B6rssin_rakennus.jpg/330px-Helsingin_p%C3%B6rssin_rakennus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Nasdaq_Helsinki"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Woman Racket is an extant 1930 American Pre-Code talking film directed by Robert Ober and Albert H.",
-      "body": "Kelley and starring Tom Moore and Blanche Sweet. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6d/The_Woman_Racket_film_Theatrical_release_poster_%281930%29.jpg/330px-The_Woman_Racket_film_Theatrical_release_poster_%281930%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Woman_Racket"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Jimmy Kimmel on Trump’s joke about Iran bombing LA: ‘Our own president wishing death to America’",
-      "body": "<p>Late-night hosts discuss Trump’s rally line that Iran should bomb LA or San Diego as he continues to defend costly war</p><p>Late-night hosts reacted to <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s inflamm",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/oct/07/jimmy-kimmel-trump-joke-iran-la-bombing"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1958 —",
-      "hook": "The 1958 Pakistani coup d'état inaugurates a prolonged period of military rule.",
-      "body": "The 1958 Pakistani military coup was the first military coup in Pakistan that took place on 27 October 1958. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1958_Pakistani_military_coup"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1963 —",
-      "hook": "President Kennedy signs the ratification of the Partial Nuclear Test Ban Treaty.",
-      "body": "The Partial Test Ban Treaty (PTBT), formally known as the 1963 Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space and Under Water, prohibited all test detonations of nuclear weapons except for those conducted underground. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/PTBT_Participation.svg/330px-PTBT_Participation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Partial_Nuclear_Test_Ban_Treaty"
+      "url": "https://en.wikipedia.org/wiki/Jedi_Prince_series"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "ALD-52, also known as 1-acetyl-LSD (1A-LSD) and falsely as \"Orange Sunshine\", is a psychedelic drug of the lysergamide family related to lysergic acid diethylamide (LSD).",
-      "body": "One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/ALD-52.svg/330px-ALD-52.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "\"The Man Who Studied Yoga\", a novella by Norman Mailer written in 1952, was first published in the 1956 collection New Short Novels 2 then later in Mailer's 1959 miscellany Advertisements for Myself (AFM).",
+      "body": "It is a tale of a \"writer manqué\", or a writer who fails to write, reflecting some of Mailer's own anxiety in the 1950s as he tries to reinvent himself. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3c/NewShortNovels2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/ALD-52"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Jessica Love is an American theater actress, author, and illustrator.",
-      "body": "She is best known for her debut children's picture book Julián is a Mermaid, which has won the Stonewall Book Award and Klaus Flugge Prize. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jessica_Love"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1988 —",
-      "hook": "A hunter discovers three gray whales trapped under the ice near Alaska; the situation becomes a multinational effort to free the whales.",
-      "body": "Operation Breakthrough was a US-Soviet effort to free three gray whales from pack ice in the Beaufort Sea near Point Barrow in the U.S. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Operation_Breakthrough"
+      "url": "https://en.wikipedia.org/wiki/The_Man_Who_Studied_Yoga"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I was sideswiped by Giada Scodellaro’s <strong>Ruins, Child</strong>. A brilliant, strange book that challeng",
+      "hook": "Partita By Barbara Kingsolver review – a midlife follow-up to Demon Copperhead",
+      "body": "<p>The sex writing threatens to throw the novel off-kilter, but there are rich rewards in this tale of music and middle-aged compromises</p><p>What is the role of art in an artist’s life? Should you commit everything to honing your talent i",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september"
+      "url": "https://www.theguardian.com/books/2026/oct/06/partita-by-barbara-kingsolver-review-a-quieter-follow-up-to-demon-copperhead"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Robert Jan Mrazek is an American author, filmmaker, and former politician.",
-      "body": "He served as a Democratic member of the United States House of Representatives, representing New York's 3rd congressional district on Long Island for most of the 1980s. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Robert_J._Mrazek.jpg/330px-Robert_J._Mrazek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Here's one for the group chat —",
+      "hook": "Joseph Alfred Gilles Jacques Richard was a Canadian professional ice hockey player who played in the National Hockey League (NHL) for the Atlanta Flames, Buffalo Sabres, and Quebec Nordiques.",
+      "body": "After an impressive junior career, Richard was considered a potential NHL superstar, but, except for a single season late in his career, he failed to live up to the promise. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Jacques_Richard_1977.jpg/330px-Jacques_Richard_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Robert_J._Mrazek"
+      "url": "https://en.wikipedia.org/wiki/Jacques_Richard"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Cruel torment, depraved violence, evil turns: where did TV’s real baddies go?",
-      "body": "<p>From Carrie’s bullies to Cathy Ames, sympathetic backstories have made villains boring. It’s time to bring back truly awful villains – in all their deliciously sinful glory</p><p></p><p>The new Netflix adaptation of <a href=\"https://www.",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/07/cruel-torment-depraved-violence-evil-turns-where-did-tvs-real-baddies-go"
+      "opener": "The Guardian · Film —",
+      "hook": "V/H/S/Mixtape review – murderous puppets pull the strings in mixed bag of gory music-themed mini-movies",
+      "body": "<p>Metal band Gwar host this instalment of the horror series, which serves up darkly humorous movie morsels that would struggle to frighten a toddler</p><p>The latest in the long-running horror-feature series is, as per usual, a decidedly d",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/06/vhsmixtape-review-murderous-puppets-pull-the-strings-in-mixed-bag-of-gory-music-themed-mini-movies"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+      "body": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Holding Lightning by Emily Lordi review – an intimate portrait of Whitney Houston",
+      "body": "<p>An empathetic biography of the the singer recasts her tumultuous later career as a triumph of self-expression</p><p>Since Whitney Houston’s death in 2012, a flurry of books and documentaries have appeared, most of them presenting her lif",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/music/2026/oct/06/holding-lightning-by-emily-lordi-review-an-intimate-portrait-of-whitney-houston"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Petit Jean De Latre or Joannes de Latre was a Flemish Renaissance composer and choirmaster who worked in Liège and Utrecht.",
+      "body": "He is no longer believed to be the same person as Claude Petit Jehan who died in 1589. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/45_bedden_Petit_Jean_De_Latre.jpg/330px-45_bedden_Petit_Jean_De_Latre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean_de_Latre"
     }
   ]
 }
