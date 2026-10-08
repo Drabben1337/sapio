@@ -1,229 +1,179 @@
 {
-  "generated": "2026-10-08T14:06:10.073Z",
-  "count": 23,
+  "generated": "2026-10-08T20:16:29.698Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
-      "body": "<p>Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley &amp; Me</p><p>One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from scree",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1075 —",
-      "hook": "Dmitar Zvonimir is crowned King of Croatia.",
-      "body": "Demetrius Zvonimir was a King of Croatia and Dalmatia from 1075 or 1076 until his death in 1089. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/SplitBaptistryKing.jpg/330px-SplitBaptistryKing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Demetrius_Zvonimir"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The monster movie format features two kinds of insects, arachnids, myriapods, and other invertebrates in gladiator style combat in a simulated natural environment.",
-      "body": "Monster Bug Wars is a nature documentary program, created and distributed by Beyond Television Productions, and televised on the Science Channel in the United States, and SBS in Australia. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Monster_Bug_Wars_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Monster_Bug_Wars"
-    },
-    {
-      "type": "card",
-      "cat": "history",
+      "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "He has previously played in Nippon Professional Baseball (NPB) for the Hokkaido Nippon-Ham Fighters and in the Chinese Professional Baseball League (CPBL) for the CTBC Brothers.",
-      "body": "Mitchell David Lively is an American former professional baseball pitcher. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "In the Ceiling the Stars Are Shining is a Swedish novel by Johanna Thydell, published in 2003.",
+      "body": "The book is about thirteen-year-old Jenna Wilson, who is unpopular at school and whose mother is dying of breast cancer. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/ITaketLyserStj%C3%A4rnorna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mitch_Lively"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Uprising review – Paul Greengrass turns revolutionary rage into a Robin Hood origin myth",
-      "body": "<p>Andrew Garfield’s fictional ploughman joins the historical heroes of the 1381 Peasants’ Revolt in a dirt-caked, docudrama-style film with disconcertingly silly moments</p><p>Paul Greengrass has in fact already made his “uprising” film: <",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/07/the-uprising-review-paul-greengrass-andrew-garfield-peasants-revolt"
+      "url": "https://en.wikipedia.org/wiki/In_the_Ceiling_the_Stars_Are_Shining"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "James Livingston, 1st Earl of Newburgh was a Scottish peer who sat in the House of Commons of England from 1661 to 1670.",
-      "body": "He supported the Royalist cause in the English Civil War. One of those things you can't un-know.",
-      "img": null,
+      "opener": "On this day in 1956 —",
+      "hook": "The New York Yankees's Don Larsen pitches the only perfect game in a World Series.",
+      "body": "Donald James Larsen was an American professional baseball pitcher. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Don_Larsen_1954.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Don_Larsen"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Israel promotes film that mimics NAZA documentary",
+      "body": "<p>Embassies post links to hastily produced online film echoing style of real Guardian documentary about mass killings of Gaza civilians</p><p>The Israeli government is promoting an online film project that mimics the style of NAZA, the awa",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2019 —",
+      "hook": "About 200 Extinction Rebellion activists block the gates of Leinster House (parliament) in the Republic of Ireland.",
+      "body": "Extinction Rebellion is a UK-founded global environmental movement, with the stated aim of using nonviolent civil disobedience to compel government action to avoid tipping points in the climate system, biodiversity loss, and the risk of social and ecological collapse. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Extinction_Symbol.svg/330px-Extinction_Symbol.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Extinction_Rebellion"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Quod licet Iovi, non licet bovi is a Latin phrase.",
+      "body": "Its literal meaning is \"what is permissible for Jupiter is not permissible for a cow\". The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Jupiter_cameo_Louvre_Bj1820.jpg/330px-Jupiter_cameo_Louvre_Bj1820.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/James_Livingston%2C_1st_Earl_of_Newburgh"
+      "url": "https://en.wikipedia.org/wiki/Quod_licet_Iovi%2C_non_licet_bovi"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Temptation of Elminster is a fantasy novel by Ed Greenwood, set in the world of the Forgotten Realms, and based on the Dungeons & Dragons role-playing game.",
+      "body": "It is the third novel in The Elminster Series. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4c/The_Temptation_of_Elminster_%28D%26D_novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Temptation_of_Elminster"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Anne Carson wins Nobel prize in literature 2026",
-      "body": "<p>Most prestigious literature prize goes to Canadian known for genre-crossing works such as Autobiography of Red</p><p>The Nobel prize in literature has been awarded to the Canadian poet and essayist Anne Carson, the Swedish Academy has an",
+      "hook": "Book of Lives by Margaret Atwood audiobook review – a dryly funny memoir",
+      "body": "<p>The Handmaid’s Tale author reflects on her loves, losses and literary achievements in a memoir that showcases her wisdom and wit</p><p>Margaret Atwood had to be persuaded to write a memoir. The thought of writing about herself initially ",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Burrhus Frederic Skinner was an American psychologist, behaviorist, inventor, and social philosopher.",
-      "body": "He was the Edgar Pierce Professor of Psychology at Harvard University from 1948 until his retirement in 1974. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg/330px-B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/B._F._Skinner"
+      "url": "https://www.theguardian.com/books/2026/oct/08/book-of-lives-by-margaret-atwood-audiobook-review-a-dryly-funny-memoir"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 451 —",
-      "hook": "The first session of the Council of Chalcedon begins.",
-      "body": "The Council of Chalcedon was the fourth ecumenical council of the Christian Church. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Fourth_ecumenical_council_of_chalcedon_-_1876.jpg/330px-Fourth_ecumenical_council_of_chalcedon_-_1876.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1978 —",
+      "hook": "Australia's Ken Warby sets the current world water speed record of 275.97 knots at Blowering Dam, Australia.",
+      "body": "Ken Warby was an Australian motorboat racer, who currently holds the water speed record of 275.97 knots, set on Blowering Dam on 8 October 1978. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/SpiritOfAustraliaModelBloweringDam.jpg/330px-SpiritOfAustraliaModelBloweringDam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Council_of_Chalcedon"
+      "url": "https://en.wikipedia.org/wiki/Ken_Warby"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1939 —",
+      "hook": "World War II: Germany annexes western Poland.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Can Ali G: Who Iz I? save character comedy cinema?",
-      "body": "<p>Sacha Baron Cohen’s new film risks being outdated in a more rancorous era. But could it restore the personality-driven genre to big screens or end it altogether?</p><p>For a man whose campaign slogan was once “Keep it real”, Ali G has hi",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/08/can-ali-g-who-iz-i-save-character-comedy-cinema-sacha-baron-cohen-mike-myers-will-ferrell"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "BL Metamorphosis is a Japanese manga series by Kaori Tsurutani.",
-      "body": "BL Metamorphosis was serialized digitally in the monthly manga magazine Comic Newtype from November 17, 2017, to October 9, 2020. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/30/BLMetamorphosis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/BL_Metamorphosis"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2020 —",
-      "hook": "Second Nagorno-Karabakh War: Azerbaijan twice targets the Church of the Holy Savior Ghazanchetsots of Shusha.",
-      "body": "The Second Nagorno-Karabakh War was an armed conflict in 2020 that took place in the disputed region of Nagorno-Karabakh and the surrounding occupied territories. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2020_Nagorno-Karabakh_war.svg/330px-2020_Nagorno-Karabakh_war.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Big Girls Don’t Cry review – a New Zealand teenager finds herself in tender coming-of-age tale",
-      "body": "<p>Writer-director Paloma Schneideman’s wonderful film follows a 14-year-old in 2006 who pretends to be someone else in a chat room, with real-world consequences</p><ul><li><p><a href=\"https://www.theguardian.com/lifeandstyle/2026/sep/25/sa",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/08/new-zealand-movie-teenager-chat-room-big-girls-dont-cry-review"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Pooley Island is an island in the North Coast region of British Columbia, Canada.",
-      "body": "To its west and southwest is Roderick Island, to its east Mathieson Channel. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Clouds_over_Pooley_Island.jpg/330px-Clouds_over_Pooley_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pooley_Island"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1943 —",
-      "hook": "World War II: Around 30 civilians are executed by Friedrich Schubert's paramilitary group in Kallikratis, Crete.",
-      "body": "The Kallikratis executions refer to the mass execution, by German Army and Greek collaborationist paramilitary forces, of some 30 mostly male civilians of Kallikratis, in southwest Crete, on 8 October 1943. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Kallikratis_executions"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Good night, and good lick: what can we expect from George Clooney’s restaurant?",
-      "body": "<p>The newly-official French citizen is planning to open an Italian restaurant in Provence. Will it float like his tequila brand or sink as swiftly as the Steven Spielberg submarine eatery that made one reviewer ‘embarrassed to be human’?</",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/08/george-clooney-italian-restaurant-provence-france"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "A Christmas Carol is a 1984 Christmas fantasy television film adapted from Charles Dickens' novella A Christmas Carol (1843).",
-      "body": "The film was directed by Clive Donner, who was an editor of the 1951 film Scrooge, and stars George C. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9f/Achristmascarol.jpg/330px-Achristmascarol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Christmas_Carol_(1984_film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "World War II: Captain Bobbie E. Brown earns a Medal of Honor for his actions during the Battle of Crucifix Hill, just outside Aachen.",
-      "body": "Robert Evan Brown Jr. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Brown-bobbie-e.jpg/330px-Brown-bobbie-e.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bobbie_E._Brown"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1856 —",
-      "hook": "The Second Opium War between several western powers and China begins with the Arrow Incident.",
-      "body": "The Second Opium War, also known as the Second Anglo-Chinese War or Arrow War, was fought between the United Kingdom and France against the Qing dynasty of China between 1856 and 1860. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/La_bataille_de_Palikiao.jpg/330px-La_bataille_de_Palikiao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Second_Opium_War"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The winners of these semi-finals competed for the final place for the 2006–07 season in the Championship.",
-      "body": "The 2006 Football League One play-off final was an association football match which was played on 27 May 2006 between Barnsley and Swansea City at the Millennium Stadium, Cardiff, to determine the third and final team to gain promotion from Football League One",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Principality_Stadium_May_3%2C_2016.jpg/330px-Principality_Stadium_May_3%2C_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2006_Football_League_One_play-off_final"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Sofia Coppola: ‘I’m glad we weren’t kicked out of Tokyo making Lost in Translation’",
-      "body": "<p>The director talks about what she learnt from her mother, working with a rookie Tim Burton, and 20 years of her cult classic Marie Antoinette</p><p><strong>Hello</strong><strong>, I’m Cherry, I’m 14 and an aspiring film-maker. I love how",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/08/sofia-coppola-director-lost-in-translation-interview"
+      "opener": "The Guardian · Books —",
+      "hook": "‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson",
+      "body": "<p>The Handmaid’s Tale author is joined by Emily Wilson, Ocean Vuong and Booker-shortlisted writer Rebecca Perry in celebrating the newly announced Nobel laureate</p><ul><li><p><a href=\"https://www.theguardian.com/books/2026/oct/08/wins-the",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/08/appreciation-of-anne-carson-nobel-prize-in-literature-2026"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "John Chesterfield Woodson was a nineteenth-century American lawyer and politician from Virginia.",
-      "body": "Two earlier distantly related men of the same name had served in the Virginia General Assembly: John Woodson Sr. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "Doctor, You've Got to Be Kidding!",
+      "body": "is a 1967 American comedy film directed by Peter Tewksbury and starring Sandra Dee, George Hamilton and Celeste Holm. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Doctor%2C_You%27ve_Got_to_Be_Kidding%21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/John_C._Woodson"
+      "url": "https://en.wikipedia.org/wiki/Doctor%2C_You've_Got_to_Be_Kidding!"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Blockers by Michael Lewis review – the quiet heroes who tried to stop Doge",
+      "body": "<p>The author of Moneyball brings his exceptional narrative skills to bear on Musk’s anti-government crusade</p><p>Donald Trump’s catastrophic errors get so much attention that his systemic ones can easily be missed. While the world looks o",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/07/blockers-by-michael-lewis-review-the-quiet-heroes-who-tried-to-stop-doge"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
+      "body": "<p><strong>Venice film festival: </strong>Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality</p><p>Lance Oppenheim is the acclaimed documentary-maker who ha",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Kane Chronicles is a trilogy of adventure novels based on Egyptian mythology written by American author Rick Riordan.",
+      "body": "The series is set in the same universe as Riordan's other franchises, Camp Half-Blood Chronicles and Magnus Chase and the Gods of Asgard. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/The_Kane_Chronicles_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Kane_Chronicles"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The highway runs for 33.978 miles (54.682 km) from SH-77 in Malta to U.S.",
-      "body": "State Highway 81 (SH-81) is a state highway in Cassia County, Idaho. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Idaho_81.svg/330px-Idaho_81.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Idaho_State_Highway_81"
+      "opener": "On this day in 1829 —",
+      "hook": "Stephenson's Rocket wins the Rainhill Trials.",
+      "body": "Stephenson's Rocket is an early steam locomotive of 0-2-2 wheel arrangement. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Stephenson%27s_Rocket_drawing.jpg/330px-Stephenson%27s_Rocket_drawing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Stephenson's_Rocket"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
+      "body": "<p>This over-controlled adventure never takes a breath or a moment to let its characters come to life</p><p>Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me ano",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1322 —",
+      "hook": "Mladen II Šubić of Bribir is deposed as the Croatian Ban after the Battle of Bliska.",
+      "body": "Mladen II Šubić of Bribir, a Croatian leader and member of the Šubić noble family, was a Ban of Croatia and Lord of all of Bosnia. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Mladen-depiction-manuscript.jpg/330px-Mladen-depiction-manuscript.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mladen_II_%C5%A0ubi%C4%87_of_Bribir"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Matchbox: the Movie review – as pointless as a film based on a toy car could be",
+      "body": "<p>John Cena and Jessica Biel collect paychecks in a soulless and synthetic slab of corporate product that hints at what we can expect from the Paramount-Warner merger</p><p>After a windy road, this week <a href=\"https://www.theguardian.com",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/oct/08/matchbox-movie-review"
     }
   ]
 }
