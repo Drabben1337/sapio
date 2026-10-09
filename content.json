@@ -1,7 +1,26 @@
 {
-  "generated": "2026-10-09T19:05:27.914Z",
-  "count": 18,
+  "generated": "2026-10-09T23:36:50.524Z",
+  "count": 10,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Luggala, also called Fancy Mountain at 595 metres (1,952 ft), is the 230th-highest peak in Ireland on the Arderin scale.",
+      "body": "Being below 600 metres (2,000 ft), it does not rank on the Vandeleur-Lynam or Hewitt scales. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Luggala_and_Lough_Tay%2C_Wicklow%2C_Ireland.jpg/330px-Luggala_and_Lough_Tay%2C_Wicklow%2C_Ireland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Luggala"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Book of Lives by Margaret Atwood audiobook review – a dryly funny memoir",
+      "body": "<p>The Handmaid’s Tale author reflects on her loves, losses and literary achievements in a memoir that showcases her wisdom and wit</p><p>Margaret Atwood had to be persuaded to write a memoir. The thought of writing about herself initially ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/08/book-of-lives-by-margaret-atwood-audiobook-review-a-dryly-funny-memoir"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -10,16 +29,6 @@
       "body": "<p>Jasmine Jobson goes the distance as the British-Somalian boxer battling pain from her past and her family’s disapproval in a heavyweight, tick-the-boxes production</p><p>The true-life success story of boxer Ramla Ali is confidently told ",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/oct/09/in-the-shadows-film-review-ramla-ali-boxer-somalia"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "George Ashmore Fitch was an American Presbyterian missionary that lived and worked in China, southern Korea, and Taiwan.",
-      "body": "Fitch notably smuggled out of Nanjing some of the only known reels of film that documented the Nanjing Massacre. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/47/George_Ashmore_Fitch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/George_Ashmore_Fitch"
     },
     {
       "type": "card",
@@ -32,129 +41,23 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘Sometimes she publishes notes she’s scribbled on her hand’: Édouard Louis on 10 reasons to love Anne Carson",
-      "body": "<p>The French author discovered Carson on a bus while stranded in a snowstorm and has been enthralled by her fearless imagination ever since</p><ul><li><p><a href=\"https://www.theguardian.com/books/2026/oct/08/where-to-start-with-anne-carso",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/09/sometimes-she-publishes-notes-shes-scribbled-on-her-hand-edouard-louis-on-10-reasons-to-love-anne-carson"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Godwin Alabi-Isama is a Nigerian retired military officer, author and statesman who served as chief of staff to Brigadier Benjamin Adekunle of the 3 Marine Commando during the Nigerian Civil War.",
-      "body": "One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Godwin_Alabi_Isama_portrait.jpg/330px-Godwin_Alabi_Isama_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Scout's Safari is an American teen comedy-drama television series that aired on Discovery Kids and Saturday mornings on NBC.",
+      "body": "The series was created by Thomas W. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/Scout%27s_Safari_cast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Godwin_Alabi-Isama"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Other Mommy review – Jessica Chastain’s demonic double horror isn’t nightmarish enough",
-      "body": "<p>There’s some effectively unnerving imagery and a cleverly icy dual lead performance but this kept-from-critics shocker is a bit of a jumble</p><p>The buzz surrounding the <a href=\"https://www.youtube.com/watch?v=bEpTgowZ1dI&amp;\">viral, ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/09/other-mommy-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2019 —",
-      "hook": "Turkey begins its military offensive in north-eastern Syria.",
-      "body": "Operation Peace Spring was a joint operation by the Turkish Armed Forces (TAF) and the Syrian National Army (SNA) against the Syrian Democratic Forces (SDF), later involving the Syrian Arab Army (SAA), in northeastern Syria. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Operation_Peace_Spring.svg/330px-Operation_Peace_Spring.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_northeastern_Syria"
+      "url": "https://en.wikipedia.org/wiki/Scout's_Safari"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "General Lord Robert Manners was an English soldier and nobleman.",
-      "body": "He was a son of John Manners, 2nd Duke of Rutland and his second wife, Lucy Sherard. Bring it up somewhere. Watch the reaction.",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Children of Violence is a sequence of five semi-autobiographical novels by British Nobel Prize in Literature-winner Doris Lessing: Martha Quest (1952), A Proper Marriage (1954), A Ripple from the Storm (1958), Landlocked (1965), and The Four-Gated City (1969).",
+      "body": "The novels \"are strongly influenced by Lessing's rejection of a domestic family role and her involvement with communism.\" Lessing identified the series as a bildungsroman. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lord_Robert_Manners_(British_Army_officer%2C_died_1782)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Jay Ryan is a New Zealand actor.",
-      "body": "He is best known for his roles as Jack Scully in Neighbours (2002–2005), Seaman Billy 'Spider' Webb in Sea Patrol (2007–2009), Kevin in Go Girls (2009–2012), Vincent Keller in Beauty & the Beast (2012–2016), Detective Ben Wesley in Mary Kills People (2017–2019",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Jay_Ryan_by_Gage_Skidmore_2.jpg/330px-Jay_Ryan_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jay_Ryan_(actor)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
-      "body": "<p><strong>Toronto film festival:</strong> the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama</p><p>Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill ki",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1873 —",
-      "hook": "A meeting at the U.S. Naval Academy establishes the U.S. Naval Institute.",
-      "body": "The United States Naval Institute (USNI) is a private non-profit military association that offers independent, nonpartisan forums for debate of national security issues. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c8/Revised_logo_of_the_United_States_Naval_Institute.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/United_States_Naval_Institute"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Agate Head / Stone Soup by Patricia Lockwood review – a gem of a collection",
-      "body": "<p>Inspired by stones and metals, the memoirist and novelist’s first poetry collection for more than a decade is charming, whimsical and intimate</p><p>In the introduction to her first book of poetry in 12 years, Patricia Lockwood states th",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/08/agate-head-stone-soup-by-patricia-lockwood-review-a-gem-of-a-collection"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1970 —",
-      "hook": "The Khmer Republic is proclaimed in Cambodia.",
-      "body": "The Khmer Republic was a Cambodian state under the United States-backed military dictatorship of Marshal Lon Nol from 1970 to 1975. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_the_Khmer_Republic.svg/330px-Flag_of_the_Khmer_Republic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Khmer_Republic"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "Australia's Statute of Westminster Adoption Act 1942 receives royal assent.",
-      "body": "The Statute of Westminster Adoption Act 1942 is an act of the Australian Parliament that formally adopted sections 2–6 of the Statute of Westminster 1931, an Act of the Parliament of the United Kingdom enabling the total legislative independence of the various self-governing Dominions of the British Empire. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Coat_of_arms_of_the_Commonwealth_of_Australia.svg/330px-Coat_of_arms_of_the_Commonwealth_of_Australia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Statute_of_Westminster_Adoption_Act_1942"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1941 —",
-      "hook": "A coup in Panama declares Ricardo Adolfo de la Guardia Arango the new president.",
-      "body": "Panama, officially the Republic of Panama, is a country located at the southern end of Central America in North America, bordering South America. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/330px-Flag_of_Panama.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Panama"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Kerry Michael Chater was a Canadian musician and songwriter who was best known as a member of Gary Puckett & The Union Gap.",
-      "body": "He was also a successful Nashville songwriter for many years. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kerry_Chater.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kerry_Chater"
+      "url": "https://en.wikipedia.org/wiki/Children_of_Violence"
     },
     {
       "type": "card",
@@ -167,13 +70,30 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1238 —",
-      "hook": "James I of Aragon founds the Kingdom of Valencia.",
-      "body": "James I the Conqueror was the 11th King of Aragon, 38th Count of Barcelona, and Lord of Montpellier from 1213 to 1276; King of Majorca from 1231 to 1276; and King of Valencia from 1238 to 1276. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jaime_I_de_Arag%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/James_I_of_Aragon"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Blockers by Michael Lewis review – the quiet heroes who tried to stop Doge",
+      "body": "<p>The author of Moneyball brings his exceptional narrative skills to bear on Musk’s anti-government crusade</p><p>Donald Trump’s catastrophic errors get so much attention that his systemic ones can easily be missed. While the world looks o",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/07/blockers-by-michael-lewis-review-the-quiet-heroes-who-tried-to-stop-doge"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+      "body": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
+      "body": "<p>Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley &amp; Me</p><p>One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from scree",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese"
     }
   ]
 }
