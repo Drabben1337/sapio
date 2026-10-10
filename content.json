@@ -1,56 +1,151 @@
 {
-  "generated": "2026-10-10T09:08:07.326Z",
-  "count": 23,
+  "generated": "2026-10-10T15:35:46.304Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
       "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The island is the location of numerous historic shipwrecks.",
-      "body": "Mocha Island is a Chilean island located west of the coast of Arauco Province in the Pacific Ocean. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Isla_Mocha_1.jpg/330px-Isla_Mocha_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mocha_Island"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Malory Towers is a series of six novels by English author Enid Blyton.",
-      "body": "The series is based on a girls' boarding school that Blyton's daughter attended, Benenden School, which relocated during World War II to the Hotel Bristol in Newquay, Cornwall. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/62/FirstTermAtMaloryTowers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Malory_Towers"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Lost World is a 1995 science fiction action novel written by Michael Crichton, and the sequel to his 1990 novel Jurassic Park.",
-      "body": "It is Crichton's tenth novel under his own name, his twentieth overall, and the only sequel he ever wrote. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/cf/Big-lostworld.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Lost_World_(Crichton_novel)"
+      "opener": "On this day in 1970 —",
+      "hook": "Canada's October Crisis escalates when Quebec Vice Premier Pierre Laporte is kidnapped by members of the Front de libération du Québec.",
+      "body": "The October Crisis was a chain of political events in Canada that started in October 1970 when members of the Front de libération du Québec (FLQ) kidnapped the provincial Labour Minister Pierre Laporte and British diplomat James Cross from his Montreal residence. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/06/LiberationCellSurrender.jpg/330px-LiberationCellSurrender.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/October_Crisis"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1980 —",
-      "hook": "The 7.1 Mw El Asnam earthquake shakes northern Algeria, killing 2,633 and injuring 8,369.",
-      "body": "The 1980 El Asnam earthquake occurred on October 10 at 13:25:23 local time with a moment magnitude of 7.1 and a maximum Mercalli intensity of X (Extreme). Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/1980_El_Asnam_earthquake_ShakeMap.jpg/330px-1980_El_Asnam_earthquake_ShakeMap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1760 —",
+      "hook": "In a treaty with the Dutch colonial authorities, the Ndyuka people of Suriname – descended from escaped slaves – gain territorial autonomy.",
+      "body": "The Ndyuka people or Aukan people are one of six Maroon peoples in the Republic of Suriname and one of the Maroon peoples in French Guiana. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tropenmuseum_Royal_Tropical_Institute_Objectnumber_10031753_Groepsportret_van_Aukaner_Marrons_in.jpg/330px-Tropenmuseum_Royal_Tropical_Institute_Objectnumber_10031753_Groepsportret_van_Aukaner_Marrons_in.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1980_El_Asnam_earthquake"
+      "url": "https://en.wikipedia.org/wiki/Ndyuka_people"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1575 —",
+      "hook": "Roman Catholic forces under Henry I, Duke of Guise, defeat the Protestants, capturing Philippe de Mornay among others.",
+      "body": "Henri I de Lorraine, Duke of Guise, Prince of Joinville, Count of Eu, sometimes called Le Balafré ('Scarface'), was the eldest son of François, Duke of Guise, and Anna d'Este. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Guise.jpg/330px-Guise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Henri_I%2C_Duke_of_Guise"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1986 —",
+      "hook": "A 5.7 Mw San Salvador earthquake shakes El Salvador, killing 1,500.",
+      "body": "The 1986 San Salvador earthquake occurred at 11:49:26 local time on 10 October 1986 with a moment magnitude of 5.7 and a maximum Mercalli intensity of IX (Violent). One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1986_San_Salvador_earthquake.jpg/330px-1986_San_Salvador_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1986_San_Salvador_earthquake"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Gold Mountain is an upcoming epic Western film directed by Ang Lee from a screenplay written by Chang-Rae Lee, based on the novel How Much of These Hills Is Gold by C Pam Zhang.",
-      "body": "Worth a quiet trip down the rabbit hole.",
+      "opener": "You probably never noticed this —",
+      "hook": "St John's Church is a Church of England church in Seaborough, Dorset, England.",
+      "body": "Much of the church dates to a rebuild of 1882 and it now forms part of the Beaminster Area Team Ministry. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Seaborough%2C_parish_church_of_St._John_-_geograph.org.uk_-_445179.jpg/330px-Seaborough%2C_parish_church_of_St._John_-_geograph.org.uk_-_445179.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/St_John's_Church%2C_Seaborough"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "US country music star Ella Langley cancels show due to 'security threat'",
+      "body": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘I just wasn’t going to give up’: the fight to free the longest-serving political prisoner in the US",
+      "body": "<p>Leonard Peltier was imprisoned for 49 years before his sentence was commuted. A new Netflix documentary exposes the ‘corrupt’ system that allowed it to happen</p><p>On 20 January 2025, with 14 minutes remaining in his term as president, ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/10/free-leonard-peltier-netflix-documentary"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Savage Nation: Saving America from the Liberal Assault on Our Borders, Language, and Culture is Michael Savage's 18th book.",
+      "body": "It was published in 2003 and spent 18 weeks on the NY Times best seller list, debuting at #4. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/Savage_cover-savage_nation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Savage_Nation_(book)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1973 —",
+      "hook": "U.S. Vice President Spiro Agnew resigns after being charged with evasion of federal income tax.",
+      "body": "Spiro Theodore Agnew was the 39th vice president of the United States, serving from 1969 until his resignation in 1973 under President Richard Nixon. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Spiro_Agnew.jpg/330px-Spiro_Agnew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Spiro_Agnew"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1933 —",
+      "hook": "A United Airlines Boeing 247 is destroyed by sabotage, the first such proven case in the history of commercial aviation.",
+      "body": "United Air Lines Flight 23 was a regularly scheduled flight operated by United Air Lines between Newark, New Jersey, and Oakland, California, with intermediate stops. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Chicago_Municipal_Airport_-_United_Air_Lines_-_Boeing_247_NC13304.jpg/330px-Chicago_Municipal_Airport_-_United_Air_Lines_-_Boeing_247_NC13304.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/United_Air_Lines_Flight_23"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Prince Gong of the First Rank, or simply Prince Gong, was the title of a princely peerage used in China during the Manchu-led Qing dynasty (1644–1912).",
+      "body": "It was passed down over two different family lines within the Aisin Gioro clan. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gold_Mountain_(film)"
+      "url": "https://en.wikipedia.org/wiki/Prince_Gong_(peerage)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Ray Gunn’ review: Sam Rockwell and Scarlett Johansson head starry voice cast for Brad Bird’s stylish but unwieldy animation",
+      "body": "The Skydance Animation feature premieres in London before a limited theatrical release and Netflix bow in December",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/reviews/ray-gunn-review-sam-rockwell-and-scarlett-johansson-head-starry-voice-cast-for-brad-birds-stylish-but-unwieldy-animation/5221280.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Sunny Dhinsa is a Canadian professional wrestler and former amateur wrestler.",
+      "body": "He is best known for his time in WWE, where he performed under the ring name Akam. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Akam%2C_WrestleMania_XL.jpg/330px-Akam%2C_WrestleMania_XL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Akam_(wrestler)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Ray Gunn review – Brad Bird’s animated film-noir sci-fi caper is an old-school family classic",
+      "body": "<p>Sam Rockwell voices the gumshoe who becomes embroiled with Scarlett Johansson’s femme fatale in this big-hearted and beautifully designed fantasy spectacular</p><p>Brad Bird, the Spielberg of animation, applies his masterly authorial tou",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/10/ray-gunn-review-brad-birds-animated-film-noir-sci-fi-caper-is-an-old-school-family-classic"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "UK selects best international feature film Oscar entry",
+      "body": "Film won the L’Oeil d’or at Cannes for best documentary across all sections.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/uk-selects-best-international-feature-film-oscar-entry/5221301.article"
     },
     {
       "type": "card",
@@ -72,158 +167,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
-      "body": "<p><strong>Venice film festival: </strong>Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality</p><p>Lance Oppenheim is the acclaimed documentary-maker who ha",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘14th’ review: Ava DuVernay’s rousing documentary is a damning exploration of the current attack on the rights of Black Americans",
-      "body": "DuVernay’s follow-up to the Oscar-nominated ‘13th’ premieres in New York before streaming on Netflix from December",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/14th-review-ava-duvernays-rousing-documentary-is-a-damning-exploration-of-the-current-attack-on-the-rights-of-black-americans/5221277.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1963 —",
-      "hook": "France cedes control of the Bizerte naval base to Tunisia.",
-      "body": "Bizerte or Bizerta is the capital and largest city of Bizerte Governorate in northern Tunisia. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bizerte_bridge_from_south_side%28zarzouna%29.jpg/330px-Bizerte_bridge_from_south_side%28zarzouna%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bizerte"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "She has represented Ireland at the World Athletics Championships and is the Northern Ireland record holder over 200 metres and second on the Irish all-time indoor list in the 200 metres and 60 metres.",
-      "body": "Lauren Roy is an Irish sprinter. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lauren_Roy"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2002 —",
-      "hook": "Iraq War: The United States Congress approves the Authorization for Use of Military Force Against Iraq Resolution of 2002.",
-      "body": "The Iraq War, also referred to as the Second Gulf War, was a protracted armed conflict in Iraq from 2003 to 2011. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/330px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Iraq_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Bubbles Project’s Tatiana Leite talks slate, why “future is not assured” for Brazilian indie cinema",
-      "body": "Festival do Rio selections include Nepal’s Oscar submission Elephants In The Fog.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/bubbles-projects-tatiana-leite-talks-slate-why-future-is-not-assured-for-brazilian-indie-cinema/5221292.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Google Glass displays information to the wearer using a head-up display.",
-      "body": "Google Glass, or simply Glass, is a discontinued brand of smart glasses developed by Google's X Development, with a mission of producing a ubiquitous computer. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Google_Glass_photo.JPG/330px-Google_Glass_photo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Google_Glass"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Federal statutes and regulations state that children under age 21 who are enrolled in Medicaid are entitled to EPSDT benefits and that States must cover a broad array of preventive and treatment services.",
-      "body": "Early and Periodic Screening, Diagnostic and Treatment (EPSDT) is the children's health component of Medicaid. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/EPSDT"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
-      "body": "<p>This over-controlled adventure never takes a breath or a moment to let its characters come to life</p><p>Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me ano",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 680 —",
-      "hook": "The Battle of Karbala marks the martyrdom of Husayn ibn Ali.",
-      "body": "The Battle of Karbala was fought on 10 October 680 between the forces of the second Umayyad caliph Yazid I, and a small army led by Husayn ibn Ali, second son of Ali and grandson of the Islamic prophet Muhammad, at Karbala, in modern-day southern Iraq. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Brooklyn_Museum_-_Battle_of_Karbala_-_Abbas_Al-Musavi_-_cropped.jpg/330px-Brooklyn_Museum_-_Battle_of_Karbala_-_Abbas_Al-Musavi_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Karbala"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "All American is a musical with a book by Mel Brooks, lyrics by Lee Adams, and music by Charles Strouse.",
-      "body": "Based on the Robert Lewis Taylor 1950 novel Professor Fodorski, it is set on the campus of the fictional Southern Baptist Institute of Technology: the worlds of science and sports collide when the principles of engineering are applied to football strategies, a",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/All_American_CD_Cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Haris is a Palestinian town in the Salfit Governorate of the State of Palestine, in the northern West Bank, 24 kilometers Southwest of Nablus.",
+      "body": "According to the Palestinian Central Bureau of Statistics, it had a population of 4,137 in 2017. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Haris9310.JPG/330px-Haris9310.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/All_American_(musical)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Moorkkanaat Krishnankutty Menon, better known by his pen name Vilasini, was an Indian writer from Kerala who wrote in Malayalam-language.",
-      "body": "He is the author of India's longest novel, Avakasikal, for which he won the Kendra Sahitya Akademi Award in 1981 and Vayalar Award in 1983. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/M._K._Menon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "US country music star Ella Langley cancels show due to 'security threat'",
-      "body": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2015 —",
-      "hook": "Twin bomb blasts in the Turkish capital Ankara kill 109 and injure 500+.",
-      "body": "On 10 October 2015 at 10:04 local time (EEST) in Ankara, the capital city of Turkey, two bombs were detonated outside Ankara Central railway station. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Ankara_Gar%C4%B1%2C_An%C4%B1t_ile_beraber_bir_bak%C4%B1%C5%9F.jpg/330px-Ankara_Gar%C4%B1%2C_An%C4%B1t_ile_beraber_bir_bak%C4%B1%C5%9F.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2015_Ankara_bombings"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "The building, which is currently used as the meeting place of Appleby-in-Westmorland Town Council, is a Grade II* listed building.",
-      "body": "The Moot Hall is a municipal building in Boroughgate, Appleby-in-Westmorland, Cumbria, England. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Moot_Hall%2C_Boroughgate_-_geograph.org.uk_-_4292198.jpg/330px-Moot_Hall%2C_Boroughgate_-_geograph.org.uk_-_4292198.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Moot_Hall%2C_Appleby-in-Westmorland"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1918 —",
-      "hook": "RMS Leinster is torpedoed and sunk by UB-123, killing 564, the largest loss of life on the Irish Sea.",
-      "body": "RMS Leinster was an Irish ship operated by the City of Dublin Steam Packet Company. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Leinster_RMS_1897.jpg/330px-Leinster_RMS_1897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/RMS_Leinster"
+      "url": "https://en.wikipedia.org/wiki/Haris%2C_Salfit"
     }
   ]
 }
