@@ -1,16 +1,46 @@
 {
-  "generated": "2026-10-09T23:36:50.524Z",
-  "count": 10,
+  "generated": "2026-10-10T02:52:27.036Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1971 —",
+      "hook": "Aeroflot Flight 773 is destroyed by a bomb over Moscow Oblast, killing 25.",
+      "body": "Aeroflot Flight 773 was a scheduled domestic Soviet Union passenger flight from Moscow to Simferopol that crashed following a bomb explosion on 10 October 1971. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Aeroflot_Tu-104B_CCCP-42403_LBG_1974-8-2.png/330px-Aeroflot_Tu-104B_CCCP-42403_LBG_1974-8-2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_773"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1964 —",
+      "hook": "The Tokyo Summer Olympics opening ceremony is the first to be relayed live by satellites.",
+      "body": "The 1964 Summer Olympics, officially the Games of the XVIII Olympiad and commonly known as Tokyo 1964, were an international multi-sport event held from 10 to 24 October 1964 in Tokyo, Japan. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tokyo_1964_Summer_Olympics_logo.svg/330px-Tokyo_1964_Summer_Olympics_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1964_Summer_Olympics"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Luggala, also called Fancy Mountain at 595 metres (1,952 ft), is the 230th-highest peak in Ireland on the Arderin scale.",
-      "body": "Being below 600 metres (2,000 ft), it does not rank on the Vandeleur-Lynam or Hewitt scales. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Luggala_and_Lough_Tay%2C_Wicklow%2C_Ireland.jpg/330px-Luggala_and_Lough_Tay%2C_Wicklow%2C_Ireland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Violin Sonata in A major, Hess 46, is a fragmentary and possibly unfinished work for piano and violin composed by Ludwig van Beethoven sometime between 1790 and 1792.",
+      "body": "Discovered by musicologist Willy Hess, it may be one of Beethoven's first attempts at composing a work for this combination of instruments. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Luggala"
+      "url": "https://en.wikipedia.org/wiki/Violin_Sonata_in_A_major_(Beethoven)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Robert Barnwell Rhett was an American politician who served as a member of the US House of Representatives from South Carolina from 1837 to 1849, a US Senator from South Carolina from 1850 to 1852, and as a deputy from South Carolina to the Provisional Confederate States Congress from 1861 to 1862.",
+      "body": "As a staunch supporter of slavery and an early advocate of secession, he was a \"Fire-Eater\", nicknamed the \"father of secession\". Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Robert_Rhett.jpg/330px-Robert_Rhett.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Barnwell_Rhett"
     },
     {
       "type": "card",
@@ -25,48 +55,106 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "In the Shadows review – true tale of Ramla Ali’s remarkable rise through the boxing ranks is a knockout",
-      "body": "<p>Jasmine Jobson goes the distance as the British-Somalian boxer battling pain from her past and her family’s disapproval in a heavyweight, tick-the-boxes production</p><p>The true-life success story of boxer Ramla Ali is confidently told ",
+      "hook": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
+      "body": "<p>Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley &amp; Me</p><p>One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from scree",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/09/in-the-shadows-film-review-ramla-ali-boxer-somalia"
+      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Lost generation: the AI threat to Britain’s next great directors",
-      "body": "<p>Commercials once launched careers from Ridley Scott to Guy Ritchie, now automated production is cutting costs – and the chance to learn by doing</p><p>When Ridley Scott was awarded the UK’s highest accolade for a glittering career direct",
+      "hook": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
+      "body": "<p><strong>Venice film festival: </strong>Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality</p><p>Lance Oppenheim is the acclaimed documentary-maker who ha",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie"
+      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
+      "body": "<p>This over-controlled adventure never takes a breath or a moment to let its characters come to life</p><p>Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me ano",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Scout's Safari is an American teen comedy-drama television series that aired on Discovery Kids and Saturday mornings on NBC.",
-      "body": "The series was created by Thomas W. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/Scout%27s_Safari_cast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Scout's_Safari"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Children of Violence is a sequence of five semi-autobiographical novels by British Nobel Prize in Literature-winner Doris Lessing: Martha Quest (1952), A Proper Marriage (1954), A Ripple from the Storm (1958), Landlocked (1965), and The Four-Gated City (1969).",
-      "body": "The novels \"are strongly influenced by Lessing's rejection of a domestic family role and her involvement with communism.\" Lessing identified the series as a bildungsroman. Worth a quiet trip down the rabbit hole.",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Box Man is a novel by Kobo Abe, originally published in Japanese in 1973, about a man wearing a cardboard box and his observations of the world outside.",
+      "body": "It has been made into an eponymous film by Gakuryu Ishii, starring Masatoshi Nagase, which premiered at 74th Berlin International Film Festival on 17 February 2024. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Children_of_Violence"
+      "url": "https://en.wikipedia.org/wiki/The_Box_Man_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1920 —",
+      "hook": "The Carinthian plebiscite determines that the larger part of the Duchy of Carinthia should remain part of Austria.",
+      "body": "The Carinthian plebiscite was held on 10 October 1920 in the area in southern Carinthia predominantly settled by Carinthian Slovenes. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Plakat_ob_plebiscitu_Mama%2C_ne_%C5%A1timajte_za_Jugoslavijo_1920.jpg/330px-Plakat_ob_plebiscitu_Mama%2C_ne_%C5%A1timajte_za_Jugoslavijo_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1920_Carinthian_plebiscite"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2010 —",
+      "hook": "The Netherlands Antilles are dissolved as a country.",
+      "body": "The Netherlands Antilles, also known as the Dutch Antilles, was a constituent Caribbean country of the Kingdom of the Netherlands consisting of the islands of Saba, Sint Eustatius, and Sint Maarten in the Lesser Antilles, and Aruba, Bonaire, and Curaçao in the Leeward Antilles. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_Netherlands_Antilles_%281986%E2%80%932010%29.svg/330px-Flag_of_the_Netherlands_Antilles_%281986%E2%80%932010%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Netherlands_Antilles"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tenzing review – reconstruction of first summit of Everest puts Sherpa at the centre of the story",
-      "body": "<p>Genden Phuntsok brings charm and innocence to his portrayal of Tenzing Norgay, while Tom Hiddleston is suitably frank as Edmund Hillary</p><p>Here is a well intentioned, watchable, if sometimes soft-edged film with some NatGeo production",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/09/tenzing-review-genden-phuntsok-tom-hiddleston-apple-willem-dafoe-v"
+      "opener": "Screen Daily —",
+      "hook": "‘14th’ review: Ava DuVernay’s rousing documentary is a damning exploration of the current attack on the rights of Black Americans",
+      "body": "DuVernay’s follow-up to the Oscar-nominated ‘13th’ premieres in New York before streaming on Netflix from December",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/reviews/14th-review-ava-duvernays-rousing-documentary-is-a-damning-exploration-of-the-current-attack-on-the-rights-of-black-americans/5221277.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2018 —",
+      "hook": "Hurricane Michael makes landfall in the Florida Panhandle as a catastrophic Category 5 hurricane. It kills 57 people in the United States, 45 in Florida, and causes an estimated $25.1 billion in damage.",
+      "body": "Hurricane Michael was a powerful and destructive tropical cyclone that became the first Category 5 hurricane to make landfall in the contiguous United States since Andrew in 1992. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Michael_2018-10-10_1732Z.jpg/330px-Michael_2018-10-10_1732Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hurricane_Michael"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The San Francisco Public Library is the public library system of the city and county of San Francisco in United States.",
+      "body": "The Main Library is located at Civic Center, at 100 Larkin Street. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/SFPL_Main_Library_Full_Exterior.jpg/330px-SFPL_Main_Library_Full_Exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/San_Francisco_Public_Library"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1986 —",
+      "hook": "A 5.7 Mw San Salvador earthquake shakes El Salvador, killing 1,500.",
+      "body": "The 1986 San Salvador earthquake occurred at 11:49:26 local time on 10 October 1986 with a moment magnitude of 5.7 and a maximum Mercalli intensity of IX (Violent). One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1986_San_Salvador_earthquake.jpg/330px-1986_San_Salvador_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1986_San_Salvador_earthquake"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Bubbles Project’s Tatiana Leite talks slate, why “future is not assured” for Brazilian indie cinema",
+      "body": "Festival do Rio selections include Nepal’s Oscar submission Elephants In The Fog.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/features/bubbles-projects-tatiana-leite-talks-slate-why-future-is-not-assured-for-brazilian-indie-cinema/5221292.article"
     },
     {
       "type": "card",
@@ -79,21 +167,13 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-      "body": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
-      "body": "<p>Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley &amp; Me</p><p>One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from scree",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Physicist is the fourth solo album by Canadian musician Devin Townsend.",
+      "body": "The album was released on June 26, 2000, on Townsend's label, HevyDevy Records. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c7/Physicistcover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Physicist_(album)"
     }
   ]
 }
