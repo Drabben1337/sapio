@@ -1,113 +1,192 @@
 {
-  "generated": "2026-10-10T22:59:30.764Z",
-  "count": 20,
+  "generated": "2026-10-11T01:33:04.756Z",
+  "count": 23,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Les Aventures d'Anthony is a 2015 Chinese coming-of-age romantic drama film directed by Janet Chun, produced by Zhou Xun and based on a novel.",
+      "body": "It was released on 13 November 2015. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/Les_Aventures_d%27Anthony_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Les_Aventures_d'Anthony"
+    },
     {
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "UK selects best international feature Oscar entry",
-      "body": "Film won the L’Oeil d’or at Cannes for best documentary across all sections.",
+      "hook": "‘Project Hail Mary’ composer, ‘Golden’ lead winners at 2026 World Soundtrack Awards",
+      "body": "Northern Irish composer Hannah Peel picked up the discovery of the year award.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/uk-selects-best-international-feature-oscar-entry/5221301.article"
+      "url": "https://www.screendaily.com/news/project-hail-mary-composer-golden-lead-winners-at-2026-world-soundtrack-awards/5221303.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 19 —",
-      "hook": "The Roman general Germanicus dies near Antioch. He was convinced that the mysterious illness that ended in his death was a result of poisoning by the Syrian governor Gnaeus Calpurnius Piso, whom he had ordered to leave the province.",
-      "body": "The 10s decade ran from January 1, AD 10, to December 31, AD 19. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%28Toulouse%29_Tib%C3%A8re_-_Mus%C3%A9e_Saint-Raymond_Ra_342_b.jpg/330px-%28Toulouse%29_Tib%C3%A8re_-_Mus%C3%A9e_Saint-Raymond_Ra_342_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1941 —",
+      "hook": "Beginning of the National Liberation War of Macedonia.",
+      "body": "World War II in Yugoslav Macedonia started with the Axis invasion of Yugoslavia in April 1941. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Map_of_Vardar_Macedonia_during_WW_II.png/330px-Map_of_Vardar_Macedonia_during_WW_II.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/10s"
+      "url": "https://en.wikipedia.org/wiki/World_War_II_in_Yugoslav_Macedonia"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "body": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
     },
     {
       "type": "card",
       "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "The 7.1 Mw San Fermín earthquake shakes Puerto Rico. The quake and resulting tsunami kill up to 116 people.",
+      "body": "Seismic magnitude scales are used to describe the overall strength or \"size\" of an earthquake. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Seismic_magnitude_scales"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Snowball is a 2020 South Korean youth drama film, directed by Lee Woo-jeong and starring Bang Min-ah, Shim Dal-gi, and Han Sung-min.",
+      "body": "The film adapted from The Best Life by Lim Solah, tells the story of three high school best friends who run away to find answers to their perceived troubles. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Snowball_2020_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Snowball_(2020_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1840 —",
+      "hook": "The Maronite leader Bashir Shihab II surrenders to the Ottoman Empire and later is sent to Malta in exile.",
+      "body": "Bashir Shihab II was a Lebanese emir who ruled the Emirate of Mount Lebanon between 1788 –1840. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/BashirChehab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Bashir_Shihab_II"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
+      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I was sideswiped by Giada Scodellaro’s <strong>Ruins, Child</strong>. A brilliant, strange book that challeng",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1311 —",
+      "hook": "The peerage and clergy restrict the authority of English kings with the Ordinances of 1311.",
+      "body": "England is a country that is part of the United Kingdom. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/England"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Big Six is the ninth book of Arthur Ransome's Swallows and Amazons series of children's books, published in 1940.",
+      "body": "The book returns Dick and Dorothea Callum, known as the Ds, to the Norfolk Broads where they renew their friendship with the members of the Coot Club. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/The_Big_Six_cover.JPG/330px-The_Big_Six_cover.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Big_Six"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1986 —",
+      "hook": "Ronald Reagan and Mikhail Gorbachev meet in Iceland to continue discussions about scaling back IRBM arsenals in Europe.",
+      "body": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1942 —",
+      "hook": "World War II: Off Guadalcanal, United States Navy ships intercept and defeat a Japanese force.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "It was on the air from 1946 to 2004 under the call letters KXLR, KBOX, KEZQ, and KLRG.",
-      "body": "KLRG was a radio station licensed to North Little Rock, Arkansas, United States. One of those things you can't un-know.",
-      "img": null,
+      "hook": "Operation Bounce House is a 2026 science-fiction novel by American author Matt Dinniman.",
+      "body": "A standalone novel, the book was published through Ace Books and centers upon a group of colonists who must defend their home against a plot to eradicate them from the planet. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c9/Operation_Bounce_House_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/KLRG_(North_Little_Rock%2C_Arkansas)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Violation of the due process clause under the Fourteenth Amendment was not considered as Hawaii was a territory of the United States at the time.",
-      "body": "284 (1927), was a case in which the Supreme Court of the United States unanimously struck down the Territory of Hawaii's law, making it illegal for schools to teach foreign languages without a permit, as it violated the Due Process Clause of the Fifth Amendmen",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Farrington_v._Tokushige"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1580 —",
-      "hook": "Over 600 Papal troops land in Ireland to support the Second Desmond Rebellion.",
-      "body": "The Kingdom of Ireland was a dependency of England from 1542 to 1707, and then of Great Britain from 1707 to 1800. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Royal_Standard_of_Ireland_%281542%E2%80%931801%29.svg/330px-Royal_Standard_of_Ireland_%281542%E2%80%931801%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Ireland"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Ray Gunn review – Brad Bird’s animated film-noir sci-fi caper is an old-school family classic",
-      "body": "<p>Sam Rockwell voices the gumshoe who becomes embroiled with Scarlett Johansson’s femme fatale in this big-hearted and beautifully designed fantasy spectacular</p><p>Brad Bird, the Spielberg of animation, applies his masterly authorial tou",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/10/ray-gunn-review-brad-birds-animated-film-noir-sci-fi-caper-is-an-old-school-family-classic"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "A jia is a ritual vessel type found in both pottery and bronze forms; it was used to hold libations of wine for the veneration of ancestors.",
-      "body": "It was made either with four legs or in the form of a tripod and included two pillar-like protrusions on the rim that were possibly used to suspend the vessel over heat. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Three_Jia.jpg/330px-Three_Jia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jia_(vessel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1985 —",
-      "hook": "US Navy aircraft intercept an Egyptian airliner carrying the perpetrators of the Achille Lauro hijacking, and force it to land in Italy.",
-      "body": "The Achille Lauro hijacking took place on 7 October 1985, when the Italian ocean liner MS Achille Lauro was hijacked by four men representing the Palestinian Liberation Front (PLF) off the coast of Egypt, as she was sailing from Alexandria to Ashdod, Israel. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Achille39_b.jpg/330px-Achille39_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Achille_Lauro_hijacking"
+      "url": "https://en.wikipedia.org/wiki/Operation_Bounce_House"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The Walk-in-Selection / Balloting Exercise of the Housing and Development Board in Singapore was a scheme that enabled eligible flat buyers to book their apartment.",
-      "body": "It was replaced by Sale of Balance Flats (SOBF). Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "One Man, One Wife is a 1959 satire novel by Nigerian writer T.",
+      "body": "It depicts the contradiction of Yoruba culture and the Christian missionaries. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/One_Man%2C_One_Wife.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Walk-in_Selection"
+      "url": "https://en.wikipedia.org/wiki/One_Man%2C_One_Wife"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "‘I just wasn’t going to give up’: the fight to free the longest-serving political prisoner in the US",
-      "body": "<p>Leonard Peltier was imprisoned for 49 years before his sentence was commuted. A new Netflix documentary exposes the ‘corrupt’ system that allowed it to happen</p><p>On 20 January 2025, with 14 minutes remaining in his term as president, ",
+      "hook": "14th review – Ava DuVernay’s galvanizing documentary is a remarkable achievement",
+      "body": "<p><strong>New York film festival:</strong> the director has made a fascinating and troubling companion piece to her Netflix documentary 13th, which takes a fiery look at American injustice</p><p>It feels at once like the blink of an eye an",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/10/free-leonard-peltier-netflix-documentary"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1575 —",
-      "hook": "Roman Catholic forces under Henry I, Duke of Guise, defeat the Protestants, capturing Philippe de Mornay among others.",
-      "body": "Henri I de Lorraine, Duke of Guise, Prince of Joinville, Count of Eu, sometimes called Le Balafré ('Scarface'), was the eldest son of François, Duke of Guise, and Anna d'Este. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Guise.jpg/330px-Guise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Henri_I%2C_Duke_of_Guise"
+      "url": "https://www.theguardian.com/film/2026/oct/09/ava-duvernay-14th-review"
     },
     {
       "type": "card",
@@ -121,79 +200,30 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "ESA —",
-      "hook": "Mars’s oddest cloud may be even odder than we thought",
-      "body": "Scientists using the European Space Agency's Mars Express , in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "14th review – Ava DuVernay’s galvanizing documentary is a remarkable achievement",
-      "body": "<p><strong>New York film festival:</strong> the director has made a fascinating and troubling companion piece to her Netflix documentary 13th, which takes a fiery look at American injustice</p><p>It feels at once like the blink of an eye an",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/09/ava-duvernay-14th-review"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Lake Hazen is a freshwater lake in the northern part of Ellesmere Island, Nunavut, Canada, north of the Arctic Circle.",
-      "body": "It is the largest lake north of the Arctic Circle by volume. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Lake_Hazen_2022-07-16_Sentinel-2_L2A_Highlight_Optimized_Natural_Color.jpg/330px-Lake_Hazen_2022-07-16_Sentinel-2_L2A_Highlight_Optimized_Natural_Color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lake_Hazen"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1954 —",
-      "hook": "The Minister of Foreign Affairs of the Sultanate of Muscat, Neil Innes, sends a signal to the Sultanate's forces, accompanied with oil explorers, to penetrate Fahud, marking the beginning of Jebel Akhdar War.",
-      "body": "Muscat and Oman, officially known as the Sultanate of Muscat and Oman, also known briefly as the State of Muscat and Oman during the rule of Taimur bin Faisal, was a state that was under de facto British protection which existed in the second half of the 19th century and 20th century. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_Muscat.svg/330px-Flag_of_Muscat.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Muscat_and_Oman"
-    },
-    {
-      "type": "card",
-      "cat": "news",
       "opener": "Screen Daily —",
-      "hook": "‘Project Hail Mary’ composer, ‘Golden’ lead winners at 2026 World Soundtrack Awards",
-      "body": "Northern Irish composer Hannah Peel picked up the discovery of the year award.",
+      "hook": "UK selects best international feature Oscar entry",
+      "body": "Film won the L’Oeil d’or at Cannes for best documentary across all sections.",
       "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/project-hail-mary-composer-golden-lead-winners-at-2026-world-soundtrack-awards/5221303.article"
+      "url": "https://www.screendaily.com/news/uk-selects-best-international-feature-oscar-entry/5221301.article"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "James Quentin Hughes, was an architect and academic.",
-      "body": "He was a British SAS officer during the Second World War, and was influential in the preservation of Liverpool's Victorian and Edwardian architectural heritage. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Quentin_Hughes_(architect)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1986 —",
-      "hook": "A 5.7 Mw San Salvador earthquake shakes El Salvador, killing 1,500.",
-      "body": "The 1986 San Salvador earthquake occurred at 11:49:26 local time on 10 October 1986 with a moment magnitude of 5.7 and a maximum Mercalli intensity of IX (Violent). Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1986_San_Salvador_earthquake.jpg/330px-1986_San_Salvador_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1986_San_Salvador_earthquake"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Fake is a 1953 British crime mystery directed by Godfrey Grayson and starring Dennis O'Keefe and Coleen Gray.",
-      "body": "An American detective tries to prevent the theft of a priceless painting from the Tate Gallery in London. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6a/The_Fake_%281953_film%29.jpg/330px-The_Fake_%281953_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Fake_(1953_film)"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Queerest of Folk by Russell T Davies review – the groundbreaking screenwriter tells it like it is",
+      "body": "<p>From Coronation Street to It’s a Sin, Davies’ memoir of a career in TV is also a rallying cry for creativity</p><p>Television is an intimate art form, once beamed into living rooms, now on devices right in front of our faces. The screenw",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/09/the-queerest-of-folk-by-russell-t-davies-review-the-groundbreaking-screenwriter-tells-it-like-it-is"
     }
   ]
 }
