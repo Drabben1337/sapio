@@ -1,55 +1,112 @@
 {
-  "generated": "2026-10-11T19:13:53.074Z",
-  "count": 18,
+  "generated": "2026-10-11T23:14:52.277Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Francesca Primas is an Italian astronomer at the European Southern Observatory in Germany.",
-      "body": "Her research studies the historical evolution of chemical abundances in the Milky Way and its satellite galaxies; she is also known for her activism for improving the gender balance of professional astronomy. Worth a quiet trip down the rabbit hole.",
+      "opener": "Here's one for the group chat —",
+      "hook": "Dead Body on Broadway is a 1969 German thriller film directed by Harald Reinl and starring George Nader, Heinz Weiss and Heidy Bohlen.",
+      "body": "It is the final entry in the series of films portraying FBI agent Jerry Cotton. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/80/Dead_Body_on_Broadway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dead_Body_on_Broadway"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on 625 new cosy crime novels for autumn – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Miss Charity is a 1921 British silent romance film directed by Edwin J.",
+      "body": "Collins and starring Margery Meadows, Dick Webb and Joan Lockton. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Francesca_Primas"
+      "url": "https://en.wikipedia.org/wiki/Miss_Charity"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Crazy Rich Asians to return as TV show with original film's stars",
+      "body": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1976 —",
+      "hook": "George Washington is posthumously promoted to the grade of General of the Armies.",
+      "body": "George Washington was a Founding Father and the first president of the United States, serving from 1789 to 1797. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/330px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/George_Washington"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "In physics and fluid mechanics, a boundary layer is the thin layer of fluid in the immediate vicinity of a bounding surface formed by the fluid flowing along the surface.",
-      "body": "The fluid's interaction with the wall induces a no-slip boundary condition. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Thermal-plume-from-human-hand.jpg/330px-Thermal-plume-from-human-hand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Stover at Yale, by Owen Johnson is a novel describing undergraduate life at Yale at the turn of the 20th century.",
+      "body": "The book was described by F. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Stover_at_Yale.png/330px-Stover_at_Yale.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Boundary_layer"
+      "url": "https://en.wikipedia.org/wiki/Stover_at_Yale"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘Wildwood’ review: Animation studio LAIKA break new ground with dazzling stop motion adventure",
-      "body": "The latest work from the ‘Coraline’ and ‘Kubo’ studio features the voices of Jacob Tremblay, Carey Mulligan and Peyton Elizabeth Lee",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/reviews/wildwood-review-animation-studio-laika-break-new-ground-with-dazzling-stop-motion-adventure/5221279.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Zamalek Sporting Club, commonly referred to as Zamalek, is an Egyptian Club based in Giza, Egypt.",
-      "body": "The club is best known for its professional men's football team, which plays in the Egyptian Premier League, the top tier of the Egyptian football league system. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ef/Zamalek_SC_logo.svg/330px-Zamalek_SC_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zamalek_SC"
+      "opener": "The Guardian · Film —",
+      "hook": "Wildwood review – Laika’s pleasingly old fashioned stop-motion magic-forest odyssey",
+      "body": "<p>The makers of Coraline return with their distinctive animation style in a magical tale of a secret world of strange beasts, talking animals and evil governesses</p><p>Here is an engaging family movie from the Portland-based Laika studio ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/11/wildwood-review-carey-mulligan-laika"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1962 —",
-      "hook": "The Second Vatican Council becomes the first ecumenical council of the Roman Catholic Church in 92 years.",
-      "body": "The Second Ecumenical Council of the Vatican, commonly called the Second Vatican Council or Vatican II, was the twenty-first and most recent ecumenical council of the Catholic Church. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Vatican_II_photo.jpg/330px-Vatican_II_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1840 —",
+      "hook": "The Maronite leader Bashir Shihab II surrenders to the Ottoman Empire and later is sent to Malta in exile.",
+      "body": "Bashir Shihab II was a Lebanese emir who ruled the Emirate of Mount Lebanon between 1788 –1840. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/BashirChehab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Second_Vatican_Council"
+      "url": "https://en.wikipedia.org/wiki/Bashir_Shihab_II"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Alison Hammond: 'I thought I was having heart attack on air'",
+      "body": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "It is on the A549 road, with the larger A55 road passing nearby.",
+      "body": "Buckley is a town and community in Flintshire, North East Wales, two miles (3 km) from the town of Mold and contiguous with the villages of Ewloe, Alltami and Mynydd Isa. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Parish_Church_of_St_Matthew%2C_Buckley.jpg/330px-Parish_Church_of_St_Matthew%2C_Buckley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Buckley%2C_Flintshire"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2001 —",
+      "hook": "The Polaroid Corporation files for federal bankruptcy protection.",
+      "body": "Polaroid Corporation was an American company that made instant film and cameras, which survives as a brand for consumer electronics. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Polaroid_SX-70_%284462345243%29.jpg/330px-Polaroid_SX-70_%284462345243%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Polaroid_Corporation"
     },
     {
       "type": "card",
@@ -73,107 +130,70 @@
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Kecksies and Other Twilight Tales is a collection of stories by British writer Marjorie Bowen.",
-      "body": "It was released in 1976 and was the author's first collection of stories published in the United States. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/46/Kecksies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Medusa Chronicles is a 2016 science fiction novel by Alastair Reynolds and Stephen Baxter, a sequel to Arthur C.",
+      "body": "Clarke's 1971 novella A Meeting with Medusa. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c5/Medusa_Chronicles_Baxter_Reynolds_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kecksies_and_Other_Twilight_Tales"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Wildwood review – Laika’s pleasingly old fashioned stop-motion magic-forest odyssey",
-      "body": "<p>The makers of Coraline return with their distinctive animation style in a magical tale of a secret world of strange beasts, talking animals and evil governesses</p><p>Here is an engaging family movie from the Portland-based Laika studio ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/11/wildwood-review-carey-mulligan-laika"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1840 —",
-      "hook": "The Maronite leader Bashir Shihab II surrenders to the Ottoman Empire and later is sent to Malta in exile.",
-      "body": "Bashir Shihab II was a Lebanese emir who ruled the Emirate of Mount Lebanon between 1788 –1840. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/BashirChehab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bashir_Shihab_II"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1797 —",
-      "hook": "The Royal Navy decisively defeats the Batavian Navy at Camperdown during the French Revolutionary Wars.",
-      "body": "The Battle of Camperdown was fought on 11 October 1797 between the Royal Navy's North Sea Fleet under Admiral of the Blue Adam Duncan and a Batavian Navy fleet led by Vice-admiral Jan Willem de Winter. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Thomas-Whitcombe-Battle-of-Camperdown.jpg/330px-Thomas-Whitcombe-Battle-of-Camperdown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Camperdown"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Crazy Rich Asians to return as TV show with original film's stars",
-      "body": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on 625 new cosy crime novels for autumn – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1984 —",
-      "hook": "Aeroflot Flight 3352 crashes into maintenance vehicles upon landing in Omsk, Russia, killing 178.",
-      "body": "Aeroflot Flight 3352 was a regularly scheduled Aeroflot domestic flight in the Soviet Union from Krasnodar to Novosibirsk, with an intermediate landing in Omsk. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Aeroflot_Tu-154B-1_CCCP-85274_ZRH_1982-6-20.png/330px-Aeroflot_Tu-154B-1_CCCP-85274_ZRH_1982-6-20.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_3352"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1614 —",
-      "hook": "The New Netherland Company applies to the States General of the Netherlands for exclusive trading rights in what is now the northeastern United States.",
-      "body": "New Netherland Company was a chartered company of Dutch merchants. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Wpdms_aq_block_1614.jpg/330px-Wpdms_aq_block_1614.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/New_Netherland_Company"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1987 —",
-      "hook": "The AIDS Memorial Quilt is first displayed during the Second National March on Washington for Lesbian and Gay Rights.",
-      "body": "The NAMES Project AIDS Memorial Quilt, often abbreviated to AIDS Memorial Quilt or AIDS Quilt, is a memorial to celebrate the lives of people who have died of AIDS-related causes. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Aids_Quilt.jpg/330px-Aids_Quilt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/NAMES_Project_AIDS_Memorial_Quilt"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Alison Hammond: 'I thought I was having heart attack on air'",
-      "body": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/The_Medusa_Chronicles"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Brighton Belle is a novel written by Scottish writer Sara Sheridan.",
-      "body": "The book was first published by Polygon Books in 2012 and is the first in the series of the Mirabelle Bevan mysteries. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/91/Brighton_Belle_Book_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "You probably never noticed this —",
+      "hook": "Shine Post is a Japanese idol-themed mixed-media project created by Konami Digital Entertainment and Straight Edge.",
+      "body": "A light novel series written by Rakuda and illustrated by Buriki, titled Shine Post: Nee Shitteta? One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6e/Shine_Post_light_novel_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Brighton_Belle_(Sheridan_novel)"
+      "url": "https://en.wikipedia.org/wiki/Shine_Post"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1138 —",
+      "hook": "A massive earthquake strikes Aleppo; it is one of the most destructive earthquakes ever.",
+      "body": "The earthquake that struck Aleppo and the rest of northern Syria on 11 October 1138 was among the deadliest earthquakes in history. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1138_Aleppo_earthquake"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1311 —",
+      "hook": "The peerage and clergy restrict the authority of English kings with the Ordinances of 1311.",
+      "body": "England is a country that is part of the United Kingdom. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/England"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "Carleton Hill rises to 520 feet or 158 metres from the road and is the site near its summit of earth banks, an ancient fort.",
+      "body": "Lendalfoot is a small village located on Carleton Bay, parish of Colmonell in the old district of Carrick, now South Ayrshire, about six miles south of Girvan, Scotland. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lendalfoot_from_Little_Carleton_Farm%2C_Lendalfoot%2C_South_Ayrshire%2C_Scotland.jpg/330px-Lendalfoot_from_Little_Carleton_Farm%2C_Lendalfoot%2C_South_Ayrshire%2C_Scotland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lendalfoot"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "How do human beings explain taking part in genocide? NAZA provides a chilling look | Omer Bartov",
+      "body": "<p>It’s easier to blame brutes and sadists for extreme violence. But as we see in the documentary, modern genocides are fueled by people who are uncomfortably recognizable</p><p>Werner Best, a senior SS official and jurist who helped organi",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/global/commentisfree/2026/oct/09/naza-mass-killing-gaza-israel"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1142 —",
+      "hook": "A peace treaty ends the Jin–Song wars.",
+      "body": "The Treaty of Shaoxing was the agreement and truce that ended the protracted military conflicts between the Jin dynasty and the Southern Song dynasty. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Jin_Dynasty_1141_%28no_borders%29.png/330px-Jin_Dynasty_1141_%28no_borders%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Shaoxing"
     }
   ]
 }
