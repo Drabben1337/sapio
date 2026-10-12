@@ -1,119 +1,199 @@
 {
-  "generated": "2026-10-12T02:45:56.469Z",
-  "count": 12,
+  "generated": "2026-10-12T09:50:47.240Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘The crime fiction I’m interested in is political’: Ian Rankin on his new novel about the super-rich",
-      "body": "<p>The bestselling writer talks about leaving Edinburgh for London in his latest mystery, and what the future holds for Rebus</p><p>Sir Ian Rankin rarely watches television. Certainly, there’s no gleaming flatscreen in the corner of the apa",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/11/the-fiction-im-interested-in-is-political-ian-rankin-on-his-new-novel-about-the-super-rich"
+      "cat": "history",
+      "opener": "On this day in 1773 —",
+      "hook": "America's first insane asylum opens.",
+      "body": "Eastern State Hospital is a psychiatric hospital in Williamsburg, Virginia. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Eastern_state_hospital_1.jpg/330px-Eastern_state_hospital_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Eastern_State_Hospital_(Virginia)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2010 —",
+      "hook": "The Finnish Yle TV2 channel's Ajankohtainen kakkonen current affairs program airs controversial Homoilta episode (literally \"gay night\"), which leads to the resignation of almost 50,000 Finns from the Evangelical Lutheran Church.",
+      "body": "Yle TV2 is a Finnish television channel owned and operated by Yle. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Yle_TV2_logo.svg/330px-Yle_TV2_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Yle_TV2"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1945 —",
+      "hook": "The Lao Issara took control of Laos' government and reaffirmed the country's independence.",
+      "body": "The Lao Issara was an anti-French nationalist movement formed on 12 October 1945 by Prince Phetsarath Ratanavongsa. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/330px-Flag_of_Laos.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Lao_Issara"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on 625 new cosy crime novels for autumn – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Did Trump get one thing right about Greenland?",
-      "body": "<p>Threatening an ally is a terrible idea, but there’s no denying the Arctic’s increasing strategic importance</p><p>One of Donald Trump’s more diabolical talents is his ability to land on the right things in the wrong way. Since his first ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/world/2026/oct/11/did-trump-get-one-thing-right-about-greenland"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Capcom developed two light novels in the Devil May Cry series, written by Shinya Goikeda, illustrated by Shiro Miwa and published by Kadokawa Shoten.",
-      "body": "Originally released alongside Devil May Cry and Devil May Cry 2 the novels act as preludes, with the epilogue of the novel leading into the opening scene of the game. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Devil_May_Cry_(novels)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "How do human beings explain taking part in genocide? NAZA provides a chilling look | Omer Bartov",
-      "body": "<p>It’s easier to blame brutes and sadists for extreme violence. But as we see in the documentary, modern genocides are fueled by people who are uncomfortably recognizable</p><p>Werner Best, a senior SS official and jurist who helped organi",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/global/commentisfree/2026/oct/09/naza-mass-killing-gaza-israel"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Lockheed L-100 Hercules is the civilian variant of the C-130 Hercules military transport aircraft made by the Lockheed Corporation.",
-      "body": "Its first flight occurred in 1964. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Lockheed_L100-30_Hercules_HZ-128_%286819452647%29.jpg/330px-Lockheed_L100-30_Hercules_HZ-128_%286819452647%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lockheed_L-100_Hercules"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Orval Eugene Faubus was an American politician who served as the 36th governor of Arkansas from 1955 to 1967, as a member of the Democratic Party.",
-      "body": "He is best known for the 1957 Little Rock Crisis, when he refused to comply with a decision of the U.S. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Orval_Faubus.jpg/330px-Orval_Faubus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Orval_Faubus"
+      "opener": "BBC Entertainment —",
+      "hook": "Robert Pattinson on new film Primetime and how hunting predators became hit TV",
+      "body": "The actor portrays the real-life host of American TV show, To Catch a Predator, in his latest film.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cmn5d92423vyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Metropolitan Museum of Art, colloquially referred to as the Met, is an encyclopedic art museum in New York City.",
-      "body": "By floor area, it is the third-largest museum in the world and the largest art museum in the Americas. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/330px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Perfume of the Lady in Black is a 1974 Italian giallo film directed and co-written by Francesco Barilli in his feature directorial debut, and starring Mimsy Farmer, Maurizio Bonuglia, Mario Scaccia, and Orazio Orlando.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/The_Perfume_of_the_Lady_in_Black.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Alison Hammond: 'I thought I was having heart attack on air'",
-      "body": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Crazy Rich Asians to return as TV show with original film's stars",
-      "body": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/The_Perfume_of_the_Lady_in_Black"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Neil Landau is an American screenwriter, playwright, producer, and director.",
-      "body": "His film and television credits include the teen comedy Don't Tell Mom the Babysitter's Dead, Melrose Place, The Magnificent Seven, Doogie Howser, M.D., The Secret World of Alex Mack and MTV's Undressed. The world is stranger than it lets on.",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Lambeth Conference convenes as the Archbishop of Canterbury summons an assembly of Anglican bishops every ten years.",
+      "body": "The first took place at Lambeth in 1867. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Neil_Landau"
+      "url": "https://en.wikipedia.org/wiki/Lambeth_Conference"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Wildwood review – Laika’s pleasingly old fashioned stop-motion magic-forest odyssey",
-      "body": "<p>The makers of Coraline return with their distinctive animation style in a magical tale of a secret world of strange beasts, talking animals and evil governesses</p><p>Here is an engaging family movie from the Portland-based Laika studio ",
+      "hook": "A Fidai Film review – Palestinian collage film transforms suppressed footage into works of art",
+      "body": "<p>Using archive material of destroyed houses, terrorised children and dead bodies, Kamal Aljafari adds humanity to the reels by overlaying poems by Palestinian authors</p><p>In Arabic, “fidai” means someone willing to sacrifice themselves ",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/11/wildwood-review-carey-mulligan-laika"
+      "url": "https://www.theguardian.com/film/2026/oct/12/a-fidai-film-review-palestinian-collage-true-story"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Geno Thomas Vickers was an American Democratic politician from Nebraska, who served as a member of the Nebraska Legislature from the 38th district from 1979 to 1987.",
+      "body": "He was the Democratic nominee for U.S. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tom_Vickers"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1901 —",
+      "hook": "President Theodore Roosevelt officially renames the \"Executive Mansion\" to the White House.",
+      "body": "Theodore Roosevelt Jr. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%282%29.jpg/330px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "A pharmacist also often serves as a primary care provider in the community and offers services, such as health screenings and immunizations.",
+      "body": "A pharmacist, also known as a chemist in Commonwealth English, is a healthcare professional who is knowledgeable about preparation, mechanism of action, clinical usage and legislation of medications in order to dispense them safely to the public and to provide",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Man_consults_with_pharmacist_%282%29.jpg/330px-Man_consults_with_pharmacist_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pharmacist"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "La Bohème is a 1965 West German film production of the 1896 opera of the same name by Puccini, filmed in a Milan studio and recorded at the Munich Opera.",
+      "body": "The film director and producer and set designer was the Italian director Franco Zeffirelli; Herbert von Karajan conducted the chorus and orchestra of La Scala and was the artistic supervisor. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/La_Boh%C3%A8me_(1965_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The award was discontinued in 2024.",
+      "body": "The Multishow Brazilian Music Award for Hip Hop of the Year was an award presented at the 2023 Multishow Brazilian Music Awards, to artists for hip hop songs. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Djonga_visita_a_NAVE_e_lan%C3%A7a_seu_sexto_%C3%A1lbum_%E2%80%9CO_Dono_do_Lugar%E2%80%9D_%C2%B7_11_10_2022_%C2%B7_S%C3%A3o_Paulo_%28SP%29_%2852442211582%29_%28cropped%29.jpg/330px-Djonga_visita_a_NAVE_e_lan%C3%A7a_seu_sexto_%C3%A1lbum_%E2%80%9CO_Dono_do_Lugar%E2%80%9D_%C2%B7_11_10_2022_%C2%B7_S%C3%A3o_Paulo_%28SP%29_%2852442211582%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Multishow_Brazilian_Music_Award_for_Hip_Hop_of_the_Year"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Sacha Baron Cohen to star in Quentin Tarantino's West End play",
+      "body": "The Borat star said he was \"beyond delighted\" to be working on the show, The Popinjay Cavalier, with the Pulp Fiction director.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘The Riverbank’ leads 2026 Festival do Rio winners",
+      "body": "On Behalf Of My Son wins three including audience award for fiction.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/the-riverbank-leads-2026-festival-do-rio-winners/5221323.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1964 —",
+      "hook": "The Soviet Union launches the Voskhod 1 into Earth orbit as the first spacecraft with a multi-person crew, and the first flight without pressure suits.",
+      "body": "Voskhod 1 was the seventh crewed Soviet space flight. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Voskhod_1_capsule_on_display%2C_2016.jpg/330px-Voskhod_1_capsule_on_display%2C_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Voskhod_1"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1917 —",
+      "hook": "World War I: The First Battle of Passchendaele takes place resulting in the largest single-day loss of life in New Zealand history.",
+      "body": "The First Battle of Passchendaele took place on 12 October 1917 during the First World War, in the Ypres Salient in Belgium on the Western Front. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Morning_a_Passchendaele._Frank_Hurley.jpg/330px-Morning_a_Passchendaele._Frank_Hurley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/First_Battle_of_Passchendaele"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Deadline review – shocking threat sends tremors through authoritarian school",
+      "body": "<p>Set in a dystopian private academy rife with surveillance and cut-throat competition, Kiwi Chow’s gripping drama cements his status as an important film-maker</p><p>Filmed in Taiwan and set entirely inside a prestigious high school, Kiwi",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/12/deadline-review-shocking-threat-sends-tremors-through-authoritarian-school"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "John Lithgow is an American actor.",
+      "body": "He made his film debut in the comedy-drama Dealing: Or the Berkeley-to-Boston Forty-Brick Lost-Bag Blues (1972). Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/John_Lithgow_%282092445346%29.jpg/330px-John_Lithgow_%282092445346%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Lithgow_on_screen_and_stage"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Russell Brand arrives at court for start of rape trial",
+      "body": "The 51-year-old actor and comedian denies charges of rape and sexual assault against six women.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘A rare indulgence’: why Black Swan is my feelgood movie",
+      "body": "<p>The latest in our series of writers explaining their go-to comfort films is a tribute to Darren Aronofsky’s dark and unusually satisfying ballet nightmare</p><p>In early 2011, sometime after the film was released on home video, I sat dow",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/12/black-swan-feelgood-movie"
     }
   ]
 }
