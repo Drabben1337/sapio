@@ -1,53 +1,81 @@
 {
-  "generated": "2026-10-13T01:39:55.182Z",
+  "generated": "2026-10-13T08:33:44.393Z",
   "count": 19,
   "items": [
     {
       "type": "card",
       "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Bye, See You Monday is a 1979 French-Canadian drama film directed by Maurice Dugowson.",
+      "body": "It was entered into the 12th Moscow International Film Festival. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4e/Au-revoir-a-lundi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bye%2C_See_You_Monday"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "It’s My Time review – Michelle Yeoh excels in Rocky-style quest to be Rubik’s Cube champ",
+      "body": "<p>True story about a former maths teacher who became a puzzle champion in retirement is squeezed into predictable sports-movie formula</p><p>It’s not quite up there with Leonardo DiCaprio <a href=\"https://www.theguardian.com/film/filmblog/",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/13/its-my-time-review-michelle-yeoh-excels-in-rocky-style-quest-to-be-rubiks-cube-champ"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1479 —",
+      "hook": "Hungarian forces under Stephen V Báthory decisively defeat an invading Ottoman army in the battle of Breadfield.",
+      "body": "Stephen Báthory of Ecsed was a Hungarian commander, 'dapiferorum regalium magister' (1458–?), judge royal (1471–1493), and voivode of Transylvania (1479–1493). Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Coa_Hungary_Family_B%C3%A1thory.svg/330px-Coa_Hungary_Family_B%C3%A1thory.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Stephen_V_B%C3%A1thory"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1976 —",
+      "hook": "A Lloyd Aéreo Boliviano Boeing 707 crashes after takeoff from El Trompillo Airport in Santa Cruz de la Sierra, Bolivia, killing 91.",
+      "body": "Lloyd Aéreo Boliviano (LAB), internationally known as LAB Bolivian Airlines, was the flag carrier and principal airline of Bolivia for much of the 20th century. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Lloyd_A%C3%A9reo_Boliviano_Boeing_767-300ER_CP-2426_MIA_2006-1-26.png/330px-Lloyd_A%C3%A9reo_Boliviano_Boeing_767-300ER_CP-2426_MIA_2006-1-26.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Lloyd_A%C3%A9reo_Boliviano"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
+      "body": "<p><strong>Venice film festival: </strong>Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality</p><p>Lance Oppenheim is the acclaimed documentary-maker who ha",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The first named storm of the annual hurricane season, Alberto developed from a tropical wave over the northwestern Caribbean Sea on June 30.",
+      "body": "Tropical Storm Alberto was a tropical cyclone that produced extensive and destructive flooding over portions of Alabama, Georgia, and Florida in July 1994. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Alberto_1994-07-03_1430Z.png/330px-Alberto_1994-07-03_1430Z.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tropical_Storm_Alberto_(1994)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Diazotrophs are organisms capable of nitrogen fixation, i.e.",
-      "body": "converting the relatively inert diatomic nitrogen (N2) in Earth's atmosphere into bioavailable compound forms such as ammonia. One of those things you can't un-know.",
+      "hook": "The dynamic between the Arab world and the State of Israel has largely been marked by overt hostility, owing to the latter's conflict with the Palestinian Arabs.",
+      "body": "Israel has fought several wars with many Arab countries, and most members of the Arab League do not recognize Israeli sovereignty. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Diazotroph"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1983 —",
-      "hook": "Ameritech Mobile Communications launches the first US cellular network in Chicago.",
-      "body": "Ameritech Mobile Communications, LLC was the first telecommunications company in the U.S. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ameritech_Cellular"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1821 —",
-      "hook": "The Declaration of Independence of the Mexican Empire is publicly proclaimed.",
-      "body": "The Declaration of Independence of the Mexican Empire is the document by which Mexico declared independence from the Spanish Empire. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Acta_Independencia_Mexico_1821.jpg/330px-Acta_Independencia_Mexico_1821.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Declaration_of_Independence_(Mexico)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1710 —",
-      "hook": "Port Royal, the capital of French Acadia, falls in a siege by British forces.",
-      "body": "The siege of Port Royal, also known as the Conquest of Acadia, was a military siege conducted by British regular and provincial forces under the command of Francis Nicholson against a French Acadian garrison and the Wabanaki Confederacy under the command of Daniel d'Auger de Subercase, at the Acadian capital, Port Royal. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/EvacutionOfPortRoyal1710byCWJefferys.png/330px-EvacutionOfPortRoyal1710byCWJefferys.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Siege_of_Port_Royal_(1710)"
+      "url": "https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_relations"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1892 —",
       "hook": "Edward Emerson Barnard is first to discover a comet by photographic means.",
-      "body": "206P/Barnard–Boattini was the first comet to be discovered by photographic means. Bring it up somewhere. Watch the reaction.",
+      "body": "206P/Barnard–Boattini was the first comet to be discovered by photographic means. The world is stranger than it lets on.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/206P_Barnard-Boattini_on_1892-10-13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/206P%2FBarnard%E2%80%93Boattini"
@@ -55,135 +83,107 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘Sometimes she publishes notes she’s scribbled on her hand’: Édouard Louis on 10 reasons to love Anne Carson",
-      "body": "<p>The French author discovered Carson on a bus while stranded in a snowstorm and has been enthralled by her fearless imagination ever since</p><ul><li><p><a href=\"https://www.theguardian.com/books/2026/oct/08/where-to-start-with-anne-carso",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/09/sometimes-she-publishes-notes-shes-scribbled-on-her-hand-edouard-louis-on-10-reasons-to-love-anne-carson"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Kvitel or Kvitl refers to a practice developed by Hasidic Judaism in which a Hasid writes a note with a petitionary prayer and gives it to a Rebbe in order to receive the latter's blessing.",
-      "body": "This prayer may be a general request for health, livelihood, or success, or a specific request such as recovery from illness, the ability to bear children, a wedding match, etc. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%D7%A4%D7%AA%D7%A7%D7%99%D7%9D_%D7%91%D7%AA%D7%95%D7%9A_%D7%90%D7%95%D7%94%D7%9C_%D7%94%D7%A8%D7%91%D7%99_%D7%9E%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9.jpg/330px-%D7%A4%D7%AA%D7%A7%D7%99%D7%9D_%D7%91%D7%AA%D7%95%D7%9A_%D7%90%D7%95%D7%94%D7%9C_%D7%94%D7%A8%D7%91%D7%99_%D7%9E%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kvitel"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Breaking Bad actor RJ Mitte dies aged 34",
-      "body": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Other Mommy review – Jessica Chastain’s demonic double horror isn’t nightmarish enough",
-      "body": "<p>There’s some effectively unnerving imagery and a cleverly icy dual lead performance but this kept-from-critics shocker is a bit of a jumble</p><p>The buzz surrounding the <a href=\"https://www.youtube.com/watch?v=bEpTgowZ1dI&amp;\">viral, ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/oct/09/other-mommy-movie-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Based in Bern, it organises the Swiss Football League and the Switzerland national football team.",
-      "body": "The Swiss Football Association is the governing body of football in Switzerland. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Swiss_Football_Association_logo.svg/330px-Swiss_Football_Association_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Swiss_Football_Association"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Jimmy Kimmel on Trump’s government: ‘There’s just so much lying and stealing’",
-      "body": "<p>Late-night hosts looked at Trump’s latest lies and his bizarre comments on Iran destroying Los Angeles and San Diego</p><p>Late-night hosts poked fun at Donald Trump’s attempts to lie about crowd size once again as his administration con",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/oct/09/jimmy-kimmel-trump-government-lying-stealing"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Tenzing review – reconstruction of first summit of Everest puts Sherpa at the centre of the story",
-      "body": "<p>Genden Phuntsok brings charm and innocence to his portrayal of Tenzing Norgay, while Tom Hiddleston is suitably frank as Edmund Hillary</p><p>Here is a well intentioned, watchable, if sometimes soft-edged film with some NatGeo production",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/oct/09/tenzing-review-genden-phuntsok-tom-hiddleston-apple-willem-dafoe-v"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Peter Hayden Dinklage is an American actor.",
-      "body": "Portraying Tyrion Lannister on the HBO television series Game of Thrones (2011–2019), he won the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series a record four times. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Peter_Dinklage_by_Gage_Skidmore_2.jpg/330px-Peter_Dinklage_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Peter_Dinklage"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1921 —",
-      "hook": "Soviet republics sign the Treaty of Kars to formalize the borders between Turkey and the South Caucasus states.",
-      "body": "The Treaty of Kars was a treaty that established the borders between Turkey and the three Transcaucasian Soviet republics, which are now the independent republics of Armenia, Georgia and Azerbaijan. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/TreatyofKarsMap.jpg/330px-TreatyofKarsMap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_Kars"
+      "opener": "The Guardian · Film —",
+      "hook": "Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants",
+      "body": "<p>Actor, who allegedly punched one Delta attendant, bit another and tried to open plane door, was charged for two separate assaults after the plane landed</p><p>The actor <a href=\"https://www.theguardian.com/film/selma-blair\">Selma Blair</",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
-      "body": "<p>Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley &amp; Me</p><p>One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from scree",
+      "hook": "Mag Mag review – giant female ghost loves people to death in Japanese comedy-horror",
+      "body": "<p>Sara Minami gives a wonderfully crazed performance in a twisted, fresh take on the genre as Yuriyan Retriever’s debut feature examines infatuation, bullying and beauty norms</p><p>Back in the 90s and 00s, Japanese horror (or “J-horror” i",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese"
+      "url": "https://www.theguardian.com/film/2026/oct/13/mag-mag-review-japanese-horror-yuriyan-retriever"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
+      "body": "<p>This over-controlled adventure never takes a breath or a moment to let its characters come to life</p><p>Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me ano",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1843 —",
-      "hook": "In New York City, B'nai B'rith, the oldest Jewish service organization in the world, is founded.",
-      "body": "B’nai B’rith International is an American 501(c)(3) nonprofit Jewish service organization and was formerly a cultural association for German Jewish immigrants to the United States. Worth a quiet trip down the rabbit hole.",
+      "opener": "On this day in 1983 —",
+      "hook": "Ameritech Mobile Communications launches the first US cellular network in Chicago.",
+      "body": "Ameritech Mobile Communications, LLC was the first telecommunications company in the U.S. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/B'nai_B'rith"
+      "url": "https://en.wikipedia.org/wiki/Ameritech_Cellular"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Resonance is a quality of human relationships with the world proposed by Hartmut Rosa.",
-      "body": "Rosa, professor of sociology at the University of Jena, conceptualised resonance theory in Resonanz (2016) to explain social phenomena through a fundamental human impulse towards \"resonant\" relationships. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Henry Woodfin Grady was an American journalist and orator who helped reintegrate the states of the Confederacy into the Union after the American Civil War.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Henry-grady-1890.JPG/330px-Henry-grady-1890.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Resonance_(sociology)"
+      "url": "https://en.wikipedia.org/wiki/Henry_W._Grady"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Generation Maybe by Camilla Cavendish review – what’s really behind the fertility gap?",
+      "body": "<p>An evidenced-based account of the difficult choices facing couples across the world – from America to Iran</p><p>‘Don’t be weird about this,” representative Alexandria Ocasio-Cortez laughed into the camera as she prepared to jab a hormon",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/13/generation-maybe-by-camilla-cavendish-review-whats-really-behind-the-fertility-gap"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Son Eon-jin, better known by her stage name, Son Ye-jin (손예진), is a South Korean actress who rose to fame in 2003 in The Classic and Summer Scent, which were followed by the commercially successful A Moment to Remember (2004) and April Snow (2005).",
-      "body": "Her early romantic roles garnered her the title \"Nation's First Love\" in Korea. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Son_Ye-jin_in_May_2026.png/330px-Son_Ye-jin_in_May_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "\"Lovin' You\" is a 1987 single by the O'Jays from their album, Let Me Touch You, and written by songwriting duo Kenny Gamble and Leon Huff.",
+      "body": "The single, which topped the Billboard R&B chart for one week, was the O'Jays first number one on that chart since \"Use Ta Be My Girl\" in 1978. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/Lovin_You_45_label.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Son_Ye-jin"
+      "url": "https://en.wikipedia.org/wiki/Lovin'_You_(The_O'Jays_song)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1990 —",
+      "hook": "Syrian forces attack free areas of Lebanon, removing General Michel Aoun from the presidential palace.",
+      "body": "Michel Naim Aoun is a Lebanese politician and former general who served as the 13th president of Lebanon from 31 October 2016 to 30 October 2022. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Sergio_Mattarella_e_Michel_Aoun_al_Quirinale_nel_2022_%286%29_%28cropped%29.jpg/330px-Sergio_Mattarella_e_Michel_Aoun_al_Quirinale_nel_2022_%286%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Michel_Aoun"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Peck & Peck by Bonnie Garmus review – the zany follow-up to Lessons in Chemistry",
+      "body": "<p>This offbeat tale of machinations at an eccentric poetry magazine in 80s New York is laugh-out-loud funny – and a paean to the power of poetry</p><p>If you have been into a bookshop since 2022, or perhaps even just breathed in and out, y",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/13/peck-peck-by-bonnie-garmus-review-the-zany-follow-up-to-lessons-in-chemistry"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The 2001–02 season was the Fussball Club Basel 1893's 109th season in the club's history and their 8th consecutive season in the Nationalliga A, the top flight of Swiss football.",
+      "body": "Basel played their home games in the newly constructed St. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/FC_Basel.png/330px-FC_Basel.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2001%E2%80%9302_FC_Basel_season"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1977 —",
+      "hook": "Hijacking of Lufthansa Flight 181 by the Popular Front for the Liberation of Palestine.",
+      "body": "Lufthansa Flight 181, a Boeing 737-200 jet airliner named Landshut, was hijacked on 13 October 1977 by four militants of the Popular Front for the Liberation of Palestine while en route from Palma de Mallorca, Spain, to Frankfurt am Main, West Germany. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/D-ABCE_B737-230C_Lufthansa_MAN_24OCT75_%286141698947%29.jpg/330px-D-ABCE_B737-230C_Lufthansa_MAN_24OCT75_%286141698947%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Lufthansa_Flight_181"
     }
   ]
 }
