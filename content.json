@@ -1,166 +1,110 @@
 {
-  "generated": "2026-10-14T05:32:14.362Z",
-  "count": 20,
+  "generated": "2026-10-14T10:41:11.901Z",
+  "count": 22,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Osamake: Romcom Where The Childhood Friend Won't Lose , abbreviated as Osamake (おさまけ), is a Japanese romantic comedy light novel series written by Shūichi Nimaru and illustrated by Ui Shigure.",
+      "body": "A manga adaptation with art by Ryō Itō has been serialized in Media Factory's seinen manga magazine Monthly Comic Alive since November 2019. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Osananajimi_ga_Zettai_ni_Makenai_Love_Comedy_light_novel_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Osamake"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Did Trump get one thing right about Greenland?",
-      "body": "<p>Threatening an ally is a terrible idea, but there’s no denying the Arctic’s increasing strategic importance</p><p>One of Donald Trump’s more diabolical talents is his ability to land on the right things in the wrong way. Since his first ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/world/2026/oct/11/did-trump-get-one-thing-right-about-greenland"
+      "opener": "The Guardian · Film —",
+      "hook": "Kiri and Lou Go Raaa! review – delightful origin story for CBeebies’ prehistoric pals",
+      "body": "<p>The pair’s first feature-length adventure stars Jemaine Clement and Olivia Tennet, has a dreamy soundtrack and beautiful stop-motion visuals – fantastic family fun</p><p>Kiri is a lively yellow dinosaur, Lou is an amiable purple palorche",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/14/kiri-and-lou-go-raaa-review-delightful-origin-story-for-cbeebies-prehistoric-pals"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2004 —",
+      "hook": "Pinnacle Airlines Flight 3701 crashes in Jefferson City, Missouri. The two pilots (the aircraft's only occupants) are killed.",
+      "body": "On October 14, 2004, Pinnacle Airlines Flight 3701, a Bombardier CRJ200 on a repositioning flight from Little Rock to Minneapolis, crashed while attempting an emergency approach to Jefferson City Memorial Airport in Missouri, United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/N8396A_aft_fuselage.jpg/330px-N8396A_aft_fuselage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pinnacle_Airlines_Flight_3701"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Wuthering Heights: The House of the Damned review – Brontë horror do-over is part Dracula, part Jeeves and Wooster",
+      "body": "<p>Emily Brontë’s classic is reimagined with extra stranglings, slashings and pitchfork impalings but plays it straight</p><p>Where pornography once trod, horror has now become the genre that infiltrates and apes all others. With a host of ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/14/wuthering-heights-the-house-of-the-damned-review"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Bifa breakthrough performance longlist includes ‘Extra Geography’, ‘Effi o Blaenau’ actors",
+      "body": "Actors from ‘Animol’, ‘Sunny Dancer’ make the longlist.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/bifa-breakthrough-performance-longlist-includes-extra-geography-effi-o-blaenau-actors/5221420.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1888 —",
+      "hook": "Louis Le Prince films the first motion picture, Roundhay Garden Scene.",
+      "body": "Louis Aimé Augustin Le Prince was a French-American artist, cinematographer and the inventor of an early motion-picture camera, and director of Roundhay Garden Scene. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Louisleprincerestored.png/330px-Louisleprincerestored.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Louis_Le_Prince"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "It is administered by Independent Schools Queensland, with an enrollment of 1,607 students and a teaching staff of 119, as of 2023.",
+      "body": "Paterson College is a private, non-denominational, co-educational K–12 school located in the City of Gold Coast suburb of Arundel, Queensland, Australia. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/75/A.B._Paterson_College_Logo.svg/330px-A.B._Paterson_College_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A.B._Paterson_College"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Vampire Cheerleaders is an original English-language (OEL) manga series written by Adam Arnold, with art by Michael Shelfer; previously by Shiei, and published by Seven Seas Entertainment.",
-      "body": "The series follows the adventures of a squad of teenage vampires who are also cheerleaders. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Vc1_facebook.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Boneless Mercies is a young adult fantasy novel written by April Genevieve Tucholke and published on October 2, 2018 Farrar, Straus & Giroux, an imprint of Macmillan.",
+      "body": "The book is a genderbent retelling of Beowulf, with young female warriors hunting down a mythic beast. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/93/Boneless_Mercies_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Vampire_Cheerleaders"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Brave New World is a role-playing game originally released by Pinnacle Entertainment Group in 1999.",
-      "body": "The game was sold to Alderac Entertainment Group in 2000. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/RPG_bravenewworld_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Brave_New_World_(role-playing_game)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Digger on course for $245m loss after box office collapse",
-      "body": "<p>Estimates suggest the eco satire starring Tom Cruise could join the list of top turkeys, including Cutthroat Island and The Marvels</p><p>Digger, the ambitious eco-fable starring Tom Cruise and directed by Alejandro G Iñárritu, is headin",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1322 —",
-      "hook": "Robert the Bruce of Scotland defeats King Edward II of England at the Battle of Old Byland, forcing Edward to accept Scotland's independence.",
-      "body": "Robert I, popularly known as Robert the Bruce, was King of Scots from 1306 until his death in 1329. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Medieval_coin%2C_Penny_of_Robert_the_Bruce_%28FindID_961323-1097387%29_Cropped.jpg/330px-Medieval_coin%2C_Penny_of_Robert_the_Bruce_%28FindID_961323-1097387%29_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Robert_the_Bruce"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1806 —",
-      "hook": "War of the Fourth Coalition: Napoleon decisively defeats Prussia at the Battle of Jena–Auerstedt.",
-      "body": "The War of the Fourth Coalition was a war spanning 1806–1807 that saw a multinational coalition fight against Napoleon's French Empire, subsequently being defeated. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/War_of_the_4th_Coalition.jpg/330px-War_of_the_4th_Coalition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Dogs are susceptible to the bouba-kiki effect",
-      "body": "Just like humans, dogs seem to associate the nonsense word “bouba” with a rounded shape and “kiki” with a spiky shape, suggesting the connection stems from brain mechanisms that are shared between species",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2593290-dogs-are-susceptible-to-the-bouba-kiki-effect/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "After the 1948 Venezuelan coup d'état brought an end to a three-year experiment in democracy, a triumvirate of military personnel controlled the government until 1952, when it held presidential elections.",
-      "body": "A military dictatorship ruled Venezuela for ten years, from 1948 to 1958. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/MPJ%2C_GSF%2C_LFLLP_-_Junta_de_Gobierno_1950-1952.jpg/330px-MPJ%2C_GSF%2C_LFLLP_-_Junta_de_Gobierno_1950-1952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Military_dictatorship_in_Venezuela"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Lena Dunham’s Girls returning for limited run at HBO",
-      "body": "<p>Creator and star will return along with Allison Williams, Zosia Mamet, Jemima Kirke and Andrew Rannells for five-episode revival</p><p><a href=\"https://www.theguardian.com/tv-and-radio/girls\">Girls</a>, the seminal HBO series on millenni",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/13/girls-hbo-return-lena-dunham"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Three Musketeers is a French historical adventure novel written and published in 1844 by French author Alexandre Dumas.",
-      "body": "It is the first of the author's three d'Artagnan Romances. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Dartagnan-musketeers.jpg/330px-Dartagnan-musketeers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Three_Musketeers"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1952 —",
-      "hook": "Korean War: The Battle of Triangle Hill is the biggest and bloodiest battle of 1952.",
-      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Korean_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on 625 new cosy crime novels for autumn – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1966 —",
-      "hook": "The city of Montreal begins the operation of its underground Montreal Metro rapid transit system.",
-      "body": "Montreal is the largest city in the province of Quebec, the second-largest in Canada, and the eighth-largest in North America. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Montreal%2C_Quebec_skyline.jpg/330px-Montreal%2C_Quebec_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Montreal"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in September: new paperbacks from Margaret Atwood, Kiran Desai and Richard Holmes",
-      "body": "<p>Looking for a new reading recommendation? Here are some great new paperbacks, from an epic multigenerational saga by a Booker winner to a biography of an iconic Victorian poet</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-i",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/18/the-best-books-to-read-in-september-new-paperbacks-from-margaret-atwood-kiran-desai-and-richard-holmes"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Dinosaur named new species 102 years after fossil found on Isle of Wight",
-      "body": "Invictibellatrix amberina, a predator in the megaraptoran group of dinosaurs, lived in what is now Britain 120 million years ago and may have had claws 20 centimetres long",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2593437-dinosaur-named-new-species-102-years-after-fossil-found-on-isle-of-wight/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "url": "https://en.wikipedia.org/wiki/The_Boneless_Mercies"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "Bet you didn't know —",
-      "hook": "Originally part of the defences of the castle, it was converted into a garden in the late 18th century, and purchased by the city council in 1912.",
-      "body": "Rougemont Gardens is an ornamental open space adjacent to Rougemont Castle in the city of Exeter, Devon, England. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Rougemont_Gardens%2C_Exeter_-_geograph.org.uk_-_726008.jpg/330px-Rougemont_Gardens%2C_Exeter_-_geograph.org.uk_-_726008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Roast butter is a similar dish, for which recipes exist dating to the 17th century.",
+      "body": "Deep-fried butter is a snack food made of butter coated with a batter or breading and then deep-fried. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Deep-fried_butter_at_State_Fair_of_Texas_2009a.jpg/330px-Deep-fried_butter_at_State_Fair_of_Texas_2009a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rougemont_Gardens"
+      "url": "https://en.wikipedia.org/wiki/Deep-fried_butter"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1913 —",
+      "hook": "Senghenydd colliery disaster, the United Kingdom's worst coal mining accident, claims the lives of 439 miners.",
+      "body": "The Senghenydd colliery disaster, also known as the Senghenydd explosion, occurred at the Universal Colliery in Senghenydd, near Caerphilly, Glamorgan, Wales, on 14 October 1913. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/ILN_%E2%80%93_Senghenydd_Colliery_Disaster_3.jpeg/330px-ILN_%E2%80%93_Senghenydd_Colliery_Disaster_3.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Senghenydd_colliery_disaster"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1863 —",
       "hook": "American Civil War: Confederate troops under the command of A. P. Hill fail to drive the Union Army completely out of Virginia.",
-      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. Worth a quiet trip down the rabbit hole.",
+      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union to preserve slavery in the United States. Bring it up somewhere. Watch the reaction.",
       "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/American_Civil_War"
@@ -168,22 +112,79 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "\"That's Not Me\" is a song by the American rock band the Beach Boys from their 1966 album Pet Sounds.",
-      "body": "Written by Brian Wilson and Tony Asher, it is distinguished for its sophisticated harmonic structure and its sudden shifts in mood and instrumental textures. The world is stranger than it lets on.",
-      "img": null,
+      "opener": "You probably never noticed this —",
+      "hook": "Samee is a Thai television series produced by Maker J, remake of the 2000 Thai television series of the same name.",
+      "body": "It aired on Channel 3 from November 21, 2013 to January 9, 2014, on Wednesdays and Thursdays for 14 episodes. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/Samee2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/That's_Not_Me_(The_Beach_Boys_song)"
+      "url": "https://en.wikipedia.org/wiki/Samee_(2013_TV_series)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Saorge is located in France, about 70 kilometres (43 mi) northeast of Nice.",
+      "body": "The Second Battle of Saorgio was fought from 24 to 28 April 1794 between a French First Republic army commanded by Pierre Jadart Dumerbion and the armies of the Kingdom of Sardinia-Piedmont and the Habsburg monarchy led by Joseph Nikolaus De Vins. Worth a quie",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Saorgio_Fort%2C_c._1794.jpg/330px-Saorgio_Fort%2C_c._1794.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Saorgio"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Frank and Percy review – bromance becomes romance for dog walkers Ian McKellen and Roger Allam",
+      "body": "<p><strong>London film festival<br></strong>McKellen and Allam reprise their roles for the film version of Ben Weatherill’s play in a star-filled bittersweet comedy about finding love later in life</p><p>There is a tender sweetness to this ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/13/frank-and-percy-review-bromance-becomes-romance-for-two-dog-walkers-ian-mckellen-roger-allam"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Amber Hollibaugh Award for LGBTQ+ Social Justice Writing, established in 2025, is an annual literary award presented by the Publishing Triangle to \"a nonfiction book that addresses issues such as economic injustice, with particular attention to queer youth and adult sex workers\".",
-      "body": "Award recipients receive a US$1,000 prize. One of those things you can't un-know.",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Boy Lost in the Maze is a young adult novel in verse by English poet and children's author Joseph Coelho, published by Otter-Barry Books in 2022.",
+      "body": "It won the 2024 Carnegie Medal. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/59/The_Boy_Lost_in_the_Maze_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Boy_Lost_in_the_Maze"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "You're a Big Boy Now is a 1966 American comedy film written and directed by Francis Ford Coppola.",
+      "body": "Based on David Benedictus' 1963 novel of the same name, it stars Elizabeth Hartman, Peter Kastner, Geraldine Page, her spouse Rip Torn, Karen Black, Tony Bill, Michael Dunn, and Julie Harris. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2c/You%27re_a_Big_Boy_Now_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/You're_a_Big_Boy_Now"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Cole from his fourth mixtape Might Delete Later (2024).",
+      "body": "\"Ready '24\" is a song by American rapper J. Bring it up somewhere. Watch the reaction.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Amber_Hollibaugh_Award"
+      "url": "https://en.wikipedia.org/wiki/Ready_'24"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Steps by Sylvester Stallone review – the inside story of Rocky",
+      "body": "<p>The star takes us back to 70s New York to recount his breakthrough, and it’s a great yarn – but it’s laced with anger</p><p>The Philadelphia Museum of Art contains a 14th-century Buddhist temple, a one-acre sculpture garden and works by ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/14/the-steps-by-sylvester-stallone-review-the-inside-story-of-rocky"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "European Film Academy unveils shortlist for 2027 European Film Awards",
+      "body": "Shortlist includes major festival winners such as Fjord, Woman Unknown, Yellow Letters, Tender Loving Care and La Bola Negra.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/european-film-academy-unveils-shortlist-for-2027-european-film-awards/5221412.article"
     },
     {
       "type": "card",
@@ -194,6 +195,25 @@
       "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Punjab_in_Pakistan_%28claims_hatched%29.svg/330px-Punjab_in_Pakistan_%28claims_hatched%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/2015_Tonsa_bombing"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Ply by Hernan Diaz review – Pulitzer winner’s dry vision of far-future America",
+      "body": "<p>There are shades of JG Ballard in this tale of survival in a decaying metropolis, but big ideas and lengthy exposition crowd out the human drama</p><p>Hernan Diaz’s last novel, the formally inventive <a href=\"https://www.theguardian.com/",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/14/ply-by-hernan-diaz-review-pulitzer-winners-dry-vision-of-far-future-america"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1758 —",
+      "hook": "Seven Years' War: Frederick the Great suffers a rare defeat at the Battle of Hochkirch.",
+      "body": "The Seven Years' War, 1756 to 1763, was a global war fought by numerous great powers, primarily in Europe, with significant subsidiary campaigns in North America and the Indian subcontinent. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Seven_Years%27_War_Collage.jpg/330px-Seven_Years%27_War_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Seven_Years'_War"
     }
   ]
 }
