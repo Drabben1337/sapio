@@ -1,74 +1,105 @@
 {
-  "generated": "2026-10-13T21:36:13.650Z",
-  "count": 26,
+  "generated": "2026-10-14T00:40:44.894Z",
+  "count": 20,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Netflix unveils first trailer for Greta Gerwig’s Narnia: The Magician’s Nephew",
-      "body": "<p>The fantasy epic based on CS Lewis’s classic stars Daniel Craig, Carey Mulligan and Meryl Streep </p><p>The first look at <a href=\"https://www.theguardian.com/film/greta-gerwig\">Greta Gerwig</a>’s vision for Narnia has been revealed.</p>",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/oct/13/narnia-trailer-netflix-greta-gerwig"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1259 —",
-      "hook": "The Provisions of Westminster, a law reform programme resulting out of the conflict of King Henry III of England and his barons, are approved.",
-      "body": "The Provisions of Westminster of 1259 were part of a series of legislative constitutional reforms that arose out of power struggles between Henry III of England and his barons. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/England_and_France_1259.jpg/330px-England_and_France_1259.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Provisions_of_Westminster"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Duane ‘Keffe D’ Davis sentenced to 40 years to life over Tupac Shakur’s murder",
-      "body": "<p>‘You don’t get to take a man from his family … and just walk away from it,’ judge says as former gang leader sentenced</p><ul><li><p><a href=\"https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation\">",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1908 —",
-      "hook": "Margaret Travers Symons bursts into the UK parliament and becomes the first woman to speak there.",
-      "body": "Margaret Ann Travers Symons was a British suffragette. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Margaret_Travers_Symons_%28cropped%29.jpg/330px-Margaret_Travers_Symons_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Margaret_Travers_Symons"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "Built in 1861, it is the city's only surviving example of commercial Italianate architecture from the mid-19th century.",
-      "body": "The Charter Oak Bank Building is a historic commercial building at 114-124 Asylum Street in Downtown Hartford, Connecticut. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/114_Asylum_Street%2C_Hartford_CT.jpg/330px-114_Asylum_Street%2C_Hartford_CT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Charter_Oak_Bank_Building"
-    },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Milan Kundera was a Czech and French novelist.",
-      "body": "Kundera went into exile in France in 1975, acquiring citizenship in 1981. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Milan_Kundera_redux.jpg/330px-Milan_Kundera_redux.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "\"State of the World\" is a song recorded by American singer Janet Jackson for her fourth studio album, Janet Jackson's Rhythm Nation 1814 (1989).",
+      "body": "It was written and produced by Jimmy Jam and Terry Lewis, with additional writing by Jackson. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Janet_Jackson_State_of_The_World.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Milan_Kundera"
+      "url": "https://en.wikipedia.org/wiki/State_of_the_World_(song)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The third series of Law & Order: UK premiered on ITV on 9 September 2010 and concluded on 21 October 2010.",
+      "body": "It stars Bradley Walsh, Jamie Bamber, and Harriet Walter, as well as Freema Agyeman. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Law_%26_Order%3A_UK_series_3"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2023 —",
+      "hook": "Australians vote to reject a constitutional amendment that would have established an Indigenous Voice to Parliament.",
+      "body": "The 2023 Australian Indigenous Voice referendum was a constitutional referendum held on 14 October 2023 in which the proposed Aboriginal and Torres Strait Islander Voice was rejected. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2023_Australian_Indigenous_Voice_referendum_by_state_or_territory.svg/330px-2023_Australian_Indigenous_Voice_referendum_by_state_or_territory.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2023_Australian_Indigenous_Voice_referendum"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Arturo O'Farrill is a jazz musician, the son of Latin jazz musician, arranger and bandleader Chico O'Farrill, and pianist, composer, and director for the Afro Latin Jazz Orchestra.",
+      "body": "He is best known for his contributions to contemporary Latin jazz, having received Grammy Awards and nominations, though he has trained in other forms such as free jazz and experimented briefly with hip hop. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Arturo_O%E2%80%99Farrill_Oslo_Jazzfestival_2018_%28221903%29.jpg/330px-Arturo_O%E2%80%99Farrill_Oslo_Jazzfestival_2018_%28221903%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arturo_O'Farrill"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "He was the first Albanian footballer to play competitively abroad, as he was part of the Fenerbahçe side for the 1927–1928 campaign.",
+      "body": "Vasfi Samimi Visoka (1908–1981) was an Albanian footballer, writer, doctor and veterinarian. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vasfi_Samimi"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1806 —",
+      "hook": "War of the Fourth Coalition: Napoleon decisively defeats Prussia at the Battle of Jena–Auerstedt.",
+      "body": "The War of the Fourth Coalition was a war spanning 1806–1807 that saw a multinational coalition fight against Napoleon's French Empire, subsequently being defeated. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/War_of_the_4th_Coalition.jpg/330px-War_of_the_4th_Coalition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1066 —",
+      "hook": "The Norman conquest of England begins with the Battle of Hastings.",
+      "body": "The Norman Conquest of England was an 11th-century invasion by an army made up of thousands of Norman, French, Flemish, and Breton troops, all led by the Duke of Normandy, later styled William the Conqueror. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Norman-conquest-1066.svg/330px-Norman-conquest-1066.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Norman_Conquest"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Fate/Zero is a Japanese light novel series written by Gen Urobuchi and illustrated by Takashi Takeuchi.",
-      "body": "It serves as a prequel to all routes in the Fate/stay night visual novel by Type-Moon. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/3e/FatezeroNovelCover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Sake kasu (酒粕) or sake lees are the pressed lees left from the production of sake.",
+      "body": "It is a white paste used in cooking. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Japanese_Sakekasu.JPG/330px-Japanese_Sakekasu.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fate%2FZero"
+      "url": "https://en.wikipedia.org/wiki/Sake_kasu"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "BiNet USA was an American national nonprofit bisexual community whose mission was to \"facilitate the development of a cohesive network of bisexual communities, promote bisexual visibility, and collect and distribute educational information regarding bisexuality.",
+      "body": "Until 2020, BiNet USA provided a national network for bisexual organizations and individuals across the United States, and encouraged participation and organizing on local and national levels.\" They claimed to be the oldest national bisexuality organization in",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/BiNet_USA_Logo.png/330px-BiNet_USA_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BiNet_USA"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on 625 new cosy crime novels for autumn – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon"
     },
     {
       "type": "card",
@@ -78,104 +109,6 @@
       "body": "<p>Creator and star will return along with Allison Williams, Zosia Mamet, Jemima Kirke and Andrew Rannells for five-episode revival</p><p><a href=\"https://www.theguardian.com/tv-and-radio/girls\">Girls</a>, the seminal HBO series on millenni",
       "src": "The Guardian · Culture",
       "url": "https://www.theguardian.com/tv-and-radio/2026/oct/13/girls-hbo-return-lena-dunham"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "This radio station broadcasts a variety of programs such as urban and hard rock music with local news.",
-      "body": "Hard Rock Radio is a Serbian local commercial radio station, broadcasting from Banja Luka, Bosnia and Herzegovina. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hard_Rock_Radio"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1972 —",
-      "hook": "The flag of Okinawa Prefecture, Japan, was officially adopted.",
-      "body": "The flag of Okinawa Prefecture is a white field charged in the center with the prefectural emblem, which consists of three circles stacked on top of each other. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Okinawa_Prefecture.svg/330px-Flag_of_Okinawa_Prefecture.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Flag_of_Okinawa_Prefecture"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Here's one for the group chat —",
-      "hook": "With an elevation of 1,017 metres (3,337 ft) above sea level, the mountain is situated 200 kilometres (120 mi) north of Sydney, near Singleton.",
-      "body": "Mount Cabrebald is a mountain located within the Barrington Tops National Park, in the Upper Hunter region of New South Wales, Australia. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Xanthorrhoea_australis_flowers_-_Mt_Cabrebald_hillside.jpg/330px-Xanthorrhoea_australis_flowers_-_Mt_Cabrebald_hillside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mount_Cabrebald"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Here's one for the group chat —",
-      "hook": "It is located between the Arabian Sea and the Western Ghats about 352 km (219 mi) west of Bengaluru, the state capital, 14 km north of the Karnataka–Kerala border and 297 km (185 mi) south of Goa.",
-      "body": "Mangaluru, formerly called Mangalore, is a major industrial port city in the Indian state of Karnataka and on the west coast of India. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Growing_skylines_of_the_Mangalore_CBD_region.jpg/330px-Growing_skylines_of_the_Mangalore_CBD_region.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mangaluru"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "It was released as the album's second single in North America by Geffen Records imprint Almo Sounds on May 9, 2005.",
-      "body": "\"Bleed Like Me\" is a song by American rock band Garbage and the title-track of their fourth studio album (2005). Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Garbage_-_Bleed_Like_Me_%28song%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bleed_Like_Me_(song)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "body": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "The Chicks review – exquisite harmonies and hard-won vindication in anniversary show",
-      "body": "<p><strong>Beacon Theatre, New York</strong><br>Two decades after country music blacklisted the band for their Iraq war protest, the trio celebrate their unapologetic album Taking the Long Way</p><p>Last month, with almost no fanfare, the U",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/oct/13/the-chicks-new-york-concert-review"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1976 —",
-      "hook": "The first electron micrograph of an Ebola virus is taken at the Centers for Disease Control and Prevention by Dr. F. A. Murphy.",
-      "body": "A micrograph is an image, captured photographically or digitally, taken through a microscope or similar device to show a magnified image of an object. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/WVSOM_Meissner%27s_corpuslce.JPG/330px-WVSOM_Meissner%27s_corpuslce.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Micrograph"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1903 —",
-      "hook": "The Boston Red Sox win the first modern World Series, defeating the Pittsburgh Pirates in the eighth game.",
-      "body": "The 1903 World Series was the first modern World Series to be played in Major League Baseball. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WorldSeries1903-640.jpg/330px-WorldSeries1903-640.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1903_World_Series"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Here's one for the group chat —",
-      "hook": "Liliane Barrard and Maurice Barrard were a French couple who gained fame climbing at high altitude, mainly in the Himalayan and Karakoram ranges, and emphasizing Alpine-style 'fast and light' ascents.",
-      "body": "The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Liliane_and_Maurice_Barrard"
     },
     {
       "type": "card",
@@ -190,70 +123,77 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on 625 new cosy crime novels for autumn – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon\">Continue reading...</a>",
+      "hook": "The best books to read in September: new paperbacks from Margaret Atwood, Kiran Desai and Richard Holmes",
+      "body": "<p>Looking for a new reading recommendation? Here are some great new paperbacks, from an epic multigenerational saga by a Booker winner to a biography of an iconic Victorian poet</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng-i",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Dima Wannous is a Syrian literary writer and journalist.",
-      "body": "She studied French literature at Damascus University and the University of Paris - Sorbonne. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dima_Wannous"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Sweet Kitty Bellairs is a 1930 American historical musical comedy film directed by Alfred E.",
-      "body": "The film is based on the 1903 play Sweet Kitty Bellairs by David Belasco. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d6/Sweet_Kitty_Bellairs_1930_Poster.jpg/330px-Sweet_Kitty_Bellairs_1930_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sweet_Kitty_Bellairs_(1930_film)"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/18/the-best-books-to-read-in-september-new-paperbacks-from-margaret-atwood-kiran-desai-and-richard-holmes"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1911 —",
-      "hook": "Prince Arthur, Duke of Connaught and Strathearn, becomes the first Governor General of Canada of royal descent.",
-      "body": "Prince Arthur, Duke of Connaught and Strathearn, was the seventh child and third son of Queen Victoria of the United Kingdom and Prince Albert of Saxe-Coburg and Gotha. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Prince_Arthur%2C_1st_Duke_of_Connaught_and_Strathearn.jpg/330px-Prince_Arthur%2C_1st_Duke_of_Connaught_and_Strathearn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1808 —",
+      "hook": "The Republic of Ragusa is annexed by France.",
+      "body": "The Republic of Ragusa was an aristocratic maritime republic centered on the city of Dubrovnik in South Dalmatia in Southern Europe. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/St._Blaise_-_State_Flag_of_the_Ragusan_Republic.svg/330px-St._Blaise_-_State_Flag_of_the_Ragusan_Republic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Prince_Arthur%2C_Duke_of_Connaught_and_Strathearn"
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Ragusa"
     },
     {
       "type": "card",
-      "cat": "geography",
-      "opener": "Okay, this one's fun —",
-      "hook": "El Huehuentón is located at about a 30-minute drive from Lagunillas, the largest population enclaved in the forest, between the municipalities of San Martín de Hidalgo and Tecolotlán, in Jalisco.",
-      "body": "The Cerro El Huehuentón is the highest peak of the Sierra de Quila; it stands at 8,298 ft above sea level. The world is stranger than it lets on.",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Netflix unveils first trailer for Greta Gerwig’s Narnia: The Magician’s Nephew",
+      "body": "<p>The fantasy epic based on CS Lewis’s classic stars Daniel Craig, Carey Mulligan and Meryl Streep </p><p>The first look at <a href=\"https://www.theguardian.com/film/greta-gerwig\">Greta Gerwig</a>’s vision for Narnia has been revealed.</p>",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/oct/13/narnia-trailer-netflix-greta-gerwig"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1843 —",
+      "hook": "Irish nationalist Daniel O'Connell is arrested by the British on charges of criminal conspiracy.",
+      "body": "Daniel O'Connell, hailed in his time as The Liberator, was the acknowledged political leader of Ireland's Catholic majority in the first half of the 19th century. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Daniel_O%27Connell.png/330px-Daniel_O%27Connell.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Daniel_O'Connell"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The team plays in the North Wales Coast East Premier Division.",
+      "body": "Llanfairfechan Town Football Club is a Welsh football team based in Llanfairfechan, Conwy County Borough, Wales. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cerro_El_Huehuent%C3%B3n"
+      "url": "https://en.wikipedia.org/wiki/Llanfairfechan_Town_F.C."
     },
     {
       "type": "card",
-      "cat": "geography",
-      "opener": "You probably never noticed this —",
-      "hook": "Tell Kirri is an archaeological site in the Akkar plain, 3 km northeast of Qoliate in the North Mohafazat (Governorate).",
-      "body": "It dates at least to the Neolithic. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tell_Kirri"
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Dinosaur named new species 102 years after fossil found on Isle of Wight",
+      "body": "Invictibellatrix amberina, a predator in the megaraptoran group of dinosaurs, lived in what is now Britain 120 million years ago and may have had claws 20 centimetres long",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2593437-dinosaur-named-new-species-102-years-after-fossil-found-on-isle-of-wight/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Kurau Phantom Memory is a Japanese science fiction anime series, produced by Bones and Media Factory, which was broadcast in Japan by the anime television networks Animax and TV Asahi from June to December 2004.",
-      "body": "Set primarily in the year 2110, it explores themes such as inter-familial relationships and ethics in science. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/KPM_FN_DVD_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kurau_Phantom_Memory"
+      "cat": "history",
+      "opener": "On this day in 1758 —",
+      "hook": "Seven Years' War: Frederick the Great suffers a rare defeat at the Battle of Hochkirch.",
+      "body": "The Seven Years' War, 1756 to 1763, was a global war fought by numerous great powers, primarily in Europe, with significant subsidiary campaigns in North America and the Indian subcontinent. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Seven_Years%27_War_Collage.jpg/330px-Seven_Years%27_War_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Seven_Years'_War"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Dogs are susceptible to the bouba-kiki effect",
+      "body": "Just like humans, dogs seem to associate the nonsense word “bouba” with a rounded shape and “kiki” with a spiky shape, suggesting the connection stems from brain mechanisms that are shared between species",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2593290-dogs-are-susceptible-to-the-bouba-kiki-effect/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     }
   ]
 }
