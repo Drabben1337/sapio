@@ -1,16 +1,83 @@
 {
-  "generated": "2026-10-14T19:45:48.984Z",
-  "count": 20,
+  "generated": "2026-10-14T22:43:55.596Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "The song was recorded by the British-American rock band Fleetwood Mac as the opening track of their 1977 album Rumours.",
-      "body": "\"Second Hand News\" is a song written by Lindsey Buckingham. Worth a quiet trip down the rabbit hole.",
+      "opener": "On this day in 1991 —",
+      "hook": "Burmese opposition leader Aung San Suu Kyi is awarded the Nobel Peace Prize.",
+      "body": "Aung San Suu Kyi is a Burmese politician, diplomat, and author who served as State Counsellor of Myanmar and Union Minister of Foreign Affairs from 2016 to 2021. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_%281%29.jpg/330px-Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1943 —",
+      "hook": "World War II: The Second Philippine Republic, a puppet state of Japan, is inaugurated with José P. Laurel as its president.",
+      "body": "The Second Philippine Republic, officially the Republic of the Philippines and also known as the Japanese-sponsored Philippine Republic, was a pro-Axis government established on October 14, 1943, during the Japanese occupation of the islands until its dissolution on August 17, 1945. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Flag_of_the_Philippines_%281943%E2%80%931945%29.svg/330px-Flag_of_the_Philippines_%281943%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Second_Philippine_Republic"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "BFI and Chanel filmmaker awards unveils 2026 winners",
+      "body": "Filmmakers behind ‘We, The Hated’, ‘Lady’, ‘Ish’ and ‘Something Familiar’ each received £20,000.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/bfi-and-chanel-filmmaker-awards-unveils-2026-winners/5221432.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Georg Friedrich Kaulfuss was a professor at Halle.",
+      "body": "He described the pteridophytes collected by Adelbert von Chamisso, and he named the fern Cibotium chamissoi after him. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Second_Hand_News"
+      "url": "https://en.wikipedia.org/wiki/Georg_Friedrich_Kaulfuss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Caine Morgan Wilkes is an American weightlifter.",
+      "body": "He is a three-time gold medalist in his event at the Pan American Weightlifting Championships. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Caine_Wilkes"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
+      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I was sideswiped by Giada Scodellaro’s <strong>Ruins, Child</strong>. A brilliant, strange book that challeng",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Jessie Buckley suggests film industry gives too much weight to Oscar campaigns",
+      "body": "<p>The actor, who won the Academy Award for best actress this year, was speaking at the BFI and Chanel film-maker awards</p><p>Jessie Buckley has questioned whether the film industry places too much emphasis on Oscar campaigns at the expens",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/14/jessie-buckley-film-industry-new-talent"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Victor Madrigal-Borloz is a Costa Rican lawyer.",
+      "body": "Between 2018 and 2023, he served as the United Nations Independent Expert on protection against violence and discrimination based on sexual orientation and gender identity. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Victor_Madrigal-Borloz.jpg/330px-Victor_Madrigal-Borloz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Victor_Madrigal-Borloz"
     },
     {
       "type": "card",
@@ -24,176 +91,89 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Stevie Wonder review – playing ​his greatest album in full, he knocks everyone sideways",
-      "body": "<p><strong>Utilita Arena, Birmingham<br></strong>The opening night of Wonder’s tour marking the 50th anniversary of Songs in the Key of Life leaves jaws on the floor, thanks to sumptuous tracks carrying still-urgent messages</p><p>Seated am",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/oct/14/stevie-wonder-review-songs-in-the-key-of-life-50th-anniversary-live-utilita-arena-birmingham-uk-tour"
+      "cat": "history",
+      "opener": "On this day in 1952 —",
+      "hook": "Korean War: The Battle of Triangle Hill is the biggest and bloodiest battle of 1952.",
+      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1943 —",
+      "hook": "World War II: The United States Eighth Air Force loses 60 of 291 B-17 Flying Fortresses during the Second Raid on Schweinfurt.",
+      "body": "The Eighth Air Force (Air Forces Strategic) is a numbered air force (NAF) of the United States Air Force's Air Force Global Strike Command (AFGSC). Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Eighth_Air_Force_-_Emblem.png/330px-Eighth_Air_Force_-_Emblem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Eighth_Air_Force"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Maidens' Trip is a 1948 autobiography by Emma Smith based on her experiences as a volunteer boatwoman on Britain's Grand Union Canal during the Second World War.",
-      "body": "It won the John Llewellyn Rhys Prize for 1949. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Maidens%27_Trip.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "The Glidden–Ralston Community School District is a rural public school district based in Glidden, Iowa.",
+      "body": "The district is mostly in Carroll County, with a smaller area in Greene County. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3d/Glidden-Ralston_CSD_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maidens'_Trip"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Only Revolutions is an American road novel by American writer Mark Z.",
-      "body": "It was released in the United States on September 12, 2006 by Pantheon Books. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/Only_Revolutions.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Only_Revolutions"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Case 137 review – tense gilets-jaunes thriller divides cop’s loyalties over police brutality",
-      "body": "<p>A taut, charged procedural from Dominik Moll follows a conflicted officer investigating violence to a teenage protester</p><p>Dominik Moll’s Dossier 137 is a serious, focused, if slightly programmatic movie about police brutality in Fran",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2025/may/15/dossier-137-review-tense-gilets-jaunes-thriller-divides-cops-loyalties-over-police-brutality"
+      "url": "https://en.wikipedia.org/wiki/Glidden%E2%80%93Ralston_Community_School_District"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Jin Ping Mei —translated into English as The Plum in the Golden Vase or The Golden Lotus—is a Chinese novel of manners composed in vernacular Chinese during the latter half of the 16th century during the late Ming dynasty (1368–1644).",
-      "body": "Consisting of 100 chapters, it was published under the pseudonym Lanling Xiaoxiao Sheng (蘭陵笑笑生), \"The Scoffing Scholar of Lanling,\" but the only clue to the actual identity is that the author hailed from Lanling County in present-day Shandong. Worth a quiet tr",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/IMG_jinping.JPG/330px-IMG_jinping.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Underground living refers to living below the ground's surface, whether in natural or manmade caves or structures.",
+      "body": "Underground dwellings are an alternative to above-ground dwellings for some home seekers, including those who are looking to minimize impact on the environment. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Casa-grotta-matera-8mm.jpg/330px-Casa-grotta-matera-8mm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jin_Ping_Mei"
+      "url": "https://en.wikipedia.org/wiki/Underground_living"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1939 —",
+      "hook": "World War II: The German submarine U-47 sinks the British battleship HMS Royal Oak within her harbour at Scapa Flow, Scotland.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Netflix lays off 6% of workforce in streamer’s biggest cull",
+      "body": "“We remain on track to deliver our full year forecast.”",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/netflix-lays-off-6-of-workforce-in-streamers-biggest-cull/5221473.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
+      "body": "<p><strong>Venice film festival: </strong>Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality</p><p>Lance Oppenheim is the acclaimed documentary-maker who ha",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "A dominatrix and her tightly bound client: Giada Ripa’s best photograph",
-      "body": "<p>‘Karen is a Japanese dominatrix and “rope artist” who ties up her clients in a way that echoes how samurai bound their prisoners. Clients are mostly men with high-pressure jobs’</p><p>Ten years ago, my dad called to say he had found thes",
+      "hook": "The Social Reckoning isn’t as angry or as potent as a Facebook drama should be",
+      "body": "<p>Aaron Sorkin’s attempt to return to the success of The Social Network is a strangely dated and incomplete look at a world that needs a sharper eye</p><p>In retrospect, David Fincher’s 2010 film The Social Network was a landmark for a qui",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/14/japanese-dominatrix-tightly-bound-client-samurai-giada-ripa-best-photograph"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Morimoto Ukondayu Kazufusa (森本右近太夫一房) was a 17th-century Japanese traveler, merchant and pilgrim, who made a journey to Cambodia, and in January 1632 visited the temple of Angkor Wat at Angkor.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ukondayu_Kazufusa"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2004 —",
-      "hook": "MK Airlines Flight 1602 crashes during takeoff from Halifax Stanfield International Airport, killing all seven people on board.",
-      "body": "MK Airlines Flight 1602 was an MK Airlines Boeing 747-200 cargo flight on a flight from Halifax Stanfield International Airport, Nova Scotia, Canada, to Zaragoza Airport, Spain. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Mk.airlines.b747-200.9g-mkj.arp.jpg/330px-Mk.airlines.b747-200.9g-mkj.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/MK_Airlines_Flight_1602"
+      "url": "https://www.theguardian.com/film/2026/oct/13/the-social-reckoning-aaron-sorkin"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Peck & Peck by Bonnie Garmus review – the zany follow-up to Lessons in Chemistry",
-      "body": "<p>This offbeat tale of machinations at an eccentric poetry magazine in 80s New York is laugh-out-loud funny – and a paean to the power of poetry</p><p>If you have been into a bookshop since 2022, or perhaps even just breathed in and out, y",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/13/peck-peck-by-bonnie-garmus-review-the-zany-follow-up-to-lessons-in-chemistry"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1924 —",
-      "hook": "The Tajik Autonomous Soviet Socialist Republic is created as an autonomous republic within the Uzbek Soviet Socialist Republic.",
-      "body": "The Tajik Autonomous Soviet Socialist Republic was an autonomous republic within the Uzbek SSR in the Soviet Union. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_the_Tajik_Autonomous_Soviet_Socialist_Republic_%281929%E2%80%931931%29.svg/330px-Flag_of_the_Tajik_Autonomous_Soviet_Socialist_Republic_%281929%E2%80%931931%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tajik_Autonomous_Soviet_Socialist_Republic"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 996 —",
-      "hook": "Al-Hakim bi-Amr Allah becomes caliph. He is the first Fatimid ruler to have been born in Egypt and arguably the most controversial member of the dynasty.",
-      "body": "Abu Ali al-Mansur, better known by his regnal name al-Hakim bi-Amr Allah, was the sixth Fatimid caliph and 16th Ismaili imam (996–1021). Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Gold_dinar_of_al-Hakim_bi-Amr_Allah%2C_AH_391.jpg/330px-Gold_dinar_of_al-Hakim_bi-Amr_Allah%2C_AH_391.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Al-Hakim_bi-Amr_Allah"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Nobuko Yoshiya was a Japanese novelist active in Taishō and Shōwa period Japan.",
-      "body": "She was one of modern Japan's most commercially successful and prolific writers, specializing in serialized romance novels and adolescent girls' fiction, as well as being a pioneer in Japanese lesbian literature, including the Class S genre. One of those thing",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Yoshiya_Nobuko.jpg/330px-Yoshiya_Nobuko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nobuko_Yoshiya"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Generation Maybe by Camilla Cavendish review – what’s really behind the fertility gap?",
-      "body": "<p>An evidenced-based account of the difficult choices facing couples across the world – from America to Iran</p><p>‘Don’t be weird about this,” representative Alexandria Ocasio-Cortez laughed into the camera as she prepared to jab a hormon",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/13/generation-maybe-by-camilla-cavendish-review-whats-really-behind-the-fertility-gap"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
-      "body": "<p>This over-controlled adventure never takes a breath or a moment to let its characters come to life</p><p>Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me ano",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "NAZA review – Israeli intelligence officers cast chilling light on civilian deaths",
-      "body": "<p>Under the cover of night, anonymous personnel discuss AI, error rates and problematic intelligence units in a documentary produced by the Guardian</p><p>Here is a disquieting documentary about what Israel’s military chiefs in Gaza repute",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/sep/10/naza-review-israel-gaza"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "World War II: The German submarine U-69 (1940) sinks the Canadian passenger ferry SS Caribou approximately 20 nautical miles southwest of Port aux Basques, Newfoundland.",
-      "body": "German submarine U-69 was the first Type VIIC U-boat of the German Navy (Kriegsmarine) during World War II. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Type_VIIc.jpg/330px-Type_VIIc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/German_submarine_U-69_(1940)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1806 —",
-      "hook": "War of the Fourth Coalition: Napoleon decisively defeats Prussia at the Battle of Jena–Auerstedt.",
-      "body": "The War of the Fourth Coalition was a war spanning 1806–1807 that saw a multinational coalition fight against Napoleon's French Empire, subsequently being defeated. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/War_of_the_4th_Coalition.jpg/330px-War_of_the_4th_Coalition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "George's Marvellous Medicine is a children's novel written by Roald Dahl and illustrated by Quentin Blake.",
-      "body": "First published by Jonathan Cape in 1981, it features George Kranky, an eight-year-old boy who concocts his own miracle elixir to replace his tyrannical grandmother's regular prescription medicine. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/65/George%27s_Marvellous_Medicine_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/George's_Marvellous_Medicine"
+      "opener": "The Guardian · Culture —",
+      "hook": "Netflix unveils first trailer for Greta Gerwig’s Narnia: The Magician’s Nephew",
+      "body": "<p>The fantasy epic based on CS Lewis’s classic stars Daniel Craig, Carey Mulligan and Meryl Streep </p><p>The first look at <a href=\"https://www.theguardian.com/film/greta-gerwig\">Greta Gerwig</a>’s vision for Narnia has been revealed.</p>",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/oct/13/narnia-trailer-netflix-greta-gerwig"
     }
   ]
 }
