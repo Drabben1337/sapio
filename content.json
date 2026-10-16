@@ -1,120 +1,120 @@
 {
-  "generated": "2026-10-16T15:02:18.513Z",
-  "count": 19,
+  "generated": "2026-10-16T19:04:10.318Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘The mainstream has come to them’: how did Fontaines DC go from Dublin dive bars to headlining stadiums?",
-      "body": "<p>Once scrappy post-punk poets, they’re now one of the biggest bands in the world. As they release new album Dopamine Chamber, fans including Kneecap and Shame explain their sensational rise</p><p>When Irish rockers Fontaines DC emerged in",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/oct/16/the-mainstream-has-come-to-them-how-did-fontaines-dc-go-from-dublin-dive-bars-to-headlining-stadiums"
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Long Winter is an autobiographical children's novel written by Laura Ingalls Wilder and published in 1940, the sixth of nine books in her Little House series.",
+      "body": "It is set in southeastern Dakota Territory during the severe winter of 1880–1881, when she turned 14 years old. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e0/TheLongWinter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Long_Winter_(novel)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1869 —",
-      "hook": "Girton College, Cambridge is founded, becoming England's first residential college for women.",
-      "body": "Girton College is a constituent college of the University of Cambridge. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Girton_College%2C_Cambridge%2C_England%2C_1890s.jpg/330px-Girton_College%2C_Cambridge%2C_England%2C_1890s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1968 —",
+      "hook": "Kingston, Jamaica is rocked by the Rodney riots, inspired by the barring of Walter Rodney from the country.",
+      "body": "The Rodney riots were riots and civil disturbances in Kingston, Jamaica in October 1968. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Girton_College%2C_Cambridge"
+      "url": "https://en.wikipedia.org/wiki/Rodney_riots"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Street Fighter movie is 'made by fans for fans' - but can it KO the critics?",
+      "body": "Cast members Noah Centineo, Andrew Koji and Callina Liang discuss the latest video game adaptation.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cj040z4ngnz1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Look Back review – Kore-eda’s ode to friendship, manga and artistic success",
+      "body": "<p>Two obsessive artists team up to achieve their dreams, but then their aspirations diverge</p><p>Hirokazu Kore-eda’s sad and beautiful film is about friendship, about the ecstasy and burden of success and about what it means to have an ar",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/16/look-back-review-hirokazu-kore-eda"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "The lowdown on the revamped UK Global Screen Fund - The Screen Podcast",
+      "body": "UKGSF director Denitsa Yordanova on what producers and sales agents need to know.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/the-lowdown-on-the-revamped-uk-global-screen-fund-the-screen-podcast/5221476.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Dame Judi Dench joins Archers Birmingham campaign",
+      "body": "The cast have described plans to leave Birmingham as similar \"to Corrie leaving the north-west.\"",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cw98zj4jn6ryo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Jinx is the first novel (2013) in a middle-grades children's fantasy trilogy by Sage Blackwood, published by HarperCollins.",
+      "body": "Set in a sentient primeval forest called The Urwald, the novel follows the adventures of a boy named Jinx who is abandoned in the forest and rescued by the wizard Simon Magus. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/13/Jinx_%28Blackwood_novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jinx_(Blackwood_novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1817 —",
+      "hook": "Simón Bolívar sentences Manuel Piar to death for challenging the racial-caste in Venezuela.",
+      "body": "Manuel Carlos María Francisco Piar Gómez was General-in-Chief of the army fighting Spain during the Venezuelan War of Independence. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Manuel_Carlos_Piar_2012_000.jpg/330px-Manuel_Carlos_Piar_2012_000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Piar"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1843 —",
+      "hook": "William Rowan Hamilton invents quaternions, a three-dimensional system of complex numbers.",
+      "body": "Sir William Rowan Hamilton was an Irish mathematician, physicist, and astronomer who made numerous major contributions to algebra, classical mechanics, and optics. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/William_Rowan_Hamilton_portrait_oval_combined.png/330px-William_Rowan_Hamilton_portrait_oval_combined.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/William_Rowan_Hamilton"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "'Well-known' man asks court to stop publication of sexual offence allegation",
+      "body": "The unnamed individual asks London's High Court to prevent the publication of \"serious allegations\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c674pz3l0e73o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Sean 'Diddy' Combs moved to low-security facility in Pennsylvania",
+      "body": "The decision to move the rap mogul while he is serving out his 50-month sentence was made with 'safety and security in mind'.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy4qnyjg4zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Bambi II is a 2006 American animated drama film directed by Brian Pimental and produced by the Australian office of Disneytoon Studios as a follow-up to the 1942 film Bambi.",
-      "body": "It premiered in theaters in Argentina on January 26, 2006, before being released as a direct-to-video title in the United States by Buena Vista Home Entertainment on February 7, 2006. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/Bambi_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "He has been the owner of the Musical Times since 1995.",
+      "body": "Peter Phillips is a British choral conductor, musicologist and writer. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Brucknerfest_2025_-_Peter_Phillips_BHO-1799.jpg/330px-Brucknerfest_2025_-_Peter_Phillips_BHO-1799.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bambi_II"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "He currently resides in San Francisco.",
-      "body": "Kelley Stoltz is an American singer, songwriter and musician. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Kelley_Stoltz_2014.jpg/330px-Kelley_Stoltz_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kelley_Stoltz"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1367 —",
-      "hook": "Pope Urban V enters Rome, the first pope to do so in more than fifty years since the beginning of the Avignon Papacy.",
-      "body": "Pope Urban V was head of the Catholic Church from 28 September 1362 until his death on 19 December 1370. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Simone_dei_crocifissi%2C_urbano_V%2C_1375_ca.%2C_forse_dalla_cattedrale_di_s._pietro_01_%28cropped%29.jpg/330px-Simone_dei_crocifissi%2C_urbano_V%2C_1375_ca.%2C_forse_dalla_cattedrale_di_s._pietro_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pope_Urban_V"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Kingdom is a crime novel by Norwegian writer Jo Nesbø, first published by Aschehoug in August 2020.",
-      "body": "The book deals with a suite of murders committed by two brothers, Roy and Carl, in a small Norwegian town called Os. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/Kingdom_Book_Cover_Nesbo_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Kingdom_(Nesb%C3%B8_novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Jimmy Kimmel on Trump’s new press secretary: ‘attorney in the way George Santos was volleyball champion’",
-      "body": "<p>Late-night host discussed Trump’s falling poll numbers and concerns over his new press secretary, Katie Zacharia</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/oct/15/katie-zacharia-trump-press-secretary-interview\">Trump",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/oct/16/jimmy-kimmel-katie-zacharia-trump-press-secretary"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "I’ve debated with Israel’s most fervent defenders – NAZA debunks their talking points | Mehdi Hasan",
-      "body": "<p>The film’s testimonies from Israeli soldiers and intelligence officers expose years of baseless propaganda. Don’t take my word – take theirs</p><p>I watched the extraordinary new <a href=\"https://www.theguardian.com/film/2026/sep/11/naza",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1846 —",
-      "hook": "William T. G. Morton administers ether anesthesia during a surgical operation.",
-      "body": "William Thomas Green Morton was an American dentist who first publicly demonstrated the use of inhaled ether as a surgical anesthetic in 1846. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/WTG_Morton.jpg/330px-WTG_Morton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/William_T._G._Morton"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Whalefall review – slimy survival thriller traps us in a whale and struggles to make it digestible",
-      "body": "<p>Austin Abrams gets eaten by a sperm whale in an overlong and flashback-heavy adaptation of Daniel Kraus’s hit novel that only has us on edge in moments</p><p>Spare a thought for poor Austin Abrams, who, having just endured the world’s wo",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/15/whalefall-review-movie"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Penguin Colony review – an Antarctic odyssey of Nazis and Lovecraftian horrors",
-      "body": "<p><strong>PC; Origame Digital</strong><br>This odd but absorbing adventure sends you waddling across Antarctica in search of an eldritch entity – uncovering a world far stranger than it first appears</p><p></p><p>A Nazi kneels down on froz",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/games/2026/oct/16/penguin-colony-review-an-antarctic-odyssey-of-nazis-and-lovecraftian-horrors"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "An open book: how to make a great film adaptation, from The Shining to Trainspotting",
-      "body": "<p>Not every great novel makes a great movie, and sometimes the opposite is true. But regardless of the source text, or how beloved characters are treated, there is more than one way to write a successful adaptation</p><p>It is always fun t",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/16/book-film-adaptations-shining-trainspotting-bridget-jones-godfather-clockwork-orange-silence-lambs"
+      "url": "https://en.wikipedia.org/wiki/Peter_Phillips_(conductor)"
     },
     {
       "type": "card",
@@ -128,62 +128,82 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1836 —",
-      "hook": "Great Trek: Afrikaner voortrekkers repulse a Matabele attack, but lose their livestock.",
-      "body": "The Battle of Vegkop, alternatively spelled as Vechtkop, took place on 16 October 1836 near the present day town of Heilbron, Free State, South Africa. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Vegkop"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "From Mario to machine guns: how Ubisoft Paris made Tom Clancy’s Rainbow Six Tactics",
+      "body": "<p>The studio is swapping the Mushroom Kingdom’s vivid palette for the blood-soaked grit of military action series</p><p>Where do you go after Mario? It’s a question the team at Ubisoft Paris found itself pondering three years ago after wra",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1949 —",
-      "hook": "The Greek Communist Party announces a \"temporary cease-fire\", thus ending the Greek Civil War.",
-      "body": "The Greek Civil War took place from 1946 to 1949. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Vladina_edinica%2C_Gradjanska_vojna_vo_Grcija.jpg/330px-Vladina_edinica%2C_Gradjanska_vojna_vo_Grcija.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "File under 'wait, really?' —",
+      "hook": "It covers an area of 47,971 square kilometres (18,521.7 sq mi), and has existed as a local government entity since 1884.",
+      "body": "The Shire of Cloncurry is a local government area in North West Queensland, Australia. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Cloncurry_LGA_Qld.png/330px-Cloncurry_LGA_Qld.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shire_of_Cloncurry"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "He played college football for the Penn State Nittany Lions and was signed as an undrafted free agent by the Seahawks after the 2023 NFL draft.",
+      "body": "Christopher Michael Stoll is an American professional football long snapper for the Seattle Seahawks of the National Football League (NFL). The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Chris_Stoll_11_23_2025.jpg/330px-Chris_Stoll_11_23_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chris_Stoll"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 955 —",
+      "hook": "King Otto I defeats a Slavic revolt in what is now Mecklenburg-Vorpommern.",
+      "body": "The Battle on the Raxa river was fought on 16 October 955 over control of the Billung march between the forces of Otto I of Germany allied with the Rani tribe on one side, and the Obotrite federation under Nako and his brother Stoigniew with their allied and tributary Slav neighbours on the other. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Recknitz_Damgarten_01.JPG/330px-Recknitz_Damgarten_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Greek_Civil_War"
+      "url": "https://en.wikipedia.org/wiki/Battle_on_the_Raxa"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1947 —",
+      "hook": "The Philippines takes over the administration of the Turtle Islands and the Mangsee Islands from the United Kingdom.",
+      "body": "Turtle Islands, officially the Municipality of Turtle Islands (Sama: Lahat Pūꞌ Payukan; Tagalog: Bayan ng mga Pulo ng Pawikan, Bayan ng mga Pulong Pawikan, Bayan ng Kapuluan ng Pawikan, Bayan ng Kapuluang Pawikan; Filipino: Bayan ng Turtle Islands; Malay: Perbandaran Pulau Penyu, Perbandaran Kepulauan Penyu, is a municipality in the province of Tawi-Tawi, Philippines. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/PORT_OF_TAGANAK.png/330px-PORT_OF_TAGANAK.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Turtle_Islands%2C_Tawi-Tawi"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Bet on the Saint is the title of an unpublished novel by Fleming Lee, featuring the character of criminal-turned-detective Simon Templar, created by Charteris in 1928.",
-      "body": "Worth a quiet trip down the rabbit hole.",
+      "hook": "The Garbage Chronicles - Being an Account of the Adventures of Tom Javik and Wizzy Malloy in the Faraway Land of Catapulted Garbage is a science fiction comedy novel written by Brian Herbert and Kevin J.",
+      "body": "Anderson, first published on January 1, 1985 by Berkley Books. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bet_on_the_Saint"
+      "url": "https://en.wikipedia.org/wiki/The_Garbage_Chronicles"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "The Dark Eyes of London is a 1939 British horror film directed by Walter Summers, and starring Béla Lugosi, Hugh Williams, and Greta Gynt.",
-      "body": "It was written by John Argyle, Patrick Kirwan, Summers and Jan Van Lusil based on the 1924 novel of the same name by Edgar Wallace, and produced by Argyle. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/The_Human_Monster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Kothe Kharak Singh or Kothe Kharak Singh: a story of three generations (1985) is a Punjabi-language novel written by Ram Sarup Ankhi.",
+      "body": "The novel is considered as Ankhi's best literary work and for this work he received Sahitya Akademi award in 1987. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/Kothe_Kharak_Singh_novel_front_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Dark_Eyes_of_London_(film)"
+      "url": "https://en.wikipedia.org/wiki/Kothe_Kharak_Singh"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Dust of Dreams is the ninth volume of Canadian author Steven Erikson's epic fantasy series, the Malazan Book of the Fallen.",
-      "body": "It is the first book in the series to end on a cliffhanger, dealing with the fallout from Reaper's Gale, and forms the first half of the series finale. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Dust_of_Dreams_novel_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Their Mad Moment is a 1931 American pre-Code comedy drama film directed by Chandler Sprague and starring Dorothy Mackaill, Warner Baxter and ZaSu Pitts.",
+      "body": "An uncredited Hamilton MacFadden also directed some scenes. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/74/Their_Mad_Moment.jpg/330px-Their_Mad_Moment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dust_of_Dreams_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Add to playlist: the buzzy bildungsromans of boy wonder Superfan and the week’s best new tracks",
-      "body": "<p>Kali Flanagan was handpicked by Julian Casablancas to support the Strokes – now, at 21, he’s writing songs full of the rushing emotions of youth</p><p><strong>From</strong> New York <br> <strong>Recommended if you like</strong> Cameron W",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/oct/16/add-to-playlist-the-buzzy-bildungsromans-of-boy-wonder-superfan-and-the-weeks-best-new-tracks"
+      "url": "https://en.wikipedia.org/wiki/Their_Mad_Moment"
     }
   ]
 }
