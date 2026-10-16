@@ -1,179 +1,249 @@
 {
-  "generated": "2026-10-16T05:11:51.402Z",
-  "count": 18,
+  "generated": "2026-10-16T10:12:08.274Z",
+  "count": 25,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Lee Child backs launch of reading scheme to send prisons half a million books",
-      "body": "<p>The Jack Reacher author, the UK’s first prison reading laureate, said drive to improve literacy skills was a practical way to address reoffending and support rehabilitation</p><p>Nearly half a million books will be distributed across pri",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/16/lee-child-backs-launch-of-reading-scheme-to-send-prisons-half-a-million-books"
+      "cat": "geography",
+      "opener": "Bet you didn't know —",
+      "hook": "Henry Rowe Schoolcraft was an American geographer, geologist, and ethnologist, noted for his early studies of Native American cultures, as well as for his 1832 expedition to the source of the Mississippi River.",
+      "body": "He is also noted for his major six-volume study of Native Americans commissioned by Congress and published in the 1850s. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/HenryRSchoolcraft1855.jpg/330px-HenryRSchoolcraft1855.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henry_Schoolcraft"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1943 —",
-      "hook": "Holocaust in Italy: Raid on the Roman Ghetto.",
-      "body": "The raid on the Roman Ghetto took place on 16 October 1943. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/S5003638.JPG/330px-S5003638.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1939 —",
+      "hook": "World War II: No. 603 Squadron RAF intercepts the first Luftwaffe raid on Britain.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Raid_on_the_Roman_Ghetto"
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "As of the 2020 census, its population was 4,399 and it contained 1,938 housing units, more than 90% of which live either within or in areas adjacent to the town of Fort Branch.",
+      "body": "Union Township is one of ten townships in Gibson County, Indiana. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Map_highlighting_Union_Township%2C_Gibson_County%2C_Indiana.svg/330px-Map_highlighting_Union_Township%2C_Gibson_County%2C_Indiana.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Union_Township%2C_Gibson_County%2C_Indiana"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Calling the shots: what NAZA says about perpetrator cinema",
+      "body": "<p>The documentary detailing Israel’s mass killing of civilians in Gaza is the latest film to give a voice to those who carry out atrocities – confronting viewers with some of the most difficult questions of all</p><p>Are we still talking a",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/16/calling-the-shots-what-naza-says-about-perpetrator-cinema"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Face of Horror review – a future cult classic delights with playful spin on Hammer horror",
+      "body": "<p><strong>London film festival<br></strong>Anna Biller’s intricate tribute to the British 1960s genre plays melodrama for laughs and pulls it off wonderfully in a medieval tale based on a Japanese ghost story</p><p>There’s over-the-top … a",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/16/the-face-of-horror-review-anna-biller-london-film-festival"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Nelson College is the oldest state secondary school in New Zealand, a feat achieved in part thanks to its original inception as a private school.",
+      "body": "It is an all-boys school in the City of Nelson that teaches from years 9 to 13. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nelson_College"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "He is known for creating the ski resort of La Plagne.",
+      "body": "Pierre Borrione was a French resistance fighter, medical doctor, archaeologist and local politician. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Pierre_Borrione.jpg/330px-Pierre_Borrione.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Borrione"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Lucy Carmichael is a 1951 romantic drama novel by the British writer Margaret Kennedy.",
+      "body": "It was her tenth published novel. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/Lucy_Carmichael_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lucy_Carmichael_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The Disciple: A Wu-Tang Fable review – Netflix doc on ‘secret album’ is strictly for super fans",
+      "body": "<p>The lore of Once Upon a Time in Shaolin, once bought by Martin Shkreli, is explored in a rambling film produced by RZA</p><p>For every reason except one, Once Upon a Time in Shaolin, the seventh album by the <a href=\"https://www.theguard",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/16/disciple-wu-tang-fable-netflix-documentary-review"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The show stars Don Johnson and Cheech Marin as two inspectors with the San Francisco Police Department's Special Investigations Unit (SIU).",
+      "body": "Nash Bridges is an American police procedural television series created by Carlton Cuse. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5c/Nash_bridges_intro.jpg/330px-Nash_bridges_intro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nash_Bridges"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Dogmatic Nordic liberals v eastern family values: culture-clash drama Fjord touches nerves in Norway and Romania",
+      "body": "<p>Cristian Mungiu’s Cannes winner echoes the news story of a Romanian couple whose children were taken by the Norwegian government. As it heads to London film festival, two writers explain how the film exposes real hypocrisies</p><p>When C",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/16/fjord-cristian-mungiu-london-film-festival"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "It has connected Landquart in the Alpine Rhine valley with the spa town of Davos since 1890.",
+      "body": "The Landquart–Davos Platz railway line, also known as the Prättigau line after the Prättigau region, is a metre-gauge railway line in Grisons canton, Switzerland. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/RhB_K%C3%BCblis-Saas.jpg/330px-RhB_K%C3%BCblis-Saas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Landquart%E2%80%93Davos_Platz_railway_line"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1780 —",
       "hook": "American Revolutionary War: The British-led Royalton raid is the last Native American raid on New England.",
-      "body": "The Royalton raid was a British-led Indian raid in 1780 against various towns along the White River Valley in the Vermont Republic during the American Revolutionary War. One of those things you can't un-know.",
+      "body": "The Royalton raid was a British-led Indian raid in 1780 against various towns along the White River Valley in the Vermont Republic during the American Revolutionary War. Bring it up somewhere. Watch the reaction.",
       "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/The_Handy_Memorial%2C_Town_Green%2C_South_Royalton%2C_VT_-_54366084220.jpg/330px-The_Handy_Memorial%2C_Town_Green%2C_South_Royalton%2C_VT_-_54366084220.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Royalton_raid"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1946 —",
-      "hook": "Nuremberg trials: Ten defendants found guilty by the International Military Tribunal are executed by hanging.",
-      "body": "The Nuremberg trials were international criminal trials held by France, the Soviet Union, the United Kingdom, and the United States against leaders of defeated Nazi Germany for plotting and carrying out invasions of several countries across Europe and committing atrocities against their citizens in the Second World War. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Emblem_of_the_International_Military_Tribunal%2C_Nuremberg.png/330px-Emblem_of_the_International_Military_Tribunal%2C_Nuremberg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Nuremberg_trials"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Make Me Well by Xand van Tulleken – an eye-opening takedown of wellness myths",
+      "body": "<p>The engaging TV doctor dismantles the spurious science behind modern day snake oils, from collagen to turmeric</p><p>When Xand van Tulleken set off on a journey into the wild west of wellness, he didn’t expect to discover anything new ab",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/16/make-me-well-by-xand-van-tulleken-an-eye-opening-takedown-of-wellness-myths"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Débora is an experimental novella by Ecuadorian writer Pablo Palacio, published in Quito in October 1927.",
-      "body": "In 2007, the novella was included in a compilation of the author's complete works by publishing house Libresa. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/D%C3%A9bora.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Bet you didn't know —",
+      "hook": "Orphan Star (1977) is a science fiction novel by American writer Alan Dean Foster.",
+      "body": "The book is Foster's eighteenth published book, his fifth original novel, and is chronologically the third entry in the Pip and Flinx series. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/OrphanStar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/D%C3%A9bora"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 456 —",
-      "hook": "Ricimer defeats Avitus at Piacenza and becomes master of the Western Roman Empire.",
-      "body": "Ricimer was a Romanized Germanic general, who ruled the remaining territory of the Western Roman Empire from 456 after defeating Avitus, until his death in 472, with a brief interlude in which he contested power with Procopius Anthemius. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ricimer%27s_Seal_%281%29.jpg/330px-Ricimer%27s_Seal_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ricimer"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I was sideswiped by Giada Scodellaro’s <strong>Ruins, Child</strong>. A brilliant, strange book that challeng",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Fame is a 2009 novel by the Austrian-German writer Daniel Kehlmann.",
-      "body": "The narrative consists of nine loosely connected stories about technology, celebrity, identity, alienation and the Internet. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d1/Ruhm_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fame_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
-      "body": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Generation Maybe by Camilla Cavendish review – what’s really behind the fertility gap?",
-      "body": "<p>An evidenced-based account of the difficult choices facing couples across the world – from America to Iran</p><p>‘Don’t be weird about this,” representative Alexandria Ocasio-Cortez laughed into the camera as she prepared to jab a hormon",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/13/generation-maybe-by-camilla-cavendish-review-whats-really-behind-the-fertility-gap"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
-      "body": "The celebrities turn on each other at the round table, and have to beat the death marchers for their mission.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Orphan_Star"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "As I Lay Dying is a 1930 Southern Gothic novel by American author William Faulkner.",
-      "body": "Faulkner's fifth novel, it is consistently ranked among the best novels of the 20th century. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/As_I_Lay_Dying_%281930_1st_ed_jacket_cover%29.jpg/330px-As_I_Lay_Dying_%281930_1st_ed_jacket_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "A Time to Remember is the last novel by Stanley Shapiro, a time travel thriller about the assassination of John F.",
+      "body": "Kennedy, published on August 12, 1986, by Random House. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/ATimeToRememberNovelFirstEditionCover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/As_I_Lay_Dying"
+      "url": "https://en.wikipedia.org/wiki/A_Time_to_Remember_(novel)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 912 —",
-      "hook": "Abd ar-Rahman III becomes the eighth Emir of Córdoba.",
-      "body": "ʿAbd al-Raḥmān ibn Muḥammad ibn ʿAbd Allāh ibn Muḥammad ibn ʿAbd al-Raḥmān ibn al-Ḥakam ibn Hishām ibn ʿAbd al-Raḥmān al-Marwānī al-Umawī al-Qurashī, or simply ʿAbd al-Raḥmān III, was the eighth and final Emir of Córdoba from 912 to 929. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Dirham_abd_al_rahman_iii_20386.jpg/330px-Dirham_abd_al_rahman_iii_20386.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "File under 'wait, really?' —",
+      "hook": "He described and mapped the geology of East Anglia and The Fens, travelled the world exploring geology and other aspects of science, and became influential in scientific societies in Queensland.",
+      "body": "Sydney Barber Josiah Skertchly was an English and later Australian botanist and geologist. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/Sydney_Barber_Josiah_Skertchly_in_April_1871.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sydney_Barber_Josiah_Skertchly"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1736 —",
+      "hook": "Mathematician William Whiston's predicted comet fails to strike the Earth.",
+      "body": "William Whiston was an English theologian, historian, natural philosopher, and mathematician, a leading figure in the popularisation of the ideas of Isaac Newton. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/William_Whiston_by_Sarah_Hoadly.jpg/330px-William_Whiston_by_Sarah_Hoadly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Abd_al-Rahman_III"
+      "url": "https://en.wikipedia.org/wiki/William_Whiston"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Cat Man of Aleppo is a 2020 picture book written by Karim Shamsi-Basha and Irene Latham and illustrated by Yuko Shimizu.",
+      "body": "The book won a 2021 Caldecott Honor. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/The_Cat_Man_of_Aleppo_%28book_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Cat_Man_of_Aleppo"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1916 —",
+      "hook": "Margaret Sanger opens the first family planning clinic in the United States.",
+      "body": "Margaret Sanger was an American birth control activist, sex educator, writer, and nurse. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Margaret_Sanger_talks_about_birth_control%2C_Los_Angeles%2C_1936.jpg/330px-Margaret_Sanger_talks_about_birth_control%2C_Los_Angeles%2C_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Margaret_Sanger"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1834 —",
+      "hook": "Much of the ancient structure of the Palace of Westminster in London burns to the ground.",
+      "body": "The Palace of Westminster, the medieval royal palace used as the home of the British parliament, was largely destroyed by fire on 16 October 1834. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/The_1834_destruction_of_both_Houses_of_Parliament_by_fire.jpg/330px-The_1834_destruction_of_both_Houses_of_Parliament_by_fire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Burning_of_Parliament"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Peter Rice replaces Bela Bajaria as Netflix chief content officer",
-      "body": "UK executive starts on October 26.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/peter-rice-replaces-bela-bajaria-as-netflix-chief-content-officer/5221528.article"
+      "opener": "The Guardian · Books —",
+      "hook": "John Green: ‘I devoured the Sweet Valley High books in the 1980s’",
+      "body": "<p>The American author on being inspired by Kurt Vonnegut, coming late to Jane Austen, and the brilliance of Robert Penn Warren</p><p><strong>My earliest reading memory</strong> <br> I remember learning to read with dull stories about Jane ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/16/john-green-i-devoured-the-sweet-valley-high-books-in-the-1980s"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1891 —",
+      "hook": "A diplomatic incident between the United States and Chile occurred after U.S. sailors were attacked in Valparaíso, nearly leading to war.",
+      "body": "The Baltimore crisis was a diplomatic incident that took place between Chile and the United States, after the 1891 Chilean Civil War, as a result of the growing American influence in the Pacific Coast region of Latin America in the 1890s. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Uss_baltimore_c-3.jpg/330px-Uss_baltimore_c-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Baltimore_crisis"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Evermeet: Island of Elves is a fantasy novel by Elaine Cunningham, set in the world of the Forgotten Realms, and based on the Dungeons & Dragons role-playing game.",
+      "body": "It was published in hardcover in April 1998 and in paperback in March 1999. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d3/Evermeet%2C_Island_of_Elves.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Evermeet%3A_Island_of_Elves"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Klara and the Sun review – Taika Waititi’s manic pixie dream robot sci-fi is a sentimental mess",
-      "body": "<p>The director of Hunt for the Wilderpeople and Jojo Rabbit turns Kazuo Ishiguro’s AI fable into a twee, tiresome tale of love and grief</p><p>Taika Waititi detonates an explosion of postmodern quirkiness and ironic dorkiness in this unbea",
+      "hook": "Jonathan Glazer says Israel’s retaliation over NAZA ‘more venal’ than anticipated",
+      "body": "<p>Film’s executive producer says he was ‘shocked into silence’ the first time he watched documentary that details Israel’s mass killing of civilians in Gaza</p><p>The director Jonathan Glazer has called Israel’s retaliation against NAZA’s ",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/15/klara-and-the-sun-review-taika-waititi-kazuo-ishiguro"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Elias Abu Shabaki was a Lebanese writer, poet, editor, translator, and literary critic.",
-      "body": "He was one of the founders of the literary League of Ten and is considered a leading figure of the Arabic Nahda Movement. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/ce/AbuChabkeh_919840469.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Elias_Abu_Shabaki"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Rafael Arévalo Martínez was a Guatemalan writer.",
-      "body": "He was a novelist, short-story writer, poet, diplomat, and director of Guatemala's national library for more than 20 years. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Rafaelarevalomartinez30.jpg/330px-Rafaelarevalomartinez30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rafael_Ar%C3%A9valo_Mart%C3%ADnez"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1964 —",
-      "hook": "Leonid Brezhnev becomes leader of the Soviet Communist Party, while Alexei Kosygin becomes the head of government.",
-      "body": "Leonid Ilyich Brezhnev was a Soviet politician who served as General Secretary of the Communist Party of the Soviet Union from 1964 until his death in 1982. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg/330px-Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Leonid_Brezhnev"
+      "url": "https://www.theguardian.com/film/2026/oct/16/jonathan-glazer-says-israels-retaliation-over-naza-more-venal-than-anticipated"
     }
   ]
 }
