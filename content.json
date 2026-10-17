@@ -1,26 +1,132 @@
 {
-  "generated": "2026-10-17T00:50:38.927Z",
-  "count": 18,
+  "generated": "2026-10-17T05:06:26.701Z",
+  "count": 19,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘Don’t do this!’ Why Paul McCartney cares about looking shorter than John Lennon in Sam Mendes’ Beatles films",
+      "body": "<p>You’re Paul McCartney. So how come you’re still getting het up at a fictional version of you being marginally smaller than a fictional version of John Lennon?</p><p>There has been a lot of discourse and conjecture surrounding Sam Mendes’",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/oct/15/dont-do-this-why-paul-mccartney-cares-about-looking-shorter-than-john-lennon-in-sam-mendes-beatles-films"
+    },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "David Bennett is a British auctioneer and jeweler.",
-      "body": "He is known as the “100-carat man” for his history of selling 100-carat diamonds with record-breaking prices. The world is stranger than it lets on.",
+      "hook": "\"Don't Make a Fool of Yourself\" is a song by American recording artist Stacey Q.",
+      "body": "It was taken from her second studio album, Hard Machine (1988). Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3f/Stacey_Q_-_don%27t_make_a_fool_of_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Don't_Make_a_Fool_of_Yourself"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Modron (\"mother\") is a figure in Welsh tradition, known as the mother of the hero Mabon ap Modron.",
+      "body": "Both characters may have derived from earlier divine figures. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/David_Bennett_(jeweler)"
+      "url": "https://en.wikipedia.org/wiki/Modron"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Steps by Sylvester Stallone review – the inside story of Rocky",
+      "body": "<p>The star takes us back to 70s New York to recount his breakthrough, and it’s a great yarn – but it’s laced with anger</p><p>The Philadelphia Museum of Art contains a 14th-century Buddhist temple, a one-acre sculpture garden and works by ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/14/the-steps-by-sylvester-stallone-review-the-inside-story-of-rocky"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1989 —",
-      "hook": "The East German Politburo votes to remove Erich Honecker from his role as General Secretary.",
-      "body": "Erich Ernst Paul Honecker was a German communist politician who led the German Democratic Republic from 1971 until shortly before the fall of the Berlin Wall in November 1989. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesarchiv_Bild_183-R1220-401%2C_Erich_Honecker_%28cropped%29.jpg/330px-Bundesarchiv_Bild_183-R1220-401%2C_Erich_Honecker_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1966 —",
+      "hook": "The 23rd Street Fire in New York City kills 12 firefighters.",
+      "body": "The 23rd Street Fire was an incident that took place in the Flatiron District neighborhood of Manhattan, New York City, on October 17, 1966. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Erich_Honecker"
+      "url": "https://en.wikipedia.org/wiki/23rd_Street_Fire"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1781 —",
+      "hook": "American Revolutionary War: British General Charles, Earl Cornwallis surrenders at the Siege of Yorktown.",
+      "body": "The Siege of Yorktown, also known as the Battle of Yorktown and the surrender at Yorktown, took place in 1781 and was the final major land engagement of the American Revolutionary War. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Yorktown"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Rice County is a county located in the U.S.",
+      "body": "Its county seat and largest city is Lyons. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Rice_County_Courthouse_%28Kansas%29.jpg/330px-Rice_County_Courthouse_%28Kansas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rice_County%2C_Kansas"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Èze is a seaside commune in the Alpes-Maritimes department in the Provence-Alpes-Côte d'Azur region in Southeastern France.",
+      "body": "It is located on the French Riviera, 8.5 km (5.2 mi) to the northeast of Nice and 4.5 km (2.7 mi) to the west of Monaco. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%C3%88ze_Alpes_Maritimes_France_%28261171069%29.jpeg/330px-%C3%88ze_Alpes_Maritimes_France_%28261171069%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%C3%88ze"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+      "body": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1945 —",
+      "hook": "A large demonstration in Buenos Aires, Argentina, demands Juan Perón's release.",
+      "body": "Loyalty Day is a commemoration day in Argentina. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/17deoctubre-enlafuente.jpg/330px-17deoctubre-enlafuente.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Loyalty_Day_(Argentina)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
+      "body": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1919 —",
+      "hook": "Leeds United F.C. founded at Salem Chapel, Holbeck after the winding up of Leeds City F.C. for making illegal payments to players during World War I",
+      "body": "Leeds United Football Club is a professional football club based in Leeds, West Yorkshire, England. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/330px-Leeds_United_F.C._logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Leeds_United_F.C."
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Passiflora glandulosa, more commonly known as wild passion fruit, is a short deciduous climbing plant with stems that can grow up to 20 m (66 ft) long.",
+      "body": "The genus Passiflora is known for its colorful flowers, which is also prominent in the glandulosa species. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Passiflora_glandulosa_closeup_vertical.jpg/330px-Passiflora_glandulosa_closeup_vertical.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Passiflora_glandulosa"
     },
     {
       "type": "card",
@@ -34,31 +140,22 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1956 —",
-      "hook": "The first commercial nuclear power station is officially opened by Queen Elizabeth II in Sellafield, England.",
-      "body": "Sellafield, formerly known as Windscale, is a large multi-function nuclear site close to Seascale on the coast of Cumbria, England. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Aerial_view_Sellafield%2C_Cumbria_-_geograph.org.uk_-_50827.jpg/330px-Aerial_view_Sellafield%2C_Cumbria_-_geograph.org.uk_-_50827.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sellafield"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Anastas Avramidhi-Lakçe or Anastas Avram-Lakçe (1821–1890) was an Albanian businessman and benefactor.",
-      "body": "Avramidhi was born in Korçë, in modern southeastern Albania, then part of the Ottoman Empire. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/AnastasAvramidhi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Salad bars are commonly found in restaurants, food markets, and cafeterias.",
+      "body": "A salad bar is a buffet-style table or bar where customers can create their own salad plates from individual salad ingredients or completed dishes. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Circus_Circus_Reno_Buffet.jpg/330px-Circus_Circus_Reno_Buffet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Anastas_Avramidhi-Lak%C3%A7e"
+      "url": "https://en.wikipedia.org/wiki/Salad_bar"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "ESA —",
-      "hook": "Mars moon lander set to launch on 19 October",
-      "body": "The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect",
-      "src": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October"
+      "cat": "history",
+      "opener": "On this day in 1806 —",
+      "hook": "Former leader of the Haitian Revolution, Emperor Jacques I, is assassinated after an oppressive rule.",
+      "body": "Jean-Jacques Dessalines was the first Haitian Emperor, leader of the Haitian Revolution, and the first ruler of an independent Haiti under the 1805 constitution. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Jean_Jacques_Dessalines.jpg/330px-Jean_Jacques_Dessalines.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Jean-Jacques_Dessalines"
     },
     {
       "type": "card",
@@ -72,108 +169,21 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Don’t do this!’ Why Paul McCartney cares about looking shorter than John Lennon in Sam Mendes’ Beatles films",
-      "body": "<p>You’re Paul McCartney. So how come you’re still getting het up at a fictional version of you being marginally smaller than a fictional version of John Lennon?</p><p>There has been a lot of discourse and conjecture surrounding Sam Mendes’",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/oct/15/dont-do-this-why-paul-mccartney-cares-about-looking-shorter-than-john-lennon-in-sam-mendes-beatles-films"
+      "opener": "BBC Entertainment —",
+      "hook": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
+      "body": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2018 —",
-      "hook": "A mass shooting and bombing at Kerch Polytechnic College in Crimea kills 21 people including the attacker and injures 70 others.",
-      "body": "On 17 October 2018, a school shooting and bombing attack occurred at the Kerch Polytechnic College in Kerch, Crimea. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA_%D0%B2_%D0%9A%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B5.jpg/330px-%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA_%D0%B2_%D0%9A%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1977 —",
+      "hook": "The hijacked Lufthansa Flight 181 lands in Mogadishu. The remaining hostages are later rescued.",
+      "body": "Lufthansa Flight 181, a Boeing 737-200 jet airliner named Landshut, was hijacked on 13 October 1977 by four militants of the Popular Front for the Liberation of Palestine while en route from Palma de Mallorca, Spain, to Frankfurt am Main, West Germany. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/D-ABCE_B737-230C_Lufthansa_MAN_24OCT75_%286141698947%29.jpg/330px-D-ABCE_B737-230C_Lufthansa_MAN_24OCT75_%286141698947%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Kerch_Polytechnic_College_massacre"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1861 —",
-      "hook": "Aboriginal Australians kill nineteen Europeans in the Cullin-la-ringo massacre.",
-      "body": "The Cullin-la-ringo massacre, also known as the Wills tragedy, was a massacre of European settlers by Indigenous Australians that occurred on 17 October 1861, north of modern-day Springsure in Central Queensland, Australia. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Cullin-La-Ringo_massacre.jpg/330px-Cullin-La-Ringo_massacre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Cullin-la-ringo_massacre"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 690 —",
-      "hook": "Empress Wu Zetian establishes the Zhou Dynasty of China.",
-      "body": "Emperor Zetian, personal name Wu Zhao, was the only undisputed female sovereign in the history of China. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png/330px-%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Wu_Zetian"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1771 —",
-      "hook": "Premiere in Milan of the opera Ascanio in Alba, composed by Mozart at age 15.",
-      "body": "Ascanio in Alba, K. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Mozart_Ascanio_in_Alba_1771.jpg/330px-Mozart_Ascanio_in_Alba_1771.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Ascanio_in_Alba"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Zathura is an action-adventure game developed by High Voltage Software and published by 2K for the PlayStation 2 and Xbox in 2005.",
-      "body": "The game is based on the 2005 film Zathura: A Space Adventure, which, in turn, is an adaptation of the 2002 children's book Zathura by Chris Van Allsburg. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Zathura_game_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Zathura_(video_game)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Steps by Sylvester Stallone review – the inside story of Rocky",
-      "body": "<p>The star takes us back to 70s New York to recount his breakthrough, and it’s a great yarn – but it’s laced with anger</p><p>The Philadelphia Museum of Art contains a 14th-century Buddhist temple, a one-acre sculpture garden and works by ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/14/the-steps-by-sylvester-stallone-review-the-inside-story-of-rocky"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Franklin Academy is a public high school located in the rural village of Malone, New York that enrolls students from Malone and surrounding communities in northern Franklin County such as Bangor, Bellmont, Burke, Constable, Duane and Westville.",
-      "body": "With an enrollment of around 700 students in Grades 9–12, Franklin Academy is one of the larger high schools in the North Country region of Upstate New York and is accredited by the New York State Department of Education. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Franklin_Academy_(New_York)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Stranger than stranger-than-fiction’: how Lance Oppenheim made the year’s two buzziest films",
-      "body": "<p>Primetime and You Can See Everything are both clammy, audacious awards contenders that challenge our sense of reality. Ahead of the release of his drama starring Robert Pattinson as a TV vigilante, the 30-year-old director talks crime, p",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/oct/15/stranger-than-stranger-than-fiction-how-lance-oppenheim-made-the-years-two-buzziest-films"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Your full attention: Jesse Eisenberg’s 10 best film performances – ranked!",
-      "body": "<p>As his new movie The Debut closes the London film festival, we count down the best of the actor’s shy, sly and sometimes hairy outings</p><p>A doppelganger role can be a trap for an actor: either the two roles are not sufficiently distin",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/oct/15/jesse-eisenberg-10-best-film-performances-ranked"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "\"Learning to Fly\" is a song by the English progressive rock band Pink Floyd, written by David Gilmour, Anthony Moore, Bob Ezrin, and Jon Carin.",
-      "body": "It was the first single from the band's thirteenth studio album A Momentary Lapse of Reason. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/da/Pink_Floyd_-_Learning_to_Fly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Learning_to_Fly_(Pink_Floyd_song)"
+      "url": "https://en.wikipedia.org/wiki/Lufthansa_Flight_181"
     }
   ]
 }
