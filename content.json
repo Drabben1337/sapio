@@ -1,74 +1,46 @@
 {
-  "generated": "2026-10-17T21:04:33.547Z",
+  "generated": "2026-10-17T23:32:21.649Z",
   "count": 19,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Charles Louis de Secondat, baron de La Brède et de Montesquieu, generally referred to as simply Montesquieu, was a French jurist, historian, and political philosopher.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Charles_Montesquieu.jpg/330px-Charles_Montesquieu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "At the time of launch, there were 25 artistically decorated locations in Bhilar that are turned into spots for readers; collectively they housed over 15,000 books in 18 distinct genres.",
+      "body": "Pustakanch Gaav is a special library in Bhilar, Maharashtra that opened on May 4, 2017. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/Logo_of_Pustakanch_Gaav.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Montesquieu"
+      "url": "https://en.wikipedia.org/wiki/Pustakanch_Gaav"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1850 —",
+      "hook": "Riots start, which lead to a massacre in Aleppo.",
+      "body": "The Massacre of Aleppo , often referred to simply as The Events, was a riot perpetrated by Muslim residents of Aleppo, largely from the eastern quarters of the city, against Christian residents, largely located in the northern suburbs of Judayde (Jdeideh) and Salibeh. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/1754_Aleppo_Drummond.png/330px-1754_Aleppo_Drummond.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Massacre_of_Aleppo_(1850)"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Devdas is a 1936 Hindi-language Indian drama romance film based on the 1917 Sharat Chandra Chattopadhyay novella, Devdas.",
-      "body": "Directed by Pramathesh Barua, it stars K.L. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/36/Devdas_Saigal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Devdas_(1936_film)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Pushkin Prize was a Russian literary award presented to a Russian writer considered to have achieved the highest standard of literary excellence.",
-      "body": "It was established in 1881 by the Russian Academy of Sciences to honor one of the greatest Russian poets Alexander Pushkin (1799–1837), then discontinued during the Soviet period. Bring it up somewhere. Watch the reaction.",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Richard Aarre Impola was a Finnish–American professor and translator.",
+      "body": "A retired professor of English language and literature at the State University of New York, college at New Paltz, he translated Finnish poetry and prose into the English language, including Väinö Linna's Under the North Star trilogy, of which the third part wa",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pushkin_Prize"
+      "url": "https://en.wikipedia.org/wiki/Richard_Impola"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I was sideswiped by Giada Scodellaro’s <strong>Ruins, Child</strong>. A brilliant, strange book that challeng",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1977 —",
-      "hook": "The hijacked Lufthansa Flight 181 lands in Mogadishu. The remaining hostages are later rescued.",
-      "body": "Lufthansa Flight 181, a Boeing 737-200 jet airliner named Landshut, was hijacked on 13 October 1977 by four militants of the Popular Front for the Liberation of Palestine while en route from Palma de Mallorca, Spain, to Frankfurt am Main, West Germany. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/D-ABCE_B737-230C_Lufthansa_MAN_24OCT75_%286141698947%29.jpg/330px-D-ABCE_B737-230C_Lufthansa_MAN_24OCT75_%286141698947%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Lufthansa_Flight_181"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Lee Child backs launch of reading scheme to send prisons half a million books",
-      "body": "<p>The Jack Reacher author, the UK’s first prison reading laureate, said drive to improve literacy skills was a practical way to address reoffending and support rehabilitation</p><p>Nearly half a million books will be distributed across pri",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/16/lee-child-backs-launch-of-reading-scheme-to-send-prisons-half-a-million-books"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "He was selected by the Indianapolis Colts in the first round of the 2006 NFL draft out of Louisiana State University.",
-      "body": "Joseph Kwaku Duah Addai Jr. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Joseph_Addai_%28cropped%29.jpg/330px-Joseph_Addai_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The 131st Battalion, CEF was a unit in the Canadian Expeditionary Force during the First World War.",
+      "body": "Based in New Westminster, British Columbia, the unit began recruiting in late 1915 in that city. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Joseph_Addai"
+      "url": "https://en.wikipedia.org/wiki/131st_Battalion_(Westminster)%2C_CEF"
     },
     {
       "type": "card",
@@ -82,41 +54,12 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2004 —",
-      "hook": "A fire that lasted over 15 hours destroyed almost one third of the East Tower of the Parque Central Urban Complex in Caracas, Venezuela.",
-      "body": "The Parque Central Complex fire was a fire on 17 October 2004, that destroyed almost one-third of the East Tower of the Parque Central Urban Complex in Caracas, Venezuela. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/ParqueCentral2004.jpg/330px-ParqueCentral2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1988 —",
+      "hook": "Uganda Airlines Flight 775 crashes at Rome–Fiumicino International Airport, in Rome, Italy, killing 33 people.",
+      "body": "Uganda Airlines Flight 775 was a Boeing 707, registration 5X-UBC, that crashed while attempting to land at Rome-Fiumicino Airport in Rome, Italy on 17 October 1988. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Uganda_Airlines_Boeing_707-300C_5X-UBC_FCO_Apr_1983.png/330px-Uganda_Airlines_Boeing_707-300C_5X-UBC_FCO_Apr_1983.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Parque_Central_Complex_fire"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Sao Paulo festival director Renata de Almeida on track record of supporting new talent",
-      "body": "”Thee star is always the film and the only thing that raises the temperature is the heat coming from the audience.”",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/sao-paulo-festival-director-renata-de-almeida-on-track-record-of-supporting-new-talent/5221558.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Burning Daylight is a 1928 silent dramatic action adventure film directed by Charles Brabin and starring Milton Sills and Doris Kenyon, a real-life married couple.",
-      "body": "It was produced and distributed by First National Pictures and based on the 1910 novel of the same name by Jack London. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Burning_Daylight_%281928_film%29.jpg/330px-Burning_Daylight_%281928_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Burning_Daylight_(1928_film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1777 —",
-      "hook": "American Revolutionary War: British General John Burgoyne surrenders his army at Saratoga, New York.",
-      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+      "url": "https://en.wikipedia.org/wiki/Uganda_Airlines_Flight_775"
     },
     {
       "type": "card",
@@ -129,22 +72,13 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Calling Sehmat is the 2008 spy thriller novel written by Harinder S.",
-      "body": "Sikka based on real events. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/5e/Book_Cover_-_Calling_Sehmat_by_Harinder_Sikka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Calling_Sehmat"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Noise-cancelling headphones prevent vomiting after surgery",
-      "body": "Nausea and vomiting are common after surgery, which may be partly related to the noises patients are exposed to, even under general anaesthetic. Wearing noise-cancelling headphones while on the operating table reduces the risk",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2594276-noise-cancelling-headphones-prevent-vomiting-after-surgery/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "cat": "history",
+      "opener": "On this day in 1797 —",
+      "hook": "Treaty of Campo Formio is signed between France and Austria, ending the War of the First Coalition.",
+      "body": "The Treaty of Campo Formio was a peace treaty signed on 17 October 1797 between the French First Republic and Habsburg monarchy of Austria which ended the War of the First Coalition. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Trait%C3%A9_de_Campo-Formio_12_sur_12_-_Archives_Nationales_-_AE-III-50bis.jpg/330px-Trait%C3%A9_de_Campo-Formio_12_sur_12_-_Archives_Nationales_-_AE-III-50bis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Campo_Formio"
     },
     {
       "type": "card",
@@ -158,32 +92,98 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2018 —",
-      "hook": "A mass shooting and bombing at Kerch Polytechnic College in Crimea kills 21 people including the attacker and injures 70 others.",
-      "body": "On 17 October 2018, a school shooting and bombing attack occurred at the Kerch Polytechnic College in Kerch, Crimea. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA_%D0%B2_%D0%9A%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B5.jpg/330px-%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA_%D0%B2_%D0%9A%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1814 —",
+      "hook": "Eight people die in the London Beer Flood.",
+      "body": "The London Beer Flood was an accident at Meux & Co's Horse Shoe Brewery, London, on 17 October 1814. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Horseshoe_Brewery%2C_London%2C_c._1800.jpg/330px-Horseshoe_Brewery%2C_London%2C_c._1800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Kerch_Polytechnic_College_massacre"
+      "url": "https://en.wikipedia.org/wiki/London_Beer_Flood"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
+      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I was sideswiped by Giada Scodellaro’s <strong>Ruins, Child</strong>. A brilliant, strange book that challeng",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Sao Paulo festival director Renata de Almeida on track record of supporting new talent",
+      "body": "”Thee star is always the film and the only thing that raises the temperature is the heat coming from the audience.”",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/features/sao-paulo-festival-director-renata-de-almeida-on-track-record-of-supporting-new-talent/5221558.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1907 —",
-      "hook": "Marconi begins the first commercial transatlantic wireless service.",
-      "body": "The Marconi Company was a British telecommunications and engineering company founded by Italian inventor Guglielmo Marconi in 1897 which was a pioneer of wireless long distance communication and mass media broadcasting, eventually becoming one of the UK's most successful manufacturing companies. Worth a quiet trip down the rabbit hole.",
+      "opener": "On this day in 1860 —",
+      "hook": "First The Open Championship (referred to in North America as the British Open).",
+      "body": "The Open Championship, often referred to as The Open or the British Open outside of the UK, is the oldest golf tournament in the world, and one of the most prestigious. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d0/The_Open_Championship_logo.png/330px-The_Open_Championship_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/The_Open_Championship"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Noise-cancelling headphones prevent vomiting after surgery",
+      "body": "Nausea and vomiting are common after surgery, which may be partly related to the noises patients are exposed to, even under general anaesthetic. Wearing noise-cancelling headphones while on the operating table reduces the risk",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2594276-noise-cancelling-headphones-prevent-vomiting-after-surgery/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1610 —",
+      "hook": "French king Louis XIII is crowned in Reims Cathedral.",
+      "body": "Louis XIII was King of France from 1610 until his death in 1643 and King of Navarre from 1610 to 1620, when the crown of Navarre was merged with the French crown. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg/330px-Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Louis_XIII"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Orvar Swenson was a Swedish-born American pediatric surgeon.",
+      "body": "He discovered the cause of Hirschsprung's disease and in 1948, with Alexander Bill, performed the first pull-through operation in a child with megacolon, which then became a treatment for the disease. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/93/Orvar_Swenson.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Orvar_Swenson"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Mario Castelnuovo-Tedesco was an Italian composer, pianist and writer.",
+      "body": "He was known as one of the foremost guitar composers in the twentieth century with almost one hundred compositions for that instrument. Bring it up somewhere. Watch the reaction.",
       "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Marconi_Company"
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mario_Castelnuovo-Tedesco"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1456 —",
-      "hook": "The University of Greifswald is established as the second oldest university in northern Europe.",
-      "body": "The University of Greifswald, formerly known as Ernst-Moritz-Arndt University of Greifswald, is a public research university located in Greifswald, Germany, in the state of Mecklenburg-Vorpommern. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Uni_Greifswald_-_Siegel.svg/330px-Uni_Greifswald_-_Siegel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/University_of_Greifswald"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Pierre Edwards known mononymously as Pierre, is an American actor, director, writer, and stand-up comedian.",
+      "body": "Pierre is best known for producing, writing, directing, and starring as Dre Mitchell in For Da Love of Money (2002), and starring in such films as 2001: A Space Travesty (2000), Def Jam's How to Be a Player (1997), and B*A*P*S (1997). One of those things you c",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Pierrenorthcarpicture.jpeg/330px-Pierrenorthcarpicture.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Edwards"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Lee Child backs launch of reading scheme to send prisons half a million books",
+      "body": "<p>The Jack Reacher author, the UK’s first prison reading laureate, said drive to improve literacy skills was a practical way to address reoffending and support rehabilitation</p><p>Nearly half a million books will be distributed across pri",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/16/lee-child-backs-launch-of-reading-scheme-to-send-prisons-half-a-million-books"
     }
   ]
 }
