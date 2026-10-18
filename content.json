@@ -1,7 +1,17 @@
 {
-  "generated": "2026-10-18T17:37:59.884Z",
-  "count": 18,
+  "generated": "2026-10-18T19:43:46.628Z",
+  "count": 19,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1989 —",
+      "hook": "The Space Shuttle Atlantis launches on STS-34 to deploy the Jupiter-bound Galileo space probe.",
+      "body": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -22,71 +32,33 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1921 —",
+      "hook": "The Crimean Autonomous Soviet Socialist Republic is formed as part of the Russian Soviet Federative Socialist Republic.",
+      "body": "Several different governments controlled the Crimean Peninsula during the period of the Soviet Union, from 1921 to 1991. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_the_Crimean_ASSR_%281938%29.svg/330px-Flag_of_the_Crimean_ASSR_%281938%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Crimea_in_the_Soviet_Union"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1561 —",
+      "hook": "In Japan the fourth Battle of Kawanakajima is fought between the forces of Uesugi Kenshin and Takeda Shingen, resulting in a draw.",
+      "body": "Japan is an island country in East Asia. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/330px-Flag_of_Japan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Japan"
+    },
+    {
+      "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Uncle Toby and the Widow Wadman is an 1865 oil painting by the British artist William Powell Frith.",
-      "body": "It features a scene from the Georgian era novel The Life and Opinions of Tristram Shandy, Gentleman by Laurence Sterne. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/William_Powell_Frith_%281819-1909%29_-_Uncle_Toby_and_the_Widow_Wadman_-_N01781_-_National_Gallery.jpg/330px-William_Powell_Frith_%281819-1909%29_-_Uncle_Toby_and_the_Widow_Wadman_-_N01781_-_National_Gallery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Rolling Stone is an American monthly magazine that focuses on music, politics, and popular culture.",
+      "body": "It was founded in San Francisco, California, in 1967 by Jann Wenner and the music critic Ralph J. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/df/Rolling_Stone_1000th_Issue_May_June_2006.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Uncle_Toby_and_the_Widow_Wadman"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The Underwater Welder is a graphic novel ghost story by Jeff Lemire, published in 2012 by Top Shelf Productions.",
-      "body": "The main character, Jack Joseph, is an offshore oil rig worker responsible for scuba-diving and repairing the rig. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/67/The_Underwater_Welder_Jeff_Lemire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Underwater_Welder"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "BFI London Film Festival unveils 2026 award winners",
-      "body": "Prizes go to films from France, Thailand, and UK.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/bfi-london-film-festival-unveils-2026-award-winners/5221561.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Making murder fun: How the Traitors' soundtrack sets the tone",
-      "body": "It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "The USSR's nuclear program receives plans for the United States plutonium bomb from Klaus Fuchs at the Los Alamos National Laboratory.",
-      "body": "The Soviet Union, officially the Union of Soviet Socialist Republics (USSR), was a transcontinental country that spanned much of Eurasia from its formation in 1922 until its dissolution in 1991. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Soviet_Union"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "World War II: Soviet Union begins the liberation of Czechoslovakia from Nazi Germany.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1991 —",
-      "hook": "The Supreme Council of Azerbaijan adopts a declaration of independence from the Soviet Union.",
-      "body": "Azerbaijan, officially the Republic of Azerbaijan, is a landlocked country at the boundary of Western Asia and Eastern Europe. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/330px-Flag_of_Azerbaijan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Azerbaijan"
+      "url": "https://en.wikipedia.org/wiki/Rolling_Stone"
     },
     {
       "type": "card",
@@ -101,6 +73,54 @@
       "type": "card",
       "cat": "news",
       "opener": "Screen Daily —",
+      "hook": "‘La Bola Negra’ impresses at US box office as Netflix reports grosses for first time",
+      "body": "Epic gay saga has been scooping up audience awards at major festivals.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/la-bola-negra-impresses-at-us-box-office-as-netflix-reports-grosses-for-first-time/5221564.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "A24’s ‘You Can See Everything’ stuns at US box office",
+      "body": "Biggest documentary debut in more than two decades since Fahrenheit 9/11.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/a24s-you-can-see-everything-stuns-at-us-box-office/5221565.article"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Cannon for Cordoba is a 1970 American Western film.",
+      "body": "Filmed in Spain, the larger part of the movie takes place in Mexico in 1912. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/CannonCover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cannon_for_Cordoba"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1081 —",
+      "hook": "The Normans defeat the Byzantine Empire in the Battle of Dyrrhachium.",
+      "body": "The Normans were a population arising in the medieval Duchy of Normandy from the intermingling between Norse Viking settlers and locals of West Francia. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Drapeau_de_la_Normandie_%28version_traditionnelle%29.png/330px-Drapeau_de_la_Normandie_%28version_traditionnelle%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Normans"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 320 —",
+      "hook": "Pappus of Alexandria, Greek philosopher, observes an eclipse of the Sun and writes a commentary on The Great Astronomer (Almagest).",
+      "body": "Pappus of Alexandria was a Greek mathematician of late antiquity known for his Synagoge or Collection, and for Pappus's hexagon theorem in projective geometry. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Pappi_Alexandrini._Mathematicae_collectiones._1588.jpg/330px-Pappi_Alexandrini._Mathematicae_collectiones._1588.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pappus_of_Alexandria"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
       "hook": "Carol Morley talks about how she raised the private funding for ‘7 Miles Out’",
       "body": "‘7 Miles Out’ is Morley’s first feature made without public funding support.",
       "src": "Screen Daily",
@@ -108,72 +128,62 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Hentai Kamen is a 2013 Japanese superhero comedy film written and directed by Yūichi Fukuda, starring Ryohei Suzuki in the title role and based on the manga series Kyūkyoku!!",
+      "body": "Hentai Kamen created by Keishū Ando. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/Hentai_Kamen_%28film%29_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hentai_Kamen_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The United States Coast Guard Auxiliary is the uniformed, auxiliary service component of the United States Coast Guard.",
+      "body": "Congress established the unit on 23 June 1939, as the United States Coast Guard Reserve. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Seal_of_the_United_States_Coast_Guard_Auxiliary.svg/330px-Seal_of_the_United_States_Coast_Guard_Auxiliary.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/United_States_Coast_Guard_Auxiliary"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1009 —",
-      "hook": "The Church of the Holy Sepulchre, a Christian church in Jerusalem, is completely destroyed by the Fatimid caliph Al-Hakim bi-Amr Allah, who hacks the Church's foundations down to bedrock.",
-      "body": "The Church of the Holy Sepulchre, also known as the Church of the Resurrection, is a fourth-century church in the Christian Quarter of the Old City of Jerusalem. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Church_of_the_Holy_Sepulchre_by_Gerd_Eichmann_%28cropped%29.jpg/330px-Church_of_the_Holy_Sepulchre_by_Gerd_Eichmann_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre"
+      "opener": "Okay, this one's fun —",
+      "hook": "It is renowned for its superb collection of 16th and 17th-century paintings.",
+      "body": "The Oratory of San Nicola da Tolentino is a small chapel-like structure located in Vicenza, Veneto, Italy. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Oratorio_di_San_Nicola_da_Tolentino_Vicenza1.jpg/330px-Oratorio_di_San_Nicola_da_Tolentino_Vicenza1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oratory_of_San_Nicola_da_Tolentino%2C_Vicenza"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Manifest: From reality TV to Wembley Arena in one turbulent year",
-      "body": "Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqrky2rkd5n1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 33 —",
-      "hook": "Heartbroken by the deaths of her sons Nero and Drusus, and banished to the island of Pandateria by Tiberius, Agrippina the Elder dies of self-inflicted starvation.",
-      "body": "The 30s decade ran from January 1, AD 30, to December 31, AD 39. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Denarius_of_Tiberius_%28YORYM_2000_1953%29_obverse.jpg/330px-Denarius_of_Tiberius_%28YORYM_2000_1953%29_obverse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/30s"
+      "opener": "Screen Daily —",
+      "hook": "BFI London Film Festival unveils 2026 award winners",
+      "body": "Prizes go to films from France, Thailand, and UK.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/bfi-london-film-festival-unveils-2026-award-winners/5221561.article"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Wayward Son is the fourth young adult novel written by Rainbow Rowell, published in 2019.",
-      "body": "The story follows Simon Snow and his friends a year and a half after the end of the first book of the trilogy, Carry On. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/14/Wayward_Son.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Gabriel Naudé was a French librarian and scholar.",
+      "body": "He was a prolific writer who produced works on many subjects including politics, religion, history and the supernatural. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Portret_van_Gabriel_Naud%C3%A9%2C_RP-P-1910-5137_%28cropped%29.jpg/330px-Portret_van_Gabriel_Naud%C3%A9%2C_RP-P-1910-5137_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wayward_Son_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Go Tell the Bees That I Am Gone is the ninth book in the Outlander series of novels by Diana Gabaldon, published on November 23, 2021.",
-      "body": "Centered on time travelling 20th century doctor Claire Randall and her 18th century Scottish Highlander warrior husband Jamie Fraser, the books contain elements of historical fiction, romance, adventure and fantasy. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/70/Gabaldon-Go_Tell_the_Bees_That_I_Am_Gone-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Go_Tell_the_Bees_That_I_Am_Gone"
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Naud%C3%A9"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1561 —",
-      "hook": "In Japan the fourth Battle of Kawanakajima is fought between the forces of Uesugi Kenshin and Takeda Shingen, resulting in a draw.",
-      "body": "Japan is an island country in East Asia. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/330px-Flag_of_Japan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1963 —",
+      "hook": "Félicette, a black and white female Parisian stray cat, becomes the first cat launched into space.",
+      "body": "Félicette was a Parisian cat that became the first feline launched into space on 18 October 1963 as part of the French space program. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e0/Felicette%2C_spacecat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Japan"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Ken Holt is the central character in a series of mystery stories advertised as being for readers between the ages of eleven and fifteen years old.",
-      "body": "The series was published by Grosset & Dunlap between 1949 and 1963, and the mysteries continued to be sold in the United States until at least 1966. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/76/The_Secret_of_Skeleton_Island_%28cover_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ken_Holt"
+      "url": "https://en.wikipedia.org/wiki/F%C3%A9licette"
     }
   ]
 }
