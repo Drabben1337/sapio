@@ -1,7 +1,142 @@
 {
-  "generated": "2026-10-21T19:42:03.573Z",
-  "count": 23,
+  "generated": "2026-10-21T22:49:30.444Z",
+  "count": 19,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘It was so satisfying when I threw a rock through the screen’: the people sick of being spied on by their smart TV",
+      "body": "<p>Is your television listening to every conversation? Filling your home with highly invasive ads? Some viewers have had enough of tech violating their privacy</p><p>When Dan had had enough of his television, he threw a rock straight throug",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1956 —",
+      "hook": "The Mau Mau Uprising in Kenya is defeated.",
+      "body": "The Mau Mau rebellion (1952–1960), also known as the Mau Mau uprising or Kenya Emergency, was an armed conflict in the British Colony of Kenya between the Kenya Land and Freedom Army (KLFA) and the British colonial authorities. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/KAR_Mau_Mau.jpg/330px-KAR_Mau_Mau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mau_Mau_rebellion"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 685 —",
+      "hook": "Election of Pope Conon following the death of Pope John V.",
+      "body": "Pope Conon was the bishop of Rome from 21 October 686 to his death on 21 September 687. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fresco_of_Pope_Conon_before_restoration_-_Palazzo_Altieri.jpg/330px-Fresco_of_Pope_Conon_before_restoration_-_Palazzo_Altieri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pope_Conon"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "To the Lake is a Russian post-apocalyptic thriller television series launched on the Premier platform on 14 November 2019.",
+      "body": "Its first season is based on Vongozero, a novel by Russian author Yana Vagner. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/To_the_Lake_%282019%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/To_the_Lake"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "It is developed by the American AlmaLinux OS Foundation, a 501(c) organization.",
+      "body": "AlmaLinux is a free and open source Linux distribution, a community-supported, production-grade enterprise operating system that is binary-compatible with Red Hat Enterprise Linux (RHEL). Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/AlmaLinux_10.0_desktop_with_GNOME_47.png/330px-AlmaLinux_10.0_desktop_with_GNOME_47.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AlmaLinux"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1907 —",
+      "hook": "The 1907 Qaratog earthquake hits the borders of Uzbekistan and Tajikistan, killing between 12,000 and 15,000 people.",
+      "body": "The 1907 Qaratog earthquake occurred at 04:23 UTC on 21 October near Qaratog (Karatag) in the border area between Uzbekistan and Tajikistan, then part of the Russian Empire. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1907_Qaratog_earthquake"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Tom Cruise’s Digger is a commercial flop – but also the perfect climate film for our time",
+      "body": "<p>The movie follows Digger Rockwell, whose drilling triggers a vast iceberg that’s five times the size of Washington DC</p><p>Digger, the new Alejandro González Iñárritu film, is bombastic, misanthropic and an epic, critically savaged flop",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/oct/20/tom-cruise-digger-climate-film"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Sundance Institute names Tracy Brady head of marketing, brand and communications",
+      "body": "Executive will be based in Boulder, Colorado, reporting to CEO David Linde.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/sundance-institute-names-tracy-brady-head-of-marketing-brand-and-communications/5221636.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1912 —",
+      "hook": "First Balkan War: The Greek navy completes the capture of the island of Lemnos for use as a forward base against the Dardanelles.",
+      "body": "The First Balkan War lasted from October 1912 to May 1913 and involved actions of the Balkan League against the Ottoman Empire. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Balkanskata_voina_Photobox.jpg/330px-Balkanskata_voina_Photobox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/First_Balkan_War"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "A Month in the Country is the fifth novel by J.",
+      "body": "Carr, first published in 1980 and nominated for the Booker Prize. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/A_Month_in_the_Country_96dpi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Month_in_the_Country_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Even Though I Knew the End is a 2022 urban fantasy novella by Canadian speculative author C.",
+      "body": "It was first published by Tor Books. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/Even_Though_I_Knew_the_End_%28Book_Cover%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Even_Though_I_Knew_the_End"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
+      "body": "<p>Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain</p><p>A sense of desperation is understandably in the air over at DC, the company, ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘It feels quite frightening’: readers rush to snap up Sally Rooney books as stocks dwindle amid Palestine Action ban",
+      "body": "<p>Booksellers have reported selling out of the Irish novelist’s works after it was announced that her books would be withdrawn from sale in the UK</p><p>Booksellers have reported selling out of copies of Sally Rooney’s novels, following th",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/21/it-feels-quite-frightening-readers-rush-to-snap-up-sally-rooney-books-as-stocks-dwindle-amid-palestine-action-ban"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Justin Torres is an American novelist and an associate professor of English at University of California, Los Angeles.",
+      "body": "He won the First Novelist Award for his semi-autobiographical debut novel We the Animals (2011), which was also an Edmund White Award finalist and an NAACP Image Award for Debut Author nominee. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Justin_Torres_at_AWP_2025_09_%28cropped%29.jpg/330px-Justin_Torres_at_AWP_2025_09_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Justin_Torres"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -15,44 +150,6 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Emperor of Nothing by Blake J Harris review – the definitive portrait of Larry David",
-      "body": "<p>The Seinfeld creator went from luckless standup to multi-millionaire – but what’s his secret? </p><p>Larry David agreed to this authorised biography with a five-word email: “Oh Jesus. If we must.” As Blake J Harris tells it, the comedy w",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/19/emperor-of-nothing-blake-j-harris-review-larry-david-biography"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1639 —",
-      "hook": "A Dutch fleet under Admiral Maarten Tromp defeats a large Spanish fleet at the Battle of the Downs, dealing a heavy blow to Spanish naval power.",
-      "body": "Maarten Harpertszoon Tromp, also known as Maarten van Tromp, was an army general and admiral in the Dutch navy during much of the Eighty Years' War and throughout the First Anglo-Dutch War. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Maarten_Harpertszoon_Tromp.jpg/330px-Maarten_Harpertszoon_Tromp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Maarten_Tromp"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Warsaw in the running to host possible second edition of Lumiere Summit in 2027",
-      "body": "EXCLUSIVE: CNC and the Polish Film Institute are exploring the feasibility of a second edition.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/warsaw-in-the-running-to-host-possible-second-edition-of-lumiere-summit-in-2027/5221668.article"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
       "hook": "Alone With a Book by Tessa Hadley review – an acclaimed writer’s cultural prescription",
       "body": "<p>This collection of essays from the beloved novelist is full of gem-like insights on art and books</p><p>When Tessa Hadley was a child, someone gave her a copy of Lois Lenski’s Papa Small, which follows Mr Small and his family through a t",
       "src": "The Guardian · Books",
@@ -60,170 +157,33 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Noura Saleh Erakat is a Palestinian-American activist, university professor, legal scholar, and human rights attorney.",
-      "body": "She is currently a professor at Rutgers University, specializing in international studies. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Noura_Erakat_at_New_America_Foundation_event.jpg/330px-Noura_Erakat_at_New_America_Foundation_event.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Noura_Erakat"
+      "cat": "history",
+      "opener": "On this day in 1966 —",
+      "hook": "A colliery spoil tip slips onto houses and a school in the village of Aberfan in Wales, killing 144 people, 116 of whom were schoolchildren.",
+      "body": "The Aberfan disaster was the catastrophic collapse of a colliery spoil tip on 21 October 1966. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Rescuers_searching_through_demolished_school_after_Aberfan_disaster.jpg/330px-Rescuers_searching_through_demolished_school_after_Aberfan_disaster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Aberfan_disaster"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1520 —",
-      "hook": "João Álvares Fagundes discovers the islands of Saint Pierre and Miquelon, bestowing on them their original name of \"Islands of the 11,000 Virgins\".",
-      "body": "João Álvares Fagundes was an explorer and ship owner from Viana do Castelo in Northern Portugal. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Est%C3%A1tua_de_Jo%C3%A3o_%C3%81lvares_Fagundes_-_Viana_do_Castelo_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853637421829%29.jpg/330px-Est%C3%A1tua_de_Jo%C3%A3o_%C3%81lvares_Fagundes_-_Viana_do_Castelo_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853637421829%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1943 —",
+      "hook": "World War II: The Provisional Government of Free India is formally established in Japanese-occupied Singapore.",
+      "body": "The Provisional Government of Free India or, more simply, Azad Hind, was a short-lived Japanese-controlled provisional government in India. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/1931_Flag_of_India.svg/330px-1931_Flag_of_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_%C3%81lvares_Fagundes"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
+      "url": "https://en.wikipedia.org/wiki/Azad_Hind"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Nora Roberts is an American author of over 225 novels, known for romance published under her own name.",
-      "body": "She also writes police procedurals which have elements of science fiction under the name J. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/NoraRoberts.jpg/330px-NoraRoberts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "Ordinary People is Judith Guest's first novel.",
+      "body": "Published in 1976, it tells the story of a year in the life of the Jarretts, an affluent suburban family trying to cope with the aftermath of two traumatic events. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/Ordinary_People_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nora_Roberts"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 310 —",
-      "hook": "Sixty-five days after being exiled by the Emperor Maxentius to Sicily, Pope Eusebius dies.",
-      "body": "Marcus Aurelius Valerius Maxentius was a Roman emperor from 306 until his death in 312. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Portrait_of_Maxentius_%28SK_Dresden_Hm_406%29_02.jpg/330px-Portrait_of_Maxentius_%28SK_Dresden_Hm_406%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Maxentius"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Arturo Pineda Alcaraz was a Filipino volcanologist known for his work on geothermal energy.",
-      "body": "He received the 1982 Ramon Magsaysay Award for Government Service. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Arturo_Alcaraz"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘It feels quite frightening’: readers rush to snap up Sally Rooney books as stocks dwindle amid Palestine Action ban",
-      "body": "<p>Booksellers have reported selling out of the Irish novelist’s works after it was announced that her books would be withdrawn from sale in the UK</p><p>Booksellers have reported selling out of copies of Sally Rooney’s novels, following th",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/21/it-feels-quite-frightening-readers-rush-to-snap-up-sally-rooney-books-as-stocks-dwindle-amid-palestine-action-ban"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Make Me Well by Xand van Tulleken – an eye-opening takedown of wellness myths",
-      "body": "<p>The engaging TV doctor dismantles the spurious science behind modern day snake oils, from collagen to turmeric</p><p>When Xand van Tulleken set off on a journey into the wild west of wellness, he didn’t expect to discover anything new ab",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/16/make-me-well-by-xand-van-tulleken-an-eye-opening-takedown-of-wellness-myths"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Emma Smith was an English novelist, who also wrote for children and published two volumes of autobiography.",
-      "body": "She gave encouragement to Laurie Lee while he was writing his bestselling memoir of his childhood, Cider with Rosie. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Emma_Smith_(author)"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Taylor Swift tells us to take the lead!’ Could highly organised pop fans clinch victory for Brazil’s Lula?",
-      "body": "<p>Brazil’s famously outspoken fandoms have near-unanimously rallied behind the leftwing presidential candidate. On the streets of São Paulo, they explain their mission</p><p>Earlier this month, Brazil’s president Luiz Inácio Lula da Silva ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/oct/20/taylor-swift-tells-us-to-take-the-lead-could-highly-organised-pop-fans-clinch-victory-for-brazils-lula"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1967 —",
-      "hook": "The National Mobilization Committee to End the War in Vietnam organizes a march of fifty thousand people from the Lincoln Memorial to the Pentagon.",
-      "body": "The Spring Mobilization Committee to End the War in Vietnam, which became the National Mobilization Committee to End the War in Vietnam, was a coalition of American antiwar activists formed in November 1966 to organize large demonstrations in opposition to the Vietnam War. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/National_Mobilization_Committee_to_End_the_War_in_Vietnam"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "A monument of Frederick Douglass sculpted by Stanley W.",
-      "body": "Edwards, sometimes called the Frederick Douglass Monument, was installed in Rochester, New York in 1899 after it was commissioned by the African-American activist John W. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/FrederickDouglassSummerMorning2018Top.jpg/330px-FrederickDouglassSummerMorning2018Top.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Statue_of_Frederick_Douglass_(Rochester%2C_New_York)"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2018 —",
-      "hook": "A passenger train derails in Yilan County, Taiwan, killing 18 people and injuring 187.",
-      "body": "On 21 October 2018, a passenger train derailed in Yilan County, Taiwan, killing 18 people and injuring 187. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/10.22_%E7%B8%BD%E7%B5%B1%E8%A6%96%E5%AF%9F%E5%AE%9C%E8%98%AD%E6%96%B0%E9%A6%AC%E8%BB%8A%E7%AB%99%E4%B8%A6%E8%B5%B4%E8%98%87%E6%BE%B3%E6%A6%AE%E6%B0%91%E7%AD%89%E9%86%AB%E9%99%A2%E6%8E%A2%E8%A6%96%E5%82%B7%E6%82%A3_%2844573992375%29.jpg/330px-10.22_%E7%B8%BD%E7%B5%B1%E8%A6%96%E5%AF%9F%E5%AE%9C%E8%98%AD%E6%96%B0%E9%A6%AC%E8%BB%8A%E7%AB%99%E4%B8%A6%E8%B5%B4%E8%98%87%E6%BE%B3%E6%A6%AE%E6%B0%91%E7%AD%89%E9%86%AB%E9%99%A2%E6%8E%A2%E8%A6%96%E5%82%B7%E6%82%A3_%2844573992375%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2018_Yilan_train_derailment"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1600 —",
-      "hook": "Tokugawa Ieyasu defeats the leaders of rival Japanese clans in the Battle of Sekigahara and becomes shōgun of Japan.",
-      "body": "Tokugawa Ieyasu was a Japanese samurai, daimyo and the founder and first shogun of the Tokugawa shogunate of Japan, which ruled from 1603 until the Meiji Restoration in 1868. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Tokugawa_Ieyasu2.JPG/330px-Tokugawa_Ieyasu2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu"
+      "url": "https://en.wikipedia.org/wiki/Ordinary_People_(Guest_novel)"
     }
   ]
 }
