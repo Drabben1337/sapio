@@ -1,65 +1,84 @@
 {
-  "generated": "2026-10-21T22:49:30.444Z",
-  "count": 19,
+  "generated": "2026-10-22T01:00:59.418Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘It was so satisfying when I threw a rock through the screen’: the people sick of being spied on by their smart TV",
-      "body": "<p>Is your television listening to every conversation? Filling your home with highly invasive ads? Some viewers have had enough of tech violating their privacy</p><p>When Dan had had enough of his television, he threw a rock straight throug",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy"
+      "cat": "history",
+      "opener": "On this day in 1992 —",
+      "hook": "Space Shuttle Columbia launches on STS-52 to deploy the LAGEOS-2 satellite and microgravity experiments.",
+      "body": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1956 —",
-      "hook": "The Mau Mau Uprising in Kenya is defeated.",
-      "body": "The Mau Mau rebellion (1952–1960), also known as the Mau Mau uprising or Kenya Emergency, was an armed conflict in the British Colony of Kenya between the Kenya Land and Freedom Army (KLFA) and the British colonial authorities. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/KAR_Mau_Mau.jpg/330px-KAR_Mau_Mau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1910 —",
+      "hook": "Hawley Harvey Crippen (the first felon to be arrested with the help of radio) is convicted of poisoning his wife.",
+      "body": "Hawley Harvey Crippen, colloquially known as Dr. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Dr_crippen.jpg/330px-Dr_crippen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mau_Mau_rebellion"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 685 —",
-      "hook": "Election of Pope Conon following the death of Pope John V.",
-      "body": "Pope Conon was the bishop of Rome from 21 October 686 to his death on 21 September 687. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fresco_of_Pope_Conon_before_restoration_-_Palazzo_Altieri.jpg/330px-Fresco_of_Pope_Conon_before_restoration_-_Palazzo_Altieri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pope_Conon"
+      "url": "https://en.wikipedia.org/wiki/Hawley_Harvey_Crippen"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "To the Lake is a Russian post-apocalyptic thriller television series launched on the Premier platform on 14 November 2019.",
-      "body": "Its first season is based on Vongozero, a novel by Russian author Yana Vagner. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/To_the_Lake_%282019%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Wonka is a 2023 musical fantasy film directed by Paul King, who co-wrote the screenplay with Simon Farnaby.",
+      "body": "It is a prequel to the events that occur in Charlie and the Chocolate Factory by Roald Dahl. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/Wonka_2023_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/To_the_Lake"
+      "url": "https://en.wikipedia.org/wiki/Wonka_(film)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "It is developed by the American AlmaLinux OS Foundation, a 501(c) organization.",
-      "body": "AlmaLinux is a free and open source Linux distribution, a community-supported, production-grade enterprise operating system that is binary-compatible with Red Hat Enterprise Linux (RHEL). Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/AlmaLinux_10.0_desktop_with_GNOME_47.png/330px-AlmaLinux_10.0_desktop_with_GNOME_47.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/AlmaLinux"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1907 —",
-      "hook": "The 1907 Qaratog earthquake hits the borders of Uzbekistan and Tajikistan, killing between 12,000 and 15,000 people.",
-      "body": "The 1907 Qaratog earthquake occurred at 04:23 UTC on 21 October near Qaratog (Karatag) in the border area between Uzbekistan and Tajikistan, then part of the Russian Empire. Worth a quiet trip down the rabbit hole.",
+      "opener": "On this day in 1946 —",
+      "hook": "Over twenty-two hundred engineers and technicians from eastern Germany are forced to relocate to the Soviet Union, along with their families and equipment.",
+      "body": "Operation Osoaviakhim was a secret Soviet operation in which more than 2,500 German scientists, engineers and technicians, who worked in several areas from companies and institutions relevant to military and economic policy in the Soviet occupation zone of Germany (SBZ) and Berlin, as well as around 4,000 more family members, totalling more than 6,000 people, were taken from former Nazi Germany to the Soviet Union. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1907_Qaratog_earthquake"
+      "url": "https://en.wikipedia.org/wiki/Operation_Osoaviakhim"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘It’s important that Michael’s voice is heard’: Jaafar Jackson says second biopic of his uncle will cover sexual abuse allegations",
+      "body": "<p>The star of Michael, the most commercially successful biopic of all time, has said sequel will give airtime to point-of-view of late singer</p><p>Of all the criticisms levelled at the authorised biopic of Michael Jackson released earlier",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/oct/20/michael-jackson-jaafar-jackson-biopic-uncle-sexual-abuse-allegations"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
+      "body": "<p>The actor defended his new film, Ali G: Who Iz I?, saying his aim is to bring people ‘face-to-face with the danger of fanaticism and conspiracy theories’</p><p>Sacha Baron Cohen has launched an impassioned defence of satire, the right to",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/21/sacha-baron-cohen-defends-ali-g"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2015 —",
+      "hook": "Anton Lundin Pettersson attacks a school in Trollhättan, killing three people and injuring two others.",
+      "body": "On 22 October 2015, a mass stabbing occurred at Kronan Primary School in Trollhättan, Sweden. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5c/Trollh%C3%A4ttan_attack.jpg/330px-Trollh%C3%A4ttan_attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2015_Trollh%C3%A4ttan_school_attack"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Morality Play is a semi-historical detective novel by Barry Unsworth.",
+      "body": "The book, published in 1995 by Hamish Hamilton was shortlisted for the Man Booker Prize. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/88/MoralityPlay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Morality_Play_(novel)"
     },
     {
       "type": "card",
@@ -81,42 +100,13 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1912 —",
-      "hook": "First Balkan War: The Greek navy completes the capture of the island of Lemnos for use as a forward base against the Dardanelles.",
-      "body": "The First Balkan War lasted from October 1912 to May 1913 and involved actions of the Balkan League against the Ottoman Empire. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Balkanskata_voina_Photobox.jpg/330px-Balkanskata_voina_Photobox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/First_Balkan_War"
-    },
-    {
-      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "A Month in the Country is the fifth novel by J.",
-      "body": "Carr, first published in 1980 and nominated for the Booker Prize. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/A_Month_in_the_Country_96dpi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Gamba no Bouken is a Japanese anime series based on the 1972 novel Boukenshatachi: Ganba to 15-hiki no Nakama by Atsuo Saitō and directed by Osamu Dezaki.",
+      "body": "Its 26 episodes were broadcast on Nippon TV between April 7 and September 29, 1975, and was animated by Tokyo Movie. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/98/Ganba_no_B%C5%8Dken.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Month_in_the_Country_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Even Though I Knew the End is a 2022 urban fantasy novella by Canadian speculative author C.",
-      "body": "It was first published by Tor Books. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/Even_Though_I_Knew_the_End_%28Book_Cover%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Even_Though_I_Knew_the_End"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
-      "body": "<p>Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain</p><p>A sense of desperation is understandably in the air over at DC, the company, ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror"
+      "url": "https://en.wikipedia.org/wiki/Gamba_no_Bouken"
     },
     {
       "type": "card",
@@ -129,61 +119,61 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Justin Torres is an American novelist and an associate professor of English at University of California, Los Angeles.",
-      "body": "He won the First Novelist Award for his semi-autobiographical debut novel We the Animals (2011), which was also an Edmund White Award finalist and an NAACP Image Award for Debut Author nominee. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Justin_Torres_at_AWP_2025_09_%28cropped%29.jpg/330px-Justin_Torres_at_AWP_2025_09_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Justin_Torres"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
-      "body": "<p>The actor defended his new film, Ali G: Who Iz I?, saying his aim is to bring people ‘face-to-face with the danger of fanaticism and conspiracy theories’</p><p>Sacha Baron Cohen has launched an impassioned defence of satire, the right to",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/21/sacha-baron-cohen-defends-ali-g"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Alone With a Book by Tessa Hadley review – an acclaimed writer’s cultural prescription",
-      "body": "<p>This collection of essays from the beloved novelist is full of gem-like insights on art and books</p><p>When Tessa Hadley was a child, someone gave her a copy of Lois Lenski’s Papa Small, which follows Mr Small and his family through a t",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/20/alone-with-a-book-by-tessa-hadley-review-an-acclaimed-writers-cultural-prescription"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1966 —",
-      "hook": "A colliery spoil tip slips onto houses and a school in the village of Aberfan in Wales, killing 144 people, 116 of whom were schoolchildren.",
-      "body": "The Aberfan disaster was the catastrophic collapse of a colliery spoil tip on 21 October 1966. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Rescuers_searching_through_demolished_school_after_Aberfan_disaster.jpg/330px-Rescuers_searching_through_demolished_school_after_Aberfan_disaster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1859 —",
+      "hook": "Spain declares war on Morocco.",
+      "body": "The Hispano-Moroccan War, also known as the Spanish–Moroccan War, the First Moroccan War, the Tetuán War, or, in Spain, as the War of Africa, was fought from Spain's declaration of war on Morocco on 22 October 1859 until the Treaty of Wad-Ras on 26 April 1860. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Aberfan_disaster"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1943 —",
-      "hook": "World War II: The Provisional Government of Free India is formally established in Japanese-occupied Singapore.",
-      "body": "The Provisional Government of Free India or, more simply, Azad Hind, was a short-lived Japanese-controlled provisional government in India. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/1931_Flag_of_India.svg/330px-1931_Flag_of_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Azad_Hind"
+      "url": "https://en.wikipedia.org/wiki/Hispano-Moroccan_War_(1859%E2%80%931860)"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Ordinary People is Judith Guest's first novel.",
-      "body": "Published in 1976, it tells the story of a year in the life of the Jarretts, an affluent suburban family trying to cope with the aftermath of two traumatic events. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/Ordinary_People_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Death at the Club is a 1937 detective novel by the British writer Cecil Street, writing under the pen name of Miles Burton.",
+      "body": "It is the fifteenth in a series of books featuring the amateur detective Desmond Merrion and Inspector Arnold of Scotland Yard. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/Death_at_the_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ordinary_People_(Guest_novel)"
+      "url": "https://en.wikipedia.org/wiki/Death_at_the_Club"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘It was so satisfying when I threw a rock through the screen’: the people sick of being spied on by their smart TV",
+      "body": "<p>Is your television listening to every conversation? Filling your home with highly invasive ads? Some viewers have had enough of tech violating their privacy</p><p>When Dan had had enough of his television, he threw a rock straight throug",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Fair Game is a 1995 American action thriller film directed by Andrew Sipes from the screenplay by Charlie Fletcher.",
+      "body": "Fair Game is based on Paula Gosling's 1974 novel A Running Duck, which was previously adapted into the 1986 film Cobra. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c9/Fair_game.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fair_Game_(1995_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1997 —",
+      "hook": "Danish fugitive Steen Christensen kills two police officers, Chief Constable Eero Holsti and Senior Constable Antero Palo, in Ullanlinna, Helsinki, Finland during his prison escape.",
+      "body": "Steen Viktor Christensen is a Danish criminal, who was sentenced in Denmark in 1992 to twelve years in prison for numerous bank robberies, hostage taking, and rape. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Steen_Christensen"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
+      "body": "<p>Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain</p><p>A sense of desperation is understandably in the air over at DC, the company, ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror"
     }
   ]
 }
