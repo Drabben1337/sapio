@@ -1,46 +1,130 @@
 {
-  "generated": "2026-10-22T01:00:59.418Z",
+  "generated": "2026-10-22T06:41:59.978Z",
   "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1992 —",
-      "hook": "Space Shuttle Columbia launches on STS-52 to deploy the LAGEOS-2 satellite and microgravity experiments.",
-      "body": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘I’d consider replacing one of my children’: Taika Waititi on robot kids, his cheese-o-meter and Klara and the Sun",
+      "body": "<p>The director has turned Kazuo Ishiguro’s acclaimed novel about an ailing adolescent and her glitchy robot friend into a thought-provoking film. What do the pair think this story says about tech, love and grief?</p><p></p><p></p><p></p><p",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/22/taika-waititi-kazuo-ishiguro-robot-friend-klara-and-the-sun"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1910 —",
-      "hook": "Hawley Harvey Crippen (the first felon to be arrested with the help of radio) is convicted of poisoning his wife.",
-      "body": "Hawley Harvey Crippen, colloquially known as Dr. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Dr_crippen.jpg/330px-Dr_crippen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hawley_Harvey_Crippen"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Clayface’ review: The Batman villain gets an edgy spin-off in James Watkins’ gory, predictable body horror",
+      "body": "The latest from DC Studios stars Tom Rhys Harries as the Hollywood star turned vigilante",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/reviews/clayface-review-the-batman-villain-gets-an-edgy-spin-off-in-james-watkins-gory-predictable-body-horror/5221662.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Neon boards Gaza documentary ‘NAZA’",
+      "body": "Company negotiated deal with Mk2 Films, will support awards campaign.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/neon-boards-gaza-documentary-naza/5221670.article"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Wonka is a 2023 musical fantasy film directed by Paul King, who co-wrote the screenplay with Simon Farnaby.",
-      "body": "It is a prequel to the events that occur in Charlie and the Chocolate Factory by Roald Dahl. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/Wonka_2023_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Development Assistance Database (DAD) is an aid information management system (AIMS) developed by Synergy International Systems for tracking development aid and managing official development assistance with transparency and accountability.",
+      "body": "DAD is a widely adopted AIMS which has been established in more than 35 countries worldwide in close cooperation with UNDP and respective governments. The world is stranger than it lets on.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wonka_(film)"
+      "url": "https://en.wikipedia.org/wiki/Development_Assistance_Database"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Female Life on Planet Earth by Laleh Khadivi review – a mother’s secret past in the Iranian revolution",
+      "body": "<p>A woman living in California discovers her mother may have been a merciless enforcer of the Islamic revolution, in an intriguing novel of inheritance and identity</p><p>“It’s a little scary, isn’t it, inheritance?” That’s what Heti, the ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/22/female-life-on-planet-earth-by-laleh-khadivi-review-a-mothers-secret-past-in-the-iranian-revolution"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Marc-Alexander Najork is a distinguished research scientist at Google DeepMind working on generative artificial intelligence.",
+      "body": "His career spans research at Google Research, Microsoft Research and DEC Systems Research Center on data retrieval, link-based ranking algorithms, detection of spam websites, a distributed web crawler, and a scripting system for 3D animations, among others. Th",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Marc_Najork.jpg/330px-Marc_Najork.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marc_Najork"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Four locations in the running to be UK City of Culture 2029",
+      "body": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6jrw03njgxzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Vai syllabary is a syllabic writing system devised for the Vai language by Momolu Duwalu Bukele of Jondu, in what is now Grand Cape Mount County, Liberia.",
+      "body": "Bukele is regarded within the Vai community, as well as by most scholars, as the syllabary's inventor and chief promoter when it was first documented in the 1830s. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vai_syllabary"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1946 —",
-      "hook": "Over twenty-two hundred engineers and technicians from eastern Germany are forced to relocate to the Soviet Union, along with their families and equipment.",
-      "body": "Operation Osoaviakhim was a secret Soviet operation in which more than 2,500 German scientists, engineers and technicians, who worked in several areas from companies and institutions relevant to military and economic policy in the Soviet occupation zone of Germany (SBZ) and Berlin, as well as around 4,000 more family members, totalling more than 6,000 people, were taken from former Nazi Germany to the Soviet Union. The world is stranger than it lets on.",
+      "opener": "On this day in 2008 —",
+      "hook": "India launches its first uncrewed lunar probe mission Chandrayaan-1.",
+      "body": "The physical exploration of the Moon began when Luna 2, a space probe launched by the Soviet Union, made a deliberate impact on the surface of the Moon on 14 September, 1959. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lunar_module_AS12-51-7507.jpg/330px-Lunar_module_AS12-51-7507.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Exploration_of_the_Moon"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2007 —",
+      "hook": "A raid on Anuradhapura Air Force Base is carried out by 21 Tamil Tiger commandos, with all except one dying in this attack. Eight Sri Lanka Air Force planes are destroyed and ten damaged.",
+      "body": "The Raid on Anuradhapura Air Force Base, code-named Operation Ellaalan, was a commando raid conducted on SLAF Anuradhapura an Air Force Base in Anuradhapura, Sri Lanka by the Liberation Tigers of Tamil Eelam. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Operation_Osoaviakhim"
+      "url": "https://en.wikipedia.org/wiki/Raid_on_Anuradhapura_Air_Force_Base"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Dame Judi Dench: 'I can't do a play, a film or read any more'",
+      "body": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1964 —",
+      "hook": "Jean-Paul Sartre is awarded the Nobel Prize in Literature, though he does not accept the prize.",
+      "body": "Jean-Paul Charles Aymard Sartre was a French philosopher, political activist, and writer, considered a leading figure in 20th-century French philosophy and Marxism. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Jean_Paul_Sartre_1965.jpg/330px-Jean_Paul_Sartre_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Giovacchino Forzano was an Italian playwright, librettist, stage and film director.",
+      "body": "A resourceful writer, he authored numerous popular plays and produced opera librettos for most of the major Italian composers of the early twentieth century, including the librettos for Giacomo Puccini's Suor Angelica and Gianni Schicchi. The world is stranger",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Giovacchinoforzano.jpg/330px-Giovacchinoforzano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Giovacchino_Forzano"
     },
     {
       "type": "card",
@@ -53,127 +137,43 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
-      "body": "<p>The actor defended his new film, Ali G: Who Iz I?, saying his aim is to bring people ‘face-to-face with the danger of fanaticism and conspiracy theories’</p><p>Sacha Baron Cohen has launched an impassioned defence of satire, the right to",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/21/sacha-baron-cohen-defends-ali-g"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Marovo Lagoon is the largest double-barrier enclosed lagoon in the world.",
+      "body": "Located in the New Georgia Islands, Western Province, Solomon Islands, between Vangunu and Nggatokae islands, both extinct volcanic islands, at 8.48°S 158.07°E. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Vangunu_Island_NASA.jpg/330px-Vangunu_Island_NASA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marovo_Lagoon"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2015 —",
-      "hook": "Anton Lundin Pettersson attacks a school in Trollhättan, killing three people and injuring two others.",
-      "body": "On 22 October 2015, a mass stabbing occurred at Kronan Primary School in Trollhättan, Sweden. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5c/Trollh%C3%A4ttan_attack.jpg/330px-Trollh%C3%A4ttan_attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1883 —",
+      "hook": "The Metropolitan Opera House in New York City opens with a performance of Charles Gounod's Faust.",
+      "body": "The Metropolitan Opera House, also known as the Old Metropolitan Opera House and Old Met, was an opera house located at 1411 Broadway in Manhattan, New York City. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Metropolitan_opera_1905_crop.jpg/330px-Metropolitan_opera_1905_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2015_Trollh%C3%A4ttan_school_attack"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Morality Play is a semi-historical detective novel by Barry Unsworth.",
-      "body": "The book, published in 1995 by Hamish Hamilton was shortlisted for the Man Booker Prize. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/88/MoralityPlay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Morality_Play_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Tom Cruise’s Digger is a commercial flop – but also the perfect climate film for our time",
-      "body": "<p>The movie follows Digger Rockwell, whose drilling triggers a vast iceberg that’s five times the size of Washington DC</p><p>Digger, the new Alejandro González Iñárritu film, is bombastic, misanthropic and an epic, critically savaged flop",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/oct/20/tom-cruise-digger-climate-film"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Sundance Institute names Tracy Brady head of marketing, brand and communications",
-      "body": "Executive will be based in Boulder, Colorado, reporting to CEO David Linde.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/sundance-institute-names-tracy-brady-head-of-marketing-brand-and-communications/5221636.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Gamba no Bouken is a Japanese anime series based on the 1972 novel Boukenshatachi: Ganba to 15-hiki no Nakama by Atsuo Saitō and directed by Osamu Dezaki.",
-      "body": "Its 26 episodes were broadcast on Nippon TV between April 7 and September 29, 1975, and was animated by Tokyo Movie. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/98/Ganba_no_B%C5%8Dken.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gamba_no_Bouken"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘It feels quite frightening’: readers rush to snap up Sally Rooney books as stocks dwindle amid Palestine Action ban",
-      "body": "<p>Booksellers have reported selling out of the Irish novelist’s works after it was announced that her books would be withdrawn from sale in the UK</p><p>Booksellers have reported selling out of copies of Sally Rooney’s novels, following th",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/21/it-feels-quite-frightening-readers-rush-to-snap-up-sally-rooney-books-as-stocks-dwindle-amid-palestine-action-ban"
+      "url": "https://en.wikipedia.org/wiki/Metropolitan_Opera_House_(39th_Street)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1859 —",
-      "hook": "Spain declares war on Morocco.",
-      "body": "The Hispano-Moroccan War, also known as the Spanish–Moroccan War, the First Moroccan War, the Tetuán War, or, in Spain, as the War of Africa, was fought from Spain's declaration of war on Morocco on 22 October 1859 until the Treaty of Wad-Ras on 26 April 1860. Worth a quiet trip down the rabbit hole.",
+      "opener": "On this day in 1947 —",
+      "hook": "The first Kashmir war begins after Pakistani forces invade Kashmir, allegedly to suppress a tribal rebellion.",
+      "body": "The India–Pakistan war of 1947–1948, also known as the first Kashmir war, was a war fought between India and Pakistan over the princely state of Jammu and Kashmir from 1947 to 1948. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Indian_soldiers_landing_at_Srinagar_airfield_during_the_1947%E2%80%931948_war.jpg/330px-Indian_soldiers_landing_at_Srinagar_airfield_during_the_1947%E2%80%931948_war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/India%E2%80%93Pakistan_war_of_1947%E2%80%931948"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2014 —",
+      "hook": "Michael Zehaf-Bibeau attacks the Parliament of Canada, killing a soldier and injuring three other people.",
+      "body": "The 2014 shootings at Parliament Hill occurred on 22 October 2014, at Parliament Hill in Ottawa. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hispano-Moroccan_War_(1859%E2%80%931860)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Death at the Club is a 1937 detective novel by the British writer Cecil Street, writing under the pen name of Miles Burton.",
-      "body": "It is the fifteenth in a series of books featuring the amateur detective Desmond Merrion and Inspector Arnold of Scotland Yard. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/Death_at_the_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Death_at_the_Club"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘It was so satisfying when I threw a rock through the screen’: the people sick of being spied on by their smart TV",
-      "body": "<p>Is your television listening to every conversation? Filling your home with highly invasive ads? Some viewers have had enough of tech violating their privacy</p><p>When Dan had had enough of his television, he threw a rock straight throug",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Fair Game is a 1995 American action thriller film directed by Andrew Sipes from the screenplay by Charlie Fletcher.",
-      "body": "Fair Game is based on Paula Gosling's 1974 novel A Running Duck, which was previously adapted into the 1986 film Cobra. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c9/Fair_game.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fair_Game_(1995_film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1997 —",
-      "hook": "Danish fugitive Steen Christensen kills two police officers, Chief Constable Eero Holsti and Senior Constable Antero Palo, in Ullanlinna, Helsinki, Finland during his prison escape.",
-      "body": "Steen Viktor Christensen is a Danish criminal, who was sentenced in Denmark in 1992 to twelve years in prison for numerous bank robberies, hostage taking, and rape. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Steen_Christensen"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
-      "body": "<p>Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain</p><p>A sense of desperation is understandably in the air over at DC, the company, ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror"
+      "url": "https://en.wikipedia.org/wiki/2014_shootings_at_Parliament_Hill"
     }
   ]
 }
