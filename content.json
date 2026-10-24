@@ -1,46 +1,131 @@
 {
-  "generated": "2026-10-24T19:06:31.881Z",
+  "generated": "2026-10-24T22:00:40.431Z",
   "count": 18,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1273 —",
+      "hook": "Rudolf of Habsburg is crowned king of the Romans in Aachen.",
+      "body": "Rudolf of Habsburg (1 May 1218 – 15 July 1291) was a German nobleman and the first member of the House of Habsburg to become King of the Romans, reigning from 1273 until his death. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kaiser_Rudolf_I._1275.jpg/330px-Kaiser_Rudolf_I._1275.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Amy Winehouse musical in development for West End",
+      "body": "<p>Stage show based on late singer reportedly set to feature her best-loved songs with involvement from her father Mitch</p><p>A musical based on <a href=\"https://www.theguardian.com/music/amywinehouse\">Amy Winehouse</a> is in development f",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/oct/22/amy-winehouse-musical-west-end"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "TV stars to marry in chapel home after proposal 'on Welsh soil'",
+      "body": "Keith Brymer Jones and Marj Hogarth are to marry in their chapel home in Pwllheli in May 2027.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cw30ej25lvypo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2003 —",
+      "hook": "Concorde makes its last commercial flight.",
+      "body": "Concorde is a retired Anglo-French supersonic airliner jointly developed and manufactured by Sud Aviation and the British Aircraft Corporation (BAC). Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/330px-British_Airways_Concorde_G-BOAC_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Concorde"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Clio Barnard’s ‘I See Buildings Fall Like Lightning’ takes top prize at Rome Film Fest",
+      "body": "Barnard’s Birmingham-set drama wins best film prize in Rome’s Progressive Cinema competition.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/clio-barnards-i-see-buildings-fall-like-lightning-takes-top-prize-at-rome-film-fest/5221752.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1912 —",
+      "hook": "First Balkan War: The Battle of Kirk Kilisse concludes with a Bulgarian victory against the Ottoman Empire.",
+      "body": "The First Balkan War lasted from October 1912 to May 1913 and involved actions of the Balkan League against the Ottoman Empire. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Balkanskata_voina_Photobox.jpg/330px-Balkanskata_voina_Photobox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/First_Balkan_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1998 —",
+      "hook": "Deep Space 1 is launched to explore the asteroid belt and test new spacecraft technologies.",
+      "body": "Deep Space 1 (DS1) was a NASA technology demonstration spacecraft which flew by an asteroid and a comet. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Deep_Space_1_clean_%28PIA04242%29.png/330px-Deep_Space_1_clean_%28PIA04242%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Deep_Space_1"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Atharva – The Origin is a graphic novel written by Ramesh Thamilmani and illustrated by MS Dhoni.",
-      "body": "Vel mohan, Vincent Adaikalaraj and Ashok Manor. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/be/Atharva_%E2%80%93_The_Origin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The White Rose Way is a 104 miles (167 km) walking trail in England from Leeds, West Yorkshire to Scarborough, North Yorkshire.",
+      "body": "It was created in 2011 by local author Paul Brown. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Langdale_End.jpg/330px-Langdale_End.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Atharva_%E2%80%93_The_Origin"
+      "url": "https://en.wikipedia.org/wiki/White_Rose_Way_(walking_trail)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Dwarf Sports Association UK (DSAUK) aims to \"make regular sporting opportunities accessible and enjoyable to ...",
+      "body": "everyone of restricted growth in the United Kingdom\". The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dwarf_Sports_Association_UK"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The Amulet of Samarkand is a young adult novel of alternate history, fantasy and magic.",
-      "body": "It is the first book in the Bartimaeus Sequence written by English author Jonathan Stroud. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Amulet_of_Samarkand.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Pendle Hill is in the east of Lancashire, England, near the towns of Burnley, Nelson, Colne, Brierfield, Clitheroe and Padiham.",
+      "body": "Its summit is 557 metres (1,827 ft) above mean sea level. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pendle_Hill_and_the_Ribble_Valley_-_geograph.org.uk_-_72304.jpg/330px-Pendle_Hill_and_the_Ribble_Valley_-_geograph.org.uk_-_72304.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Amulet_of_Samarkand"
+      "url": "https://en.wikipedia.org/wiki/Pendle_Hill"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1947 —",
-      "hook": "Famed animator Walt Disney testifies before the House Un-American Activities Committee, naming Disney employees he believes to be communists.",
-      "body": "Walter Elias Disney was an American animator, film producer, voice actor, and entrepreneur. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Walt_Disney_1946_%28cropped2%29.JPG/330px-Walt_Disney_1946_%28cropped2%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Walt_Disney"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Anthony LaPaglia: ‘There is not a role I didn’t get that I ever gave more than four hours of grievance to – even Tony Soprano’",
+      "body": "<p>The actor on surviving 2000s network television in Without a Trace, the role that made him take Brad Pitt seriously, and leaving the US to ‘ride out Trump’</p><ul><li><p><a href=\"https://www.theguardian.com/lifeandstyle/2026/sep/25/saved",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/25/anthony-lapaglia-10-chaotic-questions-interview"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1954 —",
-      "hook": "US President Dwight D. Eisenhower pledges United States support to South Vietnam.",
-      "body": "Dwight David Eisenhower was the 34th president of the United States, serving from 1953 to 1961. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Chessboards: The Planes of Possibility is a book published by Wizards of the Coast (WotC) in 1993 that is a supplement to The Primal Order, WotC's first publication.",
+      "body": "Chessboards sets out a system for planar construction that can be used with many of the popular fantasy role-playing game system of the time. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e2/Cover_of_The_Primal_Order_Chessboards_1993.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chessboards%3A_The_Planes_of_Possibility"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in October: new paperbacks from Zadie Smith, Thomas Pynchon and Francis Spufford",
+      "body": "<p>Looking for a new reading recommendation? Here are some brilliant new paperbacks, from a time-travelling fantasy novel to an eclectic essay collection. Discuss what you’re reading in paperback in the comments</p><p>***</p> <a href=\"https",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/oct/14/the-best-books-to-read-in-october-new-paperbacks-from-zadie-smith-thomas-pynchon-and-francis-spufford"
     },
     {
       "type": "card",
@@ -54,126 +139,41 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1963 —",
-      "hook": "An oxygen leak from an R-9 Desna missile at the Baikonur Cosmodrome triggers a fire that kills seven people.",
-      "body": "The R-9 was a two-stage ICBM of the Soviet Union, in service from 1964 to 1976. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Za_Rodinu.jpg/330px-Za_Rodinu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 69 —",
+      "hook": "In the Second Battle of Bedriacum, troops loyal to Vespasian defeat those of Emperor Vitellius.",
+      "body": "AD 69 (LXIX) was a common year starting on Sunday of the Julian calendar. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Roman_Empire_69.svg/330px-Roman_Empire_69.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/R-9_Desna"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Asle og Alida is a Norwegian opera in two acts composed by Bent Sørensen with a libretto in Nynorsk by Nobel Prize winner Jon Fosse, based on his Trilogy novellas.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Asle_og_Alida"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1947 —",
-      "hook": "United Air Lines Flight 608 crashes in the Bryce Canyon National Park in Garfield County, Utah, while attempting an emergency landing at Bryce Canyon Airport, killing 52 people.",
-      "body": "United Air Lines Flight 608 was a Douglas DC-6 airliner, registration NC37510, on a scheduled passenger flight from Los Angeles to Chicago when it crashed at 12:29 pm on October 24, 1947, about 1.5 miles (2.4 km) southeast of Bryce Canyon Airport, Utah, United States. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/6609-UAL-DC-6-NorthRampStapletonDEN.jpg/330px-6609-UAL-DC-6-NorthRampStapletonDEN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/United_Air_Lines_Flight_608"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "TV stars to marry in chapel home after proposal 'on Welsh soil'",
-      "body": "Keith Brymer Jones and Marj Hogarth are to marry in their chapel home in Pwllheli in May 2027.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cw30ej25lvypo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Skydance employees brace for expected restructure as megamerger dust settles",
-      "body": "<p>Battle far from over after Paramount and Warner Bros deal creates new global entertainment powerhouse</p><p>“It feels like the calm before the storm,” says an executive at Skydance, the newly minted media empire formed from the megamerge",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "The United Nations Charter comes into effect.",
-      "body": "The Charter of the United Nations, also referred to as the UN Charter, is the foundational treaty of the United Nations that founded the organization. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Uncharter.pdf/page1-330px-Uncharter.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Charter_of_the_United_Nations"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Amy Winehouse musical in development for West End",
-      "body": "<p>Stage show based on late singer reportedly set to feature her best-loved songs with involvement from her father Mitch</p><p>A musical based on <a href=\"https://www.theguardian.com/music/amywinehouse\">Amy Winehouse</a> is in development f",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/oct/22/amy-winehouse-musical-west-end"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Keep the Home Guard Turning is a 1943 comedy novel by the British writer Compton Mackenzie.",
-      "body": "It portrays the activities of the Home Guard on a remote Scottish island during the Second World War. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/56/Keep_the_Home_Guard_Turning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Keep_the_Home_Guard_Turning"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2003 —",
-      "hook": "Concorde makes its last commercial flight.",
-      "body": "Concorde is a retired Anglo-French supersonic airliner jointly developed and manufactured by Sud Aviation and the British Aircraft Corporation (BAC). One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/330px-British_Airways_Concorde_G-BOAC_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Concorde"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Unlike anything we’ve experienced’: fans swarm San Francisco for BTS star’s art exhibition",
-      "body": "<p>K-pop star RM gave a boost to the previously struggling SFMOMA with an exhibition of over 100 pieces from his collection</p><p>Two years ago, RM of the wildly popular K-pop boyband <a href=\"https://www.theguardian.com/music/bts\">BTS</a> ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/24/rm-bts-sfmoma-exhibition"
+      "url": "https://en.wikipedia.org/wiki/AD_69"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "‘Our third date was at Buckingham Palace’: Marlon James and Nicholas Boggs on life as a literary power couple",
-      "body": "<p>Shortlisted for the Booker and Baillie Gifford prizes respectively, the novelist and biographer talk about working and living together – and giving a voice to Black queer history</p><p>The literary power couple is a historically seductiv",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/24/our-third-date-was-at-buckingham-palace-marlon-james-and-nicholas-boggs-on-life-as-a-literary-power-couple"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2018 —",
+      "hook": "The world's longest sea crossing, the Hong Kong–Zhuhai–Macau Bridge, opens for public traffic.",
+      "body": "The Hong Kong–Zhuhai–Macau Bridge (HZMB) is a 55-kilometre (34 mi) bridge–tunnel system consisting of a series of three cable-stayed bridges, an undersea tunnel, and four artificial islands. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/West_section_of_Hong_Kong-Zhuhai-Macau_Bridge_%2820180902174105%29.jpg/330px-West_section_of_Hong_Kong-Zhuhai-Macau_Bridge_%2820180902174105%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hong_Kong%E2%80%93Zhuhai%E2%80%93Macau_Bridge"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Een overtollig mens is a Dutch novel written by Maarten Biesheuvel.",
-      "body": "The book explores themes of existentialism, isolation, and the search for meaning in a modern world. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Maarten_Biesheuvel_met_Boekenweekgeschenk88%2C_Bestanddeelnr_934-1901.jpg/330px-Maarten_Biesheuvel_met_Boekenweekgeschenk88%2C_Bestanddeelnr_934-1901.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Learning the World is a science fiction novel by British writer Ken MacLeod, published in 2005.",
+      "body": "It won the 2006 Prometheus Award, was nominated for the Hugo, Locus, Clarke, and Campbell Awards that same year, and received a BSFA nomination in 2005. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/LearningTheWorld.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Een_overtollig_mens"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Clio Barnard’s ‘I See Buildings Fall Like Lightning’ takes top prize at Rome Film Fest",
-      "body": "Barnard’s Birmingham-set drama wins best film prize in Rome’s Progressive Cinema competition.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/clio-barnards-i-see-buildings-fall-like-lightning-takes-top-prize-at-rome-film-fest/5221752.article"
+      "url": "https://en.wikipedia.org/wiki/Learning_the_World"
     }
   ]
 }
