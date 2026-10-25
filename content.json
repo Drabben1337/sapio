@@ -1,73 +1,94 @@
 {
-  "generated": "2026-10-25T17:54:26.915Z",
-  "count": 18,
+  "generated": "2026-10-25T20:02:25.495Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Sam Fender calls out ticket prices ahead of tour",
-      "body": "The Geordie singer says on Instagram he is \"not happy\" with the reported ticket prices.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on the modern romantasy novel – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/oct/25/tom-gauld-on-the-modern-romantasy-novel-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/oct/25/tom-gauld-on-the-modern-romantasy-novel-cartoon"
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "The population was 17,971 at the 2020 census.",
+      "body": "Doylestown Township is a township in Bucks County, Pennsylvania, United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Fretz_Mansion%2C_Doylestown_PA_02.JPG/330px-Fretz_Mansion%2C_Doylestown_PA_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doylestown_Township%2C_Pennsylvania"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Mastram is a 2014 Indian Hindi-language biographical film directed by Akhilesh Jaiswal, and starring Rahul Bagga and Tara Alisha Berry.",
-      "body": "The film is about an aspiring litterateur turning into an initially reluctant finally full-fledged pornographic writer, inspired by the anonymous author of popular pulp fiction and sex stories in Hindi, only known as Mastram. The world is stranger than it lets",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/25/Mastram_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Foxfire is a 1996 American teen drama film directed by Annette Haywood-Carter.",
+      "body": "Based on the Joyce Carol Oates novel Foxfire: Confessions of a Girl Gang, it examines the coming of age of four high school girls who meet up with a mysterious and beautiful drifter. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6f/Foxfireposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mastram"
+      "url": "https://en.wikipedia.org/wiki/Foxfire_(1996_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2023 —",
+      "hook": "A mass shooting occurs in two locations in Lewiston, Maine. 18 people are killed and 13 more injured.",
+      "body": "On October 25, 2023, 40-year-old Robert Card carried out a spree shooting in Lewiston, Maine, United States, killing 18 people and wounding 13 others. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2023_Lewiston_shooting_Montage.jpg/330px-2023_Lewiston_shooting_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2023_Lewiston_shootings"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1962 —",
+      "hook": "Cuban Missile Crisis: Adlai Stevenson shows the United Nations Security Council reconnaissance photographs of Soviet ballistic missiles in Cuba.",
+      "body": "The Cuban Missile Crisis, also known as the October Crisis in Cuba, or the Caribbean Crisis, was a 13-day confrontation between the governments of the United States and the Soviet Union, when American deployments of nuclear missiles in the United Kingdom, Italy and Turkey were matched by Soviet deployments of nuclear missiles in Cuba. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/PGM-19A_Jupiter_missile-02.jpg/330px-PGM-19A_Jupiter_missile-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "As of 2010 the church is being converted into a community facility for the village and locality.",
+      "body": "All Saints Church is a redundant Anglican church in the village of Harthill, Cheshire, England. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/All_Saints_Church%2C_Harthill.jpg/330px-All_Saints_Church%2C_Harthill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/All_Saints_Church%2C_Harthill"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Project X is a 1968 American science fiction film produced and directed by William Castle, and starring Christopher George, Greta Baldwin, Henry Jones, Monte Markham, and Harold Gould.",
+      "body": "It is based on the novels The Artificial Man (1965) and Psychogeist (1966) by L. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/99/Project_X_%281968_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Project_X_(1968_film)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "‘There’s nothing interesting about me – and no interest in me’: how Larry David’s new biography nearly didn’t happen",
-      "body": "<p>He point-blank refused, begged the author not to talk to people who knew him … and eventually relented. Making the first authorised biography of the Seinfeld and Curb creator was no mean feat</p><p>Emperor of Nothing: The Making of Larry",
+      "hook": "‘I’d rather live through something publicly than escape it privately’: Jack Antonoff on survivor’s guilt, songwriting and his shock divorce",
+      "body": "<p>Whether he’s playing the role of soul-baring artist or starry producer, the Bleachers frontman strives to keep his integrity intact. He weighs in on Ed Sheeran, his love of working on ‘high-stakes’ albums and and why he’ll never stop sin",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/theres-nothing-interesting-about-me-and-no-interest-in-me-how-larry-davids-new-biography-nearly-didnt-happen"
+      "url": "https://www.theguardian.com/music/2026/oct/25/jack-antonoff-bleachers-interview-producer-kendrick-springsteen-taylor-swift"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2010 —",
-      "hook": "A magnitude 7.8 earthquake strikes off Indonesia's Mentawai Islands, triggering a tsunami that kills at least 400 people.",
-      "body": "The 2010 Mentawai earthquake occurred with a moment magnitude of 7.8 on 25 October off the western coast of Sumatra at 21:42 local time. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Shakemap_October_2010_Indonesia.jpg/330px-Shakemap_October_2010_Indonesia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1983 —",
+      "hook": "The United States and its Caribbean allies invade Grenada, six days after Prime Minister Maurice Bishop and several of his supporters are executed in a coup d'état.",
+      "body": "The United States and a coalition of Caribbean countries invaded the island nation of Grenada at dawn on 25 October 1983. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/CH-53D_HMM-261_Grenada_Okt1983.jpeg/330px-CH-53D_HMM-261_Grenada_Okt1983.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2010_Mentawai_earthquake_and_tsunami"
+      "url": "https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Anders Johan Ture Rangström belonged to a new generation of Swedish composers who, in the first decade of the 20th century, introduced modernism to their compositions.",
-      "body": "In addition to composing, Rangström was also a musical critic and conductor. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ture_Rangstr%C3%B6m.jpg/330px-Ture_Rangstr%C3%B6m.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ture_Rangstr%C3%B6m"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Chambe Peak is a peak of Mulanje Massif, one of the highest mountains in Southern Africa, with an elevation of 3,002 meters (9,849 ft.).",
-      "body": "A steep path provides a great view across Southern Malawi and Mozambique on a clear day. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Chambe.jpg/330px-Chambe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chambe_Peak"
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Why the charts are full of old songs - and so are your playlists",
+      "body": "The chart is full is full of old music and classic songs are dominating streaming services. But why?",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -80,12 +101,32 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Death in High Heels is a 1941 crime novel by the British author Christianna Brand.",
+      "body": "Her debut novel, it featured Inspector Charlesworth, a young detective with Scotland Yard, who is called in when a young woman is murdered at an upmarket dress shop in London's Bond Street. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1d/Death_in_High_Heels_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Death_in_High_Heels_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Ahmed Ali was a Pakistani novelist, poet, critic, translator, diplomat and scholar.",
+      "body": "A pioneer of the modern Urdu short story, his works include the short story collections: Angarey (Embers), 1932; Hamari Gali, 1940; Qaid Khana, 1942; and Maut Se Pehle, 1945. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Ahmed_Ali_%28Pakistani_writer%29%2C_1974.jpg/330px-Ahmed_Ali_%28Pakistani_writer%29%2C_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ahmed_Ali_(writer)"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘I’d rather live through something publicly than escape it privately’: Jack Antonoff on survivor’s guilt, songwriting and his shock divorce",
-      "body": "<p>Whether he’s playing the role of soul-baring artist or starry producer, the Bleachers frontman strives to keep his integrity intact. He weighs in on Ed Sheeran, his love of working on ‘high-stakes’ albums and and why he’ll never stop sin",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/oct/25/jack-antonoff-bleachers-interview-producer-kendrick-springsteen-taylor-swift"
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on the modern romantasy novel – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/oct/25/tom-gauld-on-the-modern-romantasy-novel-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/oct/25/tom-gauld-on-the-modern-romantasy-novel-cartoon"
     },
     {
       "type": "card",
@@ -99,81 +140,60 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1927 —",
-      "hook": "The Italian luxury liner SS Principessa Mafalda sinks off the coast of Brazil, killing 314.",
-      "body": "SS Principessa Mafalda was an Italian transatlantic ocean liner built for the Navigazione Generale Italiana (NGI) company. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Principessa_Mafalda.jpg/330px-Principessa_Mafalda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 473 —",
+      "hook": "Emperor Leo I acclaims his grandson Leo II as Caesar of the East Roman Empire.",
+      "body": "Leo I, also known as the Thracian, was Eastern Roman emperor from 457 to 474. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Leo_I_Louvre_Ma1012_n2.jpg/330px-Leo_I_Louvre_Ma1012_n2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/SS_Principessa_Mafalda"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1995 —",
-      "hook": "A commuter train slams into a school bus in Fox River Grove, Illinois, killing seven students.",
-      "body": "The 1995 Fox River Grove bus–train collision was a grade crossing collision that killed seven students riding aboard a school bus in Fox River Grove, Illinois, on the morning of October 25, 1995. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Fox_river_grove_1995_bus_accident_scene.jpg/330px-Fox_river_grove_1995_bus_accident_scene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1995_Fox_River_Grove_bus%E2%80%93train_collision"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Militant use of children in Sri Lanka has been an internationally recognized problem since the inception of the Sri Lankan civil war in 1983.",
-      "body": "The primary recruiters of under the age of 18 children are the rebel LTTE movement and the Karuna group, a break-away faction of the LTTE working with Sri Lanka Forces. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Child_soldiers_in_Sri_Lanka"
+      "url": "https://en.wikipedia.org/wiki/Leo_I_(emperor)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Why the charts are full of old songs - and so are your playlists",
-      "body": "The chart is full is full of old music and classic songs are dominating streaming services. But why?",
+      "hook": "Sam Fender calls out ticket prices ahead of tour",
+      "body": "The Geordie singer says on Instagram he is \"not happy\" with the reported ticket prices.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1980 —",
-      "hook": "Proceedings on the Hague Convention on the Civil Aspects of International Child Abduction conclude.",
-      "body": "The Hague Convention on the Civil Aspects of International Child Abduction or Hague Abduction Convention is a multilateral treaty that provides an expeditious method to return a child who was wrongfully taken by a parent from one country to another country. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/HagueAbductionConvention_RatificationsandAccessions.svg/330px-HagueAbductionConvention_RatificationsandAccessions.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1918 —",
+      "hook": "British forces attack Turkish forces under Mustafa Kemal in the battle of Aleppo, which the British capture the following day.",
+      "body": "Mustafa Kemal Atatürk was a Turkish field marshal and statesman who was the founder of the Republic of Turkey and served as its first president from 1923 until his death in 1938. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Ataturk1930s.jpg/330px-Ataturk1930s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hague_Convention_on_the_Civil_Aspects_of_International_Child_Abduction"
+      "url": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘There’s nothing interesting about me – and no interest in me’: how Larry David’s new biography nearly didn’t happen",
+      "body": "<p>He point-blank refused, begged the author not to talk to people who knew him … and eventually relented. Making the first authorised biography of the Seinfeld and Curb creator was no mean feat</p><p>Emperor of Nothing: The Making of Larry",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/theres-nothing-interesting-about-me-and-no-interest-in-me-how-larry-davids-new-biography-nearly-didnt-happen"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1147 —",
-      "hook": "Reconquista: After a siege of four months, crusader knights conquer Lisbon.",
-      "body": "The siege of Lisbon, from 1 July to 25 October 1147, was the military action against the Almoravid dynasty that brought the city of Lisbon under the definitive control of the new Christian power, the Kingdom of Portugal. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Conquista_de_Lisboa_%28Roque_Gameiro%2C_Quadros_da_Hist%C3%B3ria_de_Portugal%2C_1917%29.png/330px-Conquista_de_Lisboa_%28Roque_Gameiro%2C_Quadros_da_Hist%C3%B3ria_de_Portugal%2C_1917%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1932 —",
+      "hook": "George Lansbury became the leader of the opposition British Labour Party.",
+      "body": "George Lansbury was a British politician and social reformer who led the Labour Party from 1932 to 1935. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/George-Lansbury.jpg/330px-George-Lansbury.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Siege_of_Lisbon"
+      "url": "https://en.wikipedia.org/wiki/George_Lansbury"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Eduard Strauch was a German lawyer, SS-Obersturmbannführer and convicted war criminal.",
-      "body": "During the Second World War, he served as the commander of Einsatzkommando 2 during the invasion of the Soviet Union and participated in the Rumbula massacre. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Eduard_Strauch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Shooter is a 2007 American action thriller film directed by Antoine Fuqua and written by Jonathan Lemkin, based on the 1993 novel Point of Impact by Stephen Hunter.",
+      "body": "The film also stars Michael Peña, Danny Glover, Kate Mara, Levon Helm, and Ned Beatty. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7a/Shooter2007Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Eduard_Strauch"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1854 —",
-      "hook": "The Battle of Balaclava takes place during the Crimean War. It is soon memorialized in verse as The Charge of the Light Brigade.",
-      "body": "The Battle of Balaclava, fought on 25 October 1854 during the Crimean War, was part of the Siege of Sevastopol (1854–55), an attempt by the British, French and Ottoman allies to capture the port and fortress of Sevastopol, Russia's principal naval base on the Black Sea. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Charge_of_the_Light_Brigade%2C_Balaclava%2C_25_October_1854.jpg/330px-Charge_of_the_Light_Brigade%2C_Balaclava%2C_25_October_1854.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Balaclava"
+      "url": "https://en.wikipedia.org/wiki/Shooter_(2007_film)"
     }
   ]
 }
