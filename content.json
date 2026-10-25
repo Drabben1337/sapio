@@ -1,35 +1,94 @@
 {
-  "generated": "2026-10-25T05:24:43.216Z",
-  "count": 18,
+  "generated": "2026-10-25T10:13:39.386Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1989 —",
-      "hook": "The first leg of the 1989 Supertaça Cândido de Oliveira is held at the Estádio da Luz in Lisbon, Portugal.",
-      "body": "The 1989 Supertaça Cândido de Oliveira was the 11th edition of the Supertaça Cândido de Oliveira, the annual Portuguese football season-opening match contested by the winners of the previous season's top league and cup competitions. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1989_Superta%C3%A7a_C%C3%A2ndido_de_Oliveira"
+      "opener": "File under 'wait, really?' —",
+      "hook": "It was established by Aldo Grimaldi in 1992.",
+      "body": "Grandi Navi Veloci (GNV) is an Italian shipping company, based in Genoa, that operates ferries between mainland Italy, Sicily, Sardinia, France, Spain, Albania, Morocco and Tunisia. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/SNAV_Sardegna_%28ship%2C_1989%29%2C_S%C3%A8te_01.jpg/330px-SNAV_Sardegna_%28ship%2C_1989%29%2C_S%C3%A8te_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grandi_Navi_Veloci"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Golden Boy is the second novel by Abigail Tarttelin, published in 2013 about an intersex teenager, Max, and his family.",
+      "body": "It was described as a \"dazzling debut\" by Oprah's Book Club. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/af/Golden-Boy-%28novel%29-UK-cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Golden_Boy_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Angel Raymond Wagenstein was a Bulgarian screenwriter and author.",
+      "body": "He was the author of over fifty screenplays for films, documentaries and cartoons and is most known for his movies about Bulgarian Communists. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/AngelWagenstein.jpg/330px-AngelWagenstein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Angel_Wagenstein"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 473 —",
-      "hook": "Emperor Leo I acclaims his grandson Leo II as Caesar of the East Roman Empire.",
-      "body": "Leo I, also known as the Thracian, was Eastern Roman emperor from 457 to 474. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Leo_I_Louvre_Ma1012_n2.jpg/330px-Leo_I_Louvre_Ma1012_n2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1971 —",
+      "hook": "The People's Republic of China replaces the Republic of China at the United Nations.",
+      "body": "China, officially the People's Republic of China (PRC), is a country in East Asia. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/330px-Flag_of_the_People%27s_Republic_of_China.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Leo_I_(emperor)"
+      "url": "https://en.wikipedia.org/wiki/China"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Pavlo Khazan is a Ukrainian scientist, politician, Colonel of the Armed Forces of Ukraine, participant in the Russian War in Ukraine, co-founder of the environmental monitoring system, and a Deputy of the Dnipropetrovsk Oblast Council .",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pavlo_Khazan"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Confession is a 2010 legal thriller novel by John Grisham, the second of two novels published in 2010.",
+      "body": "It was Grisham's first novel to be released simultaneously in digital and hardcover format. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/25/The_Cover_Of_The_Confession.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Confession_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Razor's Edge is a 1984 American historical drama film directed and co-written by John Byrum starring Bill Murray, Theresa Russell, Catherine Hicks, Denholm Elliott, Brian Doyle-Murray, and James Keach.",
+      "body": "The film follows Larry Darrell, a traumatized World War I veteran who goes on a quest for meaning that leads him through Paris and to the Indian Himalayas. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/82/Razors_edge_84.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Razor's_Edge_(1984_film)"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "Raye wins the Mercury Prize with This Music May Contain Hope",
-      "body": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
+      "hook": "Sam Fender calls out ticket prices ahead of tour",
+      "body": "The Geordie singer says on Instagram he is \"not happy\" with the reported ticket prices.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I’d rather live through something publicly than escape it privately’: Jack Antonoff on survivor’s guilt, songwriting and his shock divorce",
+      "body": "<p>Whether he’s playing the role of soul-baring artist or starry producer, the Bleachers frontman strives to keep his integrity intact. He weighs in on Ed Sheeran, his love of working on ‘high-stakes’ albums and and why he’ll never stop sin",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/oct/25/jack-antonoff-bleachers-interview-producer-kendrick-springsteen-taylor-swift"
     },
     {
       "type": "card",
@@ -42,13 +101,13 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "I'll Give You the Sun is a young adult novel by author Jandy Nelson.",
-      "body": "Published in September 2014, it is Nelson's second novel. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/I%27ll_Give_You_the_Sun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/I'll_Give_You_the_Sun"
+      "cat": "history",
+      "opener": "On this day in 1983 —",
+      "hook": "The United States and its Caribbean allies invade Grenada, six days after Prime Minister Maurice Bishop and several of his supporters are executed in a coup d'état.",
+      "body": "The United States and a coalition of Caribbean countries invaded the island nation of Grenada at dawn on 25 October 1983. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/CH-53D_HMM-261_Grenada_Okt1983.jpeg/330px-CH-53D_HMM-261_Grenada_Okt1983.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada"
     },
     {
       "type": "card",
@@ -61,42 +120,61 @@
     },
     {
       "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Resurgence (2002) is a science fiction novel by American writer Charles Sheffield, the finale of the Heritage Universe and the last book he published.",
+      "body": "Following the previous book in the series, Convergence, there are no more Builder artifacts left in the part of the galaxy explored by the four clades of the Orion Arm. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/68/ResurgenceNovel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Resurgence_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1932 —",
+      "hook": "George Lansbury became the leader of the opposition British Labour Party.",
+      "body": "George Lansbury was a British politician and social reformer who led the Labour Party from 1932 to 1935. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/George-Lansbury.jpg/330px-George-Lansbury.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/George_Lansbury"
+    },
+    {
+      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "The best books to read in October: new paperbacks from Zadie Smith, Thomas Pynchon and Francis Spufford",
-      "body": "<p>Looking for a new reading recommendation? Here are some brilliant new paperbacks, from a time-travelling fantasy novel to an eclectic essay collection. Discuss what you’re reading in paperback in the comments</p><p>***</p> <a href=\"https",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/oct/14/the-best-books-to-read-in-october-new-paperbacks-from-zadie-smith-thomas-pynchon-and-francis-spufford"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Lady of Lebanon is a 1934 French thriller film directed by Jean Epstein, starring Andrée Spinelly and Jean Murat.",
-      "body": "The narrative is set in Lebanon and follows a web of espionage with clashes between the French and British secret services, with a beautiful young woman at the centre. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/00/The_Lady_of_Lebanon_%281934_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Lady_of_Lebanon_(1934_film)"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1945 —",
-      "hook": "Fifty years of Japanese administration of Taiwan formally ends when the Republic of China assumes control.",
-      "body": "Taiwan, officially the Republic of China (ROC), is a country in East Asia comprising primarily the island of Taiwan, formerly known as Formosa, which has an area of 35,808 km2 (13,826 sq mi) and makes up 99% of the land under ROC control. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Landform_of_Formosa.png/330px-Landform_of_Formosa.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1999 —",
+      "hook": "A Learjet 35 crashes in Mina near Aberdeen, South Dakota, killing all six people on board, including PGA golfer Payne Stewart and golf course designer Bruce Borland.",
+      "body": "The Learjet Model 35 and Model 36 are a series of American multi-role business jets and military transport aircraft manufactured by Learjet between 1973 and 1993. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Learjet_35_%288738280921%29.jpg/330px-Learjet_35_%288738280921%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Geography_of_Taiwan"
+      "url": "https://en.wikipedia.org/wiki/Learjet_35"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Raye wins the Mercury Prize with This Music May Contain Hope",
+      "body": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1949 —",
-      "hook": "The Battle of Guningtou in the Taiwan Strait begins.",
-      "body": "The Battle of Guningtou (古寧頭之役), also known as the Battle of Kuningtou or the Battle of Kinmen, was fought in October 1949 on the island of Kinmen (Quemoy), located in the Taiwan Strait, during the final stages of the Chinese Civil War. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/ROC_Quemoy.png/330px-ROC_Quemoy.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2001 —",
+      "hook": "Microsoft releases Windows XP, which becomes one of Microsoft's most successful operating systems.",
+      "body": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Guningtou"
+      "url": "https://en.wikipedia.org/wiki/Microsoft"
     },
     {
       "type": "card",
@@ -110,70 +188,12 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1747 —",
-      "hook": "War of the Austrian Succession: A British fleet under Admiral Edward Hawke defeats the French at the Second Battle of Cape Finisterre.",
-      "body": "The second battle of Cape Finisterre was a naval encounter fought during the War of the Austrian Succession on 25 October 1747. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Combat_naval_bataille_cap_finisterre_octobre_1747.jpg/330px-Combat_naval_bataille_cap_finisterre_octobre_1747.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1920 —",
+      "hook": "After 74 days on hunger strike in Brixton Prison, England, the Sinn Féin Lord Mayor of Cork, Terence MacSwiney dies.",
+      "body": "Terence James MacSwiney was an Irish playwright, author and politician. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Terence_MacSwiney_circle.png/330px-Terence_MacSwiney_circle.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Cape_Finisterre"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1968 —",
-      "hook": "Soyuz 2 is launched.",
-      "body": "Soyuz 2 was an uncrewed spacecraft in the Soyuz family, intended to be the target of a docking maneuver by the crewed Soyuz 3 spacecraft. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Soyuz_2"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Sprat Morrison (ISBN 0-582-05207-6) is a children's book published in 1972, and the first novel written by Jamaican author Jean D'Costa.",
-      "body": "The book is about the adventures of a young boy living in Papine, a suburb of Kingston. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/3f/Sprat_Morrison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sprat_Morrison"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Sam Fender calls out ticket prices ahead of tour",
-      "body": "The Geordie singer says on Instagram he is \"not happy\" with the reported ticket prices.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "L'auca del senyor Esteve is a novel by Santiago Rusiñol published in 1907, of which there is a theatrical version.",
-      "body": "On 12 May 1917, the theatrical version of this novel is first played in Teatre Victòria, Barcelona (Catalonia). Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Auca_del_senyor_Esteve_-_Carrer_Petritxol.JPG/330px-Auca_del_senyor_Esteve_-_Carrer_Petritxol.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/L'auca_del_senyor_Esteve"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Darah Muda is a 1927 novel written by Indonesian writer Djamaluddin Adinegoro and published by Balai Pustaka.",
-      "body": "It is one of few Indonesian novels from the period in which the protagonists succeed in love. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Darah_Muda"
+      "url": "https://en.wikipedia.org/wiki/Terence_MacSwiney"
     }
   ]
 }
