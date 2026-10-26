@@ -1,134 +1,54 @@
 {
-  "generated": "2026-10-26T00:47:03.921Z",
-  "count": 23,
+  "generated": "2026-10-26T05:29:11.670Z",
+  "count": 19,
   "items": [
     {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
-    },
-    {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Danis Mahmut Mehmet Salman, sometimes known as Danny Salman, is an English former professional football player and coach, best remembered for his time as a defender in the Football League with Brentford.",
-      "body": "He made over 380 appearances for the Bees, is the club's youngest-ever league debutant and was inducted into the club's Hall of Fame. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Danis_Salman"
+      "cat": "history",
+      "opener": "On this day in 1860 —",
+      "hook": "Unification of Italy: The Expedition of the Thousand ends when Giuseppe Garibaldi presents his conquests to King Victor Emmanuel of Sardinia.",
+      "body": "The unification of Italy, also known as the Risorgimento, was the 19th-century political and social movement that in 1861 ended in the annexation of various states of the Italian Peninsula and its outlying isles to the Kingdom of Sardinia, resulting in the creation of the Kingdom of Italy. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Episodio_delle_cinque_giornate_%28Baldassare_Verazzi%29.jpg/330px-Episodio_delle_cinque_giornate_%28Baldassare_Verazzi%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Unification_of_Italy"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1956 —",
-      "hook": "Hungarian Revolution: In the towns of Mosonmagyaróvár and Esztergom, Hungarian secret police forces massacre civilians. As rebel strongholds in Budapest hold, fighting spreads throughout the country.",
-      "body": "The Hungarian Revolution of 1956, also known as the Hungarian Uprising, was an attempted countrywide revolution against the government of the Hungarian People's Republic (1949–1989) and the policies caused by the government's subordination to the Union of Soviet Socialist Republics (USSR). Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/330px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1597 —",
+      "hook": "Imjin War: Korean Admiral Yi Sun-sin routs the Japanese Navy of 300 ships with only 13 ships at the Battle of Myeongnyang.",
+      "body": "The Imjin War was a series of two Japanese invasions of Korea: an initial invasion in 1592 also individually called the \"Imjin War\", a brief truce in 1596 between the conflicts, followed by a second invasion in 1597 called the Chŏngyu War. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Siege-of-Busanjin-1592.jpg/330px-Siege-of-Busanjin-1592.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
+      "url": "https://en.wikipedia.org/wiki/Imjin_War"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Fatherland review – Sandra Hüller brings a bayonet of intelligence to Paweł Pawlikowski’s taut return",
-      "body": "<p>Hanns Zischler stars as Thomas Mann on his 1949 tour of Germany, contending with political barbs, personal tragedy and his daughter, played by an extraordinary Hüller</p><p>Here is an impossibly elegant, poised historical vignette whose ",
+      "hook": "‘Nothing worked for me until I was clean and sober’: Ashley Walters on acting, directing – and turning his life around",
+      "body": "<p>In Adolescence he proved himself one of the UK’s best actors. Now he has directed his first film, Animol. He reflects on the road from prison and addiction to soaring success</p><p>Ashley Walters seems to have lived his life on fast-forw",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/fatherland-review-sandra-huller-thomas-mann-pawel-pawlikowski-cannes-film-festivali"
+      "url": "https://www.theguardian.com/film/2026/oct/26/ashley-walters-on-acting-directing-animol"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘You Can See Everything’ climbs in second weekend at US box office, ‘Clayface’ rules on $24m",
+      "body": "‘La Bola Negra’ hits $650,000; ‘NAZA’ crosses $1m.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/you-can-see-everything-climbs-in-second-weekend-at-us-box-office-clayface-rules-on-24m/5221754.article"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Kagerō no Tsuji: Inemuri Iwane Edo Zōshi is a (2007-2010) Japanese television series, first shown on NHK on July 19, 2007, based on the Inemuri Iwane novels by Yasuhide Saeki.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "The Turkish Authors' Association is a non-profit literary and cultural association based in Ankara, Turkey.",
+      "body": "It was founded on 7 August 1978 under the name Yazarlar Birliği and adopted its present name in 1985. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/TYB_Logo.jpg/330px-TYB_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kager%C5%8D_no_Tsuji%3A_Inemuri_Iwane_Edo_Z%C5%8Dshi"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
-      "body": "The single is the second posthumous release from Parton - who was of Welsh descent.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1979 —",
-      "hook": "Park Chung Hee, President of South Korea, is assassinated by Korean CIA head Kim Jae-gyu.",
-      "body": "Park Chung Hee was a South Korean politician and army officer who seized power in the May 16 coup of 1961, and served as the third President of South Korea from 1962 until his assassination in 1979. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait_%28cropped%29.jpg/330px-Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Park_Chung_Hee"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1640 —",
-      "hook": "The Treaty of Ripon is signed, restoring peace between Covenanter Scotland and King Charles I of England.",
-      "body": "The Treaty of Ripon was a truce between Charles I, King of England, and the Covenanters, a Scottish political movement, which brought a cessation of hostilities to the Second Bishops' War. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/TreatyOfRiponPlaque.jpg/330px-TreatyOfRiponPlaque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_Ripon"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1967 —",
-      "hook": "Mohammad Reza Pahlavi crowns himself Emperor of Iran.",
-      "body": "Mohammad Reza Pahlavi was the last Shah of Iran, reigning from 1941 to 1979 as the second monarch of the Pahlavi dynasty. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Mohammad_Reza_Pahlavi_1973_portrait_%284x5_cropped%29.jpg/330px-Mohammad_Reza_Pahlavi_1973_portrait_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
+      "url": "https://en.wikipedia.org/wiki/Turkish_Authors'_Association"
     },
     {
       "type": "card",
@@ -143,68 +63,60 @@
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Maoriella is a genus of centipedes in the family Geophilidae.",
-      "body": "It was described by Austrian myriapodologist Carl Attems in 1903. Bring it up somewhere. Watch the reaction.",
+      "hook": "The International Association of Culinary Professionals (IACP) is a United States–based not-for-profit professional association whose members work in culinary education, communication, or the preparation of food and beverage.",
+      "body": "It was started in 1978 with help from American cooking personality Julia Child, and offers an award in her name. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maoriella"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Simon Phillip Cowell is an English television personality, record executive, businessman, and producer.",
-      "body": "He has judged on the British television talent competition shows Pop Idol (2001–2003), The X Factor, and Britain's Got Talent (2007–present), as well as the American television talent competition shows American Idol (2002–2010), The X Factor (2011–2013), and A",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Simon_Cowell_at_Greater_Together_LA_2026_%28cropped%29_2.jpg/330px-Simon_Cowell_at_Greater_Together_LA_2026_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Simon_Cowell"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "‘You Can See Everything’ climbs in second weekend at US box office, ‘Clayface’ rules on $24m",
-      "body": "‘La Bola Negra’ hits $650,000; ‘NAZA’ crosses $1m.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/you-can-see-everything-climbs-in-second-weekend-at-us-box-office-clayface-rules-on-24m/5221754.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Stephen Fry: ‘Sherlock Holmes altered the course of my whole life’",
-      "body": "<p>Nearly a hundred years after Arthur Conan Doyle’s last Sherlock Holmes story, the writer and broadcaster unravels the mystery of the detective’s enduring appeal</p><p>It has become quite the fashion for contemporary writers to have a go ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/25/stephen-fry-sherlock-holmes-altered-the-course-of-my-whole-life"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on the modern romantasy novel – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/oct/25/tom-gauld-on-the-modern-romantasy-novel-cartoon\">Continue reading...</a>",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/oct/25/tom-gauld-on-the-modern-romantasy-novel-cartoon"
+      "url": "https://en.wikipedia.org/wiki/International_Association_of_Culinary_Professionals"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1881 —",
-      "hook": "Wyatt Earp and Doc Holliday participate in the Gunfight at the O.K. Corral in Tombstone, Arizona.",
-      "body": "Wyatt Berry Stapp Earp was an American lawman and an assistant marshal to his brother, Virgil Earp. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Wyatt_Earp_portrait.png/330px-Wyatt_Earp_portrait.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2002 —",
+      "hook": "Approximately 50 Chechen terrorists and 150 hostages die when Russian special forces troops storm a theater building in Moscow, which had been occupied by the terrorists during a musical performance three days before.",
+      "body": "The Moscow theater hostage crisis, also known as the 2002 Nord-Ost siege, was the seizure of the crowded Dubrovka Theater in Moscow by Chechen terrorists on 23 October 2002, resulting in the taking of 912 hostages. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/11/Moscow_Siege%2C_2002.jpg/330px-Moscow_Siege%2C_2002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Wyatt_Earp"
+      "url": "https://en.wikipedia.org/wiki/Moscow_theater_hostage_crisis"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The song followed the previous success of \"All Coons Look Alike to Me\", written in 1896 by Ernest Hogan.",
+      "body": "\"Every Race Has a Flag but the Coon\" was a song written by Will A. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Every_race_has_a_flag_but_the_coon.jpg/330px-Every_race_has_a_flag_but_the_coon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Every_Race_Has_a_Flag_but_the_Coon"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Chimabachinae, the chimabachid moths, is a subfamily of moths in the family Lypusidae.",
-      "body": "The subfamily used to be classified as a subfamily of Oecophoridae, but current phylogenetic research classifies it as a subfamily of Lypusidae. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Diurnea.lipsiella.1.jpg/330px-Diurnea.lipsiella.1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "You probably never noticed this —",
+      "hook": "A jet engine converts fuel into thrust.",
+      "body": "One key metric of performance is the thermal efficiency; how much of the chemical energy (fuel) is turned into useful work. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chimabachinae"
+      "url": "https://en.wikipedia.org/wiki/Jet_engine_performance"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1859 —",
+      "hook": "The Royal Charter Storm kills at least eight hundred people in the British Isles.",
+      "body": "The Royal Charter Storm of 25‍–‍26 October 1859 was considered to be the most severe storm to hit the Irish Sea in the 19th century, with an estimated death toll of over 800. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/StateLibQld_1_186783_Royal_Charter_%28ship%29.jpg/330px-StateLibQld_1_186783_Royal_Charter_%28ship%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Royal_Charter_Storm"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Fatherland review – Sandra Hüller brings a bayonet of intelligence to Paweł Pawlikowski’s taut return",
+      "body": "<p>Hanns Zischler stars as Thomas Mann on his 1949 tour of Germany, contending with political barbs, personal tragedy and his daughter, played by an extraordinary Hüller</p><p>Here is an impossibly elegant, poised historical vignette whose ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/may/14/fatherland-review-sandra-huller-thomas-mann-pawel-pawlikowski-cannes-film-festivali"
     },
     {
       "type": "card",
@@ -218,12 +130,60 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1947 —",
-      "hook": "Partition of India: The Maharaja of Kashmir and Jammu signs the Instrument of Accession with India, beginning the Indo-Pakistani War of 1947–1948 and the Kashmir conflict.",
-      "body": "The partition of India in 1947 was the division of British India into two independent dominion states, the Union of India and Dominion of Pakistan. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Brit_IndianEmpireReligions3.jpg/330px-Brit_IndianEmpireReligions3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1825 —",
+      "hook": "The Erie Canal opens, allowing direct passage from the Hudson River to Lake Erie.",
+      "body": "The Erie Canal is a historic canal in upstate New York that runs east–west between the Hudson River and Lake Erie. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Sunset_over_the_Erie_Canal_in_North_Tonawanda%2C_NY..jpg/330px-Sunset_over_the_Erie_Canal_in_North_Tonawanda%2C_NY..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Partition_of_India"
+      "url": "https://en.wikipedia.org/wiki/Erie_Canal"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "In Buddhism, āyatana is a \"center of experience\" or \"mental home,\" which create one's experience.",
+      "body": "The related term saḷāyatana refers to six cognitive functions, namely sight, hearing, smelling, tasting, body-cognition, and mind-cognition. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%C4%80yatana"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
+      "body": "The single is the second posthumous release from Parton - who was of Welsh descent.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
+      "body": "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Postqualitative inquiry is a research philosophy proposed by University of Georgia Professor of Education Elizabeth St.",
+      "body": "Pierre in 2011 that advocates for an intentional deconstructive stance toward concepts within traditional research methods on human subjects, such as interviews, data analysis, and validity. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Postqualitative_inquiry"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1989 —",
+      "hook": "China Airlines Flight 204 crashes after takeoff from Hualien Airport in Taiwan, killing all 54 people on board.",
+      "body": "China Airlines Flight 204 (CI204/CAL204) was a Boeing 737-200 that crashed into a mountain after takeoff from Hualien Airport, Taiwan, on 26 October 1989. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/China_Airlines_B-180_Boeing_737-209.jpg/330px-China_Airlines_B-180_Boeing_737-209.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/China_Airlines_Flight_204"
     }
   ]
 }
