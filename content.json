@@ -1,189 +1,259 @@
 {
-  "generated": "2026-10-26T11:36:42.814Z",
-  "count": 19,
+  "generated": "2026-10-26T17:42:11.884Z",
+  "count": 26,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "All About the Money review – confusion and compelling weirdness of wealthy leftwing heir",
-      "body": "<p>This profile of James ‘Fergie’ Chambers, who set up a commune in rural Massachusetts and is fighting extradition from Spain, is a brave attempt to package a complex character and story</p><p>For a film that dispenses a lot of backstory i",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/26/all-about-the-money-review"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tell us: what have you been reading this month?",
-      "body": "<p>We would like to hear about the books you’ve particularly enjoyed this month</p><p>As part of The Guardian’s “<a href=\"https://www.theguardian.com/books/series/what-we-re-reading\">what we’re reading</a>” series, we would like to hear abo",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Atelier Bow-Wow is a Tokyo-based architecture firm, founded in 1992 by Yoshiharu Tsukamoto and Momoyo Kaijima.",
-      "body": "The firm is well known for its domestic and cultural architecture and its research exploring the urban conditions of micro, ad hoc architecture. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Atelier_Bow-Wow"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Can-Can is a 1960 American musical film made by Suffolk-Cummings productions and distributed by 20th Century-Fox.",
-      "body": "It was directed by Walter Lang, produced by Jack Cummings and Saul Chaplin. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/Can-can1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Can-Can_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2002 —",
-      "hook": "Approximately 50 Chechen terrorists and 150 hostages die when Russian special forces troops storm a theater building in Moscow, which had been occupied by the terrorists during a musical performance three days before.",
-      "body": "The Moscow theater hostage crisis, also known as the 2002 Nord-Ost siege, was the seizure of the crowded Dubrovka Theater in Moscow by Chechen terrorists on 23 October 2002, resulting in the taking of 912 hostages. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/11/Moscow_Siege%2C_2002.jpg/330px-Moscow_Siege%2C_2002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Moscow_theater_hostage_crisis"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Ever Since I Knew Myself review – confronting the scars of childhood",
-      "body": "<p>Maka Gogaladze’s debut feature looks at generational differences in the context of Georgia’s education system and emphasis on collectivism</p><p>The scars imprinted on impressionable young minds can never fully fade away. Aiming her lens",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/26/ever-since-i-knew-myself-review-documentary-georgia"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Mir'at al-Uqul is a hadith commentary of Al-Kafi, one of the four main Shi'a hadith books, that contains hadith gradings and commentary by Shia scholar Mohammad-Baqer Majlesi.",
-      "body": "It was originally written in Arabic in 25 volumes. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mir'at_al-Uqul"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1955 —",
-      "hook": "After the last Allied troops have left the country, and following the provisions of the Austrian Independence Treaty, Austria declares that it will never join a military alliance.",
-      "body": "The Austrian State Treaty or Austrian Independence Treaty established Austria as a sovereign state. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Austria_Occupation_Zones_1945-55_en.svg/330px-Austria_Occupation_Zones_1945-55_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Austrian_State_Treaty"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2001 —",
-      "hook": "The United States passes the USA PATRIOT Act into law.",
-      "body": "The USA PATRIOT Act is a landmark Act of the United States Congress, signed into law by President George W. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Patriot_Act"
-    },
-    {
-      "type": "card",
-      "cat": "books",
+      "cat": "geography",
       "opener": "Okay, this one's fun —",
-      "hook": "Asterix was a Gallo-Roman merchant vessel that sank in Saint Peter Port Harbour.",
-      "body": "Discovered in 1982 by local diver Richard Keen, it is the largest and most complete sea-going Roman shipwreck outside the Mediterranean. The world is stranger than it lets on.",
-      "img": null,
+      "hook": "The son of a poor Jewish family in London, he won a scholarship to the independent school Christ's Hospital and went on to the London School of Economics, graduating in 1952.",
+      "body": "Henry Bernard Levin was an English journalist, author and broadcaster, described by The Times as \"the most famous journalist of his day\". Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/80/Bernard_Levin_on_the_BBC.jpg/330px-Bernard_Levin_on_the_BBC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Asterix_(shipwreck)"
+      "url": "https://en.wikipedia.org/wiki/Bernard_Levin"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Music Against the Night by Yiyun Li review – a virtuosic interrogation of the power of art",
-      "body": "<p>What does it cost, to live your life in the hope of immortality? Li examines the gulf between talent and genius through the marriage of two real-life musicians</p><p>In his recently published <a href=\"https://www.theguardian.com/books/20",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/26/music-against-the-night-by-yiyun-li-review-a-virtuosic-interrogation-of-the-power-of-art"
+      "opener": "The Guardian · Culture —",
+      "hook": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
+      "body": "<p>The actor appeared in the cult 1960s show as well as many of the films but also worked as a writer</p><p>Walter Koenig, the actor known for playing Pavel Chekov throughout the Star Trek franchise, has died, his representative confirmed t",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I don’t give a damn what people think any more!’ Jimmy Webb on his wild days – and writing hits for Dolly, Glen and Frank",
+      "body": "<p>From Wichita Lineman to MacArthur Park, he penned masterpieces. As the great hit-maker resurrects his lost songs, he recalls writing for giants – and the night Richard Harris stripped off and disappeared</p><p></p><p>‘Flat for 50 miles,”",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/oct/26/jimmy-webb-wichita-lineman-macarthur-park-galveston-dolly"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1937 —",
-      "hook": "Nazi Germany begins expulsions of 18,000 Polish Jews.",
-      "body": "Nazi Germany, officially the German Reich and later the Greater German Reich, was the German state between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country, transforming it into a totalitarian dictatorship. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/330px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "He served as a naval physician in the United States Navy and was co-founder of the International Committee of Military Medicine (ICMM) located in Liège.",
+      "body": "William Seaman Bainbridge was an American surgeon and gynecologist. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/William_Seaman_Bainbridge.png/330px-William_Seaman_Bainbridge.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Seaman_Bainbridge"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1689 —",
+      "hook": "General Enea Silvio Piccolomini of Austria burns down Skopje to prevent the spread of cholera; he dies of the disease soon afterwards.",
+      "body": "Enea Silvio Piccolomini was a Sienese nobleman whose lineage included two popes, and who served in the Habsburg army of Leopold I, Holy Roman Emperor. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Nazi_Germany"
+      "url": "https://en.wikipedia.org/wiki/Enea_Silvio_Piccolomini_(general)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "2022 Michigan Proposal 3, the Right to Reproductive Freedom Initiative, was a citizen-initiated proposed constitutional amendment in the state of Michigan, which was voted on as part of the 2022 Michigan elections.",
+      "body": "The amendment, which passed, codified reproductive rights, including access to abortion, in the Constitution of Michigan. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2022_Michigan_Proposal_3_results_map_by_county.svg/330px-2022_Michigan_Proposal_3_results_map_by_county.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2022_Michigan_Proposal_3"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘Vicarious wish-fulfillment’: why That Thing You Do! is my feelgood movie",
-      "body": "<p>The latest in our ongoing series of writers explaining their most rewatched comfort films is a journey back to the 90s for Tom Hanks’ heartfelt 60s-set music comedy</p><p>“How did we get here?” That’s the question Steve Zahn’s character ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/26/that-thing-you-do-feelgood-movie"
+      "opener": "The Guardian · Culture —",
+      "hook": "John Oliver on extremism and bigotry among Republicans: ‘This party is at a crossroads’",
+      "body": "<p>Last Week Tonight host looked into the rise of bigotry and neo-nazism within the party before critical midterm races</p><p>With just a week to go until the <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">US midter",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/john-oliver-last-week-tonight-midterms-republicans"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The 2007 NCAA Division I FBS football season was the highest level of college football competition in the United States organized by the National Collegiate Athletic Association (NCAA).",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2008bcschampionscropped.jpg/330px-2008bcschampionscropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2007_NCAA_Division_I_FBS_football_season"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Mac DeMarco review – glowing melodies and shirtless antics at Carnegie Hall",
+      "body": "<p><strong>Carnegie Hall, New York</strong><br>After winning over gen Z, the cult indie rocker makes the historic venue swoon with introspective anthems and a Michael Jackson cover</p><p>More than 68 years after <a href=\"https://www.theguar",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/oct/26/mac-demarco-carnegie-hall-review"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1892 —",
+      "hook": "Ida B. Wells publishes Southern Horrors: Lynch Law in All Its Phases.",
+      "body": "Ida Bell Wells-Barnett was an American investigative journalist, sociologist, educator, and early leader in the civil rights movement. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg/330px-Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ida_B._Wells"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "In the field of pharmacy, compounding is preparation of custom medications to fit unique prescriptions that cannot be met with mass-produced formulations.",
+      "body": "This may be done, for example, to provide medication in a form easier for a given person to ingest, to avoid a non-active ingredient, or to provide a particular dose tailored to a given person, referred to as \"traditional\" compounding. The world is stranger th",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/The_drug_clerk_LCCN2002712838.jpg/330px-The_drug_clerk_LCCN2002712838.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Compounding"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Happy Birthday, Cookie Monster is a children's book written by Felice Haus, with illustrations by Carol Nicklaus, published in 1986 by Random House.",
-      "body": "The book features Cookie Monster, a character from the PBS children's television series Sesame Street. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6d/HappyBirthdayCookieMonsterBookCover.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Sanjna, also known as Saranyu, is a Hindu goddess and the chief consort of Surya, the Sun god.",
+      "body": "She is mentioned in the Rigveda, the Harivamsa and the Puranas. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Sanjna_Surya_Chhaya.jpg/330px-Sanjna_Surya_Chhaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Happy_Birthday%2C_Cookie_Monster"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Jerome Cahill is an Irish hurler who plays for Tipperary Senior Championship club Kilruane MacDonagh's and at inter-county level with the Tipperary senior hurling team.",
-      "body": "He usually lines out as a midfielder. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jerome_Cahill"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Bad Day at the Office review – gratuitously entertaining Go-Pro thriller is like Crank meets The Hangover",
-      "body": "<p>John Hannah parkours through gangland London in a hyperactive first-person action film that has to keep the heartrate down</p><p>This ludicrous, rabid thriller, shot largely on first-person GoPros, is like Peep Show on PCP. The cumulativ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/26/bad-day-at-the-office-review-john-hannah"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1871 —",
-      "hook": "Liberian President Edward James Roye is deposed in a coup d'état.",
-      "body": "Edward James Roye was an Americo-Liberian merchant and politician who served as the fifth president of Liberia from 1870 until his overthrow in the 1871 Liberian coup d'état and subsequent death. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Edward_James_Roye_c._1850.jpg/330px-Edward_James_Roye_c._1850.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Edward_James_Roye"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2012 —",
-      "hook": "Microsoft made a public release of Windows 8 and made it available on new PCs.",
-      "body": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Microsoft"
+      "url": "https://en.wikipedia.org/wiki/Sanjna"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "War Is Interested in You by Gideon Rachman review – are we on the brink of world war three?",
-      "body": "<p>A foreign affairs expert’s bleak assessment of the state of global security</p><p>Are we on the brink of a new world war? This bleak subject is increasingly invoked by leaders, soldiers and officials, from Donald Trump to Vladimir Putin ",
+      "hook": "Two children’s laureates to give royalties to Sally Rooney after her UK sales halted",
+      "body": "<p>Irish and Welsh authors Chris Haughton and Nicola Davies show solidarity after Rooney’s support for Palestine Action</p><p>The children’s laureates for Ireland and Wales are donating royalties from their works to Sally Rooney in a show o",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/26/war-is-interested-in-you-by-gideon-rachman-review-how-close-is-world-war-three"
+      "url": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "According to the official census of 2024, it has a population of 5,144 inhabitants.",
+      "body": "San Francisco Javier is a municipality in the Usulután department of El Salvador. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/San_Francisco_Javier"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2003 —",
+      "hook": "The Cedar Fire, the third-largest wildfire in California history, kills 15 people, consumes 250,000 acres (1,000 km2), and destroys 2,200 homes around San Diego.",
+      "body": "The Cedar Fire was a massive, highly-destructive wildfire, which burned 273,246 acres (1,106 km2) of land in San Diego County, California, during October and November 2003. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/California_fires_October_2003.jpg/330px-California_fires_October_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cedar_Fire"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1968 —",
+      "hook": "Space Race: The Soyuz 3 mission achieves the first Soviet space rendezvous.",
+      "body": "The Space Race was a 20th-century competition between the Cold War rivals, the United States and the Soviet Union, to achieve superior spaceflight capability. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Sputnik_asm.jpg/330px-Sputnik_asm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Space_Race"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Sonication is the act of applying sound energy to agitate particles in a sample, for various purposes such as the extraction of multiple compounds from plants, microalgae, and seaweeds.",
+      "body": "Ultrasonic frequencies (> 20 kHz) are usually used, leading to the process also being known as ultrasonication or ultra-sonication. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sonicator.jpg/330px-Sonicator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonication"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "He was a world-recognized expert in stellar astrophysics, in particular in the theory of white dwarf stars and type Ia supernovae.",
+      "body": "Enrique García-Berro Montilla was a Spanish and Catalan astrophysicist. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Enrique_Garcia-Berro_Montilla_Dec2013_IEEC.jpg/330px-Enrique_Garcia-Berro_Montilla_Dec2013_IEEC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Enrique_Garc%C3%ADa-Berro"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Narragansett Brewing Company is an American brewery founded in 1890 in Cranston, Rhode Island, and currently based in Providence.",
+      "body": "Known for its flagship product, Narragansett Lager, the brewery contracts lager production to the Genesee Brewing Company in Rochester, New York. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6f/Narragansett-logo.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Narragansett_Brewing_Company"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Sandra Martin is the author of the highly read Breaking the \"Sound\" Barrier to Fluent Reading, a curricular reading/spelling intervention designed to reach the at-risk learner.",
+      "body": "Sandra has been a teacher and curriculum developer for 38 years in the Conewago Valley School District and for Dickinson College, PA and is a guest writer for the Teachthought educational community. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sandra_Martin"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Canichana, or Canesi, is a possible language isolate of Bolivia.",
+      "body": "In 1991 there were 500 Canichana people, but only 20 spoke the Canichana language; by 2000 the ethnic population was 583, but the language had no mother tongue speakers left. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pueblos_originarios_de_Bolivia.png/330px-Pueblos_originarios_de_Bolivia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Canichana_language"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Chris Brown given suspended sentence over bottle attack at London club",
+      "body": "<p>R&amp;B singer sentenced to eight months’ imprisonment suspended for 12 months over incident in Mayfair in 2023</p><p>The R&amp;B singer Chris Brown has been given a suspended sentence after striking a man twice in the head with a tequil",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Never After Dark review – ghostbuster-for-hire meets her match in Japanese exorcism horror",
+      "body": "<p>Shogun’s Moeka Hoshi stars as a travelling caster-out of ghosts who confronts a wounded and recalcitrant spirit in this inventive chiller</p><p>If you watched this Japanese-language ghost-story horror thriller cold, you might be a little",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/26/never-after-dark-review-japanese-horror"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1994 —",
+      "hook": "Jordan and Israel sign a peace treaty.",
+      "body": "Jordan, officially the Hashemite Kingdom of Jordan, is a country in the Southern Levant region of West Asia. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/330px-Flag_of_Jordan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Jordan"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1825 —",
+      "hook": "The Erie Canal opens, allowing direct passage from the Hudson River to Lake Erie.",
+      "body": "The Erie Canal is a historic canal in upstate New York that runs east–west between the Hudson River and Lake Erie. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Sunset_over_the_Erie_Canal_in_North_Tonawanda%2C_NY..jpg/330px-Sunset_over_the_Erie_Canal_in_North_Tonawanda%2C_NY..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Erie_Canal"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Bet you didn't know —",
+      "hook": "Drowned Out is a 2002 documentary by Franny Armstrong about the Sardar Sarovar Project.",
+      "body": "Shot over three years, Drowned Out follows one family's stand against a government dam project which is set to destroy their home and their village. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Drowned_Out"
     }
   ]
 }
