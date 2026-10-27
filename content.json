@@ -1,74 +1,93 @@
 {
-  "generated": "2026-10-27T18:24:24.451Z",
-  "count": 20,
+  "generated": "2026-10-27T22:41:26.494Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Stars brewing in a nebulous cauldron",
+      "body": "Image: Stars brewing in a nebulous cauldron",
+      "src": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Captain Ultra is the titular intergalactic superhero of a Japanese pulp-style tokusatsu science fiction space adventure television series titled Space Tokusatsu Series: Captain Ultra .",
-      "body": "Produced by Toei Company Ltd., the series aired on Tokyo Broadcasting System (TBS) from April 16 to September 24, 1967, with a total of 24 episodes. Bring it up somewhere. Watch the reaction.",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "A Chicano mural is an artistic expression done, most commonly, on walls or ceilings by Chicanos or Mexican-American artists.",
+      "body": "Chicano murals rose during the Chicano art movement, that began in the 1960s, with the influence of Mexican muralism and the Mexican Revolution. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Captain_Ultra_(TV_series)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "On the issue date of October 6, 2007, the single debuted on the US Billboard Hot 100 at number 99.",
-      "body": "\"Can't Help but Wait\" is the second single from the Trey Songz album Trey Day. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/ab/Treycanthelp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Can't_Help_but_Wait"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "It lies approximately 2 km (1 mi) north-east of Tuczno, 23 km (14 mi) west of Wałcz, and 108 km (67 mi) east of the regional capital Szczecin.",
-      "body": "Strzaliny is a village in the administrative district of Gmina Tuczno, within Wałcz County, West Pomeranian Voivodeship, in north-western Poland. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Strzaliny%2C_ko%C5%9Bci%C3%B3%C5%82_Nawiedzenia_NMP.jpg/330px-Strzaliny%2C_ko%C5%9Bci%C3%B3%C5%82_Nawiedzenia_NMP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Strzaliny"
+      "url": "https://en.wikipedia.org/wiki/Chicano_murals"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘Approaching desire with curiosity’: the many facets of Black masculinity – in pictures",
-      "body": "<p>Through thoughtful conversations and dynamic images, Quil Lemons’s new book <a href=\"https://www.ideanow.online/products/quil-lemons-quiladelphia-1?variant=57640050491767\">Quiladelphia</a> explores how Black men navigate desire and mascu",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/27/quil-lemons-quiladelphia-photo-book-black-masculinity"
+      "opener": "The Guardian · Books —",
+      "hook": "War Is Interested in You by Gideon Rachman review – are we on the brink of world war three?",
+      "body": "<p>A foreign affairs expert’s bleak assessment of the state of global security</p><p>Are we on the brink of a new world war? This bleak subject is increasingly invoked by leaders, soldiers and officials, from Donald Trump to Vladimir Putin ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/26/war-is-interested-in-you-by-gideon-rachman-review-how-close-is-world-war-three"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘We did everything wrong!’ The tragedy of the hit-free band behind Blondie’s Hanging on the Telephone",
-      "body": "<p>They gigged wildly, helped other groups to fame and their songwriting brilliance gave Blondie a signature track. Could a deathbed wish now see the Nerves finally making it big?</p><p>The Nerves should have had it all. Formed in 1974 and ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/oct/27/the-nerves-blondie-hanging-on-the-telephone-hit-free"
+      "opener": "The Guardian · Books —",
+      "hook": "Zadie Smith tells Dua Lipa inequality has made culture clashes feel ‘existential’",
+      "body": "<p>Novelist says demise of Britain’s ‘incredible’ welfare system and housing struggles have led to deeper divisions</p><p>The novelist Zadie Smith has said that inequality has made culture clashes feel “existential”, adding that it has beco",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/25/zadie-smith-tells-dua-lipa-inequality-has-made-culture-clashes-feel-existential"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1994 —",
-      "hook": "Gliese 229B is the first Substellar Mass Object to be unquestionably identified.",
-      "body": "Gliese 229 is a multiple system composed of a red dwarf and two brown dwarfs, located 18.8 light-years away. The world is stranger than it lets on.",
+      "opener": "On this day in 1864 —",
+      "hook": "American Civil War: Union General Benjamin Butler launches an attack during the Siege of Petersburg with the Battle of Fair Oaks & Darbytown Road, but is repulsed by the next day.",
+      "body": "Benjamin Franklin Butler was an American major general of the Union Army, politician, lawyer, and businessman from Massachusetts. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Hon._Benjamin_Butler%2C_Senator_from_Mass._Crop_Edit.jpg/330px-Hon._Benjamin_Butler%2C_Senator_from_Mass._Crop_Edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Butler"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Alexia Parks is an American futurist, an expert on gender equality, United Nations Mentor, and founder of 10TRAITS Leadership Institute from Boulder, Colorado.",
+      "body": "Worth a quiet trip down the rabbit hole.",
       "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Gliese_229"
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alexia_Parks"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1644 —",
-      "hook": "Second Battle of Newbury in the English Civil War.",
-      "body": "The Second Battle of Newbury was a battle of the First English Civil War fought on 27 October 1644, in Speen, adjoining Newbury in Berkshire. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Newbury%2C_Site_of_the_Second_Battle_of_Newbury_1644_-_geograph.org.uk_-_1656273.jpg/330px-Newbury%2C_Site_of_the_Second_Battle_of_Newbury_1644_-_geograph.org.uk_-_1656273.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 312 —",
+      "hook": "Constantine the Great is said to have received his famous Vision of the Cross.",
+      "body": "Constantine I, also known as Constantine the Great, was Roman emperor from AD 306 to 337 and the first Roman emperor to convert to Christianity. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/330px-Statua_di_Costantino_ai_musei_capitolini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Newbury"
+      "url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1991 —",
+      "hook": "Turkmenistan achieves independence from the Soviet Union.",
+      "body": "Turkmenistan, formerly known as Turkmenia, is a landlocked country in Central Asia, bordered by Kazakhstan and Uzbekistan to the north, Afghanistan to the southeast, Iran to the south and southwest, and the Caspian Sea to the west. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/330px-Flag_of_Turkmenistan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1924 —",
+      "hook": "The Uzbek SSR is founded in the Soviet Union.",
+      "body": "The Uzbek SSR or, officially, the Uzbek Soviet Socialist Republic (UzSSR), also known as Soviet Uzbekistan, simply Uzbekistan, and rarely as Uzbekia, was a union republic of the Soviet Union. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_Uzbek_Soviet_Socialist_Republic_%281952%E2%80%931991%29.svg/330px-Flag_of_the_Uzbek_Soviet_Socialist_Republic_%281952%E2%80%931991%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Uzbek_Soviet_Socialist_Republic"
     },
     {
       "type": "card",
@@ -81,119 +100,80 @@
     },
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tell us: what have you been reading this month?",
+      "body": "<p>We would like to hear about the books you’ve particularly enjoyed this month</p><p>As part of The Guardian’s “<a href=\"https://www.theguardian.com/books/series/what-we-re-reading\">what we’re reading</a>” series, we would like to hear abo",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1979 —",
-      "hook": "Saint Vincent and the Grenadines gains its independence from the United Kingdom.",
-      "body": "Saint Vincent and the Grenadines, sometimes known simply as Saint Vincent, is an archipelagic country in the eastern Caribbean. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/330px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2014 —",
+      "hook": "Britain withdraws from Afghanistan at the end of Operation Herrick, after 12 years four months and seven days.",
+      "body": "Operation Herrick was the operational name for the British Armed Forces' operations during the War in Afghanistan, from 2002 to the end of combat operations in 2014. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Soldiers_Await_Evacuation_MOD_45151347.jpg/330px-Soldiers_Await_Evacuation_MOD_45151347.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
+      "url": "https://en.wikipedia.org/wiki/Operation_Herrick"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Ikland is a 2011 documentary film about a journey through the mountains of northeastern Uganda, along the Kenyan border, toward an encounter with the Ik.",
-      "body": "Ikland was produced by Cevin Soling, and directed by Soling and Hilbert David. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/IklandPoster2011.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Progon was the first Albanian ruler known by name, an archon of the Kruja Fortress and its surroundings, known as the Principality of Arbanon.",
+      "body": "He ruled between 1190 and 1198. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Geziq_inscription_arbanon.jpg/330px-Geziq_inscription_arbanon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ikland"
+      "url": "https://en.wikipedia.org/wiki/Progon%2C_Lord_of_Kruja"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Music Against the Night by Yiyun Li review – a virtuosic interrogation of the power of art",
+      "body": "<p>What does it cost, to live your life in the hope of immortality? Li examines the gulf between talent and genius through the marriage of two real-life musicians</p><p>In his recently published <a href=\"https://www.theguardian.com/books/20",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/26/music-against-the-night-by-yiyun-li-review-a-virtuosic-interrogation-of-the-power-of-art"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1986 —",
+      "hook": "The British government suddenly deregulates financial markets, leading to a total restructuring of the way in which they operate in the country, in an event now referred to as the Big Bang.",
+      "body": "The phrase Big Bang, used in reference to the sudden deregulation of financial markets, was coined to describe measures, including abolition of fixed commission charges and of the distinction between stockjobbers and stockbrokers on the London Stock Exchange and change from open outcry to screen-based electronic trading, effected by UK Prime Minister Margaret Thatcher in 1986. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Canary-wharf-one.jpg/330px-Canary-wharf-one.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Big_Bang_(financial_markets)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "UK comedies ‘Ghosts: The Possession Of Button House’ and ‘Ali G: Who Iz I?’ glide into UK-Ireland box office top five",
+      "body": "Warner Bros’ ’Clayface’ and Black Bear’s ’Wildwood’ have also placed highly in their opening weekends.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/uk-comedies-ghosts-the-possession-of-button-house-and-ali-g-who-iz-i-glide-into-uk-ireland-box-office-top-five/5221777.article"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "A Reclining Nair lady is a 1902 painting by the Indian artist Raja Ravi Varma.",
-      "body": "The painting features a recumbent Nair woman, with a book open in front of her while attended by a maid. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Raja_Ravi_Varma%2C_Reclining_Woman.jpg/330px-Raja_Ravi_Varma%2C_Reclining_Woman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Andrea Maya Becerra Arizaga is a Mexican archer competing incompound events.",
+      "body": "She won the silver medal in the women's individual and women's team events at the 2023 World Championships. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Reclining_Nayar_lady"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Fatherland review – Sandra Hüller brings a bayonet of intelligence to Paweł Pawlikowski’s taut return",
-      "body": "<p>Hanns Zischler stars as Thomas Mann on his 1949 tour of Germany, contending with political barbs, personal tragedy and his daughter, played by an extraordinary Hüller</p><p>Here is an impossibly elegant, poised historical vignette whose ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/fatherland-review-sandra-huller-thomas-mann-pawel-pawlikowski-cannes-film-festivali"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Elizabeth Holmes mania: how the buzziest film of the year has resurrected a gut-twisting TV drama",
-      "body": "<p>The Theranos fraudster is the subject of Nathan Fielder’s mind-bending You Can See Everything documentary. It is now driving audiences to watch Disney/Hulu’s 2022 series, The Dropout – and they’re seeing it in a whole new light</p><p></p",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/27/elizabeth-holmes-documentary-mania-you-can-see-everything-the-dropout"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2018 —",
-      "hook": "A gunman opens fire on a Pittsburgh synagogue killing eleven and injuring six, including four police officers.",
-      "body": "On October 27, 2018, an antisemitic mass shooting occurred at the Tree of Life – Or L'Simcha Congregation synagogue in the Squirrel Hill neighborhood of Pittsburgh, Pennsylvania, United States. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Tree_of_Life_%E2%80%93_Or_L%27Simcha_synagogue_facade.jpg/330px-Tree_of_Life_%E2%80%93_Or_L%27Simcha_synagogue_facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pittsburgh_synagogue_shooting"
+      "url": "https://en.wikipedia.org/wiki/Andrea_Becerra"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Gamma Gruis or γ Gruis, formally named Aldhanab, is a star in the southern constellation of Grus.",
-      "body": "With an apparent visual magnitude of 3.0, it is the third-brightest star in Grus. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Grus_IAU.svg/330px-Grus_IAU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "James Mayer de Rothschild was a German-born banker and the founder of the French branch of the prominent Rothschild family.",
+      "body": "He was born in the Free City of Frankfurt in the Holy Roman Empire, and elevated to Barony in 1822. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/James_de_Rothschild_%281792-1868%29.jpg/330px-James_de_Rothschild_%281792-1868%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gamma_Gruis"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Tom Skerritt obituary",
-      "body": "<p>US actor who often played authority figures and was admired for his film roles in Alien, Top Gun and A River Runs Through It</p><p>The lean, rugged US actor Tom Skerritt, who has died aged 93, was described by one screenwriter as “a char",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1954 —",
-      "hook": "Benjamin O. Davis, Jr. becomes the first African-American general in the United States Air Force.",
-      "body": "Benjamin Oliver Davis Jr. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Benjamindavis.jpg/330px-Benjamindavis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Benjamin_O._Davis_Jr."
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1962 —",
-      "hook": "Major Rudolf Anderson of the United States Air Force becomes the only direct human casualty of the Cuban Missile Crisis when his U-2 reconnaissance airplane is shot down over Cuba by a Soviet-supplied surface-to-air missile.",
-      "body": "Rudolf Anderson Jr. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Rudolf_Anderson.jpg/330px-Rudolf_Anderson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Rudolf_Anderson"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Scuticaria is a genus of orchids comprising 9 species native to Belize, Brazil, Ecuador, French Guiana, Guyana, Peru, Suriname and Venezuela.",
-      "body": "Members of this genus have showy flowers and long cylindrical leaves. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Scuticaria_steelei_-_2.jpg/330px-Scuticaria_steelei_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Scuticaria_(plant)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Jon Stewart on the midterms: ‘Republicans running for Congress can’t defend Trump’s reckless record’",
-      "body": "<p>Late-night hosts discussed Trump’s distraction tactics and crass comments on Nicki Minaj’s derriere as he campaigns</p><p>Late-night hosts mocked <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s <a href=\"https",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/culture/2026/oct/27/jon-stewart-midterms-republicans-congress-trump"
+      "url": "https://en.wikipedia.org/wiki/James_Mayer_de_Rothschild"
     }
   ]
 }
