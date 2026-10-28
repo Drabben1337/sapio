@@ -1,189 +1,34 @@
 {
-  "generated": "2026-10-28T07:35:03.532Z",
-  "count": 25,
+  "generated": "2026-10-28T14:34:04.715Z",
+  "count": 21,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "The World According to Garp is a 1978 novel by John Irving, his fourth.",
-      "body": "Garp, who is conceived when his mother, Jenny Fields, a nurse, rapes a severely brain-damaged soldier in her care, and who grows up to become a novelist. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/22/TheWorldAccordingtoGarp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_World_According_to_Garp"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Neil Young again sues Trump campaign for playing Rockin' in the Free World at rally",
-      "body": "The Canadian-American musician sued Trump in 2020 over unauthorised use of song at a political event.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "‘There is no inevitable dystopia’: Jeanette Winterson on AI and the future of humanity",
+      "body": "<p>The author believes we are at a turning point as a species – and even in the shadow of big tech it’s up to us how we want to proceed<strong><br></strong></p><p>‘I am a storyteller by trade,” writes Jeanette Winterson on the first page of",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1982 —",
-      "hook": "The Spanish general election begins fourteen years of rule by the Spanish Socialist Workers' Party.",
-      "body": "A general election was held in Spain on 28 October 1982 to elect the members of the 2nd Cortes Generales under the Spanish Constitution of 1978. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Felipe_Gonz%C3%A1lez_1983_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "On this day in 2023 —",
+      "hook": "The 2023 Rugby World Cup final is held at the Stade de France in Saint-Denis, France. It saw South Africa defeat New Zealand 12 to 11, claiming their fourth Webb Ellis Cup, becoming the first nation to do so.",
+      "body": "The 2023 Rugby World Cup final was a rugby union match played on 28 October 2023 at the Stade de France in Saint-Denis, France. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/StadeFranceNationsLeague2018.jpg/330px-StadeFranceNationsLeague2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1982_Spanish_general_election"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The population was 2,469 at the 2020 census, a decline from the figure of 2,662 in 2010.",
-      "body": "Lackawannock Township is a township in Mercer County, Pennsylvania, United States. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lebanon_PCUSA_near_Mercer.jpg/330px-Lebanon_PCUSA_near_Mercer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lackawannock_Township%2C_Pennsylvania"
+      "url": "https://en.wikipedia.org/wiki/2023_Rugby_World_Cup_final"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Peter Asher: Everywhere Man review – music-biz face from Beatles-buddy pop act to superstar producer",
-      "body": "<p>Backstory of modest industry veteran who started out as one half of pop duo Peter and Gordon, and went on to produce acts such as James Taylor and Linda Ronstadt</p><p></p><p>Rock’n’roll is notorious for its tales of bad behaviour: throw",
+      "hook": "The Devils review – Ken Russell’s 1971 possessed-nuns tale is a frenzied aria of confrontation and hysteria",
+      "body": "<p>Oliver Reed and Vanessa Redgrave put in the performances of their lives in this film originally banned for obscenity that highlights the violence of power</p><p>‘I could never be Satan’s boy. I haven’t the humility.” The speaker is Fathe",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
-      "chan": "James Webb Space Telescope (JWST)",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "A24 bringing Alex Garland sci-fi ‘Elden Ring’ to AFM",
-      "body": "Amazon MGM Studios strikes pay-1 deal for large international footprint.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/a24-bringing-alex-garland-sci-fi-elden-ring-to-afm/5221830.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Edgerton post office operated from June 16, 1870, until August 28, 1902.",
-      "body": "Edgerton is an extinct town at the confluence of Monument Creek and West Monument Creek eight miles (13 km) north of present-day Colorado Springs in El Paso County, Colorado, United States. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Early_El_Paso_County_Colorado_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Edgerton%2C_Colorado"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Orient Express is a 1934 American pre-Code drama film directed by Paul Martin and starring Heather Angel, Norman Foster and Ralph Morgan.",
-      "body": "It is based on the 1932 novel Stamboul Train by Graham Greene, the first of his works to be adapted for the screen. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Orient_Express_(1934_film)"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
-      "chan": "Google Earth",
-      "src": "CC BY 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
-      "cat": "geography"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "6 Music Festival 2027 heads to Newcastle",
-      "body": "The station's flagship festival will return to Tyneside after 12 years.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm62ygw1e99xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "This Can't Be Happening at Macdonald Hall is a 1978 novel by Gordon Korman.",
-      "body": "It is the first installment of the Macdonald Hall series, and was the first written work of Korman. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/ab/This_Can%27t_Be_Happening_at_Macdonald_Hall_1978_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/This_Can't_Be_Happening_at_Macdonald_Hall"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Sukanya Cholasuek, writing under the pen name Krisna Asoksin, is a Thai novelist.",
-      "body": "She has written about 150 novels and many other short stories. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Krisna_Asoksin"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Why industry experts believe now is the right time for China-Brazil co-productions",
-      "body": "“We need to expand the sale of films between our markets.”",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/why-industry-experts-believe-now-is-the-right-time-for-china-brazil-co-productions/5221826.article"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
-      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
-      "src": "Public domain · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
-      "cat": "science"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘It’s the gay Titanic!’ Inside La Bola Negra, the maximalist queer spectacular bound for Oscars glory",
-      "body": "<p>Oozing panache and bagging awards already, La Bola Negra is an eye-popping war and prejudice epic starring Penélope Cruz in a blond wig and Glenn Close speaking Spanish. We meet the ex-lovers who dreamed it up</p><p></p><p>When Javier Am",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 306 —",
-      "hook": "Maxentius is proclaimed Roman emperor.",
-      "body": "Marcus Aurelius Valerius Maxentius was a Roman emperor from 306 until his death in 312. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Portrait_of_Maxentius_%28SK_Dresden_Hm_406%29_02.jpg/330px-Portrait_of_Maxentius_%28SK_Dresden_Hm_406%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Maxentius"
-    },
-    {
-      "type": "video",
-      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
-      "chan": "Subhashish Panigrahi",
-      "src": "CC BY-SA 3.0 · Wikimedia",
-      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
-      "cat": "howitsmade"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Post your questions for Alex Cox",
-      "body": "<p>As the cult director of Repo Man and Sid and Nancy prepares to release his final film, Dead Souls, he takes your questions</p><p>Everybody has their swansong, whether they know it or not. But for Alex Cox, his latest film Dead Souls – a ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/28/post-your-questions-for-alex-cox"
+      "url": "https://www.theguardian.com/film/2026/oct/28/the-devils-review-ken-russell-oliver-reed-vanessa-redgrave"
     },
     {
       "type": "card",
@@ -194,6 +39,84 @@
       "img": null,
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/1746_Lima%E2%80%93Callao_earthquake"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2009 —",
+      "hook": "NASA successfully launches the Ares I-X mission, the only rocket launch for its short-lived Constellation program.",
+      "body": "The National Aeronautics and Space Administration is an independent agency of the U.S. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/NASA"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "He played college football for the Bemidji State Beavers.",
+      "body": "Wolden is an American former professional football player who was a running back for the Chicago Bears of the National Football League (NFL). Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Al_Wolden"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Place of Dead Roads is a 1983 novel by William S.",
+      "body": "Burroughs, the second book of the trilogy that begins with Cities of the Red Night (1981) and concludes with The Western Lands (1987). The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/PlaceOfDeadRoads.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Place_of_Dead_Roads"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Elisabeth de Mariaffi is a Canadian writer, whose debut short story collection How to Get Along With Women was a longlisted nominee for the Scotiabank Giller Prize and a shortlisted nominee for the ReLit Award in 2013.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elisabeth_de_Mariaffi"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Peter and Alexis is a novel by Dmitry Merezhkovsky, written in 1903–1904 and first published in Nos.",
+      "body": "1–5, 9–12, 1904, Novy Put magazine. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/30/Peter_and_Alexis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peter_and_Alexis"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "In One Brief Moment All Eternity by Elif Shafak review – what Madame Bovary thought of Flaubert",
+      "body": "<p>This audacious portrait of the French author through the eyes of his women is Shafak’s love letter to literature in dark times</p><p>In <a href=\"https://www.theguardian.com/books/2016/oct/29/frantumaglia-a-writers-journey-elena-ferrante-",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/28/in-one-brief-moment-all-eternity-by-elif-shafak-review-what-madame-bovary-thought-of-flaubert"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Is It Too Late to Make a Run for It? by Judi Dench review – whatever you do, don’t call her a ‘national treasure’",
+      "body": "<p>The actor waxes lyrical on directors, dildos and why she hates being referred to as though she’s a dusty old relic</p><p>In the late 1950s, Judi Dench was invited to meet a major Hollywood producer about a possible career in the film bus",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/28/is-it-too-late-to-make-a-run-for-it-by-judi-dench-review-whatever-you-do-dont-call-her-a-national-treasure"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1636 —",
+      "hook": "The Massachusetts Bay Colony votes to establish a theological college, which would later become Harvard University.",
+      "body": "The Massachusetts Bay Colony settlement on the east coast of North America around Massachusetts Bay, a territory inhabited by Algonquian Native American tribes. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/English_Red_Ensign_1620.svg/330px-English_Red_Ensign_1620.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony"
     },
     {
       "type": "video",
@@ -207,43 +130,80 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1990 —",
-      "hook": "Georgia holds its only free election under Soviet rule.",
-      "body": "Parliamentary elections were held in the Georgian SSR on 28 October 1990, with a second round on 11 November. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Greater_coat_of_arms_of_Georgia.svg/330px-Greater_coat_of_arms_of_Georgia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1990_Georgian_Supreme_Soviet_election"
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Everest: The Other Side review – couple’s climb on the mountain’s toughest face comes with tricky moral questions over their lofty ambitions",
+      "body": "<p>Immersive portrait of mountaineers Jim Morrison and Hilaree Nelson as they seek to become the first people to ski down Everest’s north face</p><p>With some of its showings in the huge Imax format, this National Geographic-backed document",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/28/everest-other-side-documentary-movie-review-jim-morrison-hilaree-nelson"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1956 —",
-      "hook": "Hungarian Revolution: A de facto ceasefire comes into effect between armed revolutionaries and Soviet troops, who begin to withdraw from Budapest. Communist officials and facilities come under attack by revolutionaries.",
-      "body": "The Hungarian Revolution of 1956, also known as the Hungarian Uprising, was an attempted countrywide revolution against the government of the Hungarian People's Republic (1949–1989) and the policies caused by the government's subordination to the Union of Soviet Socialist Republics (USSR). One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/330px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1492 —",
+      "hook": "Christopher Columbus lands in Cuba on his first voyage to the New World, surmising that it is Japan.",
+      "body": "Christopher Columbus was an Italian explorer and navigator from the Republic of Genoa who completed four Spanish transatlantic voyages in the name of the Catholic Monarchs, opening the way for the widespread European exploration and colonization of the Americas. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/330px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
+      "url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Film buffs love it. Trump and Tom Hanks hosted it. Can TCM survive a Hollywood mega-merger?",
+      "body": "<p>Since 1994, Turner Classic Movies has been a haven for old film lovers. Now with Skydance’s David Ellison calling the shots, fans are panicking over its unclear future</p><p>I have made many attempts to lessen the existential disaster we",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/oct/28/turner-classic-movies-skydance-merger"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2007 —",
+      "hook": "Cristina Fernández de Kirchner becomes the first directly elected female President of Argentina.",
+      "body": "Cristina Elísabet Fernández de Kirchner is an Argentine lawyer, politician and convicted criminal who served as the 55th President of Argentina from 2007 to 2015, and later as the 37th Vice President of Argentina under President Alberto Fernández from 2019 to 2023. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Cristina_Fern%C3%A1ndez_de_Kirchner_en_la_Apertura_de_Sesiones_Ordinarias_2022_%28cropped%29.jpg/330px-Cristina_Fern%C3%A1ndez_de_Kirchner_en_la_Apertura_de_Sesiones_Ordinarias_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Son of the Mob 2: Hollywood Hustle is a book written by Canadian author Gordon Korman in 2004.",
-      "body": "It is a sequel of Son of the Mob, written two years previously in 2002. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Son_of_the_Mob_2%2C_Hollywood_Hustle.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Shifting Sands is the fourth book in the eight-volume Deltora Quest fantasy novel series written by Emily Rodda.",
+      "body": "It continues the trio's journey to find the seven missing gems of Deltora, braving dangers and Guardians in each book. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4f/The_Shifting_Sands.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Son_of_the_Mob_2%3A_Hollywood_Hustle"
+      "url": "https://en.wikipedia.org/wiki/The_Shifting_Sands"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1449 —",
-      "hook": "Christian I is crowned king of Denmark.",
-      "body": "Christian I was a German noble and Scandinavian monarch under the Kalmar Union. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Christian_I_of_Denmark%2C_Norway_%26_Sweden_1440s.jpg/330px-Christian_I_of_Denmark%2C_Norway_%26_Sweden_1440s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Christian_I_of_Denmark"
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘Fear is contagious’: why horror shows are taking over the New York stage",
+      "body": "<p>Hit London plays 2:22, Paranormal Activity and A Ghost in Your Ear are now spooking audiences on and off Broadway amid high demand for communal experiences</p><p>As we escaped the restrictions of the pandemic, with many also trying to es",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/stage/2026/oct/28/new-york-plays-theatre-horror"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Ang mga Anak Dalita is a 1911 Tagalog-language novel written by Filipino novelist Patricio Mariano.",
+      "body": "The 73-page novel was published in Manila by Limbagan at Aklatan Ni I.R. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/76/Ang_mga_anak_dalita_bookcover_1911.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ang_mga_Anak_Dalita"
     }
   ]
 }
