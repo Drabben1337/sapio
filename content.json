@@ -1,85 +1,132 @@
 {
-  "generated": "2026-10-28T01:50:14.589Z",
+  "generated": "2026-10-28T07:35:03.532Z",
   "count": 25,
   "items": [
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Nitisara or the Nitisara of Kamandaki, is an ancient Indian treatise on politics and statecraft.",
-      "body": "It was authored by Kamandaka, also known as Kamandaki or Kamandakiya, traditionally identified as a disciple of Vishnugupta (Kautilya). Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "opener": "Here's one for the group chat —",
+      "hook": "The World According to Garp is a 1978 novel by John Irving, his fourth.",
+      "body": "Garp, who is conceived when his mother, Jenny Fields, a nurse, rapes a severely brain-damaged soldier in her care, and who grows up to become a novelist. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/22/TheWorldAccordingtoGarp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Nitisara"
+      "url": "https://en.wikipedia.org/wiki/The_World_According_to_Garp"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Neil Young again sues Trump campaign for playing Rockin' in the Free World at rally",
+      "body": "The Canadian-American musician sued Trump in 2020 over unauthorised use of song at a political event.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Jan Miller is a former British actress, known mainly for film and television work in the late 1950s and early 1960s, in particular her role as WPC Alex Johns in Dixon of Dock Green, from 1962 to 1964.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jan_Miller_(actress)"
+      "opener": "On this day in 1982 —",
+      "hook": "The Spanish general election begins fourteen years of rule by the Spanish Socialist Workers' Party.",
+      "body": "A general election was held in Spain on 28 October 1982 to elect the members of the 2nd Cortes Generales under the Spanish Constitution of 1978. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Felipe_Gonz%C3%A1lez_1983_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1982_Spanish_general_election"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "It is a bunchgrass native to the US states of California and Oregon, where it often grows in wet, shady areas in coastal counties.",
-      "body": "Festuca elmeri is a species of grass known by the common names coast fescue and Elmer's fescue. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Festucaelmeri.jpg/330px-Festucaelmeri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "The population was 2,469 at the 2020 census, a decline from the figure of 2,662 in 2010.",
+      "body": "Lackawannock Township is a township in Mercer County, Pennsylvania, United States. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lebanon_PCUSA_near_Mercer.jpg/330px-Lebanon_PCUSA_near_Mercer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Festuca_elmeri"
+      "url": "https://en.wikipedia.org/wiki/Lackawannock_Township%2C_Pennsylvania"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Peter Asher: Everywhere Man review – music-biz face from Beatles-buddy pop act to superstar producer",
+      "body": "<p>Backstory of modest industry veteran who started out as one half of pop duo Peter and Gordon, and went on to produce acts such as James Taylor and Linda Ronstadt</p><p></p><p>Rock’n’roll is notorious for its tales of bad behaviour: throw",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "A24 bringing Alex Garland sci-fi ‘Elden Ring’ to AFM",
+      "body": "Amazon MGM Studios strikes pay-1 deal for large international footprint.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/a24-bringing-alex-garland-sci-fi-elden-ring-to-afm/5221830.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Edgerton post office operated from June 16, 1870, until August 28, 1902.",
+      "body": "Edgerton is an extinct town at the confluence of Monument Creek and West Monument Creek eight miles (13 km) north of present-day Colorado Springs in El Paso County, Colorado, United States. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Early_El_Paso_County_Colorado_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edgerton%2C_Colorado"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Orient Express is a 1934 American pre-Code drama film directed by Paul Martin and starring Heather Angel, Norman Foster and Ralph Morgan.",
+      "body": "It is based on the 1932 novel Stamboul Train by Graham Greene, the first of his works to be adapted for the screen. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Orient_Express_(1934_film)"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "6 Music Festival 2027 heads to Newcastle",
+      "body": "The station's flagship festival will return to Tyneside after 12 years.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm62ygw1e99xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The Battle of Seneffe, 11 August 1674, took place during the Franco-Dutch War, near Seneffe in Belgium, then part of the Spanish Netherlands.",
-      "body": "A French army commanded by Condé confronted a combined Dutch, Imperial, and Spanish force under William of Orange. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Adam_Frans_van_der_Meulen_-_The_Battle_of_Seneffe.jpg/330px-Adam_Frans_van_der_Meulen_-_The_Battle_of_Seneffe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "This Can't Be Happening at Macdonald Hall is a 1978 novel by Gordon Korman.",
+      "body": "It is the first installment of the Macdonald Hall series, and was the first written work of Korman. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ab/This_Can%27t_Be_Happening_at_Macdonald_Hall_1978_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Seneffe"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 97 —",
-      "hook": "Roman emperor Nerva is forced by the Praetorian Guard to adopt general Marcus Ulpius Trajanus as his heir and successor.",
-      "body": "AD 97 (XCVII) was a common year starting on Sunday of the Julian calendar. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/AD_97"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Tell us: what have you been reading this month?",
-      "body": "<p>We would like to hear about the books you’ve particularly enjoyed this month</p><p>As part of The Guardian’s “<a href=\"https://www.theguardian.com/books/series/what-we-re-reading\">what we’re reading</a>” series, we would like to hear abo",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1562 —",
-      "hook": "James Stewart, 1st Earl of Moray, defeats the forces of the rebelious George Gordon, 4th Earl of Huntly, in the battle of Corrichie.",
-      "body": "James Stewart, 1st Earl of Moray was a member of the House of Stewart as the illegitimate son of James V of Scotland. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/James_Stewart_Earl_of_Moray.jpg/330px-James_Stewart_Earl_of_Moray.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/James_Stewart%2C_1st_Earl_of_Moray"
+      "url": "https://en.wikipedia.org/wiki/This_Can't_Be_Happening_at_Macdonald_Hall"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Diachasmimorpha longicaudata is a solitary species of parasitoid wasp and an endoparasitoid of tephritid fruit fly larvae.",
-      "body": "longicaudata is native to many countries in Southeast Asia and subtropical regions and has also been introduced to many other countries as a biological control agent. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Parasitoid_wasp_%2851207217381%29.jpg/330px-Parasitoid_wasp_%2851207217381%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Sukanya Cholasuek, writing under the pen name Krisna Asoksin, is a Thai novelist.",
+      "body": "She has written about 150 novels and many other short stories. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Diachasmimorpha_longicaudata"
+      "url": "https://en.wikipedia.org/wiki/Krisna_Asoksin"
     },
     {
       "type": "card",
@@ -91,159 +138,112 @@
       "url": "https://www.screendaily.com/news/why-industry-experts-believe-now-is-the-right-time-for-china-brazil-co-productions/5221826.article"
     },
     {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Music Against the Night by Yiyun Li review – a virtuosic interrogation of the power of art",
-      "body": "<p>What does it cost, to live your life in the hope of immortality? Li examines the gulf between talent and genius through the marriage of two real-life musicians</p><p>In his recently published <a href=\"https://www.theguardian.com/books/20",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/26/music-against-the-night-by-yiyun-li-review-a-virtuosic-interrogation-of-the-power-of-art"
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "War Is Interested in You by Gideon Rachman review – are we on the brink of world war three?",
-      "body": "<p>A foreign affairs expert’s bleak assessment of the state of global security</p><p>Are we on the brink of a new world war? This bleak subject is increasingly invoked by leaders, soldiers and officials, from Donald Trump to Vladimir Putin ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/26/war-is-interested-in-you-by-gideon-rachman-review-how-close-is-world-war-three"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "You probably never noticed this —",
-      "hook": "It is located on Back Beach Road, on the shores of Smiths Beach.",
-      "body": "Smiths Beach is a small town on Phillip Island in Victoria, Australia. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Smiths_Beach%2C_Victoria"
+      "opener": "The Guardian · Film —",
+      "hook": "‘It’s the gay Titanic!’ Inside La Bola Negra, the maximalist queer spectacular bound for Oscars glory",
+      "body": "<p>Oozing panache and bagging awards already, La Bola Negra is an eye-popping war and prejudice epic starring Penélope Cruz in a blond wig and Glenn Close speaking Spanish. We meet the ex-lovers who dreamed it up</p><p></p><p>When Javier Am",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1928 —",
-      "hook": "Indonesia Raya, now the national anthem of Indonesia, is first played during the Second Indonesian Youth Congress.",
-      "body": "\"Indonesia Raya\" is the national anthem of Indonesia. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Brosur_Lagu_Kebangsaan_-_Indonesia_Raya.pdf%2C_p._57.jpg/330px-Brosur_Lagu_Kebangsaan_-_Indonesia_Raya.pdf%2C_p._57.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 306 —",
+      "hook": "Maxentius is proclaimed Roman emperor.",
+      "body": "Marcus Aurelius Valerius Maxentius was a Roman emperor from 306 until his death in 312. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Portrait_of_Maxentius_%28SK_Dresden_Hm_406%29_02.jpg/330px-Portrait_of_Maxentius_%28SK_Dresden_Hm_406%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Indonesia_Raya"
+      "url": "https://en.wikipedia.org/wiki/Maxentius"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Post your questions for Alex Cox",
+      "body": "<p>As the cult director of Repo Man and Sid and Nancy prepares to release his final film, Dead Souls, he takes your questions</p><p>Everybody has their swansong, whether they know it or not. But for Alex Cox, his latest film Dead Souls – a ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/28/post-your-questions-for-alex-cox"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1746 —",
+      "hook": "The 1746 Lima–Callao earthquake causes up to 6,000 deaths in Peru, the deadliest in its history up to that point.",
+      "body": "The 1746 Lima–Callao earthquake occurred at 22:30 local time on 28 October with a moment magnitude of 8.6–8.8 and a maximum Mercalli intensity of XI (Extreme). The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1746_Lima%E2%80%93Callao_earthquake"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1990 —",
+      "hook": "Georgia holds its only free election under Soviet rule.",
+      "body": "Parliamentary elections were held in the Georgian SSR on 28 October 1990, with a second round on 11 November. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Greater_coat_of_arms_of_Georgia.svg/330px-Greater_coat_of_arms_of_Georgia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1990_Georgian_Supreme_Soviet_election"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1956 —",
+      "hook": "Hungarian Revolution: A de facto ceasefire comes into effect between armed revolutionaries and Soviet troops, who begin to withdraw from Budapest. Communist officials and facilities come under attack by revolutionaries.",
+      "body": "The Hungarian Revolution of 1956, also known as the Hungarian Uprising, was an attempted countrywide revolution against the government of the Hungarian People's Republic (1949–1989) and the policies caused by the government's subordination to the Union of Soviet Socialist Republics (USSR). One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/330px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Free fatty acid receptor 2 (FFAR2), also known as G-protein coupled receptor 43 (GPR43), is a rhodopsin-like G-protein coupled receptor (GPCR) encoded by the FFAR2 gene.",
-      "body": "In humans, the FFAR2 gene is located on the long arm of chromosome 19 at position 13.12 (19q13.12). One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ideogram_human_chromosome_19.svg/330px-Ideogram_human_chromosome_19.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Free_fatty_acid_receptor_2"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "There are about 100 people living on the island, and feral cattle are known on the island.",
-      "body": "Grass Island or Tap Mun is an island in Hong Kong, located in the northeastern part of the territory. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Above_Grass_Island_Hong_Kong.jpg/330px-Above_Grass_Island_Hong_Kong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tap_Mun"
-    },
-    {
-      "type": "card",
-      "cat": "history",
       "opener": "You probably never noticed this —",
-      "hook": "Following a period of sustained street protests, the government officially withdrew the bill on 25 June 2019, the first time an incumbent Nepali government has withdrawn a bill it introduced to parliament.",
-      "body": "Guthi Bill was a controversial bill tabled at the National Assembly of Nepal by the Ministry of Land Management, Cooperatives and Poverty Alleviation on 29 April 2019. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Guthi_Bill_Protest_asserting_all_Government_land_is_stolen_indigenous_land.jpg/330px-Guthi_Bill_Protest_asserting_all_Government_land_is_stolen_indigenous_land.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Son of the Mob 2: Hollywood Hustle is a book written by Canadian author Gordon Korman in 2004.",
+      "body": "It is a sequel of Son of the Mob, written two years previously in 2002. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Son_of_the_Mob_2%2C_Hollywood_Hustle.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Guthi_bill"
+      "url": "https://en.wikipedia.org/wiki/Son_of_the_Mob_2%3A_Hollywood_Hustle"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1640 —",
-      "hook": "The Treaty of Ripon is signed, ending the hostilities of the Second Bishops' War.",
-      "body": "The Treaty of Ripon was a truce between Charles I, King of England, and the Covenanters, a Scottish political movement, which brought a cessation of hostilities to the Second Bishops' War. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/TreatyOfRiponPlaque.jpg/330px-TreatyOfRiponPlaque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1449 —",
+      "hook": "Christian I is crowned king of Denmark.",
+      "body": "Christian I was a German noble and Scandinavian monarch under the Kalmar Union. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Christian_I_of_Denmark%2C_Norway_%26_Sweden_1440s.jpg/330px-Christian_I_of_Denmark%2C_Norway_%26_Sweden_1440s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_Ripon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Zadie Smith tells Dua Lipa inequality has made culture clashes feel ‘existential’",
-      "body": "<p>Novelist says demise of Britain’s ‘incredible’ welfare system and housing struggles have led to deeper divisions</p><p>The novelist Zadie Smith has said that inequality has made culture clashes feel “existential”, adding that it has beco",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/25/zadie-smith-tells-dua-lipa-inequality-has-made-culture-clashes-feel-existential"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The group consisted of three childhood friends: Rory Gallagher on bass guitar and vocals, John McIntyre and Michael O' Donnell.",
-      "body": "The Revs are an indie rock band from Kilcar, County Donegal in Ireland. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d0/Revvers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Revs"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "UK comedies ‘Ghosts: The Possession Of Button House’ and ‘Ali G: Who Iz I?’ glide into UK-Ireland box office top five",
-      "body": "Warner Bros’ ’Clayface’ and Black Bear’s ’Wildwood’ have also placed highly in their opening weekends.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/uk-comedies-ghosts-the-possession-of-button-house-and-ali-g-who-iz-i-glide-into-uk-ireland-box-office-top-five/5221777.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Adventurer completes 400-mile expedition after losing contact with team",
-      "body": "Ash Dykes is trying to complete six back-to-back expeditions in a variety of extreme environments.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/crq5n7e1jjjzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Raj Kamal Jha is an Indian newspaper editor and novelist writing in English.",
-      "body": "He currently serves as the Editor-in-Chief of The Indian Express. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Raj_Kamal_Jha"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1420 —",
-      "hook": "Beijing is officially designated the capital of the Ming dynasty when the Forbidden City is completed.",
-      "body": "Beijing, previously romanized as Peking, is the capital city of China. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg/330px-Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Beijing"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Here's one for the group chat —",
-      "hook": "Mount Wow is a prominent 6,040+ ft mountain summit located in the southwest corner of Mount Rainier National Park, in Pierce County of Washington state.",
-      "body": "It is part of the Cascade Range, and lies 8.6 mi (13.8 km) southwest of the summit of Mount Rainier. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/West_face_of_Mount_Wow.jpg/330px-West_face_of_Mount_Wow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mount_Wow"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1636 —",
-      "hook": "The Massachusetts Bay Colony votes to establish a theological college, which would later become Harvard University.",
-      "body": "The Massachusetts Bay Colony settlement on the east coast of North America around Massachusetts Bay, a territory inhabited by Algonquian Native American tribes. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/English_Red_Ensign_1620.svg/330px-English_Red_Ensign_1620.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony"
+      "url": "https://en.wikipedia.org/wiki/Christian_I_of_Denmark"
     }
   ]
 }
