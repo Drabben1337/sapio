@@ -1,26 +1,103 @@
 {
-  "generated": "2026-10-28T19:55:54.988Z",
-  "count": 20,
+  "generated": "2026-10-28T23:41:25.114Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1893 —",
+      "hook": "Pyotr Tchaikovsky's Symphony No. 6 in B Minor, Pathétique receives its première performance only nine days before the composer's death.",
+      "body": "Pyotr Ilyich Tchaikovsky was a Russian composer of the Romantic period. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg/330px-Tchaikovsky_by_Reutlinger_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Lavelle Westbrooks is an American former professional football cornerback.",
-      "body": "He was selected by the Cincinnati Bengals in the seventh round of the 2014 NFL draft. One of those things you can't un-know.",
+      "opener": "You probably never noticed this —",
+      "hook": "PictureTel Corporation was one of the first commercial videoconferencing product companies.",
+      "body": "It achieved peak revenues of over $490 million in 1996 and 1997 and was eventually acquired by Polycom in October 2001. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/PictureTel_logo.svg/330px-PictureTel_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/PictureTel"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Robot Alchemic Drive or R.A.D.",
+      "body": "is a 2002 action-adventure mecha fighting video game developed by Sandlot and published by Enix for the PlayStation 2. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/RADcover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robot_Alchemic_Drive"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1520 —",
+      "hook": "Ferdinand Magellan reaches the Pacific Ocean.",
+      "body": "Ferdinand Magellan was a Portuguese explorer best known for planning and leading the 1519–1522 Spanish expedition to the East Indies. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ferdinand_Magellan.jpg/330px-Ferdinand_Magellan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Michael Lashuk was a Canadian professional football player and coach.",
+      "body": "An fullback and linebacker, he played in the Canadian Football League for the Edmonton Eskimos from 1957 to 1963. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Lavelle_Westbrooks"
+      "url": "https://en.wikipedia.org/wiki/Mike_Lashuk"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "According to the 2011 census the parish had a population of 96.",
+      "body": "Boconnoc is a civil parish in Cornwall, England, United Kingdom, approximately four miles (6 km) east of the town of Lostwithiel. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Boconnoc_Church%2C_Boconnoc_Estate-geograph.org-uk-3559781.jpg/330px-Boconnoc_Church%2C_Boconnoc_Estate-geograph.org-uk-3559781.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boconnoc"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Quail and Millet (粟に鶉図) is a 17th-century painting on silk by Kiyohara Yukinobu.",
-      "body": "It is in the collection of the Metropolitan Museum of Art, in New York. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%E7%B2%9F%E3%81%AB%E9%B6%89%E5%9B%B3-Quail_and_Millet_MET_DP251139.jpg/330px-%E7%B2%9F%E3%81%AB%E9%B6%89%E5%9B%B3-Quail_and_Millet_MET_DP251139.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Ayumu Murase is a Japanese voice actor who was formerly affiliated with the agency VIMS.",
+      "body": "He is especially known for voicing younger boys, even women with his high-pitched androgynous voice. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Quail_and_Millet_(Kiyohara_Yukinobu)"
+      "url": "https://en.wikipedia.org/wiki/Ayumu_Murase"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘We sold out tickets within 13 minutes’: new novel from romantasy author Sarah J Maas sparks fan mania",
+      "body": "<p>Move over Oasis – 6,000 people tried to buy 220 tickets to a masquerade ball to celebrate the release of A Court of Splintered Harmony, while specialist bookshops catering for the genre report huge sales</p><p>When The Spicy Librarian, a",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/books/2026/oct/28/we-sold-out-tickets-within-13-minutes-new-novel-from-romantasy-author-sarah-j-maas-sparks-fan-mania"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "French protests hit local box office but admissions rebound, productions largely unaffected",
+      "body": "French film industry has largely weathered the turmoil caused by large-scale protests in the country.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/french-protests-hit-local-box-office-but-admissions-rebound-productions-largely-unaffected/5221819.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Netherlands pulls out of Eurovision again over Israel participation",
+      "body": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -33,167 +110,80 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Phoenix United Mine is a disused 19th century copper and tin mine in Cornwall, England, UK.",
-      "body": "Heavy metals left over in the soil from the mining operations have allowed mosses and lichens to flourish, and today the site is a Site of Special Scientific Interest (SSSI), noted for its biological characteristics. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Phoenix_United_mine.jpg/330px-Phoenix_United_mine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Phoenix_United_Mine"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 969 —",
-      "hook": "The Byzantine Empire recovers Antioch from Arab rule.",
-      "body": "The Byzantine Empire, also known as the Eastern Roman Empire, was the continuation of the Eastern part of the Roman Empire centred on Constantinople during late antiquity and the Middle Ages. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Eastern_Roman_Empire_565_CE.svg/330px-Eastern_Roman_Empire_565_CE.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1420 —",
+      "hook": "Beijing is officially designated the capital of the Ming dynasty when the Forbidden City is completed.",
+      "body": "Beijing, previously romanized as Peking, is the capital city of China. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg/330px-Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Byzantine_Empire"
+      "url": "https://en.wikipedia.org/wiki/Beijing"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "hook": "Michael Gambon: the authorised biography review – a brilliant actor, and a master deceiver",
+      "body": "<p>From the National Theatre to Harry Potter, Gambon’s shapeshifting life leaves many questions still unanswered</p><p>Michael Gambon began his acting career with a preposterous bluff. Applying for a job at Dublin’s Gate theatre, the young ",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+      "url": "https://www.theguardian.com/books/2026/oct/27/michael-gambon-the-authorised-biography-review-a-brilliant-actor-and-a-master-deceiver"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Klara and the Sun review – Taika Waititi’s manic pixie dream robot sci-fi is a sentimental mess",
-      "body": "<p>The director of Hunt for the Wilderpeople and Jojo Rabbit turns Kazuo Ishiguro’s AI fable into a twee, tiresome tale of love and grief</p><p>Taika Waititi detonates an explosion of postmodern quirkiness and ironic dorkiness in this unbea",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/15/klara-and-the-sun-review-taika-waititi-kazuo-ishiguro"
+      "opener": "The Guardian · Books —",
+      "hook": "Time Being by Jude Cook review – a smart existential tale of midlife",
+      "body": "<p>A fatal mistake sparks this juicy melodrama, in which a philosophy professor navigates the guilt of being a survivor</p><p>What if, battered by cancer and cancer treatment, you decided to end your life? And what if it went wrong and you ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/27/time-being-by-jude-cook-review-a-smart-existential-tale-of-midlife"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "The Alaska Highway first connects Alaska to the North American railway network at Dawson Creek in Canada.",
-      "body": "The Alaska Highway is a highway in North America which was constructed during World War II to connect the contiguous United States with Alaska through Canada. The world is stranger than it lets on.",
+      "opener": "On this day in 1628 —",
+      "hook": "French Wars of Religion: The Siege of La Rochelle ends with the surrender of the Huguenots after fourteen months.",
+      "body": "The French Wars of Religion were a series of civil wars between French Catholics and Protestants from 1562 to 1598. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/La_masacre_de_San_Bartolom%C3%A9%2C_por_Fran%C3%A7ois_Dubois.jpg/330px-La_masacre_de_San_Bartolom%C3%A9%2C_por_Fran%C3%A7ois_Dubois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/French_Wars_of_Religion"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1948 —",
+      "hook": "Paul Hermann Müller is awarded the Nobel Prize in Physiology or Medicine for his discovery of the insecticidal properties of DDT.",
+      "body": "Paul Hermann Müller, also known as Pauly Mueller, was a Swiss chemist who received the 1948 Nobel prize in Physiology or Medicine for his 1939 discovery of insecticidal qualities and use of DDT in the control of vector diseases such as malaria and yellow fever. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Paul_Hermann_M%C3%BCller_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Paul_Hermann_M%C3%BCller"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Leeds Other Paper (LOP) was an alternative or underground newspaper published from 1974 to 1994 in Leeds, West Yorkshire, England.",
+      "body": "It was known as the Northern Star from 1991. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a2/Leeds_Other_Paper_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leeds_Other_Paper"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Babydoll singer says life will 'never be the same again' after UK number one",
+      "body": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2013 —",
+      "hook": "Five people are killed and 38 are injured after a car crashes into barriers at Tiananmen Square in China.",
+      "body": "On 28 October 2013, a car ran over pedestrians and crashed in Tiananmen Square, Beijing, China, in a terrorist suicide attack. The world is stranger than it lets on.",
       "img": null,
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Alaska_Highway"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Wildwood review – Laika’s pleasingly old fashioned stop-motion magic-forest odyssey",
-      "body": "<p>The makers of Coraline return with their distinctive animation style in a magical tale of a secret world of strange beasts, talking animals and evil governesses</p><p>Here is an engaging family movie from the Portland-based Laika studio ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/11/wildwood-review-carey-mulligan-laika"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1940 —",
-      "hook": "World War II: Greece rejects Italy's ultimatum. Italy invades Greece through Albania a few hours later.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "Spatial planning is normally undertaken by state actors—at either the national, regional or local levels—but is sometimes undertaken by private sector actors as well.",
-      "body": "Spatial planning is the management of space and resources through the creation and implementation of a plan restricting how space can be used and developed. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/NovoLisice.jpg/330px-NovoLisice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Spatial_planning"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
-      "body": "<p>Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain</p><p>A sense of desperation is understandably in the air over at DC, the company, ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "It is bounded by the comuni of Barile, Forenza, Maschito, Ripacandida, Venosa.",
-      "body": "Ginestra is an Arbëreshë town and comune in the Province of Potenza, Basilicata, Italy. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Ginestra_vista_da_Ripacandida.jpg/330px-Ginestra_vista_da_Ripacandida.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ginestra"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1971 —",
-      "hook": "Prospero becomes the only British satellite to be launched by a British rocket.",
-      "body": "The Prospero satellite, also known as the X-3, was launched by the United Kingdom in 1971. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Prospero_X-3_model_2012.JPG/330px-Prospero_X-3_model_2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Prospero_(spacecraft)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The 1976 Maine Black Bears baseball team represented the University of Maine in the 1976 NCAA Division I baseball season.",
-      "body": "The Black Bears were led by John Winkin in his 2nd year as head coach, and played as part of the Yankee Conference. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1976_Maine_Black_Bears_baseball_team"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Kalila Stormfire's Economical Magick Services is a fantasy podcast about a young witch named Kalila running a business.",
-      "body": "The podcast was independently created and produced by Lisette Alvarez, a Cuban-American Queer content creator. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Kalila_Stormfire%27s_Economical_Magick_Services_Podcast.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kalila_Stormfire's_Economical_Magick_Services"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I was sideswiped by Giada Scodellaro’s <strong>Ruins, Child</strong>. A brilliant, strange book that challeng",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2009 —",
-      "hook": "US President Barack Obama signs the Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act.",
-      "body": "Barack Hussein Obama II is an American retired politician who served as the 44th president of the United States from 2009 to 2017. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Barack_Obama"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1636 —",
-      "hook": "The Massachusetts Bay Colony votes to establish a theological college, which would later become Harvard University.",
-      "body": "The Massachusetts Bay Colony settlement on the east coast of North America around Massachusetts Bay, a territory inhabited by Algonquian Native American tribes. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/English_Red_Ensign_1620.svg/330px-English_Red_Ensign_1620.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in October: new paperbacks from Zadie Smith, Thomas Pynchon and Francis Spufford",
-      "body": "<p>Looking for a new reading recommendation? Here are some brilliant new paperbacks, from a time-travelling fantasy novel to an eclectic essay collection. Discuss what you’re reading in paperback in the comments</p><p>***</p> <a href=\"https",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/oct/14/the-best-books-to-read-in-october-new-paperbacks-from-zadie-smith-thomas-pynchon-and-francis-spufford"
+      "url": "https://en.wikipedia.org/wiki/2013_Tiananmen_Square_attack"
     }
   ]
 }
