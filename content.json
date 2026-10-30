@@ -1,199 +1,249 @@
 {
-  "generated": "2026-10-30T19:45:13.973Z",
-  "count": 20,
+  "generated": "2026-10-30T23:19:10.389Z",
+  "count": 25,
   "items": [
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1863 —",
+      "hook": "Danish Prince Vilhelm arrives in Athens to assume his throne as George I, King of the Hellenes.",
+      "body": "George I was King of Greece from 30 March 1863 until his assassination on 18 March 1913. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/George_I_of_Greece%2C_c.1912.jpg/330px-George_I_of_Greece%2C_c.1912.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/George_I_of_Greece"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Józef Unrug was a German-born Polish admiral who served as a submarine commander in the Imperial German Navy in World War I and helped create Poland's navy after the independence of Poland.",
+      "body": "During the opening stages of World War II, he served as the Polish Navy's commander-in-chief. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/J%C3%B3zef_Unrug.jpg/330px-J%C3%B3zef_Unrug.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/J%C3%B3zef_Unrug"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Thomas Cook Travel Book Award originated as an initiative of Thomas Cook AG in 1980, with the aim of encouraging and rewarding the art of literary travel writing.",
+      "body": "The awards stopped in 2005. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Cook_Travel_Book_Award"
+    },
+    {
+      "type": "card",
+      "cat": "howitsmade",
+      "opener": "File under 'wait, really?' —",
+      "hook": "In 2023, Meta and Ray-Ban released Ray-Ban Meta, the second generation of the companies' smart glasses line, with Meta AI integration.",
+      "body": "In September 2021, Meta launched Ray-Ban Stories, its first generation of smart glasses. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Ray-Ban_Stories.jpg/330px-Ray-Ban_Stories.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Meta_smart_glasses"
+    },
+    {
+      "type": "card",
+      "cat": "howitsmade",
+      "opener": "You probably never noticed this —",
+      "hook": "The Courtship of Anne Boleyn is an oil on canvas history painting by the German American artist Emanuel Leutze, from 1846.",
+      "body": "The work is also known as The Great Matter, a reference to the euphemism for the King's attempts to secure a divorce from his first wife. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/The_Great_Matter_by_Emanuel_Leutze.jpg/330px-The_Great_Matter_by_Emanuel_Leutze.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Courtship_of_Anne_Boleyn"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Are You With Me Now? by Hanif Kureishi review – a novelist unleashed",
+      "body": "<p>The constraints of Kureishi’s life after a devastating accident infuse his writing with a new and thrilling immediacy</p><p>Some months after returning home, after a grim year in hospitals in Rome and London, <a href=\"https://www.theguar",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/29/are-you-with-me-now-by-hanif-kureishi-review-back-to-basics"
+    },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Klara and the Sun review – Taika Waititi’s manic pixie dream robot sci-fi is a sentimental mess",
-      "body": "<p>The director of Hunt for the Wilderpeople and Jojo Rabbit turns Kazuo Ishiguro’s AI fable into a twee, tiresome tale of love and grief</p><p>Taika Waititi detonates an explosion of postmodern quirkiness and ironic dorkiness in this unbea",
+      "hook": "Fatherland review – Sandra Hüller brings a bayonet of intelligence to Paweł Pawlikowski’s taut return",
+      "body": "<p>Hanns Zischler stars as Thomas Mann on his 1949 tour of Germany, contending with political barbs, personal tragedy and his daughter, played by an extraordinary Hüller</p><p>Here is an impossibly elegant, poised historical vignette whose ",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/15/klara-and-the-sun-review-taika-waititi-kazuo-ishiguro"
+      "url": "https://www.theguardian.com/film/2026/may/14/fatherland-review-sandra-huller-thomas-mann-pawel-pawlikowski-cannes-film-festivali"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Frank Edward Boland, James Paul Boland and Joseph John Boland were early aircraft designers from Rahway, New Jersey who started the Boland Airplane and Motor Company.",
-      "body": "The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/Francis_Edward_Boland_%281873-1913%29_circa_1910.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Zhu in 1994, and is found in China.",
+      "body": "Dianleucauge is a monotypic genus of Chinese long-jawed orb-weavers containing the single species, Dianleucauge deelemanae. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Boland_brothers"
+      "url": "https://en.wikipedia.org/wiki/Dianleucauge"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1920 —",
+      "hook": "The Communist Party of Australia is founded in Sydney.",
+      "body": "The Communist Party of Australia (CPA), known as the Australian Communist Party (ACP) from 1944 to 1951, was an Australian communist party founded in 1920. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Colourised_version_of_the_logo_used_by_the_CPA.svg/330px-Colourised_version_of_the_logo_used_by_the_CPA.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Australia"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "How ‘You Can See Everything’ is exploding the awards race - The Screen Podcast",
+      "body": "Plus, inside the buzziest awards screenings and more talking points to kick off the season.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/how-you-can-see-everything-is-exploding-the-awards-race-the-screen-podcast/5221856.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Party Rock Anthem singer struggled with mental health before death",
+      "body": "Lauren Bennett, who featured on LMFAO's hit song, was found dead by her husband.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8gpw15e8yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "howitsmade",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Epoxyeicosatetraenoic acids are a set of biologically active epoxides that various cell types make by metabolizing the omega 3 fatty acid, eicosapentaenoic acid (EPA), with certain cytochrome P450 epoxygenases.",
+      "body": "These epoxygenases can metabolize EPA to as many as 10 epoxides that differ in the site and/or stereoisomer of the epoxide formed; however, the formed EEQs, while differing in potency, often have similar bioactivities and are commonly considered together. One ",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/17%2C18-epoxyeicosatetraenoic_acid.svg/330px-17%2C18-epoxyeicosatetraenoic_acid.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Epoxyeicosatetraenoic_acid"
+    },
+    {
+      "type": "card",
+      "cat": "howitsmade",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The company is known for producing pumps, multi-tools, saddle bags, bottle cages, lights and GPS cyclocomputers.",
+      "body": "Lezyne is a manufacturer of bicycle accessories headquartered in Reno, Nevada, with offices in San Luis Obispo, Berlin and Taichung. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lezyne"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "I Love Boosters review – supercool outlaw women go shoplifting in Boots Riley’s frantic and funny caper",
+      "body": "<p>Demi Moore’s haute-couture maven attracts the attention of a gang of contemporary Robin Hood type clothes robbers in Riley’s fashion biz satire </p><p>Here is an entertaining, if very exhausting fantasy-caper about the fashion biz from B",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/oct/29/i-love-boosters-review-boots-riley-shoplifting-satire-is-a-mile-a-minute-melee-of-unadulterated-keraziness"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "Holocaust: Anne and Margot Frank are deported from Auschwitz to the Bergen-Belsen concentration camp, where they die from disease the following year, shortly before the end of WWII.",
+      "body": "Annelies Marie Frank was a German-born Jewish diarist and Holocaust victim. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Anne_Frank_passport_photo%2C_May_1942_%28cropped%29.jpg/330px-Anne_Frank_passport_photo%2C_May_1942_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Anne_Frank"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Dean Cavanagh is a screenwriter, novelist and Playwright born in Bradford, West Yorkshire.",
+      "body": "In 1990, at the height of the acid house scene, he founded the club culture magazine Herb Garden and a band with Enzo Annecchini. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b0/DeanCavanaghWriter.jpg/330px-DeanCavanaghWriter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dean_Cavanagh"
+    },
+    {
+      "type": "card",
+      "cat": "howitsmade",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Chloroxylenol comprises 4.8% of the admixture, with pine oil, isopropanol, castor oil, soap and water.",
+      "body": "Dettol antiseptic liquid is a product produced by the Dettol Brand for Reckitt. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dettol_antiseptic_liquid"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Sarah Palin, while serving as governor of Alaska, was nominated as the first female candidate of the Republican Party for Vice President of the United States.",
+      "body": "Following the nomination, her public image came under close media scrutiny, particularly regarding her religious perspective on public life, her socially conservative views, and a perceived lack of experience. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Palin_waving-RNC-20080903_cropped.jpg/330px-Palin_waving-RNC-20080903_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Public_image_of_Sarah_Palin"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1953 —",
+      "hook": "President Eisenhower approves the top-secret document NSC 162/2 concerning the maintenance of a strong nuclear deterrent force against the Soviet Union.",
+      "body": "Dwight David Eisenhower was the 34th president of the United States, serving from 1953 to 1961. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "An inchoative verb, sometimes called an \"inceptive\" verb, shows a process of beginning or becoming.",
+      "body": "Productive inchoative affixes exist in several languages, including the suffixes present in Latin and Ancient Greek, and consequently some Romance languages. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inchoative_verb"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "ESA —",
+      "hook": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
+      "body": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two teles",
+      "src": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "La Chaîne Disney was a Canadian French-language specialty channel owned by Teletoon Canada, Inc., a subsidiary of Corus Entertainment under license from The Walt Disney Company, and launched on September 1, 2015, replacing Télétoon Rétro.",
+      "body": "It was a localized version of the American television network Disney Channel, broadcasting live-action and animated programming aimed at French-speaking children in Canada. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/DisneyLaChaine.svg/330px-DisneyLaChaine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/La_Cha%C3%AEne_Disney"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "World War I: The Ottoman Empire signs the Armistice of Mudros with the Allies.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Celebrity Traitors comes to a climax in nail-biting final",
+      "body": "The second series of the hit series reached its climax on Friday after attracting 15 million viewers.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1836 —",
       "hook": "Louis Napoleon launches the unsuccessful Strasbourg Coup to overthrow the July Monarchy in France",
-      "body": "Napoleon III was the first president of France from 1848 to 1852 and then Emperor of the French from 1852 until his deposition in 1870. Worth a quiet trip down the rabbit hole.",
+      "body": "Napoleon III was the first president of France from 1848 to 1852 and then Emperor of the French from 1852 until his deposition in 1870. The world is stranger than it lets on.",
       "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Alexandre_Cabanel_002.jpg/330px-Alexandre_Cabanel_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Napoleon_III"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Michaelmas (1977) is a science fiction novel by American writer Algis Budrys, first published as a serial in The Magazine of Fantasy & Science Fiction in August and September 1976, and published in revised form as a novel in 1977.",
-      "body": "Michaelmas is largely about a renowned newsman who in fact controls, rather than simply reports events thanks to his AI creation \"Domino\". One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/95/Michaelmas_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Michaelmas_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I was sideswiped by Giada Scodellaro’s <strong>Ruins, Child</strong>. A brilliant, strange book that challeng",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘We sold out tickets within 13 minutes’: new novel from romantasy author Sarah J Maas sparks fan mania",
-      "body": "<p>Move over Oasis – 6,000 people tried to buy 220 tickets to a masquerade ball to celebrate the release of A Court of Splintered Harmony, while specialist bookshops catering for the genre report huge sales</p><p>When The Spicy Librarian, a",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/28/we-sold-out-tickets-within-13-minutes-new-novel-from-romantasy-author-sarah-j-maas-sparks-fan-mania"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "His arched eyebrow and cigar-smoke punctuation became familiar trademarks.",
-      "body": "George Burns was an American comedian, actor, writer, and singer, and one of the few entertainers whose career successfully spanned vaudeville, radio, film, and television. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/George_Burns_1961.JPG/330px-George_Burns_1961.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/George_Burns"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Metamorphosis, also translated as The Transformation, is a novella by Franz Kafka published in 1915.",
-      "body": "One of Kafka's best-known works, The Metamorphosis tells the story of salesman Gregor Samsa, who wakes to find himself inexplicably transformed into a huge insect and struggles to adjust to this condition, as does his family. Bring it up somewhere. Watch the r",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/56/Franz_Kafka_-_Die_Verwandlung.jpg/330px-Franz_Kafka_-_Die_Verwandlung.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Metamorphosis"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Leon Richard Forrest was an African-American novelist who taught at Northwestern University from 1973 until his death.",
-      "body": "His four major novels used mythology, history, and humor to explore \"Forest County,\" a fictional world that resembled the south side of Chicago where Forrest grew up. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f9/Leon_Forrest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Leon_Forrest"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in October: new paperbacks from Zadie Smith, Thomas Pynchon and Francis Spufford",
-      "body": "<p>Looking for a new reading recommendation? Here are some brilliant new paperbacks, from a time-travelling fantasy novel to an eclectic essay collection. Discuss what you’re reading in paperback in the comments</p><p>***</p> <a href=\"https",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/oct/14/the-best-books-to-read-in-october-new-paperbacks-from-zadie-smith-thomas-pynchon-and-francis-spufford"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
-      "body": "<p>Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain</p><p>A sense of desperation is understandably in the air over at DC, the company, ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1956 —",
-      "hook": "Hungarian Revolution: The government of Imre Nagy recognizes newly established revolutionary workers' councils. Army officer Béla Király leads anti-Soviet militias in an attack on the headquarters of the Hungarian Working People's Party.",
-      "body": "The Hungarian Revolution of 1956, also known as the Hungarian Uprising, was an attempted countrywide revolution against the government of the Hungarian People's Republic (1949–1989) and the policies caused by the government's subordination to the Union of Soviet Socialist Republics (USSR). The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/330px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "World War II: Lt. Tony Fasson and Able Seaman Colin Grazier drown while taking code books from the sinking German submarine U-559.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Wildwood review – Laika’s pleasingly old fashioned stop-motion magic-forest odyssey",
-      "body": "<p>The makers of Coraline return with their distinctive animation style in a magical tale of a secret world of strange beasts, talking animals and evil governesses</p><p>Here is an engaging family movie from the Portland-based Laika studio ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/oct/11/wildwood-review-carey-mulligan-laika"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Tampa is a thriller novel and the debut novel by author Alissa Nutting.",
-      "body": "Published in 2013, it follows middle school teacher Celeste Price, who grooms and molests one of her young male students. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6f/Tampa_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tampa_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1888 —",
-      "hook": "The Rudd Concession is granted by Matabeleland to agents of Cecil Rhodes.",
-      "body": "The Rudd Concession, a written concession for exclusive mining rights in Matabeleland, Mashonaland and other adjoining territories in what is today Zimbabwe, was granted by King Lobengula of Matabeleland to Charles Rudd, James Rochfort Maguire and Francis Thompson, three agents acting on behalf of the South African–based politician and businessman Cecil Rhodes, on 30 October 1888. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Rudd_Concession.jpg/330px-Rudd_Concession.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Rudd_Concession"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "WorldEnd, short for What Do You Do at the End of the World?",
-      "body": ", also known as SukaSuka, is a Japanese light novel series written by Akira Kareno and illustrated by Ue. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Sukasuka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/WorldEnd"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1858 —",
-      "hook": "Approximately 20 people die in Bradford, England, UK, after being poisoned from ingesting sweets that had been accidentally adulterated with arsenic trioxide.",
-      "body": "Bradford is a city in West Yorkshire, England. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bradford_-_City_Hall_-_06.jpg/330px-Bradford_-_City_Hall_-_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bradford"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 130 —",
-      "hook": "Emperor Hadrian establishes the city of Antinoöpolis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt.",
-      "body": "Year 130 (CXXX) was a common year starting on Saturday of the Julian calendar. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/AD_130"
     }
   ]
 }
