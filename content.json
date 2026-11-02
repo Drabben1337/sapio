@@ -1,26 +1,7 @@
 {
-  "generated": "2026-11-01T23:10:05.807Z",
-  "count": 21,
+  "generated": "2026-11-02T02:52:22.267Z",
+  "count": 18,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "UK-Ireland box office preview: ‘Wicker’ weaves its way into 676 cinemas for Black Bear",
-      "body": "Plus, Lance Oppenheim’s ‘Primetime’ and Boots Riley’s ‘I Love Boosters’.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-wicker-weaves-its-way-into-676-cinemas-for-black-bear/5221917.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "He was the first of many West Indian cricketers of Indian origin, and was one of the five Wisden Cricketers of the Year in 1951.",
-      "body": "Sonny Ramadhin, CM was a West Indian cricketer, and was a dominant bowler of the 1950s. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sonny_Ramadhin"
-    },
     {
       "type": "card",
       "cat": "news",
@@ -32,42 +13,62 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "He played a major role in making the petroleum reserves of the Middle East available to Western development and is credited with being the first person to exploit Iraqi oil.",
-      "body": "Calouste Sarkis Gulbenkian was an Armenian-British businessman. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Calouste_Gulbenkian_photo.jpg/330px-Calouste_Gulbenkian_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1997 —",
-      "hook": "Titanic premieres publicly at Tokyo festival, launching a global blockbuster career.",
-      "body": "Titanic is a 1997 American historical romance film written and directed by James Cameron. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Titanic_(1997_film)"
-    },
-    {
-      "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Organic at 20: how the publicity firm expanded while holding onto its “scrappy underdog” ethos",
-      "body": "When Caragh Cook quit PR agency Rogers & Cown in 2011 to take a senior role at the newly beefed-up PR division of Organic Marketing, she never expected to witness the evolutionary path the company has subsequently taken.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/organic-at-20-how-the-publicity-firm-expanded-while-holding-onto-its-scrappy-underdog-ethos/5221893.article"
+      "opener": "The Guardian · Culture —",
+      "hook": "The week’s best new tracks and the act you need to know: Dutch squat-punks Bombstrap’s uncompromising racket",
+      "body": "<p>The Rotterdam band are a riot of sound, look and attitude led by Eva Kah, who is as much a living artwork as she is a phenomenal live performer</p><p><strong>From</strong> Rotterdam, the Netherlands <br> <strong>Recommended if you like <",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/music/2026/oct/30/the-weeks-best-new-songs-dutch-squat-punks-bombstrap-rotterdam"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Catherine \"Cathy\" Ames, later known as Kate Trask or Kate Albey, is a fictional character and the main antagonist in John Steinbeck's 1952 novel East of Eden.",
+      "body": "She is married to the main protagonist Adam Trask, and the mother of his twin sons, Caleb and Aron. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Jo_Van_Fleet_in_East_of_Eden_trailer_2.jpg/330px-Jo_Van_Fleet_in_East_of_Eden_trailer_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cathy_Ames"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1916 —",
+      "hook": "Hussein bin Ali proclaims himself \"King of the Arab Countries\".",
+      "body": "Hussein bin Ali al-Hashimi was a Hejazi leader from the Banu Qatadah branch of the Banu Hashim clan who was the Sharif and Emir of Mecca from 1908 and, after proclaiming the Great Arab Revolt against the Ottoman Empire, King of the Hejaz, even if he refused this title, from 1916 to 1924. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sharif_Husayn.jpg/330px-Sharif_Husayn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hussein%2C_King_of_Hejaz"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Dossouye is a sword and sorcery novel by American writer Charles R.",
-      "body": "Saunders, and published independently in 2008 by Sword & Soul Media via the online press Lulu. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Dossouye.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The Condor Trilogy (射鵰三部曲) is a series of three wuxia novels by Hong Kong writer Jin Yong – The Legend of the Condor Heroes (射鵰英雄傳), The Return of the Condor Heroes (神鵰俠侶), and The Heaven Sword and Dragon Saber (倚天屠龍記) – which were first published as serials in the newspapers Hong Kong Commercial Daily and Ming Pao between 1957 and 1963.",
+      "body": "One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dossouye"
+      "url": "https://en.wikipedia.org/wiki/Condor_Trilogy"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1973 —",
+      "hook": "Aeroflot Flight 19 is hijacked and diverted to Vnukovo International Airport, where the aircraft is stormed by authorities.",
+      "body": "Aeroflot Flight 19 was a scheduled passenger flight from Bykovo Airport, Moscow, Soviet Union, to Bryansk Airport, Bryansk, Soviet Union. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Yakovlev_Yak-40%2C_CCCP-87792%2C_Aeroflot.jpg/330px-Yakovlev_Yak-40%2C_CCCP-87792%2C_Aeroflot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_19"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Omar Mohamed El-Sayed Fikri is an Egyptian writer and astronomer, born in Giza Governorate in 1965.",
+      "body": "He received a bachelor's degree in astronomy from the Faculty of Science at Cairo University in 1987, and a master's degree in astronomy from the Faculty of Science at Cairo University in 1992, then a PhD in astrophysics from the Faculty of Science at the Univ",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Omar_Mohamed_El-Sayed_Fikri"
     },
     {
       "type": "card",
@@ -80,33 +81,60 @@
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1814 —",
-      "hook": "Congress of Vienna opens to redraw the European political map after the defeat of France in the Napoleonic Wars.",
-      "body": "The Congress of Vienna of 1814–1815 was a series of international diplomatic meetings to discuss and agree upon a possible new layout of the European political and constitutional order after the downfall of the French emperor Napoleon Bonaparte. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Europe_1815_map_en.png/330px-Europe_1815_map_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Congress_of_Vienna"
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Organic at 20: how the publicity firm expanded while holding onto its “scrappy underdog” ethos",
+      "body": "When Caragh Cook quit PR agency Rogers & Cown in 2011 to take a senior role at the newly beefed-up PR division of Organic Marketing, she never expected to witness the evolutionary path the company has subsequently taken.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/features/organic-at-20-how-the-publicity-firm-expanded-while-holding-onto-its-scrappy-underdog-ethos/5221893.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2001 —",
-      "hook": "Turkey, Australia, and Canada agree to commit troops to the invasion of Afghanistan.",
-      "body": "Turkey, officially the Republic of Türkiye, is a country mainly located in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1986 —",
+      "hook": "Lebanon hostage crisis: U.S. hostage David Jacobsen is released in Beirut after 17 months in captivity.",
+      "body": "The Lebanon hostage crisis was the kidnapping in Lebanon of 104 foreign hostages between 1982 and 1992, when the Lebanese Civil War was at its height. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/American_University_of_Beirut_-_1970.jpg/330px-American_University_of_Beirut_-_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Turkey"
+      "url": "https://en.wikipedia.org/wiki/Lebanon_hostage_crisis"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Three Steps Above Heaven is a 2010 Spanish romantic drama film directed by Fernando González Molina which stars Mario Casas and María Valverde.",
-      "body": "Written by Ramón Salazar, it is a remake of the Italian film Three Steps Over Heaven, which is based on the 1992 novel of the same name by Federico Moccia. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/95/ThreeStepsAboveHeave2010Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Three_Steps_Above_Heaven"
+      "cat": "history",
+      "opener": "On this day in 1947 —",
+      "hook": "In California, designer Howard Hughes performs the maiden (and only) flight of the Hughes H-4 Hercules (also known as the \"Spruce Goose\"), the largest fixed-wing aircraft ever built until Scaled Composites rolled out their Stratolaunch in May 2017.",
+      "body": "Howard Robard Hughes Jr. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Howard_Hughes_1938.jpg/330px-Howard_Hughes_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Howard_Hughes"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "After 50 years of playing video games, I’m finally starring in one",
+      "body": "<p>Voicing the main character in Black Tides Draga’s Wake led to me making the kinds of noises I haven’t made since my honeymoon but also one of my favourite moments as a father</p><p>“I listen to you on the radio and I keep hearing your vo",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "UK-Ireland box office preview: ‘Wicker’ weaves its way into 676 cinemas for Black Bear",
+      "body": "Plus, Lance Oppenheim’s ‘Primetime’ and Boots Riley’s ‘I Love Boosters’.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-wicker-weaves-its-way-into-676-cinemas-for-black-bear/5221917.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1982 —",
+      "hook": "Channel 4, the British free-to-air public broadcast television channel funded by its commercial activities, starts broadcasting.",
+      "body": "Channel 4 is a British free-to-air public broadcast television channel owned and operated by Channel Four Television Corporation. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/330px-Channel_4_%28On_Demand%29_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Channel_4"
     },
     {
       "type": "card",
@@ -119,91 +147,33 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Kanto Wanderer is a 1963 Japanese yakuza film directed by Seijun Suzuki and starring Akira Kobayashi, Chieko Matsubara, Daizaburo Hirata and Hiroko Itō.",
-      "body": "It was a programme picture produced by the Nikkatsu Company to fill out the second half of a double bill with Shohei Imamura's The Insect Woman. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/5a/Kanto_Wanderer_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kanto_Wanderer"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Paul Frederic Bowles was an American composer, author, and translator.",
-      "body": "He became associated with the Moroccan city of Tangier, where he settled in 1947 and lived for 52 years to the end of his life. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/de/Paul_Bowles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Paul_Bowles"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "1730, it is one of Branford's handful of surviving 18th-century houses.",
-      "body": "The Timothy Bradley House is a historic house at 12 Bradley Street in Branford, Connecticut. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/TIMOTHY_BRADLEY_HOUSE%2C_BRANFORD%2C_NEW_HAVEN_COUNTY%2C_CT.jpg/330px-TIMOTHY_BRADLEY_HOUSE%2C_BRANFORD%2C_NEW_HAVEN_COUNTY%2C_CT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Timothy_Bradley_House"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Attention Seeking Behaviour by Aea Varfis-van Warmelo review – a slippery liar’s tale",
-      "body": "<p>Shortlisted for the Goldsmiths prize, this compelling interrogation of memory, justice and truth offers no easy answers</p><p>The Goldsmiths prize-shortlisted debut from British-Greek author Aea Varfis-van Warmelo opens with a confession",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/30/attention-seeking-behaviour-by-aea-varfis-van-warmelo-review-a-slippery-liars-tale"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1981 —",
-      "hook": "Antigua and Barbuda gains independence from the United Kingdom.",
-      "body": "Antigua and Barbuda is an archipelagic country in the Caribbean composed of Antigua, Barbuda, and dozens of other small islands. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/330px-Flag_of_Antigua_and_Barbuda.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1707 —",
+      "hook": "Four British naval vessels run aground on the Isles of Scilly because of faulty navigation. In response, the first Longitude Act is enacted in 1714.",
+      "body": "The Scilly naval disaster of 1707 was the loss of four warships of a Royal Navy fleet off the Isles of Scilly near the British mainland when they struck rocks on 22 October 1707. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Sir_Cloudesley_Shovell%2C_in_the_Association%2C_with_the_Eagle%2C_Rum%C3%B1y%2C_and_the_Firebrand%2C_Lost_on_the_Rocks_of_Scilly%2C_October%2C_22%2C_1707_%28cropped%29.jpg/330px-Sir_Cloudesley_Shovell%2C_in_the_Association%2C_with_the_Eagle%2C_Rum%C3%B1y%2C_and_the_Firebrand%2C_Lost_on_the_Rocks_of_Scilly%2C_October%2C_22%2C_1707_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
+      "url": "https://en.wikipedia.org/wiki/Scilly_naval_disaster_of_1707"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Kate Cayley is a Canadian writer and theatre director.",
-      "body": "She was the artistic director of Stranger Theatre and was playwright-in-residence at Toronto's Tarragon Theatre from 2009 to 2017. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Kate_Cayley_Credit_Livia_Ambros.jpg/330px-Kate_Cayley_Credit_Livia_Ambros.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "The Women in the Castle is a 2017 novel by Jessica Shattuck.",
+      "body": "The book, which became a New York Times Bestseller, is about three German women during and after World War II. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Women_in_the_Castle.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kate_Cayley"
+      "url": "https://en.wikipedia.org/wiki/The_Women_in_the_Castle"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Michael Mann superficially hurt in gun range accident",
-      "body": "Director scheduled to commence production on ‘Heat 2’ in new year.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/michael-mann-superficially-hurt-in-gun-range-accident/5221956.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1950 —",
-      "hook": "Puerto Rican nationalists Griselio Torresola and Oscar Collazo attempt to assassinate US President Harry S. Truman at Blair House.",
-      "body": "Puerto Rico, officially the Commonwealth of Puerto Rico, is a self-governing Caribbean archipelago and island organized as an unincorporated territory of the United States under the designation of commonwealth. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/330px-Flag_of_Puerto_Rico.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Puerto_Rico"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1963 —",
-      "hook": "The Arecibo Observatory in Arecibo, Puerto Rico, with the largest radio telescope ever constructed, officially opens.",
-      "body": "The Arecibo Observatory, also known as the National Astronomy and Ionosphere Center (NAIC) and formerly known as the Arecibo Ionosphere Observatory, is an observatory in Barrio Esperanza, Arecibo, Puerto Rico, owned by the US National Science Foundation (NSF). Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Arecibo_radio_telescope_SJU_06_2019_6144.jpg/330px-Arecibo_radio_telescope_SJU_06_2019_6144.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Arecibo_Observatory"
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Once on This Island is a coming-of-age one-act stage musical with a book and lyrics by Lynn Ahrens and music by Stephen Flaherty.",
+      "body": "It is based on the 1985 novel My Love, My Love; or, The Peasant Girl by Rosa Guy, a Caribbean-set retelling of Hans Christian Andersen's fairy tale The Little Mermaid. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Once_on_This_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Once_on_This_Island"
     }
   ]
 }
