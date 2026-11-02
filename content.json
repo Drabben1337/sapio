@@ -1,179 +1,269 @@
 {
-  "generated": "2026-11-02T02:52:22.267Z",
-  "count": 18,
+  "generated": "2026-11-02T10:08:23.085Z",
+  "count": 27,
   "items": [
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Director Michael Mann accidentally shoots himself in the leg at gun range",
-      "body": "<p>Mann taken to hospital with superficial injury after weapon accidentally discharged while holstered</p><p></p><p>Hollywood director Michael Mann has been taken to the hospital following an apparently accidental shooting at a Los Angeles ",
+      "hook": "I Died review – moving portrait of Tzotzil women confronting patriarchal violence in the Mexican highlands",
+      "body": "<p>Ana Ts’uyeb’s poetic film celebrates the resilience of Indigenous women while exploring the possibility of a different future</p><p>Shot in her home village of Naranjatic Alto in the Mexican highlands, Ana Ts’uyeb’s documentary debut is ",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg"
+      "url": "https://www.theguardian.com/film/2026/nov/02/i-died-review-moving-portrait-of-tzotzil-women-confronting-patriarchal-violence-in-the-mexican-highlands"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "The week’s best new tracks and the act you need to know: Dutch squat-punks Bombstrap’s uncompromising racket",
-      "body": "<p>The Rotterdam band are a riot of sound, look and attitude led by Eva Kah, who is as much a living artwork as she is a phenomenal live performer</p><p><strong>From</strong> Rotterdam, the Netherlands <br> <strong>Recommended if you like <",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/oct/30/the-weeks-best-new-songs-dutch-squat-punks-bombstrap-rotterdam"
+      "cat": "science",
+      "opener": "You probably never noticed this —",
+      "hook": "The retromolar space or retromolar gap is a space at the rear of the mandible, between the back of the last molar and the anterior edge of the ascending ramus where it crosses the alveolar margin.",
+      "body": "Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Retromolar_gap.jpg/330px-Retromolar_gap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Retromolar_space"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1622 —",
+      "hook": "The Imperial-Spanish army under the Count of Tilly captures Mannheim.",
+      "body": "Johann Tserclaes, Count of Tilly was a field marshal who commanded the Catholic League's forces in the Thirty Years' War. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Johann_Tserclaes_count_of_Tilly.jpg/330px-Johann_Tserclaes_count_of_Tilly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Johann_Tserclaes%2C_Count_of_Tilly"
+    },
+    {
+      "type": "card",
+      "cat": "science",
+      "opener": "Bet you didn't know —",
+      "hook": "This process amplifies DNA in samples using multiple primers and a temperature-mediated DNA polymerase in a thermal cycler.",
+      "body": "Multiplex polymerase chain reaction refers to the use of polymerase chain reaction to amplify several different DNA sequences simultaneously. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Multiplex_polymerase_chain_reaction"
+    },
+    {
+      "type": "card",
+      "cat": "science",
+      "opener": "Okay, this one's fun —",
+      "hook": "It was first isolated in 1978 from a subcutaneous lesion in a Hodgkin’s disease patient.",
+      "body": "Mycobacterium haemophilum is a Gram-positive, acid-fast bacterium in the phylum Actinomycetota. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mycobacterium_haemophilum"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1899 —",
+      "hook": "The Boers begin their 118-day siege of British-held Ladysmith during the Second Boer War.",
+      "body": "Boers are the descendants of the proto Afrikaans-speaking Free Burghers of the eastern Cape frontier in Southern Africa during the 17th, 18th, and 19th centuries. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Boerfamily1886.jpg/330px-Boerfamily1886.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Boers"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1917 —",
+      "hook": "The Military Revolutionary Committee of the Petrograd Soviet, in charge of preparation and carrying out the Russian Revolution, holds its first meeting.",
+      "body": "The Petrograd Military Revolutionary Committee (PMRC) (Russian: Петроградский военно-революционный комитет, romanized: Petrogradskiy voyenno-revolyutsionnyy komitet) was a militant group of the Petrograd Soviet and one of several military revolutionary committees that were created in the Russian Republic. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0_%D0%A0%D0%A1%D0%94%D0%A0%D0%9F_%D0%B8_%D0%92%D0%A0%D0%9A_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_1917_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C.png/330px-%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0_%D0%A0%D0%A1%D0%94%D0%A0%D0%9F_%D0%B8_%D0%92%D0%A0%D0%9A_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_1917_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Petrograd_Military_Revolutionary_Committee"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1964 —",
+      "hook": "King Saud of Saudi Arabia is deposed by a family coup, and replaced by his half-brother Faisal.",
+      "body": "Saud bin Abdulaziz Al Saud was King of Saudi Arabia from 9 November 1953 until his abdication on 2 November 1964. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Saud_IV_of_Saudi_Arabia_portrait.jpg/330px-Saud_IV_of_Saudi_Arabia_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Saud_of_Saudi_Arabia"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Catherine \"Cathy\" Ames, later known as Kate Trask or Kate Albey, is a fictional character and the main antagonist in John Steinbeck's 1952 novel East of Eden.",
-      "body": "She is married to the main protagonist Adam Trask, and the mother of his twin sons, Caleb and Aron. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Jo_Van_Fleet_in_East_of_Eden_trailer_2.jpg/330px-Jo_Van_Fleet_in_East_of_Eden_trailer_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Pauline Elizabeth Smith Crenshaw was an American clubwoman, socialite, and genealogist.",
+      "body": "She co-founded the Montgomery Museum of Fine Arts in 1930 and served as its president from 1944 to 1953. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cathy_Ames"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1916 —",
-      "hook": "Hussein bin Ali proclaims himself \"King of the Arab Countries\".",
-      "body": "Hussein bin Ali al-Hashimi was a Hejazi leader from the Banu Qatadah branch of the Banu Hashim clan who was the Sharif and Emir of Mecca from 1908 and, after proclaiming the Great Arab Revolt against the Ottoman Empire, King of the Hejaz, even if he refused this title, from 1916 to 1924. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sharif_Husayn.jpg/330px-Sharif_Husayn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hussein%2C_King_of_Hejaz"
+      "url": "https://en.wikipedia.org/wiki/Pauline_Smith_Crenshaw"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Condor Trilogy (射鵰三部曲) is a series of three wuxia novels by Hong Kong writer Jin Yong – The Legend of the Condor Heroes (射鵰英雄傳), The Return of the Condor Heroes (神鵰俠侶), and The Heaven Sword and Dragon Saber (倚天屠龍記) – which were first published as serials in the newspapers Hong Kong Commercial Daily and Ming Pao between 1957 and 1963.",
-      "body": "One of those things you can't un-know.",
-      "img": null,
+      "hook": "Taco Cat Goat Cheese Pizza (TCGCP) is a shedding-type card game with a dedicated deck created by Dolphin Hat Games.",
+      "body": "It launched in 2017, targeted toward families, and grew in popularity during the COVID-19 pandemic. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Taco_Cat_Goat_Cheese_Pizza_box.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Condor_Trilogy"
+      "url": "https://en.wikipedia.org/wiki/Taco_Cat_Goat_Cheese_Pizza"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘We both know how we feel about death and dying’: Rhys Ifans and Laura Linney on their brutally honest Parkinson’s drama",
+      "body": "<p>Written by Vicar of Dibley co-creator Paul Mayhew-Archer, who has the disease, Onwards and Sideways sees the actors play a couple who bond over their diagnoses – a devastating subject but laced with humour too, they say</p><p>Ahead of pr",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1973 —",
-      "hook": "Aeroflot Flight 19 is hijacked and diverted to Vnukovo International Airport, where the aircraft is stormed by authorities.",
-      "body": "Aeroflot Flight 19 was a scheduled passenger flight from Bykovo Airport, Moscow, Soviet Union, to Bryansk Airport, Bryansk, Soviet Union. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Yakovlev_Yak-40%2C_CCCP-87792%2C_Aeroflot.jpg/330px-Yakovlev_Yak-40%2C_CCCP-87792%2C_Aeroflot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1956 —",
+      "hook": "Hungarian Revolution: Nikita Khrushchev meets with leaders of other Communist countries to seek their advice on the situation in Hungary, selecting János Kádár as the country's next leader on the advice of Josip Broz Tito.",
+      "body": "The Hungarian Revolution of 1956, also known as the Hungarian Uprising, was an attempted countrywide revolution against the government of the Hungarian People's Republic (1949–1989) and the policies caused by the government's subordination to the Union of Soviet Socialist Republics (USSR). One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/330px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_19"
+      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
     },
     {
       "type": "card",
-      "cat": "books",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Rhyl Poster by Tom McCarthy review – is this avant-garde spy drama worth the riddles?",
+      "body": "<p>The hallucinatory crisis of a war-scarred jurist with a painkiller dependency makes for frustrating reading</p><p>Of the cohort of experimental novelists whose renown grew in the wake of the 2008 financial crash – names include <a href=\"",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/02/the-rhyl-poster-by-tom-mccarthy-review-is-this-avant-garde-spy-drama-worth-the-riddles"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Pay Attention by Laura Kuenssberg review – a BBC reporter’s howl of frustration",
+      "body": "<p>After more than two decades of studied neutrality, the journalist delivers some home truths about modern politics</p><p>Laura Kuenssberg always swore she would never write a book. Amid all the vitriol hurled her way, the BBC’s political ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/02/pay-attention-by-laura-kuenssberg-review-a-bbc-reporters-howl-of-frustration"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
       "opener": "Here's one for the group chat —",
-      "hook": "Omar Mohamed El-Sayed Fikri is an Egyptian writer and astronomer, born in Giza Governorate in 1965.",
-      "body": "He received a bachelor's degree in astronomy from the Faculty of Science at Cairo University in 1987, and a master's degree in astronomy from the Faculty of Science at Cairo University in 1992, then a PhD in astrophysics from the Faculty of Science at the Univ",
-      "img": null,
+      "hook": "The neighborhood is bounded by East Capitol Street SE, Interstate 295 SE, Fairlawn Avenue SE, Minnesota Avenue SE, Pennsylvania Avenue SE,",
+      "body": "Greenway is a residential neighborhood in Southeast Washington, D.C., in the United States. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Map_greenway.jpg/330px-Map_greenway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Omar_Mohamed_El-Sayed_Fikri"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
-      "body": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Organic at 20: how the publicity firm expanded while holding onto its “scrappy underdog” ethos",
-      "body": "When Caragh Cook quit PR agency Rogers & Cown in 2011 to take a senior role at the newly beefed-up PR division of Organic Marketing, she never expected to witness the evolutionary path the company has subsequently taken.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/organic-at-20-how-the-publicity-firm-expanded-while-holding-onto-its-scrappy-underdog-ethos/5221893.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1986 —",
-      "hook": "Lebanon hostage crisis: U.S. hostage David Jacobsen is released in Beirut after 17 months in captivity.",
-      "body": "The Lebanon hostage crisis was the kidnapping in Lebanon of 104 foreign hostages between 1982 and 1992, when the Lebanese Civil War was at its height. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/American_University_of_Beirut_-_1970.jpg/330px-American_University_of_Beirut_-_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Lebanon_hostage_crisis"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1947 —",
-      "hook": "In California, designer Howard Hughes performs the maiden (and only) flight of the Hughes H-4 Hercules (also known as the \"Spruce Goose\"), the largest fixed-wing aircraft ever built until Scaled Composites rolled out their Stratolaunch in May 2017.",
-      "body": "Howard Robard Hughes Jr. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Howard_Hughes_1938.jpg/330px-Howard_Hughes_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Howard_Hughes"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "After 50 years of playing video games, I’m finally starring in one",
-      "body": "<p>Voicing the main character in Black Tides Draga’s Wake led to me making the kinds of noises I haven’t made since my honeymoon but also one of my favourite moments as a father</p><p>“I listen to you on the radio and I keep hearing your vo",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "UK-Ireland box office preview: ‘Wicker’ weaves its way into 676 cinemas for Black Bear",
-      "body": "Plus, Lance Oppenheim’s ‘Primetime’ and Boots Riley’s ‘I Love Boosters’.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-wicker-weaves-its-way-into-676-cinemas-for-black-bear/5221917.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1982 —",
-      "hook": "Channel 4, the British free-to-air public broadcast television channel funded by its commercial activities, starts broadcasting.",
-      "body": "Channel 4 is a British free-to-air public broadcast television channel owned and operated by Channel Four Television Corporation. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/330px-Channel_4_%28On_Demand%29_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Channel_4"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "From Maya as Sir Mo Farah to Heidi as her own left hand: The best Halloween looks",
-      "body": "Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exyj525d9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1707 —",
-      "hook": "Four British naval vessels run aground on the Isles of Scilly because of faulty navigation. In response, the first Longitude Act is enacted in 1714.",
-      "body": "The Scilly naval disaster of 1707 was the loss of four warships of a Royal Navy fleet off the Isles of Scilly near the British mainland when they struck rocks on 22 October 1707. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Sir_Cloudesley_Shovell%2C_in_the_Association%2C_with_the_Eagle%2C_Rum%C3%B1y%2C_and_the_Firebrand%2C_Lost_on_the_Rocks_of_Scilly%2C_October%2C_22%2C_1707_%28cropped%29.jpg/330px-Sir_Cloudesley_Shovell%2C_in_the_Association%2C_with_the_Eagle%2C_Rum%C3%B1y%2C_and_the_Firebrand%2C_Lost_on_the_Rocks_of_Scilly%2C_October%2C_22%2C_1707_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Scilly_naval_disaster_of_1707"
+      "url": "https://en.wikipedia.org/wiki/Greenway_(Washington%2C_D.C.)"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The Women in the Castle is a 2017 novel by Jessica Shattuck.",
-      "body": "The book, which became a New York Times Bestseller, is about three German women during and after World War II. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Women_in_the_Castle.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Maryan Bohdanovych Zablotskyy is a Ukrainian politician and public figure.",
+      "body": "He serves as a People's Deputy of Ukraine of the Verkhovna Rada of Ukraine of the IX convocation, elected on the list of the \"Servant of the People\" party, and is a member of the party \"Servant of the People\". Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%D0%9C%D0%B0%D1%80%27%D1%8F%D0%BD_%D0%97%D0%B0%D0%B1%D0%BB%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D0%B9.jpg/330px-%D0%9C%D0%B0%D1%80%27%D1%8F%D0%BD_%D0%97%D0%B0%D0%B1%D0%BB%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D0%B9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Women_in_the_Castle"
+      "url": "https://en.wikipedia.org/wiki/Maryan_Zablotskyy"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Once on This Island is a coming-of-age one-act stage musical with a book and lyrics by Lynn Ahrens and music by Stephen Flaherty.",
-      "body": "It is based on the 1985 novel My Love, My Love; or, The Peasant Girl by Rosa Guy, a Caribbean-set retelling of Hans Christian Andersen's fairy tale The Little Mermaid. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Once_on_This_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "You probably never noticed this —",
+      "hook": "Black and Mormon is a 2004 book edited, with an introduction, by Newell G.",
+      "body": "It is a collection of articles about Black people and Mormonism, race and the LDS priesthood, and the experience of Black Mormons. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/71/Black_and_Mormon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Once_on_This_Island"
+      "url": "https://en.wikipedia.org/wiki/Black_and_Mormon"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Alex Garland’s Elden Ring adaptation is on course to be Hollywood’s goriest ever fantasy movie",
+      "body": "<p>The expansive project has hype and money behind it – but how do you avoid it falling into the disappointment trap so many films end up stumbling into?</p><p>If the history of failed Hollywood fantasy projects over the past 20 years has t",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/02/alex-garland-elden-ring-adaptation-amazon-mgm-cailee-spaeny"
+    },
+    {
+      "type": "card",
+      "cat": "science",
+      "opener": "Here's one for the group chat —",
+      "hook": "It consists of an imidazole ring attached to an ethylamine chain; under physiological conditions, the amino group of the side-chain is protonated.",
+      "body": "Histamine or histamin is an organic nitrogenous compound found in mammals and many vegetables, fruits and food products. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Histamine_structure.svg/330px-Histamine_structure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Histamine"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "‘I felt bad for my exes’: Awkwafina on making deeply personal TV – with her grandma",
+      "body": "<p>The star takes on her biggest challenge yet: resurrecting her family’s Cantonese restaurant. She discusses the stress of rewatching her sitcom, nearly becoming a meat inspector … and her beloved matriarch, who passed away after filming</",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/30/i-felt-bad-for-my-exes-awkwafina-on-making-deeply-personal-tv-with-her-grandma"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "He was originally credited with registering Discovery Claim, the discovery of gold that set off the Klondike Gold Rush on August 16, 1896.",
+      "body": "George Washington Carmack was an American prospector in the Yukon. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/George_Carmack_-_01.jpg/330px-George_Carmack_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Carmack"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Giorgio Alverà was an Italian bobsleigher who competed in the mid-1970s.",
+      "body": "He won a gold medal in the two-man event at the 1975 FIBT World Championships in Cervinia. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Giorgio_Alver%C3%A0"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Bet you didn't know —",
+      "hook": "It was described in 1994 by Australian arachnologist Robert Raven.",
+      "body": "Synothele arrakis is a species of mygalomorph spider in the Barychelidae family. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Synothele_arrakis"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It had an area of 3,828 square kilometres in the mid 17th century.",
+      "body": "The Principality of Brunswick-Wolfenbüttel was a subdivision of the Duchy of Brunswick-Lüneburg, whose history was characterised by numerous divisions and reunifications. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Herzogtum_Braunschweig_1789.png/330px-Herzogtum_Braunschweig_1789.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Brunswick-Wolfenb%C3%BCttel"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1889 —",
+      "hook": "North Dakota and South Dakota are admitted as the 39th and 40th U.S. states.",
+      "body": "North Dakota is a landlocked U.S. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Flag_of_North_Dakota.svg/330px-Flag_of_North_Dakota.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/North_Dakota"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Dead Howling review – werewolf hunts zombies in tough-love apocalypse horror",
+      "body": "<p>Every bog-standard cliche is employed – and fails – in this moribund Aussie thiller, which entirely lacks both bite and bark</p><p>When talk here turns to what would happen if the film’s werewolf hero were bitten by a zombie, the term co",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/02/dead-howling-review-werewolf-hunts-zombies-in-tough-love-apocalypse-horror"
+    },
+    {
+      "type": "card",
+      "cat": "geography",
+      "opener": "Bet you didn't know —",
+      "hook": "It was formed on 1 January 2008 from the former Ämter Kirchspielslandgemeinde Hennstedt, Kirchspielslandgemeinde Lunden and Kirchspielslandgemeinde Tellingstedt.",
+      "body": "Kirchspielslandgemeinden Eider is an Amt in the district of Dithmarschen, in Schleswig-Holstein, Germany. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Amt_KLG_Eider.PNG/330px-Amt_KLG_Eider.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eider_(Amt)"
     }
   ]
 }
