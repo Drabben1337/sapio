@@ -1,240 +1,190 @@
 {
-  "generated": "2026-11-02T10:08:23.085Z",
-  "count": 27,
+  "generated": "2026-11-02T20:32:04.507Z",
+  "count": 24,
   "items": [
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "I Died review – moving portrait of Tzotzil women confronting patriarchal violence in the Mexican highlands",
-      "body": "<p>Ana Ts’uyeb’s poetic film celebrates the resilience of Indigenous women while exploring the possibility of a different future</p><p>Shot in her home village of Naranjatic Alto in the Mexican highlands, Ana Ts’uyeb’s documentary debut is ",
+      "hook": "‘Funny and self-aware’: why (500) Days of Summer is my feelgood movie",
+      "body": "<p>The latest in our ongoing series of writers detailing their most rewatched comfort films carries special romantic meaning</p><p>It is September 2009. Barack Obama is settling into the White House. The global economy is hauling itself gin",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/02/i-died-review-moving-portrait-of-tzotzil-women-confronting-patriarchal-violence-in-the-mexican-highlands"
-    },
-    {
-      "type": "card",
-      "cat": "science",
-      "opener": "You probably never noticed this —",
-      "hook": "The retromolar space or retromolar gap is a space at the rear of the mandible, between the back of the last molar and the anterior edge of the ascending ramus where it crosses the alveolar margin.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Retromolar_gap.jpg/330px-Retromolar_gap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Retromolar_space"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1622 —",
-      "hook": "The Imperial-Spanish army under the Count of Tilly captures Mannheim.",
-      "body": "Johann Tserclaes, Count of Tilly was a field marshal who commanded the Catholic League's forces in the Thirty Years' War. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Johann_Tserclaes_count_of_Tilly.jpg/330px-Johann_Tserclaes_count_of_Tilly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Johann_Tserclaes%2C_Count_of_Tilly"
-    },
-    {
-      "type": "card",
-      "cat": "science",
-      "opener": "Bet you didn't know —",
-      "hook": "This process amplifies DNA in samples using multiple primers and a temperature-mediated DNA polymerase in a thermal cycler.",
-      "body": "Multiplex polymerase chain reaction refers to the use of polymerase chain reaction to amplify several different DNA sequences simultaneously. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Multiplex_polymerase_chain_reaction"
-    },
-    {
-      "type": "card",
-      "cat": "science",
-      "opener": "Okay, this one's fun —",
-      "hook": "It was first isolated in 1978 from a subcutaneous lesion in a Hodgkin’s disease patient.",
-      "body": "Mycobacterium haemophilum is a Gram-positive, acid-fast bacterium in the phylum Actinomycetota. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mycobacterium_haemophilum"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1899 —",
-      "hook": "The Boers begin their 118-day siege of British-held Ladysmith during the Second Boer War.",
-      "body": "Boers are the descendants of the proto Afrikaans-speaking Free Burghers of the eastern Cape frontier in Southern Africa during the 17th, 18th, and 19th centuries. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Boerfamily1886.jpg/330px-Boerfamily1886.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Boers"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1917 —",
-      "hook": "The Military Revolutionary Committee of the Petrograd Soviet, in charge of preparation and carrying out the Russian Revolution, holds its first meeting.",
-      "body": "The Petrograd Military Revolutionary Committee (PMRC) (Russian: Петроградский военно-революционный комитет, romanized: Petrogradskiy voyenno-revolyutsionnyy komitet) was a militant group of the Petrograd Soviet and one of several military revolutionary committees that were created in the Russian Republic. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0_%D0%A0%D0%A1%D0%94%D0%A0%D0%9F_%D0%B8_%D0%92%D0%A0%D0%9A_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_1917_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C.png/330px-%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0_%D0%A0%D0%A1%D0%94%D0%A0%D0%9F_%D0%B8_%D0%92%D0%A0%D0%9A_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_1917_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Petrograd_Military_Revolutionary_Committee"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1964 —",
-      "hook": "King Saud of Saudi Arabia is deposed by a family coup, and replaced by his half-brother Faisal.",
-      "body": "Saud bin Abdulaziz Al Saud was King of Saudi Arabia from 9 November 1953 until his abdication on 2 November 1964. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Saud_IV_of_Saudi_Arabia_portrait.jpg/330px-Saud_IV_of_Saudi_Arabia_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Saud_of_Saudi_Arabia"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Pauline Elizabeth Smith Crenshaw was an American clubwoman, socialite, and genealogist.",
-      "body": "She co-founded the Montgomery Museum of Fine Arts in 1930 and served as its president from 1944 to 1953. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pauline_Smith_Crenshaw"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Taco Cat Goat Cheese Pizza (TCGCP) is a shedding-type card game with a dedicated deck created by Dolphin Hat Games.",
-      "body": "It launched in 2017, targeted toward families, and grew in popularity during the COVID-19 pandemic. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Taco_Cat_Goat_Cheese_Pizza_box.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Taco_Cat_Goat_Cheese_Pizza"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘We both know how we feel about death and dying’: Rhys Ifans and Laura Linney on their brutally honest Parkinson’s drama",
-      "body": "<p>Written by Vicar of Dibley co-creator Paul Mayhew-Archer, who has the disease, Onwards and Sideways sees the actors play a couple who bond over their diagnoses – a devastating subject but laced with humour too, they say</p><p>Ahead of pr",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1956 —",
-      "hook": "Hungarian Revolution: Nikita Khrushchev meets with leaders of other Communist countries to seek their advice on the situation in Hungary, selecting János Kádár as the country's next leader on the advice of Josip Broz Tito.",
-      "body": "The Hungarian Revolution of 1956, also known as the Hungarian Uprising, was an attempted countrywide revolution against the government of the Hungarian People's Republic (1949–1989) and the policies caused by the government's subordination to the Union of Soviet Socialist Republics (USSR). One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/330px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Rhyl Poster by Tom McCarthy review – is this avant-garde spy drama worth the riddles?",
-      "body": "<p>The hallucinatory crisis of a war-scarred jurist with a painkiller dependency makes for frustrating reading</p><p>Of the cohort of experimental novelists whose renown grew in the wake of the 2008 financial crash – names include <a href=\"",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/02/the-rhyl-poster-by-tom-mccarthy-review-is-this-avant-garde-spy-drama-worth-the-riddles"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Pay Attention by Laura Kuenssberg review – a BBC reporter’s howl of frustration",
-      "body": "<p>After more than two decades of studied neutrality, the journalist delivers some home truths about modern politics</p><p>Laura Kuenssberg always swore she would never write a book. Amid all the vitriol hurled her way, the BBC’s political ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/02/pay-attention-by-laura-kuenssberg-review-a-bbc-reporters-howl-of-frustration"
-    },
-    {
-      "type": "card",
-      "cat": "geography",
-      "opener": "Here's one for the group chat —",
-      "hook": "The neighborhood is bounded by East Capitol Street SE, Interstate 295 SE, Fairlawn Avenue SE, Minnesota Avenue SE, Pennsylvania Avenue SE,",
-      "body": "Greenway is a residential neighborhood in Southeast Washington, D.C., in the United States. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Map_greenway.jpg/330px-Map_greenway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Greenway_(Washington%2C_D.C.)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Maryan Bohdanovych Zablotskyy is a Ukrainian politician and public figure.",
-      "body": "He serves as a People's Deputy of Ukraine of the Verkhovna Rada of Ukraine of the IX convocation, elected on the list of the \"Servant of the People\" party, and is a member of the party \"Servant of the People\". Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%D0%9C%D0%B0%D1%80%27%D1%8F%D0%BD_%D0%97%D0%B0%D0%B1%D0%BB%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D0%B9.jpg/330px-%D0%9C%D0%B0%D1%80%27%D1%8F%D0%BD_%D0%97%D0%B0%D0%B1%D0%BB%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D0%B9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Maryan_Zablotskyy"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Black and Mormon is a 2004 book edited, with an introduction, by Newell G.",
-      "body": "It is a collection of articles about Black people and Mormonism, race and the LDS priesthood, and the experience of Black Mormons. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/71/Black_and_Mormon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Black_and_Mormon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Alex Garland’s Elden Ring adaptation is on course to be Hollywood’s goriest ever fantasy movie",
-      "body": "<p>The expansive project has hype and money behind it – but how do you avoid it falling into the disappointment trap so many films end up stumbling into?</p><p>If the history of failed Hollywood fantasy projects over the past 20 years has t",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/02/alex-garland-elden-ring-adaptation-amazon-mgm-cailee-spaeny"
-    },
-    {
-      "type": "card",
-      "cat": "science",
-      "opener": "Here's one for the group chat —",
-      "hook": "It consists of an imidazole ring attached to an ethylamine chain; under physiological conditions, the amino group of the side-chain is protonated.",
-      "body": "Histamine or histamin is an organic nitrogenous compound found in mammals and many vegetables, fruits and food products. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Histamine_structure.svg/330px-Histamine_structure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Histamine"
+      "url": "https://www.theguardian.com/film/2026/nov/02/funny-and-self-aware-why-500-days-of-summer-is-my-feelgood-movie"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "‘I felt bad for my exes’: Awkwafina on making deeply personal TV – with her grandma",
-      "body": "<p>The star takes on her biggest challenge yet: resurrecting her family’s Cantonese restaurant. She discusses the stress of rewatching her sitcom, nearly becoming a meat inspector … and her beloved matriarch, who passed away after filming</",
+      "hook": "‘Screams on the level of a Taylor Swift concert’: horny romp Wicker gets the 4DX treatment",
+      "body": "<p>Olivia Colman’s steamy romance, where she plays a woman in love with a wicker man, becomes an unlikely pick for the theme park-like cinema experience</p><ul><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/nov/01/wicker-oli",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/30/i-felt-bad-for-my-exes-awkwafina-on-making-deeply-personal-tv-with-her-grandma"
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/wicker-4dx-olivia-colman-movie"
     },
     {
       "type": "card",
-      "cat": "geography",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "He was originally credited with registering Discovery Claim, the discovery of gold that set off the Klondike Gold Rush on August 16, 1896.",
-      "body": "George Washington Carmack was an American prospector in the Yukon. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/George_Carmack_-_01.jpg/330px-George_Carmack_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/George_Carmack"
+      "cat": "history",
+      "opener": "On this day in 1912 —",
+      "hook": "Bulgaria defeats the Ottoman Empire in the Battle of Lule Burgas, the bloodiest battle of the First Balkan War, which opens her way to Constantinople.",
+      "body": "The Tsardom of Bulgaria, also known as the Third Bulgarian Tsardom, commonly known in English as the Kingdom of Bulgaria, or simply Bulgaria, was a constitutional monarchy in Southeastern Europe, which was established on 5 October [O.S. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/330px-Flag_of_Bulgaria.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bulgaria"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1988 —",
+      "hook": "LOT Polish Airlines Flight 703 crashes in Białobrzegi, Podkarpackie Voivodeship, Poland, killing one person and injuring several more.",
+      "body": "On 2 November 1988, LOT Polish Airlines Flight 703, an Antonov An-24 operating a scheduled domestic passenger flight from Warsaw Okęcie Airport to Rzeszów Airport in Poland, crashed short of the runway after an attempted emergency landing following a dual engine failure. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/LOT_Antonov_An-24_Tempelhof_Manteufel.jpg/330px-LOT_Antonov_An-24_Tempelhof_Manteufel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/LOT_Polish_Airlines_Flight_703"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster",
+      "body": "<p>The Jojo Rabbit director blamed the dismal numbers for his film of Kazuo Ishiguro’s novel on ‘obsolete’ reviewers’ notices, adding that he works ‘for the people’ – whose Rotten Tomatoes ratings are much higher</p><p>Taika Waititi has lau",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/02/taika-waititi-lambasts-critics-after-klara-and-the-sun-box-office-disaster"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘It still preys on my mind’: readers on their scariest non-horror movies",
+      "body": "<p>After Guardian writers <a href=\"https://www.theguardian.com/film/2026/oct/30/scariest-non-horror-movies\">picked their choices for Halloween</a>, readers have responded with films that send chills down their spines – from Never Let Me Go ",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/02/scary-non-horror-movies"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Giorgio Alverà was an Italian bobsleigher who competed in the mid-1970s.",
-      "body": "He won a gold medal in the two-man event at the 1975 FIBT World Championships in Cervinia. One of those things you can't un-know.",
-      "img": null,
+      "opener": "You probably never noticed this —",
+      "hook": "Nana in the City is a children's picture book written and illustrated by Lauren Castillo.",
+      "body": "It was published by Houghton Mifflin Harcourt in 2014. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/47/Nana_and_grandson_in_the_city.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Giorgio_Alver%C3%A0"
+      "url": "https://en.wikipedia.org/wiki/Nana_in_the_City"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm/960px--Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Galaxy Collision Animation- James Webb Space Telescope Science",
+      "chan": "James Webb Space Telescope (JWST)",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_Collision_Animation-_James_Webb_Space_Telescope_Science.webm",
+      "cat": "science"
     },
     {
       "type": "card",
-      "cat": "geography",
-      "opener": "Bet you didn't know —",
-      "hook": "It was described in 1994 by Australian arachnologist Robert Raven.",
-      "body": "Synothele arrakis is a species of mygalomorph spider in the Barychelidae family. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Synothele_arrakis"
+      "cat": "history",
+      "opener": "On this day in 1868 —",
+      "hook": "Time zone: New Zealand officially adopts a standard time to be observed nationally.",
+      "body": "A time zone is an area which observes a uniform standard time for legal, commercial, and social purposes. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/World_Time_Zones_Map.svg/330px-World_Time_Zones_Map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Time_zone"
     },
     {
       "type": "card",
-      "cat": "geography",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "It had an area of 3,828 square kilometres in the mid 17th century.",
-      "body": "The Principality of Brunswick-Wolfenbüttel was a subdivision of the Duchy of Brunswick-Lüneburg, whose history was characterised by numerous divisions and reunifications. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Herzogtum_Braunschweig_1789.png/330px-Herzogtum_Braunschweig_1789.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Philippa Gregory: ‘I read 100 of the 18th century’s most popular novels – the perfect author’s apprenticeship’",
+      "body": "<p>The British novelist on discovering Molly Keane, coming to Dickens late, and the books that taught her the importance of writing about history</p><p><strong>My earliest reading memory</strong> <br> My mother always read me a bedtime stor",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/oct/30/philippa-gregory-i-read-100-of-the-best-18th-century-novels-the-perfect-authors-apprenticeship"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Hind Ghassan Tawfiq Abu al-Shaer, a Jordanian writer and researcher with many works.",
+      "body": "Born in Ajloun in northern Jordan, she worked in several public schools and finished her master in 1994, where she completed her work at universities that started at the University of Jordan and then university to the house, she has chaired the editing of a fe",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Principality_of_Brunswick-Wolfenb%C3%BCttel"
+      "url": "https://en.wikipedia.org/wiki/Hind_al_Shaer"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
+      "body": "<p>Following a Syrian mother and daughter over a decade, Itab Azzam and Jack MacInnes capture a family transformed</p><p>There’s a startling moment in this BBC refugee documentary when Syrian mother Nisreen – in the apparently miserable sit",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Liu Na'ou, born Liu Tsan-po (劉燦波) to a prominent family in Liouying, Tainan, Japanese Taiwan, was a novelist and filmmaker, active in Shanghai during the period of Second Sino-Japanese War.",
+      "body": "In September 1940, at the age of thirty-five, Liu Na'ou was assassinated while serving as the president of the newspaper Guomin Xinwen under Japanese-supported collaborationist government of Wang Jingwei. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Liu_Na_Ou.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liu_Na-ou"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm/960px--Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities and cooling of heated and calcined Aluminium dioxide",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_and_cooling_of_heated_and_calcined_Aluminium_dioxide.webm",
+      "cat": "howitsmade"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1936 —",
+      "hook": "The BBC Television Service, the world's first regular, \"high-definition\" (then defined as at least 200 lines) service begins. Renamed BBC1 in 1964, the channel still runs to this day.",
+      "body": "BBC Television is the television service of the BBC. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/BBC_Television_Symbol_1953.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/BBC_Television"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1868 —",
+      "hook": "Dost Mohammad Khan surrenders to the British and is exiled, but the First Anglo-Afghan War continues.",
+      "body": "Dost Mohammad Khan Barakzai, nicknamed the Great Emir, was the founder of the Barakzai dynasty and one of the prominent rulers of Afghanistan during the First Anglo-Afghan War. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Dost_Mohammad_Khan_of_Afghanistan.jpg/330px-Dost_Mohammad_Khan_of_Afghanistan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Dost_Mohammad_Khan"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm/960px--James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "James-Webb-Space-Telescope-Deployment-Sequence- Nominal",
+      "chan": "NASA; Adriana Manrique Gutierrez (Visualizations), Michael McClare (Production)",
+      "src": "Public domain · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:James-Webb-Space-Telescope-Deployment-Sequence-_Nominal.webm",
+      "cat": "science"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm/960px--Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Al Khiran Kuwait Google Earth Timelapse 1984-2018",
+      "chan": "Google Earth",
+      "src": "CC BY 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Khiran_Kuwait_Google_Earth_Timelapse_1984-2018.webm",
+      "cat": "geography"
+    },
+    {
+      "type": "video",
+      "src_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm/960px--Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "ttl": "Removal of impurities from heated and calcined Aluminium Hydroxide after decomposition",
+      "chan": "Subhashish Panigrahi",
+      "src": "CC BY-SA 3.0 · Wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/File:Removal_of_impurities_from_heated_and_calcined_Aluminium_Hydroxide_after_decomposition.webm",
+      "cat": "howitsmade"
     },
     {
       "type": "card",
@@ -250,20 +200,40 @@
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Dead Howling review – werewolf hunts zombies in tough-love apocalypse horror",
-      "body": "<p>Every bog-standard cliche is employed – and fails – in this moribund Aussie thiller, which entirely lacks both bite and bark</p><p>When talk here turns to what would happen if the film’s werewolf hero were bitten by a zombie, the term co",
+      "hook": "Blockhead review – struggling novelist embraces his inner monster in comic thriller of literary machismo",
+      "body": "<p>Writer-director Matt Harlock looks into ego and insecurity in a smart film about a BritLit bad boy who goes down a grisly road</p><p>This has nothing to do with Ian Dury; rather, it is a brisk, effective British indie thriller informed b",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/02/dead-howling-review-werewolf-hunts-zombies-in-tough-love-apocalypse-horror"
+      "url": "https://www.theguardian.com/film/2026/nov/02/blockhead-review-joe-sims-danny-horn-matt-harlock"
     },
     {
       "type": "card",
-      "cat": "geography",
-      "opener": "Bet you didn't know —",
-      "hook": "It was formed on 1 January 2008 from the former Ämter Kirchspielslandgemeinde Hennstedt, Kirchspielslandgemeinde Lunden and Kirchspielslandgemeinde Tellingstedt.",
-      "body": "Kirchspielslandgemeinden Eider is an Amt in the district of Dithmarschen, in Schleswig-Holstein, Germany. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Amt_KLG_Eider.PNG/330px-Amt_KLG_Eider.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Something to Hide is a 1972 British thriller film directed by Alastair Reid and starring Peter Finch, Shelley Winters, Colin Blakely, Linda Hayden and John Stride.",
+      "body": "It was written by Reid based on the 1963 novel of the same title by Nicholas Monsarrat. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/41/%22Something_to_Hide%22_%281972%29.jpg/330px-%22Something_to_Hide%22_%281972%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Eider_(Amt)"
+      "url": "https://en.wikipedia.org/wiki/Something_to_Hide_(film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It is believed to be the first species of coffee to have been cultivated and is the dominant cultivar, representing about 60% of global production.",
+      "body": "Coffea arabica, also known as the Arabica coffee, is a species of flowering plant in the coffee and madder family Rubiaceae. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Coffee_Flowers.JPG/330px-Coffee_Flowers.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coffea_arabica"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Overgrowth is a 2025 science fiction horror novel by Seanan McGuire, writing under the pen name Mira Grant.",
+      "body": "The novel focuses on an alien invasion by a species of sentient carnivorous plants. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/09/Overgrowth_by_Mira_Grant.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Overgrowth_(novel)"
     }
   ]
 }
