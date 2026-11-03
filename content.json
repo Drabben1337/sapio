@@ -1,7 +1,85 @@
 {
-  "generated": "2026-11-03T18:06:20.913Z",
-  "count": 14,
+  "generated": "2026-11-03T23:44:15.420Z",
+  "count": 19,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Candle in the Wind is a fantasy novel by English writer T.",
+      "body": "White, the fourth book in the series The Once and Future King. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Once-and-Future-King-FC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Candle_in_the_Wind"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Double for Death is a mystery novel by American author Rex Stout, featuring detective Tecumseh Fox, first published in 1939.",
+      "body": "Private investigator Tecumseh Fox was the protagonist of three mysteries by Stout published between 1939 and 1941 and this was the first of the series. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Stout-Double_for_Death.jpg/330px-Stout-Double_for_Death.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Double_for_Death"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Ancient Roman philosophy is philosophy as it was practiced in the Roman Republic and its successor state, the Roman Empire.",
+      "body": "Roman philosophy includes philosophy written in Latin as well as philosophy written in Greek in the late Republic and Roman Empire. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Roman_philosophy"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Hana yori Dango Final: The Movie is a 2008 Japanese film directed by Yasuharu Ishii and starring Mao Inoue and Jun Matsumoto.",
+      "body": "It is the last part of the Japanese live-action Boys Over Flowers trilogy, based on the manga series by Yoko Kamio. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/31/Hana_Yori_Dango_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hana_yori_Dango_Final%3A_The_Movie"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Screen International, Broadcast launch Spotlight on Scotland HODs showcase",
+      "body": "The talent initiative is in association with Screen Scotland.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/screen-international-broadcast-launch-spotlight-on-scotland-hods-showcase/5221932.article"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1942 —",
+      "hook": "World War II: The Koli Point action begins during the Guadalcanal campaign and ends on November 12.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1956 —",
+      "hook": "Hungarian Revolution: A new Hungarian government is formed, in which many members of banned non-Communist parties participate. János Kádár and Ferenc Münnich form a counter-government in Moscow as Soviet troops prepare for the final assault.",
+      "body": "The Hungarian Revolution of 1956, also known as the Hungarian Uprising, was an attempted countrywide revolution against the government of the Hungarian People's Republic (1949–1989) and the policies caused by the government's subordination to the Union of Soviet Socialist Republics (USSR). One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/330px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Black Bear’s ‘Wicker’ tops UK-Ireland box office; A24’s ‘Primetime’ opens third",
+      "body": "It is the first time Black Bear has opened a film at number one.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/black-bears-wicker-tops-uk-ireland-box-office-a24s-primetime-opens-third/5221978.article"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -13,88 +91,51 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘A trailblazer in the truest sense’: poet Grace Nichols wins £10,000 Pioneer prize",
-      "body": "<p>The Guyana-born, British-based writer takes home the Royal Society of Literature prize honouring women writers over 60 who have broken barriers</p><p>The poet Grace Nichols has been named the winner of the 2026 Royal Society of Literatur",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/03/poet-grace-nichols-wins-pioneer-prize-royal-society-of-literature"
+      "cat": "history",
+      "opener": "On this day in 1812 —",
+      "hook": "Napoleon's armies are defeated at the Battle of Vyazma.",
+      "body": "Napoleon Bonaparte, was Emperor of the French from 18 May 1804 until his first abdication in 1814, with a brief restoration during the Hundred Days in 1815. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/330px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Napoleon"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Mum, I’m Alien Pregnant review – slime and silliness in amusing New Zealand comedy horror",
-      "body": "<p>Mucus, alien gristle, a tentacle-bearing penis and, of course, the pregnancy of the title are all borne with deadpan calmness in this underplayed comedy</p><p>In this amusingly silly exercise in gross-out body horror and bathos from New ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/03/mum-im-alien-pregnant-review-slime-and-silliness-in-amusing-new-zealand-comedy-horror"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "John Fulton Reynolds was a career United States Army officer and a general in the American Civil War.",
-      "body": "One of the Union Army's most respected senior commanders, he played a key role in committing the Army of the Potomac to the Battle of Gettysburg and was killed at the start of the battle. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/GenJFRenyolds.jpg/330px-GenJFRenyolds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/John_F._Reynolds"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Ghost Town review – the phantoms and lost souls haunting a Japanese city after the 2011 earthquake",
-      "body": "<p>Katharine Round’s documentary puts cameras in taxis where drivers and fares reflect on the disaster’s impact and talk of crowds of spectres and disappearing passengers </p><p>In a manner similar to Ryūsuke Hamaguchi’s Drive My Car, in wh",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/03/ghost-town-review-the-phantoms-and-lost-souls-haunting-a-japanese-city-after-the-2011-earthquake"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Errol Gulden is a professional Australian rules footballer playing for the Sydney Swans in the Australian Football League (AFL).",
-      "body": "Gulden is a dual All-Australian and won the Bob Skilton Medal in 2023. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/20260801_Errol_Gulden_01.jpg/330px-20260801_Errol_Gulden_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Errol_Gulden"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Heterotopia is a concept elaborated by the philosopher Michel Foucault to describe certain cultural, institutional and discursive spaces that are somehow \"other\": disturbing, intense, incompatible, contradictory or transforming.",
-      "body": "Heterotopias are \"worlds within worlds\": both similar to their surroundings, and contrasting with or upsetting them. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Krul2.jpg/330px-Krul2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Heterotopia_(space)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Andrew Scott drama Elsinore leads British independent film award nominations",
-      "body": "<p>Elsinore is in contention for 12 Bifas, including for Scott’s highly praised performance, while Clio Barnard’s I See Buildings Fall Like Lightning, Ashley Walters’ Animol and Mike Leigh’s Tender Loving Care are also recognised</p><p>Elsi",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Fatherland review – Sandra Hüller brings a bayonet of intelligence to Paweł Pawlikowski’s taut return",
-      "body": "<p>Hanns Zischler stars as Thomas Mann on his 1949 tour of Germany, contending with political barbs, personal tragedy and his daughter, played by an extraordinary Hüller</p><p>Here is an impossibly elegant, poised historical vignette whose ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/may/14/fatherland-review-sandra-huller-thomas-mann-pawel-pawlikowski-cannes-film-festivali"
+      "opener": "Screen Daily —",
+      "hook": "California governor proposes $1bn film and TV tax credit",
+      "body": "It would be the largest capped credit in the US.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/california-governor-proposes-1bn-film-and-tv-tax-credit/5221984.article"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "Here's one for the group chat —",
-      "hook": "In 1949, the two old-line furriers Gunther & Sons Inc.",
-      "body": "Gunther Jaeckel was an American furrier based in New York City. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/C._G._Gunther%27s_Sons%2C_New_York%2C_Fifth_Avenue%2C_Furs_since_1820%2C_advertisement_%281891%29.jpg/330px-C._G._Gunther%27s_Sons%2C_New_York%2C_Fifth_Avenue%2C_Furs_since_1820%2C_advertisement_%281891%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Christians believe that the rite was instituted by Jesus Christ at the Last Supper, the night before his crucifixion, giving his disciples bread and wine.",
+      "body": "The Eucharist, also called Holy Communion, the Blessed Sacrament or the Lord's Supper, is a Christian rite, considered a sacrament in most churches and an ordinance in others. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/St_Michael_the_Archangel%2C_Findlay%2C_OH_-_bread_and_wine_crop_1.jpg/330px-St_Michael_the_Archangel%2C_Findlay%2C_OH_-_bread_and_wine_crop_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gunther_Jaeckel"
+      "url": "https://en.wikipedia.org/wiki/Eucharist"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1988 —",
+      "hook": "Sri Lankan Tamil mercenaries attempt to overthrow the Maldivian government. At President Maumoon Abdul Gayoom's request, the Indian military suppresses the rebellion within 24 hours.",
+      "body": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, formerly known as Ceylon, is an island country in South Asia. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/330px-Flag_of_Sri_Lanka.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Sri_Lanka"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The Rhyl Poster by Tom McCarthy review – is this avant-garde spy drama worth the riddles?",
+      "body": "<p>The hallucinatory crisis of a war-scarred jurist with a painkiller dependency makes for frustrating reading</p><p>Of the cohort of experimental novelists whose renown grew in the wake of the 2008 financial crash – names include <a href=\"",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/02/the-rhyl-poster-by-tom-mccarthy-review-is-this-avant-garde-spy-drama-worth-the-riddles"
     },
     {
       "type": "card",
@@ -108,32 +149,41 @@
     {
       "type": "card",
       "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "It is located in the McIntyre Medical Sciences Building in Montreal.",
-      "body": "The Osler Library, a branch of the McGill University Library, is Canada's foremost scholarly resource for the history of medicine, and one of the most important libraries of its type in North America. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Interior_view_from_the_second_floor_of_the_Osler_Library_of_the_History_of_Medicine.jpg/330px-Interior_view_from_the_second_floor_of_the_Osler_Library_of_the_History_of_Medicine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Osler_Library_of_the_History_of_Medicine"
+      "opener": "On this day in 1944 —",
+      "hook": "World War II: Two supreme commanders of the Slovak National Uprising, Generals Ján Golian and Rudolf Viest, are captured, tortured and later executed by German forces.",
+      "body": "The Slovak National Uprising was an attempted insurrection organised by the Slovak resistance during the Second World War. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Banska_Bystrica_Plastika_Jankovic.jpg/330px-Banska_Bystrica_Plastika_Jankovic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Slovak_National_Uprising"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Pay Attention by Laura Kuenssberg review – a BBC reporter’s howl of frustration",
+      "body": "<p>After more than two decades of studied neutrality, the journalist delivers some home truths about modern politics</p><p>Laura Kuenssberg always swore she would never write a book. Amid all the vitriol hurled her way, the BBC’s political ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/02/pay-attention-by-laura-kuenssberg-review-a-bbc-reporters-howl-of-frustration"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Being a Man Festival (BAM) is a UK-based festival which addresses the challenges and pressures of masculine identity in the 21st century.",
-      "body": "The festival was founded in 2014 by Jude Kelly. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Being_A_Man_festival_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Okay, this one's fun —",
+      "hook": "Listening to Prozac: A Psychiatrist Explores Antidepressant Drugs and the Remaking of the Self is a book written by psychiatrist Peter D.",
+      "body": "Written in 1993, the book discusses how the advance of the anti-depressant drug Prozac might change the way we see personality, the relationship between neurology and personality. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a2/Listening-to-Prozac.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Being_a_Man_Festival"
+      "url": "https://en.wikipedia.org/wiki/Listening_to_Prozac"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Hans Duhan was an Austrian operatic baritone.",
-      "body": "He belonged to the ensemble of the Vienna State Opera for 26 years and was the first Count Almaviva and the first Papageno of the Salzburg Festival. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hans_Duhan_%281890%E2%80%931971%29_1918.jpg/330px-Hans_Duhan_%281890%E2%80%931971%29_1918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hans_Duhan"
+      "cat": "history",
+      "opener": "On this day in 1986 —",
+      "hook": "Iran–Contra affair: The Lebanese magazine Ash-Shiraa reports that the United States has been secretly selling weapons to Iran in order to secure the release of seven American hostages held by pro-Iranian groups in Lebanon.",
+      "body": "The Iran–Contra affair or Iran–Contra scandal, also referred to as the Iran Initiative or Contragate, was a political scandal in the United States that centered on arms trafficking to Iran between 1981 and 1986, facilitated by senior officials of the Reagan administration. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg/330px-President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair"
     }
   ]
 }
