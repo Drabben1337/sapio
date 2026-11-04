@@ -1,132 +1,124 @@
 {
-  "generated": "2026-11-03T23:44:15.420Z",
-  "count": 19,
+  "generated": "2026-11-04T03:28:56.599Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Candle in the Wind is a fantasy novel by English writer T.",
-      "body": "White, the fourth book in the series The Once and Future King. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Once-and-Future-King-FC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Candle_in_the_Wind"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Double for Death is a mystery novel by American author Rex Stout, featuring detective Tecumseh Fox, first published in 1939.",
-      "body": "Private investigator Tecumseh Fox was the protagonist of three mysteries by Stout published between 1939 and 1941 and this was the first of the series. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Stout-Double_for_Death.jpg/330px-Stout-Double_for_Death.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Double_for_Death"
+      "cat": "history",
+      "opener": "On this day in 1576 —",
+      "hook": "Eighty Years' War: In Flanders, Spain captures Antwerp (which is nearly destroyed after three days).",
+      "body": "The Eighty Years' War or Dutch Revolt was an armed conflict in the Habsburg Netherlands between disparate groups of rebels and the Spanish government. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Battle_of_Gibraltar_1607.jpg/330px-Battle_of_Gibraltar_1607.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Eighty_Years'_War"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Ancient Roman philosophy is philosophy as it was practiced in the Roman Republic and its successor state, the Roman Empire.",
-      "body": "Roman philosophy includes philosophy written in Latin as well as philosophy written in Greek in the late Republic and Roman Empire. Worth a quiet trip down the rabbit hole.",
+      "hook": "My Brother Michael is a novel by Mary Stewart, first published in 1959.",
+      "body": "It ranked number 55 in the UK Crime Writer’s Association’s The Top 100 Crime Novels of All Time, published in 1990. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/MyBrotherMichael.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/My_Brother_Michael"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Blink is a 2003 novel by Christian author Ted Dekker.",
+      "body": "It was re-released in November 2007 under the title Blink of an Eye, featuring new content and a more expedient storyline. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ce/Blink_novel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blink_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1677 —",
+      "hook": "The future Mary II marries William, Prince of Orange; they later jointly reign over England, Scotland, and Ireland as William and Mary.",
+      "body": "Mary II was Queen of England, Scotland, and Ireland with her husband, King William III and II, from 1689 until her death in 1694. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Mary_II_-_Kneller_1690.jpg/330px-Mary_II_-_Kneller_1690.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mary_II"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1980 —",
+      "hook": "Ronald Reagan is elected as the 40th President of the United States, defeating incumbent Jimmy Carter.",
+      "body": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Feet-stiffening socks could help you run further for longer",
+      "body": "The next leap in activewear technology may be socks that squeeze parts of our feet, increasing the efficiency of our gait",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2597125-feet-stiffening-socks-could-help-you-run-further-for-longer/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Pay Attention by Laura Kuenssberg review – a BBC reporter’s howl of frustration",
+      "body": "<p>After more than two decades of studied neutrality, the journalist delivers some home truths about modern politics</p><p>Laura Kuenssberg always swore she would never write a book. Amid all the vitriol hurled her way, the BBC’s political ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/02/pay-attention-by-laura-kuenssberg-review-a-bbc-reporters-howl-of-frustration"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "The college was formed in 2016 through the amalgamation of separate colleges, beginning with the merger of Tower Hamlets College and Hackney Community College.",
+      "body": "New City College (NCC) is a large college of further education with campuses in east London and Essex. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ancient_Roman_philosophy"
+      "url": "https://en.wikipedia.org/wiki/New_City_College"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Wilt is a comedic novel by Tom Sharpe, first published by Secker and Warburg in 1976.",
+      "body": "Later editions were published by Pan Books, and Overlook TP. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e2/WiltNovel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wilt_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1780 —",
+      "hook": "The Rebellion of Túpac Amaru II against Spanish rule in the Viceroyalty of Peru begins.",
+      "body": "The Rebellion of Túpac Amaru II was an uprising by kuraka-led Aymara, Quechua, and mestizo rebels aimed at overthrowing Spanish colonial rule in Peru, from 1780 to 1783. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Rebeli%C3%B3n_de_Tupac_Amaru%2C_de_Tadeo_Escalante_%281802-1840%29.jpg/330px-Rebeli%C3%B3n_de_Tupac_Amaru%2C_de_Tadeo_Escalante_%281802-1840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Rebellion_of_T%C3%BApac_Amaru_II"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Hana yori Dango Final: The Movie is a 2008 Japanese film directed by Yasuharu Ishii and starring Mao Inoue and Jun Matsumoto.",
-      "body": "It is the last part of the Japanese live-action Boys Over Flowers trilogy, based on the manga series by Yoko Kamio. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/3/31/Hana_Yori_Dango_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Adarsha Hindu Hotel is a Bengali drama film directed by Ardhendu Sen based on the same name novel of Bibhutibhushan Bandyopadhyay.",
+      "body": "This film was released on 31 May 1957 under the banner of Sreelekha Pictures. One of those things you can't un-know.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hana_yori_Dango_Final%3A_The_Movie"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Screen International, Broadcast launch Spotlight on Scotland HODs showcase",
-      "body": "The talent initiative is in association with Screen Scotland.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/screen-international-broadcast-launch-spotlight-on-scotland-hods-showcase/5221932.article"
+      "url": "https://en.wikipedia.org/wiki/Adarsha_Hindu_Hotel_(film)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1942 —",
-      "hook": "World War II: The Koli Point action begins during the Guadalcanal campaign and ends on November 12.",
-      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1966 —",
+      "hook": "The Arno River floods Florence, Italy, to a maximum depth of 6.7 m (22 ft), leaving thousands homeless and destroying millions of masterpieces of art and rare books. Venice is also submerged on the same day at its record all-time acqua alta of 194 cm (76 in).",
+      "body": "The Arno is a river in the Tuscany region of Italy. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/FirenzeDec092023_01.jpg/330px-FirenzeDec092023_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_II"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1956 —",
-      "hook": "Hungarian Revolution: A new Hungarian government is formed, in which many members of banned non-Communist parties participate. János Kádár and Ferenc Münnich form a counter-government in Moscow as Soviet troops prepare for the final assault.",
-      "body": "The Hungarian Revolution of 1956, also known as the Hungarian Uprising, was an attempted countrywide revolution against the government of the Hungarian People's Republic (1949–1989) and the policies caused by the government's subordination to the Union of Soviet Socialist Republics (USSR). One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/330px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Black Bear’s ‘Wicker’ tops UK-Ireland box office; A24’s ‘Primetime’ opens third",
-      "body": "It is the first time Black Bear has opened a film at number one.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/black-bears-wicker-tops-uk-ireland-box-office-a24s-primetime-opens-third/5221978.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Peter Medak obituary",
-      "body": "<p>Film and television director who won plaudits for The Ruling Class, The Changeling and The Krays</p><p>In 2013, when Martin Scorsese compiled a brief list of his favourite horror films, he placed the eerie and overlooked 1980 ghost story",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/03/peter-medak-obituary"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1812 —",
-      "hook": "Napoleon's armies are defeated at the Battle of Vyazma.",
-      "body": "Napoleon Bonaparte, was Emperor of the French from 18 May 1804 until his first abdication in 1814, with a brief restoration during the Hundred Days in 1815. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/330px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Napoleon"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "California governor proposes $1bn film and TV tax credit",
-      "body": "It would be the largest capped credit in the US.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/california-governor-proposes-1bn-film-and-tv-tax-credit/5221984.article"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Christians believe that the rite was instituted by Jesus Christ at the Last Supper, the night before his crucifixion, giving his disciples bread and wine.",
-      "body": "The Eucharist, also called Holy Communion, the Blessed Sacrament or the Lord's Supper, is a Christian rite, considered a sacrament in most churches and an ordinance in others. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/St_Michael_the_Archangel%2C_Findlay%2C_OH_-_bread_and_wine_crop_1.jpg/330px-St_Michael_the_Archangel%2C_Findlay%2C_OH_-_bread_and_wine_crop_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Eucharist"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1988 —",
-      "hook": "Sri Lankan Tamil mercenaries attempt to overthrow the Maldivian government. At President Maumoon Abdul Gayoom's request, the Indian military suppresses the rebellion within 24 hours.",
-      "body": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, formerly known as Ceylon, is an island country in South Asia. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/330px-Flag_of_Sri_Lanka.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Sri_Lanka"
+      "url": "https://en.wikipedia.org/wiki/Arno"
     },
     {
       "type": "card",
@@ -140,50 +132,68 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "China’s first AI-generated film is a flop. Some still see it as the future of cinema",
-      "body": "<p>Chinese investors placing high value on AI despite unpopularity of Sanxingdui: Future Past</p><p>China’s first fully AI-generated movie has flopped, earning just 1.7m yuan (£191,000) at the box office despite costing “tens of millions” t",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1944 —",
-      "hook": "World War II: Two supreme commanders of the Slovak National Uprising, Generals Ján Golian and Rudolf Viest, are captured, tortured and later executed by German forces.",
-      "body": "The Slovak National Uprising was an attempted insurrection organised by the Slovak resistance during the Second World War. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Banska_Bystrica_Plastika_Jankovic.jpg/330px-Banska_Bystrica_Plastika_Jankovic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Slovak_National_Uprising"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Pay Attention by Laura Kuenssberg review – a BBC reporter’s howl of frustration",
-      "body": "<p>After more than two decades of studied neutrality, the journalist delivers some home truths about modern politics</p><p>Laura Kuenssberg always swore she would never write a book. Amid all the vitriol hurled her way, the BBC’s political ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/02/pay-attention-by-laura-kuenssberg-review-a-bbc-reporters-howl-of-frustration"
+      "opener": "BBC Entertainment —",
+      "hook": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+      "body": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Listening to Prozac: A Psychiatrist Explores Antidepressant Drugs and the Remaking of the Self is a book written by psychiatrist Peter D.",
-      "body": "Written in 1993, the book discusses how the advance of the anti-depressant drug Prozac might change the way we see personality, the relationship between neurology and personality. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a2/Listening-to-Prozac.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Here's one for the group chat —",
+      "hook": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing is a Japanese light novel series written by Hamuo and illustrated by Mo.",
+      "body": "It began serialization online in November 2019 on the user-generated novel publishing website Shōsetsuka ni Narō. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fe/Hell_Mode_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Listening_to_Prozac"
+      "url": "https://en.wikipedia.org/wiki/Hell_Mode"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Screen International, Broadcast launch Spotlight on Scotland HODs showcase",
+      "body": "The talent initiative is in association with Screen Scotland.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/screen-international-broadcast-launch-spotlight-on-scotland-hods-showcase/5221932.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Black Bear’s ‘Wicker’ tops UK-Ireland box office; A24’s ‘Primetime’ opens third",
+      "body": "It is the first time Black Bear has opened a film at number one.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/black-bears-wicker-tops-uk-ireland-box-office-a24s-primetime-opens-third/5221978.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "California governor proposes $1bn film and TV tax credit",
+      "body": "It would be the largest capped credit in the US.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/california-governor-proposes-1bn-film-and-tv-tax-credit/5221984.article"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1986 —",
-      "hook": "Iran–Contra affair: The Lebanese magazine Ash-Shiraa reports that the United States has been secretly selling weapons to Iran in order to secure the release of seven American hostages held by pro-Iranian groups in Lebanon.",
-      "body": "The Iran–Contra affair or Iran–Contra scandal, also referred to as the Iran Initiative or Contragate, was a political scandal in the United States that centered on arms trafficking to Iran between 1981 and 1986, facilitated by senior officials of the Reagan administration. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg/330px-President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "is a 1933 American pre-Code drama-romance film produced by Fox Film Corporation.",
+      "body": "It was directed by Erich von Stroheim, Raoul Walsh, Alfred L. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Walking_Down_Broadway_1933_poster.jpg/330px-Walking_Down_Broadway_1933_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hello%2C_Sister!_(1933_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 512 —",
+      "hook": "Following Byzantine emperor Anastasius' deposition of Chalcedonian patriarchs and attempts to make Monophysite changes to liturgy, riots break out in Constantinople with a mob trying to proclaim Areobindus as emperor.",
+      "body": "The foundation of Constantinople in 330 AD marks the conventional start of the Byzantine Empire, which fell to the Ottoman Empire in 1453 AD. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg/330px-Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair"
+      "url": "https://en.wikipedia.org/wiki/List_of_Byzantine_emperors"
     }
   ]
 }
