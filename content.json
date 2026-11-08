@@ -1,25 +1,83 @@
 {
-  "generated": "2026-11-08T09:38:15.360Z",
-  "count": 21,
+  "generated": "2026-11-08T16:23:58.995Z",
+  "count": 19,
   "items": [
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1939 —",
+      "hook": "Venlo Incident: Two British agents of SIS are captured by the Germans.",
+      "body": "The Venlo incident was a covert operation carried out by the German Nazi Party's Sicherheitsdienst (SD) on 9 November 1939, which resulted in the capture of two British Secret Intelligence Service agents five metres (16 ft) from the German border, on the outskirts of the Dutch city of Venlo. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Grensincident_Venlo_Reconstructie_met_Lemmens%2C_Bestanddeelnr_902-6030.jpg/330px-Grensincident_Venlo_Reconstructie_met_Lemmens%2C_Bestanddeelnr_902-6030.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Venlo_incident"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "In 3D computer graphics, ray tracing is a technique for modeling light transport for use in a wide variety of rendering algorithms for generating digital images.",
+      "body": "One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Recursive_raytrace_of_a_sphere.png/330px-Recursive_raytrace_of_a_sphere.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ray_tracing_(graphics)"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "Full of life and catching feelings: Christine and the Queens’ greatest songs – ranked!",
-      "body": "<p>As the French avant-popper returns with new single Rendez-vous avec toi, we celebrate the best of an artist who uses sleek songwriting to grapple with knotty emotion</p><p>Originally leaked online by the artist himself, <a href=\"https://",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/nov/05/full-of-life-and-catching-feelings-christine-and-the-queens-greatest-songs-ranked"
+      "opener": "The Guardian · Film —",
+      "hook": "Bluey’s Daley Pearson on how losing his brother inspired his new film: ‘He was the best thing ever to me’",
+      "body": "<p>Allen, the first live-action film from Pearson’s Ludo Studio, follows a man who met an alien as a kid – and becomes obsessed with bringing him back</p><ul><li><p><a href=\"https://www.theguardian.com/lifeandstyle/2026/sep/25/saved-for-sun",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1889 —",
-      "hook": "Montana is admitted as the 41st U.S. state.",
-      "body": "Montana is a landlocked state in the Mountain West subregion of the Western United States. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/330px-Flag_of_Montana.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "You probably never noticed this —",
+      "hook": "He taught at the Albert Einstein College of Medicine‘s Marion Bessin Liver Research Center.",
+      "body": "Marcos Rojkind Matlyuk known as Marcos Rojkind, was a professor, doctor, inventor of biotechnology, expert on hepatic fibrosis and winner of the National Prize for Arts and Sciences (Mexico). One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marcos_Rojkind_Matlyuk"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on prompts for a cartoon about artificial intelligence and writing – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/nov/08/tom-gauld-on-prompts-for-a-cartoon-about-artificial-intelligence-and-writing-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/nov/08/tom-gauld-on-prompts-for-a-cartoon-about-artificial-intelligence-and-writing-cartoon"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1895 —",
+      "hook": "While experimenting with electricity, Wilhelm Röntgen discovers the X-ray.",
+      "body": "Wilhelm Conrad Röntgen was a German experimental physicist who produced and detected electromagnetic radiation in a wavelength range known as X-rays. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg/330px-Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Montana"
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Antipersonnel mines have returned in Ukraine and now threaten the world",
+      "body": "3D printing, microcontrollers and drones have enabled the resurgence of antipersonnel mines in the Russia-Ukraine war, making mines deadlier and more accessible",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2597901-antipersonnel-mines-have-returned-in-ukraine-and-now-threaten-the-world/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Rosamygale is a genus of extinct Triassic spiders, with a single described species, Rosamygale grauvogeli.",
+      "body": "It is the oldest known member of the Mygalomorphae, one of the three main divisions of spiders, which includes well known forms such as tarantulas and Australian funnel-web spiders. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rosamygale"
     },
     {
       "type": "card",
@@ -32,178 +90,100 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Narrative threads: How to write a Booker-shortlisted novel, by Marlon James, Douglas Stuart, Elizabeth Strout and more",
-      "body": "<p>A trip to the Scottish islands, a psychological experiment, a chance encounter in a drugstore… the finalists for this year’s Booker prize reveal their inspirations </p><p>Who knows where a novel really comes from? I spend years gathering",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/07/narrative-threads-how-to-write-a-booker-shortlisted-novel-by-marlon-james-douglas-stuart-elizabeth-strout-and-more"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Joëlle Pineau is a Canadian computer scientist and Professor at McGill University.",
-      "body": "She was the global vice president of Facebook Artificial Intelligence Research (FAIR), now known as AI at Meta, until May 2025. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Jo%C3%ABlle_Pineau_at_All_In_2025_03.jpg/330px-Jo%C3%ABlle_Pineau_at_All_In_2025_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Thomas Bruce, 2nd Earl of Ailesbury and 3rd Earl of Elgin, styled Lord Bruce between 1663 and 1685, was an English politician and memoirist.",
-      "body": "He was the son of Robert Bruce, 2nd Earl of Elgin, and Lady Diana Grey. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Thomas_Bruce%2C_2nd_Earl_of_Ailesbury_and_3rd_Earl_of_Elgin%2C_by_Francois_Harrewijn.jpg/330px-Thomas_Bruce%2C_2nd_Earl_of_Ailesbury_and_3rd_Earl_of_Elgin%2C_by_Francois_Harrewijn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Thomas_Bruce%2C_2nd_Earl_of_Ailesbury"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Waldheim–Rochlitz railway was a single-track branchline of about 21 km length in Saxony, connecting the towns of Waldheim and Rochlitz via Hartha and Geringswalde.",
-      "body": "It was opened in 1893, closed in 1998 and served mainly the purposes of the local industry and population. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/RochlitzBahnbr%C3%BCcke1.JPG/330px-RochlitzBahnbr%C3%BCcke1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Waldheim%E2%80%93Rochlitz_railway"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2016 —",
-      "hook": "Indian Prime Minister Narendra Modi publicly announces the withdrawal of ₹500 and ₹1000 denomination banknotes.",
-      "body": "On 8 November 2016, the Government of India announced the demonetisation of all ₹500 and ₹1,000 banknotes of the Mahatma Gandhi Series. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Queue_at_Bank_to_Exchange_INR_500_and_1000_Notes_-_Salt_Lake_City_-_Kolkata_2016-11-10_02103.jpg/330px-Queue_at_Bank_to_Exchange_INR_500_and_1000_Notes_-_Salt_Lake_City_-_Kolkata_2016-11-10_02103.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1963 —",
+      "hook": "Finnair's Aero Flight 217 crashes near Mariehamn Airport in Jomala, Åland, killing 22 people.",
+      "body": "Finnair Plc is the flag carrier and largest full-service legacy airline of Finland, with headquarters in Vantaa on the grounds of Helsinki Airport, its hub. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/OH-LWS%28A359%29AY1337.jpg/330px-OH-LWS%28A359%29AY1337.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2016_Indian_banknote_demonetisation"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "It was sold on eBay in 2013 and put on display in Austin, Texas.",
-      "body": "The Minnesota Iceman is a sideshow exhibit and elaborate hoax that depicts a fake man-like creature frozen in a block of ice. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Minnesota_Iceman"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Dead Ever After is a fantasy novel by Charlaine Harris.",
-      "body": "It is the thirteenth novel in The Southern Vampire Mysteries series. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/Dead_Ever_After.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dead_Ever_After"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘Life is like a heartbeat. It’s up and down, up and down’: Michelle Yeoh on casting cliches, marriage at 60 and playing a robot in Blade Runner 2099",
-      "body": "<p>Ballet dancer, action hero, Bond girl ... The actor won an Oscar for Everything Everywhere All At Once but she’s been through some challenges on the way</p><p>Before agreeing to appear in Blade Runner 2099, Michelle Yeoh received a lette",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Hollywood banks on Ebenezer to bring Johnny Depp in from the cold",
-      "body": "<p>Dickens character is actor’s first big studio role after years overshadowed by legal battles with ex-wife Amber Heard</p><p>“It’s good to be back,” Johnny Depp declares in the trailer for Ebenezer, in which he stars as Charles Dickens’s ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/07/johnny-depp-ebenezer-film-scrooge-hollywood"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘A hero’s origins’: the true story of the first Black drag queen presidential candidate",
-      "body": "<p>In off-Broadway show Ms Blakk for President, Oscar-winning Moonlight writer Tarell Alvin McCraney explores a slice of underappreciated queer history</p><p>At the height of the Aids crisis, the Chicago activist Terence Alan Smith put on h",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/stage/2026/nov/05/ms-blakk-for-president-play"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1923 —",
-      "hook": "Beer Hall Putsch: In Munich, Adolf Hitler leads the Nazis in an unsuccessful attempt to overthrow the German government.",
-      "body": "The Beer Hall Putsch, also known as the Munich Putsch, was a failed coup d'état led by Nazi Party leader Adolf Hitler, General Erich Ludendorff, and other Kampfbund leaders in Munich, Bavaria, on 8–9 November 1923, during the Weimar Republic. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bundesarchiv_Bild_119-1486%2C_Hitler-Putsch%2C_M%C3%BCnchen%2C_Marienplatz.jpg/330px-Bundesarchiv_Bild_119-1486%2C_Hitler-Putsch%2C_M%C3%BCnchen%2C_Marienplatz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Beer_Hall_Putsch"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "It is associated with the Afghan Army.",
-      "body": "Ordu Football Club is a professional football team based in Kabul, Afghanistan. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblem_of_the_Ministry_of_Defense_of_the_Islamic_Emirate_of_Afghanistan.jpg/330px-Emblem_of_the_Ministry_of_Defense_of_the_Islamic_Emirate_of_Afghanistan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ordu_FC"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1965 —",
-      "hook": "The Murder (Abolition of Death Penalty) Act 1965 is given Royal Assent, formally abolishing the death penalty in the United Kingdom for almost all crimes.",
-      "body": "The Murder Act 1965 is an act of the Parliament of the United Kingdom. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Royal_coat_of_arms_of_the_United_Kingdom_%281952%E2%80%932022%2C_variant_1%29.svg/330px-Royal_coat_of_arms_of_the_United_Kingdom_%281952%E2%80%932022%2C_variant_1%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Murder_(Abolition_of_Death_Penalty)_Act_1965"
+      "url": "https://en.wikipedia.org/wiki/Finnair"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Kamratposten, also styled as KP, is a Swedish children's magazine published in Stockholm, Sweden.",
-      "body": "Founded in 1892, it is one of the earliest children's magazines in the country. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "The South China Morning Post (SCMP), with its Sunday edition, the Sunday Morning Post, is a Hong Kong–based English-language newspaper owned by Alibaba Group.",
+      "body": "Founded in 1903 by Tse Tsan-tai and Alfred Cunningham, it has remained Hong Kong's newspaper of record since British colonial rule. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/66/Front_Page_of_South_China_Morning_Post.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kamratposten"
+      "url": "https://en.wikipedia.org/wiki/South_China_Morning_Post"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1614 —",
+      "hook": "Japanese daimyō Dom Justo Takayama is exiled to the Philippines by shōgun Tokugawa Ieyasu for being Christian.",
+      "body": "Daimyo or daimio were powerful Japanese magnates, feudal lords who, from the 15th century to the early Meiji period in the middle 19th century, ruled most of Japan from their vast hereditary land holdings. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Map_Japan_Genki1-en.svg/330px-Map_Japan_Genki1-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Daimyo"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-      "body": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Film —",
+      "hook": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
+      "body": "<p>Ten years after her landmark political documentary 13th, the film-maker delivers a follow-up on the 14th amendment – and the Trump administration’s attempts to dismantle birthright citizenship</p><p>When I ask Ava DuVernay how she kept h",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1957 —",
+      "hook": "Pan Am Flight 7 disappears between San Francisco and Honolulu. Wreckage and bodies are discovered a week later.",
+      "body": "Pan Am Flight 7 was a westbound round-the-world flight operated by Pan American World Airways. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Chicago_Midway_Airport_-_Pan_American_World_Airways_-_Boeing_Stratocruiser_N90944_%28cropped%29.jpg/330px-Chicago_Midway_Airport_-_Pan_American_World_Airways_-_Boeing_Stratocruiser_N90944_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pan_Am_Flight_7"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Adair Crawford FRS FRSE, a chemist and physician, was a pioneer in the development of calorimetric methods for measuring the specific heat capacity of substances and the heat of chemical reactions.",
-      "body": "In his influential 1779 book \"Experiments and Observations on Animal Heat\", Crawford presented new experiments proving that respiratory gas exchange in animals is a combustion. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Crawford_Adair_equipment.jpg/330px-Crawford_Adair_equipment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Kronprinz Wilhelm was a German ocean liner built for Norddeutscher Lloyd, a shipping company now part of Hapag-Lloyd, by the AG Vulcan shipyard in Stettin, Germany, in 1901.",
+      "body": "She was named after Crown Prince Wilhelm, son of the German Emperor Wilhelm II, and was a sister ship of Kaiser Wilhelm der Grosse. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/The_SS_Kronprinz_Wilhelm_of_NDL_in_an_unknown_location.jpg/330px-The_SS_Kronprinz_Wilhelm_of_NDL_in_an_unknown_location.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Adair_Crawford"
+      "url": "https://en.wikipedia.org/wiki/SS_Kronprinz_Wilhelm"
     },
     {
       "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2002 —",
-      "hook": "Iraq disarmament crisis: UN Security Council Resolution 1441: The United Nations Security Council unanimously approves a resolution on Iraq, forcing Saddam Hussein to disarm or face \"serious consequences\".",
-      "body": "In the Iraq disarmament crisis of the early 2000s, Iraq, led by president Saddam Hussein, was pressured by the United States and its other adversaries to destroy alleged stockpiles of weapons of mass destruction (WMD)—biological, chemical, and nuclear. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/WeaponsInspector.JPG/330px-WeaponsInspector.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Iraq_disarmament_crisis"
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘No tech, no texts, just childhood’: author Liz Pichon on the secrets behind her multi-million selling Tom Gates series",
+      "body": "<p>As her long-running children’s book series turns 15, Liz Pichon talks about overcoming dyslexia to become a bestselling author</p><p>If you ever find yourself in an airport newsagent, it might be worth peering inside one of Liz Pichon’s ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/08/no-tech-no-texts-just-childhood-author-liz-pichon-on-the-secrets-behind-her-multi-million-selling-tom-gates-series"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Stuart Errol Ungar was an American professional poker, blackjack, and gin rummy player, widely regarded to have been the greatest gin player of all time and one of the best Texas hold 'em players.",
+      "body": "Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Stu_ungar.jpg/330px-Stu_ungar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stu_Ungar"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 1973 —",
       "hook": "The right ear of John Paul Getty III is delivered to a newspaper outlet along with a ransom note, convincing his father to pay US$2.9 million.",
-      "body": "John Paul Getty III was a grandson of the American oil tycoon J. Worth a quiet trip down the rabbit hole.",
+      "body": "John Paul Getty III was a grandson of the American oil tycoon J. Bring it up somewhere. Watch the reaction.",
       "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/John_Paul_Getty_III.jpg/330px-John_Paul_Getty_III.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/John_Paul_Getty_III"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The efficiency trap: why optimising everything can backfire, badly",
+      "body": "<p>From roundabouts to the stock market, relentless streamlining could be making the world more dangerous</p><p>We have all been there: packed shoulder to shoulder on the train while the person beside us coughs and sneezes. A protective flu",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly"
     }
   ]
 }
