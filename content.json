@@ -1,34 +1,103 @@
 {
-  "generated": "2026-11-08T02:49:54.396Z",
-  "count": 12,
+  "generated": "2026-11-08T09:38:15.360Z",
+  "count": 21,
   "items": [
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Soul Circus is a 2003 crime novel by George Pelecanos.",
-      "body": "It is set in Washington DC and focuses on private investigators Derek Strange and Terry Quinn. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/Soul_Circus_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Soul_Circus_(novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-      "body": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss"
-    },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "‘A hero’s origins’: the true story of the first Black drag queen presidential candidate",
-      "body": "<p>In off-Broadway show Ms Blakk for President, Oscar-winning Moonlight writer Tarell Alvin McCraney explores a slice of underappreciated queer history</p><p>At the height of the Aids crisis, the Chicago activist Terence Alan Smith put on h",
+      "hook": "Full of life and catching feelings: Christine and the Queens’ greatest songs – ranked!",
+      "body": "<p>As the French avant-popper returns with new single Rendez-vous avec toi, we celebrate the best of an artist who uses sleek songwriting to grapple with knotty emotion</p><p>Originally leaked online by the artist himself, <a href=\"https://",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/stage/2026/nov/05/ms-blakk-for-president-play"
+      "url": "https://www.theguardian.com/music/2026/nov/05/full-of-life-and-catching-feelings-christine-and-the-queens-greatest-songs-ranked"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1889 —",
+      "hook": "Montana is admitted as the 41st U.S. state.",
+      "body": "Montana is a landlocked state in the Mountain West subregion of the Western United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/330px-Flag_of_Montana.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Montana"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Winner of the Prix Goncourt literary prize admits to using AI",
+      "body": "<p>Philippe Jaenada told French radio that he used ChatGPT to ‘play with the reader’, after the prize removed a different book from its longlist over allegations of AI use</p><p>The winner of France’s most prestigious literary prize has adm",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Narrative threads: How to write a Booker-shortlisted novel, by Marlon James, Douglas Stuart, Elizabeth Strout and more",
+      "body": "<p>A trip to the Scottish islands, a psychological experiment, a chance encounter in a drugstore… the finalists for this year’s Booker prize reveal their inspirations </p><p>Who knows where a novel really comes from? I spend years gathering",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/07/narrative-threads-how-to-write-a-booker-shortlisted-novel-by-marlon-james-douglas-stuart-elizabeth-strout-and-more"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Joëlle Pineau is a Canadian computer scientist and Professor at McGill University.",
+      "body": "She was the global vice president of Facebook Artificial Intelligence Research (FAIR), now known as AI at Meta, until May 2025. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Jo%C3%ABlle_Pineau_at_All_In_2025_03.jpg/330px-Jo%C3%ABlle_Pineau_at_All_In_2025_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "Thomas Bruce, 2nd Earl of Ailesbury and 3rd Earl of Elgin, styled Lord Bruce between 1663 and 1685, was an English politician and memoirist.",
+      "body": "He was the son of Robert Bruce, 2nd Earl of Elgin, and Lady Diana Grey. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Thomas_Bruce%2C_2nd_Earl_of_Ailesbury_and_3rd_Earl_of_Elgin%2C_by_Francois_Harrewijn.jpg/330px-Thomas_Bruce%2C_2nd_Earl_of_Ailesbury_and_3rd_Earl_of_Elgin%2C_by_Francois_Harrewijn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Bruce%2C_2nd_Earl_of_Ailesbury"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Waldheim–Rochlitz railway was a single-track branchline of about 21 km length in Saxony, connecting the towns of Waldheim and Rochlitz via Hartha and Geringswalde.",
+      "body": "It was opened in 1893, closed in 1998 and served mainly the purposes of the local industry and population. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/RochlitzBahnbr%C3%BCcke1.JPG/330px-RochlitzBahnbr%C3%BCcke1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Waldheim%E2%80%93Rochlitz_railway"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2016 —",
+      "hook": "Indian Prime Minister Narendra Modi publicly announces the withdrawal of ₹500 and ₹1000 denomination banknotes.",
+      "body": "On 8 November 2016, the Government of India announced the demonetisation of all ₹500 and ₹1,000 banknotes of the Mahatma Gandhi Series. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Queue_at_Bank_to_Exchange_INR_500_and_1000_Notes_-_Salt_Lake_City_-_Kolkata_2016-11-10_02103.jpg/330px-Queue_at_Bank_to_Exchange_INR_500_and_1000_Notes_-_Salt_Lake_City_-_Kolkata_2016-11-10_02103.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2016_Indian_banknote_demonetisation"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "You probably never noticed this —",
+      "hook": "It was sold on eBay in 2013 and put on display in Austin, Texas.",
+      "body": "The Minnesota Iceman is a sideshow exhibit and elaborate hoax that depicts a fake man-like creature frozen in a block of ice. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Minnesota_Iceman"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Dead Ever After is a fantasy novel by Charlaine Harris.",
+      "body": "It is the thirteenth novel in The Southern Vampire Mysteries series. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/Dead_Ever_After.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dead_Ever_After"
     },
     {
       "type": "card",
@@ -50,70 +119,91 @@
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Ang mga Kaibigan ni Mama Susan is a 2023 Philippine horror thriller film based on Bob Ong's 2010 mystery novel of the same name directed by Chito S.",
-      "body": "Roño and written by Bob Ong. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/57/Ang_mga_Kaibigan_ni_mama_susan.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ang_mga_Kaibigan_ni_Mama_Susan_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Killer Angels is a 1974 historical novel by American writer Michael Shaara that was awarded the Pulitzer Prize for Fiction in 1975.",
-      "body": "The book depicts the three days of the Battle of Gettysburg during the American Civil War, and the days leading up to it: June 29, 1863, as the troops of both the Union and the Confederacy move into battle around the town of Gettysburg, Pennsylvania, and July ",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/KillerAngels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Killer_Angels"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Winner of the Prix Goncourt literary prize admits to using AI",
-      "body": "<p>Philippe Jaenada told French radio that he used ChatGPT to ‘play with the reader’, after the prize removed a different book from its longlist over allegations of AI use</p><p>The winner of France’s most prestigious literary prize has adm",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "King of the Wind is a novel by Marguerite Henry that won the Newbery Medal for excellence in American children's literature in 1949.",
-      "body": "It was made into a film of the same name in 1990. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/King_of_the_Wind.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/King_of_the_Wind"
-    },
-    {
-      "type": "card",
       "cat": "news",
       "opener": "The Guardian · Culture —",
-      "hook": "Full of life and catching feelings: Christine and the Queens’ greatest songs – ranked!",
-      "body": "<p>As the French avant-popper returns with new single Rendez-vous avec toi, we celebrate the best of an artist who uses sleek songwriting to grapple with knotty emotion</p><p>Originally leaked online by the artist himself, <a href=\"https://",
+      "hook": "‘A hero’s origins’: the true story of the first Black drag queen presidential candidate",
+      "body": "<p>In off-Broadway show Ms Blakk for President, Oscar-winning Moonlight writer Tarell Alvin McCraney explores a slice of underappreciated queer history</p><p>At the height of the Aids crisis, the Chicago activist Terence Alan Smith put on h",
       "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/music/2026/nov/05/full-of-life-and-catching-feelings-christine-and-the-queens-greatest-songs-ranked"
+      "url": "https://www.theguardian.com/stage/2026/nov/05/ms-blakk-for-president-play"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Narrative threads: How to write a Booker-shortlisted novel, by Marlon James, Douglas Stuart, Elizabeth Strout and more",
-      "body": "<p>A trip to the Scottish islands, a psychological experiment, a chance encounter in a drugstore… the finalists for this year’s Booker prize reveal their inspirations </p><p>Who knows where a novel really comes from? I spend years gathering",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/07/narrative-threads-how-to-write-a-booker-shortlisted-novel-by-marlon-james-douglas-stuart-elizabeth-strout-and-more"
+      "cat": "history",
+      "opener": "On this day in 1923 —",
+      "hook": "Beer Hall Putsch: In Munich, Adolf Hitler leads the Nazis in an unsuccessful attempt to overthrow the German government.",
+      "body": "The Beer Hall Putsch, also known as the Munich Putsch, was a failed coup d'état led by Nazi Party leader Adolf Hitler, General Erich Ludendorff, and other Kampfbund leaders in Munich, Bavaria, on 8–9 November 1923, during the Weimar Republic. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bundesarchiv_Bild_119-1486%2C_Hitler-Putsch%2C_M%C3%BCnchen%2C_Marienplatz.jpg/330px-Bundesarchiv_Bild_119-1486%2C_Hitler-Putsch%2C_M%C3%BCnchen%2C_Marienplatz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Beer_Hall_Putsch"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "It is associated with the Afghan Army.",
+      "body": "Ordu Football Club is a professional football team based in Kabul, Afghanistan. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblem_of_the_Ministry_of_Defense_of_the_Islamic_Emirate_of_Afghanistan.jpg/330px-Emblem_of_the_Ministry_of_Defense_of_the_Islamic_Emirate_of_Afghanistan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ordu_FC"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1965 —",
+      "hook": "The Murder (Abolition of Death Penalty) Act 1965 is given Royal Assent, formally abolishing the death penalty in the United Kingdom for almost all crimes.",
+      "body": "The Murder Act 1965 is an act of the Parliament of the United Kingdom. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Royal_coat_of_arms_of_the_United_Kingdom_%281952%E2%80%932022%2C_variant_1%29.svg/330px-Royal_coat_of_arms_of_the_United_Kingdom_%281952%E2%80%932022%2C_variant_1%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Murder_(Abolition_of_Death_Penalty)_Act_1965"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "The Stepford Wives is a 1972 satirical \"feminist horror\" novel by Ira Levin.",
-      "body": "The story concerns Joanna Eberhart, a talented photographer, wife, and young mother who suspects that something in the town of Stepford is changing the wives from free-thinking, intelligent women into compliant wives dedicated solely to homemaking. One of thos",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/IraLevin_TheStepfordWives.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Kamratposten, also styled as KP, is a Swedish children's magazine published in Stockholm, Sweden.",
+      "body": "Founded in 1892, it is one of the earliest children's magazines in the country. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Stepford_Wives"
+      "url": "https://en.wikipedia.org/wiki/Kamratposten"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+      "body": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Adair Crawford FRS FRSE, a chemist and physician, was a pioneer in the development of calorimetric methods for measuring the specific heat capacity of substances and the heat of chemical reactions.",
+      "body": "In his influential 1779 book \"Experiments and Observations on Animal Heat\", Crawford presented new experiments proving that respiratory gas exchange in animals is a combustion. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Crawford_Adair_equipment.jpg/330px-Crawford_Adair_equipment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adair_Crawford"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2002 —",
+      "hook": "Iraq disarmament crisis: UN Security Council Resolution 1441: The United Nations Security Council unanimously approves a resolution on Iraq, forcing Saddam Hussein to disarm or face \"serious consequences\".",
+      "body": "In the Iraq disarmament crisis of the early 2000s, Iraq, led by president Saddam Hussein, was pressured by the United States and its other adversaries to destroy alleged stockpiles of weapons of mass destruction (WMD)—biological, chemical, and nuclear. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/WeaponsInspector.JPG/330px-WeaponsInspector.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Iraq_disarmament_crisis"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1973 —",
+      "hook": "The right ear of John Paul Getty III is delivered to a newspaper outlet along with a ransom note, convincing his father to pay US$2.9 million.",
+      "body": "John Paul Getty III was a grandson of the American oil tycoon J. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/John_Paul_Getty_III.jpg/330px-John_Paul_Getty_III.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/John_Paul_Getty_III"
     }
   ]
 }
