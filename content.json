@@ -1,119 +1,179 @@
 {
-  "generated": "2026-11-09T00:10:35.838Z",
-  "count": 12,
+  "generated": "2026-11-09T07:17:41.965Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "The Heist is a 2014 spy novel by Daniel Silva.",
-      "body": "It is the fourteenth in the Gabriel Allon series. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/d/de/TheHeist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Heist_(Silva_novel)"
+      "cat": "history",
+      "opener": "On this day in 1719 —",
+      "hook": "In a treaty between Sweden and Hanover at the close of the Great Northern War, Sweden cedes the Duchies of Bremen and Verden (in northern Germany) to Hanover.",
+      "body": "The Treaties of Stockholm were two treaties signed in 1719 and 1720 that ended the war between Sweden and an alliance of Hanover and Prussia. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Treaties_of_Stockholm_(Great_Northern_War)"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Bluey’s Daley Pearson on how losing his brother inspired his new film: ‘He was the best thing ever to me’",
-      "body": "<p>Allen, the first live-action film from Pearson’s Ludo Studio, follows a man who met an alien as a kid – and becomes obsessed with bringing him back</p><ul><li><p><a href=\"https://www.theguardian.com/lifeandstyle/2026/sep/25/saved-for-sun",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview"
+      "opener": "Screen Daily —",
+      "hook": "‘Godzilla Minus Zero’ roars with $63m at global box office; ‘Ramayana: Rise Of A Legend’ strong with $52.2m; ‘The Cat In The Hat’ leads US openers",
+      "body": "Four new Asian films claim top ten places, together with three US debutants.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/godzilla-minus-zero-roars-with-63m-at-global-box-office-ramayana-rise-of-a-legend-strong-with-522m-the-cat-in-the-hat-leads-us-openers/5222148.article"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "True North by Paul Theroux review – an American’s view of Canada",
-      "body": "<p>The veteran travel writer turns his eye for detail on his northern neighbour and its people</p><p>Paul Theroux’s arrival in Canada doesn’t go well. An immigration officer called Sweeney finds a small pocketknife in Theroux’s car and fine",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/06/true-north-by-paul-theroux-review-an-americans-view-of-canada"
+      "cat": "history",
+      "opener": "On this day in 2005 —",
+      "hook": "Suicide bombers attack three hotels in Amman, Jordan, killing at least 60 people.",
+      "body": "The 2005 Amman bombings were a series of coordinated suicide bomb attacks on three hotel lobbies in Amman, Jordan, on 9 November 2005. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2005_Amman_bombings%2C_Radisson_SAS.png/330px-2005_Amman_bombings%2C_Radisson_SAS.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2005_Amman_bombings"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "BBC Entertainment —",
-      "hook": "'We had no idea how ill she was': Bono on recording Dolly Parton's last song",
-      "body": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
+      "hook": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+      "body": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
       "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Laïla Marrakchi’s Morocco Oscar entry ‘Strawberries’ lands US deal among fresh international sales",
-      "body": "EXCLUSIVE: ‘Strawberries’ debuted in Un Certain Regard at Cannes earlier this year.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/laila-marrakchis-morocco-oscar-entry-strawberries-lands-us-deal-among-fresh-international-sales/5222149.article"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Celia en el mundo is the fourth installment in the series of \"Celia\" novels by Spanish children's author, Elena Fortún.",
-      "body": "Originally published in the year 1934, the novel continues the adventures of Celia in a series now considered classics of Spanish children's literature. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/52/Celia_en_el_mundo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Celia_en_el_mundo"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "Chasing the American dream: How are distributors pitching French films to US audiences?",
-      "body": "Can French cinema chart its course as the independent theatrical distribution market in the US continues to face polarisation and shifting consumer habits?",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/features/chasing-the-american-dream-how-are-distributors-pitching-french-films-to-us-audiences/5221949.article"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Alexander: God, King, Man by Edmund Richardson review – a dazzling, dizzying adventure",
-      "body": "<p>The winner of the 2026 Baillie Gifford prize is a riveting work of ancient history that feels startlingly present<br><br>• <a href=\"https://www.theguardian.com/books/2026/nov/04/edmund-richardson-alexander-god-king-man-wins-baillie-giffo",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/04/alexander-god-king-man-by-edmund-richardson-review-dazzling-dizzying-adventure"
+      "cat": "history",
+      "opener": "On this day in 1881 —",
+      "hook": "Mapuche rebels attack the fortified Chilean settlement of Temuco.",
+      "body": "The last major rebellion of the indigenous Mapuches of Araucanía took place in 1881, during the last phase of the Occupation of Araucanía (1861–1883) by the Chilean state. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mapuche_uprising_of_1881"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Dui Prithibi is a 1980 Bengali-language crime drama film co-written and directed by Pijush Basu.",
-      "body": "Produced by Uttam Kumar under the banner of Shilpi Sangshad, the film stars Kumar himself, alongside an ensemble cast of Ranjit Mallick, Victor Banerjee, Supriya Devi, Tanusree Shankar and Kalyani Mondal, with Prosenjit Chatterjee in a special appearance. Wort",
-      "img": "https://upload.wikimedia.org/wikipedia/en/2/27/Dui_Prithibi_%281980%29_film_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "You probably never noticed this —",
+      "hook": "Funny Boy is a 2020 drama film, directed by Deepa Mehta.",
+      "body": "An adaptation of Shyam Selvadurai's 1994 novel of the same name, the film centres on the coming of age of Arjie Chelvaratnam, a young Tamil boy in Sri Lanka who is coming to terms with his homosexuality against the backdrop of the increased tensions between Ta",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ce/Funny_Boy_2020_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dui_Prithibi_(1980_film)"
+      "url": "https://en.wikipedia.org/wiki/Funny_Boy_(film)"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Planet of Adventure is a series of four science fiction novels by Jack Vance, published between 1968 and 1970.",
-      "body": "The novels relate the adventures of the scout Adam Reith, the sole survivor of an Earth ship investigating a signal from the distant planet Tschai. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/Planetadventure_grafton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Planet_of_Adventure"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Reality Check is a 2009 young adult suspense novel written by Peter Abrahams.",
-      "body": "It was published on April 28, 2009, by HarperTeen. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Reality_Check_%28book%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Reality_Check_(novel)"
+      "cat": "history",
+      "opener": "On this day in 1313 —",
+      "hook": "Louis the Bavarian defeats his cousin Frederick I of Austria at the Battle of Gammelsdorf.",
+      "body": "Louis IV, called the Bavarian, was King of the Romans from 1314, King of Italy from 1327, and Holy Roman Emperor from 1328 until his death in 1347. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Gr%C3%BCnwald_11%28cropped%29.jpg/330px-Burg_Gr%C3%BCnwald_11%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Louis_IV%2C_Holy_Roman_Emperor"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
-      "body": "<p>Ten years after her landmark political documentary 13th, the film-maker delivers a follow-up on the 14th amendment – and the Trump administration’s attempts to dismantle birthright citizenship</p><p>When I ask Ava DuVernay how she kept h",
+      "hook": "Robert Pattinson has auditioned for James Bond – and finally the 007 race is interesting | Sian Cain",
+      "body": "<p>Hollywood’s weirdest man has entered the fray and the casting decision that has dragged on and on suddenly feels exciting for the first time</p><p>Why does anyone want to play James Bond? The franchise seems to spit out its leads, leavin",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment"
+      "url": "https://www.theguardian.com/film/2026/nov/09/robert-pattinson-nicholas-hoult-josh-oconnor-new-james-bond-contenders"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Drakarna över Helsingfors is a Swedish-language novel written by Finnish author Kjell Westö.",
+      "body": "The book tells about the life and faiths of the Bexar family, a Swedish-speaking Finnish family living in Helsinki, from the 1960s to the 1990s. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/Drakarna_%C3%B6ver_Helsingfors_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Drakarna_%C3%B6ver_Helsingfors"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Phantom in the House is a 1929 American pre-Code talking film directed by Phil Rosen and starring Ricardo Cortez.",
+      "body": "A silent version was prepared for release in theatres not yet equipped for sound. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/65/The_Phantom_in_the_House_FilmPoster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Phantom_in_the_House"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1971 —",
+      "hook": "American banker John List murdered his wife, mother, and three children with a pair of handguns.",
+      "body": "John Emil List was an American mass murderer and long-time fugitive. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/John_List_%28mugshot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/John_List_(murderer)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Look at Me by Dustin Hoffman review – an era-defining actor says his piece",
+      "body": "<p>At 89, the star of the Graduate and Ran Man demonstrates both brilliance and a startling lack of self-awareness</p><p>The choice of title for an actor’s autobiography can be revealing. Sylvester Stallone went with <a href=\"https://www.th",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/09/look-at-me-by-dustin-hoffman-review-an-era-defining-actor-says-his-piece"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "100 Sunset review – elliptical, elusive drama dreamlike through Toronto’s tight-knit Tibetan community",
+      "body": "<p>Kunsang Kyirong’s debut feature fades like a vapour trail in a mood of disorientation and dislocation</p><p>Not much happens and very little is explained in this elliptical, elusive drama by Canadian-Tibetan film-maker Kunsang Kyirong. H",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/09/100-sunset-review-kunsang-kyirong-kenzin-kunsel"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "A Rage to Live is a 1949 novel by John O'Hara.",
+      "body": "It was a bestseller upon release. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/A_Rage_to_Live_%28novel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Rage_to_Live_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1720 —",
+      "hook": "The synagogue of Judah HeHasid is burned down by Arab creditors, leading to the expulsion of the Ashkenazim from Jerusalem.",
+      "body": "Judah he-Hasid Segal ha-Levi was a Sabbatean preacher who along with Hayim Malakh led the largest organized group of Jewish immigrants to the Land of Israel in the 17th and 18th centuries. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Judah_HeHasid_(Jerusalem)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Maya Jama steps down as host of reality TV show Love Island",
+      "body": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Sirocco is a 1951 American thriller film noir directed by Curtis Bernhardt and starring Humphrey Bogart, Märta Torén and Lee J.",
+      "body": "The screenplay is based on the novel Le coup de grâce by French author Joseph Kessel. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a6/Sirocco-_1951_-_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sirocco_(1951_film)"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "James Bond: What we know so far about the next 007 film",
+      "body": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
