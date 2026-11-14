@@ -1,161 +1,35 @@
 {
-  "generated": "2026-11-14T11:48:52.893Z",
-  "count": 18,
+  "generated": "2026-11-14T17:21:32.479Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Dept Q crew member dies after being injured at Edinburgh film studio",
-      "body": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1965 —",
-      "hook": "Vietnam War: The Battle of Ia Drang begins. This is the first major engagement between regular American and North Vietnamese forces.",
-      "body": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2008 —",
+      "hook": "Space Shuttle Endeavour launches on STS-126 to continue assembly of the International Space Station.",
+      "body": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Vietnam_War"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1910 —",
-      "hook": "Aviator Eugene Burton Ely performs the first takeoff from a ship in Hampton Roads, Virginia, taking off from a makeshift deck on the USS Birmingham in a Curtiss pusher.",
-      "body": "An aircraft pilot is an individual who controls an aircraft's flight by operating its directional controls. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Lt_Mike_Hunter_1.jpg/330px-Lt_Mike_Hunter_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Aircraft_pilot"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2001 —",
-      "hook": "War in Afghanistan: Afghan Northern Alliance fighters take over the capital Kabul.",
-      "body": "The war in Afghanistan was a prolonged armed conflict from 2001 to 2021. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/330px-U.S._Army_firefight_in_Kunar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "In mathematics, spectral graph theory is the study of the properties of a graph in relationship to the characteristic polynomial, eigenvalues, and eigenvectors of matrices associated with the graph, such as its adjacency matrix or Laplacian matrix.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Spectral_graph_theory"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "La Muerte en las calles is a 1952 Argentine war drama film set during the British Invasions of the River Plate of 1806-1807.",
-      "body": "The script, written by Abel Santa Cruz, is based upon a 1949 novel of the same name by Manuel Gálvez. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/La_Muerte_en_las_calles"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "Blakesley is a surname and may refer:Jacob S.",
-      "body": "Blakesley, American translator Jim Blakesley (1896–1965), American minor league baseball player Joseph Blakesley (1808–1885), English Anglican clergyman and author Nora David, Baroness David (1913–2009), English Labour Party politician Rosalind Polly Blakesley",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Blakesley_(surname)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2017 —",
-      "hook": "A gunman kills four people and injures 12 others during a shooting spree across Rancho Tehama, California. He had earlier murdered his wife in their home.",
-      "body": "On November 13–14, 2017, a series of shootings occurred in Rancho Tehama, an unincorporated community in Tehama County, California, United States. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tehama_County_California_Incorporated_and_Unincorporated_areas_Rancho_Tehama_Reserve_Highlighted.svg/330px-Tehama_County_California_Incorporated_and_Unincorporated_areas_Rancho_Tehama_Reserve_Highlighted.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Rancho_Tehama_shootings"
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
-      "body": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Our critics’ verdicts on this week’s UK cinema releases",
-      "body": "<p>From Cynthia Erivo’s bravura barrister to Johnny Depp’s surprisingly good Scrooge, take a quick glance at this week’s new films</p><p>***</p> <a href=\"https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releas",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer"
+      "opener": "The Guardian · Culture —",
+      "hook": "‘To them, we’re just NPCs’: the artists and activists challenging Trump’s video game propaganda",
+      "body": "<p>Order a Diet Coke or invade Iran – that’s the choice facing the US president in one of several satirical games, as designers turn the gamification of politics back on the White House</p><p>In early September, the Trump White House announ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Raiden, is a fictional character in the Mortal Kombat fighting game franchise by Midway Games and NetherRealm Studios.",
-      "body": "Based on the Japanese deity Raijin, he is depicted as the god of thunder who possesses control over lightning. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/70/Raidenmortalkombat.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Gilead is a 2004 novel by American writer Marilynne Robinson.",
+      "body": "It won the 2005 Pulitzer Prize for Fiction and the National Book Critics Circle Award. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/Gileadcover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Raiden_(Mortal_Kombat)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1967 —",
-      "hook": "The Congress of Colombia, in commemoration of the 150th anniversary of the death of Policarpa Salavarrieta, declares this day as \"Day of the Colombian Woman\".",
-      "body": "The Congress of the Republic of Colombia is the name given to Colombia's bicameral national legislature. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Coat_of_arms_of_Colombia.svg/330px-Coat_of_arms_of_Colombia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Congress_of_Colombia"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-      "body": "The next title in the series is expected to be the biggest video game release ever.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Crumb Borne is a novella by Clive Barry, published in 1965.",
-      "body": "Fascinating critics with its hyper sensory descriptive style, deadpan absurdism, and pitch black humour, it was awarded the first ever Guardian Fiction Prize. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/Crumb_Borne%2C_penguin%2C_front_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Crumb_Borne"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "The Joensuu City Hall, designed by Eliel Saarinen, was inaugurated in Joensuu, Finland.",
-      "body": "The Joensuu City Hall is a brick building in the center of Joensuu, Finland, designed by Eliel Saarinen and completed in 1914, combining styles of Romantic Nationalism and late Art Nouveau. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Joensuun_kaupungintalo.jpg/330px-Joensuun_kaupungintalo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Joensuu_City_Hall"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘It’s like the wild west’: how AI has rocked the literary world",
-      "body": "<p>With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry. Is it too late to turn the tide on machine writing?</p><p><strong>T</strong>he ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world"
+      "url": "https://en.wikipedia.org/wiki/Gilead_(novel)"
     },
     {
       "type": "card",
@@ -168,12 +42,158 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "After President of Peru Pedro Castillo was ousted on 7 December 2022, a series of political protests against the government of President Dina Boluarte and the Congress of Peru occurred.",
+      "body": "The demonstrations lacked centralized leadership and originated primarily among grassroots movements and social organizations on the left to far-left, as well as indigenous communities, who felt politically disenfranchised. Bring it up somewhere. Watch the rea",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Protestas_Lima_Diciembre_2022_%2818%29.jpg/330px-Protestas_Lima_Diciembre_2022_%2818%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peruvian_protests_(2022%E2%80%932023)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1941 —",
+      "hook": "World War II: German troops, aided by local auxiliaries, murder nine thousand residents of the Słonim Ghetto in a single day.",
+      "body": "The Słonim Ghetto was a Nazi German ghetto established in 1941 by the SS in Slonim, Western Belarus, German-occupied Poland during World War II. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/WW2-Holocaust-Poland.PNG/330px-WW2-Holocaust-Poland.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/S%C5%82onim_Ghetto"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Agatha Raisin and the Quiche of Death is British comedy-drama television film based on the 1992 novel of the same name by M.",
+      "body": "The film aired on Sky1 on 26 December 2014. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agatha_Raisin_and_the_Quiche_of_Death_(film)"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "Screen Daily —",
-      "hook": "European Film Awards unveils 2026 nominations",
-      "body": "‘Fatherland’, ‘La Bola Negra’, ‘Fjord’ among most-nominated titles.",
-      "src": "Screen Daily",
-      "url": "https://www.screendaily.com/news/european-film-awards-unveils-2026-nominations/5222404.article"
+      "opener": "BBC Entertainment —",
+      "hook": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
+      "body": "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1851 —",
+      "hook": "Moby-Dick, a novel by Herman Melville, is published in the USA.",
+      "body": "Moby-Dick; or, The Whale is an 1851 epic novel by American writer Herman Melville. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Moby-Dick_FE_title_page.jpg/330px-Moby-Dick_FE_title_page.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Moby-Dick"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The condition occurs in most dioecious species, which consist of most animals and some plants.",
+      "body": "Sexual dimorphism is the condition where different sexes of the same species exhibit different morphological characteristics, including characteristics not directly involved in reproduction. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Pair_of_mandarin_ducks.jpg/330px-Pair_of_mandarin_ducks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sexual_dimorphism"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1952 —",
+      "hook": "The New Musical Express publishes the first regular UK Singles Chart.",
+      "body": "New Musical Express (NME) is a British music, film, gaming and culture website, and bimonthly magazine. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/New_Musical_Express_May_16%2C_1981.jpg/330px-New_Musical_Express_May_16%2C_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/NME"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Our critics’ verdicts on this week’s UK cinema releases",
+      "body": "<p>From Cynthia Erivo’s bravura barrister to Johnny Depp’s surprisingly good Scrooge, take a quick glance at this week’s new films</p><p>***</p> <a href=\"https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releas",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1960 —",
+      "hook": "Ruby Bridges becomes the first black child to attend an all-white elementary school in Louisiana.",
+      "body": "Ruby Nell Bridges Hall is an American civil rights activist. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Ruby_Bridges_%2816264182739%29.jpg/330px-Ruby_Bridges_%2816264182739%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ruby_Bridges"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Bonnie Tyler remembers loved ones in posthumous Christmas single",
+      "body": "Christmas single Love, Light and Peace was Bonnie Tyler's last studio recording, and was released on Friday.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/c6y493wzkxgko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Transcription by Ben Lerner audiobook review – a meditation on memory for the smartphone era",
+      "body": "<p>Actor Seth Numrich vividly captures the neurotic tendencies of a middle-aged man with a digital dependency, in an intense multilayered tale of family and storytelling</p><p>We meet the unnamed narrator of Transcription on a train to Prov",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/12/transcription-by-ben-lerner-audiobook-review-a-mediation-on-memory-for-the-smartphone-era"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1921 —",
+      "hook": "The Communist Party of Spain is founded, and issues the first edition of Mundo obrero.",
+      "body": "The Communist Party of Spain is a political party in Spain that is part of the United Left coalition, which is currently also part of the electoral alliance Sumar. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Pce_2014.svg/330px-Pce_2014.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Spain"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Ladies of Missalonghi is a short novel by Australian writer Colleen McCullough commissioned for the Hutchinson Novellas series and published in the United States in the Harper Short Novel series in 1987.",
+      "body": "Set in the small town of Byron in the Blue Mountains of Australia in the years just before World War I, the novel is the story of Missy Wright and the Hurlingford family. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/TheLadiesOfMissalonghi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Ladies_of_Missalonghi"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘It’s like the wild west’: how AI has rocked the literary world",
+      "body": "<p>With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry. Is it too late to turn the tide on machine writing?</p><p><strong>T</strong>he ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Orbital Resonance is a science fiction novel by John Barnes.",
+      "body": "It is the first of four books comprising the Century Next Door series, followed by Kaleidoscope Century, Candle, and The Sky So Big and Black. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/44/OrbitalResonance%281stEd%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Orbital_Resonance_(novel)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Four Steps to Death is a 2005 historical novel by John Wilson.",
+      "body": "It is about the horrors and tragedies of the Battle of Stalingrad. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/24/Four_Steps_to_Death_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Four_Steps_to_Death"
     }
   ]
 }
