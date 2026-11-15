@@ -1,16 +1,111 @@
 {
-  "generated": "2026-11-14T21:42:26.895Z",
-  "count": 19,
+  "generated": "2026-11-15T01:21:38.451Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The Deductions of Colonel Gore is a 1924 detective novel by the Irish-born writer Lynn Brock.",
+      "body": "It was the first in his series of seven novels featuring the character of Colonel Wyckham Gore. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/11/The_Deductions_of_Colonel_Gore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Deductions_of_Colonel_Gore"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Philippines wins first Eurovision Song Contest Asia",
+      "body": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Alleged Russell Brand rape victim wants age of consent law changed",
+      "body": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Leper is a 1936 Polish romantic drama film directed by Juliusz Gardan and starring Elzbieta Barszczewska, Franciszek Brodniewicz and Tamara Wiszniewska.",
+      "body": "The film's sets were designed by the art directors Stefan Norris and Jacek Rotmil. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Leper_%28film%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Leper_(film)"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1967 —",
-      "hook": "American physicist Theodore Maiman is given a patent for his ruby laser systems, the world's first laser.",
-      "body": "Theodore Harold Maiman was an American engineer and physicist who is widely credited with the invention of the laser. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Maiman_with_the_first_laser.jpg/330px-Maiman_with_the_first_laser.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1979 —",
+      "hook": "A package from Unabomber Ted Kaczynski begins smoking in the cargo hold of a flight from Chicago to Washington, D.C., forcing the plane to make an emergency landing.",
+      "body": "Theodore John Kaczynski, also known as the Unabomber, was an American mathematician and domestic terrorist. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ted_Kaczynski_2_%28cropped%29.jpg/330px-Ted_Kaczynski_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Theodore_Maiman"
+      "url": "https://en.wikipedia.org/wiki/Ted_Kaczynski"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1976 —",
+      "hook": "René Lévesque and the Parti Québécois take power to become the first Quebec government of the 20th century clearly in favor of independence.",
+      "body": "René Lévesque was a Canadian politician and journalist who served as the 23rd premier of Quebec from 1976 to 1985. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Ren%C3%A9_L%C3%A9vesque_BAnQ_P243S1D865_%28cropped%29.jpg/330px-Ren%C3%A9_L%C3%A9vesque_BAnQ_P243S1D865_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_L%C3%A9vesque"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2001 —",
+      "hook": "Microsoft launches the Xbox game console in North America.",
+      "body": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Microsoft"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
+      "body": "<p>The latest film version of the Dickens classic A Christmas Carol is decent enough, though its star is rather better as the legendary miser before redemption arrives</p><p>Here for lovers of Dickens – and fans of subtext – is an unexpecte",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1816 —",
+      "hook": "The Spa Fields riots break out as a result of hunger and revolutionary feelings in the aftermath of the French Revolutionary and Napoleonic Wars.",
+      "body": "The Spa Fields riots were incidents of public disorder arising out of the second of two mass meetings at Spa Fields, Islington, England on 15 November and 2 December 1816. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Spa_Fields_riots"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
+      "body": "The singer felt forced to compete with her female peers, until she realised the power of longevity.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "body": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -24,166 +119,81 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Newton's parakeet, also known as the Rodrigues parakeet or Rodrigues ring-necked parakeet, is an extinct species of parrot that was endemic to the Mascarene island of Rodrigues in the western Indian Ocean.",
-      "body": "Several of its features diverged from related species, indicating long-term isolation on Rodrigues and subsequent adaptation. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Newton%27s_Parakeet.jpg/330px-Newton%27s_Parakeet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Newton's_parakeet"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1970 —",
-      "hook": "Southern Airways Flight 932 crashes in the mountains near Huntington, West Virginia, killing 75, including almost all of the Marshall University football team.",
-      "body": "Southern Airways Flight 932 was a chartered Southern Airways twin engine McDonnell Douglas DC-9-30 domestic United States commercial jet flight from Stallings Field (ISO) in Kinston, North Carolina, to Huntington Tri-State Airport/Milton J. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Wreckage_of_Southern_Airways_Flight_932.jpg/330px-Wreckage_of_Southern_Airways_Flight_932.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Southern_Airways_Flight_932"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2008 —",
-      "hook": "The first G-20 economic summit opens in Washington, D.C.",
-      "body": "The 2008 G20 Washington Summit on Financial Markets and the World Economy was the first meeting, held in Washington, D.C., United States. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Cumbre_de_Washington.jpg/330px-Cumbre_de_Washington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2008_G20_Washington_summit"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "body": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Leon Clifton is a fictional detective, a protagonist of numerous Czech language detective stories of early 20th century.",
-      "body": "He is a brilliant American detective, master of disguise, capable to solve any mystery. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Leon_Clifton"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
-      "body": "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1680 —",
-      "hook": "German astronomer Gottfried Kirch discovers the Great Comet of 1680, the first comet to be discovered by telescope.",
-      "body": "Gottfried Kirch was a German astronomer and the first \"Astronomer Royal\" in Berlin and, as such, director of the nascent Berlin Observatory. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Gottfried_Kirch.jpg/330px-Gottfried_Kirch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Gottfried_Kirch"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Anita Marie Cal is an American author, screenwriter, film producer, and speaker best known for writing on the TBS family comedies, Tyler Perry's House of Payne and Tyler Perry's Meet the Browns.",
-      "body": "She was a screenwriter and producer of the comedy feature Kinfolks, developed by Showtime, starring Maia Campbell. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Anita_M._Cal.jpg/330px-Anita_M._Cal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Anita_M._Cal"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Transcription by Ben Lerner audiobook review – a meditation on memory for the smartphone era",
-      "body": "<p>Actor Seth Numrich vividly captures the neurotic tendencies of a middle-aged man with a digital dependency, in an intense multilayered tale of family and storytelling</p><p>We meet the unnamed narrator of Transcription on a train to Prov",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/12/transcription-by-ben-lerner-audiobook-review-a-mediation-on-memory-for-the-smartphone-era"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "James Allen Schmerer was an American television producer, screenwriter and author, best known for his work on popular action, western and crime drama television programs of the seventies and eighties.",
-      "body": "One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/James_Schmerer"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
-      "body": "<p>The latest film version of the Dickens classic A Christmas Carol is decent enough, though its star is rather better as the legendary miser before redemption arrives</p><p>Here for lovers of Dickens – and fans of subtext – is an unexpecte",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Philippines wins first Eurovision Song Contest Asia",
-      "body": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1918 —",
-      "hook": "The Provisional National Assembly of the new republic of Czechoslovakia meets to devise a constitution.",
-      "body": "Czechoslovakia was a country in Central Europe. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/330px-Flag_of_the_Czech_Republic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Czechoslovakia"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Geneviève Huriet is a French author, known for the Beechwood Bunny Tales children's book series.",
-      "body": "Huriet's works have been published by Éditions Milan, Grasset Jeunesse and Albin Michel in her native country, and a French-Canadian TV show based on the Beechwood books was launched in 2001. Worth a quiet trip down the rabbit hole.",
-      "img": null,
+      "hook": "Nysø Manor, located near Præstø in the southeast of the Danish island of Sealand, was built in 1673 for Jens Lauridsen, a local functionary.",
+      "body": "It now houses the Thorvaldsen Collection, a group of works by the Danish sculptor Bertel Thorvaldsen, who lived and worked there in his later years. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Nysoe.jpg/330px-Nysoe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Genevi%C3%A8ve_Huriet"
+      "url": "https://en.wikipedia.org/wiki/Nys%C3%B8_Manor"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "East of Eden is a 2026 American historical drama television limited series created by Zoe Kazan, starring Florence Pugh.",
+      "body": "It is adapted from the 1952 novel by John Steinbeck and premiered on Netflix on October 1, 2026. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/18/East_of_Eden_2026_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/East_of_Eden_(2026_miniseries)"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1977 —",
-      "hook": "During a British House of Commons debate, Labour MP Tam Dalyell poses what would become known as the West Lothian question, referring to issues related to devolution in the United Kingdom.",
-      "body": "The House of Commons is the lower house of the Parliament of the United Kingdom. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_House_of_Commons.svg/330px-Flag_House_of_Commons.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1942 —",
+      "hook": "World War II: The Battle of Guadalcanal ends in a decisive Allied victory.",
+      "body": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "‘To them, we’re just NPCs’: the artists and activists challenging Trump’s video game propaganda",
-      "body": "<p>Order a Diet Coke or invade Iran – that’s the choice facing the US president in one of several satirical games, as designers turn the gamification of politics back on the White House</p><p>In early September, the Trump White House announ",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda"
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "Here's one for the group chat —",
-      "hook": "Born on December 13, 1913, in New York City he attended National Academy of Design.",
-      "body": "Harold Black (1913–1993) was an American artist known for his work with the Works Progress Administration (WPA). Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Harold_Black_-_Sunbath_-_Smithsonian_American_Art_Museum.jpg/330px-Harold_Black_-_Sunbath_-_Smithsonian_American_Art_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Designed by and manufactured at the Italian carrozzeria Pininfarina factory, the monocoque, front-engined, rear-drive Sport Spider debuted at the November 1966 Turin Auto Show with styling by Tom Tjaarda.",
+      "body": "The Fiat 124 Sport Spider is a convertible sports car marketed by Fiat for model years 1966–1982 and by Pininfarina for 1982–1985 model years. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Fiat_124_Spider_turquoise.jpg/330px-Fiat_124_Spider_turquoise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Harold_Black_(artist)"
+      "url": "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1943 —",
+      "hook": "The Holocaust: German SS leader Heinrich Himmler orders that Gypsies are to be put \"on the same level as Jews and placed in concentration camps\".",
+      "body": "The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg/330px-Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/The_Holocaust"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Teresa the Thief is a 1973 commedia all'italiana film directed by Carlo Di Palma.",
+      "body": "It is based on the novel Memorie di una ladra written by Dacia Maraini in 1972. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/df/Teresa_the_Thief.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Teresa_the_Thief"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Here's one for the group chat —",
+      "hook": "Mainly a defensive midfielder, he can also play as a centre-back or a full-back.",
+      "body": "Rachmat Irianto is an Indonesian professional footballer who plays for Super League club Persebaya Surabaya and the Indonesia national team. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Indonesia-Brunei_17_October_2023_%28Players%29_48.jpg/330px-Indonesia-Brunei_17_October_2023_%28Players%29_48.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rachmat_Irianto"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+      "body": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
