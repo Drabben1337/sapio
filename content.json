@@ -1,16 +1,151 @@
 {
-  "generated": "2026-11-15T15:54:58.989Z",
-  "count": 21,
+  "generated": "2026-11-15T20:37:22.900Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
+      "body": "<p>A new film starring Helen Mirren explores the Ripley writer’s later years, but was she really so rude and eccentric? Editors and publishers who worked with her look back</p><p>Publisher and bookseller Otto Penzler has loved Patricia High",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1760 —",
+      "hook": "The secondly-built Castellania in Valletta is officially inaugurated with the blessing of the interior Chapel of Sorrows.",
+      "body": "The Castellania, also known as the Castellania Palace, is a former courthouse and prison in Valletta, Malta that currently houses the country's health ministry. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Castellania_with_Valletta_2018_Festa_decorations_03.jpg/330px-Castellania_with_Valletta_2018_Festa_decorations_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Castellania_(Valletta)"
+    },
+    {
+      "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Boy in the Bush is a novel by D.",
-      "body": "Lawrence set in Western Australia, first published in 1924. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/TheBoyInTheBush.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The New Wilderness is a 2020 speculative climate fiction novel by American writer Diane Cook.",
+      "body": "The novel takes place in a future where climate change and pollution have devastated the environment. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/43/The_New_Wilderness_-_Diane_Cook.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Boy_in_the_Bush"
+      "url": "https://en.wikipedia.org/wiki/The_New_Wilderness"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Muddy Torrent Trilogy (濁流三部曲) is a Taiwanese epic novel written by Hakka author Chung Chao-cheng.",
+      "body": "It was created from 1961 to 1963 and falls under the autobiographical novel genre. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Muddy_Torrent_Trilogy"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "I Want to Eat Your Pancreas , also known as Let Me Eat Your Pancreas, is a novel by the Japanese writer Yoru Sumino.",
+      "body": "Initially serialized as a web novel in the user-generated site Shōsetsuka ni Narō in 2014, the book was published in print in 2015 by Futabasha. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5d/Kimi_no_Suiz%C5%8D_o_Tabetai_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/I_Want_to_Eat_Your_Pancreas"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
+      "body": "The singer felt forced to compete with her female peers, until she realised the power of longevity.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The unexpected power of fleeting friendships",
+      "body": "<p>From Aristotle on, we’ve learned to see long-lasting relationships as more valuable. But what does that leave out?</p><p>In Russian, a <em>poputchik</em> is a stranger you meet on a journey who you end up confessing everything to because",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/the-unexpected-power-of-fleeting-friendships"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "King jokes with Elton John as he marks 78th birthday with radio show",
+      "body": "The monarch appears on a special episode to coincide with his 78th birthday on Saturday.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1816 —",
+      "hook": "The Spa Fields riots break out as a result of hunger and revolutionary feelings in the aftermath of the French Revolutionary and Napoleonic Wars.",
+      "body": "The Spa Fields riots were incidents of public disorder arising out of the second of two mass meetings at Spa Fields, Islington, England on 15 November and 2 December 1816. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Spa_Fields_riots"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘We are dream-walking into a desperate situation’: the Booker prize winner on his sci-fi alien invasion wakeup call",
+      "body": "<p>He is a sci-fi titan but M John Harrison has just exploded into the mainstream – with The End of Everything, an apocalyptic novel set on the Kent coast. Does he really think we have no hope left?</p><p>With his twinkling eyes and silver ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-prize-winner-sci-fi-alien-invasion-kent"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1928 —",
+      "hook": "The RNLI lifeboat Mary Stanford capsizes in Rye Harbour with the loss of the entire 17-man crew.",
+      "body": "The Royal National Lifeboat Institution (RNLI) is the largest of the lifeboat services operating around the coasts of the United Kingdom, Ireland, the Channel Islands, and the Isle of Man, as well as on some inland waterways. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3e/Royal_National_Lifeboat_Institution.svg/330px-Royal_National_Lifeboat_Institution.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Royal_National_Lifeboat_Institution"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1938 —",
+      "hook": "Nazi Germany bans Jewish children from public schools in the aftermath of Kristallnacht.",
+      "body": "Nazi Germany, officially the German Reich and later the Greater German Reich, was the German state between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country, transforming it into a totalitarian dictatorship. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/330px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Nazi_Germany"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1969 —",
+      "hook": "Vietnam War: In Washington, D.C., 250,000–500,000 protesters staged a peaceful demonstration against the war, including a symbolic \"March Against Death\".",
+      "body": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Vietnam_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1920 —",
+      "hook": "The first assembly of the League of Nations is held in Geneva, Switzerland.",
+      "body": "The League of Nations was the first worldwide intergovernmental organisation whose principal mission was to maintain world peace. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg/330px-Flag_of_the_League_of_Nations_%281939%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/League_of_Nations"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "Molly Zero is a work of science fiction written in the second person by Keith Roberts.",
+      "body": "Originally published as a novella in the 1977 collection Triax edited by Robert Silverberg, Molly Zero was later expanded into a full length novel and republished in 1980. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Molly_Zero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Molly_Zero"
     },
     {
       "type": "card",
@@ -24,186 +159,21 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "King jokes with Elton John as he marks 78th birthday with radio show",
-      "body": "The monarch appears on a special episode to coincide with his 78th birthday on Saturday.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on business and self-improvement books licensed by the JRR Tolkien estate – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/nov/15/tom-gauld-on-business-and-self-improvement-books-licensed-by-the-jrr-tolkien-estate-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/nov/15/tom-gauld-on-business-and-self-improvement-books-licensed-by-the-jrr-tolkien-estate-cartoon"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Flashman Papers is a series of novels and short stories written by George MacDonald Fraser, the first of which was published in 1969.",
-      "body": "The books centre on the exploits of the fictional protagonist Harry Flashman. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Flashman_Papers"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘We are dream-walking into a desperate situation’: the Booker prize winner on his sci-fi alien invasion wakeup call",
-      "body": "<p>He is a sci-fi titan but M John Harrison has just exploded into the mainstream – with The End of Everything, an apocalyptic novel set on the Kent coast. Does he really think we have no hope left?</p><p>With his twinkling eyes and silver ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-prize-winner-sci-fi-alien-invasion-kent"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
-      "body": "The singer felt forced to compete with her female peers, until she realised the power of longevity.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1992 —",
-      "hook": "An Aero Caribbean Ilyushin Il-18 crashes on approach to Gregorio Luperón International Airport in Puerto Plata, killing 34.",
-      "body": "On 15 November 1992, an Aero Caribbean Ilyushin Il-18, operating a charter flight from Las Américas International Airport, Dominican Republic to José Martí International Airport, Cuba, with a stopover in Gregorio Luperón International Airport, crashed into the side of a mountain killing all 28 passengers and 6 crew on board. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/CU-T1270_Bridgetown_30-5-1990.jpg/330px-CU-T1270_Bridgetown_30-5-1990.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1992_Aero_Caribbean_Ilyushin_Il-18_crash"
-    },
-    {
-      "type": "card",
-      "cat": "history",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "It covers an array of styles, including those that accompany Hungarian folk dances, such as the csárdás, hajdútánc, héjsza, nóta and verbunkos.",
-      "body": "Hungarian folk music is characterised by complex melodic patterns, rhythmic diversity, ornamentalisation and the use of a distinctive blend of traditional instruments. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/T%C3%A1rogat%C3%B3_%C3%A9s_tokja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Les Misérables is a 1958 film adaptation of the 1862 Victor Hugo novel.",
+      "body": "Written by René Barjavel, the film was directed by Jean-Paul Le Chanois and stars Jean Gabin as Jean Valjean. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/06/French_poster_Les_Mis%C3%A9rables.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hungarian_folk_music"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1966 —",
-      "hook": "Project Gemini: Gemini 12 completes the program's final mission, when it splashes down safely in the Atlantic Ocean.",
-      "body": "Project Gemini was the second United States human spaceflight program to fly. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/GeminiPatch.svg/330px-GeminiPatch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Project_Gemini"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The unexpected power of fleeting friendships",
-      "body": "<p>From Aristotle on, we’ve learned to see long-lasting relationships as more valuable. But what does that leave out?</p><p>In Russian, a <em>poputchik</em> is a stranger you meet on a journey who you end up confessing everything to because",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/the-unexpected-power-of-fleeting-friendships"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2001 —",
-      "hook": "Microsoft launches the Xbox game console in North America.",
-      "body": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Microsoft"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Okay, this one's fun —",
-      "hook": "The tennis hall was designed by architect Jarl Eklund and completed in 1935.",
-      "body": "The Westend tennis hall was a tennis centre located in the Westend district of Espoo, Finland. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Westend-Tennis-Hall-1936.jpg/330px-Westend-Tennis-Hall-1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Westend_tennis_hall"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The fifth and final season of the 2012 Teenage Mutant Ninja Turtles series, titled Tales of the Teenage Mutant Ninja Turtles, aired on Nickelodeon in the United States from March 19, 2017, to November 12, 2017, consisting of 20 episodes.",
-      "body": "One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2012_TV_series)_season_5"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "Aquarium Drunkard is an online music magazine based in Los Angeles, California and launched in 2005 by Justin Gage, who chose the name \"Aquarium Drunkard\" based on a reference to a lyric written by the band Wilco.",
-      "body": "Along with its music reviews, Aquarium Drunkard publishes a number of other digital content types on a wide array of musical topics, including podcasts, mixtapes, and artist interviews. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Aquarium_Drunkard_logo.svg/330px-Aquarium_Drunkard_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Aquarium_Drunkard"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "After His Own Heart is a 1919 American silent comedy-drama film based on a 1919 short story of the same name by Ben Ames Williams.",
-      "body": "It was adapted for the screen by Albert Shelby Le Vino and directed by Harry L. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/After_His_Own_Heart_%281919%29_-_Ad_1.jpg/330px-After_His_Own_Heart_%281919%29_-_Ad_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/After_His_Own_Heart"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1986 —",
-      "hook": "Israeli yeshiva student Eliahu Amedi is murdered in the Old City of Jerusalem by three members of the Popular Front for the Liberation of Palestine.",
-      "body": "On 15 November 1986, 22-year-old Israeli yeshiva student Eliahu Amedi was murdered in the Old City of Jerusalem by three Palestinians affiliated with the Popular Front for the Liberation of Palestine. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Killing_of_Eliahu_Amedi"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
-      "body": "<p>A new film starring Helen Mirren explores the Ripley writer’s later years, but was she really so rude and eccentric? Editors and publishers who worked with her look back</p><p>Publisher and bookseller Otto Penzler has loved Patricia High",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1688 —",
-      "hook": "Prince William III of Orange lands a Dutch army at Brixham, beginning the 1688 invasion of England to challenge the rule of King James II and setting in motion the events that would lead to the Glorious Revolution.",
-      "body": "William III and II, also known as William of Orange, was the sovereign Prince of Orange from birth, Stadtholder of Holland, Zeeland, Utrecht, Guelders, and Overijssel in the Dutch Republic from 1672, and King of England, Scotland, and Ireland from 1689 until his death in 1702. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/King_William_III_of_England%2C_%281650-1702%29.jpg/330px-King_William_III_of_England%2C_%281650-1702%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/William_III_of_England"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Alleged Russell Brand rape victim wants age of consent law changed",
-      "body": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The Story of the Other Wise Man is a short novel or long short story by Henry van Dyke.",
-      "body": "It was first published in Harper's Magazine in January 1893 and has been reprinted many times since then. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cf/TheOtherWiseMan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Other_Wise_Man"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1777 —",
-      "hook": "American Revolutionary War: After 16 months of debate the Continental Congress approves the Articles of Confederation.",
-      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+      "url": "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(1958_film)"
     }
   ]
 }
