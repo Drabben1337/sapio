@@ -1,7 +1,45 @@
 {
-  "generated": "2026-11-15T08:29:47.899Z",
-  "count": 19,
+  "generated": "2026-11-15T15:54:58.989Z",
+  "count": 21,
   "items": [
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Boy in the Bush is a novel by D.",
+      "body": "Lawrence set in Western Australia, first published in 1924. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/TheBoyInTheBush.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Boy_in_the_Bush"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "'It's like you're in one of his paintings' Kyffin Williams' art brought to life",
+      "body": "Technology similar to that used for exhibitions of Van Gogh, Cézanne and LS Lowry is being used.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g9ey10dko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "King jokes with Elton John as he marks 78th birthday with radio show",
+      "body": "The monarch appears on a special episode to coincide with his 78th birthday on Saturday.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Flashman Papers is a series of novels and short stories written by George MacDonald Fraser, the first of which was published in 1969.",
+      "body": "The books centre on the exploits of the fictional protagonist Harry Flashman. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Flashman_Papers"
+    },
     {
       "type": "card",
       "cat": "news",
@@ -22,61 +60,121 @@
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "'It's like you're in one of his paintings' Kyffin Williams' art brought to life",
-      "body": "Technology similar to that used for exhibitions of Van Gogh, Cézanne and LS Lowry is being used.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g9ey10dko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Slapboxing is a physical activity somewhat simulating boxing, where open handed slaps are used instead of fists.",
-      "body": "This is a quasi-martial art form, at an intersection between sparring and fighting, and is usually performed in an ad hoc or informal manner, or when boxing protective gear is unavailable. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Slapboxing"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Idora Elizabeth McClellan Plowman Moore was an American author, \"one of the first Alabama writers to recognize the pecuniary aspects of local-color writing.\" She wrote using the pen-name Betsy Hamilton.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/98/Idora_M._Plowman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Idora_M._Plowman"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
-      "body": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss"
+      "cat": "history",
+      "opener": "On this day in 1992 —",
+      "hook": "An Aero Caribbean Ilyushin Il-18 crashes on approach to Gregorio Luperón International Airport in Puerto Plata, killing 34.",
+      "body": "On 15 November 1992, an Aero Caribbean Ilyushin Il-18, operating a charter flight from Las Américas International Airport, Dominican Republic to José Martí International Airport, Cuba, with a stopover in Gregorio Luperón International Airport, crashed into the side of a mountain killing all 28 passengers and 6 crew on board. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/CU-T1270_Bridgetown_30-5-1990.jpg/330px-CU-T1270_Bridgetown_30-5-1990.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1992_Aero_Caribbean_Ilyushin_Il-18_crash"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2017 —",
-      "hook": "Khabarovsk Airlines Flight 463 crashes on approach to Nelkan Airport, killing six people.",
-      "body": "Khabarovsk Airlines Flight 463 was a scheduled domestic passenger flight from Nikolayevsk-on-Amur Airport to Nelkan Airport in Russia. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Khabarovsk_Airlines_Flight_463_wreckage.jpg/330px-Khabarovsk_Airlines_Flight_463_wreckage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It covers an array of styles, including those that accompany Hungarian folk dances, such as the csárdás, hajdútánc, héjsza, nóta and verbunkos.",
+      "body": "Hungarian folk music is characterised by complex melodic patterns, rhythmic diversity, ornamentalisation and the use of a distinctive blend of traditional instruments. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/T%C3%A1rogat%C3%B3_%C3%A9s_tokja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hungarian_folk_music"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1966 —",
+      "hook": "Project Gemini: Gemini 12 completes the program's final mission, when it splashes down safely in the Atlantic Ocean.",
+      "body": "Project Gemini was the second United States human spaceflight program to fly. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/GeminiPatch.svg/330px-GeminiPatch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Khabarovsk_Airlines_Flight_463"
+      "url": "https://en.wikipedia.org/wiki/Project_Gemini"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The unexpected power of fleeting friendships",
+      "body": "<p>From Aristotle on, we’ve learned to see long-lasting relationships as more valuable. But what does that leave out?</p><p>In Russian, a <em>poputchik</em> is a stranger you meet on a journey who you end up confessing everything to because",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/the-unexpected-power-of-fleeting-friendships"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2001 —",
+      "hook": "Microsoft launches the Xbox game console in North America.",
+      "body": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Microsoft"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Okay, this one's fun —",
+      "hook": "The tennis hall was designed by architect Jarl Eklund and completed in 1935.",
+      "body": "The Westend tennis hall was a tennis centre located in the Westend district of Espoo, Finland. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Westend-Tennis-Hall-1936.jpg/330px-Westend-Tennis-Hall-1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Westend_tennis_hall"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Critics' Choice Television Award for Best Supporting Actress in a Limited Series or Movie Made for Television is one of the award categories presented annually by the Critics' Choice Awards (CCA) to recognize the work done by television actors in a supporting role.",
+      "opener": "File under 'wait, really?' —",
+      "hook": "The fifth and final season of the 2012 Teenage Mutant Ninja Turtles series, titled Tales of the Teenage Mutant Ninja Turtles, aired on Nickelodeon in the United States from March 19, 2017, to November 12, 2017, consisting of 20 episodes.",
       "body": "One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Erin_Doherty_at_BAFTAs_2026_03.jpg/330px-Erin_Doherty_at_BAFTAs_2026_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Critics'_Choice_Television_Award_for_Best_Supporting_Actress_in_a_Movie%2FMiniseries"
+      "url": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2012_TV_series)_season_5"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "Aquarium Drunkard is an online music magazine based in Los Angeles, California and launched in 2005 by Justin Gage, who chose the name \"Aquarium Drunkard\" based on a reference to a lyric written by the band Wilco.",
+      "body": "Along with its music reviews, Aquarium Drunkard publishes a number of other digital content types on a wide array of musical topics, including podcasts, mixtapes, and artist interviews. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Aquarium_Drunkard_logo.svg/330px-Aquarium_Drunkard_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aquarium_Drunkard"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "After His Own Heart is a 1919 American silent comedy-drama film based on a 1919 short story of the same name by Ben Ames Williams.",
+      "body": "It was adapted for the screen by Albert Shelby Le Vino and directed by Harry L. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/After_His_Own_Heart_%281919%29_-_Ad_1.jpg/330px-After_His_Own_Heart_%281919%29_-_Ad_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/After_His_Own_Heart"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1986 —",
+      "hook": "Israeli yeshiva student Eliahu Amedi is murdered in the Old City of Jerusalem by three members of the Popular Front for the Liberation of Palestine.",
+      "body": "On 15 November 1986, 22-year-old Israeli yeshiva student Eliahu Amedi was murdered in the Old City of Jerusalem by three Palestinians affiliated with the Popular Front for the Liberation of Palestine. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Killing_of_Eliahu_Amedi"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
+      "body": "<p>A new film starring Helen Mirren explores the Ripley writer’s later years, but was she really so rude and eccentric? Editors and publishers who worked with her look back</p><p>Publisher and bookseller Otto Penzler has loved Patricia High",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1688 —",
+      "hook": "Prince William III of Orange lands a Dutch army at Brixham, beginning the 1688 invasion of England to challenge the rule of King James II and setting in motion the events that would lead to the Glorious Revolution.",
+      "body": "William III and II, also known as William of Orange, was the sovereign Prince of Orange from birth, Stadtholder of Holland, Zeeland, Utrecht, Guelders, and Overijssel in the Dutch Republic from 1672, and King of England, Scotland, and Ireland from 1689 until his death in 1702. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/King_William_III_of_England%2C_%281650-1702%29.jpg/330px-King_William_III_of_England%2C_%281650-1702%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/William_III_of_England"
     },
     {
       "type": "card",
@@ -91,99 +189,21 @@
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "The 1989–90 NHL season was the 73rd season of the National Hockey League.",
-      "body": "The Stanley Cup winners were the Edmonton Oilers, who won the best of seven series 4–1 against the Boston Bruins. One of those things you can't un-know.",
-      "img": null,
+      "hook": "The Story of the Other Wise Man is a short novel or long short story by Henry van Dyke.",
+      "body": "It was first published in Harper's Magazine in January 1893 and has been reprinted many times since then. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cf/TheOtherWiseMan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/1989%E2%80%9390_NHL_season"
+      "url": "https://en.wikipedia.org/wiki/The_Other_Wise_Man"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1928 —",
-      "hook": "The RNLI lifeboat Mary Stanford capsizes in Rye Harbour with the loss of the entire 17-man crew.",
-      "body": "The Royal National Lifeboat Institution (RNLI) is the largest of the lifeboat services operating around the coasts of the United Kingdom, Ireland, the Channel Islands, and the Isle of Man, as well as on some inland waterways. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3e/Royal_National_Lifeboat_Institution.svg/330px-Royal_National_Lifeboat_Institution.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1777 —",
+      "hook": "American Revolutionary War: After 16 months of debate the Continental Congress approves the Articles of Confederation.",
+      "body": "The American Revolutionary War, also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Royal_National_Lifeboat_Institution"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
-      "body": "<p>The latest film version of the Dickens classic A Christmas Carol is decent enough, though its star is rather better as the legendary miser before redemption arrives</p><p>Here for lovers of Dickens – and fans of subtext – is an unexpecte",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1988 —",
-      "hook": "The first Fairtrade label, Max Havelaar, is launched in the Netherlands.",
-      "body": "A fair-trade certification is a product certification within the market-based movement of fair trade. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/Fairtrade-logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Fair-trade_certification"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1966 —",
-      "hook": "Project Gemini: Gemini 12 completes the program's final mission, when it splashes down safely in the Atlantic Ocean.",
-      "body": "Project Gemini was the second United States human spaceflight program to fly. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/GeminiPatch.svg/330px-GeminiPatch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Project_Gemini"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1889 —",
-      "hook": "Brazil is declared a republic by Marshal Deodoro da Fonseca as Emperor Pedro II is deposed in a military coup.",
-      "body": "Brazil, officially the Federative Republic of Brazil, is the largest country in South America. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Brazil"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1806 —",
-      "hook": "Pike Expedition: Lieutenant Zebulon Pike spots a mountain peak while near the Colorado foothills of the Rocky Mountains. It is later named Pikes Peak in his honor.",
-      "body": "The Pike Expedition was a military party sent out by President Thomas Jefferson and authorized by the United States government to explore the south and west of the recent Louisiana Purchase. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Zebulon_Pike_Map.PNG/330px-Zebulon_Pike_Map.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Pike_Expedition"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Culture —",
-      "hook": "You can see everything on this list: the 20 most jaw-dropping documentaries – ranked!",
-      "body": "<p>Ahead of the UK release of Nathan Fielder’s hotly anticipated Elizabeth Holmes film, we count down the most shocking and affecting true stories ever committed to cinema</p><p><a href=\"https://en.wikipedia.org/wiki/L%27Arriv%C3%A9e_d%27un",
-      "src": "The Guardian · Culture",
-      "url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Bet you didn't know —",
-      "hook": "The third and final season of the American psychological drama television series Euphoria, inspired by Ron Leshem's miniseries of the same name, premiered on HBO on April 12, 2026.",
-      "body": "Series creator Sam Levinson serves as showrunner for the season. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/e/ee/Euphoria_season_3.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Euphoria_season_3"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Rats, Lice and History is a 1935 popular science book by bacteriologist Hans Zinsser on the subject of typhus, a disease on which he performed significant research.",
-      "body": "He frames the book as a \"biography\" of typhus, tracing its destructive path since ancient civilizations. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/Rats%2C_Lice_and_History.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Rats%2C_Lice_and_History"
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
     }
   ]
 }
