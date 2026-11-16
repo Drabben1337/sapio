@@ -1,199 +1,179 @@
 {
-  "generated": "2026-11-16T00:27:10.757Z",
-  "count": 20,
+  "generated": "2026-11-16T07:23:44.678Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
+      "cat": "books",
+      "opener": "File under 'wait, really?' —",
+      "hook": "Bill Wyman is the third solo studio album by the English rock musician Bill Wyman, released on 26 March 1982 by A&M Records.",
+      "body": "55 on the UK Albums Chart. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/52/Wyman1982album.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bill_Wyman_(album)"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 1933 —",
-      "hook": "The United States and the Soviet Union establish formal diplomatic relations.",
-      "body": "The Soviet Union, officially the Union of Soviet Socialist Republics (USSR), was a transcontinental country that spanned much of Eurasia from its formation in 1922 until its dissolution in 1991. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1973 —",
+      "hook": "U.S. president Richard Nixon signs the Trans-Alaska Pipeline Authorization Act into law, authorizing the construction of the Alaska Pipeline.",
+      "body": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Soviet_Union"
+      "url": "https://en.wikipedia.org/wiki/Richard_Nixon"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1988 —",
+      "hook": "In the first open election in more than a decade, voters in Pakistan elect populist candidate Benazir Bhutto to be Prime Minister of Pakistan.",
+      "body": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/330px-Flag_of_Pakistan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pakistan"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
+      "body": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1944 —",
+      "hook": "The Jussi Awards, the Finnish film award ceremony, is held for the first time at Restaurant Adlon in Helsinki.",
+      "body": "The Jussi Awards are Finland's premier film industry prizes, awarded annually to recognize the achievements of directors, actors, and writers. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Katja_K%C3%BCttner_and_Ville_Virtanen_in_Jussi_Award.jpg/330px-Katja_K%C3%BCttner_and_Ville_Virtanen_in_Jussi_Award.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Jussi_Awards"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "The DCU’s James Gunn and Peter Safran are out – this is the biggest disaster to hit superhero movies in years",
+      "body": "<p>The adventurous weirdness of the Gunn/Safran era that fans responded to is now history. Can the DCU ever get back on track?</p><p>What was <a href=\"https://www.theguardian.com/film/2022/oct/28/dc-james-gunn-guardians-of-the-galaxy-dceu\">",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/16/james-gunn-fired-dc-studios-peter-safran-superman-skydance"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘A songbook for protest movements’: how did this secret mission to smuggle antifascist music out of Spain ever get forgotten?",
+      "body": "<p>In 1961, a group of Italian creatives crossed the border to collect anti-Franco resistance songs and share them with the world – sparking intense backlash from the dictator. A new documentary retraces that perilous journey</p><p>In the s",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/16/antifascist-music-spain-the-drunkmens-marseillaise-la-marsellesa-de-los-borachos"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Congregation Rodeph Sholom is a Reform Jewish synagogue at 7 West 83rd Street on the Upper West Side of Manhattan in New York City, New York.",
+      "body": "Founded in 1842 by German Jewish immigrants, it is one of the oldest synagogues in the United States. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Rodeph_Sholom_7_W83_jeh.jpg/330px-Rodeph_Sholom_7_W83_jeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Congregation_Rodeph_Sholom_(Manhattan)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1974 —",
+      "hook": "The Arecibo message is broadcast from Puerto Rico.",
+      "body": "The Arecibo message is an interstellar radio message carrying basic information about humanity and Earth that was sent to the globular cluster Messier 13 (M13) in 1974. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Arecibo_message"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Harry Potter films at 25: Behind-the-scenes quiz",
+      "body": "Celebrate 25 years of the Harry Potter films with this behind-the-scenes quiz.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/ck8790rrqx57o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Advanced oxidation processes (AOPs), in a broad sense, are a set of chemical treatment procedures designed to remove organic (and sometimes inorganic) materials in water and wastewater by oxidation through reactions with hydroxyl radicals (·OH).",
+      "body": "In practice within wastewater treatment, groundwater remediation and domestic water treatment, this term usually refers more specifically to a subset of such chemical processes that employ ozone (O3), hydrogen peroxide (H2O2) and UV light or a combination of t",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Advanced_oxidation_process"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Accidents, emotional affairs and impromptu Leonard Cohen dancing - My Wife Cries review",
+      "body": "<p>Angela Schanelec’s famously uncompromising work takes on a new warmth in this sometimes playful study of everyday emotional turmoil</p><p>The <a href=\"https://www.theguardian.com/film/2023/feb/24/music-review-shapeshifting-puzzle-is-an-e",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/16/my-wife-cries-review-angela-schanelec"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "Pippi Longstocking is a Swedish/West German TV series based on Astrid Lindgren's Pippi Longstocking children's books.",
-      "body": "The show ran for thirteen episodes, the first episode being broadcast 8 February 1969 on Sveriges Television. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Pippi_Longstocking_%281969_TV_series_-_DVD_box_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Eduard Alexandr Safarik (Šafařík) was an Italian art historian of Czech descent.",
+      "body": "He focused on Italian art, especially Venetian paintings of the 16th and 17th century, and Jan Kupecký. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pippi_Longstocking_(1969_TV_series)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "King jokes with Elton John as he marks 78th birthday with radio show",
-      "body": "The monarch appears on a special episode to coincide with his 78th birthday on Saturday.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&at_campaign=rss"
+      "url": "https://en.wikipedia.org/wiki/Eduard_A._Safarik"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Tom Gauld on business and self-improvement books licensed by the JRR Tolkien estate – cartoon",
-      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/nov/15/tom-gauld-on-business-and-self-improvement-books-licensed-by-the-jrr-tolkien-estate-cartoon\">Continue reading...</a>",
+      "hook": "The Sensualist by Gary Shteyngart review – a delectable romp through life’s pleasures",
+      "body": "<p>From martinis to capybara videos, the novelist celebrates the little things (some more expensive than others) that bring him joy</p><p>In 2024, the novelist Gary Shteyngart flew from New York to Milan in search of the perfect midnight-bl",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/picture/2026/nov/15/tom-gauld-on-business-and-self-improvement-books-licensed-by-the-jrr-tolkien-estate-cartoon"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Unterwerfung (\"submission\") is a 2018 German television drama film directed by Titus Selge and starring Edgar Selge.",
-      "body": "It is based on the 2015 novel Submission by Michel Houellebecq and a German stage adaptation of the novel. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Unterwerfung"
+      "url": "https://www.theguardian.com/books/2026/nov/16/the-sensualist-by-gary-shteyngart-review-a-delectable-romp-through-lifes-pleasures"
     },
     {
       "type": "card",
       "cat": "history",
+      "opener": "On this day in 1857 —",
+      "hook": "Second relief of Lucknow: Twenty-four Victoria Crosses are awarded, the most in a single day.",
+      "body": "The siege of Lucknow was the prolonged defence of the British Residency within the city of Lucknow from rebel sepoys during the Indian Rebellion of 1857. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/7th_Hussars%2C_charging_a_body_of_the_Mutineer%27s_Cavalry.jpg/330px-7th_Hussars%2C_charging_a_body_of_the_Mutineer%27s_Cavalry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Lucknow"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story",
+      "body": "<p>She has a rare debilitating skin condition but still tackled a marathon, helped by her old friend. As new film The Slightest Touch tells the full story of that emotional day, its stars talk about their lifelong bond – and why he opened u",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/16/emma-fogarty-colin-farrell-marathons-friendship-the-slightest-touch"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1992 —",
+      "hook": "The Hoxne Hoard is discovered by metal detectorist Eric Lawes in Hoxne, Suffolk.",
+      "body": "The Hoxne Hoard is the largest hoard of late Roman silver and gold discovered in Britain, and the largest collection of gold and silver coins of the fourth and fifth centuries found anywhere within the former Roman Empire. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hoxne_Hoard_1.jpg/330px-Hoxne_Hoard_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Hoxne_Hoard"
+    },
+    {
+      "type": "card",
+      "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "The American Immigration Lawyers Association (AILA), founded on October 14, 1946, is a voluntary bar association of more than 15,000 attorneys and law professors who practice and teach immigration law.",
-      "body": "AILA member attorneys represent U.S. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/American_Immigration_Lawyers_Association_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "The 1982 AIAW Division I Outdoor Track And Field Championships were the 14th annual Association for Intercollegiate Athletics for Women-sanctioned track meet to determine the individual and team national champions of women's collegiate outdoor track and field events in the United States.",
+      "body": "They were contested May 27−29, 1982 in College Station, Texas by host University of Texas at Austin. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/WestEndKyleField.JPG/330px-WestEndKyleField.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/American_Immigration_Lawyers_Association"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Secret Diary of Adrian Mole, Aged 13¾ is an upcoming British television series adaptation of the novel of the same name by Sue Townsend.",
-      "body": "The cast is led by Oliver Savell as Adrian Mole. One of those things you can't un-know.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Secret_Diary_of_Adrian_Mole%2C_Aged_13%C2%BE_(upcoming_TV_series)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "'It's like you're in one of his paintings' Kyffin Williams' art brought to life",
-      "body": "Technology similar to that used for exhibitions of Van Gogh, Cézanne and LS Lowry is being used.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g9ey10dko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "An Anglo-American Alliance: A Serio-Comic Romance and Forecast of the Future is a 1906 novel written and illustrated by Gregory Casparian and published by Mayflower Presses.",
-      "body": "A reviewer for io9 has called it \"the first lesbian science fiction novel\". One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/An_Anglo-American_Alliance.png/330px-An_Anglo-American_Alliance.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/An_Anglo-American_Alliance"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Okay, this one's fun —",
-      "hook": "The Devotion of Suspect X is a 2005 novel by Keigo Higashino, the first in his Detective Galileo series and is his most acclaimed work thus far.",
-      "body": "The novel won him numerous awards, including the 134th Naoki Prize, which is a highly regarded award in Japan. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Devotion_of_suspect_x_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Devotion_of_Suspect_X"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1860 —",
-      "hook": "Fisgard Lighthouse, built in the Colony of Vancouver Island, shines its first light, becoming the first permanent lighthouse in present-day British Columbia",
-      "body": "Fisgard Lighthouse National Historic Site, on Fisgard Island at the mouth of Esquimalt Harbour in Colwood, British Columbia, is the site of Fisgard Lighthouse, the first lighthouse on the west coast of Canada. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Fisgard_lighthouse_sam_gusway.JPG/330px-Fisgard_lighthouse_sam_gusway.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Fisgard_Lighthouse_National_Historic_Site"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2009 —",
-      "hook": "Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-129 to the International Space Station.",
-      "body": "The Space Shuttle program was the fourth human spaceflight program carried out by the U.S. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Shuttle_Patch.svg/330px-Shuttle_Patch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_program"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1979 —",
-      "hook": "The first line of Bucharest Metro (Line M1) is opened from Timpuri Noi to Semănătoarea in Bucharest, Romania.",
-      "body": "The Bucharest Metro is an underground rapid transit system that serves Bucharest, the capital of Romania. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Metrorex_logo.svg/330px-Metrorex_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Bucharest_Metro"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘We are dream-walking into a desperate situation’: the Booker prize winner on his sci-fi alien invasion wakeup call",
-      "body": "<p>He is a sci-fi titan but M John Harrison has just exploded into the mainstream – with The End of Everything, an apocalyptic novel set on the Kent coast. Does he really think we have no hope left?</p><p>With his twinkling eyes and silver ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-prize-winner-sci-fi-alien-invasion-kent"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Founded in 1658, the school is the second oldest girls' school in the country, only predated by the Redmaids' High School in Bristol (1634).",
-      "body": "The Maynard School is a private selective day school for girls aged 4–18 in the city of Exeter in Devon. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/MaynardSchool.jpg/330px-MaynardSchool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Maynard_School"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The unexpected power of fleeting friendships",
-      "body": "<p>From Aristotle on, we’ve learned to see long-lasting relationships as more valuable. But what does that leave out?</p><p>In Russian, a <em>poputchik</em> is a stranger you meet on a journey who you end up confessing everything to because",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/the-unexpected-power-of-fleeting-friendships"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1863 —",
-      "hook": "American Civil War: Confederate troops under General James Longstreet unsuccessfully attack Union forces in the Battle of Campbell's Station, allowing General Ambrose Burnside to secure and fortify Knoxville, Tennessee.",
-      "body": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Skeleton found in Denmark came from man who witnessed the arrival of farming",
-      "body": "Clues about the diet of “Rødhals Man”, who lived some 6000 years ago, hint that he lived through one of the most revolutionary changes in human history",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2598961-skeleton-found-in-denmark-was-from-man-who-witnessed-the-arrival-of-farming/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1981 —",
-      "hook": "Aeroflot Flight 3603 crashes during landing at Norilsk Airport, killing 99.",
-      "body": "Aeroflot Flight 3603 was a scheduled domestic passenger flight from Kraysnoyarsk Airport in Krasnoyarsk, Soviet Union, to Noril'sk Airport in Noril'sk, Soviet Union. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tupolev_Tu-154M%2C_Aeroflot_JP5848585.jpg/330px-Tupolev_Tu-154M%2C_Aeroflot_JP5848585.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_3603"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
-      "body": "<p>A new film starring Helen Mirren explores the Ripley writer’s later years, but was she really so rude and eccentric? Editors and publishers who worked with her look back</p><p>Publisher and bookseller Otto Penzler has loved Patricia High",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her"
+      "url": "https://en.wikipedia.org/wiki/1982_AIAW_Division_I_Outdoor_Track_and_Field_Championships"
     }
   ]
 }
