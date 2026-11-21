@@ -1,46 +1,83 @@
 {
-  "generated": "2026-11-20T21:34:52.606Z",
-  "count": 19,
+  "generated": "2026-11-21T02:52:50.674Z",
+  "count": 18,
   "items": [
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Abandoning a Cat by Haruki Murakami review – the Norwegian Wood author uncovers the story of his estranged father",
+      "body": "<p>The author explores the life and legacy of his father, from adoption and abandonment to his horrific experiences of the second world war</p><p>When Haruki Murakami was a child living in Nishinomiya, Japan, his father announced they were ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/19/abandoning-a-cat-by-haruki-murakami-review-an-intimate-meditation-on-family-and-memory"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1916 —",
+      "hook": "World War I: One of the mines laid by SM U-73 sink HMHS Britannic in the Kea Channel, the largest ship lost in the war.",
+      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "Iteravis is an extinct genus of ornithuromorph bird known from the Early Cretaceous Jiufotang Formation of what is today the Liaoning Province of China.",
+      "body": "The genus contains a single species, Iteravis huchzermeyeri, named in honor of the archosaur palaeontologist Dr. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/AGB5841_%28referred_to_Iteravis_huchzermeyeri%29.jpg/330px-AGB5841_%28referred_to_Iteravis_huchzermeyeri%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Iteravis"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Hannah Lillith Assadi wins US National book award for ‘visionary’ novel Paradiso 17",
+      "body": "<p>Assadi’s third novel was inspired by the story of her late father, a Palestinian who escaped the Nakba as a child in 1948</p><p>Palestinian-Jewish author Hannah Lillith Assadi has won the National book award for fiction, one of the US’s ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis",
+      "body": "As news spread that an Anthropic researcher used AI to find an answer to one of the longest-standing questions in their field, mathematicians expressed awe, uncertainty and at least one claim of having a competing proof in the works",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2014 —",
+      "hook": "A stampede in Kwekwe, Zimbabwe caused by the police firing tear gas kills at least eleven people and injures 40 others.",
+      "body": "On 21 November 2014, a stampede occurred at Mbizo Stadium in Kwekwe, Zimbabwe, killing 11 and injuring 40 people. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Kwekwe_stadium_stampede"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Kreisliga Hessen was the highest association football league in parts of the German state of Hesse (Rheinhessen) and parts of the Bavarian region of Palatinate as well as the Prussian province of Hesse-Nassau from 1919 to 1923.",
+      "body": "The league was disbanded with the introduction of the Bezirksliga Rheinhessen-Saar in 1923. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Reich_1925_b.png/330px-Deutsches_Reich_1925_b.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kreisliga_Hessen"
+    },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "Dragonkeeper is a fantasy novel written by Australian author Carole Wilkinson.",
-      "body": "It is the first book of the Dragonkeeper series, which consists of six books and a prequel. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Dragonkeeper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "A calendar era is the period of time elapsed since one epoch of a calendar and, if it exists, before the next one.",
+      "body": "For example, the current year is numbered 2026 in the Gregorian calendar, which numbers its years in the Western Christian era. Worth a quiet trip down the rabbit hole.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dragonkeeper"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1974 —",
-      "hook": "The first fatal crash of a Boeing 747 occurs when Lufthansa Flight 540 crashes while attempting to takeoff from Jomo Kenyatta International Airport in Nairobi, Kenya, killing 59 out of the 157 people on board.",
-      "body": "The Boeing 747 is a long-range wide-body airliner designed and manufactured by Boeing Commercial Airplanes in the United States between 1968 and 2023. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/B-747_Iberia.jpg/330px-B-747_Iberia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Boeing_747"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Founded in 1960 by Frits Goldschmeding, it is the world's largest staffing and recruitment company by revenue.",
-      "body": "Randstad NV, commonly known as Randstad and stylized as randstad, is a Dutch multinational human resource consulting firm headquartered in Diemen, Netherlands. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Randstad_eschborn02.jpg/330px-Randstad_eschborn02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Randstad_(company)"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1910 —",
-      "hook": "Mexican Revolution: Francisco I. Madero issues the Plan de San Luis Potosí, denouncing Mexican President Porfirio Díaz, calling for a revolution to overthrow the government of Mexico, effectively starting the Mexican Revolution.",
-      "body": "The Mexican Revolution was an extended sequence of armed regional conflicts in Mexico from 20 November 1910 to 1 December 1920. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Decena_tr%C3%A1gica.JPG/330px-Decena_tr%C3%A1gica.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mexican_Revolution"
+      "url": "https://en.wikipedia.org/wiki/Calendar_era"
     },
     {
       "type": "card",
@@ -53,81 +90,81 @@
     },
     {
       "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1995 —",
+      "hook": "The Dayton Agreement is initialed at the Wright-Patterson Air Force Base, near Dayton, Ohio, ending three and a half years of war in Bosnia and Herzegovina.",
+      "body": "The General Framework Agreement for Peace in Bosnia and Herzegovina, also known as the Dayton Agreement or the Dayton Accords, and colloquially known as the Dayton, is the peace agreement ending the three-and-a-half-year-long Bosnian War, an armed conflict part of the larger Yugoslav Wars. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/DaytonAgreement.jpg/330px-DaytonAgreement.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Dayton_Agreement"
+    },
+    {
+      "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "How to Rob a Bank review – Amazon’s anti-capitalist caper is far from a riot",
-      "body": "<p>Nicholas Hoult, Anna Sawai and Pete Davidson play Robin Hood in this simple-minded and unexciting attempt to mix social commentary with action</p><p>In case you were somehow blissfully unaware, America is in a very dark place and America",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon"
+      "opener": "The Guardian · Books —",
+      "hook": "The Hill by Harriet Clark review – distinctive debut of growing up with a mother in prison",
+      "body": "<p>This unusual portrait of a young girl whose prison visits are interweaved with her grandmother’s war-weary reminiscences rewards attention</p><p>American author Harriet Clark’s first novel, partly inspired by her own life, is narrated by",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/19/the-hill-by-harriet-clark-review-distinctive-debut-of-growing-up-with-a-mother-in-prison"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1998 —",
-      "hook": "The first space station module component, Zarya, for the International Space Station is launched from the Baikonur Cosmodrome in Kazakhstan.",
-      "body": "Zarya, also known as the Functional Cargo Block, is the first module of the International Space Station (ISS). The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Zarya_from_STS-88.jpg/330px-Zarya_from_STS-88.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1985 —",
+      "hook": "United States Navy intelligence analyst Jonathan Pollard is arrested for spying after being caught giving Israel classified information on Arab nations. He is subsequently sentenced to life in prison.",
+      "body": "Jonathan Jay Pollard is an American-born Israeli spy and former American intelligence analyst who was jailed for spying for Israel. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Jonathan_Pollard.png/330px-Jonathan_Pollard.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Zarya_(ISS_module)"
+      "url": "https://en.wikipedia.org/wiki/Jonathan_Pollard"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "James Murray Beck was a Canadian historian from Nova Scotia.",
+      "body": "Born in Lunenburg, Beck taught for 17 years at Dalhousie University where he became professor emeritus. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Murray_Beck"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "Quantum effect could reverse gravity and violate Einstein’s theory of relativity",
+      "body": "Two mathematical investigations devised a way to possibly make gravity produce repulsion between objects, breaking away from a long-standing understanding of this force",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2013 —",
+      "hook": "Massive protests start in Ukraine after President Viktor Yanukovych suspended signing the Ukraine–European Union Association Agreement.",
+      "body": "Euromaidan, or the Maidan Uprising, was a wave of demonstrations and civil unrest in Ukraine, which began on 21 November 2013 with large protests in Maidan Nezalezhnosti in Kyiv. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Euromaidan_collage.jpg/330px-Euromaidan_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Euromaidan"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Here's one for the group chat —",
-      "hook": "Alfaguara is a Spanish-language publishing house that serves markets in Hispanic America, Spain and the United States.",
-      "body": "It was founded by the Spanish writer and Nobel Prize winner Camilo José Cela. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Alfaguara_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "Pae Mu Ka is the debut studio album by Ghanaian musician Obrafour, released in November 1999 and recorded at CHM Studios.",
+      "body": "It features guest appearances from Cy Lover, Alhaji Flesh, Ayewa, Doctor Poh, and Funky Functure. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/56/Pae_Mu_Ka_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Alfaguara"
+      "url": "https://en.wikipedia.org/wiki/Pae_Mu_Ka"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1710 —",
-      "hook": "Begin of the Russo-Turkish War of 1710–1713, after tensions between the two states escalate as the Ottomans provide shelter to King Charles XII of Sweden in their fortress of Bender.",
-      "body": "The Russo-Ottoman War of 1710–1713, also known as the Pruth River Campaign, was a brief military conflict between the Tsardom of Russia and the Ottoman Empire. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Prut_pohod_in_1711-en.png/330px-Prut_pohod_in_1711-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 2015 —",
+      "hook": "The government of Belgium imposes a security lockdown on Brussels, including the closure of shops, schools, and public transportation, due to potential terrorist attacks.",
+      "body": "The Federal Government of Belgium exercises executive power in the Kingdom of Belgium. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Belgium.be_logo.svg/330px-Belgium.be_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_(1710%E2%80%931713)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Appointment with Venus is a 1951 British war drama film, a film adaptation of the 1951 Jerrard Tickell novel of the same name.",
-      "body": "It was directed by Ralph Thomas, produced by Betty E. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Appointment_with_Venus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Appointment_with_Venus_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "Faintley Speaking is a 1954 mystery detective novel by the British writer Gladys Mitchell.",
-      "body": "It is the twenty seventh in her long-running series featuring the psychoanalyst and amateur detective Mrs Bradley. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/ab/Faintley_Speaking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Faintley_Speaking"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Delays mean Robert Pattinson doesn’t have to do a third Batman movie. DC Studios had better persuade him – and fast",
-      "body": "<p>The actor’s new role as James Bond could be bad news for DC, as a new owner, new chief and new director already threaten to shake and stir Gotham’s distinctive hero</p><p>Can one actor play both Batman and James Bond? This is the questio",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/20/robert-pattinson-batman-james-bond-third-movie-delays-dc"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1992 —",
-      "hook": "In England, a fire breaks out in Windsor Castle, badly damaging the castle and causing over £50 million worth of damage.",
-      "body": "On 20 November 1992, a major fire broke out in Windsor Castle, the largest inhabited castle in the world and one of the official residences of the British monarch. The world is stranger than it lets on.",
-      "img": null,
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/1992_Windsor_Castle_fire"
+      "url": "https://en.wikipedia.org/wiki/Federal_Government_of_Belgium"
     },
     {
       "type": "card",
@@ -137,53 +174,6 @@
       "body": "<p>Duo’s fame set to soar after Pattinson announced as next James Bond – but they will take newgen approach to power</p><p>He is the next James Bond. She is a successful model/actor/singer-songwriter. Together, they are set to become the ne",
       "src": "The Guardian · Film",
       "url": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Victorian Psycho review – Maika Monroe has a blast in unsteady horror romp",
-      "body": "<p>The It Follows and Longlegs star tears into the role of a murderous governess in this hit-and-miss adaptation of Virginia Feito’s gory novel</p><p>It’s not that hard to figure out why a lower-class woman toiling away in Victorian England",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/12/victorian-psycho-review-maika-monroe"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Battle is a 1934 Franco–British co-production English language drama film directed by Nicolas Farkas, and starring Charles Boyer, Merle Oberon and John Loder.",
-      "body": "It was adapted from a 1909 French novel by Claude Farrère entitled La bataille. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Battle_%281934_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Battle_(1934_film)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1695 —",
-      "hook": "Zumbi, the last of the leaders of Quilombo dos Palmares in early Brazil, is executed by the forces of Portuguese bandeirante Domingos Jorge Velho.",
-      "body": "Zumbi, also known as Zumbi dos Palmares, was a Brazilian quilombola leader and one of the pioneers of resistance to enslavement of Africans by the Portuguese in colonial Brazil. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg/330px-Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Zumbi"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
-      "body": "<p>The latest film version of the Dickens classic A Christmas Carol is decent enough, though its star is rather better as the legendary miser before redemption arrives</p><p>Here for lovers of Dickens – and fans of subtext – is an unexpecte",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens"
     }
   ]
 }
