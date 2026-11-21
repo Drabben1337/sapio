@@ -1,60 +1,166 @@
 {
-  "generated": "2026-11-21T02:52:50.674Z",
+  "generated": "2026-11-21T10:19:49.752Z",
   "count": 18,
   "items": [
     {
       "type": "card",
       "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Tyler Perry’s The Gospel of Christmas review – Netflix unloads more slapdash festive fare",
+      "body": "<p>Incompetent direction almost kills the Christmas spirit but American Idol winner Fantasia Barrino Taylor brings down the house</p><p>Thanksgiving is right around the corner, which means Christmas creep is in full effect and the floodgate",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/11/tyler-perry-gospel-of-christmas-review-netflix"
+    },
+    {
+      "type": "card",
+      "cat": "news",
       "opener": "The Guardian · Books —",
-      "hook": "Abandoning a Cat by Haruki Murakami review – the Norwegian Wood author uncovers the story of his estranged father",
-      "body": "<p>The author explores the life and legacy of his father, from adoption and abandonment to his horrific experiences of the second world war</p><p>When Haruki Murakami was a child living in Nishinomiya, Japan, his father announced they were ",
+      "hook": "Light in the dark: 20 long books for short winter days",
+      "body": "<p>Turn off your phone, get cosy and commit to some of literature’s biggest and best novels. From Don DeLillo’s Underworld to The Luminaries by Eleanor Catton, these epic reads are worth taking your time over</p><p>Life starts all over agai",
       "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/19/abandoning-a-cat-by-haruki-murakami-review-an-intimate-meditation-on-family-and-memory"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/21/light-in-the-dark-20-long-books-for-short-winter-days"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1916 —",
-      "hook": "World War I: One of the mines laid by SM U-73 sink HMHS Britannic in the Kea Channel, the largest ship lost in the war.",
-      "body": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1905 —",
+      "hook": "Albert Einstein's paper that leads to the mass–energy equivalence formula, E = mc², is published in the journal Annalen der Physik.",
+      "body": "Albert Einstein was a German-born theoretical physicist best known for developing the theory of relativity. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/330px-Albert_Einstein_Head_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/World_War_I"
+      "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Iteravis is an extinct genus of ornithuromorph bird known from the Early Cretaceous Jiufotang Formation of what is today the Liaoning Province of China.",
-      "body": "The genus contains a single species, Iteravis huchzermeyeri, named in honor of the archosaur palaeontologist Dr. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/AGB5841_%28referred_to_Iteravis_huchzermeyeri%29.jpg/330px-AGB5841_%28referred_to_Iteravis_huchzermeyeri%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "\"Killa\" is song by Japanese duo Yoasobi.",
+      "body": "It was released on November 11, 2026, through Echoes and Sony Music Entertainment Japan. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c5/Yoasobi_-_Killa.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Iteravis"
+      "url": "https://en.wikipedia.org/wiki/Killa_(Yoasobi_song)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "James Gould Cozzens was a Pulitzer prize-winning American writer whose work enjoyed an unusual degree of popular success and critical acclaim for more than three decades.",
+      "body": "His 1949 Pulitzer win was for the World War II race novel Guard of Honor, which more than one critic considered one of the most important accounts of the war. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Gould_Cozzens"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1974 —",
+      "hook": "The Birmingham pub bombings kill 21 people. The Birmingham Six are sentenced to life in prison for the crime but are later exonerated.",
+      "body": "On 21 November 1974, bombs exploded in two pubs in Birmingham, England, killing 21 people and injuring 182 others. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5c/Mulberry_bush_pub_bomb.jpg/330px-Mulberry_bush_pub_bomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Birmingham_pub_bombings"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1620 —",
+      "hook": "Plymouth Colony settlers sign the Mayflower Compact (November 11, O.S.)",
+      "body": "Plymouth Colony was the first permanent English colony in New England, founded in 1620, and the third permanent English colony in America, after Newfoundland and the Jamestown Colony. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Plymouth_Colony_map.svg/330px-Plymouth_Colony_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Plymouth_Colony"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Hannah Lillith Assadi wins US National book award for ‘visionary’ novel Paradiso 17",
-      "body": "<p>Assadi’s third novel was inspired by the story of her late father, a Palestinian who escaped the Nakba as a child in 1948</p><p>Palestinian-Jewish author Hannah Lillith Assadi has won the National book award for fiction, one of the US’s ",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award"
+      "opener": "BBC Entertainment —",
+      "hook": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
+      "body": "Pattinson’s announcement as 007 has completely upped the game, and commentators say his leading lady will need a \"very strong identity\".",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis",
-      "body": "As news spread that an Anthropic researcher used AI to find an answer to one of the longest-standing questions in their field, mathematicians expressed awe, uncertainty and at least one claim of having a competing proof in the works",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
+      "opener": "Screen Daily —",
+      "hook": "Joe Russo teases final ‘Avengers: Doomsday’ trailer: “Keep refreshing your feed”",
+      "body": "“I can make an argument that everyone should just go and see the movie now,” says Russo.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/joe-russo-teases-final-avengers-doomsday-trailer-keep-refreshing-your-feed/5222656.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "Amazon in discussions to film Bond 26 at UK’s Pinewood Studios",
+      "body": "“We’re talking to Amazon” says Pinewood corporate affairs director Andrew M. Smith.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/amazon-in-discussions-to-film-bond-26-at-uks-pinewood-studios/5222660.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "How Westside Cowboy went from student gigs to rising stars in two years",
+      "body": "The four-piece band joins a prestigious list that includes Myles Smith, Olivia Dean, Tom Grennan.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/crjeqxedzpnko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1877 —",
+      "hook": "Thomas Edison announces his invention of the phonograph, a machine that can record and play sound.",
+      "body": "Thomas Alva Edison was an American inventor and businessman known for his work on the incandescent light bulb, the phonograph, electric power distribution and early motion pictures. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "XIII (\"Thirteen\") is a Belgian comic albums series about an amnesiac who seeks to discover his past.",
+      "body": "It was created by writer Jean Van Hamme and artist William Vance. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/XIII_%28Dargaud_comic%2C_no._1_-_front_cover%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/XIII_(comics)"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "You probably never noticed this —",
+      "hook": "The Secret of High Eldersham is a 1930 detective novel by Miles Burton, the pen name of the British writer Cecil Street.",
+      "body": "It was the first novel in a lengthy series featuring the detective Desmond Merrion. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/The_Secret_of_High_Eldersham.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Secret_of_High_Eldersham"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Hungry for action? Our critics’ verdicts on the week’s UK cinema releases",
+      "body": "<p>A Hunger Games cash-grab, up close with Elizabeth Holmes, Helen Mirren plays Patricia Highsmith, and Maradona’s helping hand … here are all the latest film releases at a glance</p><p>***</p> <a href=\"https://www.theguardian.com/film/ng-i",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/21/hungry-for-action-our-critics-verdicts-on-the-weeks-uk-cinema-releases"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2017 —",
+      "hook": "Robert Mugabe formally resigns as President of Zimbabwe, after thirty-seven years in office.",
+      "body": "Robert Gabriel Mugabe was a Zimbabwean revolutionary and politician who led Zimbabwe from 1980 until 2017. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Robert_Mugabe_Official_Portrait_%284x5_cropped%29.jpg/330px-Robert_Mugabe_Official_Portrait_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Robert_Mugabe"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 2014 —",
       "hook": "A stampede in Kwekwe, Zimbabwe caused by the police firing tear gas kills at least eleven people and injures 40 others.",
-      "body": "On 21 November 2014, a stampede occurred at Mbizo Stadium in Kwekwe, Zimbabwe, killing 11 and injuring 40 people. Worth a quiet trip down the rabbit hole.",
+      "body": "On 21 November 2014, a stampede occurred at Mbizo Stadium in Kwekwe, Zimbabwe, killing 11 and injuring 40 people. One of those things you can't un-know.",
       "img": null,
       "src": "Wikipedia · On this day",
       "url": "https://en.wikipedia.org/wiki/Kwekwe_stadium_stampede"
@@ -62,118 +168,12 @@
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "The Kreisliga Hessen was the highest association football league in parts of the German state of Hesse (Rheinhessen) and parts of the Bavarian region of Palatinate as well as the Prussian province of Hesse-Nassau from 1919 to 1923.",
-      "body": "The league was disbanded with the introduction of the Bezirksliga Rheinhessen-Saar in 1923. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Reich_1925_b.png/330px-Deutsches_Reich_1925_b.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kreisliga_Hessen"
-    },
-    {
-      "type": "card",
-      "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "A calendar era is the period of time elapsed since one epoch of a calendar and, if it exists, before the next one.",
-      "body": "For example, the current year is numbered 2026 in the Gregorian calendar, which numbers its years in the Western Christian era. Worth a quiet trip down the rabbit hole.",
+      "hook": "Fiona Cheong is a Singaporean-born novelist and academic.",
+      "body": "Cheong is currently an assistant professor at the University of Pittsburgh since 1995. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Calendar_era"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
-      "body": "<p>Actor and author are alleged to have attacked and gang-raped a woman while filming together in 2018</p><p>French police are investigating allegations that the actor <a href=\"https://www.theguardian.com/film/gerard-depardieu\">Gérard Depar",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1995 —",
-      "hook": "The Dayton Agreement is initialed at the Wright-Patterson Air Force Base, near Dayton, Ohio, ending three and a half years of war in Bosnia and Herzegovina.",
-      "body": "The General Framework Agreement for Peace in Bosnia and Herzegovina, also known as the Dayton Agreement or the Dayton Accords, and colloquially known as the Dayton, is the peace agreement ending the three-and-a-half-year-long Bosnian War, an armed conflict part of the larger Yugoslav Wars. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/DaytonAgreement.jpg/330px-DaytonAgreement.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Dayton_Agreement"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The Hill by Harriet Clark review – distinctive debut of growing up with a mother in prison",
-      "body": "<p>This unusual portrait of a young girl whose prison visits are interweaved with her grandmother’s war-weary reminiscences rewards attention</p><p>American author Harriet Clark’s first novel, partly inspired by her own life, is narrated by",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/19/the-hill-by-harriet-clark-review-distinctive-debut-of-growing-up-with-a-mother-in-prison"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1985 —",
-      "hook": "United States Navy intelligence analyst Jonathan Pollard is arrested for spying after being caught giving Israel classified information on Arab nations. He is subsequently sentenced to life in prison.",
-      "body": "Jonathan Jay Pollard is an American-born Israeli spy and former American intelligence analyst who was jailed for spying for Israel. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Jonathan_Pollard.png/330px-Jonathan_Pollard.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jonathan_Pollard"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "James Murray Beck was a Canadian historian from Nova Scotia.",
-      "body": "Born in Lunenburg, Beck taught for 17 years at Dalhousie University where he became professor emeritus. Bring it up somewhere. Watch the reaction.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/James_Murray_Beck"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "New Scientist —",
-      "hook": "Quantum effect could reverse gravity and violate Einstein’s theory of relativity",
-      "body": "Two mathematical investigations devised a way to possibly make gravity produce repulsion between objects, breaking away from a long-standing understanding of this force",
-      "src": "New Scientist",
-      "url": "https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2013 —",
-      "hook": "Massive protests start in Ukraine after President Viktor Yanukovych suspended signing the Ukraine–European Union Association Agreement.",
-      "body": "Euromaidan, or the Maidan Uprising, was a wave of demonstrations and civil unrest in Ukraine, which began on 21 November 2013 with large protests in Maidan Nezalezhnosti in Kyiv. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Euromaidan_collage.jpg/330px-Euromaidan_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Euromaidan"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Pae Mu Ka is the debut studio album by Ghanaian musician Obrafour, released in November 1999 and recorded at CHM Studios.",
-      "body": "It features guest appearances from Cy Lover, Alhaji Flesh, Ayewa, Doctor Poh, and Funky Functure. Bring it up somewhere. Watch the reaction.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/56/Pae_Mu_Ka_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Pae_Mu_Ka"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2015 —",
-      "hook": "The government of Belgium imposes a security lockdown on Brussels, including the closure of shops, schools, and public transportation, due to potential terrorist attacks.",
-      "body": "The Federal Government of Belgium exercises executive power in the Kingdom of Belgium. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Belgium.be_logo.svg/330px-Belgium.be_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Federal_Government_of_Belgium"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Suki Waterhouse and Robert Pattinson to become Britain’s next big Hollywood power couple",
-      "body": "<p>Duo’s fame set to soar after Pattinson announced as next James Bond – but they will take newgen approach to power</p><p>He is the next James Bond. She is a successful model/actor/singer-songwriter. Together, they are set to become the ne",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple"
+      "url": "https://en.wikipedia.org/wiki/Fiona_Cheong"
     }
   ]
 }
