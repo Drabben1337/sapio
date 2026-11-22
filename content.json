@@ -1,16 +1,83 @@
 {
-  "generated": "2026-11-22T10:24:37.656Z",
-  "count": 21,
+  "generated": "2026-11-22T18:05:38.235Z",
+  "count": 20,
   "items": [
     {
       "type": "card",
       "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Whitechapel Horrors is a 1992 mystery pastiche novel written by Edward B.",
+      "body": "Hanna, featuring Sherlock Holmes and Dr. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/39/TheWhitechapelHorrors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Whitechapel_Horrors"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Ashes or A Mouthful of Ash is a 2026 drama film directed by Diego Luna, co-written with Abia Castillo and Diego Rabasa, and based on the same name novel by Brenda Navarro.",
+      "body": "A Mexican-Spanish co-production, its cast is led by Anna Díaz and Adriana Paz. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Ashes_%282026_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ashes_(2026_film)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1908 —",
+      "hook": "The Congress of Manastir establishes the Albanian alphabet.",
+      "body": "The Congress of Manastir was a national conference held in the city of Manastir from November 14 to 22, 1908, with the goal of standardizing the Albanian alphabet. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Komisioni_i_Alfabetit_Monastir_1908.jpg/330px-Komisioni_i_Alfabetit_Monastir_1908.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Congress_of_Manastir"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "US to welcome international co-productions once tax credit in place, says Trump advisor",
+      "body": "Paul says Qatar should be first on the list of countries to co-produce with the US.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/us-to-welcome-international-co-productions-once-tax-credit-in-place-says-trump-advisor/5222666.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "body": "The couple have been together for four years and were engaged in 2025.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1963 —",
+      "hook": "Five Indian generals are killed in a helicopter crash, due to collision with two parallel lines of telegraph cables.",
+      "body": "On Friday, 22 November 1963, an Aérospatiale Alouette III helicopter of the Indian Air Force crashed in Poonch district of Indian-administered Jammu and Kashmir in the disputed Kashmir region. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Z395_Aerospatiale_Alouette_III_Indian_Air_Force_%288448378722%29.jpg/330px-Z395_Aerospatiale_Alouette_III_Indian_Air_Force_%288448378722%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1963_Poonch_Indian_Air_Force_helicopter_crash"
+    },
+    {
+      "type": "card",
+      "cat": "history",
       "opener": "File under 'wait, really?' —",
-      "hook": "Hendrika Jacoba \"Kiky\" Gerritsen-Heinsius was a Dutch resistance fighter.",
-      "body": "She was recognized by Yad Vashem as Righteous Among the Nations on 15 September 1989, and was also awarded the Verzetsherdenkingskruis by the Dutch government. One of those things you can't un-know.",
+      "hook": "third studio album, but first Gospel Christian Hip Hop album PRAISE (2017).",
+      "body": "\"I Got Angeles\" is a single by African-American/Puerto Rican Christian Hip Hop rapper Emcee N.I.C.E. Worth a quiet trip down the rabbit hole.",
       "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hendrika_Gerritsen"
+      "url": "https://en.wikipedia.org/wiki/I_Got_Angels"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+      "body": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
@@ -24,186 +91,109 @@
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Bad Girls star Helen Fraser dies aged 84",
-      "body": "Actress Helen Fraser dies at 84 in an Eye care home after a successful career in TV, theatre and film.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "You probably never noticed this —",
-      "hook": "He beat the 1937 Triple Crown winner, War Admiral, by four lengths in a two-horse special at Pimlico and was voted American Horse of the Year for 1938.",
-      "body": "Seabiscuit was a champion thoroughbred racehorse in the United States who became the top money-winning racehorse up to the 1940s. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Seabiscuit_workout_with_GW_up.jpg/330px-Seabiscuit_workout_with_GW_up.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Seabiscuit"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Wizzard Brew is the debut album by rock group Wizzard, released in 1973 on EMI's Harvest label.",
-      "body": "29 in the UK Albums Chart. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/5/58/Wizzard_Brew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wizzard_Brew"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Calls for Marilyn Manson performance to be pulled",
-      "body": "Marilyn Manson is due to support Slipknot at Wembley Stadium in July, ahead of a trial he faces.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4kz7lj3jvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1921 —",
-      "hook": "During The Troubles in Ulster (1920–1922), 15 Irish Nationalists are killed in Belfast in one day.",
-      "body": "The Troubles in Ulster of the 1920s was a period of conflict in the Irish province of Ulster, from June 1920 until June 1922, during and after the Irish War of Independence and the partition of Ireland. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Conflict_deaths_of_the_Troubles_1920-1922_in_Belfast.jpg/330px-Conflict_deaths_of_the_Troubles_1920-1922_in_Belfast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/The_Troubles_in_Ulster_(1920%E2%80%931922)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "From a village bakery to headlining Glastonbury: How Harry Styles became a star",
-      "body": "The singer will make his debut at the festival next year as one of the event's curtain-raising artists.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cq782xz5nkg4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1987 —",
-      "hook": "The Max Headroom signal hijacking incident takes place, in which a pirate broadcast interrupts television broadcasts in Chicago.",
-      "body": "On November 22, 1987, two television stations based in Chicago, Illinois, were hijacked two hours apart from one another by unidentified perpetrators. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Max_Headroom_broadcast_signal_intrusion.jpg/330px-Max_Headroom_broadcast_signal_intrusion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2022 —",
-      "hook": "A shooting at a Walmart in Chesapeake, Virginia leaves seven workers dead, including the shooter, and four others injured.",
-      "body": "On November 22, 2022, a mass shooting took place at a Walmart in Chesapeake, Virginia, United States. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Walmart_Supercenter_-_Chesapeake%2C_Virginia.jpg/330px-Walmart_Supercenter_-_Chesapeake%2C_Virginia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2022_Chesapeake_shooting"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1943 —",
-      "hook": "Lebanon gains independence from France, nearly two years after it was first announced by the Free French government.",
-      "body": "Lebanon, officially the Lebanese Republic, is a country in the Levant region of West Asia. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/330px-Flag_of_Lebanon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Lebanon"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Ganso Saiyūki: Super Monkey Daibōken is an action video game for the Family Computer which was released exclusively in Japan on November 21, 1986.",
-      "body": "The game is based on the novel Journey to the West. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/6/6b/SuperMonkeyDaibouken.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ganso_Saiy%C5%ABki%3A_Super_Monkey_Daib%C5%8Dken"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-      "body": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1955 —",
-      "hook": "The Soviet Union launches RDS-37, a 1.6 megaton two stage hydrogen bomb designed by Andrei Sakharov. The bomb was dropped over Semipalatinsk.",
-      "body": "The Soviet Union, officially the Union of Soviet Socialist Republics (USSR), was a transcontinental country that spanned much of Eurasia from its formation in 1922 until its dissolution in 1991. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Soviet_Union"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2004 —",
-      "hook": "The Orange Revolution begins in Ukraine, resulting from the presidential elections.",
-      "body": "The Orange Revolution was a series of protests that led to political upheaval in Ukraine from late November 2004 to January 2005. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Morning_first_day_of_Orange_Revolution.jpg/330px-Morning_first_day_of_Orange_Revolution.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Orange_Revolution"
+      "opener": "The Guardian · Books —",
+      "hook": "The best recent crime and thrillers – review roundup",
+      "body": "<p>The Taper Man by Nick Harkaway; Watch the Quiet Snow by Mick Herron; Revenge Plot by Stephanie Wrobel; The Voices of the Dead by Nicola Upson; The Bells of Fortune by Leonora Nattrass</p><p><strong><a href=\"https://guardianbookshop.com/t",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/20/the-best-recent-and-thrillers-review-roundup"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Road to Oz is the fifth book in L.",
-      "body": "It was originally published on July 10, 1909 and documents the adventures of Dorothy Gale's fourth visit to the Land of Oz. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/TheRoadToOz.jpg/330px-TheRoadToOz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "A Game of Thrones is the comic book adaptation of George R.",
+      "body": "Martin's fantasy novel A Game of Thrones, the first in the A Song of Ice and Fire series. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/72/A_Game_of_Thrones_no._1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Road_to_Oz"
+      "url": "https://en.wikipedia.org/wiki/A_Game_of_Thrones_(comics)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1307 —",
+      "hook": "Pope Clement V issues the papal bull Pastoralis Praeeminentiae which instructed all Christian monarchs in Europe to arrest all Templars and seize their assets.",
+      "body": "Pope Clement V was head of the Catholic Church and ruler of the Papal States from 1305 until his death. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Clemente_V_cappellone_degli_Spagnoli.JPG/330px-Clemente_V_cappellone_degli_Spagnoli.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Pope_Clement_V"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Tomorrow I Become a Woman is the debut novel by Nigerian writer Aiwanose Odafen, published in 2022 by Scribner UK, an imprint of Simon & Schuster.",
+      "body": "Set against the backdrop of Nigeria's political turmoil from the late 1970s to the 1990s, the novel follows the life of Obianuju (Uju) as she grapples with the intense societal and cultural expectations placed upon Nigerian women, particularly those related to",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/Tomorrow_I_Become_a_Woman.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tomorrow_I_Become_a_Woman"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "A portion is now a second main track on the BNSF Railway's Southern Transcon.",
+      "body": "The Chicago and Illinois River Railroad was a predecessor of the Alton Railroad that built a line from Joliet southwest through Coal City, Illinois, to the Mazon River. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chicago_and_Illinois_River_Railroad"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "body": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "How can we explain psychosomatic illnesses?",
+      "body": "<p>Emotions play a significant part in physical symptoms – but not in the way people often imagine</p><p>When Diego started seeing bright flashing lights in his field of vision and felt his legs go weak, he thought he knew immediately what ",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/science/2026/nov/22/how-can-we-explain-psychosomatic-illnesses"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1963 —",
+      "hook": "U.S. President John F. Kennedy is assassinated and Texas Governor John Connally is seriously wounded by Lee Harvey Oswald, who also kills Dallas Police officer J. D. Tippit after fleeing the scene. Vice President Lyndon B. Johnson is sworn in as the 36th President of the United States afterwards.",
+      "body": "John Fitzgerald Kennedy, also known as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/John_F._Kennedy"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "Small thing, surprisingly big deal —",
-      "hook": "Babworth is a village and civil parish in the Bassetlaw district of Nottinghamshire, England, about 2 miles west of Retford.",
-      "body": "According to the 2001 census the parish had a population of 1,329, rising to 1,687 at the 2011 Census, but dropping to 1,489 in 2021. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/All_Saints_Church%2C_Babworth_-_geograph.org.uk_-_6693752.jpg/330px-All_Saints_Church%2C_Babworth_-_geograph.org.uk_-_6693752.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Jangloos is an Urdu novel written by Pakistani author Shaukat Siddiqui, and first published in 1987.",
+      "body": "Set against the backdrop of Central Punjab, the novel tells the story of two prisoners who escape from jail. Worth a quiet trip down the rabbit hole.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/Jangloos_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Babworth"
+      "url": "https://en.wikipedia.org/wiki/Jangloos"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Il Messaggiere, later known as Il Messaggere from 1800, was a newspaper published in Modena between 1749 and 1859, with some interruptions during the Napoleonic era.",
-      "body": "It served as the official newspaper of the Duchy of Modena and Reggio, an ancient independent Italian State. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Il_Messaggiere_25_maggio_1757.jpg/330px-Il_Messaggiere_25_maggio_1757.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Il_Messaggiere"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "File under 'wait, really?' —",
-      "hook": "The brief text is for, and in support of, their own work to give the viewer understanding.",
-      "body": "An artist's statement is an artist's written description of their work. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Glen_Loates_-_Artist_Statement_-_Royal_Ontario_Museum.jpg/330px-Glen_Loates_-_Artist_Statement_-_Royal_Ontario_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Artist's_statement"
+      "opener": "On this day in 545 —",
+      "hook": "During the Three-Chapter Controversy, Pope Vigilius is abducted on order of emperor Justinian I in order to force him to agree with Byzantine imperial religious policy.",
+      "body": "The Three-Chapter Controversy, a phase in the Chalcedonian controversy, was an attempt to reconcile the non-Chalcedonians of Syria and Egypt with Chalcedonian Christianity, following the failure of the Henotikon. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png/330px-Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Three-Chapter_Controversy"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "body": "The couple have been together for four years and were engaged in 2025.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "Tom Gauld on buying a new book for every day of the month – cartoon",
+      "body": "<p> </p> <a href=\"https://www.theguardian.com/books/picture/2026/nov/22/tom-gauld-on-buying-a-new-book-for-every-day-of-the-month-cartoon\">Continue reading...</a>",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/picture/2026/nov/22/tom-gauld-on-buying-a-new-book-for-every-day-of-the-month-cartoon"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1994 —",
+      "hook": "A Trans World Airlines McDonnell Douglas MD-80 and Cessna 441 Conquest II aircraft collide on the runway at St. Louis Lambert International Airport in Bridgeton, Missouri, killing two people and injuring eight.",
+      "body": "Trans World Airlines (TWA) was a trunk carrier, a scheduled airline in the United States that operated from 1930 until it was acquired by American Airlines in 2001. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Boeing_747-131%2C_Trans_World_Airlines_-_TWA_AN1081800.jpg/330px-Boeing_747-131%2C_Trans_World_Airlines_-_TWA_AN1081800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Trans_World_Airlines"
     }
   ]
 }
