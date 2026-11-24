@@ -1,169 +1,239 @@
 {
-  "generated": "2026-11-23T15:27:24.214Z",
-  "count": 17,
+  "generated": "2026-11-24T02:38:21.393Z",
+  "count": 24,
   "items": [
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Who Is Still Alive review – grief-stricken stories of the places and people lost in Gaza",
-      "body": "<p>Nicolas Wadimoff invites refugees to draw a floor plan of their former neighbourhood, bringing raw and agonising pain to the surface</p><p>A sombre documentary from the Swiss musician and film-maker Nicolas Wadimoff, who returns to his l",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/23/who-is-still-alive-review"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Shoestring is a British detective fiction drama series, set in an unnamed city in the West of England and filmed in Bristol, featuring the down-at-heel private detective Eddie Shoestring, who presents his own show on Radio West, a local radio station.",
-      "body": "Broadcast on BBC1, the programme lasted for two series, between 30 September 1979 and 21 December 1980, comprising a total of 21 episodes. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/77/ShoestringDVD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Shoestring_(TV_series)"
-    },
     {
       "type": "card",
       "cat": "books",
       "opener": "Okay, this one's fun —",
-      "hook": "Navy Provisional Detainee Battalion 2 (NPDB2) is a United States Navy task force of 422 active duty and Naval Reserve Sailors formed on 1 May 2006 for the purpose of combat duties in Iraq.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Npdb2.jpg/330px-Npdb2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Valley of the Flame is a fantasy novel by American writer Henry Kuttner, first published in the March 1946 issue of the magazine Startling Stories under the pseudonym \"Keith Hammond\".",
+      "body": "The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/ValleyOfTheFlame.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Navy_Provisional_Detainee_Battalion_2"
+      "url": "https://en.wikipedia.org/wiki/Valley_of_the_Flame"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "Chemicals, Covid and cabbage: why 2026 has been an amazing year for documentaries",
-      "body": "<p>With Musk, NAZA and You Can See Everything finding large audiences, non-fiction cinema is poised to break through. But there are plenty more gripping stories waiting for their turn in the spotlight</p><p>There comes a time in the life of",
+      "hook": "Steven Spielberg to make a western written by Paul Thomas Anderson",
+      "body": "<p>Jessie Buckley, Cillian Murphy and Mark Rylance will reportedly star in adaptation of The Heart in Winter</p><p>Steven Spielberg has announced his next project: a western scripted by Paul Thomas Anderson.</p><p>According to <a href=\"http",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/23/musk-naza-and-you-can-see-everything-idfa-documentary-film-festival"
+      "url": "https://www.theguardian.com/film/2026/nov/23/spielberg-western-paul-thomas-anderson-heart-in-winter"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1248 —",
+      "hook": "An overnight landslide on the north side of Mont Granier, one of the largest historical rockslope failures ever recorded in Europe, destroys five villages.",
+      "body": "Mont Granier (1,933m) is a limestone mountain located between the départements of Savoie and Isère in France. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Mont_Granier.jpg/330px-Mont_Granier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Mont_Granier"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1863 —",
+      "hook": "American Civil War: Battle of Lookout Mountain: Near Chattanooga, Tennessee, Union forces under General Ulysses S. Grant capture Lookout Mountain and begin to break the Confederate siege of the city led by General Braxton Bragg.",
+      "body": "The American Civil War was fought in the United States between the Union and the Confederacy, which was formed in 1861 by Southern states that had seceded from the Union to preserve the institution of slavery. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1542 —",
+      "hook": "Battle of Solway Moss: An English army defeats a much larger Scottish force near the River Esk in Dumfries and Galloway.",
+      "body": "The Battle of Solway Moss took place on Solway Moss near the River Esk on the English side of the Anglo-Scottish border in November 1542 between English and Scottish forces. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/The_River_Esk%2C_Arthuret_-_geograph.org.uk_-_1325304.jpg/330px-The_River_Esk%2C_Arthuret_-_geograph.org.uk_-_1325304.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Solway_Moss"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Bet you didn't know —",
+      "hook": "The museum was established in 1859 and is the oldest public art museum in Denmark outside Copenhagen.",
+      "body": "ARoS is an art museum in Aarhus, Denmark. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Aros.Arhus.1.jpg/330px-Aros.Arhus.1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ARoS_Aarhus_Kunstmuseum"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "You probably never noticed this —",
-      "hook": "Splintered Light: Logos and Language in Tolkien's World is a 1983 book of literary criticism by the leading Tolkien scholar Verlyn Flieger, in which she argues that light is a central theme of Tolkien's Middle-earth mythology, in particular in The Silmarillion.",
-      "body": "It has been admired by other scholars to the extent that it has become a core element of Tolkien scholarship. Worth a quiet trip down the rabbit hole.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Splintered_Light.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hook": "This Tender Land is a book written by William Kent Krueger and published by Atria Books in September 2019.",
+      "body": "Krueger had written a companion novel to Ordinary Grace, that was accepted and revised, but he pulled it at the last minute and revised it substantially over the next four years, incorporating elements from Adventures of Huckleberry Finn and the Odyssey. Worth",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Tenderland.jpg/330px-Tenderland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Splintered_Light"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "‘What if joining the resistance got your friends executed?’ The chilling new films casting Nazi collaborators in a fresh light",
-      "body": "<p>For decades, films about Nazi-occupied Europe were all about the fearless resistance while despicable collaborators deserved all they got. So what’s behind the spate of movies portraying turncoats in a more sympathetic light?</p><p>A you",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/23/chilling-new-films-casting-nazi-collaborators-new-light-resistance-moral-dilemna"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Bill Wyman’s Rock & Roll Lists review – greatest hits and biggest misses",
-      "body": "<p>The rock critic’s obsessive yet incisive sorting of musical genius is a contrarian delight</p><p>As veteran US music journalist Bill Wyman (no relation to the Stones bassist) would be the first to point out, the listicle is not a revered",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/23/bill-wymans-rock-roll-lists-review-greatest-hits-and-biggest-misses"
+      "url": "https://en.wikipedia.org/wiki/This_Tender_Land"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 2010 —",
-      "hook": "Bombardment of Yeonpyeong: North Korean artillery attack kills two civilians and two marines on Yeonpyeong Island, South Korea.",
-      "body": "The Bombardment of Yeonpyeongdo was an artillery engagement between the North Korean military and South Korean forces stationed on the island Yeonpyeongdo on 23 November 2010. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/2010.11.23_%EB%B6%81%ED%95%9C_%ED%95%B4%EC%95%88%ED%8F%AC_%EB%B0%9C%EC%82%AC%EB%A1%9C_%EB%B6%88%ED%83%80%EB%8A%94_%EC%97%B0%ED%8F%89%EB%8F%84_%287445571570%29.jpg/330px-2010.11.23_%EB%B6%81%ED%95%9C_%ED%95%B4%EC%95%88%ED%8F%AC_%EB%B0%9C%EC%82%AC%EB%A1%9C_%EB%B6%88%ED%83%80%EB%8A%94_%EC%97%B0%ED%8F%89%EB%8F%84_%287445571570%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/2010_Yeonpyeongdo_bombardment"
+      "opener": "You probably never noticed this —",
+      "hook": "The population of the township was 13,706 at the 2010 census.",
+      "body": "Nether Providence Township is a township in Delaware County, Pennsylvania, United States. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Wolley_1.JPG/330px-Wolley_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nether_Providence_Township%2C_Pennsylvania"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "More sex, different endings: how fan fiction makes our dreams come true",
-      "body": "<p>A Harry Potter-inspired novel has earned its author more than £1m in a bidding war. What does this mean for the writers of fan fiction, and the platforms that host their passionate creations?</p><p>Shortly after this year’s <a href=\"http",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/23/more-sex-different-endings-how-fan-fiction-makes-our-dreams-come-true"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1914 —",
-      "hook": "Mexican Revolution: The last of U.S. forces withdraw from Veracruz, occupied seven months earlier in response to the Tampico Affair.",
-      "body": "The Mexican Revolution was an extended sequence of armed regional conflicts in Mexico from 20 November 1910 to 1 December 1920. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Decena_tr%C3%A1gica.JPG/330px-Decena_tr%C3%A1gica.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mexican_Revolution"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "The Boy and the Suit of Lights review – a sensitive portrait of an aspiring toreador in a changing Spain",
-      "body": "<p>Encouraged by his grandfather and single mother, the teen Borja dreams of a career that will end his family’s poverty, but the protesters are gathering strength</p><p>Where last year’s bullfighting documentary <a href=\"https://www.thegua",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/23/the-boy-and-the-suit-of-lights-review-a-sensitive-portrait-of-an-aspiring-toreador-in-a-changing-spain"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1963 —",
-      "hook": "The first episode of Doctor Who (\"An Unearthly Child\") is broadcast by the BBC, which is now the world's longest running science fiction drama.",
-      "body": "Doctor Who is a British science fiction television series first broadcast by the BBC in 1963. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d1/Doctor_Who_title_card.png/330px-Doctor_Who_title_card.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Doctor_Who"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1808 —",
-      "hook": "French and Poles defeat the Spanish at Battle of Tudela.",
-      "body": "The Battle of Tudela saw an Imperial French army led by Marshal Jean Lannes attack a Spanish army under General Castaños. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/La_batalla_de_Tudela%2C_por_January_Suchodolski.jpg/330px-La_batalla_de_Tudela%2C_por_January_Suchodolski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Tudela"
+      "cat": "geography",
+      "opener": "Bet you didn't know —",
+      "hook": "The population of the city was estimated to be 30,858 in 2020 by the U.S.",
+      "body": "LaGrange is a city in and the county seat of Troup County, Georgia, United States. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/LaGrange%2C_Georgia_Courthouse_Square.JPG/330px-LaGrange%2C_Georgia_Courthouse_Square.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/LaGrange%2C_Georgia"
     },
     {
       "type": "card",
       "cat": "history",
       "opener": "On this day in 2015 —",
-      "hook": "Blue Origin's New Shepard space vehicle became the first rocket to successfully fly to space and then return to Earth for a controlled, vertical landing.",
-      "body": "Blue Origin Enterprises, L.P. Bring it up somewhere. Watch the reaction.",
-      "img": null,
+      "hook": "A Russian Air Force Sukhoi Su-24 fighter jet is shot down by the Turkish Air Force over the Syria–Turkey border, killing one of the two pilots; a Russian marine is also killed during a subsequent rescue effort.",
+      "body": "The Russian Air Force is a branch of the Russian Aerospace Forces, which was formed on 1 August 2015, with the merging of the Russian Air Force and the Russian Aerospace Defence Forces. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Middle_emblem_of_the_Russian_Air_Forces.svg/330px-Middle_emblem_of_the_Russian_Air_Forces.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Blue_Origin"
+      "url": "https://en.wikipedia.org/wiki/Russian_Air_Force"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Barbourofelinae is a subfamily of carnivorans within the extinct family of feliforms known as Nimravidae.",
-      "body": "Sometimes known as false saber-toothed cats, that lived in North America, Eurasia and Africa during the Miocene epoch and existed for about 15.8 million years. The world is stranger than it lets on.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Barbourofelis_loveorum.jpg/330px-Barbourofelis_loveorum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Bet you didn't know —",
+      "hook": "As Joias da Coroa is a novel written by the Brazilian writer Raul Pompeia.",
+      "body": "It was first published in 1882. Bring it up somewhere. Watch the reaction.",
+      "img": null,
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Barbourofelinae"
+      "url": "https://en.wikipedia.org/wiki/As_Joias_da_Coroa"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "It is affiliated with the Interim Government of Ambazonia, and is part of the Ambazonia Self-Defence Council.",
+      "body": "The Ambazonia Restoration Army (ARA) is an Ambazonian separatist militia. One of those things you can't un-know.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/91/Seal_of_the_Ambazonia_Restoration_Army.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ambazonia_Restoration_Army"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "File under 'wait, really?' —",
+      "hook": "This was the second XPW reunion show to have occurred, the first being Cold Day in Hell which was held on May 24, 2008.",
+      "body": "An Xtreme Pro Wrestling (XPW) reunion show called the XPW Ten Year Anniversary Spectacular, nicknamed XPW X, took place on August 22, 2009, at the Arena Night Club in Los Angeles. Worth a quiet trip down the rabbit hole.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/XPW_Ten_Year_Anniversary_Spectacular"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "The Archivist is an American novel by Martha Cooley, first published in a hardcover format by Little, Brown and Company in 1998.",
+      "body": "The story makes extensive reference to the poetry of T. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/30/Archivist_Cooley.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Archivist"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The 100 best novels of all time",
+      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "The best books to read in November and December: new paperbacks from Benjamin Myers, Jeanette Winterson and John Updike",
+      "body": "<p>Looking for a new reading recommendation? Here are some must-read new paperbacks, from an experimental novel about a German actor to a study of how the arts can boost our health</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/13/the-best-books-to-read-in-november-and-december-new-paperbacks-from-benjamin-myers-jeanette-winterson-and-john-updike"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "You Can See Everything passes $100m at global box office as UK release starts strong",
-      "body": "<p>The documentary from Nathan Fielder following fraudster Elizabeth Holmes in the weeks leading up to her imprisonment has broken box office records in the UK</p><p>Elizabeth Holmes film You Can See Everything has crossed the $100m mark at",
+      "hook": "How to Rob a Bank review – Amazon’s anti-capitalist caper is far from a riot",
+      "body": "<p>Nicholas Hoult, Anna Sawai and Pete Davidson play Robin Hood in this simple-minded and unexciting attempt to mix social commentary with action</p><p>In case you were somehow blissfully unaware, America is in a very dark place and America",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes"
+      "url": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Victorian Psycho review – Maika Monroe has a blast in unsteady horror romp",
+      "body": "<p>The It Follows and Longlegs star tears into the role of a murderous governess in this hit-and-miss adaptation of Virginia Feito’s gory novel</p><p>It’s not that hard to figure out why a lower-class woman toiling away in Victorian England",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/12/victorian-psycho-review-maika-monroe"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
+      "body": "<p>The latest film version of the Dickens classic A Christmas Carol is decent enough, though its star is rather better as the legendary miser before redemption arrives</p><p>Here for lovers of Dickens – and fans of subtext – is an unexpecte",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1976 —",
-      "hook": "Jacques Mayol is the first man to reach a depth of 100 m (330 ft) undersea without breathing equipment.",
-      "body": "Jacques Mayol was a French diver and the holder of many world records in free diving. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Record_mondial_de_poids_constant_-_62_m_en_1989.png/330px-Record_mondial_de_poids_constant_-_62_m_en_1989.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Okay, this one's fun —",
+      "hook": "He played in Major League Baseball (MLB) for the Montreal Expos and Seattle Mariners.",
+      "body": "Alonzo Sidney Powell is an American former professional baseball outfielder and current coach. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Alonzo_Powell_2006_%28cropped%29.jpg/330px-Alonzo_Powell_2006_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alonzo_Powell"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2023 —",
+      "hook": "Hibiscus Rising, commemorating David Oluwale, is unveiled in Leeds.",
+      "body": "Hibiscus Rising (2023) is an outdoor sculpture in Leeds, England, by artist Yinka Shonibare which was unveiled on 24 November 2023 as part of LEEDS 2023. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Hibiscus_Rising_sculpture_by_Yinka_Shonibare._LEEDS_2023.jpg/330px-Hibiscus_Rising_sculpture_by_Yinka_Shonibare._LEEDS_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Jacques_Mayol"
+      "url": "https://en.wikipedia.org/wiki/Hibiscus_Rising"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Film —",
+      "hook": "Focker In-Law review – triangle of sadness as Ariana Grande joins Stiller and De Niro in the circle of trust",
+      "body": "<p>Even Grande’s talent can’t save the fourth outing of this 90s-style grossout cringe comedy from a depressing sense of overfamiliarity</p><p>So to the fourth film in the most consistently moderate but undeniably lucrative comedy franchise",
+      "src": "The Guardian · Film",
+      "url": "https://www.theguardian.com/film/2026/nov/23/focker-in-law-review-triangle-of-sadness-as-ariana-grande-joins-stiller-and-de-niro-in-the-circle-of-trust"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Small thing, surprisingly big deal —",
+      "hook": "William Gordon Merrick was a Broadway actor, wartime OSS field officer, best-selling author of gay-themed novels, and one of the first authors to write about homosexual themes for a mass audience.",
+      "body": "One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gordon_Merrick"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1859 —",
+      "hook": "British naturalist Charles Darwin's On the Origin of Species is published.",
+      "body": "Charles Robert Darwin was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/330px-Charles_Darwin_seated_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
     }
   ]
 }
