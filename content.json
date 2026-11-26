@@ -1,199 +1,179 @@
 {
-  "generated": "2026-11-26T00:44:10.875Z",
-  "count": 20,
+  "generated": "2026-11-26T08:57:51.503Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "BBC Radio 1's Big Weekend 2027 heads to Brighton",
+      "body": "The annual music festival will take place in Preston Park from Friday 28 to Sunday 30 May next year.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewjpgd2llo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Culture —",
+      "hook": "Robert Pattinson is not enough: who should become the new Bond girl?",
+      "body": "<p>With the British actor securing the role of James Bond, speculation has now begun over who should join him in Denis Villeneuve’s much-anticipated caper</p><p>After years of speculation, Robert Pattinson has been <a href=\"https://www.theg",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/nov/24/who-next-bond-girl-robert-pattinson"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Honey by Elizabeth Jenkins review – a rediscovered 60s classic of sex, money and power",
+      "body": "<p>The beautiful and mercenary Honey is a monstrously compelling character, in a novel with the ruthlessness of Richard Yates but more wit</p><p>‘A sweet white grape of a book” is how Virginia Woolf described Elizabeth Jenkins’s first novel",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/26/honey-by-elizabeth-jenkins-review-a-rediscovered-60s-classic-of-sex-money-and-power"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "‘It was a cover-up’: HarperCollins accused of using lawyers to shut down concerns about David Walliams",
+      "body": "<p>Women who spoke to internal investigation about inappropriate behaviour by Walliams still too scared to speak out</p><p>The publisher HarperCollins used a leading legal firm and a non-disclosure agreement to “cover up” David Walliams’ in",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/24/it-was-a-cover-up-harpercollins-accused-of-using-lawyers-to-shut-down-concerns-about-david-walliams"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Okay, this one's fun —",
+      "hook": "Jhinder Bondi is a 1961 Indian Bengali-language epic period action-adventure film co-written and directed by Tapan Sinha.",
+      "body": "Produced by Bholanath Roy under his banner B. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c9/Jhinder_Bondi_%281961%29_film_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jhinder_Bondi"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Uncertain Glory is a 2017 Spanish drama film directed by Agustí Villaronga based on the eponymous novel by Joan Sales.",
+      "body": "Shot in Catalan, its cast is led by Marcel Borràs, Núria Prims, Oriol Pla and Bruna Cusí. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/15/Uncertain_Glory_%282017_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uncertain_Glory_(2017_film)"
+    },
+    {
+      "type": "card",
       "cat": "history",
-      "opener": "On this day in 783 —",
-      "hook": "The Asturian queen Adosinda is held at a monastery to prevent her nephew from retaking the throne from Mauregatus.",
-      "body": "The Kingdom of Asturias was a medieval monarchy in the Iberian Peninsula founded by the nobleman Pelagius. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Royal_flag_of_Ramiro_I_of_Asturies.svg/330px-Royal_flag_of_Ramiro_I_of_Asturies.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1789 —",
+      "hook": "A national Thanksgiving Day is observed in the United States as proclaimed by President George Washington at the request of Congress.",
+      "body": "Thanksgiving is a federal holiday in the United States celebrated during fall on the fourth Thursday of November. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Thanksgiving_at_Plymouth%2C_1925%2C_Brownscombe.jpg/330px-Thanksgiving_at_Plymouth%2C_1925%2C_Brownscombe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Asturias"
+      "url": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1986 —",
+      "hook": "Iran–Contra affair: U.S. President Ronald Reagan announces the members of what will become known as the Tower Commission.",
+      "body": "The Iran–Contra affair or Iran–Contra scandal, also referred to as the Iran Initiative or Contragate, was a political scandal in the United States that centered on arms trafficking to Iran between 1981 and 1986, facilitated by senior officials of the Reagan administration. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg/330px-President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2021 —",
+      "hook": "COVID-19 pandemic: The World Health Organization identifies the SARS-CoV-2 Omicron variant.",
+      "body": "The global COVID-19 pandemic, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), began with an outbreak in Wuhan, China, in December 2019. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg/330px-Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "The Armies of the Night: History as a Novel/The Novel as History is a nonfiction novel recounting the October 1967 March on the Pentagon written by Norman Mailer and published by New American Library in 1968.",
+      "body": "It won the Pulitzer Prize for General Nonfiction and the National Book Award in category Arts and Letters. The world is stranger than it lets on.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/ArmiesOfTheNight.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Armies_of_the_Night"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1986 —",
+      "hook": "The trial of John Demjanjuk, accused of committing war crimes as a guard at the Nazi Treblinka extermination camp, starts in Jerusalem.",
+      "body": "John Demjanjuk was a Trawniki and guard at Sobibor extermination camp, Majdanek, and Flossenbürg. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/John_Demjanjuk_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/John_Demjanjuk"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "Screen Daily —",
+      "hook": "‘Possible Love’ director Lee Chang-dong, ‘Being Heumann’ star Ruth Madeley, ‘Wuthering Heights’ HODs among participating talent at Screen FYC London",
+      "body": "The director and star of Brazilian Oscar entry ‘Gugu’s World’ are also confirmed to participate.",
+      "src": "Screen Daily",
+      "url": "https://www.screendaily.com/news/possible-love-director-lee-chang-dong-being-heumann-star-ruth-madeley-wuthering-heights-hods-among-participating-talent-at-screen-fyc-london/5222712.article"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "The defence tech revolution is changing how we innovate",
+      "body": "Military technology companies are bypassing traditional procurement programmes to deliver low-cost, rapidly adaptable technology. That has important implications for innovators, investors and broader society, say experts",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2599276-the-defence-tech-revolution-is-changing-how-we-innovate/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "books",
       "opener": "File under 'wait, really?' —",
-      "hook": "The Grasp of Greed is a 1916 American silent drama film directed by Joe De Grasse, written by Ida May Park, and starring Lon Chaney and Louise Lovely.",
-      "body": "The screenplay was adapted from an 1888 H. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/The_Grasp_of_Greed.jpg/330px-The_Grasp_of_Greed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hook": "Gregory \"Greg\" Heffley is a fictional character and the protagonist of the Diary of a Wimpy Kid franchise, serving as the antiheroic unreliable narrator of the books, online series, and multimedia franchise.",
+      "body": "He was created by Jeff Kinney, and portrayed by Zachary Gordon and Jason Drucker in the first three films and the fourth film, respectively. Worth a quiet trip down the rabbit hole.",
+      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/Greg_Heffley.svg/330px-Greg_Heffley.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Grasp_of_Greed"
+      "url": "https://en.wikipedia.org/wiki/Greg_Heffley"
     },
     {
       "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "What we’re reading: Ian Rankin, Louise Kennedy and Guardian readers on the books they enjoyed in October",
-      "body": "<p>Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments</p><p>I’m a huge fan of Muriel Spark, but wasn’t sure I needed another biography of her, yet James Bailey’s <strong",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/oct/31/what-were-reading-ian-rankin-louise-kennedy-and-guardian-readers-on-the-books-they-enjoyed-in-october"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2011 —",
-      "hook": "The Mars Science Laboratory launches to Mars with the Curiosity Rover.",
-      "body": "Mars Science Laboratory (MSL) is a robotic space probe mission to Mars launched by NASA on November 26, 2011, which successfully landed Curiosity, a Mars rover, in Gale Crater on August 6, 2012. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/MSL_cruise_stage_configuration_%28PIA14831%29.png/330px-MSL_cruise_stage_configuration_%28PIA14831%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Mars_Science_Laboratory"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "How to Rob a Bank review – Amazon’s anti-capitalist caper is far from a riot",
-      "body": "<p>Nicholas Hoult, Anna Sawai and Pete Davidson play Robin Hood in this simple-minded and unexciting attempt to mix social commentary with action</p><p>In case you were somehow blissfully unaware, America is in a very dark place and America",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "Here's one for the group chat —",
-      "hook": "Alaskan Creoles are the descendants of ethnic Russians in colonial Alaska and the Commander Islands, known as Russian Creoles, who intermarried with Aleut, Yupik, Inuit, and other Alaskan Native peoples.",
-      "body": "Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/KatherineDyakanoffSeller.tif/lossless-page1-330px-KatherineDyakanoffSeller.tif.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Alaskan_Creole_people"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1161 —",
-      "hook": "Battle of Caishi: A Song dynasty fleet fights a naval engagement with Jin dynasty ships on the Yangtze river during the Jin–Song Wars.",
-      "body": "The Battle of Caishi was a major naval engagement of the Jin–Song Wars of China that took place on November 26–27, 1161. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Songrivership3.jpg/330px-Songrivership3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Caishi"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The 100 best novels of all time",
-      "body": "<p><em>The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read?</em></p> <a href=\"https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"
-    },
-    {
-      "type": "card",
-      "cat": "history",
+      "cat": "books",
       "opener": "Bet you didn't know —",
-      "hook": "The Coloradoan's website is updated throughout the day with breaking news and video coverage of community news in Northern Colorado.",
-      "body": "The Coloradoan is a daily newspaper in Fort Collins, Colorado. The world is stranger than it lets on.",
+      "hook": "Things Fall Apart is the 1958 debut novel by Nigerian author Chinua Achebe.",
+      "body": "Set in Colonial Nigeria, it portrays the story of Okonkwo, a traditional and influential leader of the fictional Ibo clan of Umuofia, who opposes colonialism and early Christianity. Bring it up somewhere. Watch the reaction.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/65/ThingsFallApart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Things_Fall_Apart"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1999 —",
+      "hook": "The 7.5 Mw Ambrym earthquake shakes Vanuatu and a destructive tsunami follows. Ten people were killed and forty were injured.",
+      "body": "The 1999 Ambrym earthquake occurred on November 27 at 00:21:17 local time with a moment magnitude of 7.4 and a maximum Mercalli intensity of VII. Bring it up somewhere. Watch the reaction.",
       "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Fort_Collins_Coloradoan"
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/1999_Ambrym_earthquake"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "BBC Entertainment —",
+      "hook": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "body": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+      "src": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "On this day in 1943 —",
-      "hook": "World War II: HMT Rohna is sunk by the Luftwaffe in an air attack in the Mediterranean north of Béjaïa, Algeria.",
-      "body": "HMT Rohna was a British India Steam Navigation Company passenger and cargo liner that was built on Tyneside in 1926 as SS Rohna and requisitioned as a troop ship in 1940. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Troopship%2C_the_HMT_Rohna.jpeg/330px-Troopship%2C_the_HMT_Rohna.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "On this day in 1950 —",
+      "hook": "Korean War: Communist Chinese troops launch a massive counterattack (Battle of the Ch'ongch'on River and Battle of Chosin Reservoir) against United Nations and South Korean forces.",
+      "body": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/HMT_Rohna"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "The Precipice is a science fiction novel by Hugo Award winner Ben Bova.",
-      "body": "This novel is part of the Grand Tour series of novels. One of those things you can't un-know.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/77/The-precipice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Precipice_(Bova_novel)"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
-      "body": "<p>The latest film version of the Dickens classic A Christmas Carol is decent enough, though its star is rather better as the legendary miser before redemption arrives</p><p>Here for lovers of Dickens – and fans of subtext – is an unexpecte",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Victorian Psycho review – Maika Monroe has a blast in unsteady horror romp",
-      "body": "<p>The It Follows and Longlegs star tears into the role of a murderous governess in this hit-and-miss adaptation of Virginia Feito’s gory novel</p><p>It’s not that hard to figure out why a lower-class woman toiling away in Victorian England",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/12/victorian-psycho-review-maika-monroe"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 2025 —",
-      "hook": "The Wang Fuk Court fire, a catastrophic fire in Tai Po, Hong Kong, leaves at least 168 dead and 79 injured.",
-      "body": "On 26 November 2025, a large fire broke out at the Wang Fuk Court apartment complex in Tai Po, New Territories, Hong Kong, and burned for 44 hours and 18 minutes. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wang_Fuk_Court_fire_2025_night_view_%28am370%29.png/330px-Wang_Fuk_Court_fire_2025_night_view_%28am370%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "The best books to read in November and December: new paperbacks from Benjamin Myers, Jeanette Winterson and John Updike",
-      "body": "<p>Looking for a new reading recommendation? Here are some must-read new paperbacks, from an experimental novel about a German actor to a study of how the arts can boost our health</p><p>***</p> <a href=\"https://www.theguardian.com/books/ng",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/13/the-best-books-to-read-in-november-and-december-new-paperbacks-from-benjamin-myers-jeanette-winterson-and-john-updike"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Here's one for the group chat —",
-      "hook": "Adam Bede was the first novel by English author George Eliot, pen name of Mary Ann Evans, first published in 1859.",
-      "body": "It was published pseudonymously, even though Evans was a well-published and highly respected scholar of her time. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Adam_Bede.jpg/330px-Adam_Bede.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Adam_Bede"
-    },
-    {
-      "type": "card",
-      "cat": "history",
-      "opener": "On this day in 1917 —",
-      "hook": "The National Hockey League is formed, with the Montreal Canadiens, Montreal Wanderers, Ottawa Senators, Quebec Bulldogs, and Toronto Arenas as its first teams.",
-      "body": "The National Hockey League is a professional ice hockey league in North America composed of 32 teams, 25 in the United States and 7 in Canada. Bring it up somewhere. Watch the reaction.",
-      "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/330px-05_NHL_Shield.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia · On this day",
-      "url": "https://en.wikipedia.org/wiki/National_Hockey_League"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "The Guardian · Books —",
-      "hook": "Green Kingdom by Ben Dark review – a luscious natural history of plant life",
-      "body": "<p>A gardener traces the dynasties that dominate the vegetal world in appropriately sumptuous prose</p><p>John Ruskin, the Victorian writer and critic, hated the way science insisted on turning his beloved natural world into something smutt",
-      "src": "The Guardian · Books",
-      "url": "https://www.theguardian.com/books/2026/nov/20/green-kingdom-by-ben-dark-review-a-luscious-natural-history-of-plant-life"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "Bet you didn't know —",
-      "hook": "A Man Called Ove is a 2015 Swedish comedy-drama film written and directed by Hannes Holm and based on the 2012 novel of the same name by Fredrik Backman.",
-      "body": "It stars Rolf Lassgård in the title role. The world is stranger than it lets on.",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/00/A_Man_Called_Ove.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/A_Man_Called_Ove_(film)"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Little Lord Fauntleroy is a 1914 British silent drama film directed by Floyd Martin Thornton and starring H.",
-      "body": "Agar Lyons, Gerald Royston in the title role, and Jane Wells. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bioscope_ad_April_1914.png/330px-Bioscope_ad_April_1914.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Little_Lord_Fauntleroy_(1914_film)"
+      "url": "https://en.wikipedia.org/wiki/Korean_War"
     }
   ]
 }
