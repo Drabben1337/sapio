@@ -1,129 +1,179 @@
 {
-  "generated": "2026-11-27T01:58:22.293Z",
-  "count": 13,
+  "generated": "2026-11-27T10:26:32.352Z",
+  "count": 18,
   "items": [
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "⁠Gérard Depardieu to face trial on charges ‌of raping ​actor Charlotte ⁠Arnould",
-      "body": "<p>Arnould first accused Depardieu ⁠in 2018, saying assaults occurred at his Paris home on two separate occasions when ⁠she was in her early 20s</p><p>Gérard Depardieu has been ordered to stand trial on a charge of raping a female actor at ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/26/gerard-depardieu-face-trial-charges-rape-charlotte-arnould"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Gig evacuation quarantine was traumatic, fans say",
-      "body": "Don Toliver fans say they were asked to strip and held for hours after an evacuation at Co-op Live.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cklywnlrwjexo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "type": "card",
-      "cat": "news",
-      "opener": "BBC Entertainment —",
-      "hook": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "body": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-      "src": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
+      "opener": "The Guardian · Books —",
+      "hook": "The Metaphor Zoo by Jeremy Butterfield review – how animals influence our language",
+      "body": "<p>A lexicographer reveals the surprising origins of common zoological turns of phrase, from fat cats to fur babies</p><p>Anyone who has grown up in the country knows that cows come home. They do it at tea time, like clockwork, because an u",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/27/the-metaphor-zoo-by-jeremy-butterfield-review-how-animals-influence-our-language"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "You’re cracking me up: cinema’s greatest egg scenes – ranked!",
-      "body": "<p>As You Can See Everything’s contention whisking scene beats movie-goers into a frenzy, here’s a taster of the most eggstraordinary moments on film</p><p>It’s breakfast time at the California home of Elizabeth Holmes, the disgraced former",
+      "hook": "‘Everybody tells me how I can keep working. My answer begins with ‘F’ and ends with ‘off’: Mike Leigh on 55 years of films – and why he’s just made his last",
+      "body": "<p>The acclaimed director has announced his latest film Tender Loving Care will be his last. He talks about coming to terms with a life-changing condition and how he would have loved to have made a big budget modern-day movie</p><p>Mike Lei",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/26/cinemas-greatest-egg-scenes-ranked"
+      "url": "https://www.theguardian.com/film/2026/nov/27/mike-leigh-interview-last-film-tender-loving-care"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "Melissa Lafsky Wall is an American writer and entrepreneur.",
-      "body": "She began her career as a writer by founding the Opinionistas blog, which focused on the dehumanizing aspects of working at large law firms. One of those things you can't un-know.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Opinionistas.com_blogger_Melissa_Lafsky.jpg/330px-Opinionistas.com_blogger_Melissa_Lafsky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Melissa_Lafsky"
+      "cat": "news",
+      "opener": "New Scientist —",
+      "hook": "New Scientist Book Club: How urine changed the course of human history",
+      "body": "The Age of Alchemy has just won the Royal Society Trivedi Science Book prize. As the New Scientist Book Club reads it, author Kit Chapman makes a case for the transformative powers of urine",
+      "src": "New Scientist",
+      "url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&#038;utm_content=home&#038;utm_medium=RSS&#038;utm_source=NSNS"
     },
     {
       "type": "card",
       "cat": "history",
-      "opener": "Small thing, surprisingly big deal —",
-      "hook": "He made four appearances for Liverpool in the Football League First Division during the 1894–95 season.",
-      "body": "James Cameron was a Scottish footballer who played as a defender. One of those things you can't un-know.",
-      "img": null,
+      "opener": "On this day in 1985 —",
+      "hook": "Space Shuttle program: Atlantis launches on STS-61-B, with Rodolfo Neri Vela becoming the first Mexican astronaut.",
+      "body": "The Space Shuttle program was the fourth human spaceflight program carried out by the U.S. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Shuttle_Patch.svg/330px-Shuttle_Patch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_program"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Francis Hague, known as Frank Hague, was an American politician of the Democratic Party who served as mayor of Jersey City, New Jersey, from 1917 to 1947, and vice-chairman of the Democratic National Committee from 1924 until 1952.",
+      "body": "Hague ran a political machine that dominated the politics of Hudson County, and of the entire state of New Jersey. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Frank_Hague.jpg/330px-Frank_Hague.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/James_Cameron_(footballer)"
+      "url": "https://en.wikipedia.org/wiki/Frank_Hague"
+    },
+    {
+      "type": "card",
+      "cat": "news",
+      "opener": "The Guardian · Books —",
+      "hook": "Careless People author Sarah Wynn-Williams: ‘The silence is mine, it doesn’t have to be yours’",
+      "body": "<p>Since writing her bestselling exposé, the former employee<em> </em>has been forbidden from speaking publicly about Meta. In an exclusive extract from her Orwell lecture, she describes life under a gag order – and why it’s time to speak o",
+      "src": "The Guardian · Books",
+      "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours"
     },
     {
       "type": "card",
       "cat": "news",
       "opener": "The Guardian · Film —",
-      "hook": "‘I was very aggressive. They threw me out of every school’ … Julie Delpy on acting, anger and predatory directors",
-      "body": "<p>Thirty years after the roles that made her famous, the star of Three Colours: White and the Before trilogy is busier than ever – as a screenwriter and director. But, she says, a lot of people have tried to keep her down</p><p>To listen t",
+      "hook": "Get me a 747 and deploy the oxygen masks! The British pilot behind Hollywood’s greatest inflight scenes",
+      "body": "<p>An emergency landing for Bridesmaids, a humiliation for Ben Stiller in Focker-in-Law, a giant toilet for Britney Spears in the Toxic video … Richard Chan, No 1 provider of airplane cabin sets, recalls his finest work</p><p>With Thanksgiv",
       "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors"
+      "url": "https://www.theguardian.com/film/2026/nov/27/british-pilot-plane-film-hollywood-focker-in-law-britney-spears-aero-mock-ups"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1999 —",
+      "hook": "The centre-left Labour Party takes control of the New Zealand government with leader Helen Clark becoming the first elected female prime minister in New Zealand's history.",
+      "body": "The New Zealand Labour Party, also known simply as Labour, is a centre-left political party in New Zealand. Bring it up somewhere. Watch the reaction.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Labour_Party"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "William Hughes Miller is an American theoretical chemist and professor emeritus at the University of California, Berkeley.",
+      "body": "He is known for his development of semiclassical methods for treating chemical dynamics, and his contributions have been described as having \"essentially defined the field of theoretical chemical dynamics.\" Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Professor_William_Hughes_Miller_ForMemRS.jpg/330px-Professor_William_Hughes_Miller_ForMemRS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Hughes_Miller"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Here's one for the group chat —",
+      "hook": "Software-defined networking (SDN) is an approach to network management that uses abstraction to enable dynamic and programmatically efficient network configuration to create grouping and segmentation while improving network performance and monitoring in a manner more akin to cloud computing than to traditional network management.",
+      "body": "SDN is meant to improve the static architecture of traditional networks and may be employed to centralize network intelligence in one network component by disassociating the forwarding process of network packets from the routing process. The world is stranger ",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Software-defined_networking"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2006 —",
+      "hook": "The House of Commons of Canada approves a motion introduced by Prime Minister Stephen Harper recognizing the Québécois as a nation within Canada.",
+      "body": "The House of Commons of Canada is the lower house of the Parliament of Canada. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/West_Block_Temp_House_of_Commons%2C_2022.jpg/330px-West_Block_Temp_House_of_Commons%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/House_of_Commons_of_Canada"
+    },
+    {
+      "type": "card",
+      "cat": "books",
+      "opener": "Bet you didn't know —",
+      "hook": "Sir Colin Hamilton Allan was a New Zealander who spent most of his professional life in the British administration of overseas territories.",
+      "body": "He was the last Governor of the Seychelles from 1973 to 1975 and then from 1976 to 1978 the last Governor of the Solomon Islands, before their independence. The world is stranger than it lets on.",
+      "img": null,
+      "src": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Colin_Allan"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Jesse Eisenberg says his films contain ‘no sexuality’. But maybe his fans are just less desperate?",
-      "body": "<p>The actor-director has said people don’t interrupt his daytime writing in a public library because he’s not perceived as fanciable. Might that have more to do with the library than with him? </p><p>The imminent arrival of Jesse Eisenberg",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/26/jesse-eisenberg-says-his-films-contain-no-sexuality-but-maybe-his-fans-are-just-less-desperate"
+      "opener": "The Guardian · Culture —",
+      "hook": "Cozy escapism or festive trash? How Netflix holiday movies took over Christmas",
+      "body": "<p>The so-bad-it’s-good holiday film has become a new festive tradition. Stars Maddie Ziegler and Dennis Quaid explain why they’re so hard to resist</p><p>“With the state of the world right now, people want an escape,” says Maddie Ziegler. ",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/nov/27/netflix-christmas-holiday-movies"
     },
     {
       "type": "card",
       "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Misr Diwan Chand was a notable officer and a powerful general of Maharaja Ranjit Singh's reign.",
-      "body": "From a petty clerk he rose to the position of chief of artillery and commander-in-chief of the armies that conquered Multan and Kashmir and also served as the Commander-in-Chief of the Khalsa Army from 1816 to 1825. Worth a quiet trip down the rabbit hole.",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Grey-scale_scan_of_a_painting_of_a_Hindu_official_or_courtier_%28possibly_identifiable_as_Misr_Diwan_Chand%29_of_the_court_of_the_Sikh_Empire.jpg/330px-Grey-scale_scan_of_a_painting_of_a_Hindu_official_or_courtier_%28possibly_identifiable_as_Misr_Diwan_Chand%29_of_the_court_of_the_Sikh_Empire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "opener": "Here's one for the group chat —",
+      "hook": "The Sun Belt Conference women's soccer tournament is the conference championship tournament in soccer for the Sun Belt Conference (SBC).",
+      "body": "The tournament, which has been held every year since 2000, is played under a single-elimination format with seeding based on conference records. Bring it up somewhere. Watch the reaction.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Sun_Belt_Conference_2020_logo_and_name.svg/330px-Sun_Belt_Conference_2020_logo_and_name.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Misr_Diwan_Chand"
+      "url": "https://en.wikipedia.org/wiki/Sun_Belt_Conference_women's_soccer_tournament"
     },
     {
       "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "A menologium, also known by other names, is any collection of information arranged according to the days of a month, usually a set of such collections for all the months of the year.",
-      "body": "In particular, it is used for ancient Roman farmers' almanacs ; for the untitled Old English poem on the Julian calendar that appears in a manuscript of the Anglo-Saxon Chronicle; for the liturgical books used by the Eastern Orthodox Church and Eastern Catholi",
-      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Calendar_Icon_Sinai_11th_century.jpg/330px-Calendar_Icon_Sinai_11th_century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Menologium"
+      "cat": "history",
+      "opener": "On this day in 1918 —",
+      "hook": "The Makhnovshchina is established.",
+      "body": "The Makhnovshchina was a mass movement to establish anarchist communism during the Ukrainian War of Independence of 1917–1921. One of those things you can't un-know.",
+      "img": null,
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Makhnovshchina"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 1840 —",
+      "hook": "Muhammad Ali of Egypt accepts the London Convention of 1840 in which he renounces his claims to Syria, Crete, and Hejaz in exchange for recognition of his hereditary rule of Egypt and Syria.",
+      "body": "Muhammad Ali was an Ottoman viceroy who became the de facto ruler of Egypt from 1805 to 1848, and is widely considered the founder of modern Egypt. The world is stranger than it lets on.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/ModernEgypt%2C_Muhammad_Ali_by_Auguste_Couder%2C_BAP_17996.jpg/330px-ModernEgypt%2C_Muhammad_Ali_by_Auguste_Couder%2C_BAP_17996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt"
+    },
+    {
+      "type": "card",
+      "cat": "history",
+      "opener": "On this day in 2009 —",
+      "hook": "Nevsky Express bombing: A bomb explodes on the Nevsky Express train between Moscow and Saint Petersburg, derailing it and causing 28 deaths and 96 injuries.",
+      "body": "The 2009 Nevsky Express bombing occurred on 27 November 2009, when an explosive was detonated below the undercarriage of a high speed train travelling between the Russian cities of Moscow and Saint Petersburg. One of those things you can't un-know.",
+      "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Ru-nrg-okulovsky_loc.svg/330px-Ru-nrg-okulovsky_loc.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "src": "Wikipedia · On this day",
+      "url": "https://en.wikipedia.org/wiki/2009_Nevsky_Express_bombing"
     },
     {
       "type": "card",
       "cat": "news",
-      "opener": "The Guardian · Film —",
-      "hook": "Amanda Seyfried needed ‘five-factor authentication’ to read You Can See Everything script but still ‘told everyone’",
-      "body": "<p>Actor who had played fraudster Elizabeth Holmes in TV drama The Dropout reveals how she was drafted in to the hit documentary ‘at the last minute’</p><p>Amanda Seyfried says that the script and footage of You Can See Everything was kept ",
-      "src": "The Guardian · Film",
-      "url": "https://www.theguardian.com/film/2026/nov/26/amanda-seyfried-you-can-see-everything-elizabeth-holmes-the-dropout"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "File under 'wait, really?' —",
-      "hook": "Scott Poland is an American licensed psychologist known for his work on suicide risk prevention and school safety.",
-      "body": "Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Scott_Poland"
-    },
-    {
-      "type": "card",
-      "cat": "books",
-      "opener": "You probably never noticed this —",
-      "hook": "Bernard Croisile is a neurologist and neuropsychologist who has been the chair of the neuropsychology department at the Neurological Hospital of Lyon, France, since 1992.",
-      "body": "Croisile has written several hundred peer-reviewed articles for scientific publications, papers, and book chapters on aging and cognition. Worth a quiet trip down the rabbit hole.",
-      "img": null,
-      "src": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bernard_Croisile"
+      "opener": "The Guardian · Culture —",
+      "hook": "The Fox review – talking animals are the least weird thing in this delightfully peculiar comedy",
+      "body": "<p>Dario Russo’s debut feature is Brothers Grimm meets Yorgos Lanthimos, with a standout cast including Olivia Colman, Sam Neill and Emily Browning</p><p>The vibe of writer-director Dario Russo’s delightfully peculiar feature debut is “mess",
+      "src": "The Guardian · Culture",
+      "url": "https://www.theguardian.com/film/2026/nov/26/the-fox-australian-movie-review-olivia-colman-sam-neill-dario-russo-emily-browning-jai-courtney"
     }
   ]
 }
